@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>			</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract v4.1.0-elag2019</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1776" HEIGHT="2528" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1776" HEIGHT="2528">
+				<TextBlock ID="block_0" HPOS="1038" VPOS="777" WIDTH="72" HEIGHT="20">
+					<TextLine ID="line_0" HPOS="1038" VPOS="777" WIDTH="72" HEIGHT="20">
+						<String ID="string_0" HPOS="1038" VPOS="779" WIDTH="11" HEIGHT="15" WC="0.67" CONTENT="5"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="block_1" HPOS="485" VPOS="772" WIDTH="713" HEIGHT="160">
+					<TextLine ID="line_1" HPOS="485" VPOS="772" WIDTH="713" HEIGHT="68">
+						<String ID="string_1" HPOS="485" VPOS="772" WIDTH="90" HEIGHT="55" WC="0.16" CONTENT="Nôs"/><SP WIDTH="30" VPOS="772" HPOS="575"/>
+						<String ID="string_2" HPOS="605" VPOS="773" WIDTH="65" HEIGHT="67" WC="0.70" CONTENT="opn"/><SP WIDTH="19" VPOS="773" HPOS="670"/>
+						<String ID="string_3" HPOS="689" VPOS="773" WIDTH="61" HEIGHT="52" WC="0.29" CONTENT="785"/><SP WIDTH="28" VPOS="773" HPOS="750"/>
+						<String ID="string_4" HPOS="778" VPOS="773" WIDTH="116" HEIGHT="49" WC="0.14" CONTENT="dxdu"/><SP WIDTH="23" VPOS="773" HPOS="894"/>
+						<String ID="string_5" HPOS="917" VPOS="774" WIDTH="52" HEIGHT="55" WC="0.52" CONTENT="@"/><SP WIDTH="29" VPOS="774" HPOS="969"/>
+						<String ID="string_6" HPOS="998" VPOS="788" WIDTH="41" HEIGHT="49" WC="0.87" CONTENT="À"/><SP WIDTH="39" VPOS="788" HPOS="1039"/>
+						<String ID="string_7" HPOS="1078" VPOS="789" WIDTH="120" HEIGHT="43" WC="0.0" CONTENT="de"/>
+					</TextLine>
+					<TextLine ID="line_2" HPOS="743" VPOS="856" WIDTH="420" HEIGHT="76">
+						<String ID="string_8" HPOS="743" VPOS="857" WIDTH="142" HEIGHT="58" WC="0.0" CONTENT="Ko?"/><SP WIDTH="37" VPOS="857" HPOS="885"/>
+						<String ID="string_9" HPOS="922" VPOS="858" WIDTH="53" HEIGHT="57" WC="0.46" CONTENT="13"/><SP WIDTH="33" VPOS="858" HPOS="975"/>
+						<String ID="string_10" HPOS="1008" VPOS="856" WIDTH="155" HEIGHT="76" WC="0.0" CONTENT="TUPAX."/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="block_2" HPOS="521" VPOS="989" WIDTH="494" HEIGHT="112">
+					<TextLine ID="line_3" HPOS="521" VPOS="989" WIDTH="494" HEIGHT="63">
+						<String ID="string_11" HPOS="521" VPOS="989" WIDTH="210" HEIGHT="60" WC="0.85" CONTENT="Epicharme"/><SP WIDTH="17" VPOS="989" HPOS="731"/>
+						<String ID="string_12" HPOS="748" VPOS="991" WIDTH="98" HEIGHT="61" WC="0.61" CONTENT="chez"/><SP WIDTH="6" VPOS="991" HPOS="846"/>
+						<String ID="string_13" HPOS="852" VPOS="993" WIDTH="163" HEIGHT="44" WC="0.88" CONTENT="Clement"/>
+					</TextLine>
+					<TextLine ID="line_4" HPOS="613" VPOS="1048" WIDTH="251" HEIGHT="53">
+						<String ID="string_14" HPOS="613" VPOS="1048" WIDTH="251" HEIGHT="53" WC="0.30" CONTENT="Alexandrine"/>
+					</TextLine>
+				</TextBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
