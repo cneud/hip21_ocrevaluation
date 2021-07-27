@@ -1,6 +1,6 @@
 # hip2021_evaluation
 
-Code and resources to ease replication of the experiments in the [HIP'21](https://blog.sbb.berlin/hip2021/) paper "A Survey of OCR Evaluation Tools and Metrics". 
+Code and resources to support replication of the experiments in the [HIP'21](https://blog.sbb.berlin/hip2021/) paper "A Survey of OCR Evaluation Tools and Metrics". 
 
 ## How to use
 
