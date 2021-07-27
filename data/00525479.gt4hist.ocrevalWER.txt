@@ -1,0 +1,197 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     222   Words
+     106   Misrecognized
+   52.25%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       1        1     0.00        1
+      35       11    68.57        2
+      37       15    59.46        3
+      21        8    61.90        4
+       2        1    50.00        5
+      96       36    62.50    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       6        6     0.00        1
+      11        9    18.18        2
+      23       19    17.39        3
+      31       14    54.84        4
+      12        5    58.33        5
+      12        5    58.33        6
+      13        4    69.23        7
+       7        3    57.14        8
+       5        1    80.00        9
+       3        1    66.67       10
+       1        1     0.00       11
+       2        2     0.00       12
+     126       70    44.44    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      79       43    45.57        1
+       9        2    77.78        2
+       2        0   100.00        3
+       1        1     0.00        4
+       2        0   100.00        5
+       1        1     0.00        9
+      94       47    50.00    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     222      106    52.25        1
+     221      144    34.84        2
+     220      170    22.73        3
+     219      186    15.07        4
+     218      198     9.17        5
+     217      207     4.61        6
+     216      211     2.31        7
+     215      212     1.40        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   all
+      11        4    63.64   and
+       1        1     0.00   any
+       1        0   100.00   are
+       1        0   100.00   as
+       2        0   100.00   at
+       2        1    50.00   be
+       1        0   100.00   but
+       4        0   100.00   by
+       1        1     0.00   do
+       2        0   100.00   for
+       2        0   100.00   from
+       1        1     0.00   he
+       1        0   100.00   his
+       1        1     0.00   i
+       3        0   100.00   in
+       3        1    66.67   is
+       2        1    50.00   it
+       1        1     0.00   its
+       1        1     0.00   know
+       2        1    50.00   man
+       2        0   100.00   many
+       1        1     0.00   may
+       2        1    50.00   me
+       3        1    66.67   my
+       2        1    50.00   no
+       1        0   100.00   not
+       1        1     0.00   now
+       3        2    33.33   of
+       1        0   100.00   other
+       2        0   100.00   our
+       6        3    50.00   that
+       6        3    50.00   the
+       1        0   100.00   them
+       1        0   100.00   then
+       2        0   100.00   they
+       1        0   100.00   this
+       5        1    80.00   to
+       1        0   100.00   us
+       1        0   100.00   was
+       1        1     0.00   were
+       1        0   100.00   when
+       1        1     0.00   which
+       1        1     0.00   with
+       4        2    50.00   you
+       2        2     0.00   your
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   1
+       1        1     0.00   13
+       1        1     0.00   21
+       1        1     0.00   24
+       1        1     0.00   33
+       1        1     0.00   34
+       1        1     0.00   39
+       1        1     0.00   4
+       1        1     0.00   5
+       1        1     0.00   abſurdities
+       1        1     0.00   am
+       1        0   100.00   anſwered
+       1        1     0.00   apo
+       1        0   100.00   arguments
+       1        1     0.00   ated
+       2        1    50.00   becauſe
+       1        0   100.00   being
+       1        0   100.00   believers
+       1        1     0.00   believing
+       1        0   100.00   betake
+       1        0   100.00   cares
+       4        4     0.00   chri
+       1        1     0.00   chriﬆ
+       2        0   100.00   come
+       1        0   100.00   command
+       1        0   100.00   conference
+       2        1    50.00   day
+       3        0   100.00   deceive
+       1        1     0.00   deceived
+       1        1     0.00   denied
+       1        0   100.00   doe
+       1        0   100.00   done
+       1        1     0.00   drunkenneſs
+       1        0   100.00   ed
+       1        0   100.00   evil
+       1        1     0.00   faith
+       1        0   100.00   fall
+       1        0   100.00   falling
+       2        0   100.00   falſe
+       1        1     0.00   fir
+       2        1    50.00   grace
+       1        0   100.00   having
+       1        1     0.00   hearts
+       5        3    40.00   heed
+       1        1     0.00   lea
+       1        1     0.00   les
+       1        0   100.00   life
+       1        0   100.00   lord
+       1        1     0.00   lu
+       1        1     0.00   ly
+       1        1     0.00   m
+       1        1     0.00   mark
+       1        1     0.00   mat
+       1        0   100.00   men
+       1        0   100.00   might
+       1        0   100.00   name
+       1        1     0.00   overcharged
+       1        0   100.00   plain
+       1        1     0.00   plainly
+       1        0   100.00   pray
+       1        1     0.00   propo
+       1        0   100.00   proved
+       3        1    66.67   reaſon
+       1        0   100.00   reaſons
+       1        0   100.00   remains
+       1        1     0.00   rine
+       2        2     0.00   s
+       5        3    40.00   take
+       1        0   100.00   teach
+       1        0   100.00   therefore
+       2        0   100.00   theſe
+       1        0   100.00   thirteen
+       2        0   100.00   time
+       1        1     0.00   tion
+       1        0   100.00   truly
+       1        1     0.00   unawares
+       1        0   100.00   unto
+       1        0   100.00   upon
+       1        1     0.00   watch
+       1        1     0.00   withﬆand
+       1        0   100.00   ye
+       1        1     0.00   yee
+       1        1     0.00   yet
+       1        0   100.00   ſaying
+       1        0   100.00   ſayings
+       1        1     0.00   ſelf
+       1        1     0.00   ſelves
+       2        2     0.00   ſhall
+       1        1     0.00   ſhewn
+       1        0   100.00   ſo
+       1        0   100.00   ſurfeting
+       9        9     0.00   
+       1        1     0.00   
+       1        1     0.00   

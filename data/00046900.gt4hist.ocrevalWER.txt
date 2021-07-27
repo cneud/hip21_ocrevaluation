@@ -1,0 +1,145 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     133   Words
+      64   Misrecognized
+   51.88%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       3        3     0.00        1
+       6        4    33.33        2
+       9        7    22.22    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       3        3     0.00        1
+      19       14    26.32        2
+      49       24    51.02        3
+      11        4    63.64        4
+      14        2    85.71        5
+      11        3    72.73        6
+       7        1    85.71        7
+       2        1    50.00        8
+       3        3     0.00        9
+       3        1    66.67       10
+       1        0   100.00       11
+       1        1     0.00       12
+     124       57    54.03    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      68       27    60.29        1
+      13        5    61.54        2
+       4        1    75.00        3
+       1        0   100.00        4
+       1        1     0.00      >10
+      87       34    60.92    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     133       64    51.88        1
+     132       85    35.61        2
+     131      101    22.90        3
+     130      109    16.15        4
+     129      116    10.08        5
+     128      121     5.47        6
+     127      123     3.15        7
+     126      124     1.59        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        1    50.00   an
+       1        1     0.00   at
+       2        2     0.00   do
+       3        3     0.00   i
+       1        0   100.00   so
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   aber
+       1        1     0.00   abſ
+       1        0   100.00   armer
+       1        0   100.00   außrotten
+       1        1     0.00   da
+       1        0   100.00   darob
+       1        0   100.00   darzu
+       3        0   100.00   das
+       2        1    50.00   de
+       1        0   100.00   dem
+       3        0   100.00   den
+       3        1    66.67   der
+       2        0   100.00   die
+       1        1     0.00   dien
+       1        0   100.00   diener
+       2        0   100.00   dieſe
+       2        0   100.00   dieſem
+       1        1     0.00   e
+       1        0   100.00   eine
+       1        0   100.00   einfeltige
+       1        0   100.00   einfeltiger
+       3        3     0.00   en
+       1        1     0.00   er
+       1        1     0.00   erinue
+       1        0   100.00   es
+       2        2     0.00   etli
+       1        1     0.00   ew
+       1        1     0.00   fel
+       2        0   100.00   ge
+       1        0   100.00   gegeben
+       1        0   100.00   gen
+       1        0   100.00   getragen
+       1        0   100.00   gewalt
+       1        0   100.00   gott
+       1        1     0.00   gottes
+       1        0   100.00   hab
+       1        1     0.00   helﬀe
+       1        0   100.00   ho
+       1        1     0.00   je
+       1        0   100.00   kennen
+       1        1     0.00   kir
+       1        0   100.00   kleider
+       1        1     0.00   kraußteuf
+       1        0   100.00   krone
+       1        0   100.00   larue
+       1        0   100.00   legt
+       1        0   100.00   lernen
+       1        1     0.00   li
+       1        0   100.00   linge
+       1        1     0.00   ma
+       1        1     0.00   mi
+       2        0   100.00   mit
+       2        2     0.00   na
+       1        1     0.00   ni
+       1        0   100.00   nider
+       1        0   100.00   pauß
+       1        1     0.00   pluder
+       1        1     0.00   regie
+       1        0   100.00   ret
+       1        0   100.00   rung
+       1        0   100.00   scepter
+       2        2     0.00   t
+       1        0   100.00   tag
+       1        1     0.00   teuﬀel
+       1        1     0.00   teuﬀels
+       2        1    50.00   tra
+       4        0   100.00   vnd
+       1        0   100.00   vnnd
+       1        1     0.00   vnter
+       1        0   100.00   vorrede
+       1        0   100.00   weiß
+       1        0   100.00   wer
+       1        0   100.00   werden
+       1        0   100.00   wider
+       1        0   100.00   wiewol
+       1        0   100.00   wirds
+       2        0   100.00   wol
+       1        1     0.00   zerlumpte
+       1        1     0.00   zuſammen
+       1        0   100.00   ſein
+       1        0   100.00   ſen
+       1        1     0.00   ſenteuﬀel
+       2        2     0.00   
+       2        2     0.00   
+       1        1     0.00   
+       1        1     0.00   
+      14       14     0.00   

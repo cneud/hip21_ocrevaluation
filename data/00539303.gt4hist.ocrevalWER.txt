@@ -1,0 +1,180 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     199   Words
+      77   Misrecognized
+   61.31%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       5        0   100.00        1
+       5        4    20.00        2
+       2        1    50.00        3
+      12        5    58.33    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       1        0   100.00        1
+      41        8    80.49        2
+      51       20    60.78        3
+      26        7    73.08        4
+      24       11    54.17        5
+       9        3    66.67        6
+       6        2    66.67        7
+       9        7    22.22        8
+       7        6    14.29        9
+       8        5    37.50       10
+       3        2    33.33       11
+       1        1     0.00       12
+       1        0   100.00       13
+     187       72    61.50    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      89       44    50.56        1
+      13        3    76.92        2
+       4        3    25.00        3
+       3        1    66.67        4
+       3        0   100.00        5
+       1        0   100.00        6
+       1        0   100.00        7
+       1        0   100.00        9
+       1        0   100.00      >10
+     116       51    56.03    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     199       77    61.31        1
+     198      115    41.92        2
+     197      136    30.96        3
+     196      154    21.43        4
+     195      164    15.90        5
+     194      170    12.37        6
+     193      174     9.84        7
+     192      178     7.29        8
+
+Stopwords
+   Count   Missed   %Right   
+       5        0   100.00   a
+       3        3     0.00   be
+       2        1    50.00   had
+       1        0   100.00   in
+       1        1     0.00   of
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   220
+       1        0   100.00   222
+       1        1     0.00   224
+       1        0   100.00   226
+       1        0   100.00   228
+       1        1     0.00   2i3
+       1        1     0.00   aan
+       1        0   100.00   aangevoerd
+       1        0   100.00   al
+       1        1     0.00   alles
+       1        1     0.00   apo
+       2        0   100.00   apos
+       1        0   100.00   apostoliſche
+       1        0   100.00   beelden
+       1        0   100.00   begrip
+       1        1     0.00   beweer
+       4        4     0.00   bewijzen
+       1        1     0.00   bijnamen
+       1        1     0.00   bijte
+       6        0   100.00   bl
+       1        0   100.00   brengen
+       1        1     0.00   brie
+       3        3     0.00   brief
+       1        0   100.00   brieven
+       1        0   100.00   christenen
+       1        0   100.00   daar
+       9        1    88.89   dat
+      11        0   100.00   de
+       5        0   100.00   den
+       1        1     0.00   denk
+       1        0   100.00   der
+       1        1     0.00   derzelver
+       1        0   100.00   dit
+       1        1     0.00   doe
+       2        0   100.00   door
+       1        0   100.00   drie
+       1        0   100.00   eertitulen
+       1        1     0.00   eigenlijk
+       1        0   100.00   einde
+       1        1     0.00   ematiſche
+       2        0   100.00   en
+       1        0   100.00   er
+       1        0   100.00   erkennen
+       1        0   100.00   gaven
+       1        1     0.00   gebruikt
+       4        0   100.00   geen
+       1        1     0.00   gemeenten
+       1        1     0.00   gemeinten
+       1        1     0.00   gezegd
+       1        0   100.00   goeden
+       1        0   100.00   handelingen
+       1        1     0.00   heeft
+       3        3     0.00   het
+       1        0   100.00   hier
+       2        2     0.00   hij
+       1        0   100.00   houdt
+       5        0   100.00   hr
+       1        1     0.00   hunne
+       7        6    14.29   ik
+       1        1     0.00   kunnen
+       1        1     0.00   kwa
+       1        0   100.00   mede
+       1        0   100.00   meer
+       2        0   100.00   met
+       1        1     0.00   mijzelven
+       1        0   100.00   moest
+       2        0   100.00   moeten
+       1        1     0.00   nalaten
+       1        0   100.00   negen
+       2        0   100.00   niet
+       1        1     0.00   oliſche
+       2        0   100.00   om
+       1        1     0.00   omtekeeren
+       1        1     0.00   ondanks
+       1        1     0.00   onden
+       1        0   100.00   ont
+       1        1     0.00   oor
+       2        1    50.00   op
+       1        1     0.00   regt
+       1        1     0.00   sy
+       1        0   100.00   t
+       3        0   100.00   te
+       5        0   100.00   tegen
+       2        0   100.00   telen
+       1        1     0.00   tenzelfden
+       1        0   100.00   toe
+       4        1    75.00   uit
+       2        0   100.00   van
+       1        0   100.00   ven
+       1        0   100.00   volgende
+       1        1     0.00   voor
+       1        1     0.00   voorreden
+       1        1     0.00   vĳftienden
+       1        0   100.00   want
+       1        1     0.00   wederleggen
+       1        0   100.00   wederom
+       1        0   100.00   welken
+       1        0   100.00   wij
+       1        0   100.00   wijs
+       1        0   100.00   wil
+       1        0   100.00   xxix
+       1        0   100.00   zegge
+       1        1     0.00   zelfs
+       1        1     0.00   zestienden
+       1        1     0.00   zeventienden
+       1        0   100.00   zien
+       2        2     0.00   zijn
+       1        1     0.00   zijne
+       1        1     0.00   zijns
+       2        2     0.00   zoo
+       1        0   100.00   zullen
+       1        1     0.00   zwak
+       1        1     0.00   ſchriften
+       1        0   100.00   ſchrijve
+       3        3     0.00   
+       1        1     0.00   

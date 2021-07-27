@@ -1,0 +1,181 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1513   Characters
+     597   Errors
+   60.54%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   60.54%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     217      128      252      597   Unmarked
+     217      128      252      597   Total
+
+   Count   Missed   %Right
+     287       53    81.53   ASCII Spacing Characters
+      83       33    60.24   ASCII Special Symbols
+      42       30    28.57   ASCII Digits
+      44       14    68.18   ASCII Uppercase Letters
+    1002      160    84.03   ASCII Lowercase Letters
+      29       29     0.00   Latin Extended-A
+       6        6     0.00   General Punctuation
+      15       15     0.00   Private Use Area
+       5        5     0.00   Alphabetic Presentation Forms
+    1513      345    77.20   Total
+
+  Errors   Marked   Correct-Generated
+      53        0   {the Lord, then nothing c...}-{Ab}
+      50        0   {If neither nne, nor ...}-{Wy}
+      41        0   {ſ}-{either finne, nor fuffer...}
+      36        0   {ng 35,36.ve. and conclud...}-{}
+      30        0   {that nothing can ſepera...}-{}
+      20        0   {21}-{Pe ee ae reassert Ls}
+      18        0   {ſ}-{f}
+      15        0   {h}-{ not bing can f}
+      14        0   {}-{ chip. 9 2% 1!}
+      13        0   {39. for ſuﬀer}-{}
+      12        0   {m.2.12.<\n>M}-{ng can feper}
+      12        0   {}-{ . - are 3 |}
+      12        0   {}-{ ga time-12:}
+      12        0   {}-{ tioke tz, 8}
+      12        0   {}-{ft}
+      11        0   {}-{ nom. 2.39%}
+      10        0   {}-{oncluds th}
+       9        0   { }-{}
+       9        0   {.10}-{e ws, for}
+       9        0   {T}-{then noth}
+       9        0   {}-{ nar. 33.}
+       9        0   {}-{peratens.}
+       8        0   {.}-{ 38, 39:}
+       8        0   {all}-{orfuffer}
+       8        0   {g}-{om Grace}
+       8        0   {p. 9 26.}-{}
+       7        0   { 12. 8.}-{:<\n>4}
+       7        0   {6.}-{falling}
+       6        0   {.}-{s from}
+       6        0   {from}-{35,36-}
+       5        0   {. 38.}-{:}
+       5        0   {2}-{Lord,}
+       5        0   {Gr}-{Us. ‘}
+       5        0   {Mar. }-{1}
+       5        0   {b Luk}-{th}
+       5        0   {‑}-{-}
+       4        0   {33.<\n>}-{fin }
+       4        0   {ul}-{n!}
+       4        0   {ﬀ}-{ff}
+       3        0   { vi}-{y'}
+       3        0   {&c}-{ave}
+       3        0   {A}-{If }
+       3        0   {a}-{the}
+       3        0   {}-{nd }
+       3        0   {}-{sha}
+       2        0   { ſ}-{f}
+       2        0   { }-{fi}
+       2        0   {(a}-{C4}
+       2        0   {I }-{L}
+       2        0   {ch}-{}
+       2        0   {i‑}-{7-}
+       2        0   {m}-{as}
+       2        0   {n}-{a}
+       2        0   {o}-{ce}
+       2        0   {}-{ .}
+       2        0   {}-{ |}
+       2        0   {}-{‘}
+       2        0   {ſh}-{fo}
+       2        0   {ſh}-{f}
+       2        0   {ſ}-{‘{}
+       2        0   {}-{tt}
+       2        0   {n}-{fi}
+       2        0   {}-{fi}
+       2        0   {}-{ff}
+       2        0   {}-{fi}
+       2        0   {}-{fl}
+       2        0   {ﬁ}-{fi}
+       1        0   { }-{-}
+       1        0   {(}-{¢}
+       1        0   {,}-{?}
+       1        0   {.}-{,}
+       1        0   {<\n>}-{ }
+       1        0   {A}-{f}
+       1        0   {I}-{1}
+       1        0   {I}-{O}
+       1        0   {P}-{p}
+       1        0   {[}-{}
+       1        0   {e}-{c}
+       1        0   {g}-{‘}
+       1        0   {h}-{b}
+       1        0   {m}-{n}
+       1        0   {m}-{u}
+       1        0   {t}-{s}
+       1        0   {}-{ }
+       1        0   {}-{<\n>}
+       1        0   {ſ}-{/}
+
+   Count   Missed   %Right
+      43        4    90.70   {<\n>}
+     244       49    79.92   { }
+       1        1     0.00   {&}
+       2        2     0.00   {(}
+       2        0   100.00   {)}
+      33        6    81.82   {,}
+      41       23    43.90   {.}
+       1        1     0.00   {0}
+       6        4    33.33   {1}
+       8        6    25.00   {2}
+      11        8    27.27   {3}
+       2        1    50.00   {5}
+       3        3     0.00   {6}
+       7        4    42.86   {8}
+       4        3    25.00   {9}
+       1        0   100.00   {:}
+       1        0   100.00   {;}
+       6        2    66.67   {A}
+       1        0   100.00   {B}
+       1        0   100.00   {C}
+       4        0   100.00   {F}
+       3        1    66.67   {G}
+       6        4    33.33   {I}
+       2        2     0.00   {L}
+       2        2     0.00   {M}
+       1        0   100.00   {O}
+       3        1    66.67   {P}
+       2        1    50.00   {R}
+       6        0   100.00   {S}
+       7        1    85.71   {T}
+       1        1     0.00   {[}
+       1        0   100.00   {]}
+      83       12    85.54   {a}
+       8        1    87.50   {b}
+      17        7    58.82   {c}
+      35        3    91.43   {d}
+     138       19    86.23   {e}
+      38        5    86.84   {f}
+      21        6    71.43   {g}
+      73       12    83.56   {h}
+      65        6    90.77   {i}
+       4        1    75.00   {k}
+      46        5    89.13   {l}
+      33        7    78.79   {m}
+      84       20    76.19   {n}
+      72       11    84.72   {o}
+      20        4    80.00   {p}
+      70       14    80.00   {r}
+      16        4    75.00   {s}
+      93       12    87.10   {t}
+      29        9    68.97   {u}
+       8        2    75.00   {v}
+      23        0   100.00   {w}
+       2        0   100.00   {x}
+      23        0   100.00   {y}
+       1        0   100.00   {z}
+      29       29     0.00   {ſ}
+       6        6     0.00   {‑}
+       7        7     0.00   {}
+       5        5     0.00   {}
+       3        3     0.00   {}
+       4        4     0.00   {ﬀ}
+       1        1     0.00   {ﬁ}

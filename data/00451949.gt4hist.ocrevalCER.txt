@@ -1,0 +1,142 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1487   Characters
+     285   Errors
+   80.83%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   80.83%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     112       85       88      285   Unmarked
+     112       85       88      285   Total
+
+   Count   Missed   %Right
+     276       42    84.78   ASCII Spacing Characters
+      51       10    80.39   ASCII Special Symbols
+       2        2     0.00   ASCII Digits
+      59       23    61.02   ASCII Uppercase Letters
+    1022       74    92.76   ASCII Lowercase Letters
+      24       13    45.83   Latin1 Lowercase Letters
+      22        2    90.91   Latin Extended-A
+      11       11     0.00   General Punctuation
+      20       20     0.00   Private Use Area
+    1487      197    86.75   Total
+
+  Errors   Marked   Correct-Generated
+      54        0   {L'HOMME.}-{atti-<\n>rons & renuoyon...}
+      25        0   { }-{}
+      24        0   { que air que nous att...}-{}
+      23        0   {}-{DE LESVRITDELHOMME. 25...}
+      22        0   {ation ; on la puis<\n>ap...}-{}
+      18        0   {rons & renuoyons d}-{}
+      12        0   {}-{ſt}
+       9        0   {ns la reſ}-{}
+       9        0   {‑}-{-}
+       8        0   {L'ESPRIT}-{lair que}
+       7        0   {preſque}-{Ei}
+       6        0   {'e}-{eſt}
+       4        0   {DE}-{nous}
+       3        0   {25<\n>}-{—<\n>—}
+       3        0   {DE}-{que}
+       3        0   {LL}-{·el}
+       3        0   {r}-{t}
+       3        0   {sée}-{o}
+       3        0   {‑}-{ſi-}
+       3        0   {e}-{d'c}
+       3        0   {é}-{d'e}
+       2        0   {'}-{}
+       2        0   {; }-{I}
+       2        0   {PI}-{V}
+       2        0   {é}-{e}
+       2        0   {é}-{ẽ}
+       2        0   {û}-{ũ}
+       2        0   {é}-{ſt}
+       2        0   {}-{ſſ}
+       2        0   {}-{ct}
+       2        0   {}-{d }
+       2        0   {}-{d'}
+       1        0   {T}-{V}
+       1        0   {V}-{v}
+       1        0   {e}-{c}
+       1        0   {e}-{ẽ}
+       1        0   {i}-{}
+       1        0   {i}-{ĩ}
+       1        0   {l}-{}
+       1        0   {l}-{ſ}
+       1        0   {u}-{ü}
+       1        0   {}-{V}
+       1        0   {}-{i}
+       1        0   {ç}-{g}
+       1        0   {é}-{c}
+       1        0   {é}-{}
+       1        0   {é}-{õ}
+       1        0   {}-{d}
+       1        0   {}-{E}
+       1        0   {}-{l}
+
+   Count   Missed   %Right
+      33        2    93.94   {<\n>}
+     243       40    83.54   { }
+      11        1    90.91   {&}
+      12        6    50.00   {'}
+      18        0   100.00   {,}
+       2        1    50.00   {.}
+       1        1     0.00   {2}
+       1        1     0.00   {5}
+       2        0   100.00   {:}
+       6        2    66.67   {;}
+       3        0   100.00   {A}
+       1        0   100.00   {B}
+       3        0   100.00   {C}
+       4        2    50.00   {D}
+      10        4    60.00   {E}
+       1        1     0.00   {H}
+       8        2    75.00   {I}
+       4        4     0.00   {L}
+       2        2     0.00   {M}
+       2        0   100.00   {N}
+       2        1    50.00   {O}
+       5        2    60.00   {P}
+       2        1    50.00   {R}
+       7        1    85.71   {S}
+       3        2    33.33   {T}
+       2        1    50.00   {V}
+      60        6    90.00   {a}
+       6        0   100.00   {b}
+      38        0   100.00   {c}
+      35        1    97.14   {d}
+     192       12    93.75   {e}
+       6        0   100.00   {f}
+       8        0   100.00   {g}
+       1        0   100.00   {h}
+      76        6    92.11   {i}
+      45        4    91.11   {l}
+      29        0   100.00   {m}
+      91        7    92.31   {n}
+      68        6    91.18   {o}
+      40        3    92.50   {p}
+      26        3    88.46   {q}
+      79        9    88.61   {r}
+      63        6    90.48   {s}
+      70        3    95.71   {t}
+      81        7    91.36   {u}
+       5        0   100.00   {v}
+       2        0   100.00   {x}
+       1        1     0.00   {y}
+       7        0   100.00   {à}
+       1        1     0.00   {ç}
+      14       10    28.57   {é}
+       2        2     0.00   {û}
+      22        2    90.91   {ſ}
+      11       11     0.00   {‑}
+       9        9     0.00   {}
+       1        1     0.00   {}
+       1        1     0.00   {}
+       1        1     0.00   {}
+       5        5     0.00   {}
+       3        3     0.00   {}

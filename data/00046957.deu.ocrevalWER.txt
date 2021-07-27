@@ -1,0 +1,186 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     229   Words
+     137   Misrecognized
+   40.17%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       1        1     0.00        1
+       4        0   100.00        2
+       3        1    66.67        3
+       8        2    75.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      18       17     5.56        1
+      43       35    18.60        2
+      91       53    41.76        3
+      22       12    45.45        4
+      16        5    68.75        5
+      16        6    62.50        6
+       5        1    80.00        7
+       6        3    50.00        8
+       2        1    50.00        9
+       1        1     0.00       12
+       1        1     0.00       14
+     221      135    38.91    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      92       53    42.39        1
+      16        4    75.00        2
+       6        3    50.00        3
+       2        2     0.00        4
+       3        1    66.67        5
+       3        2    33.33        6
+       2        2     0.00        7
+       1        0   100.00        8
+       1        1     0.00      >10
+     126       68    46.03    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     229      137    40.17        1
+     228      178    21.93        2
+     227      202    11.01        3
+     226      216     4.42        4
+     225      222     1.33        5
+     224      223     0.45        6
+     223      223     0.00        7
+     222      222     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       4        0   100.00   in
+       3        1    66.67   man
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   als
+       1        0   100.00   andreas
+       1        1     0.00   ar
+       1        1     0.00   au
+       1        0   100.00   aus
+       1        1     0.00   ba
+       1        0   100.00   befohlen
+       1        0   100.00   d
+       2        2     0.00   da
+       6        0   100.00   das
+       2        0   100.00   dem
+       2        0   100.00   den
+       5        1    80.00   der
+       2        0   100.00   die
+       7        7     0.00   e
+       1        1     0.00   ehet
+       2        0   100.00   ein
+       1        0   100.00   einem
+       1        0   100.00   einen
+       1        0   100.00   einer
+       1        1     0.00   eiﬀ
+       1        1     0.00   elbige
+       1        1     0.00   em
+       6        6     0.00   en
+       5        1    80.00   er
+       3        1    66.67   es
+       3        3     0.00   et
+       1        0   100.00   etwa
+       1        1     0.00   eußli
+       1        0   100.00   frommer
+       2        1    50.00   gar
+       1        1     0.00   ge
+       1        0   100.00   geben
+       1        1     0.00   geden
+       1        0   100.00   gedoppelt
+       1        1     0.00   gekr
+       1        0   100.00   gemahlet
+       1        1     0.00   geri
+       1        0   100.00   gezeug
+       1        0   100.00   geſagt
+       1        1     0.00   gottf
+       1        1     0.00   gro
+       1        0   100.00   groſ
+       3        1    66.67   habe
+       2        0   100.00   heraus
+       1        1     0.00   hette
+       2        1    50.00   heßli
+       1        1     0.00   hi
+       1        1     0.00   hinden
+       1        1     0.00   ho
+       1        0   100.00   hoſen
+       1        1     0.00   hoſenteuﬀel
+       1        1     0.00   j
+       1        1     0.00   je
+       1        1     0.00   jhm
+       2        1    50.00   jhn
+       1        1     0.00   k
+       1        1     0.00   kaum
+       1        1     0.00   kopﬀ
+       1        0   100.00   kraus
+       1        0   100.00   krauſen
+       1        1     0.00   ku
+       1        1     0.00   la
+       1        1     0.00   lei
+       1        0   100.00   lete
+       1        1     0.00   li
+       2        2     0.00   ma
+       1        0   100.00   mah
+       2        0   100.00   mahlen
+       3        1    66.67   mahler
+       1        1     0.00   mahlete
+       1        1     0.00   men
+       1        0   100.00   mus
+       1        1     0.00   muſculus
+       1        1     0.00   nd
+       1        1     0.00   ng
+       2        2     0.00   ni
+       1        0   100.00   oder
+       1        0   100.00   ohren
+       1        1     0.00   orien
+       1        1     0.00   pluderhoſen
+       1        1     0.00   r
+       1        0   100.00   ragen
+       1        1     0.00   rei
+       1        0   100.00   ret
+       1        1     0.00   sa
+       1        1     0.00   sol
+       6        6     0.00   t
+       1        0   100.00   te
+       3        3     0.00   teuﬀel
+       1        1     0.00   thue
+       1        1     0.00   ti
+       1        0   100.00   tiger
+       1        0   100.00   truge
+       1        1     0.00   vber
+       1        0   100.00   viel
+       8        1    87.50   vnd
+       1        0   100.00   vnnd
+       1        1     0.00   vnre
+       1        0   100.00   von
+       1        0   100.00   weit
+       1        0   100.00   wenn
+       2        0   100.00   wie
+       1        0   100.00   wol
+       1        1     0.00   z
+       1        0   100.00   zeit
+       2        1    50.00   zu
+       1        1     0.00   zuge
+       1        1     0.00   ß
+       1        1     0.00   ſ
+       1        0   100.00   ſein
+       1        0   100.00   ſeinem
+       1        1     0.00   ſen
+       1        1     0.00   ſey
+       2        0   100.00   ſo
+       1        1     0.00   ſol
+       1        0   100.00   ſolte
+       3        3     0.00   
+       2        2     0.00   
+       7        7     0.00   
+       4        4     0.00   
+       4        4     0.00   
+       5        5     0.00   
+       1        1     0.00   
+       1        1     0.00   
+      16       16     0.00   

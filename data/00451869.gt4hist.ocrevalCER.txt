@@ -1,0 +1,61 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+      77   Characters
+      72   Errors
+    6.49%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+    6.49%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      15       53        4       72   Unmarked
+      15       53        4       72   Total
+
+   Count   Missed   %Right
+      14        7    50.00   ASCII Spacing Characters
+       1        1     0.00   ASCII Special Symbols
+       5        5     0.00   ASCII Uppercase Letters
+      27       25     7.41   ASCII Lowercase Letters
+      30       30     0.00   Specials
+      77       68    11.69   Total
+
+  Errors   Marked   Correct-Generated
+      15        0   {K��� ��� �...}-{Alexandrin.}
+      11        0   {Alexandrin.}-{—— * ——}
+      11        0   {N�� ��� ��...}-{Epicharme}
+       8        0   {� � ����}-{Clemeut}
+       7        0   {Clement}-{αæ τιι}
+       7        0   {charme}-{i pi is}
+       5        0   {�����}-{che}
+       3        0   {Ep}-{8<\n>N}
+       3        0   {hez}-{ÿ.}
+       2        0   {}-{dx}
+
+   Count   Missed   %Right
+       4        1    75.00   {<\n>}
+      10        6    40.00   { }
+       1        1     0.00   {.}
+       1        1     0.00   {A}
+       1        1     0.00   {C}
+       1        1     0.00   {E}
+       1        1     0.00   {K}
+       1        1     0.00   {N}
+       2        2     0.00   {a}
+       2        1    50.00   {c}
+       1        1     0.00   {d}
+       5        5     0.00   {e}
+       2        2     0.00   {h}
+       2        1    50.00   {i}
+       2        2     0.00   {l}
+       2        2     0.00   {m}
+       3        3     0.00   {n}
+       1        1     0.00   {p}
+       2        2     0.00   {r}
+       1        1     0.00   {t}
+       1        1     0.00   {x}
+       1        1     0.00   {z}
+      30       30     0.00   {�}

@@ -1,0 +1,182 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     239   Words
+     123   Misrecognized
+   48.54%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       5        5     0.00        1
+       3        1    66.67        2
+       8        6    25.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      15       14     6.67        1
+      39       28    28.21        2
+     104       55    47.12        3
+      16        5    68.75        4
+      23        7    69.57        5
+      20        3    85.00        6
+       3        1    66.67        7
+       9        2    77.78        8
+       1        1     0.00        9
+       1        1     0.00       11
+     231      117    49.35    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      85       37    56.47        1
+      17        6    64.71        2
+       9        4    55.56        3
+       1        0   100.00        4
+       1        0   100.00        5
+       2        2     0.00        6
+       2        1    50.00        7
+       2        1    50.00        8
+       1        0   100.00        9
+       1        1     0.00      >10
+     121       52    57.02    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     239      123    48.54        1
+     238      161    32.35        2
+     237      181    23.63        3
+     236      193    18.22        4
+     235      203    13.62        5
+     234      211     9.83        6
+     233      216     7.30        7
+     232      220     5.17        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        2     0.00   a
+       1        0   100.00   he
+       3        3     0.00   i
+       1        0   100.00   in
+       1        1     0.00   on
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   6
+       2        0   100.00   alſo
+       2        0   100.00   am
+       2        0   100.00   andern
+       2        2     0.00   au
+       1        0   100.00   auß
+       1        1     0.00   auﬀerzo
+       1        0   100.00   bis
+       1        0   100.00   cla
+       1        1     0.00   d
+       3        0   100.00   da
+       1        1     0.00   darna
+       1        0   100.00   darzu
+       2        0   100.00   das
+       1        0   100.00   dem
+       3        0   100.00   den
+       2        0   100.00   denn
+       7        0   100.00   der
+       8        0   100.00   die
+       1        0   100.00   dis
+       3        3     0.00   e
+       1        0   100.00   ein
+       1        1     0.00   eingeliebet
+       7        7     0.00   en
+       1        1     0.00   endli
+       3        3     0.00   er
+       1        0   100.00   erbar
+       1        1     0.00   erge
+       1        0   100.00   erger
+       2        1    50.00   es
+       1        1     0.00   et
+       1        1     0.00   ezeit
+       1        0   100.00   fein
+       1        0   100.00   fen
+       1        1     0.00   freyli
+       1        1     0.00   fur
+       2        1    50.00   ge
+       1        1     0.00   gefa
+       1        0   100.00   gegangen
+       1        0   100.00   geholf
+       1        0   100.00   gemeldet
+       1        0   100.00   gen
+       1        0   100.00   geneſ
+       1        1     0.00   genommen
+       1        1     0.00   gepu
+       1        0   100.00   geweſen
+       1        1     0.00   geſe
+       1        1     0.00   geſehen
+       1        1     0.00   glo
+       1        0   100.00   gott
+       3        0   100.00   gottes
+       1        0   100.00   greten
+       2        0   100.00   haben
+       1        0   100.00   hans
+       2        0   100.00   hat
+       1        0   100.00   hei
+       2        0   100.00   heiligen
+       1        0   100.00   heraus
+       1        0   100.00   herein
+       1        1     0.00   iij
+       1        1     0.00   kerte
+       1        0   100.00   kin
+       4        0   100.00   kinder
+       1        1     0.00   kommen
+       2        2     0.00   le
+       1        0   100.00   legt
+       1        0   100.00   ligen
+       1        0   100.00   men
+       2        2     0.00   menſ
+       1        0   100.00   mit
+       1        1     0.00   mu
+       3        2    33.33   na
+       1        0   100.00   naema
+       1        1     0.00   nd
+       1        1     0.00   ni
+       1        0   100.00   oben
+       1        0   100.00   ohne
+       1        1     0.00   pra
+       1        1     0.00   pu
+       1        0   100.00   rande
+       1        0   100.00   raus
+       1        1     0.00   re
+       1        0   100.00   retlin
+       1        1     0.00   ri
+       1        1     0.00   s
+       1        0   100.00   sondern
+       8        8     0.00   t
+       1        1     0.00   tempel
+       1        1     0.00   ter
+       1        1     0.00   tern
+       1        1     0.00   v
+       1        0   100.00   venus
+       1        0   100.00   ver
+       9        0   100.00   vnd
+       1        0   100.00   vnter
+       1        1     0.00   wa
+       2        0   100.00   waren
+       1        0   100.00   weibern
+       1        1     0.00   wel
+       1        0   100.00   welt
+       1        0   100.00   widerumb
+       5        0   100.00   wie
+       1        0   100.00   wolten
+       1        0   100.00   wor
+       1        0   100.00   worden
+       3        0   100.00   zu
+       1        0   100.00   zugangen
+       2        2     0.00   ſ
+       1        0   100.00   ſagt
+       1        0   100.00   ſein
+       1        1     0.00   ſol
+       1        1     0.00   
+       1        1     0.00   
+       6        6     0.00   
+       6        6     0.00   
+       2        2     0.00   
+       2        2     0.00   
+       3        3     0.00   
+       3        3     0.00   
+      25       25     0.00   
+       1        1     0.00   ﬂerli

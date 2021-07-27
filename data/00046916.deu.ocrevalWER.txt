@@ -1,0 +1,185 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     243   Words
+     164   Misrecognized
+   32.51%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       5        5     0.00        1
+       6        4    33.33        2
+      11        9    18.18    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      26       26     0.00        1
+      35       31    11.43        2
+     104       72    30.77        3
+      17        7    58.82        4
+      13        7    46.15        5
+      20        5    75.00        6
+       5        2    60.00        7
+       8        3    62.50        8
+       1        1     0.00        9
+       2        1    50.00       10
+       1        0   100.00       11
+     232      155    33.19    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      90       41    54.44        1
+      17        9    47.06        2
+       5        4    20.00        3
+       1        0   100.00        4
+       2        1    50.00        5
+       1        1     0.00        6
+       3        3     0.00        7
+       2        1    50.00        9
+       2        2     0.00      >10
+     123       62    49.59    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     243      164    32.51        1
+     242      200    17.36        2
+     241      218     9.54        3
+     240      228     5.00        4
+     239      232     2.93        5
+     238      233     2.10        6
+     237      234     1.27        7
+     236      234     0.85        8
+
+Stopwords
+   Count   Missed   %Right   
+       4        4     0.00   a
+       1        0   100.00   an
+       1        1     0.00   be
+       1        1     0.00   i
+       1        0   100.00   in
+       3        3     0.00   we
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   ab
+       1        1     0.00   al
+       1        0   100.00   andere
+       1        0   100.00   anzu
+       1        0   100.00   arm
+       2        2     0.00   au
+       1        1     0.00   auﬀ
+       2        1    50.00   bald
+       1        0   100.00   ben
+       2        0   100.00   bey
+       1        0   100.00   blei
+       1        0   100.00   broten
+       1        0   100.00   damit
+       1        0   100.00   daraus
+       1        0   100.00   darumb
+       1        0   100.00   das
+       1        1     0.00   de
+       1        0   100.00   dem
+       3        0   100.00   den
+       1        0   100.00   derer
+       1        0   100.00   derſelben
+       2        2     0.00   deudtſ
+       1        0   100.00   die
+       1        0   100.00   dieſelbige
+       9        9     0.00   e
+       1        1     0.00   eigentli
+       4        2    50.00   ein
+      11       11     0.00   en
+       1        0   100.00   endern
+       1        1     0.00   endige
+       5        3    40.00   er
+       1        1     0.00   erbar
+       1        0   100.00   erden
+       1        1     0.00   ern
+       1        1     0.00   et
+       1        1     0.00   fa
+       2        1    50.00   fein
+       1        0   100.00   form
+       1        1     0.00   fran
+       1        0   100.00   gab
+       1        1     0.00   gebrau
+       1        0   100.00   gemahlet
+       1        0   100.00   gemeinig
+       1        0   100.00   ges
+       1        0   100.00   gewandt
+       1        1     0.00   gewi
+       1        1     0.00   geſehen
+       1        0   100.00   groben
+       1        1     0.00   h
+       1        1     0.00   haben
+       1        0   100.00   halten
+       1        1     0.00   hiſpaniſ
+       2        2     0.00   iſ
+       1        0   100.00   jahr
+       2        2     0.00   je
+       1        0   100.00   jener
+       2        1    50.00   jhm
+       1        1     0.00   jhre
+       1        1     0.00   jhrem
+       1        1     0.00   k
+       1        0   100.00   keiner
+       1        0   100.00   keines
+       1        0   100.00   keyſer
+       1        0   100.00   kleid
+       2        0   100.00   kleidung
+       2        2     0.00   l
+       1        1     0.00   la
+       1        1     0.00   lang
+       1        1     0.00   le
+       1        1     0.00   lei
+       1        0   100.00   leib
+       1        1     0.00   let
+       1        1     0.00   li
+       1        1     0.00   ma
+       1        0   100.00   mah
+       1        0   100.00   mahler
+       1        1     0.00   mahlet
+       1        0   100.00   men
+       1        0   100.00   monier
+       1        0   100.00   mutter
+       1        1     0.00   na
+       1        0   100.00   nationen
+       1        1     0.00   nd
+       1        1     0.00   nnen
+       1        1     0.00   pa
+       1        1     0.00   polypi
+       2        2     0.00   r
+       1        1     0.00   re
+       7        7     0.00   t
+       1        1     0.00   ten
+       1        1     0.00   tfertige
+       3        3     0.00   tra
+       1        0   100.00   tragen
+       3        3     0.00   v
+       1        0   100.00   viel
+       1        0   100.00   vn
+       9        1    88.89   vnd
+       1        0   100.00   vnnd
+       1        0   100.00   vns
+       1        1     0.00   w
+       1        1     0.00   welſ
+       2        0   100.00   wie
+       2        0   100.00   wir
+       1        1     0.00   wol
+       1        0   100.00   wolt
+       1        0   100.00   zeigen
+       1        1     0.00   zuſam
+       1        1     0.00   ſ
+       1        0   100.00   ſein
+       1        0   100.00   ſelber
+       2        2     0.00   ſeln
+       2        0   100.00   ſo
+       1        0   100.00   ſolte
+       1        1     0.00   ſonderli
+       6        6     0.00   
+       3        3     0.00   
+       2        2     0.00   
+       5        5     0.00   
+       2        2     0.00   
+       7        7     0.00   
+       3        3     0.00   
+       7        7     0.00   
+      23       23     0.00   

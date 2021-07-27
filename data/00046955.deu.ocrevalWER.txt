@@ -1,0 +1,194 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     229   Words
+     137   Misrecognized
+   40.17%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        4     0.00        1
+       1        1     0.00        2
+       5        0   100.00        3
+       1        0   100.00        4
+      11        5    54.55    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      15       15     0.00        1
+      33       29    12.12        2
+      91       54    40.66        3
+      20        8    60.00        4
+      14        5    64.29        5
+      23        8    65.22        6
+      12        6    50.00        7
+       7        4    42.86        8
+       1        1     0.00        9
+       1        1     0.00       10
+       1        1     0.00       11
+     218      132    39.45    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      99       47    52.53        1
+      12        8    33.33        2
+       9        4    55.56        3
+       4        2    50.00        4
+       4        3    25.00        5
+       1        1     0.00        6
+       1        0   100.00        7
+       1        1     0.00      >10
+     131       66    49.62    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     229      137    40.17        1
+     228      177    22.37        2
+     227      204    10.13        3
+     226      217     3.98        4
+     225      221     1.78        5
+     224      223     0.45        6
+     223      223     0.00        7
+     222      222     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       3        3     0.00   a
+       1        1     0.00   do
+       1        1     0.00   i
+       4        0   100.00   man
+       1        0   100.00   that
+       1        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   10
+       1        0   100.00   af
+       1        0   100.00   als
+       1        0   100.00   alte
+       1        0   100.00   alſo
+       1        0   100.00   andere
+       3        3     0.00   au
+       1        1     0.00   auﬀ
+       1        1     0.00   auﬀhatten
+       1        1     0.00   banſen
+       1        1     0.00   bedeute
+       1        0   100.00   ctores
+       1        1     0.00   ců
+       1        1     0.00   d
+       1        0   100.00   damit
+       4        0   100.00   das
+       1        0   100.00   dauon
+       1        1     0.00   de
+       3        0   100.00   den
+       1        0   100.00   der
+       1        1     0.00   deutli
+       5        0   100.00   die
+       1        0   100.00   dieſen
+       1        0   100.00   dieſes
+       4        4     0.00   e
+       1        0   100.00   eben
+       3        0   100.00   ein
+       1        1     0.00   eine
+       5        5     0.00   en
+       1        1     0.00   enge
+       3        3     0.00   er
+       1        1     0.00   erli
+       4        3    25.00   es
+       2        2     0.00   etli
+       1        0   100.00   eum
+       1        1     0.00   fa
+       1        0   100.00   fehret
+       1        1     0.00   fenwer
+       1        0   100.00   ferner
+       1        1     0.00   feu
+       1        0   100.00   folgen
+       1        1     0.00   ge
+       1        0   100.00   gehen
+       1        0   100.00   geregnet
+       3        2    33.33   geſehen
+       1        1     0.00   gros
+       1        1     0.00   h
+       1        0   100.00   haben
+       1        0   100.00   halten
+       3        1    66.67   hat
+       1        0   100.00   herein
+       2        1    50.00   heublin
+       1        0   100.00   heupter
+       1        0   100.00   hoſen
+       1        1     0.00   im
+       1        0   100.00   inn
+       1        0   100.00   item
+       2        2     0.00   je
+       1        0   100.00   jrem
+       2        1    50.00   jungen
+       1        0   100.00   kalte
+       1        0   100.00   kleidung
+       1        0   100.00   kleine
+       2        2     0.00   kopﬀ
+       1        1     0.00   kur
+       1        1     0.00   l
+       1        1     0.00   landtßkne
+       1        0   100.00   lang
+       1        1     0.00   le
+       1        1     0.00   lei
+       1        0   100.00   leute
+       2        0   100.00   mahl
+       1        0   100.00   mir
+       1        0   100.00   mit
+       1        0   100.00   mus
+       1        0   100.00   muß
+       1        1     0.00   můſ
+       2        2     0.00   na
+       1        0   100.00   nen
+       1        1     0.00   ni
+       1        1     0.00   nittene
+       2        2     0.00   r
+       1        1     0.00   re
+       1        0   100.00   rundt
+       1        1     0.00   rﬀern
+       1        0   100.00   sondern
+       1        1     0.00   sta
+       1        0   100.00   stande
+       1        0   100.00   steine
+       6        6     0.00   t
+       1        1     0.00   te
+       1        0   100.00   ten
+       1        1     0.00   tfertige
+       1        0   100.00   tragen
+       1        0   100.00   tret
+       1        1     0.00   ts
+       1        1     0.00   tte
+       1        0   100.00   vmb
+       7        1    85.71   vnd
+       1        0   100.00   wammes
+       1        1     0.00   wang
+       1        0   100.00   warm
+       1        1     0.00   weiliger
+       1        1     0.00   wel
+       1        0   100.00   weſen
+       3        0   100.00   wie
+       1        0   100.00   winters
+       1        0   100.00   zeit
+       2        0   100.00   zu
+       1        1     0.00   zurha
+       1        1     0.00   zurſ
+       1        1     0.00   ſ
+       1        1     0.00   ſaget
+       1        0   100.00   ſein
+       1        0   100.00   ſen
+       1        0   100.00   ſo
+       1        1     0.00   ſol
+       1        1     0.00   ſonderli
+       1        1     0.00   ſsige
+       1        1     0.00   ſsigen
+       2        2     0.00   
+       5        5     0.00   
+       3        3     0.00   
+       2        2     0.00   
+       4        4     0.00   
+       3        3     0.00   
+       5        5     0.00   
+      19       19     0.00   
+       1        1     0.00   ﬀel
+       2        2     0.00   ﬂ
+       1        1     0.00   ﬂugs

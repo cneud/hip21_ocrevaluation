@@ -1,0 +1,203 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     280   Words
+     159   Misrecognized
+   43.21%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        3    25.00        1
+       2        2     0.00        2
+       1        0   100.00        4
+       7        5    28.57    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      10        9    10.00        1
+      42       14    66.67        2
+      95       58    38.95        3
+      24        9    62.50        4
+      32       23    28.12        5
+      25       15    40.00        6
+      18        9    50.00        7
+      11        6    45.45        8
+       9        5    44.44        9
+       6        5    16.67       10
+       1        1     0.00       12
+     273      154    43.59    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+     102       52    49.02        1
+      13        7    46.15        2
+       7        5    28.57        3
+       5        3    40.00        4
+       1        0   100.00        5
+       2        0   100.00        6
+       2        1    50.00        7
+       1        1     0.00        8
+       2        0   100.00        9
+       1        0   100.00       10
+       3        2    33.33      >10
+     139       71    48.92    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     280      159    43.21        1
+     279      210    24.73        2
+     278      234    15.83        3
+     277      248    10.47        4
+     276      255     7.61        5
+     275      260     5.45        6
+     274      264     3.65        7
+     273      268     1.83        8
+
+Stopwords
+   Count   Missed   %Right   
+       3        2    33.33   a
+       1        1     0.00   i
+       1        1     0.00   in
+       1        0   100.00   long
+       1        1     0.00   on
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   aire
+       1        1     0.00   ance
+       1        0   100.00   apres
+       1        0   100.00   apuyé
+       1        1     0.00   atention
+       2        2     0.00   au
+       2        1    50.00   auec
+       1        1     0.00   augu
+       1        1     0.00   autorité
+       1        0   100.00   autre
+       1        0   100.00   autrement
+       1        1     0.00   cartes
+       2        0   100.00   cela
+       1        0   100.00   certain
+       1        0   100.00   cet
+       1        0   100.00   cette
+       4        4     0.00   choſe
+       3        3     0.00   con
+       1        0   100.00   conceuoir
+       1        0   100.00   contredit
+       1        0   100.00   corps
+       1        0   100.00   couleur
+       1        0   100.00   courant
+       1        0   100.00   croyoient
+       1        0   100.00   cune
+       1        0   100.00   dans
+       9        2    77.78   de
+       1        0   100.00   demande
+       1        1     0.00   demon
+       3        3     0.00   derer
+       1        1     0.00   des
+       1        1     0.00   deſ
+       1        0   100.00   dit
+       1        1     0.00   du
+       7        7     0.00   e
+       1        1     0.00   ecole
+       3        2    33.33   en
+       1        0   100.00   endroits
+       3        3     0.00   endue
+       2        2     0.00   enduë
+       1        1     0.00   enfance
+       1        1     0.00   ent
+       1        1     0.00   eroient
+       4        1    75.00   et
+       1        1     0.00   eur
+       1        0   100.00   eux
+       1        1     0.00   exten
+       2        2     0.00   eſprit
+       1        0   100.00   faculté
+       1        0   100.00   fait
+       1        0   100.00   figure
+       1        1     0.00   garde
+       1        1     0.00   geometres
+       1        0   100.00   gez
+       3        3     0.00   homme
+       1        1     0.00   idée
+       3        2    33.33   ie
+       1        0   100.00   ils
+       6        1    83.33   la
+       1        1     0.00   lai
+       1        0   100.00   le
+       5        0   100.00   les
+       1        0   100.00   leur
+       1        1     0.00   liſent
+       1        0   100.00   luy
+       1        1     0.00   m'a
+       2        0   100.00   mais
+       1        0   100.00   ment
+       2        2     0.00   meſme
+       1        0   100.00   mille
+       1        1     0.00   mon
+       1        0   100.00   mélange
+       1        0   100.00   n'auront
+       1        1     0.00   n'e
+       1        1     0.00   n'écou
+      11        2    81.82   ne
+       1        1     0.00   nece
+       2        1    50.00   non
+       1        1     0.00   o
+       1        0   100.00   ont
+       1        0   100.00   ouurage
+       1        0   100.00   parce
+       6        1    83.33   pas
+       2        2     0.00   penſe
+       1        1     0.00   penſer
+       1        1     0.00   penſoient
+       2        2     0.00   penſée
+       1        0   100.00   peu
+       1        0   100.00   point
+       1        0   100.00   pour
+       1        0   100.00   pourueu
+       1        0   100.00   pouuoir
+       1        0   100.00   preface
+       1        1     0.00   premieres
+       1        0   100.00   prendre
+       2        1    50.00   proprietez
+       1        0   100.00   préju
+       1        1     0.00   qu'ain
+       9        2    77.78   qu'ils
+       7        1    85.71   que
+      10        1    90.00   qui
+       1        1     0.00   quitrent
+       1        1     0.00   raiſon
+       1        1     0.00   reconnoi
+       1        1     0.00   reſultent
+       2        0   100.00   rien
+       1        1     0.00   ront
+       1        1     0.00   rées
+       1        1     0.00   s
+       1        0   100.00   s'ils
+       1        1     0.00   telle
+       1        0   100.00   temps
+       1        0   100.00   ter
+       1        0   100.00   tous
+       1        1     0.00   tout
+       1        0   100.00   tres
+       1        1     0.00   trouueront
+       1        1     0.00   ure
+       1        1     0.00   veritable
+       1        1     0.00   veritez
+       1        0   100.00   vn
+       4        2    50.00   vne
+       1        0   100.00   voudront
+       1        1     0.00   vueillent
+       1        0   100.00   y
+       1        1     0.00   à
+       4        4     0.00   ſans
+       2        2     0.00   ſoit
+       1        1     0.00   ſub
+       1        1     0.00   ſuis
+       1        1     0.00   ſuiue
+       1        1     0.00   ſuiuent
+       1        1     0.00   ſupoſent
+       1        1     0.00   ſupoſoient
+      13       13     0.00   
+       8        8     0.00   
+       4        4     0.00   
+       3        3     0.00   
+      13       13     0.00   

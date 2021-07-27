@@ -1,0 +1,140 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+     304   Characters
+     353   Errors
+  -16.12%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+  -16.12%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+       5      225      123      353   Unmarked
+       5      225      123      353   Total
+
+   Count   Missed   %Right
+      58       17    70.69   ASCII Spacing Characters
+       8        7    12.50   ASCII Special Symbols
+      84       80     4.76   ASCII Uppercase Letters
+     142      114    19.72   ASCII Lowercase Letters
+       3        3     0.00   Latin1 Lowercase Letters
+       4        4     0.00   Latin Extended-A
+       5        5     0.00   Private Use Area
+     304      230    24.34   Total
+
+  Errors   Marked   Correct-Generated
+      25        0   {ij<\n>A<\n>MONSIEVR<\n>D...}-{Ouurage ; C'eff neanmoin...}
+      21        0   {DES REQVESTES<\n>Ordina}-{le prefénter , € que }
+      18        0   {neanmoins}-{TOVS SES CONSEILS,}
+      16        0   {bonté de cét}-{PR<\n>\<\n>MONSIEVR<\n>D...}
+      16        0   {uurage}-{NTMOR<\n>CONSEILLER}
+      15        0   {ONS}-{> q oi Ô<\n>é ds V}
+      13        0   {VR,}-{ SUN L 1) L /}
+      11        0   {CONSEILLER}-{auec autant}
+      11        0   {auec autant}-{ET MAIÏSTRE}
+      11        0   {ha}-{REQVESTES<\n>O}
+      11        0   {reſpe que}-{|<\n>SONSIEVR;}
+      10        0   {ET MAISTRE}-{r'ofe vous}
+      10        0   {}-{ ù En DATE}
+       9        0   {CONSEILS,}-{rejet que}
+       9        0   {deue}-{#1 UE]<\n>ER}
+       8        0   {ROY<\n>EN}-{hardiefe}
+       7        0   {quelq}-{LU<\n>D S }
+       6        0   {C'e}-{ROY<\n>EN}
+       6        0   {core}-{ d L<\n>Q}
+       6        0   {fiance}-{ M ARE}
+       6        0   {fla}-{La bon}
+       6        0   {que<\n>ã}-{de cét}
+       5        0   {<\n>}-{ a 1]}
+       5        0   {pr}-{deuff}
+       5        0   {uoir}-{ H<\n>Le}
+       5        0   {}-{à NS }
+       5        0   {ſente}-{ auoi}
+       5        0   {ſon}-{flate}
+       4        0   {, & }-{quel}
+       4        0   {TOVS}-{que}
+       4        0   {d}-{Hoft}
+       4        0   {que}-{NS k}
+       4        0   {}-{nair}
+       3        0   {Ho}-{qu}
+       3        0   {SES}-{de}
+       3        0   {de}-{DES}
+       3        0   {de}-{SNS}
+       3        0   {i'}-{Enc}
+       3        0   {que}-{fon}
+       3        0   {}-{anc}
+       3        0   {}-{déf}
+       2        0   { m}-{<\n>d}
+       2        0   {;}-{DV}
+       2        0   {DV}-{de}
+       2        0   {E}-{A }
+       2        0   {ie}-{Na}
+       2        0   {la}-{Er}
+       2        0   {vo}-{q}
+       2        0   {}-{l,}
+       2        0   {}-{ d}
+       1        0   {d}-{R}
+       1        0   {d}-{m}
+       1        0   {e}-{é}
+       1        0   {l}-{<\n>}
+       1        0   {l}-{i}
+       1        0   {r}-{}
+       1        0   {s}-{e}
+       1        0   {}-{M}
+       1        0   {}-{R}
+       1        0   {ſ}-{r}
+
+   Count   Missed   %Right
+      14        7    50.00   {<\n>}
+      44       10    77.27   { }
+       1        1     0.00   {&}
+       2        2     0.00   {'}
+       3        3     0.00   {,}
+       1        0   100.00   {.}
+       1        1     0.00   {;}
+       2        2     0.00   {A}
+       3        3     0.00   {C}
+       3        3     0.00   {D}
+      15       14     6.67   {E}
+       1        1     0.00   {H}
+       5        4    20.00   {I}
+       3        3     0.00   {L}
+       5        4    20.00   {M}
+       6        6     0.00   {N}
+      10        9    10.00   {O}
+       1        1     0.00   {Q}
+       7        7     0.00   {R}
+      12       12     0.00   {S}
+       5        5     0.00   {T}
+       5        5     0.00   {V}
+       1        1     0.00   {Y}
+      11       10     9.09   {a}
+       1        1     0.00   {b}
+       4        4     0.00   {c}
+       9        8    11.11   {d}
+      36       22    38.89   {e}
+       2        2     0.00   {f}
+       1        1     0.00   {g}
+       1        1     0.00   {h}
+      10        7    30.00   {i}
+       1        1     0.00   {j}
+       5        5     0.00   {l}
+       2        2     0.00   {m}
+      10        9    10.00   {n}
+       8        7    12.50   {o}
+       2        2     0.00   {p}
+       7        6    14.29   {q}
+       9        7    22.22   {r}
+       2        2     0.00   {s}
+       6        5    16.67   {t}
+      14       11    21.43   {u}
+       1        1     0.00   {v}
+       1        1     0.00   {ã}
+       2        2     0.00   {é}
+       4        4     0.00   {ſ}
+       2        2     0.00   {}
+       2        2     0.00   {}
+       1        1     0.00   {}

@@ -1,0 +1,137 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     128   Words
+      92   Misrecognized
+   28.12%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       3        3     0.00        1
+       2        1    50.00        2
+       3        2    33.33        3
+       8        6    25.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       6        5    16.67        1
+      13       12     7.69        2
+      58       41    29.31        3
+      11        7    36.36        4
+      10        6    40.00        5
+       8        6    25.00        6
+       7        2    71.43        7
+       2        2     0.00        8
+       3        3     0.00        9
+       2        2     0.00       10
+     120       86    28.33    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      63       42    33.33        1
+       8        4    50.00        2
+       2        0   100.00        3
+       4        3    25.00        4
+       1        0   100.00        8
+       1        1     0.00      >10
+      79       50    36.71    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     128       92    28.12        1
+     127      107    15.75        2
+     126      111    11.90        3
+     125      114     8.80        4
+     124      117     5.65        5
+     123      119     3.25        6
+     122      119     2.46        7
+     121      119     1.65        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        0   100.00   as
+       2        1    50.00   her
+       3        3     0.00   i
+       1        1     0.00   in
+       1        1     0.00   man
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   5
+       1        0   100.00   aber
+       1        1     0.00   adet
+       1        0   100.00   als
+       1        1     0.00   arﬀ
+       1        1     0.00   b
+       1        1     0.00   beide
+       1        0   100.00   ben
+       1        1     0.00   beth
+       1        0   100.00   bitter
+       1        0   100.00   da
+       1        1     0.00   daruon
+       2        1    50.00   das
+       1        0   100.00   denn
+       3        1    66.67   der
+       1        1     0.00   deſelben
+       2        1    50.00   die
+       1        1     0.00   dieſes
+       3        2    33.33   ein
+       4        4     0.00   en
+       1        1     0.00   entbrennet
+       1        0   100.00   fart
+       1        1     0.00   feind
+       1        0   100.00   fewer
+       1        1     0.00   g
+       1        1     0.00   gemein
+       1        0   100.00   geſagt
+       1        0   100.00   gletter
+       1        1     0.00   gott
+       1        1     0.00   gram
+       1        1     0.00   hingeſ
+       1        0   100.00   hof
+       1        1     0.00   honigſeim
+       1        1     0.00   hoﬀarth
+       1        0   100.00   huren
+       1        1     0.00   iĳ
+       1        1     0.00   jre
+       1        0   100.00   keele
+       1        1     0.00   leib
+       1        0   100.00   lippen
+       1        1     0.00   lu
+       1        1     0.00   men
+       1        1     0.00   menſ
+       1        1     0.00   na
+       1        1     0.00   nd
+       1        1     0.00   neidig
+       1        0   100.00   oel
+       1        0   100.00   prouerb
+       1        1     0.00   ret
+       1        1     0.00   rieben
+       2        2     0.00   s
+       1        0   100.00   salomon
+       1        1     0.00   seel
+       1        1     0.00   st
+       1        1     0.00   straﬀen
+       1        1     0.00   vierdten
+       8        3    62.50   vnd
+       1        1     0.00   vom
+       2        1    50.00   von
+       1        1     0.00   w
+       1        1     0.00   werdt
+       1        0   100.00   wermuth
+       4        3    25.00   wie
+       1        0   100.00   wird
+       1        1     0.00   zuglei
+       1        1     0.00   zweyſ
+       4        4     0.00   ſ
+       1        0   100.00   ſagt
+       2        1    50.00   ſe
+       1        1     0.00   ſein
+       1        1     0.00   ſon
+       1        1     0.00   ſpinnen
+       2        2     0.00   
+       2        2     0.00   
+       4        4     0.00   
+       2        2     0.00   
+       1        1     0.00   
+       1        1     0.00   
+      11       11     0.00   

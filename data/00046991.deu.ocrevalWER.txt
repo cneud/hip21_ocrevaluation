@@ -1,0 +1,183 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     230   Words
+     126   Misrecognized
+   45.22%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       1        1     0.00        1
+       4        2    50.00        2
+       1        1     0.00        3
+       6        4    33.33    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      25       25     0.00        1
+      28       14    50.00        2
+      92       59    35.87        3
+      21        7    66.67        4
+      26        9    65.38        5
+      11        2    81.82        6
+      11        1    90.91        7
+       5        3    40.00        8
+       3        2    33.33        9
+       2        0   100.00       10
+     224      122    45.54    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      91       41    54.95        1
+      16        6    62.50        2
+       8        3    62.50        3
+       2        1    50.00        4
+       2        1    50.00        5
+       1        0   100.00        6
+       4        3    25.00      >10
+     124       55    55.65    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     230      126    45.22        1
+     229      170    25.76        2
+     228      196    14.04        3
+     227      212     6.61        4
+     226      220     2.65        5
+     225      221     1.78        6
+     224      221     1.34        7
+     223      221     0.90        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       2        1    50.00   an
+       1        0   100.00   in
+       1        1     0.00   man
+       1        1     0.00   no
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   aber
+       1        0   100.00   alſo
+       2        0   100.00   andere
+       1        0   100.00   anderer
+       2        2     0.00   au
+       1        0   100.00   aus
+       1        1     0.00   auﬀ
+       1        0   100.00   ben
+       1        1     0.00   berli
+       1        1     0.00   bet
+       1        0   100.00   bewegen
+       1        0   100.00   beſahe
+       1        0   100.00   bis
+       3        3     0.00   bſ
+       1        1     0.00   cornelia
+       1        0   100.00   corneliam
+       5        0   100.00   da
+       1        0   100.00   damit
+       3        0   100.00   das
+       2        0   100.00   den
+       2        1    50.00   denn
+       4        1    75.00   der
+       6        0   100.00   die
+       1        0   100.00   dieſelben
+       1        0   100.00   draus
+      14       14     0.00   e
+       1        0   100.00   eine
+       1        0   100.00   eines
+       1        0   100.00   el
+       1        1     0.00   els
+       3        3     0.00   en
+       2        0   100.00   es
+       1        1     0.00   et
+       1        0   100.00   etwan
+       1        1     0.00   exempel
+       1        1     0.00   f
+       1        0   100.00   fingern
+       1        0   100.00   fraw
+       2        2     0.00   g
+       1        1     0.00   gege
+       1        0   100.00   gelobet
+       1        1     0.00   gezeiget
+       1        1     0.00   gro
+       3        3     0.00   h
+       1        0   100.00   hat
+       2        0   100.00   hatte
+       1        0   100.00   heiligen
+       1        0   100.00   heraus
+       1        1     0.00   heydniſ
+       1        1     0.00   hne
+       1        1     0.00   hoﬀarth
+       1        0   100.00   je
+       2        1    50.00   jhr
+       3        1    66.67   jhre
+       1        1     0.00   jhren
+       1        1     0.00   k
+       2        0   100.00   kamen
+       1        1     0.00   klein
+       1        1     0.00   kleinoter
+       1        0   100.00   kleynod
+       1        0   100.00   kleynodien
+       1        0   100.00   lange
+       1        1     0.00   ldene
+       1        1     0.00   lenger
+       1        0   100.00   leut
+       1        1     0.00   li
+       1        0   100.00   lo
+       1        1     0.00   lﬀe
+       2        1    50.00   mehr
+       1        0   100.00   mei
+       1        0   100.00   meiden
+       1        0   100.00   mein
+       1        0   100.00   mir
+       1        0   100.00   mit
+       1        1     0.00   na
+       2        2     0.00   nd
+       1        0   100.00   ne
+       1        0   100.00   nun
+       1        0   100.00   oder
+       1        0   100.00   ordnung
+       1        1     0.00   r
+       1        1     0.00   ra
+       1        0   100.00   rebeccae
+       1        0   100.00   rede
+       1        1     0.00   rei
+       3        1    66.67   ringe
+       2        2     0.00   s
+       1        1     0.00   sarae
+       1        1     0.00   se
+       1        0   100.00   spangen
+       1        0   100.00   steinen
+       1        1     0.00   t
+       1        1     0.00   ter
+       1        0   100.00   thet
+       1        1     0.00   tten
+       1        1     0.00   ule
+       1        0   100.00   verzog
+      11        3    72.73   vnd
+       1        0   100.00   war
+       3        0   100.00   waren
+       1        1     0.00   warﬀ
+       2        0   100.00   weiber
+       2        0   100.00   wolt
+       1        0   100.00   wor
+       1        0   100.00   zehen
+       1        0   100.00   zeigen
+       1        1     0.00   zeit
+       3        0   100.00   zu
+       1        1     0.00   zw
+       1        1     0.00   ĳ
+       1        0   100.00   ſein
+       1        1     0.00   ſeu
+       1        0   100.00   ſolte
+       1        0   100.00   ſolten
+       1        1     0.00   ſpra
+       4        4     0.00   
+       5        5     0.00   
+       2        2     0.00   
+      13       13     0.00   
+       1        1     0.00   
+       1        1     0.00   
+       1        1     0.00   
+       2        2     0.00   
+      15       15     0.00   

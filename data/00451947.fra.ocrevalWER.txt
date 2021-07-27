@@ -1,0 +1,193 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     250   Words
+     126   Misrecognized
+   49.60%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        4     0.00        1
+       4        4     0.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       6        6     0.00        1
+      55       16    70.91        2
+      64       38    40.62        3
+      30        7    76.67        4
+      22       14    36.36        5
+      22       13    40.91        6
+      12        8    33.33        7
+       8        6    25.00        8
+       7        1    85.71        9
+      15        8    46.67       10
+       2        2     0.00       11
+       2        2     0.00       12
+       1        1     0.00       14
+     246      122    50.41    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      89       45    49.44        1
+      18        6    66.67        2
+      16        6    62.50        3
+       2        0   100.00        4
+       2        2     0.00        5
+       2        0   100.00        6
+       2        0   100.00        7
+       1        0   100.00        8
+       1        0   100.00       10
+       1        1     0.00      >10
+     134       60    55.22    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     250      126    49.60        1
+     249      177    28.92        2
+     248      209    15.73        3
+     247      224     9.31        4
+     246      235     4.47        5
+     245      240     2.04        6
+     244      244     0.00        7
+     243      243     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       4        4     0.00   a
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   23
+       1        1     0.00   ain
+       3        1    66.67   appar
+       1        1     0.00   appartient
+       3        1    66.67   au
+       3        0   100.00   aucune
+       1        1     0.00   auons
+       1        0   100.00   autres
+       1        0   100.00   bien
+       1        1     0.00   cauſe
+       7        4    42.86   ce
+       2        0   100.00   cela
+       1        0   100.00   certaine
+       1        0   100.00   cerueau
+       1        1     0.00   cette
+       2        0   100.00   changement
+       1        1     0.00   clairement
+       1        0   100.00   conclut
+       1        0   100.00   cor
+       3        1    66.67   corps
+       2        0   100.00   dans
+      10        2    80.00   de
+       2        0   100.00   des
+       1        1     0.00   dipoſe
+       1        1     0.00   dit
+       1        1     0.00   diſference
+       2        2     0.00   diſpoſé
+       1        0   100.00   doit
+       1        0   100.00   donc
+       1        0   100.00   du
+       1        0   100.00   détachons
+       5        5     0.00   e
+       6        2    66.67   en
+       2        2     0.00   enduë
+       1        0   100.00   entre
+       1        0   100.00   et
+       2        0   100.00   exterieur
+       3        3     0.00   eſprit
+       1        0   100.00   fai
+       1        0   100.00   fait
+       1        0   100.00   faut
+       1        1     0.00   façon
+       1        1     0.00   ferme
+       1        0   100.00   figure
+       1        0   100.00   grande
+       1        0   100.00   ici
+       1        0   100.00   ie
+       2        1    50.00   il
+       1        1     0.00   immateriel
+       1        0   100.00   immediate
+       1        0   100.00   interuenir
+       3        3     0.00   ion
+       1        1     0.00   iuſques
+       1        0   100.00   jet
+       1        0   100.00   l'esprit
+       1        0   100.00   l'homme
+       3        1    66.67   la
+       6        1    83.33   le
+       3        1    66.67   les
+       1        1     0.00   luy
+       3        0   100.00   mais
+       1        0   100.00   ment
+       1        0   100.00   meu
+       1        0   100.00   meut
+       2        0   100.00   mouuement
+       1        1     0.00   n'en
+       1        0   100.00   n'enferme
+       3        1    66.67   ne
+       3        1    66.67   nos
+       1        1     0.00   notion
+       4        1    75.00   nous
+       4        0   100.00   ny
+       1        1     0.00   ob
+       1        1     0.00   objet
+       1        0   100.00   objets
+       3        3     0.00   organe
+       1        1     0.00   origine
+       1        0   100.00   ou
+       2        0   100.00   par
+       1        0   100.00   partant
+       1        0   100.00   pen
+       1        1     0.00   penſe
+       3        3     0.00   penſée
+       1        1     0.00   penſées
+       1        0   100.00   perception
+       1        0   100.00   peut
+       1        0   100.00   point
+       1        1     0.00   porel
+       2        0   100.00   pour
+       1        1     0.00   preſuppoſant
+       1        0   100.00   prouue
+       1        0   100.00   qu'il
+       1        0   100.00   qu'imprime
+       1        1     0.00   qu'vn
+       7        2    71.43   que
+       1        1     0.00   quel
+       8        3    62.50   qui
+       2        2     0.00   re
+       1        1     0.00   reſulte
+       1        1     0.00   s'en
+       1        0   100.00   t'il
+       1        1     0.00   tiennent
+       2        1    50.00   tient
+       2        1    50.00   tout
+       1        0   100.00   toutes
+       1        1     0.00   tranſport
+       1        1     0.00   tuation
+       2        1    50.00   vne
+       1        0   100.00   vnes
+       1        0   100.00   vny
+       1        1     0.00   y
+       3        0   100.00   à
+       1        0   100.00   également
+       1        1     0.00   ſe
+       1        1     0.00   ſens
+       1        1     0.00   ſentiment
+       1        1     0.00   ſentiments
+       1        1     0.00   ſentir
+       2        2     0.00   ſenſations
+       1        1     0.00   ſes
+       1        1     0.00   ſeul
+       2        2     0.00   ſeule
+       1        1     0.00   ſeulement
+       1        1     0.00   ſoit
+       2        2     0.00   ſont
+       1        1     0.00   ſortes
+       1        1     0.00   ſoy
+       1        1     0.00   ſçay
+       1        1     0.00   ſées
+       5        5     0.00   
+       3        3     0.00   
+       3        3     0.00   
+       1        1     0.00   
+      11       11     0.00   

@@ -1,0 +1,183 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     222   Words
+     141   Misrecognized
+   36.49%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       5        5     0.00        1
+       5        1    80.00        2
+       1        0   100.00        3
+      11        6    45.45    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      20       20     0.00        1
+      23       19    17.39        2
+      98       66    32.65        3
+      18       12    33.33        4
+      20        5    75.00        5
+      14        6    57.14        6
+       7        3    57.14        7
+       4        1    75.00        8
+       4        1    75.00        9
+       1        0   100.00       10
+       2        2     0.00       12
+     211      135    36.02    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      94       50    46.81        1
+      11        6    45.45        2
+       8        3    62.50        3
+       4        4     0.00        4
+       2        1    50.00        5
+       1        1     0.00        7
+       1        0   100.00        8
+       2        2     0.00      >10
+     123       67    45.53    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     222      141    36.49        1
+     221      181    18.10        2
+     220      198    10.00        3
+     219      209     4.57        4
+     218      213     2.29        5
+     217      216     0.46        6
+     216      216     0.00        7
+     215      215     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        1    50.00   an
+       5        5     0.00   i
+       3        0   100.00   in
+       1        0   100.00   man
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   al
+       1        1     0.00   als
+       2        0   100.00   alſo
+       1        1     0.00   ampt
+       1        0   100.00   andern
+       1        1     0.00   ats
+       1        1     0.00   au
+       1        1     0.00   auﬀ
+       3        3     0.00   b
+       1        0   100.00   bawern
+       1        0   100.00   bey
+       3        3     0.00   bi
+       1        1     0.00   damit
+       1        1     0.00   daraus
+       3        0   100.00   das
+       1        1     0.00   de
+       1        0   100.00   dem
+       1        0   100.00   den
+       5        1    80.00   der
+       2        0   100.00   dern
+       1        0   100.00   des
+       1        0   100.00   die
+       1        0   100.00   dieſe
+       1        0   100.00   dieſes
+       1        1     0.00   dis
+       1        0   100.00   dritten
+       2        2     0.00   e
+       1        1     0.00   edelman
+       2        2     0.00   eid
+       3        2    33.33   ein
+       3        0   100.00   einem
+       1        0   100.00   einen
+       4        4     0.00   en
+       1        1     0.00   er
+       1        0   100.00   erbar
+       1        1     0.00   erſprießli
+       1        1     0.00   etli
+       4        4     0.00   f
+       1        1     0.00   fe
+       1        0   100.00   frawen
+       1        0   100.00   gar
+       1        1     0.00   geb
+       1        0   100.00   gehalten
+       1        1     0.00   gema
+       1        0   100.00   gemelten
+       1        1     0.00   gen
+       1        1     0.00   geringern
+       1        0   100.00   guten
+       2        0   100.00   haben
+       1        1     0.00   handeln
+       1        0   100.00   hat
+       1        1     0.00   herna
+       1        1     0.00   herr
+       1        1     0.00   hie
+       1        0   100.00   hierinnen
+       1        1     0.00   igkeit
+       1        0   100.00   im
+       1        1     0.00   jungkfraweri
+       1        1     0.00   k
+       1        0   100.00   kleidung
+       1        1     0.00   l
+       1        1     0.00   leges
+       1        0   100.00   lem
+       2        2     0.00   li
+       1        0   100.00   mag
+       1        0   100.00   materia
+       1        0   100.00   mehr
+       1        1     0.00   mei
+       1        0   100.00   men
+       1        0   100.00   mir
+       1        1     0.00   nd
+       1        1     0.00   ni
+       1        0   100.00   nu
+       1        1     0.00   o
+       1        0   100.00   per
+       1        0   100.00   perſonen
+       1        1     0.00   potentat
+       1        1     0.00   pra
+       1        1     0.00   ptuari
+       5        5     0.00   r
+       1        1     0.00   reiben
+       2        2     0.00   rger
+       1        1     0.00   rt
+       1        1     0.00   standt
+       1        0   100.00   stedten
+       3        3     0.00   t
+       1        0   100.00   theils
+       1        0   100.00   thugentſa
+       2        2     0.00   tra
+       1        1     0.00   ts
+       1        1     0.00   vber
+       1        1     0.00   verm
+       1        0   100.00   vermeldet
+       8        0   100.00   vnd
+       1        0   100.00   vnter
+       1        1     0.00   vnterſ
+       1        1     0.00   vol
+       1        0   100.00   vom
+       1        0   100.00   von
+       1        0   100.00   vorzug
+       1        1     0.00   vrſa
+       1        0   100.00   werden
+       1        0   100.00   wie
+       1        0   100.00   wil
+       2        0   100.00   wird
+       2        1    50.00   zu
+       1        1     0.00   zuſ
+       1        1     0.00   ſ
+       1        0   100.00   ſath
+       3        0   100.00   ſein
+       3        2    33.33   ſol
+       1        0   100.00   ſonen
+       1        1     0.00   ſum
+       2        2     0.00   
+      11       11     0.00   
+       7        7     0.00   
+       1        1     0.00   
+       4        4     0.00   
+       1        1     0.00   
+       1        1     0.00   
+       4        4     0.00   
+      19       19     0.00   
+       1        1     0.00   ﬂuß

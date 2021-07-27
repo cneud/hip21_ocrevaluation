@@ -1,0 +1,100 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+     304   Characters
+     320   Errors
+   -5.26%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   -5.26%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     114       15      191      320   Unmarked
+     114       15      191      320   Total
+
+   Count   Missed   %Right
+      58       21    63.79   ASCII Spacing Characters
+       8        4    50.00   ASCII Special Symbols
+      84       74    11.90   ASCII Uppercase Letters
+     142       21    85.21   ASCII Lowercase Letters
+       3        3     0.00   Latin1 Lowercase Letters
+       4        1    75.00   Latin Extended-A
+       5        5     0.00   Private Use Area
+     304      129    57.57   Total
+
+  Errors   Marked   Correct-Generated
+      97        0   {MONTMOR<\n>CONSEILLER DV...}-{1}
+      83        0   {}-{1 2 k — —<\n>W 8<\n>...}
+      32        0   {}-{aire de ſon Hoſtel....}
+      27        0   {}-{T MAISTRE DES REVESTES...}
+      22        0   {}-{OT<\n>EN TOVS SESCONSEIL...}
+      16        0   {ij<\n>A<\n>MONSIEVR<\n>D...}-{4}
+       8        0   {}-{TMOR<\n>CON}
+       7        0   {}-{ONSIEVR}
+       4        0   {C'e}-{Oeſt}
+       4        0   {}-{DE M}
+       4        0   {}-{ſſ}
+       2        0   { }-{}
+       2        0   {e}-{c}
+       2        0   {i'}-{v}
+       2        0   {}-{LL}
+       2        0   {}-{RD}
+       2        0   {é}-{e}
+       2        0   {}-{ct}
+       1        0   {}-{E}
+       1        0   {ã}-{.}
+
+   Count   Missed   %Right
+      14        8    42.86   {<\n>}
+      44       13    70.45   { }
+       1        0   100.00   {&}
+       2        2     0.00   {'}
+       3        1    66.67   {,}
+       1        1     0.00   {.}
+       1        0   100.00   {;}
+       2        2     0.00   {A}
+       3        3     0.00   {C}
+       3        3     0.00   {D}
+      15       13    13.33   {E}
+       1        1     0.00   {H}
+       5        4    20.00   {I}
+       3        3     0.00   {L}
+       5        4    20.00   {M}
+       6        5    16.67   {N}
+      10        8    20.00   {O}
+       1        1     0.00   {Q}
+       7        6    14.29   {R}
+      12       11     8.33   {S}
+       5        5     0.00   {T}
+       5        4    20.00   {V}
+       1        1     0.00   {Y}
+      11        1    90.91   {a}
+       1        0   100.00   {b}
+       4        0   100.00   {c}
+       9        2    77.78   {d}
+      36        6    83.33   {e}
+       2        0   100.00   {f}
+       1        0   100.00   {g}
+       1        0   100.00   {h}
+      10        4    60.00   {i}
+       1        1     0.00   {j}
+       5        1    80.00   {l}
+       2        0   100.00   {m}
+      10        2    80.00   {n}
+       8        2    75.00   {o}
+       2        0   100.00   {p}
+       7        0   100.00   {q}
+       9        2    77.78   {r}
+       2        0   100.00   {s}
+       6        0   100.00   {t}
+      14        0   100.00   {u}
+       1        0   100.00   {v}
+       1        1     0.00   {ã}
+       2        2     0.00   {é}
+       4        1    75.00   {ſ}
+       2        2     0.00   {}
+       2        2     0.00   {}
+       1        1     0.00   {}

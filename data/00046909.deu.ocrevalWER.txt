@@ -1,0 +1,178 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     206   Words
+     143   Misrecognized
+   30.58%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        2     0.00        1
+       5        4    20.00        2
+       7        6    14.29    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      10        9    10.00        1
+      31       24    22.58        2
+      94       69    26.60        3
+      20       14    30.00        4
+      16        6    62.50        5
+      10        6    40.00        6
+       7        2    71.43        7
+       7        4    42.86        8
+       2        1    50.00        9
+       2        2     0.00       10
+     199      137    31.16    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      92       59    35.87        1
+      15        4    73.33        2
+       4        3    25.00        3
+       5        2    60.00        4
+       3        3     0.00        6
+       1        0   100.00        8
+       1        1     0.00      >10
+     121       72    40.50    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     206      143    30.58        1
+     205      161    21.46        2
+     204      173    15.20        3
+     203      181    10.84        4
+     202      187     7.43        5
+     201      190     5.47        6
+     200      191     4.50        7
+     199      192     3.52        8
+
+Stopwords
+   Count   Missed   %Right   
+       3        2    33.33   an
+       2        2     0.00   i
+       1        1     0.00   in
+       1        1     0.00   no
+
+Non-stopwords
+   Count   Missed   %Right   
+       2        1    50.00   adam
+       2        1    50.00   alſo
+       1        1     0.00   am
+       1        0   100.00   anhanget
+       1        0   100.00   anzeiget
+       1        0   100.00   aß
+       2        1    50.00   b
+       1        0   100.00   baume
+       1        1     0.00   begreiﬀt
+       1        1     0.00   bekleidung
+       1        1     0.00   beſ
+       1        1     0.00   bl
+       1        0   100.00   blettern
+       2        1    50.00   da
+       4        0   100.00   das
+       1        1     0.00   de
+       4        1    75.00   dem
+       1        0   100.00   denn
+       2        1    50.00   der
+       1        1     0.00   derglei
+       1        1     0.00   die
+       1        1     0.00   dieſe
+       1        1     0.00   ding
+       1        0   100.00   du
+       4        4     0.00   e
+       1        1     0.00   ehe
+       1        0   100.00   eigen
+       6        6     0.00   en
+       4        0   100.00   er
+       1        1     0.00   erfolget
+       1        1     0.00   erzu
+       1        1     0.00   et
+       1        1     0.00   eua
+       2        2     0.00   fa
+       1        0   100.00   feigen
+       1        0   100.00   gab
+       1        1     0.00   ge
+       1        0   100.00   gebrennet
+       1        1     0.00   gef
+       1        0   100.00   gegeben
+       1        1     0.00   geringe
+       1        0   100.00   gerne
+       1        0   100.00   gethan
+       1        1     0.00   gewi
+       1        1     0.00   gewonheit
+       1        0   100.00   geſagt
+       1        1     0.00   geſehen
+       2        2     0.00   gott
+       1        1     0.00   ha
+       2        1    50.00   habe
+       1        1     0.00   haben
+       1        0   100.00   hat
+       1        1     0.00   hei
+       1        0   100.00   hette
+       1        1     0.00   heutiges
+       1        1     0.00   j
+       1        1     0.00   jhnen
+       1        0   100.00   jm
+       1        1     0.00   jnen
+       1        1     0.00   kleidung
+       1        1     0.00   klerli
+       1        1     0.00   lambfe
+       1        0   100.00   landein
+       1        1     0.00   le
+       1        1     0.00   let
+       1        0   100.00   leugnen
+       1        1     0.00   ma
+       1        1     0.00   mer
+       2        0   100.00   mir
+       2        0   100.00   mit
+       2        2     0.00   na
+       1        1     0.00   nemli
+       1        1     0.00   nen
+       2        2     0.00   nun
+       1        1     0.00   nung
+       1        1     0.00   r
+       1        1     0.00   s
+       1        0   100.00   seine
+       1        1     0.00   t
+       1        0   100.00   tages
+       1        1     0.00   te
+       2        1    50.00   text
+       1        0   100.00   vbel
+       1        1     0.00   vermag
+       8        5    37.50   vnd
+       1        1     0.00   vnorde
+       1        1     0.00   vnre
+       2        1    50.00   vns
+       3        1    66.67   von
+       1        0   100.00   weg
+       1        0   100.00   wei
+       1        0   100.00   weib
+       1        0   100.00   weibe
+       1        0   100.00   weiß
+       1        1     0.00   wel
+       1        1     0.00   wi
+       1        0   100.00   wider
+       2        1    50.00   wie
+       1        0   100.00   wiewol
+       1        0   100.00   wir
+       1        1     0.00   wol
+       1        1     0.00   zog
+       1        1     0.00   zu
+       1        1     0.00   zwey
+       1        1     0.00   ß
+       1        1     0.00   ſ
+       1        0   100.00   ſaget
+       1        1     0.00   ſein
+       1        0   100.00   ſeinem
+       1        1     0.00   ſelbe
+       1        1     0.00   ſen
+       4        4     0.00   
+       1        1     0.00   
+       6        6     0.00   
+       6        6     0.00   
+       3        3     0.00   
+       3        3     0.00   
+       3        3     0.00   
+      19       19     0.00   
+       1        1     0.00   
+       1        1     0.00   ﬁnd

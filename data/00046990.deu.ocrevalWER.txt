@@ -1,0 +1,184 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     223   Words
+     146   Misrecognized
+   34.53%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        4     0.00        1
+       8        5    37.50        2
+       1        1     0.00        3
+      13       10    23.08    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      21       20     4.76        1
+      29       25    13.79        2
+      96       69    28.12        3
+      20        9    55.00        4
+      13        5    61.54        5
+      10        2    80.00        6
+       8        2    75.00        7
+       5        0   100.00        8
+       4        2    50.00        9
+       4        2    50.00       10
+     210      136    35.24    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      86       43    50.00        1
+      21        7    66.67        2
+       2        1    50.00        3
+       4        2    50.00        4
+       2        2     0.00        5
+       1        1     0.00        6
+       2        2     0.00        7
+       1        1     0.00        8
+       1        1     0.00      >10
+     120       60    50.00    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     223      146    34.53        1
+     222      178    19.82        2
+     221      197    10.86        3
+     220      206     6.36        4
+     219      210     4.11        5
+     218      211     3.21        6
+     217      212     2.30        7
+     216      212     1.85        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       3        1    66.67   an
+       2        2     0.00   be
+       3        3     0.00   i
+       1        0   100.00   in
+       1        1     0.00   man
+       1        1     0.00   to
+       1        1     0.00   us
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   1
+       2        1    50.00   als
+       1        0   100.00   alſo
+       1        0   100.00   am
+       1        0   100.00   annemen
+       1        0   100.00   antwortet
+       1        0   100.00   aphricani
+       1        1     0.00   ar
+       2        2     0.00   au
+       1        1     0.00   ber
+       2        0   100.00   bey
+       1        0   100.00   blieb
+       1        0   100.00   cornelia
+       2        1    50.00   da
+       1        0   100.00   das
+       1        0   100.00   denn
+       2        0   100.00   der
+       1        0   100.00   dere
+       1        0   100.00   dern
+       1        0   100.00   des
+       4        0   100.00   die
+       1        0   100.00   dieſelben
+       1        0   100.00   dieſer
+       1        1     0.00   diony
+       5        5     0.00   e
+       1        1     0.00   ehrli
+       2        0   100.00   ein
+       2        0   100.00   eine
+       1        0   100.00   einen
+       1        0   100.00   einer
+       7        7     0.00   en
+       1        1     0.00   er
+       1        0   100.00   eraſmus
+       1        0   100.00   ers
+       2        2     0.00   et
+       1        0   100.00   exempel
+       1        1     0.00   f
+       1        0   100.00   fraget
+       2        0   100.00   fraw
+       1        0   100.00   frommen
+       1        1     0.00   ge
+       1        1     0.00   geſ
+       1        0   100.00   geſagt
+       1        0   100.00   goldt
+       1        1     0.00   gro
+       1        1     0.00   habe
+       2        1    50.00   hat
+       1        0   100.00   henget
+       1        1     0.00   hies
+       1        1     0.00   hmb
+       1        1     0.00   hoﬀarth
+       1        1     0.00   idamo
+       2        1    50.00   jhr
+       2        2     0.00   k
+       1        0   100.00   kam
+       1        1     0.00   keit
+       1        0   100.00   kleidern
+       1        1     0.00   li
+       1        0   100.00   lib
+       1        1     0.00   lieſet
+       1        1     0.00   liſandro
+       1        1     0.00   m
+       1        1     0.00   mann
+       1        0   100.00   mehr
+       1        0   100.00   mein
+       1        0   100.00   meine
+       1        0   100.00   meinem
+       1        0   100.00   mit
+       2        2     0.00   mu
+       1        1     0.00   mů
+       1        1     0.00   na
+       1        1     0.00   nd
+       3        3     0.00   ni
+       1        1     0.00   nig
+       1        0   100.00   philonis
+       1        1     0.00   pophtegmat
+       1        1     0.00   r
+       1        1     0.00   rde
+       1        1     0.00   rieben
+       1        0   100.00   rom
+       2        2     0.00   s
+       1        0   100.00   sammet
+       1        0   100.00   seiden
+       1        1     0.00   sicilia
+       7        7     0.00   t
+       1        1     0.00   ten
+       2        2     0.00   ter
+       1        1     0.00   tern
+       1        1     0.00   thugendrei
+       1        1     0.00   vber
+       1        1     0.00   ver
+       1        1     0.00   vmb
+       4        1    75.00   vnd
+       1        1     0.00   vnter
+       2        1    50.00   von
+       1        1     0.00   w
+       3        1    66.67   war
+       1        0   100.00   warumb
+       2        0   100.00   weib
+       1        0   100.00   wie
+       1        0   100.00   wirds
+       1        1     0.00   wo
+       1        0   100.00   wolgeborne
+       2        0   100.00   zieren
+       2        0   100.00   zu
+       1        1     0.00   zugeſ
+       1        1     0.00   zuſ
+       1        1     0.00   ſ
+       2        1    50.00   ſaß
+       1        0   100.00   ſeinen
+       1        1     0.00   ſon
+       1        0   100.00   ſondern
+       4        4     0.00   
+       4        4     0.00   
+       6        6     0.00   
+       8        8     0.00   
+       1        1     0.00   
+       5        5     0.00   
+       2        2     0.00   
+      22       22     0.00   

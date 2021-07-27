@@ -1,0 +1,183 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     186   Words
+      26   Misrecognized
+   86.02%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        0   100.00        1
+       9        0   100.00        2
+       1        0   100.00        3
+       1        0   100.00        4
+      13        0   100.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       4        2    50.00        1
+      51        4    92.16        2
+      33        6    81.82        3
+      21        5    76.19        4
+      12        0   100.00        5
+       8        0   100.00        6
+      11        1    90.91        7
+       7        1    85.71        8
+       7        1    85.71        9
+       8        2    75.00       10
+       2        0   100.00       11
+       5        1    80.00       12
+       3        2    33.33       13
+       1        1     0.00       14
+     173       26    84.97    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      95       17    82.11        1
+      11        0   100.00        2
+       4        0   100.00        3
+       2        0   100.00        4
+       1        0   100.00        5
+       1        0   100.00        6
+       1        0   100.00        7
+       2        0   100.00        9
+     117       17    85.47    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     186       26    86.02        1
+     185       47    74.59        2
+     184       64    65.22        3
+     183       77    57.92        4
+     182       88    51.65        5
+     181       97    46.41        6
+     180      105    41.67        7
+     179      112    37.43        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        0   100.00   a
+       5        0   100.00   in
+       1        0   100.00   is
+       3        0   100.00   of
+       1        0   100.00   over
+       1        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   58
+       1        0   100.00   59
+       1        1     0.00   60
+       1        0   100.00   63
+       1        0   100.00   68
+       1        0   100.00   73
+       1        1     0.00   77
+       1        0   100.00   aan
+       1        0   100.00   aanleiding
+       1        0   100.00   aanmerking
+       1        0   100.00   afgetrokkene
+       1        1     0.00   agtigst
+       1        0   100.00   anderen
+       1        0   100.00   bedenking
+       1        0   100.00   ben
+       1        0   100.00   beweerd
+       1        0   100.00   bewijzen
+       1        0   100.00   bezwaar
+       1        0   100.00   beöordeelde
+       1        1     0.00   beöordeelende
+       1        1     0.00   beſchouwd
+       1        0   100.00   bijbrengt
+       7        0   100.00   bl
+       1        0   100.00   boek
+       1        0   100.00   breng
+       2        0   100.00   brieven
+       2        0   100.00   daar
+       2        0   100.00   dat
+       9        0   100.00   de
+       1        0   100.00   den
+       1        0   100.00   derde
+       1        0   100.00   derden
+       1        0   100.00   derhalven
+       3        0   100.00   die
+       1        0   100.00   dit
+       1        1     0.00   doen
+       1        0   100.00   duidelijke
+       1        0   100.00   een
+       2        1    50.00   eene
+       2        0   100.00   eerst
+       1        1     0.00   egtsgeleerde
+       1        0   100.00   eigenlijk
+       1        1     0.00   ellingen
+       2        0   100.00   en
+       1        0   100.00   gaan
+       1        0   100.00   gebruikt
+       1        0   100.00   geef
+       1        0   100.00   geen
+       1        0   100.00   gemeen
+       1        1     0.00   genadeverbond
+       1        0   100.00   genoodzaakt
+       1        0   100.00   gevolg
+       1        0   100.00   geweest
+       1        0   100.00   gronde
+       2        0   100.00   gronden
+       1        0   100.00   handelen
+       2        1    50.00   heb
+       3        1    66.67   het
+       1        0   100.00   hewijs
+       2        1    50.00   hier
+       1        1     0.00   hij
+       2        0   100.00   hr
+       1        1     0.00   ieer
+       9        0   100.00   ik
+       1        0   100.00   kinderdoop
+       3        1    66.67   mij
+       1        0   100.00   mijne
+       1        0   100.00   min
+       1        0   100.00   moest
+       1        0   100.00   na
+       1        0   100.00   ner
+       1        1     0.00   niet
+       1        0   100.00   nu
+       1        0   100.00   nutteloos
+       3        1    66.67   om
+       1        0   100.00   ongefundeerd
+       1        0   100.00   ook
+       4        1    75.00   op
+       1        0   100.00   opgave
+       2        0   100.00   reden
+       1        1     0.00   regtsgeleerde
+       1        0   100.00   schrijver
+       4        2    50.00   t
+       6        0   100.00   te
+       5        0   100.00   ten
+       1        0   100.00   toe
+       1        0   100.00   tog
+       1        0   100.00   tot
+       1        0   100.00   trapswijze
+       1        0   100.00   van
+       1        0   100.00   veel
+       1        0   100.00   verantwoorden
+       1        0   100.00   verdedigen
+       1        0   100.00   verwierp
+       1        0   100.00   vierden
+       1        0   100.00   vijfden
+       1        0   100.00   voorafgaande
+       1        0   100.00   voorname
+       1        1     0.00   voorreden
+       1        0   100.00   waar
+       1        0   100.00   waarom
+       1        0   100.00   waren
+       1        0   100.00   wederleggen
+       1        0   100.00   welk
+       1        0   100.00   welke
+       1        0   100.00   welken
+       1        0   100.00   werk
+       1        0   100.00   wiens
+       1        0   100.00   wijs
+       1        0   100.00   xxiv
+       1        0   100.00   zeer
+       1        0   100.00   zelfs
+       1        0   100.00   zijn
+       1        0   100.00   zullende
+       1        1     0.00   ſchrijven
+       1        1     0.00   
+       1        1     0.00   

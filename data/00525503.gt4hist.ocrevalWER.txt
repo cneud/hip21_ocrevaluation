@@ -1,0 +1,161 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     151   Words
+      88   Misrecognized
+   41.72%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       5        3    40.00        1
+      28       13    53.57        2
+      16        6    62.50        3
+      16        8    50.00        4
+       1        1     0.00        5
+      66       31    53.03    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       2        1    50.00        1
+       5        3    40.00        2
+      17       15    11.76        3
+      10        7    30.00        4
+      12        7    41.67        5
+      11        4    63.64        6
+       7        6    14.29        7
+       6        2    66.67        8
+       6        4    33.33        9
+       4        3    25.00       10
+       4        4     0.00       11
+       1        1     0.00       14
+      85       57    32.94    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      66       43    34.85        1
+       6        5    16.67        2
+       1        0   100.00        3
+       1        1     0.00        4
+      74       49    33.78    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     151       88    41.72        1
+     150      117    22.00        2
+     149      132    11.41        3
+     148      141     4.73        4
+     147      143     2.72        5
+     146      144     1.37        6
+     145      144     0.69        7
+     144      144     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        1    50.00   a
+       5        3    40.00   and
+       1        0   100.00   are
+       2        0   100.00   as
+       2        0   100.00   be
+       4        3    25.00   by
+       1        1     0.00   do
+       1        0   100.00   for
+       1        0   100.00   from
+       2        1    50.00   have
+       3        2    33.33   i
+       5        2    60.00   in
+       1        0   100.00   into
+       1        1     0.00   is
+       3        0   100.00   it
+       1        1     0.00   know
+       1        1     0.00   many
+       1        0   100.00   more
+       1        1     0.00   my
+       1        1     0.00   not
+       1        1     0.00   now
+       5        3    40.00   of
+       4        2    50.00   that
+       6        1    83.33   the
+       1        1     0.00   then
+       2        1    50.00   they
+       1        0   100.00   this
+       2        0   100.00   to
+       1        0   100.00   was
+       2        2     0.00   we
+       1        1     0.00   which
+       1        1     0.00   will
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   1tim
+       1        1     0.00   2.1,2
+       1        1     0.00   2tim
+       1        1     0.00   4,1
+       1        1     0.00   according
+       1        1     0.00   accordingly
+       1        0   100.00   alſo
+       1        0   100.00   becoming
+       1        1     0.00   believers
+       1        0   100.00   c
+       1        1     0.00   conſcience
+       1        0   100.00   dayly
+       1        1     0.00   depart
+       1        1     0.00   diſcharged
+       1        1     0.00   e
+       1        1     0.00   ely
+       1        1     0.00   eminent
+       1        0   100.00   every
+       1        0   100.00   evident
+       2        0   100.00   ex
+       1        1     0.00   fa
+       1        1     0.00   faith
+       1        0   100.00   fallen
+       1        1     0.00   foretold
+       1        1     0.00   foreſeen
+       1        1     0.00   foreſhewn
+       1        0   100.00   ges
+       2        2     0.00   god
+       1        0   100.00   hold
+       1        0   100.00   latter
+       1        1     0.00   laﬆ
+       1        1     0.00   lbeit
+       1        1     0.00   leave
+       1        1     0.00   lord
+       3        0   100.00   lovers
+       1        1     0.00   mannered
+       1        0   100.00   men
+       1        0   100.00   might
+       1        0   100.00   mind
+       2        2     0.00   mo
+       1        1     0.00   nevertheleſſ
+       1        1     0.00   paul
+       1        0   100.00   perience
+       1        0   100.00   perillous
+       1        1     0.00   pleaſures
+       1        1     0.00   post
+       1        1     0.00   pre
+       1        0   100.00   preſence
+       1        1     0.00   put
+       1        1     0.00   rangely
+       1        0   100.00   received
+       1        0   100.00   religion
+       1        1     0.00   reſpe
+       1        1     0.00   rine
+       1        1     0.00   script
+       1        1     0.00   themſelves
+       1        0   100.00   therby
+       1        0   100.00   thoſe
+       1        1     0.00   times
+       1        1     0.00   truth
+       1        1     0.00   twas
+       1        1     0.00   undeniably
+       1        1     0.00   veriﬁed
+       1        1     0.00   wherein
+       1        1     0.00   yet
+       1        0   100.00   ſee
+       2        2     0.00   ſhould
+       1        0   100.00   ſome
+       1        0   100.00   ſometimes
+       1        1     0.00   ſpirit
+       1        1     0.00   ſucce
+       4        4     0.00   
+       2        2     0.00   
+       2        2     0.00   

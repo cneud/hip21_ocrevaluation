@@ -1,0 +1,167 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     188   Words
+     130   Misrecognized
+   30.85%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       5        5     0.00        1
+       2        1    50.00        2
+       1        1     0.00        3
+       8        7    12.50    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      16       12    25.00        1
+      17       17     0.00        2
+      83       63    24.10        3
+      20        9    55.00        4
+      14        8    42.86        5
+      13        6    53.85        6
+       9        4    55.56        7
+       1        1     0.00        8
+       3        0   100.00        9
+       2        1    50.00       10
+       2        2     0.00       14
+     180      123    31.67    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      80       46    42.50        1
+      13        8    38.46        2
+       8        4    50.00        3
+       3        2    33.33        4
+       1        0   100.00        6
+       2        1    50.00        7
+       1        1     0.00      >10
+     108       62    42.59    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     188      130    30.85        1
+     187      154    17.65        2
+     186      167    10.22        3
+     185      173     6.49        4
+     184      176     4.35        5
+     183      177     3.28        6
+     182      177     2.75        7
+     181      177     2.21        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        0   100.00   be
+       1        1     0.00   her
+       5        5     0.00   i
+       1        1     0.00   in
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   1
+       1        0   100.00   2
+       1        0   100.00   abraham
+       2        2     0.00   alſo
+       1        1     0.00   am
+       1        1     0.00   amhaﬀtigkeit
+       1        0   100.00   anlegen
+       1        1     0.00   auﬀ
+       1        1     0.00   ber
+       3        1    66.67   das
+       1        1     0.00   demuth
+       1        0   100.00   den
+       1        1     0.00   denn
+       2        1    50.00   der
+       1        0   100.00   des
+       6        2    66.67   die
+       1        1     0.00   dur
+       1        1     0.00   edle
+       1        1     0.00   einfalt
+       1        1     0.00   eit
+       3        3     0.00   em
+       1        1     0.00   en
+       1        1     0.00   ens
+       2        2     0.00   et
+       1        1     0.00   f
+       1        0   100.00   g
+       1        0   100.00   gehorſam
+       1        1     0.00   gei
+       1        1     0.00   gewand
+       1        1     0.00   geſ
+       3        1    66.67   goldt
+       2        1    50.00   gott
+       1        1     0.00   gottſeligkeit
+       1        0   100.00   gute
+       1        0   100.00   haben
+       1        1     0.00   hei
+       1        0   100.00   herr
+       1        1     0.00   hies
+       1        1     0.00   hoﬀ
+       1        1     0.00   item
+       1        1     0.00   jhn
+       1        0   100.00   jre
+       1        1     0.00   jren
+       2        2     0.00   k
+       1        0   100.00   keit
+       1        1     0.00   keuſ
+       1        0   100.00   kleide
+       1        0   100.00   kleider
+       2        2     0.00   li
+       1        0   100.00   ligen
+       2        2     0.00   m
+       1        0   100.00   men
+       1        1     0.00   menſ
+       1        1     0.00   meſsig
+       3        0   100.00   mit
+       1        1     0.00   nd
+       1        0   100.00   nern
+       1        1     0.00   ni
+       1        1     0.00   nung
+       4        0   100.00   oder
+       1        0   100.00   paulus
+       2        1    50.00   perlen
+       1        1     0.00   pﬀen
+       1        1     0.00   r
+       1        1     0.00   re
+       1        1     0.00   rubin
+       3        2    33.33   s
+       1        0   100.00   sara
+       1        1     0.00   silber
+       1        1     0.00   sondern
+       3        3     0.00   t
+       1        1     0.00   te
+       1        1     0.00   ten
+       1        0   100.00   timoth
+       1        0   100.00   verborgene
+       1        0   100.00   vmbhengen
+       7        6    14.29   vnd
+       2        1    50.00   vnnd
+       1        0   100.00   vnterthan
+       1        1     0.00   vnuerru
+       1        0   100.00   vor
+       1        0   100.00   war
+       1        0   100.00   waren
+       1        1     0.00   wei
+       1        0   100.00   weiber
+       1        0   100.00   weibern
+       1        0   100.00   weiſen
+       1        1     0.00   wer
+       2        0   100.00   wie
+       1        0   100.00   wil
+       1        1     0.00   z
+       1        0   100.00   zeiten
+       1        0   100.00   ziemet
+       1        1     0.00   zierli
+       2        2     0.00   zu
+       2        2     0.00   ſ
+       1        1     0.00   ſa
+       1        0   100.00   ſagt
+       1        1     0.00   ſanﬀtem
+       1        1     0.00   ſondern
+       3        3     0.00   
+       3        3     0.00   
+       7        7     0.00   
+       4        4     0.00   
+       4        4     0.00   
+       2        2     0.00   
+       1        1     0.00   
+      18       18     0.00   

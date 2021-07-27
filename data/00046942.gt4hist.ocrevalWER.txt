@@ -1,0 +1,138 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     128   Words
+      65   Misrecognized
+   49.22%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        4     0.00        1
+       4        2    50.00        2
+       2        0   100.00        3
+      10        6    40.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       5        3    40.00        1
+      17       13    23.53        2
+      58       26    55.17        3
+       6        1    83.33        4
+      10        3    70.00        5
+       6        2    66.67        6
+       3        2    33.33        7
+       4        3    25.00        8
+       2        1    50.00        9
+       1        0   100.00       10
+       2        1    50.00       11
+       1        1     0.00       12
+       1        1     0.00       13
+       2        2     0.00       14
+     118       59    50.00    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      58       27    53.45        1
+      10        4    60.00        2
+       2        0   100.00        4
+       2        0   100.00        5
+       2        1    50.00        7
+       1        1     0.00        8
+      75       33    56.00    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     128       65    49.22        1
+     127       86    32.28        2
+     126      101    19.84        3
+     125      110    12.00        4
+     124      116     6.45        5
+     123      120     2.44        6
+     122      122     0.00        7
+     121      121     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        0   100.00   as
+       1        0   100.00   get
+       4        4     0.00   i
+       2        1    50.00   in
+       1        1     0.00   no
+       1        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   1
+       1        0   100.00   2
+       1        0   100.00   3
+       2        0   100.00   am
+       1        0   100.00   ander
+       1        0   100.00   anher
+       1        0   100.00   armer
+       2        2     0.00   au
+       1        1     0.00   baccalaurcus
+       1        0   100.00   bens
+       1        1     0.00   betriﬀt
+       1        0   100.00   bis
+       4        0   100.00   das
+       5        1    80.00   der
+       4        2    50.00   die
+       1        0   100.00   dieſelbige
+       1        0   100.00   dis
+       1        0   100.00   donato
+       1        0   100.00   ehren
+       1        1     0.00   eige
+       1        0   100.00   ein
+       1        1     0.00   entſpringe
+       1        0   100.00   erbarkeit
+       1        1     0.00   es
+       1        1     0.00   f
+       1        0   100.00   fol
+       2        1    50.00   ge
+       1        0   100.00   gen
+       1        1     0.00   grundtſupppe
+       1        0   100.00   hat
+       1        0   100.00   herrn
+       1        0   100.00   herzog
+       1        1     0.00   ho
+       1        1     0.00   hoﬀart
+       1        1     0.00   ie
+       1        0   100.00   kegentheil
+       1        0   100.00   kleider
+       2        2     0.00   kleidung
+       1        1     0.00   kraußteuﬀel
+       1        1     0.00   kun
+       2        2     0.00   leidige
+       1        1     0.00   lo
+       1        0   100.00   nun
+       1        0   100.00   oben
+       1        0   100.00   pauß
+       1        0   100.00   philippo
+       1        0   100.00   pluder
+       1        1     0.00   rc
+       1        1     0.00   rieben
+       1        1     0.00   rtreﬀligkeit
+       1        1     0.00   st
+       2        1    50.00   tag
+       2        1    50.00   theil
+       1        0   100.00   vier
+       7        1    85.71   vnd
+       1        1     0.00   vo
+       2        0   100.00   von
+       1        0   100.00   vorige
+       1        0   100.00   vñ
+       1        1     0.00   w
+       1        0   100.00   wel
+       1        0   100.00   welt
+       1        0   100.00   werd
+       5        1    80.00   wie
+       1        1     0.00   woher
+       1        1     0.00   wu
+       2        1    50.00   zu
+       1        1     0.00   ſ
+       1        1     0.00   ſehen
+       1        1     0.00   ſelb
+       2        2     0.00   
+       8        8     0.00   
+       1        1     0.00   
+       1        1     0.00   
+       7        7     0.00   

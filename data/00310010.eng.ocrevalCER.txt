@@ -1,0 +1,212 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+     812   Characters
+     534   Errors
+   34.24%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   34.24%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     127      243      164      534   Unmarked
+     127      243      164      534   Total
+
+   Count   Missed   %Right
+     147       44    70.07   ASCII Spacing Characters
+      27       16    40.74   ASCII Special Symbols
+      13       11    15.38   ASCII Digits
+      76       53    30.26   ASCII Uppercase Letters
+     529      226    57.28   ASCII Lowercase Letters
+      11       11     0.00   Latin Extended-A
+       2        2     0.00   General Punctuation
+       5        5     0.00   Private Use Area
+       1        1     0.00   Alphabetic Presentation Forms
+       1        1     0.00   Specials
+     812      370    54.43   Total
+
+  Errors   Marked   Correct-Generated
+      37        0   {}-{@wn, .tpsul. $<\n>Printe...}
+      32        0   {ſ}-{not thee, Rom, 1I. 20, 2...}
+      20        0   {ſeven Stars in Pauls}-{doSirine fhewed,<\n>|}
+      16        0   {dorine ſhewed.<\n>}-{G RIFFITH.<\n>| }
+      15        0   {m grace, as<\n>the}-{wll}
+      14        0   {}-{:<\n>|<\n>|<\n>i<\n>’...}
+      14        0   {}-{by Richard Aoo}
+      12        0   {A<\n>TREATISE}-{permenant<\n>rs}
+      11        0   {20}-{(harch-yard}
+      11        0   {LONDON,<\n>Pri}-{ing in Ke}
+      10        0   {}-{at the fig}
+       9        0   {GRIFFITH.}-{Tald-}
+       9        0   {in Kent, }-{profitabl}
+       9        0   {}-{<\n>[pared n}
+       8        0   {11.}-{in Pauls}
+       8        0   {ch‑yard,}-{eunto is}
+       8        0   {y fall t}-{nn}
+       7        0   {1653.<\n>T}-{added t}
+       7        0   {Uſes fl}-{d}
+       7        0   {ny<\n>abſu}-{t Dogt}
+       7        0   {re to b}-{nfwer}
+       7        0   {t the ſ}-{bfurdit}
+       7        0   {}-{tobefol}
+       6        0   { Reaſo}-{di}
+       6        0   {Argume}-{Reafo}
+       6        0   {H�n. H}-{exam}
+       6        0   {ending}-{o}
+       6        0   {is add}-{Argum}
+       6        0   {nd man}-{s<\n>the}
+       6        0   {were l}-{}
+       6        0   {}-{ft}
+       5        0   {21}-{6-§ 3}
+       5        0   {Rom.}-{Stars}
+       5        0   {and a}-{owi}
+       5        0   {xamin}-{ Ut}
+       4        0   { ſol}-{}
+       4        0   {.<\n>By}-{nce}
+       4        0   {JOHN}-{at}
+       4        0   {Moon}-{many}
+       4        0   {OUCH}-{REAT}
+       4        0   {ally}-{}
+       4        0   {and }-{}
+       4        0   {at Y}-{-<\n>}
+       4        0   {ed b}-{}
+       4        0   {from}-{at}
+       4        0   {lls,}-{ned}
+       4        0   {nnot}-{y}
+       4        0   {ofit}-{el}
+       4        0   {s of}-{,<\n>By}
+       4        0   {that}-{JoHN}
+       4        0   {rin}-{nfer}
+       3        0   { by}-{s}
+       3        0   {,}-{yen}
+       3        0   {ard}-{}
+       3        0   {ble}-{id}
+       3        0   {dow}-{fi}
+       3        0   {hir}-{s }
+       3        0   {nfe}-{m G}
+       3        0   {t a}-{lly}
+       3        0   {to<\n>}-{}
+       3        0   {}-{<\n>‘{}
+       3        0   {}-{nda}
+       3        0   {ſwe}-{g f}
+       3        0   {‑<\n>i}-{ ma}
+       2        0   { m}-{}
+       2        0   { }-{}
+       2        0   {1.}-{%}
+       2        0   {<\n>}-{ }
+       2        0   {C}-{fr}
+       2        0   {NG}-{SE}
+       2        0   {W}-{|T}
+       2        0   {d }-{n}
+       2        0   {d;}-{m}
+       2        0   {en}-{a}
+       2        0   {e}-{at}
+       2        0   {fr}-{t}
+       2        0   {gn}-{es}
+       2        0   {in}-{}
+       2        0   {i}-{n}
+       2        0   {p}-{we}
+       2        0   {r}-{i}
+       2        0   {th}-{}
+       2        0   {ti}-{n}
+       2        0   {to}-{}
+       2        0   {t}-{}
+       2        0   {u}-{e}
+       2        0   {wi}-{}
+       2        0   {}-{ f}
+       2        0   {ſ}-{f}
+       2        0   {ﬆ}-{St}
+       1        0   { }-{<\n>}
+       1        0   {.}-{,}
+       1        0   {C}-{W}
+       1        0   {D}-{C}
+       1        0   {G}-{g}
+       1        0   {R}-{w}
+       1        0   {c}-{m}
+       1        0   {c}-{t}
+       1        0   {d}-{s}
+       1        0   {d}-{}
+       1        0   {e}-{i}
+       1        0   {e}-{}
+       1        0   {g}-{y}
+       1        0   {g}-{}
+       1        0   {h}-{b}
+       1        0   {i}-{}
+       1        0   {m}-{c}
+       1        0   {s}-{S}
+       1        0   {s}-{g}
+       1        0   {t}-{f}
+       1        0   {v}-{y}
+       1        0   {y}-{}
+       1        0   {}-{ }
+       1        0   {}-{,}
+       1        0   {}-{1}
+       1        0   {}-{t}
+
+   Count   Missed   %Right
+      23       11    52.17   {<\n>}
+     124       33    73.39   { }
+      12        6    50.00   {,}
+      13        9    30.77   {.}
+       1        1     0.00   {0}
+       6        5    16.67   {1}
+       2        2     0.00   {2}
+       2        1    50.00   {3}
+       1        1     0.00   {5}
+       1        1     0.00   {6}
+       1        0   100.00   {:}
+       1        1     0.00   {;}
+       5        3    40.00   {A}
+       3        1    66.67   {B}
+       5        3    40.00   {C}
+       2        2     0.00   {D}
+       3        2    33.33   {E}
+       3        2    33.33   {F}
+       6        3    50.00   {G}
+       6        5    16.67   {H}
+       5        3    40.00   {I}
+       1        1     0.00   {J}
+       1        1     0.00   {K}
+       3        1    66.67   {L}
+       1        1     0.00   {M}
+       5        4    20.00   {N}
+       5        4    20.00   {O}
+       2        2     0.00   {P}
+       8        5    37.50   {R}
+       2        2     0.00   {S}
+       5        4    20.00   {T}
+       2        2     0.00   {U}
+       2        1    50.00   {W}
+       1        1     0.00   {Y}
+      55       19    65.45   {a}
+      12        5    58.33   {b}
+       8        4    50.00   {c}
+      28       16    42.86   {d}
+      70       24    65.71   {e}
+      21        7    66.67   {f}
+       7        6    14.29   {g}
+      30        8    73.33   {h}
+      29       17    41.38   {i}
+       3        0   100.00   {k}
+      25       11    56.00   {l}
+      12        8    33.33   {m}
+      46       22    52.17   {n}
+      39       14    64.10   {o}
+       5        1    80.00   {p}
+      36       15    58.33   {r}
+      14        9    35.71   {s}
+      50       20    60.00   {t}
+      11        5    54.55   {u}
+       6        2    66.67   {v}
+       8        5    37.50   {w}
+       1        1     0.00   {x}
+      13        7    46.15   {y}
+      11       11     0.00   {ſ}
+       2        2     0.00   {‑}
+       3        3     0.00   {}
+       2        2     0.00   {}
+       1        1     0.00   {ﬆ}
+       1        1     0.00   {�}

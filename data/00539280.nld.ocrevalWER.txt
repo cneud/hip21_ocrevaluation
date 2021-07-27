@@ -1,0 +1,200 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     221   Words
+      28   Misrecognized
+   87.33%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       1        1     0.00        1
+       1        0   100.00        2
+       2        0   100.00        3
+       2        0   100.00        4
+       6        1    83.33    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       7        1    85.71        1
+      45        5    88.89        2
+      50        3    94.00        3
+      40        6    85.00        4
+      17        1    94.12        5
+      14        1    92.86        6
+      12        0   100.00        7
+       6        3    50.00        8
+      10        1    90.00        9
+       3        1    66.67       10
+       8        2    75.00       11
+       1        1     0.00       13
+       1        1     0.00       14
+       1        1     0.00       15
+     215       27    87.44    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+     106       20    81.13        1
+      12        2    83.33        2
+      10        0   100.00        3
+       3        0   100.00        4
+       4        0   100.00        5
+       1        0   100.00       10
+       1        0   100.00      >10
+     137       22    83.94    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     221       28    87.33        1
+     220       48    78.18        2
+     219       65    70.32        3
+     218       77    64.68        4
+     217       88    59.45        5
+     216       98    54.63        6
+     215      105    51.16        7
+     214      111    48.13        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       1        0   100.00   on
+       2        0   100.00   over
+       2        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   aan
+       1        0   100.00   aangaande
+       1        1     0.00   aangez
+       1        0   100.00   aantetoonen
+       1        0   100.00   aanzag
+       1        0   100.00   agtte
+       3        0   100.00   alleen
+       1        0   100.00   als
+       1        0   100.00   anderen
+       1        0   100.00   ben
+       1        0   100.00   bewe
+       1        1     0.00   beſchouwen
+       2        0   100.00   bibliotheek
+       1        0   100.00   brie
+       1        0   100.00   brieven
+       1        0   100.00   charakter
+       1        0   100.00   daar
+       2        0   100.00   dat
+       5        0   100.00   de
+       1        0   100.00   deed
+       1        0   100.00   deelige
+       1        0   100.00   den
+       1        0   100.00   der
+       1        0   100.00   derrigten
+       1        0   100.00   des
+       5        0   100.00   die
+       1        0   100.00   dier
+       1        0   100.00   doen
+       2        0   100.00   door
+       2        0   100.00   een
+       1        0   100.00   eens
+       1        0   100.00   eenvoudig
+       1        0   100.00   eigen
+       5        0   100.00   en
+       2        1    50.00   ge
+       2        0   100.00   geen
+       1        0   100.00   geene
+       1        0   100.00   geopend
+       1        0   100.00   geweten
+       1        1     0.00   geſchreven
+       1        0   100.00   gingen
+       1        0   100.00   goeddagt
+       1        0   100.00   goede
+       1        0   100.00   gronden
+       1        1     0.00   gt
+       3        0   100.00   heb
+       2        0   100.00   helpen
+       1        0   100.00   hem
+       1        0   100.00   hervormde
+       3        0   100.00   het
+       1        0   100.00   hier
+       1        0   100.00   iegelijk
+       1        0   100.00   iemand
+      13        0   100.00   ik
+       1        1     0.00   inboezemingen
+       1        0   100.00   kan
+       1        0   100.00   kant
+       1        0   100.00   kerk
+       1        0   100.00   kerke
+       1        1     0.00   kinderdoop
+       1        0   100.00   kwijten
+       2        0   100.00   laten
+       1        0   100.00   leedwezen
+       1        1     0.00   leer
+       1        0   100.00   lievelingen
+       1        0   100.00   maakt
+       2        0   100.00   maar
+       1        0   100.00   maken
+       1        0   100.00   medeleden
+       2        0   100.00   men
+       3        0   100.00   met
+       4        0   100.00   mij
+       3        0   100.00   mijn
+       3        0   100.00   mijne
+       1        0   100.00   mijnen
+       1        0   100.00   mits
+       1        0   100.00   moeten
+       1        1     0.00   na
+       1        0   100.00   naar
+       3        0   100.00   niet
+       1        0   100.00   noch
+       1        0   100.00   noemen
+       1        0   100.00   nu
+       4        0   100.00   om
+       1        1     0.00   ontſchuldigden
+       1        0   100.00   oogmerk
+       1        0   100.00   oogmerken
+       1        1     0.00   ooit
+       1        0   100.00   oordeelen
+       1        0   100.00   op
+       1        1     0.00   oten
+       1        0   100.00   partij
+       1        1     0.00   perſoon
+       1        0   100.00   plaat
+       1        0   100.00   plicht
+       1        1     0.00   pligt
+       1        0   100.00   redenen
+       1        0   100.00   reeds
+       1        0   100.00   schrijvers
+       4        1    75.00   t
+      10        1    90.00   te
+       1        0   100.00   ten
+       1        0   100.00   toen
+       1        0   100.00   twist
+       1        0   100.00   twisten
+       3        0   100.00   u
+       1        1     0.00   uk
+       1        1     0.00   vaderlandſche
+       5        0   100.00   van
+       1        0   100.00   ven
+       1        0   100.00   verdedigen
+       1        0   100.00   verdediging
+       1        0   100.00   verzoek
+       1        0   100.00   vi
+       1        1     0.00   voor
+       1        0   100.00   voorinnemen
+       1        0   100.00   voorkwam
+       1        1     0.00   voorreden
+       1        0   100.00   ware
+       1        0   100.00   wars
+       1        0   100.00   weet
+       1        0   100.00   wel
+       1        0   100.00   wie
+       1        0   100.00   wil
+       1        0   100.00   zaken
+       1        0   100.00   zeer
+       1        0   100.00   zig
+       1        0   100.00   zij
+       3        0   100.00   zijn
+       1        0   100.00   zoek
+       3        0   100.00   zoo
+       1        1     0.00   zwar
+       1        0   100.00   zwijgen
+       2        2     0.00   ſchrijf
+       1        1     0.00   ſen
+       2        2     0.00   
+       1        1     0.00   

@@ -1,0 +1,122 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1012   Characters
+     253   Errors
+   75.00%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   75.00%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     101       37      115      253   Unmarked
+     101       37      115      253   Total
+
+   Count   Missed   %Right
+     177       20    88.70   ASCII Spacing Characters
+      37       10    72.97   ASCII Special Symbols
+      14        5    64.29   ASCII Digits
+     100       16    84.00   ASCII Uppercase Letters
+     670       74    88.96   ASCII Lowercase Letters
+       3        3     0.00   Latin Extended-A
+      10        9    10.00   General Punctuation
+       1        1     0.00   Private Use Area
+    1012      138    86.36   Total
+
+  Errors   Marked   Correct-Generated
+      57        0   {}-{der genen, die geen Beli...}
+      43        0   {}-{DAAR „na geef ik een b...}
+      40        0   {AAR na geef ik een bijzo...}-{}
+      40        0   {N aanzien der genen, die...}-{}
+      15        0   {doen. bl. 254.<\n>}-{}
+       5        0   {XX<\n>V}-{x Vv }
+       4        0   {}-{ }
+       4        0   {ĲNE}-{ijne}
+       3        0   {.}-{,}
+       3        0   {24I}-{agr}
+       3        0   {<\n>DE}-{ 5}
+       3        0   {h}-{b}
+       3        0   {‑}-{-}
+       2        0   { ’}-{}
+       2        0   {H.}-{IL}
+       2        0   {en}-{€}
+       2        0   {l‑}-{k}
+       2        0   {}-{ -}
+       2        0   {}-{ :}
+       2        0   {}-{= }
+       2        0   {}-{o }
+       2        0   {ſ}-{f}
+       2        0   {’t}-{+}
+       1        0   { }-{-}
+       1        0   {.}-{e}
+       1        0   {A}-{a}
+       1        0   {o}-{a}
+       1        0   {t}-{Z}
+       1        0   {}-{.}
+       1        0   {‑}-{e}
+       1        0   {‑}-{s}
+       1        0   {’}-{*}
+       1        0   {}-{ë}
+
+   Count   Missed   %Right
+      29        4    86.21   {<\n>}
+     148       16    89.19   { }
+      13        1    92.31   {,}
+      24        9    62.50   {.}
+       6        2    66.67   {2}
+       2        0   100.00   {3}
+       2        2     0.00   {4}
+       2        1    50.00   {5}
+       1        0   100.00   {6}
+       1        0   100.00   {8}
+      10        3    70.00   {A}
+       4        1    75.00   {B}
+       2        0   100.00   {C}
+       4        1    75.00   {D}
+      15        2    86.67   {E}
+       2        0   100.00   {F}
+       2        0   100.00   {G}
+       5        1    80.00   {H}
+       6        1    83.33   {I}
+       2        0   100.00   {K}
+       4        0   100.00   {L}
+       3        0   100.00   {M}
+      10        2    80.00   {N}
+       3        0   100.00   {O}
+       8        1    87.50   {R}
+       3        0   100.00   {S}
+      10        1    90.00   {T}
+       2        0   100.00   {U}
+       2        1    50.00   {V}
+       3        2    33.33   {X}
+      32        4    87.50   {a}
+      19        2    89.47   {b}
+       6        0   100.00   {c}
+      51        6    88.24   {d}
+     145       16    88.97   {e}
+       3        1    66.67   {f}
+      33        3    90.91   {g}
+      21        3    85.71   {h}
+      53        6    88.68   {i}
+      10        2    80.00   {j}
+      16        1    93.75   {k}
+      23        3    86.96   {l}
+      10        0   100.00   {m}
+      81       12    85.19   {n}
+      39        5    87.18   {o}
+       5        0   100.00   {p}
+      34        3    91.18   {r}
+      12        1    91.67   {s}
+      38        3    92.11   {t}
+       9        0   100.00   {u}
+      12        0   100.00   {v}
+       8        1    87.50   {w}
+      10        2    80.00   {z}
+       1        1     0.00   {Ĳ}
+       2        2     0.00   {ſ}
+       6        6     0.00   {‑}
+       4        3    25.00   {’}
+       1        1     0.00   {}

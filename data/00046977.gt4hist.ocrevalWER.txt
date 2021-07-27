@@ -1,0 +1,170 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     235   Words
+     126   Misrecognized
+   46.38%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       5        5     0.00        1
+       7        2    71.43        2
+       2        0   100.00        3
+      14        7    50.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      18       17     5.56        1
+      27       14    48.15        2
+     100       56    44.00        3
+      19        9    52.63        4
+      21       13    38.10        5
+      14        1    92.86        6
+      12        4    66.67        7
+       5        3    40.00        8
+       2        2     0.00       10
+       3        0   100.00       11
+     221      119    46.15    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      69       27    60.87        1
+      21        7    66.67        2
+       6        4    33.33        3
+       4        2    50.00        4
+       1        1     0.00        5
+       2        0   100.00        6
+       2        2     0.00        7
+       2        1    50.00        8
+       1        1     0.00      >10
+     108       45    58.33    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     235      126    46.38        1
+     234      166    29.06        2
+     233      192    17.60        3
+     232      207    10.78        4
+     231      218     5.63        5
+     230      224     2.61        6
+     229      227     0.87        7
+     228      228     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       1        1     0.00   he
+       4        4     0.00   i
+       5        0   100.00   in
+       1        1     0.00   no
+       2        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   aber
+       2        0   100.00   alſo
+       1        0   100.00   antwor
+       2        0   100.00   antwort
+       1        1     0.00   auswirﬀt
+       1        0   100.00   betriegerey
+       1        0   100.00   bi
+       1        0   100.00   bin
+       1        0   100.00   brennen
+       1        0   100.00   buſen
+       2        0   100.00   da
+       1        1     0.00   darna
+       4        0   100.00   das
+       4        0   100.00   dem
+       1        0   100.00   den
+       2        0   100.00   denn
+       6        0   100.00   der
+       2        0   100.00   des
+       8        1    87.50   die
+       1        0   100.00   dritten
+       4        4     0.00   e
+       1        0   100.00   ein
+       1        0   100.00   eine
+       7        7     0.00   en
+       6        0   100.00   er
+       1        1     0.00   ewigli
+       1        0   100.00   f
+       1        1     0.00   fa
+       2        0   100.00   frawen
+       2        2     0.00   g
+       1        1     0.00   gab
+       1        0   100.00   ge
+       1        0   100.00   geben
+       1        1     0.00   gef
+       1        1     0.00   geh
+       1        0   100.00   gehabt
+       1        0   100.00   geholet
+       1        1     0.00   geſ
+       1        1     0.00   geſe
+       1        0   100.00   gib
+       1        1     0.00   glo
+       1        0   100.00   grauſamere
+       1        1     0.00   grawſamli
+       1        1     0.00   gro
+       2        0   100.00   hab
+       1        0   100.00   hat
+       1        1     0.00   hret
+       1        1     0.00   iĳ
+       3        3     0.00   iﬀ
+       4        4     0.00   iﬀman
+       1        0   100.00   jhm
+       2        0   100.00   jhn
+       1        1     0.00   k
+       1        0   100.00   kam
+       1        0   100.00   kein
+       1        0   100.00   leute
+       1        0   100.00   lies
+       1        1     0.00   ma
+       1        1     0.00   maren
+       1        0   100.00   mehr
+       1        0   100.00   mir
+       1        0   100.00   mus
+       2        2     0.00   ni
+       1        1     0.00   nigs
+       3        0   100.00   patron
+       1        1     0.00   ret
+       1        1     0.00   rey
+       1        1     0.00   reyen
+       2        2     0.00   rtel
+       7        7     0.00   s
+       1        0   100.00   sa
+       1        0   100.00   sicilia
+       1        0   100.00   spiels
+       1        0   100.00   stadthalter
+       3        0   100.00   stimme
+       2        2     0.00   t
+       1        0   100.00   ten
+       1        0   100.00   tergehen
+       3        3     0.00   teuﬀel
+       1        1     0.00   u
+       1        0   100.00   vmb
+       1        0   100.00   vn
+       2        0   100.00   vnd
+       2        0   100.00   vnnd
+       1        0   100.00   ward
+       1        1     0.00   weig
+       1        0   100.00   weineten
+       1        1     0.00   wi
+       1        0   100.00   wider
+       1        0   100.00   wil
+       2        0   100.00   wiltu
+       1        0   100.00   zu
+       1        0   100.00   zum
+       2        2     0.00   ſ
+       2        1    50.00   ſagt
+       2        0   100.00   ſeiner
+       2        0   100.00   ſo
+       1        0   100.00   ſolte
+       8        8     0.00   ſpra
+       1        1     0.00   ſu
+       2        2     0.00   
+       3        3     0.00   
+       3        3     0.00   
+       1        1     0.00   
+       2        2     0.00   
+       1        1     0.00   
+       5        5     0.00   
+      29       29     0.00   

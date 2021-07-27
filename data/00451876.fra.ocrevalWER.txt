@@ -1,0 +1,176 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     177   Words
+      90   Misrecognized
+   49.15%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       5        3    40.00        1
+       6        2    66.67        2
+      11        5    54.55    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       5        4    20.00        1
+      33        9    72.73        2
+      49       34    30.61        3
+      28       11    60.71        4
+      12        5    58.33        5
+      10        3    70.00        6
+       6        6     0.00        7
+       8        5    37.50        8
+       4        0   100.00        9
+       8        7    12.50       10
+       3        1    66.67       11
+     166       85    48.80    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      94       51    45.74        1
+      10        3    70.00        2
+       6        3    50.00        3
+       3        1    66.67        4
+       3        2    33.33        5
+       1        0   100.00        7
+     117       60    48.72    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     177       90    49.15        1
+     176      124    29.55        2
+     175      145    17.14        3
+     174      154    11.49        4
+     173      161     6.94        5
+     172      166     3.49        6
+     171      168     1.75        7
+     170      168     1.18        8
+
+Stopwords
+   Count   Missed   %Right   
+       3        1    66.67   a
+       1        1     0.00   do
+       2        2     0.00   i
+       1        1     0.00   in
+       3        0   100.00   me
+       1        0   100.00   on
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   aire
+       1        1     0.00   ame
+       1        1     0.00   apparences
+       3        2    33.33   au
+       1        1     0.00   aucune
+       1        1     0.00   auec
+       1        1     0.00   augu
+       1        1     0.00   auteur
+       1        1     0.00   auſquelles
+       1        1     0.00   beaucoup
+       1        0   100.00   bien
+       1        0   100.00   c'en
+       2        1    50.00   ce
+       1        0   100.00   celles
+       1        1     0.00   ceux
+       1        1     0.00   con
+       1        0   100.00   conformité
+       1        0   100.00   contenuës
+       2        0   100.00   dans
+       7        0   100.00   de
+       1        1     0.00   dere
+       1        1     0.00   des
+       2        2     0.00   deſcartes
+       3        3     0.00   e
+       2        1    50.00   en
+       1        1     0.00   ent
+       1        1     0.00   eu
+       2        2     0.00   eur
+       1        1     0.00   eſperan
+       1        1     0.00   eſperer
+       1        0   100.00   fait
+       1        0   100.00   fauorable
+       1        0   100.00   felon
+       1        0   100.00   flater
+       1        0   100.00   fort
+       1        0   100.00   fortement
+       5        1    80.00   ie
+       2        0   100.00   il
+       1        0   100.00   iour
+       1        1     0.00   ja
+       3        0   100.00   la
+       1        0   100.00   laquelle
+       4        0   100.00   les
+       1        0   100.00   lieu
+       1        0   100.00   liures
+       1        1     0.00   liſent
+       1        0   100.00   loin
+       1        0   100.00   medita
+       1        1     0.00   metaphy
+       1        0   100.00   mets
+       2        2     0.00   mon
+       1        1     0.00   n'ay
+       1        1     0.00   n'e
+       1        1     0.00   n'y
+       1        0   100.00   nature
+       2        0   100.00   ne
+       1        1     0.00   nece
+       1        0   100.00   nous
+       1        1     0.00   oppoſé
+       1        0   100.00   ou
+       1        1     0.00   ouurage
+       2        0   100.00   pas
+       1        1     0.00   perſonnes
+       1        1     0.00   perſuadé
+       1        0   100.00   peut
+       1        0   100.00   plaire
+       1        0   100.00   plus
+       1        0   100.00   point
+       1        0   100.00   pou
+       1        0   100.00   pour
+       1        1     0.00   preface
+       1        0   100.00   promettre
+       1        1     0.00   pui
+       1        1     0.00   puiſque
+       1        1     0.00   q
+       1        0   100.00   qu'entre
+       2        0   100.00   qu'il
+       1        1     0.00   qu'à
+       1        0   100.00   quatre
+       4        0   100.00   que
+       1        1     0.00   ques
+       3        0   100.00   qui
+       1        1     0.00   re
+       1        1     0.00   rine
+       1        0   100.00   rois
+       1        0   100.00   saint
+       1        0   100.00   temerité
+       1        0   100.00   tez
+       1        0   100.00   tions
+       1        0   100.00   touchant
+       1        0   100.00   traittement
+       1        0   100.00   trois
+       1        0   100.00   vand
+       1        1     0.00   veri
+       1        0   100.00   vn
+       1        1     0.00   vne
+       1        0   100.00   voir
+       1        0   100.00   y
+       1        0   100.00   à
+       1        1     0.00   ã
+       1        1     0.00   ſans
+       1        1     0.00   ſe
+       1        1     0.00   ſeignées
+       1        1     0.00   ſemble
+       1        1     0.00   ſentimens
+       1        1     0.00   ſes
+       1        1     0.00   ſoit
+       1        1     0.00   ſont
+       1        1     0.00   ſortes
+       1        1     0.00   ſuis
+       1        1     0.00   ſuite
+       4        4     0.00   
+       5        5     0.00   
+       5        5     0.00   
+       1        1     0.00   
+       3        3     0.00   
+       3        3     0.00   

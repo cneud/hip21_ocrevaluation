@@ -1,0 +1,183 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     218   Words
+     155   Misrecognized
+   28.90%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       3        3     0.00        1
+       4        2    50.00        2
+       1        0   100.00        3
+       8        5    37.50    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      15       15     0.00        1
+      28       20    28.57        2
+     103       75    27.18        3
+      20       13    35.00        4
+      17       10    41.18        5
+      13        8    38.46        6
+       7        4    42.86        7
+       5        5     0.00        8
+       1        0   100.00       10
+       1        0   100.00       11
+     210      150    28.57    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      92       58    36.96        1
+      17       10    41.18        2
+       3        1    66.67        3
+       4        3    25.00        4
+       1        1     0.00        6
+       1        1     0.00        7
+       1        0   100.00        8
+       1        0   100.00        9
+       2        2     0.00      >10
+     122       76    37.70    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     218      155    28.90        1
+     217      186    14.29        2
+     216      198     8.33        3
+     215      206     4.19        4
+     214      207     3.27        5
+     213      208     2.35        6
+     212      209     1.42        7
+     211      209     0.95        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        0   100.00   an
+       1        1     0.00   he
+       3        3     0.00   i
+       1        0   100.00   man
+       1        1     0.00   we
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   1579
+       1        0   100.00   abge
+       2        1    50.00   als
+       1        0   100.00   alſo
+       2        0   100.00   am
+       1        0   100.00   andern
+       1        1     0.00   ang
+       1        0   100.00   anno
+       1        0   100.00   arm
+       1        1     0.00   au
+       2        2     0.00   auﬀ
+       1        1     0.00   auﬀs
+       1        1     0.00   aﬀt
+       1        1     0.00   bamberg
+       1        1     0.00   bin
+       1        1     0.00   bra
+       1        1     0.00   bru
+       1        1     0.00   bſaln
+       1        1     0.00   da
+       3        1    66.67   das
+       1        0   100.00   denen
+       4        2    50.00   der
+       2        2     0.00   di
+       9        3    66.67   die
+       1        0   100.00   dieweil
+       1        0   100.00   dis
+       1        1     0.00   drauﬀ
+       1        0   100.00   drey
+       1        1     0.00   dur
+       6        6     0.00   e
+       2        2     0.00   ehnli
+       1        0   100.00   ei
+       1        1     0.00   eigentli
+       1        0   100.00   ein
+       2        0   100.00   einem
+       2        1    50.00   einer
+       2        1    50.00   eins
+       1        1     0.00   el
+       1        1     0.00   eln
+       4        4     0.00   en
+       1        1     0.00   erlein
+       1        0   100.00   ermel
+       3        1    66.67   es
+       1        1     0.00   f
+       1        1     0.00   fein
+       1        0   100.00   gar
+       1        0   100.00   ge
+       1        1     0.00   gef
+       1        0   100.00   geformiret
+       1        0   100.00   gehabt
+       1        0   100.00   gen
+       1        1     0.00   gewa
+       1        1     0.00   gewe
+       1        1     0.00   geweſen
+       1        1     0.00   gezieret
+       1        1     0.00   geſehen
+       1        1     0.00   glei
+       1        1     0.00   gro
+       1        1     0.00   h
+       1        1     0.00   handel
+       1        0   100.00   hart
+       1        0   100.00   haut
+       1        0   100.00   hen
+       1        1     0.00   hendkr
+       1        0   100.00   ho
+       1        1     0.00   jun
+       2        2     0.00   kr
+       1        0   100.00   kragen
+       1        1     0.00   kraut
+       1        1     0.00   l
+       1        1     0.00   le
+       1        1     0.00   leng
+       2        2     0.00   m
+       1        0   100.00   mag
+       1        0   100.00   mahl
+       1        1     0.00   mals
+       2        1    50.00   mit
+       1        1     0.00   mittel
+       1        1     0.00   n
+       1        0   100.00   nen
+       1        1     0.00   p
+       1        1     0.00   pauſen
+       1        1     0.00   reiﬀ
+       1        1     0.00   rmig
+       2        0   100.00   stengel
+       1        1     0.00   sto
+       1        1     0.00   t
+       2        2     0.00   ten
+       1        0   100.00   ter
+       1        1     0.00   tert
+       1        0   100.00   tig
+       1        1     0.00   tr
+       1        1     0.00   trennet
+       1        1     0.00   v
+       1        1     0.00   vn
+       8        4    50.00   vnd
+       1        0   100.00   vns
+       1        1     0.00   vnten
+       1        0   100.00   vntern
+       1        1     0.00   wei
+       1        1     0.00   wel
+       1        0   100.00   werden
+       1        1     0.00   wirt
+       1        0   100.00   zu
+       1        0   100.00   zubeſorgen
+       1        1     0.00   zum
+       1        1     0.00   zuſehen
+       1        0   100.00   zween
+       3        3     0.00   ß
+       2        2     0.00   ſ
+       1        1     0.00   ſehen
+       2        2     0.00   ſein
+       2        2     0.00   ſen
+       1        0   100.00   ſo
+       7        7     0.00   
+       4        4     0.00   
+      12       12     0.00   
+       2        2     0.00   
+       4        4     0.00   
+       1        1     0.00   
+       1        1     0.00   
+      17       17     0.00   

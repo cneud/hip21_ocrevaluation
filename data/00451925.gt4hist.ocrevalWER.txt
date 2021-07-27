@@ -1,0 +1,133 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     114   Words
+      39   Misrecognized
+   65.79%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        1    75.00        1
+       1        1     0.00        2
+       5        2    60.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       2        1    50.00        1
+      27        6    77.78        2
+      28       14    50.00        3
+      14        4    71.43        4
+      13        3    76.92        5
+       6        2    66.67        6
+       4        2    50.00        7
+       7        3    57.14        8
+       6        1    83.33        9
+       2        1    50.00       10
+     109       37    66.06    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      64       22    65.62        1
+       9        4    55.56        2
+       4        1    75.00        3
+       1        0   100.00        4
+       1        0   100.00      >10
+      79       27    65.82    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     114       39    65.79        1
+     113       57    49.56        2
+     112       69    38.39        3
+     111       78    29.73        4
+     110       84    23.64        5
+     109       89    18.35        6
+     108       91    15.74        7
+     107       92    14.02        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        0   100.00   a
+       2        1    50.00   i
+       1        1     0.00   on
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   1
+       1        0   100.00   ait
+       1        0   100.00   au
+       1        1     0.00   auec
+       1        0   100.00   auront
+       1        0   100.00   beaucoup
+       1        0   100.00   bien
+       2        1    50.00   ce
+       1        0   100.00   cette
+       1        0   100.00   ceux
+       1        0   100.00   chapitre
+       1        0   100.00   clar
+       1        0   100.00   combien
+       1        1     0.00   connoi
+       1        0   100.00   conſoler
+       1        0   100.00   crains
+      11        2    81.82   de
+       1        1     0.00   demon
+       1        0   100.00   deſcartes
+       1        1     0.00   diui
+       1        1     0.00   donne
+       1        1     0.00   donner
+       1        0   100.00   doute
+       3        0   100.00   du
+       1        0   100.00   e
+       1        1     0.00   ein
+       1        1     0.00   empeſché
+       1        0   100.00   en
+       1        1     0.00   eur
+       1        1     0.00   expliqué
+       1        0   100.00   eſcrits
+       1        0   100.00   facilité
+       1        0   100.00   faire
+       1        0   100.00   garde
+       1        0   100.00   grand
+       1        0   100.00   homme
+       2        1    50.00   ie
+       1        0   100.00   il
+       1        1     0.00   l'esprit
+       1        1     0.00   l'homme
+       2        0   100.00   la
+       4        0   100.00   les
+       1        0   100.00   leu
+       1        1     0.00   lieu
+       1        0   100.00   luy
+       1        1     0.00   mon
+       1        0   100.00   monde
+       1        0   100.00   mort
+       1        0   100.00   mouuemens
+       1        0   100.00   n'ayent
+       1        0   100.00   nature
+       1        0   100.00   ne
+       1        0   100.00   neanmoins
+       1        0   100.00   nes
+       2        0   100.00   nous
+       1        1     0.00   oit
+       1        0   100.00   perte
+       1        0   100.00   petit
+       1        0   100.00   phenomé
+       1        0   100.00   point
+       1        0   100.00   pour
+       1        0   100.00   pris
+       1        1     0.00   qu'au
+       3        0   100.00   que
+       3        0   100.00   qui
+       2        2     0.00   re
+       1        0   100.00   regret
+       1        1     0.00   rer
+       1        1     0.00   ront
+       1        0   100.00   tierement
+       2        0   100.00   tous
+       1        1     0.00   traitte
+       2        2     0.00   traitté
+       1        1     0.00   té
+       1        0   100.00   à
+       3        3     0.00   
+       2        2     0.00   
+       1        1     0.00   
+       2        2     0.00   

@@ -1,0 +1,196 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     221   Words
+     113   Misrecognized
+   48.87%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        4     0.00        1
+       1        0   100.00        2
+       5        4    20.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       5        5     0.00        1
+      32       17    46.88        2
+      66       32    51.52        3
+      30       14    53.33        4
+      17        8    52.94        5
+      15        9    40.00        6
+      15        7    53.33        7
+       7        4    42.86        8
+      11        4    63.64        9
+       6        2    66.67       10
+       5        3    40.00       11
+       3        2    33.33       12
+       3        2    33.33       13
+       1        0   100.00       16
+     216      109    49.54    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+     101       46    54.46        1
+      16        7    56.25        2
+       6        3    50.00        3
+       6        2    66.67        4
+       2        1    50.00        5
+       1        0   100.00        6
+       2        1    50.00        7
+       1        0   100.00      >10
+     135       60    55.56    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     221      113    48.87        1
+     220      148    32.73        2
+     219      170    22.37        3
+     218      185    15.14        4
+     217      196     9.68        5
+     216      201     6.94        6
+     215      203     5.58        7
+     214      205     4.21        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        2     0.00   a
+       1        0   100.00   at
+       2        2     0.00   i
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   24
+       3        3     0.00   ances
+       1        0   100.00   antiquité
+       1        0   100.00   appartiennent
+       1        1     0.00   ateurs
+       4        3    25.00   au
+       1        0   100.00   auan
+       1        0   100.00   auons
+       3        1    66.67   autres
+       2        0   100.00   aux
+       1        0   100.00   ayent
+       1        0   100.00   bien
+       1        0   100.00   ce
+       1        0   100.00   cer
+       1        0   100.00   ces
+       2        2     0.00   ceux
+       1        1     0.00   chap
+       1        0   100.00   chapitre
+       1        1     0.00   choſe
+       1        0   100.00   combattre
+       1        0   100.00   communique
+       1        1     0.00   compoſé
+       1        1     0.00   con
+       1        1     0.00   connoiſ
+       1        0   100.00   contraire
+       1        1     0.00   contre
+       2        1    50.00   corporelles
+       1        0   100.00   corps
+       1        0   100.00   croient
+       1        1     0.00   cy
+       1        0   100.00   cét
+       1        0   100.00   dans
+       6        2    66.67   de
+       1        0   100.00   derable
+       4        2    50.00   des
+       1        0   100.00   deux
+       1        1     0.00   deſcouurir
+       1        0   100.00   doutent
+       4        4     0.00   e
+       2        2     0.00   ent
+       2        2     0.00   eu
+       1        0   100.00   expliquée
+       1        0   100.00   faire
+       1        0   100.00   formé
+       1        0   100.00   fort
+       1        0   100.00   friuoles
+       1        1     0.00   gro
+       1        0   100.00   i'auance
+       1        1     0.00   i'eſpere
+       1        1     0.00   ie
+       1        1     0.00   iers
+       2        0   100.00   ils
+       1        1     0.00   iment
+       1        1     0.00   ions
+       1        1     0.00   iv
+       1        1     0.00   l
+       4        2    50.00   la
+       2        1    50.00   le
+       7        1    85.71   les
+       1        1     0.00   leur
+       1        0   100.00   leurs
+       2        0   100.00   mais
+       1        1     0.00   meſme
+       1        0   100.00   monde
+       1        1     0.00   mémes
+       1        0   100.00   n'appartient
+       1        1     0.00   n'y
+       5        1    80.00   ne
+       1        0   100.00   neanmoins
+       1        1     0.00   nombre
+       1        0   100.00   nos
+       1        0   100.00   nous
+       1        0   100.00   nullement
+       1        1     0.00   obje
+       4        0   100.00   par
+       1        0   100.00   particulierement
+       1        0   100.00   party
+       1        0   100.00   pas
+       2        2     0.00   penſée
+       1        1     0.00   perſuadez
+       1        0   100.00   peu
+       1        0   100.00   peut
+       1        1     0.00   philoſophes
+       2        0   100.00   plus
+       1        0   100.00   pour
+       1        0   100.00   precedent
+       1        0   100.00   premieres
+       1        1     0.00   preuue
+       2        1    50.00   principes
+       1        1     0.00   propo
+       1        0   100.00   propres
+       1        0   100.00   proprietez
+       1        0   100.00   qu'elle
+       1        0   100.00   qu'il
+       3        1    66.67   qu'ils
+      11        1    90.91   que
+       1        0   100.00   quelquefois
+       2        1    50.00   qui
+       1        1     0.00   raiſon
+       1        1     0.00   re
+       1        1     0.00   reçoiuent
+       1        0   100.00   rien
+       1        1     0.00   s'ils
+       1        0   100.00   taquée
+       1        1     0.00   tion
+       1        1     0.00   tous
+       1        0   100.00   toutes
+       1        1     0.00   traitte
+       1        1     0.00   trompez
+       1        0   100.00   verité
+       1        0   100.00   veux
+       1        0   100.00   vn
+       1        0   100.00   vniuers
+       3        1    66.67   vns
+       1        0   100.00   voir
+       1        0   100.00   voulu
+       2        1    50.00   à
+       1        1     0.00   ſances
+       3        3     0.00   ſe
+       1        1     0.00   ſecondes
+       1        1     0.00   ſes
+       1        1     0.00   ſoient
+       1        1     0.00   ſon
+       2        2     0.00   ſont
+       1        1     0.00   ſortes
+       2        2     0.00   ſpirituelles
+       3        3     0.00   ſub
+       1        1     0.00   ſubtilité
+       1        1     0.00   ſubtils
+       1        1     0.00   ſuiure
+       1        1     0.00   ſçauroient
+       7        7     0.00   
+       4        4     0.00   
+       5        5     0.00   
+       2        2     0.00   

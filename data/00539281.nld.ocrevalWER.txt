@@ -1,0 +1,186 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     241   Words
+      37   Misrecognized
+   84.65%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+      13        1    92.31        2
+       1        0   100.00        3
+      14        1    92.86    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       7        2    71.43        1
+      32        2    93.75        2
+      74       15    79.73        3
+      43        5    88.37        4
+      18        3    83.33        5
+      16        4    75.00        6
+      11        0   100.00        7
+       7        0   100.00        8
+       7        3    57.14        9
+       7        1    85.71       10
+       4        0   100.00       11
+       1        1     0.00       14
+     227       36    84.14    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      85       18    78.82        1
+      19        1    94.74        2
+       6        0   100.00        3
+       6        0   100.00        4
+       6        1    83.33        5
+       4        0   100.00        6
+       1        0   100.00        8
+     127       20    84.25    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     241       37    84.65        1
+     240       58    75.83        2
+     239       78    67.36        3
+     238       97    59.24        4
+     237      115    51.48        5
+     236      131    44.49        6
+     235      146    37.87        7
+     234      160    31.62        8
+
+Stopwords
+   Count   Missed   %Right   
+       5        1    80.00   in
+       4        0   100.00   is
+       4        0   100.00   of
+       1        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   4
+       1        1     0.00   aan
+       1        0   100.00   aannemelijk
+       1        0   100.00   alleen
+       1        0   100.00   als
+       3        1    66.67   anders
+       1        0   100.00   begeerte
+       1        0   100.00   belangrijke
+       1        0   100.00   ben
+       1        0   100.00   beteren
+       2        0   100.00   bewezen
+       1        0   100.00   bewijs
+       1        1     0.00   beſchouw
+       1        0   100.00   bid
+       3        0   100.00   brieven
+       1        0   100.00   daar
+       2        0   100.00   daarom
+       3        0   100.00   dan
+       6        0   100.00   dat
+       3        1    66.67   de
+       1        0   100.00   denkbeelden
+       5        0   100.00   die
+       2        0   100.00   dit
+       2        0   100.00   doen
+       2        0   100.00   door
+       2        0   100.00   een
+       3        0   100.00   eene
+       1        0   100.00   egter
+       1        1     0.00   eld
+       1        1     0.00   elde
+       6        0   100.00   en
+       1        1     0.00   erk
+       1        0   100.00   gedag
+       1        1     0.00   gedre
+       4        0   100.00   geen
+       1        0   100.00   gegrond
+       1        0   100.00   gene
+       1        0   100.00   geworden
+       1        1     0.00   geſchied
+       1        0   100.00   goedkeuren
+       4        1    75.00   heb
+       1        1     0.00   heeft
+       1        0   100.00   heid
+       5        0   100.00   het
+       1        0   100.00   hier
+       2        0   100.00   hij
+       1        0   100.00   hoe
+       1        0   100.00   iegelijk
+       2        0   100.00   iemand
+       2        1    50.00   iets
+       8        0   100.00   ik
+       1        0   100.00   invloeijen
+       2        0   100.00   kan
+       1        0   100.00   kende
+       1        0   100.00   klaar
+       1        0   100.00   laat
+       1        0   100.00   levendig
+       4        0   100.00   maar
+       1        0   100.00   meer
+       2        1    50.00   men
+       5        0   100.00   mij
+       4        0   100.00   mijne
+       1        0   100.00   mogelijk
+       6        1    83.33   niet
+       1        0   100.00   nog
+       1        0   100.00   nu
+       4        0   100.00   om
+       1        1     0.00   ondertusſchen
+       1        0   100.00   onervaren
+       1        0   100.00   ont
+       1        0   100.00   ontkend
+       1        0   100.00   ontkenning
+       1        0   100.00   oog
+       1        0   100.00   oogen
+       1        0   100.00   oor
+       1        0   100.00   oordeelen
+       2        0   100.00   op
+       1        0   100.00   opmerken
+       1        0   100.00   oproeping
+       1        0   100.00   pen
+       1        0   100.00   pleiter
+       1        0   100.00   publiek
+       5        1    80.00   t
+       6        0   100.00   te
+       1        0   100.00   ten
+       1        0   100.00   tergen
+       1        0   100.00   toelegt
+       1        0   100.00   tog
+       1        0   100.00   u
+       1        1     0.00   uiten
+       1        0   100.00   uitgedrukt
+       1        0   100.00   uitgevallen
+       1        1     0.00   uk
+       1        0   100.00   uw
+       2        0   100.00   van
+       1        1     0.00   ven
+       3        2    33.33   ver
+       1        0   100.00   verdedigen
+       1        0   100.00   verzoeken
+       1        1     0.00   vii
+       1        1     0.00   vond
+       4        1    75.00   voor
+       2        2     0.00   voorge
+       1        1     0.00   voorreden
+       2        1    50.00   voorts
+       1        0   100.00   vrijmoedig
+       1        0   100.00   waar
+       1        0   100.00   waarheid
+       1        0   100.00   wat
+       2        0   100.00   weet
+       1        0   100.00   wete
+       1        0   100.00   wijze
+       1        0   100.00   wil
+       1        0   100.00   worden
+       1        0   100.00   zaak
+       1        0   100.00   zeer
+       1        0   100.00   zegge
+       1        0   100.00   zeggen
+       2        0   100.00   zig
+       2        0   100.00   zijn
+       1        0   100.00   zijne
+       5        0   100.00   zoo
+       2        0   100.00   zoude
+       1        0   100.00   één
+       1        1     0.00   ſchrijven
+       5        5     0.00   
+       1        1     0.00   

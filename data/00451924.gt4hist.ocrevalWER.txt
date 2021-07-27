@@ -1,0 +1,128 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     111   Words
+      63   Misrecognized
+   43.24%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        1    50.00        2
+       2        1    50.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       3        2    33.33        1
+      25        7    72.00        2
+      41       30    26.83        3
+       7        3    57.14        4
+       9        2    77.78        5
+       5        3    40.00        6
+       9        7    22.22        7
+       3        3     0.00        8
+       2        1    50.00        9
+       1        0   100.00       10
+       1        1     0.00       11
+       1        1     0.00       12
+       1        1     0.00       13
+       1        1     0.00       14
+     109       62    43.12    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      57       35    38.60        1
+       7        3    57.14        2
+       1        0   100.00        3
+       1        0   100.00        4
+       2        1    50.00        6
+       1        0   100.00        7
+       1        0   100.00      >10
+      70       39    44.29    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     111       63    43.24        1
+     110       84    23.64        2
+     109       94    13.76        3
+     108       98     9.26        4
+     107      101     5.61        5
+     106      104     1.89        6
+     105      104     0.95        7
+     104      104     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   at
+       1        0   100.00   me
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   373
+       1        0   100.00   388
+       1        1     0.00   395
+       1        1     0.00   403
+       1        1     0.00   413
+       1        1     0.00   422
+       1        1     0.00   437
+       1        1     0.00   aduer
+       1        1     0.00   ain
+       2        1    50.00   ame
+       1        0   100.00   apres
+       1        0   100.00   bien
+       1        1     0.00   cauſe
+       1        0   100.00   cette
+       2        2     0.00   ch
+       1        1     0.00   chap
+       1        1     0.00   chap.xxiii.de
+       1        1     0.00   chap.xxiv.de
+       1        1     0.00   chap.xxvi.quel
+       2        1    50.00   chapitres
+       1        1     0.00   contre
+       1        0   100.00   corps
+      12        3    75.00   de
+       1        1     0.00   dernier
+       4        2    50.00   des
+       1        1     0.00   douleur
+       2        2     0.00   e
+       1        0   100.00   er
+       1        1     0.00   eſprit
+       1        1     0.00   fin
+       1        1     0.00   fortune
+       1        1     0.00   fou
+       1        1     0.00   generaux
+       1        1     0.00   gues
+       1        1     0.00   hom
+       1        0   100.00   homme
+       1        0   100.00   infe
+       7        2    71.43   la
+       2        0   100.00   le
+       3        2    33.33   les
+       1        0   100.00   mort
+       1        0   100.00   moyens
+       1        0   100.00   nos
+       1        0   100.00   ou
+       1        0   100.00   p
+       6        3    50.00   pag
+       1        0   100.00   partie
+       1        1     0.00   paßions
+       1        0   100.00   pendant
+       1        0   100.00   pour
+       1        0   100.00   principale
+       1        1     0.00   que
+       1        1     0.00   remedes
+       1        0   100.00   reurs
+       1        1     0.00   rieure
+       2        1    50.00   table
+       1        1     0.00   ter
+       1        1     0.00   tez
+       1        1     0.00   traitte
+       1        0   100.00   vie
+       1        1     0.00   volupté
+       1        0   100.00   xxv
+       1        0   100.00   xxvii
+       1        1     0.00   éui
+       1        0   100.00   ſource
+       1        1     0.00   ſouuer
+       1        1     0.00   ſuperieure
+       2        2     0.00   
+       1        1     0.00   
+       6        6     0.00   

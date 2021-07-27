@@ -1,0 +1,185 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     246   Words
+     189   Misrecognized
+   23.17%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       6        6     0.00        1
+       7        6    14.29        2
+       3        1    66.67        3
+       1        0   100.00        4
+      17       13    23.53    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       6        6     0.00        1
+      47       38    19.15        2
+     110       87    20.91        3
+      23       19    17.39        4
+      23       14    39.13        5
+       9        6    33.33        6
+       6        5    16.67        7
+       3        1    66.67        8
+       2        0   100.00        9
+     229      176    23.14    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      81       60    25.93        1
+      23       13    43.48        2
+       8        7    12.50        3
+       2        0   100.00        4
+       1        0   100.00        5
+       1        1     0.00        6
+       3        0   100.00        8
+       2        2     0.00      >10
+     121       83    31.40    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     246      189    23.17        1
+     245      210    14.29        2
+     244      221     9.43        3
+     243      230     5.35        4
+     242      234     3.31        5
+     241      236     2.07        6
+     240      237     1.25        7
+     239      237     0.84        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       3        2    33.33   an
+       1        1     0.00   at
+       5        5     0.00   i
+       2        2     0.00   in
+       1        1     0.00   is
+       2        1    50.00   man
+       1        0   100.00   was
+       1        0   100.00   were
+
+Non-stopwords
+   Count   Missed   %Right   
+       2        1    50.00   aber
+       1        1     0.00   antr
+       1        0   100.00   antwortet
+       1        1     0.00   au
+       1        1     0.00   auro
+       1        1     0.00   auﬀ
+       2        2     0.00   aﬀ
+       1        0   100.00   bat
+       1        1     0.00   bleibet
+       5        3    40.00   da
+       1        1     0.00   darumb
+       4        1    75.00   das
+       1        1     0.00   de
+       1        0   100.00   den
+       2        1    50.00   denn
+       8        3    62.50   der
+       1        0   100.00   dert
+       1        0   100.00   die
+       1        0   100.00   dona
+       1        1     0.00   donatus
+       1        1     0.00   dru
+       1        1     0.00   du
+       2        2     0.00   e
+       1        1     0.00   ehe
+       2        2     0.00   ein
+       2        1    50.00   einen
+       3        3     0.00   en
+       1        1     0.00   eng
+       1        0   100.00   entgegen
+       8        4    50.00   er
+       1        1     0.00   erſ
+       3        2    33.33   es
+       2        2     0.00   et
+       1        1     0.00   etiam
+       1        1     0.00   exempel
+       1        1     0.00   eﬆ
+       1        1     0.00   facit
+       1        0   100.00   fragte
+       1        1     0.00   freyli
+       1        0   100.00   gab
+       1        1     0.00   gan
+       1        1     0.00   gar
+       2        2     0.00   ge
+       1        1     0.00   gelehrte
+       1        1     0.00   geſe
+       1        0   100.00   gieng
+       1        1     0.00   glei
+       1        1     0.00   gnia
+       1        1     0.00   groben
+       1        1     0.00   haben
+       2        2     0.00   hei
+       1        0   100.00   hette
+       3        3     0.00   jhm
+       2        2     0.00   jhn
+       2        1    50.00   jme
+       1        1     0.00   jnen
+       1        0   100.00   kennet
+       1        1     0.00   kleid
+       1        0   100.00   kleidung
+       1        1     0.00   ko
+       1        1     0.00   la
+       1        0   100.00   latein
+       1        1     0.00   li
+       1        1     0.00   ma
+       1        1     0.00   mag
+       1        1     0.00   mahl
+       1        0   100.00   men
+       1        0   100.00   mit
+       1        1     0.00   mu
+       2        1    50.00   na
+       2        0   100.00   neben
+       3        3     0.00   ni
+       1        1     0.00   ntemal
+       1        1     0.00   perſon
+       1        1     0.00   ra
+       2        1    50.00   reden
+       2        1    50.00   redet
+       3        3     0.00   ri
+       2        2     0.00   s
+       1        1     0.00   se
+       2        2     0.00   simia
+       2        2     0.00   t
+       1        1     0.00   teiniſ
+       3        3     0.00   ter
+       1        1     0.00   tet
+       1        1     0.00   ts
+       1        0   100.00   tus
+       2        2     0.00   unde
+       1        1     0.00   ve
+       1        1     0.00   ver
+       1        1     0.00   vera
+       1        1     0.00   verwun
+       1        0   100.00   verzeihen
+       1        1     0.00   viel
+       1        1     0.00   vielen
+       1        1     0.00   virum
+       1        0   100.00   vmb
+       8        4    50.00   vnd
+       1        1     0.00   wel
+       1        1     0.00   welt
+       2        2     0.00   wenn
+       1        1     0.00   wer
+       1        1     0.00   wi
+       1        1     0.00   wie
+       1        1     0.00   wir
+       1        1     0.00   wo
+       4        2    50.00   wol
+       2        1    50.00   wolte
+       2        1    50.00   zu
+       1        0   100.00   ſagt
+       1        0   100.00   ſeiner
+       1        1     0.00   ſo
+       1        1     0.00   ſpra
+       1        1     0.00   
+      14       14     0.00   
+       6        6     0.00   
+       1        1     0.00   
+       3        3     0.00   
+       2        2     0.00   
+       3        3     0.00   
+      21       21     0.00   

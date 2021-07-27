@@ -1,0 +1,303 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+     934   Characters
+     741   Errors
+   20.66%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   20.66%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      97      535      109      741   Unmarked
+      97      535      109      741   Total
+
+   Count   Missed   %Right
+       6        6     0.00   Unassigned
+     199       81    59.30   ASCII Spacing Characters
+      39       27    30.77   ASCII Special Symbols
+      38       38     0.00   ASCII Uppercase Letters
+     589      420    28.69   ASCII Lowercase Letters
+       8        5    37.50   Latin Extended-A
+      51       51     0.00   Private Use Area
+       4        4     0.00   Alphabetic Presentation Forms
+     934      632    32.33   Total
+
+  Errors   Marked   Correct-Generated
+      12        0   {Aﬀ i vnd bl}-{erſchrack<\n>d}
+      12        0   {nits<\n>Darumb}-{zu reden /}
+      11        0   {nadru<\n>au}-{were / der}
+      11        0   {viel Exempe}-{On magſt wo}
+      11        0   {yli / wen}-{ben jhm<\n>ſtu}
+      10        0   {da<\n>hei es}-{vnd ſprach}
+      10        0   {der R}-{jhn<\n>Scxach}
+      10        0   {wo der ni}-{Er<\n>antwor}
+      10        0   {at in⸗<\n>g}-{lehrte Ma}
+       9        0   {Dona⸗<\n>t}-{facit Lir}
+       9        0   {hrte Man.}-{id machet}
+       9        0   {wolte.<\n>}-{——<\n>nichts}
+       8        0   {/<\n>das er}-{Aff iſt}
+       8        0   {Das Klei}-{dert/ vn}
+       8        0   {erwun⸗<\n>d}-{mb ſein}
+       8        0   {jhn<\n>ver}-{gleich. }
+       8        0   {t / vnd}-{.<\n>Darumb}
+       8        0   {t<\n>mit jm}-{n grob}
+       8        0   {trge.<\n>D}-{ wol/ ab}
+       7        0   {<\n>auﬀ}-{iſi es:}
+       7        0   {Du mag}-{nicht /}
+       7        0   {Er<\n>ant}-{was er }
+       7        0   {Man.<\n>Fr}-{/ der n}
+       7        0   {Smu a}-{Na⸗<\n>e}
+       7        0   {n }-{l<\n>haben}
+       7        0   {teiniſ}-{auff /}
+       7        0   {vnd gar}-{keſtuch}
+       7        0   {wol /}-{da iſt.}
+       7        0   {wol La⸗}-{ſtunde}
+       7        0   {⸗}-{chdruck}
+       6        0   {d bat}-{⸗<\n>feu.}
+       6        0   {gab jm}-{Geſell}
+       6        0   {groben}-{/ Jch}
+       6        0   {hen}-{n<\n>Aff,}
+       6        0   {idung<\n>}-{.<\n>Wiſ }
+       6        0   {i. Ab}-{reoet}
+       6        0   {kennet}-{mahl}
+       6        0   {n / an}-{miſch}
+       6        0   {pra}-{is wol}
+       6        0   {te ein}-{<\n>will}
+       6        0   {ſon}-{ nicht}
+       5        0   {as}-{el⸗<\n>—}
+       5        0   {b ſei}-{uck a}
+       5        0   {der}-{.<\n>Das}
+       5        0   {deen}-{ſagt:}
+       5        0   {entge}-{auro }
+       5        0   {i a}-{nn}
+       5        0   {n<\n>Aﬀ }-{chter}
+       5        0   {r er}-{t<\n>mit}
+       4        0   { / v}-{}
+       4        0   { fra}-{un}
+       4        0   {, et}-{⸗<\n>}
+       4        0   {/ I}-{jhm}
+       4        0   {/ vn}-{Klei}
+       4        0   {/ ſo}-{jhm}
+       4        0   {/}-{inia}
+       4        0   {<\n>e}-{t jh}
+       4        0   {Es }-{veſt}
+       4        0   {Simi}-{Don}
+       4        0   {a eﬆ}-{ſt}
+       4        0   {agt:}-{on}
+       4        0   {das}-{wenn}
+       4        0   {d}-{Sttz}
+       4        0   {gan}-{ſo}
+       4        0   {hei}-{da}
+       4        0   {ibet}-{r}
+       4        0   {jh}-{etia}
+       4        0   {m<\n>u}-{ / v}
+       4        0   {mahl}-{Wer}
+       4        0   {men}-{Juch}
+       4        0   {n /}-{ſtat}
+       4        0   {rſr}-{n HN}
+       4        0   {te v}-{ Sch}
+       4        0   {ver}-{entg}
+       4        0   {wol.}-{vnd}
+       4        0   {wol:}-{ſich}
+       4        0   {⸗}-{. Da}
+       4        0   {und}-{da<\n>h}
+       4        0   {ter}-{ch}
+       3        0   { Kl}-{u◌ͤg}
+       3        0   { i}-{et}
+       3        0   { zu}-{de/}
+       3        0   {/ W}-{red}
+       3        0   {/}-{vnd}
+       3        0   {Da }-{ein}
+       3        0   {Don}-{/<\n>d}
+       3        0   {Ein}-{Da}
+       3        0   {Lat}-{v}
+       3        0   {Sim}-{Es }
+       3        0   {Wie}-{Der}
+       3        0   {am}-{s}
+       3        0   {b}-{⸗<\n>t}
+       3        0   {d r}-{ vi}
+       3        0   {der}-{vnd}
+       3        0   {die}-{wo}
+       3        0   {em}-{us }
+       3        0   {er}-{— —}
+       3        0   {e}-{ di}
+       3        0   {g}-{ii,}
+       3        0   {in<\n>}-{r}
+       3        0   {jhm}-{vnd}
+       3        0   {j}-{ſic}
+       3        0   {n /}-{ er}
+       3        0   {n j}-{tei}
+       3        0   {r R}-{yl}
+       3        0   {r d}-{cht}
+       3        0   {r<\n>W}-{t d}
+       3        0   {red}-{gi}
+       3        0   {red}-{jm}
+       3        0   {r}-{tte}
+       3        0   {t h}-{r<\n>W}
+       3        0   {t}-{}
+       3        0   {u r}-{eih}
+       3        0   {wer}-{jm}
+       3        0   {}-{hei}
+       3        0   {is}-{r}
+       3        0   {}-{r d}
+       3        0   {t}-{e P}
+       2        0   { /}-{n}
+       2        0   { v}-{ib}
+       2        0   { w}-{}
+       2        0   {/}-{ng}
+       2        0   {<\n>h}-{ L}
+       2        0   {Vi}-{ve}
+       2        0   {an}-{er}
+       2        0   {au}-{de}
+       2        0   {b}-{mp}
+       2        0   {de}-{}
+       2        0   {d}-{Sr}
+       2        0   {d}-{}
+       2        0   {en}-{}
+       2        0   {er}-{zu}
+       2        0   {es}-{/}
+       2        0   {fa}-{Ni}
+       2        0   {ge}-{L}
+       2        0   {gl}-{k}
+       2        0   {ia}-{}
+       2        0   {i}-{te}
+       2        0   {jh}-{Ei}
+       2        0   {lt}-{n}
+       2        0   {m.}-{n⸗}
+       2        0   {m}-{fr}
+       2        0   {nn}-{r}
+       2        0   {n}-{Ex}
+       2        0   {n}-{ct}
+       2        0   {rz}-{t }
+       2        0   {t?}-{ /}
+       2        0   {tu}-{}
+       2        0   {vi}-{r}
+       2        0   {vn}-{}
+       2        0   {wo}-{b}
+       2        0   {}-{ h}
+       2        0   {}-{ n}
+       2        0   {}-{er}
+       2        0   {}-{n}
+       2        0   {}-{ſi}
+       2        0   {e}-{/}
+       2        0   {}-{Do}
+       2        0   {}-{er}
+       2        0   {}-{n⸗}
+       2        0   {}-{ſſ}
+       2        0   {t}-{ll}
+       2        0   {}-{fi}
+       2        0   {}-{gt}
+       1        0   { }-{}
+       1        0   {D}-{b}
+       1        0   {G}-{v}
+       1        0   {N}-{n}
+       1        0   {P}-{d}
+       1        0   {R}-{d}
+       1        0   {S}-{d}
+       1        0   {V}-{d}
+       1        0   {a}-{A}
+       1        0   {d}-{g}
+       1        0   {d}-{l}
+       1        0   {d}-{w}
+       1        0   {e}-{R}
+       1        0   {e}-{o}
+       1        0   {e}-{t}
+       1        0   {e}-{}
+       1        0   {g}-{c}
+       1        0   {g}-{}
+       1        0   {h}-{g}
+       1        0   {i}-{h}
+       1        0   {k}-{w}
+       1        0   {l}-{d}
+       1        0   {l}-{n}
+       1        0   {n}-{r}
+       1        0   {n}-{}
+       1        0   {o}-{}
+       1        0   {r}-{l}
+       1        0   {r}-{t}
+       1        0   {r}-{}
+       1        0   {s}-{m}
+       1        0   {t}-{n}
+       1        0   {v}-{a}
+       1        0   {v}-{i}
+       1        0   {w}-{R}
+       1        0   {}-{L}
+       1        0   {}-{a}
+       1        0   {}-{b}
+       1        0   {}-{g}
+       1        0   {}-{j}
+       1        0   {}-{l}
+       1        0   {}-{r}
+       1        0   {}-{t}
+       1        0   {}-{v}
+       1        0   {}-{w}
+       1        0   {}-{s}
+       1        0   {}-{}
+       1        0   {}-{h}
+       1        0   {}-{c}
+       1        0   {}-{ſ}
+
+   Count   Missed   %Right
+      27       21    22.22   {<\n>}
+     172       60    65.12   { }
+       1        1     0.00   {,}
+       8        7    12.50   {.}
+      25       16    36.00   {/}
+       4        2    50.00   {:}
+       1        1     0.00   {?}
+       3        3     0.00   {A}
+       8        8     0.00   {D}
+       4        4     0.00   {E}
+       1        1     0.00   {F}
+       1        1     0.00   {G}
+       1        1     0.00   {I}
+       2        2     0.00   {K}
+       2        2     0.00   {L}
+       2        2     0.00   {M}
+       1        1     0.00   {N}
+       1        1     0.00   {P}
+       3        3     0.00   {R}
+       4        4     0.00   {S}
+       2        2     0.00   {V}
+       3        3     0.00   {W}
+      49       36    26.53   {a}
+      12       10    16.67   {b}
+       1        0   100.00   {c}
+      36       29    19.44   {d}
+     121       57    52.89   {e}
+       2        2     0.00   {f}
+      18       15    16.67   {g}
+      13       12     7.69   {h}
+      46       32    30.43   {i}
+       8        8     0.00   {j}
+       2        2     0.00   {k}
+      20       15    25.00   {l}
+      19       17    10.53   {m}
+      73       47    35.62   {n}
+      15       13    13.33   {o}
+       2        2     0.00   {p}
+      49       38    22.45   {r}
+      13       10    23.08   {s}
+      38       31    18.42   {t}
+      16       14    12.50   {u}
+      15       14     6.67   {v}
+      16       12    25.00   {w}
+       1        1     0.00   {x}
+       1        1     0.00   {y}
+       3        2    33.33   {z}
+       8        5    37.50   {ſ}
+       6        6     0.00   {⸗}
+       1        1     0.00   {}
+      14       14     0.00   {}
+       6        6     0.00   {}
+       1        1     0.00   {}
+       3        3     0.00   {}
+       2        2     0.00   {}
+       3        3     0.00   {}
+      21       21     0.00   {}
+       3        3     0.00   {ﬀ}
+       1        1     0.00   {ﬆ}

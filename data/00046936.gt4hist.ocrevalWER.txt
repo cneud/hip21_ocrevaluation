@@ -1,0 +1,169 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     197   Words
+     112   Misrecognized
+   43.15%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        4     0.00        1
+       9        0   100.00        2
+       4        0   100.00        3
+       1        0   100.00        4
+      18        4    77.78    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      15       15     0.00        1
+      21       18    14.29        2
+      77       55    28.57        3
+      19        7    63.16        4
+      17        4    76.47        5
+      13        3    76.92        6
+       4        2    50.00        7
+       8        3    62.50        8
+       4        1    75.00        9
+       1        0   100.00       15
+     179      108    39.66    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      80       36    55.00        1
+      12        3    75.00        2
+       9        6    33.33        3
+       3        2    33.33        4
+       1        0   100.00        5
+       1        1     0.00        6
+       2        2     0.00      >10
+     108       50    53.70    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     197      112    43.15        1
+     196      145    26.02        2
+     195      162    16.92        3
+     194      174    10.31        4
+     193      181     6.22        5
+     192      186     3.12        6
+     191      190     0.52        7
+     190      190     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       4        0   100.00   an
+       4        4     0.00   i
+       5        0   100.00   in
+       3        0   100.00   man
+       1        0   100.00   was
+       1        0   100.00   were
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   9
+       1        1     0.00   alt
+       3        1    66.67   alſo
+       1        1     0.00   am
+       1        1     0.00   ange
+       1        1     0.00   au
+       1        0   100.00   aus
+       1        1     0.00   b
+       1        0   100.00   bald
+       1        1     0.00   ben
+       1        1     0.00   cantor
+       1        0   100.00   cap
+       1        0   100.00   darge
+       2        0   100.00   das
+       1        0   100.00   dazu
+       1        0   100.00   dem
+       1        0   100.00   den
+       1        0   100.00   denn
+       2        0   100.00   der
+       1        0   100.00   des
+       1        0   100.00   die
+       1        1     0.00   drauﬀ
+       4        4     0.00   e
+       2        2     0.00   ehen
+       1        1     0.00   ehrli
+       1        0   100.00   ein
+       1        0   100.00   eine
+       3        0   100.00   einem
+       1        0   100.00   einen
+       2        1    50.00   einer
+       1        1     0.00   emet
+       4        3    25.00   en
+       3        3     0.00   er
+       2        0   100.00   erbare
+       3        3     0.00   f
+       1        0   100.00   federn
+       1        0   100.00   feind
+       1        1     0.00   freyli
+       1        0   100.00   gang
+       1        0   100.00   gar
+       1        1     0.00   ge
+       1        0   100.00   geweſen
+       1        0   100.00   giengen
+       1        0   100.00   gottes
+       2        0   100.00   gram
+       1        0   100.00   ha
+       1        0   100.00   herr
+       1        0   100.00   herrn
+       3        3     0.00   het
+       1        1     0.00   heﬀtig
+       1        1     0.00   ho
+       1        0   100.00   jeſus
+       2        1    50.00   jhn
+       1        1     0.00   jnwendig
+       1        1     0.00   k
+       1        1     0.00   ker
+       1        0   100.00   kir
+       2        0   100.00   kleidung
+       1        1     0.00   kleidunge
+       1        1     0.00   kur
+       1        1     0.00   la
+       2        1    50.00   leute
+       1        1     0.00   leuten
+       1        0   100.00   mal
+       1        0   100.00   matronen
+       1        1     0.00   mpt
+       3        3     0.00   nd
+       1        1     0.00   ni
+       1        0   100.00   orths
+       1        0   100.00   philippus
+       1        0   100.00   pult
+       2        2     0.00   r
+       1        1     0.00   rgermei
+       1        1     0.00   rm
+       1        1     0.00   ro
+       1        0   100.00   sacrament
+       1        1     0.00   sol
+       1        0   100.00   spiegel
+       1        0   100.00   stedlein
+       1        1     0.00   syra
+       3        3     0.00   t
+       1        0   100.00   thet
+       1        1     0.00   ver
+       1        1     0.00   viel
+       5        2    60.00   vnd
+       1        0   100.00   vnerbarer
+       1        0   100.00   vogel
+       1        1     0.00   wehe
+       1        0   100.00   wendig
+       1        0   100.00   wenn
+       3        0   100.00   wie
+       1        1     0.00   wirdigen
+       1        0   100.00   wolt
+       2        0   100.00   zeigen
+       1        0   100.00   zerhaderlumpten
+       1        0   100.00   zu
+       1        0   100.00   zum
+       1        1     0.00   ſ
+       1        0   100.00   ſaget
+       1        0   100.00   ſagte
+       2        2     0.00   ſo
+       1        1     0.00   
+       4        4     0.00   
+       6        6     0.00   
+      11       11     0.00   
+       3        3     0.00   
+       1        1     0.00   
+      14       14     0.00   

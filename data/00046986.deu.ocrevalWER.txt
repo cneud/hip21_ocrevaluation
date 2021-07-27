@@ -1,0 +1,173 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     199   Words
+     129   Misrecognized
+   35.18%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       3        2    33.33        2
+       2        0   100.00        3
+       5        2    60.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      16       16     0.00        1
+      22       19    13.64        2
+      80       49    38.75        3
+      29       19    34.48        4
+      18       10    44.44        5
+      15        7    53.33        6
+       7        2    71.43        7
+       1        0   100.00        8
+       2        2     0.00        9
+       4        3    25.00       10
+     194      127    34.54    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      89       60    32.58        1
+      15        7    53.33        2
+       1        1     0.00        3
+       5        4    20.00        4
+       2        0   100.00        5
+       2        1    50.00        7
+       1        1     0.00       10
+       1        0   100.00      >10
+     116       74    36.21    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     199      129    35.18        1
+     198      151    23.74        2
+     197      165    16.24        3
+     196      177     9.69        4
+     195      183     6.15        5
+     194      187     3.61        6
+     193      189     2.07        7
+     192      190     1.04        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   an
+       2        1    50.00   in
+       2        0   100.00   man
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   aden
+       2        0   100.00   alſo
+       1        1     0.00   andern
+       1        1     0.00   armuth
+       1        1     0.00   auﬀ
+       1        1     0.00   bandt
+       1        1     0.00   ber
+       1        0   100.00   beutel
+       1        1     0.00   biſem
+       1        0   100.00   borten
+       1        0   100.00   bringt
+       2        1    50.00   da
+       1        1     0.00   daher
+       2        1    50.00   denn
+       4        3    25.00   der
+       1        1     0.00   deß
+      18        3    83.33   die
+       1        1     0.00   dieſelben
+       1        1     0.00   dr
+       1        1     0.00   dritten
+       1        1     0.00   dung
+       1        1     0.00   dur
+       5        1    80.00   ein
+       1        0   100.00   eine
+       1        0   100.00   einen
+       1        1     0.00   eltern
+       4        4     0.00   en
+       1        0   100.00   enger
+       2        1    50.00   er
+       1        1     0.00   es
+       1        1     0.00   et
+       4        4     0.00   f
+       1        1     0.00   faden
+       1        0   100.00   fey
+       1        1     0.00   g
+       1        1     0.00   ga
+       1        0   100.00   gar
+       1        1     0.00   gehen
+       1        1     0.00   gen
+       1        1     0.00   geru
+       1        1     0.00   gla
+       1        0   100.00   grund
+       1        0   100.00   gut
+       1        0   100.00   haar
+       1        0   100.00   haarbend
+       1        1     0.00   heim
+       1        1     0.00   hoﬀarth
+       1        1     0.00   jh
+       1        1     0.00   k
+       1        1     0.00   kin
+       1        1     0.00   kinder
+       1        0   100.00   kittel
+       1        1     0.00   klei
+       1        0   100.00   kleider
+       1        1     0.00   ko
+       1        0   100.00   krauß
+       1        1     0.00   leiden
+       1        1     0.00   lein
+       1        1     0.00   leyer
+       1        1     0.00   loſe
+       2        2     0.00   m
+       1        0   100.00   mantel
+       1        0   100.00   mit
+       1        1     0.00   mu
+       1        0   100.00   muß
+       2        1    50.00   na
+       2        0   100.00   nahrung
+       1        1     0.00   ndte
+       1        0   100.00   nen
+       1        1     0.00   noth
+       1        1     0.00   ntel
+       1        1     0.00   ohrenſpan
+       2        2     0.00   oﬀt
+       1        1     0.00   pra
+       1        1     0.00   prangen
+       1        1     0.00   pﬀel
+       4        4     0.00   r
+       1        1     0.00   rc
+       1        0   100.00   ringe
+       1        1     0.00   rtel
+       1        0   100.00   rung
+       3        3     0.00   s
+       1        1     0.00   sa
+       1        0   100.00   spiegel
+       1        1     0.00   t
+       1        0   100.00   thun
+       1        1     0.00   uldt
+       1        1     0.00   vberﬂuß
+       1        0   100.00   vbrigs
+       1        1     0.00   verdirbet
+       1        0   100.00   verhindert
+       7        2    71.43   vnd
+       5        2    60.00   vnnd
+       1        1     0.00   wa
+       1        0   100.00   weiten
+       2        1    50.00   wider
+       1        1     0.00   wie
+       2        1    50.00   wird
+       1        0   100.00   wol
+       2        2     0.00   zum
+       1        0   100.00   zunemen
+       2        2     0.00   ſ
+       1        0   100.00   ſein
+       1        1     0.00   ſen
+       1        1     0.00   ſol
+       1        1     0.00   ſon
+       1        1     0.00   
+       2        2     0.00   
+       7        7     0.00   
+       2        2     0.00   
+       1        1     0.00   
+       2        2     0.00   
+       4        4     0.00   
+       1        1     0.00   
+       1        1     0.00   
+      10       10     0.00   

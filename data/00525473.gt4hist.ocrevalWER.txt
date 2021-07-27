@@ -1,0 +1,190 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     257   Words
+     114   Misrecognized
+   55.64%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        4     0.00        1
+      49        7    85.71        2
+      31        8    74.19        3
+      20        5    75.00        4
+       5        1    80.00        5
+     109       25    77.06    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      10       10     0.00        1
+      16       14    12.50        2
+      30       23    23.33        3
+      30       10    66.67        4
+      13        9    30.77        5
+      21        9    57.14        6
+      12        6    50.00        7
+       5        2    60.00        8
+       8        6    25.00        9
+       2        0   100.00       10
+       1        0   100.00       12
+     148       89    39.86    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      71       39    45.07        1
+      16       10    37.50        2
+       6        4    33.33        3
+       2        1    50.00        4
+       1        0   100.00        5
+       1        0   100.00        6
+       1        1     0.00        8
+      98       55    43.88    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     257      114    55.64        1
+     256      155    39.45        2
+     255      186    27.06        3
+     254      202    20.47        4
+     253      215    15.02        5
+     252      225    10.71        6
+     251      232     7.57        7
+     250      238     4.80        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        2     0.00   a
+       1        0   100.00   after
+      10        3    70.00   and
+       2        0   100.00   are
+       4        0   100.00   as
+       6        1    83.33   be
+       2        1    50.00   but
+       1        0   100.00   by
+       2        1    50.00   do
+       2        0   100.00   for
+       3        1    66.67   from
+       1        0   100.00   he
+       1        0   100.00   his
+       2        2     0.00   i
+       5        1    80.00   if
+       7        0   100.00   is
+       3        0   100.00   it
+       2        0   100.00   may
+       1        1     0.00   new
+       2        0   100.00   no
+       1        0   100.00   not
+       2        2     0.00   now
+       9        2    77.78   of
+       1        1     0.00   over
+       2        1    50.00   that
+       8        1    87.50   the
+       3        1    66.67   them
+       3        0   100.00   then
+       2        0   100.00   there
+       6        0   100.00   they
+       1        0   100.00   this
+       8        1    87.50   to
+       1        1     0.00   we
+       2        1    50.00   which
+       1        1     0.00   will
+
+Non-stopwords
+   Count   Missed   %Right   
+       2        2     0.00   1
+       1        1     0.00   10.25
+       1        1     0.00   13
+       4        4     0.00   2
+       1        1     0.00   20
+       1        1     0.00   28
+       1        1     0.00   30
+       1        1     0.00   33
+       1        1     0.00   5
+       2        2     0.00   abſurd
+       1        0   100.00   abſurdities
+       1        0   100.00   altogether
+       1        0   100.00   alſo
+       1        1     0.00   arve
+       5        2    60.00   away
+       1        0   100.00   babes
+       1        0   100.00   becauſe
+       3        3     0.00   believers
+       1        1     0.00   bility
+       1        0   100.00   born
+       1        1     0.00   bread
+       1        0   100.00   breaking
+       6        0   100.00   cannot
+       1        1     0.00   church
+       1        0   100.00   com
+       1        0   100.00   commanded
+       3        3     0.00   de
+       2        2     0.00   drawn
+       1        0   100.00   duties
+       1        0   100.00   dy
+       1        1     0.00   e
+       1        0   100.00   elders
+       1        1     0.00   embling
+       1        0   100.00   enemies
+       1        1     0.00   ers
+       2        2     0.00   f
+       1        0   100.00   fal
+       4        0   100.00   fall
+       1        1     0.00   falling
+       1        0   100.00   fed
+       2        0   100.00   feed
+       1        0   100.00   feeder
+       2        0   100.00   feeding
+       1        0   100.00   food
+       1        1     0.00   ght
+       1        0   100.00   goſpel
+       2        1    50.00   grace
+       1        0   100.00   growing
+       1        1     0.00   heb
+       3        1    66.67   heed
+       1        0   100.00   im
+       1        1     0.00   impo
+       1        0   100.00   imports
+       1        0   100.00   live
+       1        1     0.00   mean
+       1        1     0.00   mini
+       1        0   100.00   mortal
+       3        3     0.00   mu
+       1        0   100.00   munion
+       1        1     0.00   naturally
+       2        0   100.00   nor
+       1        0   100.00   ordinances
+       1        1     0.00   ors
+       1        1     0.00   overſeen
+       1        1     0.00   pa
+       2        2     0.00   pet
+       1        1     0.00   ports
+       1        1     0.00   ray
+       2        2     0.00   re
+       1        0   100.00   red
+       1        1     0.00   rine
+       1        1     0.00   royed
+       1        0   100.00   shepheard
+       3        1    66.67   take
+       1        0   100.00   taken
+       1        1     0.00   teachers
+       1        1     0.00   totally
+       2        0   100.00   uſe
+       1        1     0.00   uſele
+       1        1     0.00   uſeleſs
+       1        1     0.00   whoſe
+       1        1     0.00   without
+       2        1    50.00   wolves
+       1        0   100.00   word
+       1        1     0.00   work
+       1        1     0.00   ſake
+       1        0   100.00   ſeduced
+       2        2     0.00   ſheep
+       1        0   100.00   ſo
+       1        0   100.00   ſpa
+       8        8     0.00   
+       3        3     0.00   
+       2        2     0.00   
+       1        1     0.00   
+       2        2     0.00   
+       1        1     0.00   ﬁnally
+       2        2     0.00   ﬂock
+       1        1     0.00   ﬂow

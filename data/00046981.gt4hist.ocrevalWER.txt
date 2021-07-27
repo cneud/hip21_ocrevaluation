@@ -1,0 +1,173 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     198   Words
+     132   Misrecognized
+   33.33%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        4     0.00        1
+       6        1    83.33        2
+       3        1    66.67        3
+       2        1    50.00        4
+      15        7    53.33    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      21       21     0.00        1
+      31       20    35.48        2
+      74       56    24.32        3
+      24        8    66.67        4
+      15        9    40.00        5
+       6        3    50.00        6
+       4        2    50.00        7
+       3        1    66.67        8
+       3        3     0.00        9
+       1        1     0.00       10
+       1        1     0.00       12
+     183      125    31.69    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      80       45    43.75        1
+      10        4    60.00        2
+       7        3    57.14        3
+       2        0   100.00        4
+       1        1     0.00        5
+       2        2     0.00        6
+       1        1     0.00        7
+       1        1     0.00        8
+       1        1     0.00       10
+       1        1     0.00      >10
+     106       59    44.34    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     198      132    33.33        1
+     197      156    20.81        2
+     196      172    12.24        3
+     195      184     5.64        4
+     194      189     2.58        5
+     193      190     1.55        6
+     192      191     0.52        7
+     191      191     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        2     0.00   a
+       3        0   100.00   an
+       2        1    50.00   be
+       2        2     0.00   i
+       1        0   100.00   in
+       2        1    50.00   man
+       1        0   100.00   was
+       2        1    50.00   were
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   18
+       1        0   100.00   aber
+       1        0   100.00   alſo
+       1        0   100.00   am
+       1        1     0.00   ame
+       1        1     0.00   anﬀ
+       1        1     0.00   auﬀ
+       1        1     0.00   aﬀt
+       1        1     0.00   behelﬀen
+       1        0   100.00   beſ
+       1        1     0.00   d
+       1        0   100.00   da
+       1        1     0.00   darumb
+       3        0   100.00   das
+       1        1     0.00   de
+       2        0   100.00   dem
+       1        0   100.00   den
+       3        2    33.33   denn
+       1        0   100.00   der
+       4        2    50.00   die
+       1        0   100.00   dieſen
+       1        1     0.00   dritten
+      10       10     0.00   e
+       3        1    66.67   ein
+       1        0   100.00   einen
+       1        0   100.00   eltern
+       7        7     0.00   en
+       1        1     0.00   enſ
+       4        1    75.00   er
+       1        1     0.00   erley
+       1        1     0.00   erli
+       3        1    66.67   es
+       1        1     0.00   f
+       1        0   100.00   fein
+       1        1     0.00   gau
+       1        1     0.00   ge
+       1        1     0.00   gehen
+       1        1     0.00   gering
+       1        0   100.00   gert
+       1        0   100.00   gewehnet
+       1        1     0.00   gleuben
+       1        0   100.00   gott
+       1        0   100.00   haben
+       2        0   100.00   hals
+       1        1     0.00   hen
+       1        1     0.00   herna
+       1        0   100.00   herrn
+       2        2     0.00   hoﬀarth
+       1        0   100.00   hr
+       1        0   100.00   im
+       1        1     0.00   innerung
+       1        0   100.00   ja
+       1        1     0.00   jhrem
+       1        0   100.00   kindheit
+       1        0   100.00   konnen
+       1        1     0.00   l
+       1        1     0.00   la
+       1        0   100.00   leben
+       1        1     0.00   leut
+       3        3     0.00   m
+       1        0   100.00   matth
+       1        1     0.00   meer
+       1        1     0.00   mehli
+       2        1    50.00   mehr
+       1        1     0.00   mi
+       1        0   100.00   mit
+       1        1     0.00   n
+       1        1     0.00   ni
+       1        0   100.00   nur
+       1        1     0.00   rde
+       1        1     0.00   re
+       1        1     0.00   st
+       2        2     0.00   t
+       1        0   100.00   thun
+       1        1     0.00   tieﬀ
+       1        1     0.00   v
+       1        0   100.00   vber
+       1        1     0.00   ver
+       1        1     0.00   vi
+       2        0   100.00   viel
+       2        1    50.00   vnd
+       1        1     0.00   vom
+       1        0   100.00   von
+       1        1     0.00   w
+       1        1     0.00   weitleuﬀig
+       1        0   100.00   wenn
+       2        0   100.00   wer
+       1        1     0.00   wie
+       1        0   100.00   wil
+       1        0   100.00   wird
+       1        1     0.00   ziere
+       1        0   100.00   zu
+       2        2     0.00   ſ
+       1        0   100.00   ſagen
+       1        0   100.00   ſeinen
+       1        1     0.00   ſel
+       1        0   100.00   ſer
+       1        1     0.00   ſeuﬀet
+       6        6     0.00   
+       6        6     0.00   
+       8        8     0.00   
+       3        3     0.00   
+       5        5     0.00   
+       2        2     0.00   
+       3        3     0.00   
+      12       12     0.00   

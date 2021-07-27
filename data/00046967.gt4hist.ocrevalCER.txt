@@ -1,0 +1,117 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+     793   Characters
+     130   Errors
+   83.61%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   83.61%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      15       64       51      130   Unmarked
+      15       64       51      130   Total
+
+   Count   Missed   %Right
+       9        0   100.00   Unassigned
+     156        6    96.15   ASCII Spacing Characters
+      25        2    92.00   ASCII Special Symbols
+      28        1    96.43   ASCII Uppercase Letters
+     508       21    95.87   ASCII Lowercase Letters
+       1        0   100.00   Latin1 Lowercase Letters
+      17        0   100.00   Latin Extended-A
+      45       45     0.00   Private Use Area
+       4        4     0.00   Alphabetic Presentation Forms
+     793       79    90.04   Total
+
+  Errors   Marked   Correct-Generated
+      40        0   {}-{ch}
+      10        0   {}-{ſt}
+       8        0   {}-{ck}
+       8        0   {ﬀ}-{ff}
+       6        0   {}-{dit<\n>D<\n>}
+       5        0   {hette}-{—}
+       4        0   {die<\n>}-{}
+       4        0   {}-{u◌ͤſſ}
+       4        0   {}-{u◌ͤtz}
+       4        0   {}-{ſſ}
+       3        0   { }-{}
+       3        0   {e}-{c}
+       3        0   {e}-{ſic}
+       3        0   { /}-{ch⸗}
+       2        0   {/ }-{}
+       2        0   {}-{o◌ͤ}
+       2        0   {}-{u◌ͤ}
+       2        0   {}-{ſi}
+       2        0   {}-{s}
+       2        0   {}-{tz}
+       2        0   {}-{ll}
+       1        0   {D}-{O}
+       1        0   {g}-{z}
+       1        0   {h}-{k}
+       1        0   {l}-{}
+       1        0   {s}-{o}
+       1        0   {u}-{ů}
+       1        0   {w}-{}
+       1        0   {y}-{h}
+       1        0   {z}-{i}
+       1        0   {z}-{j}
+       1        0   {}-{u}
+
+   Count   Missed   %Right
+      25        1    96.00   {<\n>}
+     131        5    96.18   { }
+       1        0   100.00   {(}
+       1        0   100.00   {)}
+       6        0   100.00   {.}
+      17        2    88.24   {/}
+       1        0   100.00   {A}
+       4        1    75.00   {D}
+       2        0   100.00   {G}
+       2        0   100.00   {H}
+       1        0   100.00   {K}
+       2        0   100.00   {L}
+       4        0   100.00   {M}
+       1        0   100.00   {N}
+       1        0   100.00   {P}
+       7        0   100.00   {S}
+       1        0   100.00   {V}
+       2        0   100.00   {W}
+      47        0   100.00   {a}
+       8        0   100.00   {b}
+      33        1    96.97   {d}
+      97        7    92.78   {e}
+       3        0   100.00   {f}
+      13        1    92.31   {g}
+      13        2    84.62   {h}
+      44        1    97.73   {i}
+       2        0   100.00   {k}
+      13        1    92.31   {l}
+      14        0   100.00   {m}
+      71        0   100.00   {n}
+      18        0   100.00   {o}
+       5        0   100.00   {p}
+      36        0   100.00   {r}
+      17        1    94.12   {s}
+      29        2    93.10   {t}
+      21        1    95.24   {u}
+       5        0   100.00   {v}
+       6        1    83.33   {w}
+       3        1    66.67   {y}
+      10        2    80.00   {z}
+       1        0   100.00   {ß}
+      17        0   100.00   {ſ}
+       9        0   100.00   {⸗}
+       1        1     0.00   {}
+       4        4     0.00   {}
+       5        5     0.00   {}
+       2        2     0.00   {}
+       3        3     0.00   {}
+       4        4     0.00   {}
+       4        4     0.00   {}
+       1        1     0.00   {}
+      21       21     0.00   {}
+       4        4     0.00   {ﬀ}

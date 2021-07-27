@@ -1,0 +1,147 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     153   Words
+     123   Misrecognized
+   19.61%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       8        8     0.00        1
+       6        5    16.67        2
+       2        1    50.00        3
+      16       14    12.50    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      15       15     0.00        1
+      17       16     5.88        2
+      61       48    21.31        3
+      14        9    35.71        4
+      14       10    28.57        5
+       7        5    28.57        6
+       4        2    50.00        7
+       2        2     0.00        8
+       3        2    33.33        9
+     137      109    20.44    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      66       48    27.27        1
+      12        7    41.67        2
+       2        2     0.00        3
+       5        4    20.00        4
+       1        1     0.00        5
+       1        1     0.00      >10
+      87       63    27.59    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     153      123    19.61        1
+     152      135    11.18        2
+     151      143     5.30        3
+     150      145     3.33        4
+     149      146     2.01        5
+     148      147     0.68        6
+     147      147     0.00        7
+     146      146     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       3        3     0.00   a
+       2        1    50.00   an
+       1        1     0.00   at
+       1        1     0.00   be
+       5        5     0.00   i
+       2        2     0.00   in
+       1        1     0.00   man
+       1        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   andern
+       1        1     0.00   au
+       2        0   100.00   bis
+       1        1     0.00   brau
+       1        0   100.00   dahin
+       2        0   100.00   das
+       2        2     0.00   den
+       1        1     0.00   der
+       2        1    50.00   dern
+       2        0   100.00   die
+       1        0   100.00   dieſem
+       1        1     0.00   dieſen
+       4        4     0.00   e
+       1        0   100.00   ein
+       1        1     0.00   en
+       3        3     0.00   er
+       1        1     0.00   ern
+       1        0   100.00   es
+       1        1     0.00   et
+       1        1     0.00   f
+       1        1     0.00   fahren
+       1        1     0.00   gebrau
+       1        0   100.00   gehen
+       2        1    50.00   gen
+       1        1     0.00   getheilet
+       1        1     0.00   grawe
+       1        0   100.00   gut
+       2        2     0.00   habe
+       1        1     0.00   haben
+       1        1     0.00   handel
+       1        1     0.00   hat
+       1        1     0.00   hei
+       1        1     0.00   hoﬀart
+       2        2     0.00   im
+       1        1     0.00   inn
+       1        0   100.00   jahr
+       1        1     0.00   jedes
+       1        0   100.00   jhnen
+       1        1     0.00   jhren
+       1        1     0.00   kleidung
+       1        1     0.00   la
+       1        1     0.00   le
+       1        1     0.00   m
+       1        1     0.00   mein
+       1        1     0.00   meſsigen
+       1        1     0.00   mir
+       1        1     0.00   miß
+       1        0   100.00   nen
+       2        2     0.00   ni
+       1        0   100.00   perſonen
+       3        3     0.00   r
+       1        1     0.00   re
+       1        1     0.00   reiben
+       1        1     0.00   reim
+       1        0   100.00   sinne
+       1        1     0.00   st
+       4        4     0.00   t
+       1        1     0.00   ta
+       1        1     0.00   tem
+       4        4     0.00   theil
+       1        1     0.00   thummen
+       1        1     0.00   tra
+       1        1     0.00   v
+       1        0   100.00   vber
+       1        1     0.00   vberdr
+       1        0   100.00   ver
+       1        1     0.00   vier
+       4        2    50.00   vnd
+       1        1     0.00   vom
+       1        0   100.00   vorrede
+       1        0   100.00   werden
+       1        1     0.00   z
+       1        1     0.00   zwey
+       1        1     0.00   ſ
+       1        0   100.00   ſel
+       1        0   100.00   ſon
+       1        1     0.00   ſpri
+       1        1     0.00   ſsig
+       2        2     0.00   
+       4        4     0.00   
+       5        5     0.00   
+       2        2     0.00   
+       1        1     0.00   
+       2        2     0.00   
+       1        1     0.00   
+       1        1     0.00   
+      16       16     0.00   

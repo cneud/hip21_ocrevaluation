@@ -1,0 +1,197 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     321   Words
+     101   Misrecognized
+   68.54%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       6        4    33.33        1
+       3        0   100.00        2
+       9        4    55.56    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      10        9    10.00        1
+      77       20    74.03        2
+      84       36    57.14        3
+      42       13    69.05        4
+      38        6    84.21        5
+      24        4    83.33        6
+      19        1    94.74        7
+       8        3    62.50        8
+       7        4    42.86        9
+       2        1    50.00       10
+       1        0   100.00       12
+     312       97    68.91    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      90       30    66.67        1
+      18        3    83.33        2
+       8        1    87.50        3
+       2        1    50.00        4
+       9        1    88.89        5
+       2        0   100.00        6
+       2        1    50.00        7
+       1        1     0.00        9
+       5        1    80.00      >10
+     137       39    71.53    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     321      101    68.54        1
+     320      143    55.31        2
+     319      171    46.39        3
+     318      193    39.31        4
+     317      209    34.07        5
+     316      223    29.43        6
+     315      235    25.40        7
+     314      245    21.97        8
+
+Stopwords
+   Count   Missed   %Right   
+       3        1    66.67   a
+       3        3     0.00   i
+       2        0   100.00   me
+       1        0   100.00   on
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   10
+       1        0   100.00   affirme
+       1        1     0.00   ance
+       3        3     0.00   au
+       3        0   100.00   aucun
+       1        0   100.00   c
+       2        2     0.00   c'e
+       1        0   100.00   car
+       1        0   100.00   ce
+       3        1    66.67   cela
+       2        0   100.00   certain
+       1        1     0.00   certes
+       1        0   100.00   cette
+       5        2    60.00   choſe
+       2        0   100.00   ciel
+       1        1     0.00   connoi
+       1        0   100.00   connois
+       2        0   100.00   corps
+       1        0   100.00   crains
+       1        0   100.00   craint
+       1        0   100.00   dauantage
+      11        2    81.82   de
+       1        0   100.00   deceuoir
+       1        0   100.00   differe
+       1        0   100.00   dira
+       2        0   100.00   dire
+       1        0   100.00   dont
+       5        1    80.00   doute
+       1        0   100.00   du
+       1        1     0.00   duë
+       9        9     0.00   e
+       6        2    66.67   en
+       1        1     0.00   ence
+       1        1     0.00   enfin
+       1        1     0.00   examiner
+       1        1     0.00   exi
+       1        0   100.00   eſprit
+       1        0   100.00   faut
+       1        1     0.00   fois
+       1        0   100.00   garde
+       1        1     0.00   i'affirme
+       1        1     0.00   i'ay
+       1        0   100.00   icy
+      17        3    82.35   ie
+       5        0   100.00   il
+       1        0   100.00   imagine
+       1        0   100.00   imaginer
+       1        0   100.00   imparfait
+       1        0   100.00   imprudemment
+       1        1     0.00   ité
+       1        1     0.00   iuſqu'à
+       1        1     0.00   j'exi
+       1        1     0.00   j'imagine
+       1        0   100.00   je
+       1        0   100.00   la
+       1        0   100.00   laquelle
+       2        0   100.00   le
+       3        0   100.00   ma
+       1        0   100.00   maintenant
+       3        0   100.00   mais
+       1        0   100.00   mal
+       2        0   100.00   meſme
+       1        0   100.00   mis
+       2        0   100.00   moins
+       1        1     0.00   mot
+       6        1    83.33   moy
+       1        1     0.00   n'ay
+       1        1     0.00   n'e
+       2        2     0.00   n'y
+       7        1    85.71   ne
+       1        1     0.00   nece
+       2        0   100.00   nie
+       1        0   100.00   nier
+       1        0   100.00   nous
+       5        0   100.00   ny
+       1        0   100.00   ouy
+       1        0   100.00   partie
+       3        0   100.00   pas
+       1        0   100.00   pen
+       1        0   100.00   pendant
+       5        0   100.00   penſe
+       1        1     0.00   penſée
+       1        0   100.00   peut
+       3        0   100.00   point
+       2        0   100.00   pour
+       1        0   100.00   prendre
+       1        0   100.00   prenne
+       1        0   100.00   prenons
+       1        1     0.00   preſent
+       1        0   100.00   preſque
+       1        0   100.00   priſe
+       1        0   100.00   propos
+       1        0   100.00   propre
+       1        1     0.00   pui
+       2        1    50.00   puis
+       2        1    50.00   qu'il
+       1        0   100.00   qu'on
+       1        1     0.00   qu'y
+      16        0   100.00   que
+       1        0   100.00   queie
+       1        0   100.00   quel
+       1        0   100.00   quelle
+       5        0   100.00   quelque
+      16        2    87.50   qui
+       7        7     0.00   re
+       2        1    50.00   rien
+       1        0   100.00   rois
+       2        0   100.00   terre
+       4        0   100.00   tout
+       1        0   100.00   toutes
+       1        1     0.00   traitte
+       1        0   100.00   veritable
+       1        1     0.00   vn
+       1        0   100.00   vne
+       1        0   100.00   voir
+       2        0   100.00   vois
+       1        0   100.00   voyons
+       1        0   100.00   vray
+       5        0   100.00   à
+       1        0   100.00   ſans
+       1        0   100.00   ſe
+       1        0   100.00   ſemble
+       3        1    66.67   ſens
+       1        0   100.00   ſentir
+       1        0   100.00   ſeroit
+       1        0   100.00   ſoin
+       2        0   100.00   ſois
+       1        1     0.00   ſub
+       5        0   100.00   ſuis
+       1        0   100.00   ſurpris
+       1        1     0.00   ſçauoir
+       1        1     0.00   ſçaurois
+       1        1     0.00   ſée
+      14       14     0.00   
+       4        4     0.00   
+       5        5     0.00   
+       2        2     0.00   

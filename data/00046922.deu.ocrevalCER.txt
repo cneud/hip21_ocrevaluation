@@ -1,0 +1,165 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+     887   Characters
+     613   Errors
+   30.89%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   30.89%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     254       84      275      613   Unmarked
+     254       84      275      613   Total
+
+   Count   Missed   %Right
+       6        6     0.00   Unassigned
+     166       50    69.88   ASCII Spacing Characters
+      25       12    52.00   ASCII Special Symbols
+       1        0   100.00   ASCII Digits
+      48       18    62.50   ASCII Uppercase Letters
+     582      201    65.46   ASCII Lowercase Letters
+       1        1     0.00   Latin1 Lowercase Letters
+      13        5    61.54   Latin Extended-A
+      45       45     0.00   Private Use Area
+     887      338    61.89   Total
+
+  Errors   Marked   Correct-Generated
+     153        0   {}-{wor-<\n>ten/ dauon abzuf...}
+      35        0   {tamb<\n>einen fr den ...}-{}
+      29        0   {t<\n>die Rmer / da ...}-{}
+      28        0   {os rerum Dominus gentem...}-{}
+      27        0   {N}-{fendijchen Kleidung / mi...}
+      26        0   {W}-{Auguſtus der Keyſer / ...}
+      25        0   {/<\n>Vnd ſagte den Ver...}-{}
+      25        0   {}-{a ſic luſt hatten zur ...}
+      23        0   {hen/vnd  an R...}-{}
+      18        0   {}-{ch}
+      16        0   {Kleidung / mit l}-{}
+      16        0   {r Keyſer / verma}-{i}
+      14        0   {gen wor⸗<\n>ten/ }-{}
+      12        0   {}-{net<\n>die Röme}
+      10        0   {auon abzu}-{}
+       9        0   {Auguus d}-{}
+       9        0   {Vorfarn.<\n>}-{ven »<\n>ur}
+       9        0   {lij:<\n>Roma}-{}
+       8        0   {aus⸗<\n>len}-{}
+       7        0   { Kleidu}-{}
+       7        0   { zu la}-{}
+       5        0   { }-{}
+       4        0   {Rm}-{Könt}
+       4        0   {hin }-{. w}
+       4        0   {l}-{'c>k}
+       4        0   {}-{fi}
+       4        0   {}-{fich}
+       4        0   {}-{ngen}
+       3        0   {.}-{,}
+       3        0   {V}-{Y 3}
+       3        0   {iſ}-{}
+       3        0   {}-{ / }
+       3        0   {ſ}-{lch}
+       3        0   {ge}-{}
+       3        0   {}-{ü}
+       3        0   {}-{ält}
+       3        0   {}-{üll}
+       3        0   {/}-{ſt?}
+       2        0   { m}-{ın}
+       2        0   {er}-{E}
+       2        0   {es}-{€6}
+       2        0   {fr}-{F}
+       2        0   {g}-{ct}
+       2        0   {hr}-{üe}
+       2        0   {m}-{11}
+       2        0   {u}-{ch}
+       2        0   {zu}-{fü}
+       2        0   {⸗}-{-}
+       2        0   {}-{fi}
+       2        0   {}-{ll}
+       2        0   {}-{rr}
+       1        0   {K}-{F}
+       1        0   {L}-{2}
+       1        0   {T}-{Z}
+       1        0   {d}-{B}
+       1        0   {e}-{ }
+       1        0   {e}-{2}
+       1        0   {e}-{c}
+       1        0   {e}-{i}
+       1        0   {g}-{k}
+       1        0   {g}-{}
+       1        0   {h}-{H}
+       1        0   {i}-{r}
+       1        0   {n}-{}
+       1        0   {r}-{:}
+       1        0   {r}-{x}
+       1        0   {t}-{}
+       1        0   {u}-{n}
+       1        0   {w}-{}
+       1        0   {}-{n}
+       1        0   {}-{ı}
+       1        0   {⸗}-{e}
+       1        0   {}-{H}
+
+   Count   Missed   %Right
+      27        8    70.37   {<\n>}
+     139       42    69.78   { }
+       7        4    42.86   {.}
+      17        7    58.82   {/}
+       1        0   100.00   {6}
+       1        1     0.00   {:}
+       1        1     0.00   {A}
+       1        0   100.00   {B}
+       6        1    83.33   {D}
+       2        0   100.00   {E}
+       1        0   100.00   {G}
+       6        0   100.00   {H}
+       1        0   100.00   {I}
+       4        4     0.00   {K}
+       2        1    50.00   {L}
+       2        0   100.00   {M}
+       1        1     0.00   {N}
+       1        0   100.00   {O}
+       1        0   100.00   {P}
+       6        4    33.33   {R}
+       1        0   100.00   {S}
+       2        1    50.00   {T}
+       6        4    33.33   {V}
+       4        1    75.00   {W}
+      45       14    68.89   {a}
+       6        2    66.67   {b}
+      40       11    72.50   {d}
+     122       34    72.13   {e}
+       8        3    62.50   {f}
+      20       11    45.00   {g}
+      14        5    64.29   {h}
+      40       11    72.50   {i}
+       1        1     0.00   {j}
+       2        1    50.00   {k}
+      21        8    61.90   {l}
+      27       13    51.85   {m}
+      83       23    72.29   {n}
+      16        7    56.25   {o}
+       1        0   100.00   {p}
+      55       18    67.27   {r}
+      12        5    58.33   {s}
+      27       10    62.96   {t}
+      21       15    28.57   {u}
+       7        3    57.14   {v}
+       5        2    60.00   {w}
+       3        1    66.67   {y}
+       6        3    50.00   {z}
+       1        1     0.00   {ß}
+      13        5    61.54   {ſ}
+       6        6     0.00   {⸗}
+       1        1     0.00   {}
+       3        3     0.00   {}
+       7        7     0.00   {}
+       6        6     0.00   {}
+       5        5     0.00   {}
+       1        1     0.00   {}
+       1        1     0.00   {}
+       3        3     0.00   {}
+      17       17     0.00   {}
+       1        1     0.00   {}

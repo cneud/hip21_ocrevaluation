@@ -1,0 +1,126 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1016   Characters
+     186   Errors
+   81.69%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   81.69%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      27       59      100      186   Unmarked
+      27       59      100      186   Total
+
+   Count   Missed   %Right
+     208       17    91.83   ASCII Spacing Characters
+      34        5    85.29   ASCII Special Symbols
+       4        1    75.00   ASCII Digits
+      33       14    57.58   ASCII Uppercase Letters
+     703       15    97.87   ASCII Lowercase Letters
+      18       18     0.00   Latin Extended-A
+       9        9     0.00   Private Use Area
+       7        7     0.00   Alphabetic Presentation Forms
+    1016       86    91.54   Total
+
+  Errors   Marked   Correct-Generated
+      25        0   {}-{Niet ons<\n>esengeseeene...}
+      21        0   {}-{Thine JoHN GRIFFITH:<\n>}
+      14        0   { }-{}
+      14        0   {ſ}-{f}
+      14        0   {}-{ft}
+      10        0   {ﬁ}-{fi}
+       7        0   {GRIFFIT}-{}
+       7        0   {}-{AQ LVS }
+       6        0   {}-{: Gyo }
+       5        0   {Thine}-{EOF}
+       4        0   {JOHN}-{aym}
+       4        0   {}-{| }
+       3        0   {.<\n>H}-{}
+       3        0   {3.}-{22°}
+       3        0   {;}-{ 3,}
+       3        0   {uſ}-{tsf}
+       3        0   {}-{ }
+       3        0   {}-{Ga }
+       2        0   { ſ}-{:f}
+       2        0   {:}-{ -}
+       2        0   {;}-{ ,}
+       2        0   {<\n>W}-{ .}
+       2        0   {me}-{wz}
+       2        0   {m}-{ue}
+       2        0   {}-{- }
+       2        0   {}-{-}
+       2        0   {}-{1 }
+       2        0   {}-{_ }
+       2        0   {ſ}-{{}
+       2        0   {}-{ct}
+       2        0   {ﬆ}-{st}
+       1        0   {h}-{b}
+       1        0   {i}-{s}
+       1        0   {l}-{i}
+       1        0   {n}-{u}
+       1        0   {n}-{z}
+       1        0   {u}-{n}
+       1        0   {u}-{w}
+       1        0   {}-{t}
+       1        0   {}-{‘}
+       1        0   {}-{d}
+       1        0   {ﬁ}-{f}
+
+   Count   Missed   %Right
+      24        2    91.67   {<\n>}
+     184       15    91.85   { }
+      22        0   100.00   {,}
+       2        0   100.00   {-}
+       6        2    66.67   {.}
+       2        0   100.00   {1}
+       2        1    50.00   {3}
+       2        1    50.00   {:}
+       2        2     0.00   {;}
+       1        0   100.00   {A}
+       1        0   100.00   {D}
+       1        0   100.00   {E}
+       3        2    33.33   {F}
+       2        1    50.00   {G}
+       3        2    33.33   {H}
+       6        2    66.67   {I}
+       1        1     0.00   {J}
+       1        0   100.00   {L}
+       2        1    50.00   {N}
+       1        1     0.00   {O}
+       1        0   100.00   {P}
+       3        1    66.67   {R}
+       1        0   100.00   {S}
+       5        2    60.00   {T}
+       1        1     0.00   {W}
+      37        0   100.00   {a}
+      12        0   100.00   {b}
+      13        0   100.00   {c}
+      32        0   100.00   {d}
+      93        2    97.85   {e}
+      13        0   100.00   {f}
+      16        0   100.00   {g}
+      64        2    96.88   {h}
+      67        2    97.01   {i}
+       2        0   100.00   {j}
+       3        0   100.00   {k}
+      30        1    96.67   {l}
+       9        2    77.78   {m}
+      40        3    92.50   {n}
+      65        0   100.00   {o}
+       7        0   100.00   {p}
+      34        0   100.00   {r}
+      13        0   100.00   {s}
+      90        0   100.00   {t}
+      24        3    87.50   {u}
+       8        0   100.00   {v}
+      20        0   100.00   {w}
+      11        0   100.00   {y}
+      18       18     0.00   {ſ}
+       7        7     0.00   {}
+       2        2     0.00   {}
+       6        6     0.00   {ﬁ}
+       1        1     0.00   {ﬆ}

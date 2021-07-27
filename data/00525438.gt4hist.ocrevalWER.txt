@@ -1,0 +1,172 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     192   Words
+      89   Misrecognized
+   53.65%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        2     0.00        1
+      36       14    61.11        2
+      37       11    70.27        3
+      17        7    58.82        4
+       2        1    50.00        5
+      94       35    62.77    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       1        1     0.00        1
+       6        5    16.67        2
+      18       16    11.11        3
+      29       13    55.17        4
+      10        3    70.00        5
+      10        4    60.00        6
+      10        6    40.00        7
+       6        2    66.67        8
+       6        3    50.00        9
+       1        1     0.00       10
+       1        0   100.00       11
+      98       54    44.90    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      71       35    50.70        1
+       5        2    60.00        2
+       2        1    50.00        3
+       1        1     0.00        4
+       1        1     0.00        7
+      80       40    50.00    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     192       89    53.65        1
+     191      125    34.55        2
+     190      148    22.11        3
+     189      163    13.76        4
+     188      171     9.04        5
+     187      178     4.81        6
+     186      183     1.61        7
+     185      185     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       2        0   100.00   all
+       3        2    33.33   and
+       1        0   100.00   as
+       3        2    33.33   be
+       1        0   100.00   but
+       1        0   100.00   can
+       1        1     0.00   do
+       2        0   100.00   for
+       2        1    50.00   from
+       1        0   100.00   good
+       2        0   100.00   have
+       2        1    50.00   him
+       2        0   100.00   his
+       1        1     0.00   i
+       1        1     0.00   if
+       8        1    87.50   in
+       4        2    50.00   is
+       1        1     0.00   make
+       1        0   100.00   man
+       1        0   100.00   my
+       2        0   100.00   no
+       2        0   100.00   not
+       1        1     0.00   now
+       9        5    44.44   of
+       2        0   100.00   our
+       6        1    83.33   that
+      12        3    75.00   the
+       4        1    75.00   to
+       1        0   100.00   us
+       1        1     0.00   we
+       1        1     0.00   what
+       2        1    50.00   which
+       1        1     0.00   who
+       1        1     0.00   will
+       5        3    40.00   you
+       3        2    33.33   your
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   abounding
+       1        0   100.00   af
+       1        0   100.00   again
+       1        1     0.00   alwaies
+       1        0   100.00   amen
+       1        0   100.00   ble
+       1        0   100.00   blood
+       1        0   100.00   brethren
+       1        1     0.00   brother
+       1        0   100.00   brought
+       3        3     0.00   chri
+       1        0   100.00   churches
+       1        1     0.00   covenants
+       1        0   100.00   cribeth
+       1        1     0.00   crown
+       1        1     0.00   de
+       1        0   100.00   dead
+       2        0   100.00   dear
+       1        0   100.00   diſcipline
+       1        0   100.00   doe
+       1        1     0.00   eadfaﬆ
+       2        0   100.00   ever
+       1        1     0.00   everla
+       1        0   100.00   every
+       1        1     0.00   fa
+       1        0   100.00   faith
+       1        1     0.00   ght
+       1        0   100.00   glory
+       1        1     0.00   god
+       1        0   100.00   great
+       1        1     0.00   griﬃth
+       1        0   100.00   hearty
+       1        0   100.00   himſelf
+       1        1     0.00   hold
+       1        1     0.00   hope
+       1        1     0.00   ing
+       2        1    50.00   jeſus
+       1        1     0.00   john
+       1        1     0.00   labour
+       1        1     0.00   learned
+       3        0   100.00   lord
+       1        1     0.00   lords
+       1        0   100.00   love
+       1        1     0.00   n
+       1        0   100.00   need
+       1        1     0.00   ng
+       1        1     0.00   otherwiſe
+       1        1     0.00   peace
+       1        1     0.00   perﬁt
+       1        1     0.00   plea
+       1        0   100.00   precious
+       1        1     0.00   re
+       1        1     0.00   ri
+       1        1     0.00   rine
+       1        0   100.00   rule
+       1        1     0.00   shepheard
+       1        1     0.00   take
+       1        0   100.00   therefore
+       1        0   100.00   though
+       1        0   100.00   through
+       1        1     0.00   true
+       1        0   100.00   under
+       1        0   100.00   unmova
+       1        0   100.00   vain
+       1        0   100.00   walk
+       1        1     0.00   well
+       1        0   100.00   whom
+       1        0   100.00   willing
+       2        2     0.00   work
+       1        1     0.00   working
+       1        0   100.00   ſeperate
+       1        0   100.00   ſerve
+       1        0   100.00   ſervices
+       1        0   100.00   ſhall
+       1        1     0.00   ſheep
+       1        0   100.00   ſub
+       7        7     0.00   
+       4        4     0.00   
+       2        2     0.00   
+       1        1     0.00   ﬁrmed

@@ -1,0 +1,188 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     260   Words
+     114   Misrecognized
+   56.15%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        4     0.00        1
+      41       14    65.85        2
+      46        8    82.61        3
+      30        8    73.33        4
+       3        0   100.00        5
+     124       34    72.58    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      10        8    20.00        1
+       7        7     0.00        2
+      26       23    11.54        3
+      28       13    53.57        4
+      24       10    58.33        5
+      17        8    52.94        6
+      12        4    66.67        7
+       2        1    50.00        8
+       8        4    50.00        9
+       2        2     0.00       11
+     136       80    41.18    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      74       41    44.59        1
+      17        9    47.06        2
+       1        1     0.00        4
+       2        0   100.00        5
+       1        0   100.00        6
+       1        1     0.00        8
+      96       52    45.83    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     260      114    56.15        1
+     259      154    40.54        2
+     258      178    31.01        3
+     257      195    24.12        4
+     256      208    18.75        5
+     255      219    14.12        6
+     254      227    10.63        7
+     253      234     7.51        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        2     0.00   a
+       1        0   100.00   all
+       6        1    83.33   and
+       1        1     0.00   are
+       1        0   100.00   be
+       3        0   100.00   but
+       4        3    25.00   do
+       4        0   100.00   for
+       2        1    50.00   from
+       2        1    50.00   have
+       2        1    50.00   he
+       2        2     0.00   i
+       2        2     0.00   if
+       9        4    55.56   in
+       4        0   100.00   is
+       3        0   100.00   it
+       1        1     0.00   make
+       2        0   100.00   may
+       5        1    80.00   not
+       6        1    83.33   of
+       1        1     0.00   our
+      11        2    81.82   that
+      19        3    84.21   the
+       1        0   100.00   their
+       2        1    50.00   them
+       3        1    66.67   they
+       1        0   100.00   this
+       3        1    66.67   to
+       1        0   100.00   too
+       3        1    66.67   us
+       4        1    75.00   we
+       2        0   100.00   which
+       1        0   100.00   who
+       2        0   100.00   will
+       4        0   100.00   with
+       2        1    50.00   you
+       2        1    50.00   your
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   18
+       5        3    40.00   2
+       1        1     0.00   2tim
+       1        1     0.00   3.17
+       2        2     0.00   32
+       2        2     0.00   8
+       1        1     0.00   9
+       1        0   100.00   abi
+       5        2    60.00   abide
+       1        0   100.00   abides
+       2        1    50.00   abideth
+       1        0   100.00   abiding
+       1        0   100.00   alleged
+       1        1     0.00   anſwer
+       1        1     0.00   apo
+       1        0   100.00   arguments
+       1        0   100.00   away
+       1        1     0.00   aﬃrmation
+       1        0   100.00   ballance
+       1        1     0.00   being
+       1        0   100.00   beware
+       1        0   100.00   both
+       1        0   100.00   brought
+       2        2     0.00   chri
+       1        0   100.00   condition
+       1        0   100.00   ding
+       1        1     0.00   e
+       1        1     0.00   edfa
+       1        1     0.00   ele
+       1        0   100.00   erre
+       1        0   100.00   error
+       1        1     0.00   eth
+       2        0   100.00   ever
+       1        0   100.00   exhorts
+       1        0   100.00   fall
+       1        0   100.00   father
+       2        0   100.00   found
+       1        1     0.00   free
+       1        0   100.00   full
+       1        1     0.00   god
+       1        1     0.00   grant
+       2        0   100.00   hath
+       2        2     0.00   joh
+       1        1     0.00   john
+       1        1     0.00   la
+       1        0   100.00   lady
+       1        1     0.00   le
+       1        1     0.00   lea
+       1        0   100.00   lead
+       1        0   100.00   light
+       1        1     0.00   looke
+       1        1     0.00   looſe
+       1        1     0.00   mu
+       1        1     0.00   ne
+       1        1     0.00   o
+       1        0   100.00   own
+       1        1     0.00   pet
+       1        0   100.00   place
+       1        0   100.00   plainly
+       2        1    50.00   prove
+       1        1     0.00   receive
+       1        0   100.00   reward
+       2        2     0.00   rine
+       1        0   100.00   saints
+       1        0   100.00   scripture
+       1        0   100.00   son
+       2        1    50.00   therefore
+       1        1     0.00   therwiſe
+       2        2     0.00   theſe
+       1        0   100.00   things
+       1        1     0.00   thoſe
+       2        0   100.00   thus
+       1        1     0.00   touching
+       1        1     0.00   tranſgre
+       1        1     0.00   treatiſe
+       6        1    83.33   truth
+       2        0   100.00   truths
+       1        1     0.00   uary
+       1        0   100.00   upon
+       1        0   100.00   weighed
+       1        0   100.00   wicked
+       1        1     0.00   words
+       1        0   100.00   wrought
+       1        1     0.00   ſaith
+       1        1     0.00   ſake
+       1        1     0.00   ſan
+       2        2     0.00   ſee
+       1        1     0.00   ſelfe
+       2        2     0.00   ſhall
+       1        1     0.00   ſo
+       1        1     0.00   ſoever
+       1        1     0.00   ſome
+       1        1     0.00   ſuﬃcient
+       8        8     0.00   
+       2        2     0.00   
+       4        4     0.00   

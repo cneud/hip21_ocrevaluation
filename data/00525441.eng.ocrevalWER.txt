@@ -1,0 +1,155 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     154   Words
+      64   Misrecognized
+   58.44%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       1        1     0.00        1
+      21        5    76.19        2
+      19        2    89.47        3
+      17        4    76.47        4
+       1        0   100.00        5
+      59       12    79.66    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       5        4    20.00        1
+       7        5    28.57        2
+      19       16    15.79        3
+      13        3    76.92        4
+       9        3    66.67        5
+      13        8    38.46        6
+      14        9    35.71        7
+       9        2    77.78        8
+       5        1    80.00        9
+       1        1     0.00       10
+      95       52    45.26    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      58       32    44.83        1
+       7        3    57.14        2
+       5        2    60.00        3
+       2        1    50.00        4
+      72       38    47.22    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     154       64    58.44        1
+     153       91    40.52        2
+     152      109    28.29        3
+     151      122    19.21        4
+     150      130    13.33        5
+     149      134    10.07        6
+     148      136     8.11        7
+     147      137     6.80        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       1        1     0.00   an
+       1        0   100.00   and
+       2        0   100.00   any
+       1        1     0.00   as
+       2        0   100.00   be
+       1        0   100.00   but
+       1        0   100.00   by
+       1        0   100.00   can
+       1        0   100.00   could
+       1        0   100.00   do
+       4        1    75.00   from
+       1        0   100.00   he
+       1        0   100.00   him
+       4        2    50.00   his
+       1        1     0.00   if
+       2        0   100.00   in
+       2        0   100.00   is
+       3        0   100.00   it
+       1        0   100.00   like
+       4        2    50.00   of
+       1        0   100.00   or
+       1        0   100.00   our
+       4        0   100.00   that
+       8        0   100.00   the
+       3        2    33.33   them
+       2        0   100.00   they
+       2        1    50.00   this
+       1        0   100.00   to
+       1        0   100.00   with
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   1
+       4        2    50.00   24
+       1        0   100.00   3
+       3        3     0.00   anſwer
+       1        1     0.00   anſwered
+       1        0   100.00   argument
+       1        0   100.00   arguments
+       1        1     0.00   b
+       1        0   100.00   beginning
+       1        0   100.00   believers
+       3        0   100.00   cannot
+       1        1     0.00   chapter
+       1        0   100.00   charge
+       1        1     0.00   coming
+       1        1     0.00   con
+       1        1     0.00   de
+       1        1     0.00   der
+       1        1     0.00   diſciples
+       1        0   100.00   doth
+       1        0   100.00   draw
+       1        0   100.00   drawn
+       1        1     0.00   e
+       1        0   100.00   ele
+       1        0   100.00   examined
+       2        0   100.00   fall
+       1        0   100.00   falling
+       1        1     0.00   falſe
+       1        1     0.00   fir
+       1        0   100.00   former
+       1        0   100.00   gives
+       1        1     0.00   gns
+       3        2    33.33   grace
+       1        0   100.00   ing
+       1        1     0.00   introdu
+       1        1     0.00   ion
+       1        1     0.00   iﬁed
+       2        2     0.00   jeſus
+       1        1     0.00   ju
+       3        0   100.00   lord
+       2        2     0.00   matthew
+       2        0   100.00   might
+       1        1     0.00   muchle
+       1        0   100.00   nor
+       1        0   100.00   part
+       1        1     0.00   perſons
+       1        1     0.00   po
+       1        1     0.00   prevail
+       1        0   100.00   prophets
+       1        0   100.00   prove
+       1        1     0.00   red
+       1        1     0.00   t
+       1        0   100.00   tending
+       1        0   100.00   therefore
+       1        0   100.00   thereof
+       1        0   100.00   thirteen
+       1        0   100.00   thus
+       1        1     0.00   tion
+       2        0   100.00   totally
+       2        0   100.00   touching
+       1        0   100.00   treatise
+       1        0   100.00   unto
+       1        1     0.00   upon
+       1        1     0.00   verſe
+       1        1     0.00   vnion
+       1        1     0.00   ſeduce
+       1        1     0.00   ſpeak
+       3        3     0.00   
+       4        4     0.00   
+       1        1     0.00   
+       2        2     0.00   
+       1        1     0.00   ﬁnally
+       1        1     0.00   ﬁr

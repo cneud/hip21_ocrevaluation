@@ -1,0 +1,219 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1033   Characters
+     434   Errors
+   57.99%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   57.99%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      92      261       81      434   Unmarked
+      92      261       81      434   Total
+
+   Count   Missed   %Right
+     202       40    80.20   ASCII Spacing Characters
+      71       21    70.42   ASCII Special Symbols
+      35       17    51.43   ASCII Digits
+     146       65    55.48   ASCII Uppercase Letters
+     529      171    67.67   ASCII Lowercase Letters
+       7        6    14.29   Latin1 Lowercase Letters
+      15        5    66.67   Latin Extended-A
+       9        9     0.00   General Punctuation
+      19       19     0.00   Private Use Area
+    1033      353    65.83   Total
+
+  Errors   Marked   Correct-Generated
+      20        0   {DES CHAPITRES.<\n>CHAP.}-{XIII. De la maniere}
+      12        0   {s font<\n>conno}-{l}
+      11        0   {par raport}-{& des<\n>Idees}
+      11        0   {}-{<\n>connoiſtre}
+      11        0   {}-{IVRES—<\n>CuAv}
+       9        0   {Vol}-{maniere d}
+       9        0   {maniere d}-{VUol}
+       9        0   {quelles<\n>ſ}-{rap}
+       9        0   {s<\n>Idées o}-{neral pcu}
+       8        0   {X. Des e}-{dont IE}
+       8        0   {de Homm}-{XII. D}
+       8        0   {}-{TABLEDES}
+       7        0   {&<\n>le Co}-{144<\n>CuA}
+       7        0   {iculier}-{,}
+       7        0   {r vnion}-{}
+       7        0   {‑}-{-}
+       7        0   {Eſpri}-{vnis; E}
+       6        0   { durée}-{ctions}
+       6        0   {. pag.}-{elles}
+       6        0   {P}-{v}
+       6        0   {t vnis}-{ſideré}
+       6        0   {}-{ſi}
+       6        0   {uelle}-{<\n>vni}
+       5        0   { aio}-{e}
+       5        0   {& au }-{intel}
+       5        0   {144<\n>}-{&<\n>le }
+       5        0   {TABLE}-{Cuav.}
+       5        0   {eces}-{rit V}
+       5        0   {neral}-{s qui}
+       5        0   {rp}-{nt le}
+       4        0   { }-{}
+       4        0   {, c}-{Corp}
+       4        0   {184}-{2 o3}
+       4        0   {; Et}-{par}
+       4        0   {Corp}-{le<\n>C}
+       4        0   {HAP.}-{orps}
+       4        0   {H}-{n}
+       4        0   {I. D}-{Homm}
+       4        0   {choſ}-{dure}
+       4        0   {elle}-{p}
+       4        0   {en g}-{choſ}
+       4        0   {n}-{r-<\n>t}
+       4        0   {nd}-{relſ}
+       4        0   {rit}-{eces}
+       4        0   {ue}-{s fo}
+       4        0   {}-{culi}
+       3        0   { le}-{}
+       3        0   {& }-{que}
+       3        0   {, &}-{en}
+       3        0   {175}-{p.}
+       3        0   {203}-{17}
+       3        0   {97}-{184}
+       3        0   {HAP}-{uav}
+       3        0   {XI}-{de }
+       3        0   {ag.}-{rit}
+       3        0   {ell}-{r}
+       3        0   {en }-{IEſ}
+       3        0   {ie}-{ect}
+       3        0   {qui}-{V}
+       3        0   {rit}-{ag.}
+       3        0   {é. }-{ Eſ}
+       3        0   {Eſ}-{}
+       2        0   { ,}-{;}
+       2        0   {H}-{nN}
+       2        0   {H}-{u}
+       2        0   {II}-{}
+       2        0   {e<\n>}-{ }
+       2        0   {es}-{a}
+       2        0   {in}-{eſ}
+       2        0   {la}-{en}
+       2        0   {no}-{a}
+       2        0   {pe}-{no}
+       2        0   {ps}-{.}
+       2        0   {p}-{}
+       2        0   {ré}-{s,}
+       2        0   {s}-{on}
+       2        0   {s‑}-{ſ-}
+       2        0   {}-{ag}
+       2        0   {}-{l}
+       2        0   {}-{s}
+       2        0   {}-{à<\n>}
+       2        0   {}-{—<\n>}
+       2        0   {à<\n>}-{o}
+       2        0   {‑<\n>}-{i}
+       2        0   {r}-{}
+       2        0   {E}-{e}
+       2        0   {I}-{Il}
+       2        0   {v}-{ly}
+       2        0   {}-{ /}
+       1        0   {&}-{V}
+       1        0   {&}-{æ}
+       1        0   {'}-{}
+       1        0   {.}-{}
+       1        0   {2}-{}
+       1        0   {3}-{z}
+       1        0   {5}-{}
+       1        0   {<\n>}-{}
+       1        0   {C}-{ſ}
+       1        0   {H}-{A}
+       1        0   {H}-{M}
+       1        0   {H}-{i}
+       1        0   {P}-{p}
+       1        0   {P}-{r}
+       1        0   {V}-{}
+       1        0   {a}-{}
+       1        0   {d}-{g}
+       1        0   {d}-{ſ}
+       1        0   {e}-{}
+       1        0   {g}-{8}
+       1        0   {m}-{n}
+       1        0   {m}-{p}
+       1        0   {n}-{r}
+       1        0   {s}-{t}
+       1        0   {s}-{}
+       1        0   {}-{.}
+       1        0   {}-{D}
+       1        0   {}-{V}
+       1        0   {}-{i}
+       1        0   {}-{q}
+       1        0   {é}-{}
+       1        0   {ſ}-{c}
+       1        0   {}-{u}
+       1        0   {}-{E}
+       1        0   {}-{I}
+       1        0   {}-{P}
+       1        0   {}-{}
+
+   Count   Missed   %Right
+      31       10    67.74   {<\n>}
+     171       30    82.46   { }
+      11        6    45.45   {&}
+       1        1     0.00   {'}
+       6        3    50.00   {,}
+      51       10    80.39   {.}
+       1        1     0.00   {0}
+       3        3     0.00   {1}
+       9        2    77.78   {2}
+       6        2    66.67   {3}
+       5        3    40.00   {4}
+       3        2    33.33   {5}
+       2        0   100.00   {6}
+       3        2    33.33   {7}
+       2        1    50.00   {8}
+       1        1     0.00   {9}
+       2        1    50.00   {;}
+      16        5    68.75   {A}
+       1        1     0.00   {B}
+      20        5    75.00   {C}
+      13        3    76.92   {D}
+      11        7    36.36   {E}
+      15       15     0.00   {H}
+      20        7    65.00   {I}
+       1        1     0.00   {L}
+       1        0   100.00   {M}
+       2        0   100.00   {N}
+       1        0   100.00   {O}
+      15       12    20.00   {P}
+       3        1    66.67   {R}
+       2        2     0.00   {S}
+       2        2     0.00   {T}
+       6        2    66.67   {V}
+      17        2    88.24   {X}
+      42       10    76.19   {a}
+      13        5    61.54   {c}
+      20        7    65.00   {d}
+      93       28    69.89   {e}
+       1        1     0.00   {f}
+      16        4    75.00   {g}
+       1        1     0.00   {h}
+      36       12    66.67   {i}
+      33       14    57.58   {l}
+      17        5    70.59   {m}
+      54       15    72.22   {n}
+      38       13    65.79   {o}
+      28       10    64.29   {p}
+       3        2    33.33   {q}
+      35       15    57.14   {r}
+      31       13    58.06   {s}
+      37        6    83.78   {t}
+      23        7    69.57   {u}
+       8        3    62.50   {v}
+       1        1     0.00   {à}
+       6        5    16.67   {é}
+      15        5    66.67   {ſ}
+       9        9     0.00   {‑}
+       2        2     0.00   {}
+       4        4     0.00   {}
+       2        2     0.00   {}
+      11       11     0.00   {}

@@ -1,0 +1,165 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     168   Words
+      39   Misrecognized
+   76.79%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        0   100.00        1
+       5        0   100.00        2
+       1        0   100.00        3
+       1        0   100.00        4
+       9        0   100.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       4        2    50.00        1
+      36        5    86.11        2
+      39       15    61.54        3
+      22        1    95.45        4
+       8        1    87.50        5
+      14        5    64.29        6
+      13        3    76.92        7
+       9        2    77.78        8
+       4        1    75.00        9
+       1        0   100.00       10
+       4        1    75.00       11
+       2        1    50.00       12
+       2        1    50.00       13
+       1        1     0.00       15
+     159       39    75.47    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      77       18    76.62        1
+       9        1    88.89        2
+       4        1    75.00        3
+       3        1    66.67        4
+       2        0   100.00        5
+       1        0   100.00        6
+       1        0   100.00        7
+       1        0   100.00        8
+       1        0   100.00        9
+      99       21    78.79    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     168       39    76.79        1
+     167       62    62.87        2
+     166       81    51.20        3
+     165       99    40.00        4
+     164      115    29.88        5
+     163      129    20.86        6
+     162      138    14.81        7
+     161      141    12.42        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        0   100.00   a
+       1        0   100.00   had
+       2        0   100.00   in
+       3        0   100.00   is
+       1        0   100.00   over
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   4
+       1        0   100.00   48
+       1        0   100.00   53
+       1        1     0.00   5i
+       3        2    33.33   aan
+       1        0   100.00   alleen
+       1        0   100.00   bedenking
+       1        0   100.00   behooren
+       1        0   100.00   beste
+       1        0   100.00   bewijs
+       1        0   100.00   bewijze
+       1        0   100.00   bewijzen
+       2        0   100.00   bezwaar
+       1        1     0.00   beſcheiden
+       1        1     0.00   beſchrijving
+       5        1    80.00   bl
+       1        0   100.00   blijve
+       1        0   100.00   brengt
+       1        0   100.00   daar
+       7        4    42.86   dat
+       8        0   100.00   de
+       1        0   100.00   den
+       1        0   100.00   derde
+       1        1     0.00   derzelve
+       1        0   100.00   deze
+       1        0   100.00   dezelfde
+       1        0   100.00   die
+       1        0   100.00   door
+       2        0   100.00   een
+       1        0   100.00   eerste
+       1        0   100.00   eeuw
+       3        3     0.00   elſel
+       2        0   100.00   en
+       1        0   100.00   gedrukt
+       1        0   100.00   gedurende
+       1        0   100.00   geen
+       1        1     0.00   geheele
+       1        0   100.00   geklaagd
+       1        0   100.00   gelijk
+       1        0   100.00   gemaakt
+       1        0   100.00   gereformeerde
+       1        0   100.00   geweest
+       1        0   100.00   gods
+       2        0   100.00   h
+       1        0   100.00   handelen
+       1        0   100.00   hebben
+       9        2    77.78   het
+       2        0   100.00   hr
+       1        1     0.00   i6
+       1        1     0.00   ii
+       6        0   100.00   ik
+       1        0   100.00   kerk
+       1        0   100.00   kunnen
+       2        1    50.00   labadistisch
+       1        0   100.00   leden
+       1        1     0.00   leer
+       1        0   100.00   maar
+       1        0   100.00   mede
+       1        0   100.00   meer
+       1        0   100.00   mij
+       1        0   100.00   mijne
+       1        0   100.00   misbegrip
+       1        0   100.00   moest
+       1        0   100.00   naam
+       4        0   100.00   niet
+       1        0   100.00   onder
+       1        1     0.00   onoplosſelijke
+       1        1     0.00   ont
+       1        0   100.00   onze
+       2        0   100.00   ook
+       5        1    80.00   op
+       1        0   100.00   redelijk
+       1        0   100.00   righeden
+       2        0   100.00   schrift
+       1        1     0.00   t
+       3        0   100.00   te
+       1        1     0.00   toetſen
+       1        0   100.00   toon
+       2        2     0.00   tweede
+       1        0   100.00   uit
+       4        1    75.00   van
+       1        0   100.00   veranderen
+       1        0   100.00   verbond
+       1        1     0.00   verdagt
+       1        1     0.00   voorreden
+       1        0   100.00   waar
+       1        0   100.00   wanneer
+       1        0   100.00   welk
+       1        0   100.00   worden
+       1        0   100.00   wordt
+       1        1     0.00   xxiii
+       1        0   100.00   zeer
+       1        0   100.00   zij
+       1        0   100.00   zijn
+       1        0   100.00   zou
+       1        1     0.00   zwa
+       3        0   100.00   zwarigheden
+       1        1     0.00   ſpreke
+       4        4     0.00   

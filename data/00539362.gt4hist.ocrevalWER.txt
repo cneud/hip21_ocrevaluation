@@ -1,0 +1,207 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     288   Words
+     110   Misrecognized
+   61.81%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        0   100.00        1
+      15        3    80.00        2
+      17        3    82.35    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      10        3    70.00        1
+      41       13    68.29        2
+      85       35    58.82        3
+      40       19    52.50        4
+      19        6    68.42        5
+      30        7    76.67        6
+      21        9    57.14        7
+       2        1    50.00        8
+       7        3    57.14        9
+       5        2    60.00       10
+       3        2    33.33       11
+       2        2     0.00       12
+       2        1    50.00       14
+       4        4     0.00       15
+     271      107    60.52    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      99       51    48.48        1
+      12        0   100.00        2
+      12        1    91.67        3
+       8        1    87.50        4
+       3        0   100.00        5
+       1        0   100.00        6
+       3        1    66.67        7
+       2        0   100.00        8
+       1        0   100.00        9
+       1        0   100.00      >10
+     142       54    61.97    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     288      110    61.81        1
+     287      165    42.51        2
+     286      198    30.77        3
+     285      220    22.81        4
+     284      235    17.25        5
+     283      247    12.72        6
+     282      255     9.57        7
+     281      260     7.47        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        0   100.00   a
+       2        1    50.00   be
+       6        1    83.33   in
+       6        1    83.33   is
+       1        0   100.00   of
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   4
+       1        0   100.00   52
+       1        1     0.00   8
+       5        2    60.00   aan
+       1        0   100.00   aangehaalde
+       1        0   100.00   aangenomen
+       1        1     0.00   aat
+       1        1     0.00   afgeſchaft
+       1        0   100.00   aldus
+       3        0   100.00   andere
+       1        1     0.00   anderen
+       1        1     0.00   bekeering
+       1        1     0.00   belof
+       7        7     0.00   belofte
+       1        1     0.00   beloften
+       1        0   100.00   betwisten
+       1        0   100.00   bl
+       2        0   100.00   blijkt
+       1        1     0.00   bonden
+       1        0   100.00   brief
+       1        0   100.00   daar
+       1        0   100.00   daarom
+       2        0   100.00   dan
+       8        0   100.00   dat
+      13        2    84.62   de
+       4        2    50.00   den
+       1        1     0.00   denk
+       1        1     0.00   denzelfden
+       3        1    66.67   der
+       4        1    75.00   die
+       2        0   100.00   dit
+       4        1    75.00   door
+       1        1     0.00   dui
+       1        1     0.00   duidelijk
+       1        1     0.00   e
+       1        0   100.00   eene
+       1        0   100.00   eenige
+       1        0   100.00   eenvoudig
+       1        1     0.00   einde
+       1        1     0.00   el
+       1        0   100.00   elders
+       6        1    83.33   en
+       1        1     0.00   enz
+       1        1     0.00   eph
+       1        0   100.00   er
+       1        1     0.00   erfgenamen
+       1        1     0.00   gal
+       1        0   100.00   gan
+       1        0   100.00   ge
+       1        0   100.00   gedaan
+       1        0   100.00   geen
+       1        0   100.00   geheel
+       1        0   100.00   gehegt
+       1        1     0.00   gelijk
+       2        1    50.00   geloof
+       1        1     0.00   geloove
+       3        1    66.67   genade
+       3        0   100.00   genoemd
+       2        0   100.00   geval
+       1        0   100.00   geſproken
+       1        0   100.00   gisſen
+       8        4    50.00   gods
+       1        1     0.00   h
+       1        0   100.00   heb
+       1        0   100.00   heilige
+       9        2    77.78   het
+       2        0   100.00   hr
+       1        1     0.00   i0
+       1        1     0.00   i2
+       1        1     0.00   i6
+       1        1     0.00   i7
+       1        1     0.00   ii
+       1        1     0.00   iii
+       2        1    50.00   ik
+       1        1     0.00   indien
+       1        1     0.00   ivden
+       1        1     0.00   ix
+       7        4    42.86   kan
+       1        1     0.00   klaard
+       1        1     0.00   laat
+       1        1     0.00   lijk
+       1        0   100.00   lofte
+       1        0   100.00   maar
+       3        0   100.00   men
+       1        1     0.00   mensch
+       1        0   100.00   mij
+       1        0   100.00   mijn
+       1        0   100.00   mijnen
+       1        0   100.00   mijns
+       1        1     0.00   naar
+       4        0   100.00   niet
+       1        0   100.00   noemd
+       2        0   100.00   noemen
+       1        0   100.00   nu
+       1        0   100.00   om
+       1        1     0.00   ondertusſchen
+       2        1    50.00   ook
+       1        0   100.00   oordeels
+       3        1    66.67   op
+       1        1     0.00   philadelphus
+       3        0   100.00   plaats
+       1        0   100.00   plaatſen
+       1        0   100.00   rom
+       1        0   100.00   s
+       1        0   100.00   schriften
+       4        0   100.00   t
+       2        1    50.00   te
+       2        1    50.00   ten
+       1        1     0.00   toeteſchrijven
+       1        0   100.00   u
+       3        2    33.33   uit
+       4        0   100.00   van
+       1        1     0.00   vast
+       3        2    33.33   ver
+       7        0   100.00   verbond
+       1        0   100.00   vernietigd
+       1        1     0.00   voor
+       1        0   100.00   voorwaardelijk
+       3        3     0.00   voorwaardelijke
+       1        1     0.00   voorwaarden
+       2        1    50.00   waar
+       1        0   100.00   want
+       1        1     0.00   welk
+       1        0   100.00   welke
+       1        1     0.00   wet
+       3        0   100.00   worden
+       5        1    80.00   wordt
+       1        1     0.00   zaad
+       1        1     0.00   zaak
+       1        0   100.00   zal
+       1        1     0.00   zaligheid
+       1        0   100.00   zegt
+       1        0   100.00   zeker
+       1        1     0.00   zelfs
+       1        0   100.00   zien
+       4        3    25.00   zij
+       5        4    20.00   zijn
+       1        1     0.00   zon
+       3        2    33.33   zoo
+       1        1     0.00   ſche
+       1        1     0.00   ſpreektrant
+       4        4     0.00   

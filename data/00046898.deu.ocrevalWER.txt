@@ -1,0 +1,157 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     154   Words
+     102   Misrecognized
+   33.77%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        4     0.00        1
+       1        1     0.00        2
+       2        1    50.00        3
+       7        6    14.29    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      14       14     0.00        1
+      17       12    29.41        2
+      68       49    27.94        3
+      11        5    54.55        4
+      12        6    50.00        5
+      12        5    58.33        6
+       5        0   100.00        7
+       3        2    33.33        8
+       3        2    33.33        9
+       1        1     0.00       10
+       1        0   100.00       11
+     147       96    34.69    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      78       41    47.44        1
+      10        6    40.00        2
+       2        2     0.00        3
+       2        1    50.00        4
+       3        2    33.33        5
+       1        1     0.00        6
+       1        1     0.00      >10
+      97       54    44.33    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     154      102    33.77        1
+     153      127    16.99        2
+     152      138     9.21        3
+     151      144     4.64        4
+     150      147     2.00        5
+     149      148     0.67        6
+     148      148     0.00        7
+     147      147     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       1        0   100.00   her
+       3        3     0.00   i
+       1        1     0.00   in
+       1        1     0.00   man
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   abbru
+       1        1     0.00   anzuſehen
+       1        1     0.00   au
+       1        0   100.00   augen
+       1        1     0.00   auﬀs
+       1        1     0.00   bekleiden
+       1        0   100.00   ben
+       1        0   100.00   bey
+       1        0   100.00   beydes
+       1        0   100.00   bis
+       1        1     0.00   da
+       1        0   100.00   dabey
+       1        0   100.00   darzu
+       2        0   100.00   das
+       1        0   100.00   den
+       1        0   100.00   der
+       1        0   100.00   die
+       1        0   100.00   dieſen
+       3        3     0.00   e
+       1        1     0.00   eigen
+       2        0   100.00   einem
+       1        0   100.00   eines
+       1        1     0.00   elbige
+       1        1     0.00   elt
+       1        1     0.00   em
+       5        5     0.00   en
+       1        0   100.00   er
+       1        1     0.00   f
+       1        0   100.00   ge
+       1        1     0.00   gem
+       1        0   100.00   gemein
+       1        0   100.00   gen
+       1        0   100.00   gewalt
+       1        1     0.00   gezwun
+       1        1     0.00   geſ
+       2        2     0.00   glei
+       1        1     0.00   gro
+       1        1     0.00   guther
+       1        1     0.00   h
+       1        0   100.00   heraus
+       1        1     0.00   ier
+       1        1     0.00   igen
+       1        1     0.00   j
+       1        1     0.00   je
+       1        0   100.00   jungen
+       1        0   100.00   jungkfrawen
+       1        0   100.00   kein
+       1        0   100.00   kleidern
+       1        1     0.00   kna
+       1        0   100.00   mehr
+       1        1     0.00   meidlein
+       1        1     0.00   menſ
+       2        2     0.00   mit
+       1        0   100.00   nah
+       1        1     0.00   nemen
+       1        1     0.00   nemli
+       1        1     0.00   nen
+       1        1     0.00   pra
+       1        1     0.00   r
+       1        1     0.00   rei
+       1        0   100.00   rung
+       2        2     0.00   s
+       1        1     0.00   sfa
+       5        5     0.00   t
+       1        0   100.00   terlein
+       1        1     0.00   th
+       1        1     0.00   tra
+       1        1     0.00   vberhand
+       1        0   100.00   vbrige
+       5        1    80.00   vnd
+       2        1    50.00   vnnd
+       1        1     0.00   vnter
+       1        0   100.00   von
+       1        0   100.00   vorrede
+       1        0   100.00   wann
+       1        0   100.00   weibern
+       1        1     0.00   weigen
+       2        0   100.00   wie
+       1        0   100.00   wil
+       1        0   100.00   wird
+       1        0   100.00   worden
+       4        1    75.00   zu
+       1        1     0.00   ſ
+       1        1     0.00   ſe
+       1        0   100.00   ſeiner
+       1        0   100.00   ſeinigen
+       1        0   100.00   ſo
+       1        1     0.00   ſonderli
+       2        2     0.00   
+       2        2     0.00   
+       6        6     0.00   
+       1        1     0.00   
+       2        2     0.00   
+       1        1     0.00   
+       4        4     0.00   
+       3        3     0.00   
+      14       14     0.00   

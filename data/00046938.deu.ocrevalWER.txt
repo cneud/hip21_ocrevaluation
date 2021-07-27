@@ -1,0 +1,179 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     257   Words
+     153   Misrecognized
+   40.47%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       5        5     0.00        1
+       7        1    85.71        2
+       3        1    66.67        3
+      15        7    53.33    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      22       22     0.00        1
+      38       22    42.11        2
+     124       81    34.68        3
+      13        5    61.54        4
+      18        4    77.78        5
+      12        5    58.33        6
+       8        4    50.00        7
+       2        0   100.00        8
+       3        2    33.33        9
+       1        1     0.00       10
+       1        0   100.00       11
+     242      146    39.67    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      75       32    57.33        1
+      19       12    36.84        2
+      10        5    50.00        3
+       4        3    25.00        4
+       2        2     0.00        5
+       1        0   100.00        6
+       1        0   100.00        9
+       4        2    50.00       10
+       1        1     0.00      >10
+     117       57    51.28    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     257      153    40.47        1
+     256      191    25.39        2
+     255      216    15.29        3
+     254      228    10.24        4
+     253      238     5.93        5
+     252      244     3.17        6
+     251      246     1.99        7
+     250      248     0.80        8
+
+Stopwords
+   Count   Missed   %Right   
+       7        1    85.71   an
+       1        0   100.00   her
+       5        5     0.00   i
+       1        0   100.00   man
+       1        1     0.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   als
+       1        0   100.00   alſo
+       1        0   100.00   antwortet
+       1        0   100.00   armen
+       1        1     0.00   au
+       1        0   100.00   aus
+       1        1     0.00   auﬀ
+       1        1     0.00   aﬀen
+       4        4     0.00   b
+       1        0   100.00   bald
+       1        0   100.00   bedeuts
+       1        1     0.00   ben
+       1        0   100.00   bin
+       6        0   100.00   da
+       1        0   100.00   darumb
+       3        0   100.00   das
+       1        0   100.00   den
+       1        0   100.00   denn
+       9        0   100.00   der
+       2        0   100.00   des
+       1        0   100.00   die
+       1        0   100.00   diener
+       2        2     0.00   e
+       1        0   100.00   ehe
+       3        1    66.67   ein
+       1        0   100.00   eine
+       1        1     0.00   einem
+       1        0   100.00   einen
+       1        0   100.00   einer
+      10        4    60.00   er
+       1        0   100.00   ermel
+       2        2     0.00   ers
+       2        1    50.00   es
+       3        3     0.00   et
+       1        0   100.00   ewern
+       2        2     0.00   f
+       1        1     0.00   fen
+       1        1     0.00   feyert
+       1        1     0.00   geholﬀen
+       2        2     0.00   germei
+       1        0   100.00   gieng
+       1        1     0.00   gli
+       1        1     0.00   gr
+       1        1     0.00   h
+       1        0   100.00   hab
+       3        1    66.67   hat
+       1        0   100.00   hatte
+       1        0   100.00   heim
+       2        1    50.00   herr
+       1        1     0.00   herrli
+       2        1    50.00   herrn
+       1        0   100.00   herwider
+       2        2     0.00   het
+       1        0   100.00   hinaus
+       1        1     0.00   je
+       3        3     0.00   jhn
+       1        1     0.00   jhr
+       5        5     0.00   k
+       2        1    50.00   kam
+       1        0   100.00   kennet
+       1        0   100.00   klei
+       1        0   100.00   kleider
+       2        2     0.00   klopﬀet
+       2        2     0.00   kne
+       1        1     0.00   lauﬀt
+       1        1     0.00   le
+       1        0   100.00   leget
+       2        2     0.00   li
+       1        0   100.00   mann
+       2        2     0.00   mei
+       1        0   100.00   mir
+       1        1     0.00   mit
+       1        1     0.00   ni
+       1        1     0.00   nne
+       1        0   100.00   ohn
+       1        0   100.00   pareth
+       4        4     0.00   r
+       1        0   100.00   reder
+       1        0   100.00   redner
+       2        2     0.00   ren
+       1        1     0.00   rger
+       1        1     0.00   rgermei
+       1        1     0.00   rkommen
+       1        1     0.00   rli
+       4        3    25.00   ro
+       1        1     0.00   roth
+       1        1     0.00   s
+       1        1     0.00   spri
+       3        3     0.00   t
+       1        1     0.00   ten
+       2        2     0.00   th
+       1        0   100.00   thet
+       1        1     0.00   undt
+       1        0   100.00   verwunderte
+      10        2    80.00   vnd
+       1        0   100.00   vnterlas
+       1        0   100.00   weiſer
+       2        0   100.00   wer
+       1        0   100.00   wol
+       2        0   100.00   zu
+       3        0   100.00   zum
+       2        2     0.00   ſ
+       3        0   100.00   ſagt
+       1        0   100.00   ſeine
+       1        0   100.00   ſeinem
+       1        1     0.00   ſeinen
+       1        0   100.00   ſo
+       1        1     0.00   ſpra
+       1        1     0.00   
+       5        5     0.00   
+      10       10     0.00   
+      10       10     0.00   
+       3        3     0.00   
+       3        3     0.00   
+       4        4     0.00   
+       1        1     0.00   
+      18       18     0.00   

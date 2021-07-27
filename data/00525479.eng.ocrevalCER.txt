@@ -1,0 +1,120 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1087   Characters
+     221   Errors
+   79.67%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   79.67%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      65       50      106      221   Unmarked
+      65       50      106      221   Total
+
+   Count   Missed   %Right
+     212       29    86.32   ASCII Spacing Characters
+      35       13    62.86   ASCII Special Symbols
+      15       15     0.00   ASCII Digits
+      24        7    70.83   ASCII Uppercase Letters
+     764       14    98.17   ASCII Lowercase Letters
+       2        2     0.00   Latin1 Special Symbols
+      22       22     0.00   Latin Extended-A
+      11       11     0.00   Private Use Area
+       2        2     0.00   Alphabetic Presentation Forms
+    1087      115    89.42   Total
+
+  Errors   Marked   Correct-Generated
+      32        0   {}-{ SE SESPEE SESS SEES OSE...}
+      30        0   {}-{BVYSYVVVIVYY VSS VIVY...}
+      18        0   {ſ}-{f}
+      17        0   { }-{}
+      14        0   {}-{ft}
+      13        0   {39<\n>Reaſon 1.<\n>}-{}
+      13        0   {rk 13.<\n>33.Lu.}-{lon}
+      10        0   {24. 4,<\n>5.M}-{Re}
+       9        0   {}-{ 5, Ty ao}
+       9        0   {}-{. Mat, 4:}
+       7        0   {34.<\n>be<\n>}-{}
+       7        0   {}-{ 24, —_}
+       5        0   {<\n>Mat.}-{}
+       3        0   {M<\n>M}-{'}
+       2        0   {21}-{i}
+       2        0   {}-{ M}
+       2        0   {}-{ |}
+       2        0   {}-{M }
+       2        0   {}-{f }
+       2        0   {¬}-{-}
+       2        0   {ſh}-{(b}
+       2        0   {ſu}-{fi}
+       2        0   {}-{fi}
+       2        0   {ﬆ }-{ft}
+       2        0   {ﬆ}-{it}
+       1        0   {,}-{:}
+       1        0   {,}-{»}
+       1        0   {.}-{,}
+       1        0   {;}-{s}
+       1        0   {I}-{1}
+       1        0   {m}-{u}
+       1        0   {}-{ }
+       1        0   {}-{,}
+       1        0   {ſ}-{}
+       1        0   {}-{t}
+       1        0   {}-{}
+       1        0   {}-{G}
+
+   Count   Missed   %Right
+      33        8    75.76   {<\n>}
+     179       21    88.27   { }
+      16        3    81.25   {,}
+      15        9    40.00   {.}
+       3        3     0.00   {1}
+       2        2     0.00   {2}
+       5        5     0.00   {3}
+       3        3     0.00   {4}
+       1        1     0.00   {5}
+       1        1     0.00   {9}
+       3        0   100.00   {:}
+       1        1     0.00   {;}
+       1        0   100.00   {A}
+       1        0   100.00   {B}
+       5        0   100.00   {C}
+       2        0   100.00   {G}
+       1        1     0.00   {I}
+       2        1    50.00   {L}
+       4        4     0.00   {M}
+       1        0   100.00   {N}
+       2        1    50.00   {R}
+       4        0   100.00   {T}
+       1        0   100.00   {Y}
+      77        2    97.40   {a}
+      13        1    92.31   {b}
+      18        0   100.00   {c}
+      38        0   100.00   {d}
+     119        2    98.32   {e}
+      18        0   100.00   {f}
+      10        0   100.00   {g}
+      49        1    97.96   {h}
+      48        0   100.00   {i}
+       9        1    88.89   {k}
+      25        0   100.00   {l}
+      24        1    95.83   {m}
+      59        1    98.31   {n}
+      48        1    97.92   {o}
+       8        0   100.00   {p}
+      44        1    97.73   {r}
+      23        0   100.00   {s}
+      61        1    98.36   {t}
+      21        2    90.48   {u}
+      11        0   100.00   {v}
+      12        0   100.00   {w}
+      29        0   100.00   {y}
+       2        2     0.00   {¬}
+      22       22     0.00   {ſ}
+       9        9     0.00   {}
+       1        1     0.00   {}
+       1        1     0.00   {}
+       2        2     0.00   {ﬆ}

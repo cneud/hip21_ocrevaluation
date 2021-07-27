@@ -1,0 +1,131 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1295   Characters
+      94   Errors
+   92.74%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   92.74%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      12       76        6       94   Unmarked
+      12       76        6       94   Total
+
+   Count   Missed   %Right
+     218        1    99.54   ASCII Spacing Characters
+      32        1    96.88   ASCII Special Symbols
+      42        7    83.33   ASCII Uppercase Letters
+     983       64    93.49   ASCII Lowercase Letters
+       4        0   100.00   Latin Extended-A
+      12       11     8.33   General Punctuation
+       3        3     0.00   Private Use Area
+       1        1     0.00   Alphabetic Presentation Forms
+    1295       88    93.20   Total
+
+  Errors   Marked   Correct-Generated
+       9        0   {‑}-{-}
+       8        0   {k}-{b}
+       6        0   {w}-{}
+       4        0   {e}-{c}
+       4        0   {k}-{t}
+       3        0   {kw}-{bav}
+       3        0   {zoo}-{200}
+       3        0   {z}-{x}
+       2        0   {X<\n>}-{ }
+       2        0   {ZU}-{zu}
+       2        0   {el}-{ci}
+       2        0   {jk}-{ſè}
+       2        0   {j‑}-{i-}
+       2        0   {s}-{c}
+       2        0   {w}-{iv}
+       2        0   {w}-{v}
+       2        0   {z}-{S}
+       2        0   {z}-{a}
+       2        0   {}-{ }
+       2        0   {}-{ſt}
+       2        0   {ﬂ}-{fl}
+       1        0   {'}-{}
+       1        0   {G}-{C}
+       1        0   {J}-{j}
+       1        0   {K}-{E}
+       1        0   {K}-{R}
+       1        0   {a}-{o}
+       1        0   {a}-{}
+       1        0   {b}-{B}
+       1        0   {e}-{d}
+       1        0   {g}-{S}
+       1        0   {h}-{b}
+       1        0   {j}-{f}
+       1        0   {j}-{i}
+       1        0   {j}-{ſ}
+       1        0   {k}-{c}
+       1        0   {k}-{f}
+       1        0   {k}-{}
+       1        0   {n}-{u}
+       1        0   {s}-{e}
+       1        0   {s}-{t}
+       1        0   {s}-{}
+       1        0   {w}-{u}
+       1        0   {z}-{L}
+       1        0   {z}-{t}
+       1        0   {z}-{}
+       1        0   {”}-{“}
+       1        0   {}-{A}
+       1        0   {}-{ſ}
+
+   Count   Missed   %Right
+      30        1    96.67   {<\n>}
+     188        0   100.00   { }
+       1        1     0.00   {'}
+      20        0   100.00   {,}
+       7        0   100.00   {.}
+       4        0   100.00   {;}
+       2        0   100.00   {A}
+       6        0   100.00   {C}
+       3        0   100.00   {D}
+       3        0   100.00   {E}
+       4        1    75.00   {G}
+       6        0   100.00   {H}
+       2        1    50.00   {J}
+       2        2     0.00   {K}
+       1        0   100.00   {L}
+       1        0   100.00   {N}
+       2        0   100.00   {O}
+       2        0   100.00   {R}
+       1        1     0.00   {U}
+       3        0   100.00   {V}
+       2        1    50.00   {X}
+       2        1    50.00   {Z}
+      57        2    96.49   {a}
+      16        1    93.75   {b}
+       4        0   100.00   {c}
+      74        0   100.00   {d}
+     195        6    96.92   {e}
+       1        0   100.00   {f}
+      50        1    98.00   {g}
+      25        1    96.00   {h}
+      77        0   100.00   {i}
+      24        5    79.17   {j}
+      18       17     5.56   {k}
+      33        1    96.97   {l}
+      16        0   100.00   {m}
+     127        1    99.21   {n}
+      60        2    96.67   {o}
+       6        0   100.00   {p}
+      58        0   100.00   {r}
+      30        5    83.33   {s}
+      47        0   100.00   {t}
+      19        0   100.00   {u}
+      13        0   100.00   {v}
+      16       11    31.25   {w}
+      17       11    35.29   {z}
+       4        0   100.00   {ſ}
+      10       10     0.00   {‑}
+       1        0   100.00   {—}
+       1        1     0.00   {”}
+       3        3     0.00   {}
+       1        1     0.00   {ﬂ}

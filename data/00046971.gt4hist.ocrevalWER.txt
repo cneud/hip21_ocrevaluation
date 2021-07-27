@@ -1,0 +1,183 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     211   Words
+     110   Misrecognized
+   47.87%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        2     0.00        1
+       1        0   100.00        2
+       3        0   100.00        3
+       1        0   100.00        4
+       7        2    71.43    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      13       13     0.00        1
+      21       15    28.57        2
+      77       45    41.56        3
+      38       15    60.53        4
+      24        8    66.67        5
+      17        5    70.59        6
+       5        2    60.00        7
+       4        3    25.00        8
+       4        1    75.00       10
+       1        1     0.00       12
+     204      108    47.06    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      91       48    47.25        1
+      16        6    62.50        2
+       6        2    66.67        3
+       4        2    50.00        4
+       1        0   100.00        5
+       3        2    33.33        6
+       1        0   100.00        7
+       1        1     0.00      >10
+     123       61    50.41    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     211      110    47.87        1
+     210      144    31.43        2
+     209      166    20.57        3
+     208      182    12.50        4
+     207      193     6.76        5
+     206      198     3.88        6
+     205      201     1.95        7
+     204      202     0.98        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        2     0.00   i
+       1        0   100.00   in
+       3        0   100.00   man
+       1        0   100.00   that
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   abgeſ
+       2        0   100.00   alſo
+       2        2     0.00   ange
+       1        1     0.00   au
+       2        2     0.00   auﬀ
+       1        1     0.00   aﬀ
+       1        1     0.00   brau
+       1        1     0.00   bſ
+       3        0   100.00   da
+       1        1     0.00   daher
+       1        0   100.00   damit
+       1        1     0.00   darauﬀ
+       3        0   100.00   das
+       1        0   100.00   dauon
+       2        1    50.00   denn
+       1        1     0.00   der
+       5        2    60.00   die
+       1        0   100.00   dieſelben
+       1        1     0.00   dieſer
+       1        1     0.00   drauﬀ
+       6        6     0.00   e
+       1        1     0.00   ei
+       7        0   100.00   ein
+       2        0   100.00   eine
+       1        0   100.00   einer
+       4        4     0.00   en
+       1        1     0.00   er
+       2        0   100.00   es
+       1        0   100.00   fart
+       1        0   100.00   flitternde
+       1        1     0.00   flitterwer
+       3        0   100.00   forne
+       2        0   100.00   fraw
+       2        1    50.00   frawen
+       1        0   100.00   gar
+       2        0   100.00   gehen
+       1        0   100.00   geladen
+       1        0   100.00   gemeiner
+       1        1     0.00   geſ
+       1        1     0.00   gro
+       2        2     0.00   h
+       4        0   100.00   haar
+       1        0   100.00   haben
+       1        0   100.00   hatte
+       1        0   100.00   haube
+       1        1     0.00   herf
+       2        1    50.00   hette
+       1        1     0.00   hieuon
+       1        0   100.00   hinder
+       1        1     0.00   ho
+       1        1     0.00   hof
+       1        1     0.00   hubſ
+       1        1     0.00   je
+       1        0   100.00   jene
+       2        0   100.00   jhr
+       1        1     0.00   jren
+       1        1     0.00   kir
+       1        0   100.00   kleine
+       1        1     0.00   kleins
+       1        1     0.00   kren
+       1        1     0.00   lagen
+       1        0   100.00   ledig
+       1        1     0.00   lein
+       1        0   100.00   lies
+       1        0   100.00   mag
+       1        0   100.00   mahl
+       1        0   100.00   meinet
+       1        0   100.00   ner
+       1        1     0.00   ni
+       1        1     0.00   niemands
+       1        1     0.00   nitten
+       1        0   100.00   oben
+       1        0   100.00   oder
+       1        0   100.00   ohr
+       1        1     0.00   ol
+       1        1     0.00   paretlin
+       1        0   100.00   pariß
+       1        0   100.00   prangen
+       1        1     0.00   r
+       1        0   100.00   redete
+       1        1     0.00   rt
+       1        1     0.00   s
+       1        0   100.00   stirn
+       1        0   100.00   stirne
+       3        3     0.00   t
+       1        1     0.00   te
+       1        0   100.00   todten
+       1        0   100.00   tragen
+       1        1     0.00   trieb
+       1        1     0.00   ts
+       1        1     0.00   under
+       1        0   100.00   vber
+       1        0   100.00   viel
+       6        0   100.00   vnd
+       3        0   100.00   vnnd
+       1        1     0.00   vol
+       1        0   100.00   von
+       4        0   100.00   war
+       1        0   100.00   ward
+       2        0   100.00   weiber
+       1        0   100.00   wie
+       1        0   100.00   wolt
+       1        0   100.00   wunderbare
+       1        1     0.00   zeit
+       1        1     0.00   zog
+       1        0   100.00   zu
+       1        0   100.00   zur
+       1        0   100.00   zwey
+       1        1     0.00   ſ
+       1        1     0.00   ſe
+       1        0   100.00   ſehen
+       1        0   100.00   ſelber
+       3        3     0.00   ſol
+       1        1     0.00   ſpottweiſe
+       1        1     0.00   
+       2        2     0.00   
+       2        2     0.00   
+       6        6     0.00   
+       1        1     0.00   
+       2        2     0.00   
+       4        4     0.00   
+      17       17     0.00   
+       1        1     0.00   ﬂo

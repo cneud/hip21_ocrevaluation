@@ -1,0 +1,185 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     209   Words
+      41   Misrecognized
+   80.38%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        1    75.00        1
+       6        0   100.00        2
+       4        2    50.00        3
+       1        0   100.00        4
+      15        3    80.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       6        2    66.67        1
+      31        3    90.32        2
+      59       19    67.80        3
+      29        3    89.66        4
+      17        1    94.12        5
+      18        4    77.78        6
+       7        1    85.71        7
+      10        1    90.00        8
+       4        2    50.00        9
+       5        0   100.00       10
+       4        0   100.00       11
+       2        1    50.00       12
+       1        0   100.00       14
+       1        1     0.00       15
+     194       38    80.41    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      85       24    71.76        1
+      15        0   100.00        2
+       6        1    83.33        3
+       5        0   100.00        4
+       3        0   100.00        5
+       3        0   100.00        6
+       1        0   100.00        8
+     118       25    78.81    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     209       41    80.38        1
+     208       69    66.83        2
+     207       93    55.07        3
+     206      113    45.15        4
+     205      131    36.10        5
+     204      147    27.94        6
+     203      159    21.67        7
+     202      169    16.34        8
+
+Stopwords
+   Count   Missed   %Right   
+       3        0   100.00   a
+       1        1     0.00   and
+       3        1    66.67   had
+       1        1     0.00   i
+       4        0   100.00   in
+       1        0   100.00   is
+       1        0   100.00   of
+       1        0   100.00   over
+
+Non-stopwords
+   Count   Missed   %Right   
+       2        0   100.00   aan
+       1        0   100.00   aanmerkingen
+       1        1     0.00   aat
+       1        0   100.00   agtsten
+       1        0   100.00   als
+       1        0   100.00   alvorens
+       1        0   100.00   anders
+       2        0   100.00   begrip
+       1        1     0.00   bekeer
+       1        1     0.00   betref
+       2        0   100.00   bewezen
+       1        0   100.00   bewij
+       2        0   100.00   bewijzen
+       1        1     0.00   beſnijdenis
+       1        0   100.00   bijbrengt
+       1        0   100.00   bijgevoegd
+       5        0   100.00   bl
+       1        0   100.00   bleven
+       3        0   100.00   brief
+       1        0   100.00   daar
+       1        0   100.00   dan
+       6        4    33.33   dat
+       6        0   100.00   de
+       1        0   100.00   delingen
+       8        0   100.00   den
+       3        0   100.00   der
+       1        0   100.00   des
+       3        0   100.00   die
+       1        0   100.00   durven
+       1        0   100.00   eene
+       1        1     0.00   elt
+       4        0   100.00   en
+       1        0   100.00   even
+       1        0   100.00   fende
+       1        1     0.00   ganſchen
+       1        0   100.00   gedaan
+       1        0   100.00   gedurende
+       4        0   100.00   geen
+       1        0   100.00   genadige
+       1        0   100.00   geredeneerd
+       2        0   100.00   gezegd
+       2        0   100.00   gods
+       1        0   100.00   handelwijze
+       2        0   100.00   heeft
+       5        0   100.00   het
+       6        2    66.67   hij
+       1        0   100.00   houding
+       3        0   100.00   hr
+       1        0   100.00   huis
+       1        1     0.00   i29
+       1        1     0.00   i34
+       1        1     0.00   i40
+       1        1     0.00   i44
+       1        1     0.00   ii
+       1        1     0.00   ii3
+       1        1     0.00   iii
+       5        1    80.00   ik
+       1        0   100.00   israëliten
+       1        1     0.00   israëlitiſche
+       1        1     0.00   israëls
+       1        0   100.00   iv
+       1        0   100.00   kerk
+       1        0   100.00   kinderen
+       1        0   100.00   kort
+       1        0   100.00   l
+       1        0   100.00   loop
+       1        0   100.00   met
+       1        0   100.00   minder
+       1        0   100.00   negenden
+       1        0   100.00   nemen
+       4        0   100.00   niet
+       1        0   100.00   nieuw
+       1        1     0.00   o
+       1        0   100.00   om
+       1        0   100.00   onderneemt
+       1        0   100.00   onderneming
+       1        0   100.00   ongelukkig
+       2        1    50.00   op
+       1        0   100.00   opregt
+       2        0   100.00   oude
+       1        0   100.00   ouden
+       1        0   100.00   overige
+       1        0   100.00   overtegaan
+       1        0   100.00   pa
+       1        0   100.00   proef
+       1        1     0.00   pſ
+       4        1    75.00   t
+       2        0   100.00   te
+       3        0   100.00   tegen
+       1        0   100.00   ter
+       1        0   100.00   toon
+       1        0   100.00   tot
+       1        0   100.00   twee
+       2        0   100.00   uit
+       4        1    75.00   van
+       1        1     0.00   verbon
+       1        0   100.00   verbond
+       1        0   100.00   verbondelingen
+       1        0   100.00   verbonds
+       1        0   100.00   verklaring
+       2        1    50.00   voor
+       1        1     0.00   voorreden
+       1        1     0.00   vorige
+       1        0   100.00   waar
+       2        0   100.00   wegens
+       2        0   100.00   welken
+       1        0   100.00   wijs
+       1        1     0.00   xxvi
+       1        0   100.00   zelve
+       1        0   100.00   zen
+       1        0   100.00   zevenden
+       1        0   100.00   zig
+       2        0   100.00   zijn
+       1        0   100.00   zijne
+       1        1     0.00   ſcha
+       1        1     0.00   ſchiet
+       1        1     0.00   ſom
+       3        3     0.00   

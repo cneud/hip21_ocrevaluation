@@ -1,0 +1,207 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     242   Words
+      96   Misrecognized
+   60.33%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+      12        3    75.00        2
+      12        3    75.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       4        2    50.00        1
+      36        4    88.89        2
+      62       21    66.13        3
+      40       18    55.00        4
+      27       11    59.26        5
+      17       11    35.29        6
+      10        6    40.00        7
+      13        8    38.46        8
+       8        3    62.50        9
+       4        4     0.00       10
+       4        3    25.00       11
+       1        0   100.00       12
+       1        0   100.00       13
+       2        1    50.00       14
+       1        1     0.00       17
+     230       93    59.57    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+     106       57    46.23        1
+      24        5    79.17        2
+       6        2    66.67        3
+       3        0   100.00        4
+       2        0   100.00        5
+       1        1     0.00        7
+       2        0   100.00        9
+       1        0   100.00      >10
+     145       65    55.17    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     242       96    60.33        1
+     241      146    39.42        2
+     240      177    26.25        3
+     239      196    17.99        4
+     238      208    12.61        5
+     237      216     8.86        6
+     236      220     6.78        7
+     235      223     5.11        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        1    50.00   be
+       5        0   100.00   in
+       4        2    50.00   is
+       1        0   100.00   of
+
+Non-stopwords
+   Count   Missed   %Right   
+       2        1    50.00   aan
+       1        0   100.00   af
+       1        0   100.00   afgeleide
+       1        1     0.00   afzon
+       1        1     0.00   agen
+       1        0   100.00   alle
+       2        0   100.00   alleen
+       1        0   100.00   beginne
+       2        0   100.00   beginſel
+       1        0   100.00   behooren
+       1        0   100.00   behoort
+       1        0   100.00   belet
+       1        1     0.00   beſchouw
+       1        1     0.00   bijbel
+       2        1    50.00   buiten
+       1        1     0.00   ca
+       2        0   100.00   daar
+       1        1     0.00   dadelijk
+       9        0   100.00   dat
+       9        0   100.00   de
+       2        0   100.00   den
+       1        1     0.00   derlijke
+       2        1    50.00   deze
+       3        1    66.67   die
+       1        0   100.00   dit
+       1        0   100.00   dog
+       1        0   100.00   door
+       2        2     0.00   e
+       2        1    50.00   eene
+       1        1     0.00   eer
+       1        1     0.00   eeuwig
+       1        0   100.00   ei
+       1        1     0.00   eld
+       1        1     0.00   elkander
+       1        1     0.00   elling
+       1        1     0.00   ellingen
+      11        0   100.00   en
+       1        0   100.00   erkennen
+       1        0   100.00   gaan
+       2        0   100.00   ge
+       1        1     0.00   gebruijkelikheden
+       2        0   100.00   geen
+       1        1     0.00   geheel
+       1        0   100.00   gehouden
+       2        2     0.00   gelukkig
+       1        0   100.00   gen
+       1        0   100.00   geopenbaarde
+       1        0   100.00   gevolgd
+       1        0   100.00   gevolgen
+       1        1     0.00   gezag
+       1        1     0.00   gezonde
+       1        0   100.00   geſchiedenis
+       2        1    50.00   god
+       1        1     0.00   godgeleerd
+       1        0   100.00   godgeleerdheid
+       1        0   100.00   gods
+       1        0   100.00   haar
+       1        0   100.00   hange
+       2        1    50.00   hebben
+       4        0   100.00   heeft
+       1        1     0.00   heid
+       2        1    50.00   het
+       1        1     0.00   hier
+       1        0   100.00   houdt
+       3        3     0.00   ik
+       1        1     0.00   inge
+       2        2     0.00   kunnen
+       1        1     0.00   laat
+       1        0   100.00   leert
+       1        1     0.00   lijk
+       3        0   100.00   maar
+       1        1     0.00   maken
+       1        0   100.00   meens
+       1        0   100.00   men
+       1        1     0.00   mensch
+       1        0   100.00   menſchen
+       1        0   100.00   met
+       1        1     0.00   metaphy
+       1        0   100.00   moet
+       1        0   100.00   naar
+       1        0   100.00   namaals
+       1        1     0.00   natuurlijke
+       4        1    75.00   niet
+       1        0   100.00   niets
+       1        0   100.00   nog
+       1        0   100.00   nooit
+       2        0   100.00   om
+       1        1     0.00   onder
+       1        1     0.00   onderwijzen
+       3        0   100.00   ons
+       1        1     0.00   ook
+       1        1     0.00   oordeel
+       1        0   100.00   op
+       1        0   100.00   rede
+       1        0   100.00   redeneren
+       1        1     0.00   rijden
+       2        0   100.00   t
+       5        0   100.00   te
+       2        0   100.00   tegen
+       2        1    50.00   tijd
+       1        0   100.00   toe
+       1        1     0.00   toege
+       2        0   100.00   tot
+       1        1     0.00   twee
+       1        1     0.00   twijfel
+       1        1     0.00   t’ſamen
+       4        1    75.00   uit
+       1        1     0.00   uitmaken
+       5        0   100.00   van
+       1        0   100.00   verre
+       1        0   100.00   volg
+       1        1     0.00   voorreden
+       1        1     0.00   vrijwillig
+       3        3     0.00   waar
+       1        0   100.00   wan
+       1        1     0.00   weet
+       1        1     0.00   weg
+       1        1     0.00   wegen
+       1        1     0.00   wel
+       1        1     0.00   welbehagen
+       2        2     0.00   welke
+       1        1     0.00   welken
+       2        1    50.00   wetenſchap
+       1        1     0.00   wetenſchappen
+       1        0   100.00   wettig
+       1        1     0.00   wijs
+       1        1     0.00   wijsheid
+       1        0   100.00   wil
+       1        1     0.00   worde
+       1        0   100.00   wordt
+       1        0   100.00   xiv
+       1        1     0.00   zalig
+       1        1     0.00   zaligheid
+       1        1     0.00   zeden
+       1        1     0.00   zeer
+       3        1    66.67   zij
+       1        1     0.00   zijn
+       1        0   100.00   zijne
+       1        1     0.00   zondige
+       1        1     0.00   éénig
+       1        0   100.00   ſchaven
+       1        0   100.00   ſpoor
+       7        7     0.00   
+       1        1     0.00   
+       2        2     0.00   

@@ -1,0 +1,180 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     201   Words
+     124   Misrecognized
+   38.31%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       5        5     0.00        1
+       2        0   100.00        2
+       3        0   100.00        3
+      10        5    50.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      16       16     0.00        1
+      22       19    13.64        2
+      89       57    35.96        3
+      22        7    68.18        4
+      18       11    38.89        5
+      13        5    61.54        6
+       3        1    66.67        7
+       2        1    50.00        8
+       2        1    50.00        9
+       2        1    50.00       10
+       1        0   100.00       11
+       1        0   100.00       13
+     191      119    37.70    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      88       47    46.59        1
+      13        5    61.54        2
+      12        7    41.67        3
+       2        1    50.00        4
+       2        1    50.00        5
+       1        1     0.00        7
+       1        1     0.00      >10
+     119       63    47.06    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     201      124    38.31        1
+     200      159    20.50        2
+     199      179    10.05        3
+     198      189     4.55        4
+     197      193     2.03        5
+     196      194     1.02        6
+     195      195     0.00        7
+     194      194     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       4        4     0.00   i
+       2        0   100.00   in
+       2        0   100.00   man
+       1        0   100.00   not
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   ander
+       1        1     0.00   andt
+       1        1     0.00   ausge
+       1        0   100.00   aut
+       1        1     0.00   barli
+       1        0   100.00   beinhauſe
+       1        1     0.00   ber
+       1        1     0.00   berkgſeyl
+       1        1     0.00   bor
+       1        1     0.00   bundt
+       1        1     0.00   clo
+       1        1     0.00   creu
+       1        0   100.00   damit
+       1        0   100.00   darbey
+       1        1     0.00   darna
+       2        0   100.00   das
+       2        0   100.00   den
+       3        0   100.00   der
+       2        0   100.00   die
+       1        1     0.00   durﬀt
+       3        3     0.00   e
+       3        0   100.00   ein
+       1        0   100.00   einander
+       1        1     0.00   einen
+       3        3     0.00   en
+       3        3     0.00   er
+       1        1     0.00   es
+       1        1     0.00   f
+       1        1     0.00   fle
+       1        1     0.00   g
+       1        1     0.00   ge
+       1        0   100.00   gelegen
+       1        0   100.00   gen
+       1        0   100.00   genug
+       1        1     0.00   geplei
+       1        1     0.00   geſehen
+       1        1     0.00   gnug
+       1        0   100.00   graben
+       1        1     0.00   gro
+       1        0   100.00   gros
+       3        1    66.67   haar
+       1        0   100.00   halten
+       1        1     0.00   herna
+       1        1     0.00   het
+       1        1     0.00   hette
+       1        0   100.00   hie
+       1        0   100.00   hindern
+       2        0   100.00   im
+       1        1     0.00   je
+       1        0   100.00   jhr
+       2        2     0.00   kopﬀ
+       1        0   100.00   krag
+       1        1     0.00   la
+       1        0   100.00   lange
+       1        1     0.00   lden
+       1        0   100.00   mag
+       1        1     0.00   mei
+       1        0   100.00   mund
+       2        0   100.00   mus
+       1        1     0.00   mů
+       3        3     0.00   n
+       1        1     0.00   na
+       1        1     0.00   nat
+       1        1     0.00   ni
+       1        1     0.00   nu
+       1        0   100.00   nur
+       2        0   100.00   oder
+       1        0   100.00   perlen
+       1        0   100.00   plawen
+       1        1     0.00   pra
+       1        1     0.00   pﬀe
+       1        1     0.00   pﬀen
+       2        2     0.00   r
+       1        0   100.00   reden
+       1        1     0.00   rli
+       1        1     0.00   s
+       3        3     0.00   t
+       2        1    50.00   ten
+       1        1     0.00   th
+       1        1     0.00   todten
+       1        1     0.00   ts
+       1        0   100.00   vber
+       1        0   100.00   ver
+       1        0   100.00   vmb
+       5        3    40.00   vnd
+       1        0   100.00   vnnd
+       1        1     0.00   voitlande
+       3        0   100.00   von
+       1        0   100.00   weibsbilder
+       1        0   100.00   weibßbildern
+       1        0   100.00   weißheit
+       1        0   100.00   weiſe
+       1        0   100.00   wenn
+       1        1     0.00   wer
+       3        0   100.00   wie
+       1        0   100.00   wolt
+       1        0   100.00   worden
+       1        1     0.00   wul
+       1        0   100.00   wunder
+       2        2     0.00   z
+       1        0   100.00   zeit
+       2        1    50.00   zu
+       1        0   100.00   zung
+       3        3     0.00   ſ
+       1        0   100.00   ſagt
+       4        3    25.00   ſein
+       1        0   100.00   ſel
+       1        0   100.00   ſey
+       1        0   100.00   ſo
+       1        1     0.00   ſol
+       1        1     0.00   ſon
+       4        4     0.00   
+       5        5     0.00   
+       7        7     0.00   
+       3        3     0.00   
+       2        2     0.00   
+       2        2     0.00   
+       1        1     0.00   
+      16       16     0.00   

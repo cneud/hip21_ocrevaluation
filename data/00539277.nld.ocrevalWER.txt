@@ -1,0 +1,191 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     230   Words
+      33   Misrecognized
+   85.65%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+      11        1    90.91        2
+       3        0   100.00        3
+       1        0   100.00        4
+      15        1    93.33    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       2        2     0.00        1
+      32        5    84.38        2
+      74       10    86.49        3
+      28        9    67.86        4
+      19        0   100.00        5
+      15        2    86.67        6
+      13        0   100.00        7
+      15        2    86.67        8
+       9        2    77.78        9
+       5        0   100.00       10
+       1        0   100.00       12
+       1        0   100.00       14
+       1        0   100.00       16
+     215       32    85.12    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      84       13    84.52        1
+      24        1    95.83        2
+       8        2    75.00        3
+       5        0   100.00        4
+       2        1    50.00        5
+       1        0   100.00        6
+       2        0   100.00        7
+       1        0   100.00        9
+     127       17    86.61    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     230       33    85.65        1
+     229       53    76.86        2
+     228       70    69.30        3
+     227       86    62.11        4
+     226      102    54.87        5
+     225      116    48.44        6
+     224      127    43.30        7
+     223      137    38.57        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        0   100.00   had
+       8        1    87.50   in
+       2        0   100.00   is
+       1        0   100.00   of
+       1        0   100.00   over
+       2        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   2
+       1        0   100.00   560
+       1        0   100.00   675
+       2        0   100.00   aan
+       1        0   100.00   afkeerig
+       1        0   100.00   aldaar
+       1        0   100.00   als
+       1        0   100.00   antwoord
+       1        0   100.00   begrijpen
+       1        0   100.00   bekend
+       2        0   100.00   bl
+       1        0   100.00   bo
+       2        0   100.00   boekzaal
+       3        0   100.00   brieven
+       4        0   100.00   daar
+       1        0   100.00   dan
+       7        0   100.00   dat
+       7        0   100.00   de
+       3        1    66.67   den
+       3        2    33.33   deze
+       1        0   100.00   dien
+       4        0   100.00   dit
+       1        0   100.00   door
+       1        0   100.00   duidelijk
+       1        0   100.00   duidelijke
+       1        0   100.00   een
+       1        0   100.00   eenige
+       1        0   100.00   eerst
+       3        3     0.00   el
+       4        1    75.00   en
+       1        0   100.00   enz
+       1        0   100.00   er
+       1        0   100.00   evenwel
+       2        0   100.00   ge
+       2        0   100.00   gedaan
+       2        0   100.00   gegeven
+       1        0   100.00   gegrond
+       1        0   100.00   gehad
+       1        0   100.00   gekregen
+       1        0   100.00   genoeg
+       1        0   100.00   geweest
+       1        0   100.00   graag
+       1        0   100.00   heb
+       2        0   100.00   heeft
+       1        0   100.00   heel
+       2        0   100.00   hem
+       1        0   100.00   herhaalt
+       1        0   100.00   herinner
+       6        2    66.67   het
+       1        0   100.00   hij
+       1        0   100.00   hoe
+       2        2     0.00   i787
+       1        1     0.00   i788
+       1        1     0.00   iemand
+       1        1     0.00   iii
+       5        0   100.00   ik
+       1        0   100.00   indien
+       1        0   100.00   junij
+       1        0   100.00   kan
+       1        0   100.00   kering
+       1        0   100.00   klare
+       4        0   100.00   men
+       2        0   100.00   met
+       1        0   100.00   mey
+       3        0   100.00   mij
+       2        0   100.00   mijne
+       2        0   100.00   mijner
+       1        1     0.00   min
+       1        0   100.00   naamd
+       1        0   100.00   naar
+       1        0   100.00   nazomer
+       1        0   100.00   niets
+       1        0   100.00   niettegenstaande
+       1        0   100.00   nogtans
+       1        0   100.00   noodzaakte
+       1        0   100.00   nooit
+       1        1     0.00   nu
+       1        0   100.00   onbekend
+       1        0   100.00   onderhandeling
+       3        0   100.00   ook
+       4        0   100.00   op
+       1        0   100.00   philadelphus
+       1        1     0.00   plaatſen
+       2        0   100.00   publiek
+       1        0   100.00   rekening
+       1        1     0.00   rijdperk
+       2        0   100.00   schrijver
+       1        1     0.00   t
+       2        0   100.00   te
+       1        0   100.00   ten
+       1        0   100.00   tijd
+       2        0   100.00   toe
+       1        0   100.00   tot
+       1        0   100.00   treden
+       1        0   100.00   uitdaging
+       2        0   100.00   uitgever
+       9        0   100.00   van
+       1        0   100.00   ven
+       1        0   100.00   verbeeldde
+       1        0   100.00   verklaring
+       2        0   100.00   vermoeden
+       1        0   100.00   vervuld
+       1        0   100.00   verze
+       1        0   100.00   verzekeren
+       1        0   100.00   volgende
+       3        3     0.00   voor
+       1        1     0.00   voornoem
+       1        1     0.00   voorreden
+       1        0   100.00   vrees
+       1        0   100.00   vriend
+       2        0   100.00   waar
+       1        0   100.00   waarheid
+       3        0   100.00   wel
+       2        0   100.00   wierd
+       1        0   100.00   wilde
+       2        0   100.00   wist
+       2        0   100.00   zeer
+       1        0   100.00   zeide
+       1        0   100.00   zien
+       2        0   100.00   zijn
+       1        0   100.00   zijnen
+       2        0   100.00   zoo
+       1        0   100.00   zou
+       1        0   100.00   zoude
+       1        1     0.00   zugt
+       1        1     0.00   ſoort
+       5        5     0.00   

@@ -1,0 +1,184 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     223   Words
+     133   Misrecognized
+   40.36%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       1        0   100.00        2
+       3        0   100.00        3
+       4        0   100.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      26       25     3.85        1
+      27       22    18.52        2
+      90       55    38.89        3
+      26        9    65.38        4
+      15        5    66.67        5
+      10        4    60.00        6
+       7        3    57.14        7
+       5        2    60.00        8
+       7        5    28.57        9
+       1        0   100.00       10
+       5        3    40.00       11
+     219      133    39.27    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      92       47    48.91        1
+      14        6    57.14        2
+      10        4    60.00        3
+       1        0   100.00        4
+       2        2     0.00        5
+       1        1     0.00        6
+       3        2    33.33        7
+       1        1     0.00        9
+       1        1     0.00      >10
+     125       64    48.80    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     223      133    40.36        1
+     222      170    23.42        2
+     221      195    11.76        3
+     220      210     4.55        4
+     219      215     1.83        5
+     218      216     0.92        6
+     217      216     0.46        7
+     216      216     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        0   100.00   her
+       1        0   100.00   in
+       2        0   100.00   man
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   1
+       1        1     0.00   11
+       1        0   100.00   alſo
+       2        0   100.00   ampts
+       1        0   100.00   angenomen
+       2        2     0.00   au
+       1        1     0.00   augen
+       1        1     0.00   auﬀtheten
+       1        1     0.00   b
+       1        0   100.00   boßheit
+       1        1     0.00   chri
+       1        1     0.00   corinth
+       2        0   100.00   damit
+       3        0   100.00   das
+       1        1     0.00   de
+       3        0   100.00   dem
+       2        0   100.00   den
+       1        0   100.00   denn
+       3        0   100.00   der
+       2        1    50.00   die
+       1        0   100.00   drey
+       1        0   100.00   dung
+       9        9     0.00   e
+       1        1     0.00   edeln
+       1        0   100.00   ein
+       1        0   100.00   einer
+       5        5     0.00   en
+       3        2    33.33   er
+       1        1     0.00   ern
+       1        0   100.00   errinnerten
+       2        2     0.00   et
+       1        1     0.00   etli
+       2        2     0.00   f
+       1        0   100.00   fe
+       1        0   100.00   fiedel
+       1        0   100.00   fiedler
+       1        0   100.00   frommen
+       1        1     0.00   ga
+       1        1     0.00   ge
+       1        1     0.00   gebrau
+       2        2     0.00   gefengnus
+       1        0   100.00   gehen
+       1        1     0.00   genug
+       1        1     0.00   geri
+       1        0   100.00   geſehen
+       3        0   100.00   gott
+       1        1     0.00   grei
+       2        2     0.00   gro
+       1        1     0.00   hanſen
+       1        0   100.00   hat
+       1        0   100.00   hetten
+       1        0   100.00   heut
+       1        0   100.00   hof
+       1        0   100.00   hohe
+       1        0   100.00   hoſen
+       1        1     0.00   hoﬁeren
+       1        1     0.00   jederman
+       1        0   100.00   jhre
+       1        1     0.00   jhres
+       1        0   100.00   jres
+       1        1     0.00   jun
+       1        0   100.00   klei
+       1        0   100.00   kleidung
+       1        1     0.00   lang
+       1        1     0.00   le
+       1        0   100.00   legen
+       1        1     0.00   li
+       1        1     0.00   m
+       1        0   100.00   mehr
+       4        0   100.00   mit
+       1        1     0.00   na
+       3        3     0.00   ni
+       1        0   100.00   nur
+       1        1     0.00   o
+       1        0   100.00   obrigkeit
+       1        1     0.00   oﬀen
+       1        0   100.00   paulus
+       1        0   100.00   potentaten
+       3        3     0.00   r
+       1        1     0.00   raﬀen
+       1        1     0.00   raﬀeten
+       1        1     0.00   raﬀt
+       1        1     0.00   rde
+       1        1     0.00   rden
+       1        0   100.00   ren
+       1        1     0.00   ri
+       1        0   100.00   s
+       3        3     0.00   t
+       2        0   100.00   tage
+       1        1     0.00   ten
+       1        1     0.00   tet
+       1        1     0.00   teten
+       1        1     0.00   teuﬀeliſ
+       1        0   100.00   treibet
+       1        1     0.00   v
+       1        0   100.00   vber
+       1        0   100.00   vergitterts
+       1        1     0.00   vermeßli
+       1        1     0.00   verurſa
+       7        0   100.00   vnd
+       1        0   100.00   vns
+       2        0   100.00   von
+       1        1     0.00   vorgehenden
+       3        3     0.00   w
+       1        0   100.00   wenn
+       1        0   100.00   wie
+       2        1    50.00   wir
+       1        0   100.00   wolte
+       1        0   100.00   wolten
+       1        0   100.00   zeit
+       3        0   100.00   zu
+       1        0   100.00   ſaget
+       1        0   100.00   ſagt
+       1        1     0.00   ſeher
+       1        0   100.00   ſelber
+       1        1     0.00   ſen
+       2        0   100.00   ſo
+       2        2     0.00   ſol
+       1        1     0.00   
+       6        6     0.00   
+       7        7     0.00   
+       7        7     0.00   
+       5        5     0.00   
+       1        1     0.00   
+      19       19     0.00   

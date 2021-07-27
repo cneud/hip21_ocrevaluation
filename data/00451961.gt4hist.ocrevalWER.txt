@@ -1,0 +1,206 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     230   Words
+      84   Misrecognized
+   63.48%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        0   100.00        1
+       4        2    50.00        2
+       6        2    66.67    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      10        8    20.00        1
+      32        4    87.50        2
+      78       37    52.56        3
+      26        8    69.23        4
+      20        6    70.00        5
+      15        5    66.67        6
+      14        7    50.00        7
+       8        2    75.00        8
+       5        1    80.00        9
+       7        2    71.43       10
+       4        1    75.00       11
+       4        1    75.00       12
+       1        0   100.00       14
+     224       82    63.39    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+     114       39    65.79        1
+      17        4    76.47        2
+       5        3    40.00        3
+       1        0   100.00        4
+       2        0   100.00        5
+       2        0   100.00        7
+       1        0   100.00        8
+       2        1    50.00      >10
+     144       47    67.36    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     230       84    63.48        1
+     229      116    49.34        2
+     228      139    39.04        3
+     227      157    30.84        4
+     226      170    24.78        5
+     225      182    19.11        6
+     224      193    13.84        7
+     223      200    10.31        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        0   100.00   a
+       1        1     0.00   do
+       1        1     0.00   in
+       1        0   100.00   me
+       1        0   100.00   on
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   37
+       1        0   100.00   accidents
+       1        0   100.00   aduerſaires
+       1        1     0.00   ain
+       1        1     0.00   ance
+       2        2     0.00   ances
+       1        1     0.00   attacher
+       1        0   100.00   auertir
+       1        0   100.00   autre
+       1        0   100.00   autres
+       1        0   100.00   aux
+       1        0   100.00   bes
+       2        0   100.00   bien
+       1        0   100.00   blaſme
+       1        0   100.00   bon
+       1        0   100.00   car
+       4        0   100.00   ce
+       1        0   100.00   celuy
+       1        0   100.00   ceux
+       1        1     0.00   chap
+       1        0   100.00   choſe
+       1        0   100.00   choſes
+       1        0   100.00   com
+       1        0   100.00   comme
+       2        1    50.00   con
+       1        0   100.00   conclurre
+       1        0   100.00   contre
+       2        0   100.00   corporelles
+       1        0   100.00   corps
+       1        1     0.00   crû
+       2        0   100.00   dans
+      12        2    83.33   de
+       1        1     0.00   deffenſeurs
+       2        1    50.00   des
+       1        0   100.00   dire
+       1        0   100.00   diſent
+       1        0   100.00   du
+       1        1     0.00   dépend
+       8        7    12.50   e
+       1        0   100.00   en
+       1        1     0.00   enduë
+       1        1     0.00   enduës
+       1        0   100.00   enten
+       1        0   100.00   epicure
+       1        1     0.00   erreur
+       1        0   100.00   et
+       1        1     0.00   eur
+       1        0   100.00   exemt
+       1        0   100.00   exemter
+       1        0   100.00   faire
+       1        0   100.00   fait
+       1        0   100.00   faites
+       1        0   100.00   faut
+       1        0   100.00   generalement
+       1        1     0.00   gnification
+       1        0   100.00   hob
+       1        1     0.00   hommes
+       1        1     0.00   iamais
+       1        1     0.00   iij
+       1        0   100.00   il
+       2        0   100.00   ils
+       1        0   100.00   imaginaire
+       1        0   100.00   immateriel
+       1        0   100.00   interieur
+       1        1     0.00   ions
+       2        2     0.00   itution
+       1        1     0.00   ius
+       1        1     0.00   l
+       1        1     0.00   l'esprit
+       1        1     0.00   l'homme
+       2        0   100.00   la
+       3        0   100.00   le
+       7        0   100.00   les
+       1        0   100.00   leur
+       1        0   100.00   là
+       1        0   100.00   ma
+       1        0   100.00   mais
+       1        1     0.00   malgré
+       1        0   100.00   materielles
+       1        0   100.00   meſme
+       1        0   100.00   mot
+       1        0   100.00   mots
+       1        1     0.00   n'a
+       1        1     0.00   nature
+       1        0   100.00   naturelle
+       2        0   100.00   ne
+       1        0   100.00   non
+       2        0   100.00   nos
+       3        0   100.00   nous
+       1        1     0.00   obje
+       2        2     0.00   oient
+       1        1     0.00   oit
+       5        1    80.00   ont
+       2        0   100.00   ou
+       1        1     0.00   où
+       2        0   100.00   par
+       1        0   100.00   parlé
+       1        0   100.00   pas
+       1        1     0.00   penſées
+       1        0   100.00   permiſe
+       1        0   100.00   philoſophes
+       1        1     0.00   po
+       1        0   100.00   point
+       1        0   100.00   pour
+       1        1     0.00   pouuons
+       1        0   100.00   preuue
+       1        0   100.00   preſuppoſent
+       1        0   100.00   principe
+       1        0   100.00   pris
+       1        0   100.00   purement
+       1        1     0.00   qu'on
+       7        1    85.71   que
+       1        0   100.00   quelques
+       5        0   100.00   qui
+       1        1     0.00   reçoiuent
+       1        1     0.00   rie
+       1        1     0.00   réel
+       1        0   100.00   tefois
+       1        0   100.00   telle
+       1        0   100.00   tenir
+       2        0   100.00   tertullien
+       1        1     0.00   tif
+       1        0   100.00   tou
+       1        0   100.00   tous
+       1        0   100.00   tout
+       2        0   100.00   toutes
+       1        0   100.00   v
+       1        1     0.00   vne
+       1        1     0.00   vor
+       1        0   100.00   voulu
+       1        0   100.00   ximes
+       1        0   100.00   ſans
+       1        0   100.00   ſemble
+       1        0   100.00   ſequent
+       1        0   100.00   ſeulement
+       1        0   100.00   ſoit
+       3        3     0.00   ſub
+       1        0   100.00   ſuiuant
+       1        1     0.00   ſçauroit
+      13       13     0.00   
+       3        3     0.00   
+       2        2     0.00   
+       3        3     0.00   
+       1        1     0.00   

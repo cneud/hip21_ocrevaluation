@@ -1,0 +1,120 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+     840   Characters
+     265   Errors
+   68.45%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   68.45%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      91       43      131      265   Unmarked
+      91       43      131      265   Total
+
+   Count   Missed   %Right
+       7        0   100.00   Unassigned
+     170       20    88.24   ASCII Spacing Characters
+      28        4    85.71   ASCII Special Symbols
+      47        6    87.23   ASCII Uppercase Letters
+     532       62    88.35   ASCII Lowercase Letters
+       3        1    66.67   Latin1 Lowercase Letters
+      13        1    92.31   Latin Extended-A
+      37       37     0.00   Private Use Area
+       3        3     0.00   Alphabetic Presentation Forms
+     840      134    84.05   Total
+
+  Errors   Marked   Correct-Generated
+      90        0   {}-{flen ven Sachſen / mit ...}
+      65        0   {Hembdern<\n>vnd Krgen...}-{}
+      16        0   {}-{ch}
+      14        0   {von Saſen / m}-{}
+       8        0   {}-{u◌ͤſſ}
+       6        0   {}-{ſt}
+       6        0   {}-{ck}
+       6        0   {ﬀ}-{ff}
+       4        0   {}-{u◌ͤ}
+       4        0   {}-{ſi}
+       4        0   {}-{ſto◌ͤ}
+       4        0   {}-{ſi}
+       4        0   {}-{ll}
+       3        0   {I}-{Jch}
+       3        0   {fal}-{Ai}
+       3        0   {ren}-{}
+       3        0   {en}-{E}
+       2        0   { }-{}
+       2        0   {t }-{}
+       2        0   {}-{ }
+       2        0   {}-{4<\n>}
+       2        0   {}-{◌ͤ}
+       2        0   {}-{ſl}
+       2        0   {}-{ſſ}
+       2        0   {}-{tz}
+       1        0   {e}-{c}
+       1        0   {e}-{t}
+       1        0   {l}-{}
+       1        0   {o}-{e}
+       1        0   {z}-{i}
+       1        0   {}-{}
+
+   Count   Missed   %Right
+      27        4    85.19   {<\n>}
+     143       16    88.81   { }
+       5        1    80.00   {.}
+      23        3    86.96   {/}
+       2        0   100.00   {A}
+       1        0   100.00   {C}
+       4        0   100.00   {D}
+       5        1    80.00   {E}
+       5        0   100.00   {F}
+       4        0   100.00   {G}
+       5        2    60.00   {H}
+       1        1     0.00   {I}
+       1        0   100.00   {J}
+       5        1    80.00   {K}
+       1        0   100.00   {L}
+       1        0   100.00   {O}
+       1        0   100.00   {P}
+       1        0   100.00   {R}
+       4        1    75.00   {S}
+       1        0   100.00   {V}
+       5        0   100.00   {W}
+      46        5    89.13   {a}
+       8        2    75.00   {b}
+      28        3    89.29   {d}
+     113       11    90.27   {e}
+       4        1    75.00   {f}
+      17        2    88.24   {g}
+       8        2    75.00   {h}
+      40        2    95.00   {i}
+       3        1    66.67   {j}
+       3        0   100.00   {k}
+      14        4    71.43   {l}
+      29        5    82.76   {m}
+      71        9    87.32   {n}
+      13        2    84.62   {o}
+       4        0   100.00   {p}
+      50        4    92.00   {r}
+       9        0   100.00   {s}
+      30        4    86.67   {t}
+      20        1    95.00   {u}
+      10        3    70.00   {v}
+       9        0   100.00   {w}
+       3        1    66.67   {z}
+       3        1    66.67   {ß}
+      13        1    92.31   {ſ}
+       7        0   100.00   {⸗}
+       1        1     0.00   {}
+       1        1     0.00   {}
+       4        4     0.00   {}
+       8        8     0.00   {}
+       2        2     0.00   {}
+       3        3     0.00   {}
+       3        3     0.00   {}
+       1        1     0.00   {}
+       3        3     0.00   {}
+      11       11     0.00   {}
+       3        3     0.00   {ﬀ}

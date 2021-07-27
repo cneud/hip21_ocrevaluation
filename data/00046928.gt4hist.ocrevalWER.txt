@@ -1,0 +1,137 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     130   Words
+      82   Misrecognized
+   36.92%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        2     0.00        1
+       7        1    85.71        2
+       1        0   100.00        4
+      10        3    70.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       6        5    16.67        1
+      16       14    12.50        2
+      49       31    36.73        3
+      14        9    35.71        4
+      13        8    38.46        5
+       8        4    50.00        6
+       6        3    50.00        7
+       6        3    50.00        8
+       2        2     0.00        9
+     120       79    34.17    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      59       35    40.68        1
+      10        4    60.00        2
+       3        2    33.33        3
+       3        2    33.33        4
+       1        1     0.00        5
+       1        0   100.00        6
+       1        1     0.00        9
+      78       45    42.31    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     130       82    36.92        1
+     129       95    26.36        2
+     128      104    18.75        3
+     127      110    13.39        4
+     126      115     8.73        5
+     125      119     4.80        6
+     124      123     0.81        7
+     123      123     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       4        1    75.00   an
+       1        0   100.00   as
+       2        0   100.00   be
+       1        1     0.00   i
+       1        0   100.00   that
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   3
+       2        1    50.00   adam
+       1        1     0.00   alſo
+       1        1     0.00   anfengli
+       1        1     0.00   angeſe
+       1        1     0.00   aﬀet
+       1        0   100.00   beide
+       1        0   100.00   cap
+       1        1     0.00   d
+       1        0   100.00   da
+       2        1    50.00   damit
+       1        1     0.00   darinnen
+       2        0   100.00   das
+       1        0   100.00   dem
+       1        0   100.00   den
+       1        1     0.00   denn
+       2        0   100.00   der
+       1        1     0.00   des
+       1        1     0.00   dieſen
+       3        3     0.00   e
+       5        5     0.00   en
+       4        4     0.00   er
+       1        1     0.00   et
+       1        1     0.00   eua
+       1        1     0.00   fel
+       1        0   100.00   frieden
+       2        2     0.00   gefa
+       1        1     0.00   gehorſam
+       1        1     0.00   gema
+       1        0   100.00   geneſ
+       1        1     0.00   gnaden
+       4        2    50.00   gott
+       1        1     0.00   hat
+       1        1     0.00   hen
+       1        0   100.00   jhnen
+       3        1    66.67   kleidung
+       1        1     0.00   lambfe
+       1        1     0.00   ldigen
+       1        1     0.00   leibr
+       1        1     0.00   lembleins
+       1        1     0.00   len
+       1        1     0.00   ma
+       1        1     0.00   menſ
+       2        1    50.00   mit
+       1        1     0.00   nu
+       1        1     0.00   sohns
+       1        1     0.00   st
+       1        1     0.00   t
+       1        0   100.00   text
+       1        0   100.00   trage
+       1        0   100.00   tragen
+       1        0   100.00   vermag
+       1        0   100.00   vierdten
+       6        1    83.33   vnd
+       1        1     0.00   vnnd
+       1        1     0.00   vns
+       1        1     0.00   vnſ
+       1        0   100.00   vom
+       1        0   100.00   von
+       1        0   100.00   wei
+       1        0   100.00   weiſet
+       2        1    50.00   wie
+       2        2     0.00   zimli
+       1        0   100.00   zog
+       1        0   100.00   zu
+       1        0   100.00   zufric
+       1        1     0.00   ſ
+       1        1     0.00   ſahe
+       1        0   100.00   ſein
+       1        0   100.00   ſeinem
+       1        1     0.00   ſeines
+       1        0   100.00   ſey
+       1        1     0.00   
+       2        2     0.00   
+       3        3     0.00   
+       2        2     0.00   
+       4        4     0.00   
+       9        9     0.00   

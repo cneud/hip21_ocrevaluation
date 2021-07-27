@@ -1,0 +1,176 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     181   Words
+      68   Misrecognized
+   62.43%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       3        0   100.00        1
+       6        1    83.33        2
+       2        0   100.00        3
+       2        0   100.00        4
+      13        1    92.31    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       3        0   100.00        1
+      28        6    78.57        2
+      50       21    58.00        3
+      26        9    65.38        4
+      18        7    61.11        5
+      11        6    45.45        6
+       7        3    57.14        7
+       8        5    37.50        8
+       6        4    33.33        9
+       4        1    75.00       10
+       2        1    50.00       11
+       1        1     0.00       12
+       1        1     0.00       13
+       2        2     0.00       14
+       1        0   100.00       15
+     168       67    60.12    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      85       46    45.88        1
+      10        1    90.00        2
+       7        1    85.71        3
+       2        1    50.00        4
+       2        1    50.00        5
+       1        0   100.00        7
+       1        0   100.00        8
+       1        0   100.00        9
+     109       50    54.13    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     181       68    62.43        1
+     180      110    38.89        2
+     179      134    25.14        3
+     178      152    14.61        4
+     177      161     9.04        5
+     176      167     5.11        6
+     175      171     2.29        7
+     174      173     0.57        8
+
+Stopwords
+   Count   Missed   %Right   
+       3        0   100.00   a
+       2        0   100.00   had
+       2        0   100.00   in
+       3        0   100.00   is
+       1        1     0.00   of
+       2        0   100.00   over
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   aangaande
+       1        0   100.00   aantoone
+       1        0   100.00   als
+       1        1     0.00   ander
+       1        0   100.00   apostelen
+       1        1     0.00   beantwoordt
+       2        0   100.00   begrip
+       1        1     0.00   belijders
+       1        1     0.00   beweren
+       1        1     0.00   bewij
+       1        1     0.00   bewijs
+       3        3     0.00   bewijzen
+       1        1     0.00   bijbrengt
+       1        1     0.00   bijvoegt
+       7        0   100.00   bl
+       2        2     0.00   brief
+       1        1     0.00   chri
+       1        0   100.00   daar
+       1        0   100.00   dan
+       9        1    88.89   dat
+       8        0   100.00   de
+       3        0   100.00   den
+       1        0   100.00   dit
+       1        1     0.00   eene
+       1        1     0.00   eld
+       1        1     0.00   elfden
+       1        1     0.00   elling
+       1        1     0.00   ema
+       1        1     0.00   enen
+       1        0   100.00   enz
+       1        0   100.00   ge
+       3        0   100.00   geen
+       1        0   100.00   geleerd
+       1        1     0.00   gemaakt
+       1        0   100.00   genadeverbonden
+       1        0   100.00   gene
+       1        0   100.00   geval
+       1        1     0.00   geſchikt
+       2        0   100.00   geſproken
+       1        1     0.00   ging
+       1        1     0.00   god
+       1        0   100.00   heb
+       1        0   100.00   hebben
+       2        0   100.00   heeft
+       5        2    60.00   het
+       1        0   100.00   hier
+       2        0   100.00   hij
+       3        0   100.00   hr
+       1        1     0.00   i54
+       1        1     0.00   i58
+       1        1     0.00   i59
+       1        1     0.00   i62
+       1        1     0.00   i72
+       1        1     0.00   i73
+       1        1     0.00   i77
+       5        5     0.00   ik
+       1        1     0.00   kan
+       1        0   100.00   mede
+       2        1    50.00   met
+       1        1     0.00   mij
+       1        0   100.00   mijn
+       2        0   100.00   mijne
+       2        1    50.00   moest
+       1        0   100.00   mogen
+       1        0   100.00   mond
+       1        0   100.00   nadige
+       1        1     0.00   namelijk
+       3        0   100.00   niet
+       1        1     0.00   nieuwe
+       1        0   100.00   om
+       1        0   100.00   omtrent
+       1        1     0.00   onderſcheiden
+       1        0   100.00   ongepast
+       1        1     0.00   onmogelijkheid
+       1        0   100.00   regt
+       1        0   100.00   simon
+       1        1     0.00   sy
+       3        0   100.00   t
+       2        0   100.00   te
+       2        0   100.00   tegen
+       1        1     0.00   tienden
+       1        0   100.00   tot
+       1        0   100.00   tovenaar
+       1        0   100.00   twee
+       1        1     0.00   uitverkoornen
+       4        0   100.00   van
+       1        0   100.00   veel
+       1        1     0.00   verantwoor
+       1        0   100.00   verbond
+       1        0   100.00   verhandelde
+       1        0   100.00   voeren
+       1        0   100.00   voor
+       1        1     0.00   voorge
+       1        1     0.00   voorreden
+       1        0   100.00   vrugteloos
+       1        1     0.00   waar
+       1        1     0.00   wederlegging
+       1        1     0.00   wel
+       3        2    33.33   welk
+       1        0   100.00   xxvii
+       1        1     0.00   zaken
+       1        1     0.00   zeer
+       1        0   100.00   zen
+       1        1     0.00   zijn
+       1        1     0.00   zijne
+       1        0   100.00   zoo
+       1        1     0.00   zouden
+       1        0   100.00   ſparen
+       4        4     0.00   

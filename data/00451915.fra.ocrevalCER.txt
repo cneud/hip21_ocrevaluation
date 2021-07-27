@@ -1,0 +1,153 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1769   Characters
+     902   Errors
+   49.01%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   49.01%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     439       78      385      902   Unmarked
+     439       78      385      902   Total
+
+   Count   Missed   %Right
+     326       89    72.70   ASCII Spacing Characters
+      49       14    71.43   ASCII Special Symbols
+      34        2    94.12   ASCII Uppercase Letters
+    1252      311    75.16   ASCII Lowercase Letters
+      15        8    46.67   Latin1 Lowercase Letters
+      28       28     0.00   Latin Extended-A
+       2        2     0.00   Latin Extended Additional
+      18       18     0.00   General Punctuation
+      45       45     0.00   Private Use Area
+    1769      517    70.77   Total
+
+  Errors   Marked   Correct-Generated
+     422        0   {<\n>iud ; non enim...}-{}
+      22        0   {}-{ft}
+      20        0   {}-{ fua, virtuté eflen=}
+      19        0   {ſ}-{f}
+      18        0   {}-{ illis cum verd ab}
+      18        0   {}-{ tiam impertiune |}
+      18        0   {}-{tur agunt hæ for-<\n>}
+      17        0   {}-{ corpus. Quidigi-}
+      17        0   {}-{cant, vt exanimæ<\n>}
+      17        0   {}-{efle & à virture<\n>}
+      17        0   {}-{vadique effeutia<\n>}
+      16        0   { }-{}
+      16        0   {}-{ 0 ipf elfe faum}
+      16        0   {}-{ Penerranr iplam}
+      16        0   {}-{ corperifque con}
+      16        0   {}-{ main corpus qui}
+      15        0   {}-{. \ . tiæ fuæ d}
+      15        0   {‑}-{- par PRcratios}
+      14        0   {,}-{vinucem opera-}
+      14        0   {}-{communicant ?<\n>}
+      13        0   {?}-{ffud; nonenèm}
+      13        0   {‑}-{- “ti ducarur}
+      12        0   {}-{ Ge ex anime}
+      10        0   {}-{ff}
+       8        0   {}-{dicanc<\n>e}
+       8        0   {}-{do<\n>eflen}
+       8        0   {ſu}-{fe anima}
+       7        0   {}-{1 . cfl}
+       6        0   {}-{fi}
+       6        0   {}-{d’}
+       6        0   {}-{l’}
+       5        0   {‑}-{- "7"}
+       5        0   {‑}-{-}
+       4        0   {i}-{réfu}
+       4        0   {}-{dica}
+       4        0   {}-{fl}
+       4        0   {}-{d'}
+       3        0   {‑}-{is,}
+       3        0   {}-{, d}
+       3        0   {v}-{l'u}
+       2        0   { ſ}-{f}
+       2        0   {pe}-{PC}
+       2        0   {r}-{t}
+       2        0   {}-{da}
+       2        0   {}-{il}
+       2        0   {}-{| }
+       2        0   {}-{ct}
+       2        0   {}-{l'}
+       1        0   {c}-{e}
+       1        0   {l}-{I}
+       1        0   {l}-{L}
+       1        0   {o}-{a}
+       1        0   {}-{ }
+       1        0   {}-{,}
+       1        0   {}-{-}
+       1        0   {}-{?}
+       1        0   {}-{‘}
+       1        0   {ſ}-{L}
+       1        0   {ſ}-{{}
+
+   Count   Missed   %Right
+      56       26    53.57   {<\n>}
+     270       63    76.67   { }
+       8        1    87.50   {&}
+       3        0   100.00   {'}
+      20        7    65.00   {,}
+       7        2    71.43   {.}
+       1        0   100.00   {:}
+       7        2    71.43   {;}
+       3        2    33.33   {?}
+       5        0   100.00   {A}
+       7        0   100.00   {C}
+       2        0   100.00   {D}
+       6        0   100.00   {E}
+       1        0   100.00   {F}
+       1        0   100.00   {I}
+       1        0   100.00   {L}
+       1        0   100.00   {M}
+       1        0   100.00   {N}
+       1        0   100.00   {O}
+       3        1    66.67   {P}
+       2        1    50.00   {Q}
+       1        0   100.00   {R}
+       2        0   100.00   {S}
+      77       23    70.13   {a}
+       3        1    66.67   {b}
+      50       16    68.00   {c}
+      46       13    71.74   {d}
+     218       35    83.94   {e}
+      18        2    88.89   {f}
+       8        4    50.00   {g}
+       6        1    83.33   {h}
+      88       34    61.36   {i}
+       3        1    66.67   {j}
+      71        8    88.73   {l}
+      44       15    65.91   {m}
+     118       29    75.42   {n}
+      86       23    73.26   {o}
+      36       11    69.44   {p}
+      18        3    83.33   {q}
+      74       21    71.62   {r}
+      58        4    93.10   {s}
+      92       27    70.65   {t}
+     104       30    71.15   {u}
+      19        9    52.63   {v}
+       2        1    50.00   {x}
+       8        0   100.00   {y}
+       5        0   100.00   {z}
+       4        1    75.00   {à}
+       1        1     0.00   {ã}
+       5        5     0.00   {æ}
+       3        0   100.00   {é}
+       1        1     0.00   {ò}
+       1        0   100.00   {ù}
+      28       28     0.00   {ſ}
+       2        2     0.00   {ẽ}
+      18       18     0.00   {‑}
+      12       12     0.00   {}
+       5        5     0.00   {}
+      17       17     0.00   {}
+       1        1     0.00   {}
+       5        5     0.00   {}
+       5        5     0.00   {}

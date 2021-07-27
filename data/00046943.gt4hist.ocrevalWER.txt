@@ -1,0 +1,153 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     142   Words
+      83   Misrecognized
+   41.55%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        2     0.00        1
+       4        1    75.00        2
+       1        0   100.00        3
+       7        3    57.14    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      12       10    16.67        1
+      21       18    14.29        2
+      57       33    42.11        3
+      12        2    83.33        4
+      13        8    38.46        5
+       4        1    75.00        6
+       6        2    66.67        7
+       5        3    40.00        8
+       2        2     0.00        9
+       2        1    50.00       10
+       1        0   100.00       12
+     135       80    40.74    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      74       36    51.35        1
+      11        7    36.36        2
+       2        1    50.00        3
+       1        0   100.00        4
+       3        2    33.33        5
+       1        1     0.00        6
+       1        1     0.00        8
+      93       48    48.39    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     142       83    41.55        1
+     141      104    26.24        2
+     140      115    17.86        3
+     139      124    10.79        4
+     138      131     5.07        5
+     137      134     2.19        6
+     136      135     0.74        7
+     135      135     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        0   100.00   an
+       1        0   100.00   as
+       1        0   100.00   her
+       2        2     0.00   i
+       2        1    50.00   in
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   3
+       1        0   100.00   4
+       1        0   100.00   adam
+       1        0   100.00   als
+       1        0   100.00   aus
+       1        0   100.00   beide
+       1        0   100.00   ben
+       2        2     0.00   d
+       3        0   100.00   das
+       2        0   100.00   den
+       2        0   100.00   denn
+       1        1     0.00   der
+       4        1    75.00   die
+       1        0   100.00   dieſe
+       1        0   100.00   dieſem
+       5        5     0.00   e
+       1        0   100.00   eben
+       1        0   100.00   ein
+       1        0   100.00   einen
+       5        5     0.00   en
+       1        1     0.00   ent
+       2        2     0.00   er
+       1        0   100.00   erinnerung
+       1        1     0.00   ethat
+       1        0   100.00   eua
+       1        1     0.00   eſel
+       1        0   100.00   feind
+       1        0   100.00   ge
+       1        0   100.00   gehenget
+       1        0   100.00   gott
+       1        0   100.00   gram
+       1        0   100.00   haben
+       1        1     0.00   halß
+       1        1     0.00   hoﬀart
+       2        2     0.00   hoﬀarth
+       1        1     0.00   hoﬀertig
+       1        1     0.00   ij
+       1        0   100.00   jhme
+       1        1     0.00   jhren
+       1        0   100.00   kan
+       1        1     0.00   kleidung
+       1        1     0.00   la
+       1        1     0.00   lei
+       1        1     0.00   leibpel
+       1        1     0.00   leidige
+       1        1     0.00   lein
+       1        0   100.00   leu
+       1        1     0.00   li
+       1        1     0.00   m
+       2        2     0.00   ma
+       1        0   100.00   mehr
+       1        1     0.00   menſ
+       1        1     0.00   mi
+       1        1     0.00   mit
+       1        1     0.00   ni
+       1        1     0.00   nung
+       1        0   100.00   nur
+       1        0   100.00   pranget
+       1        1     0.00   raﬀe
+       1        1     0.00   re
+       1        1     0.00   se
+       1        1     0.00   st
+       2        2     0.00   t
+       1        0   100.00   te
+       1        0   100.00   tragen
+       1        0   100.00   trei
+       1        1     0.00   ver
+       5        0   100.00   vnd
+       1        1     0.00   vom
+       1        0   100.00   von
+       1        0   100.00   vorgeſagten
+       1        0   100.00   wenn
+       1        0   100.00   werden
+       2        1    50.00   wie
+       1        1     0.00   woher
+       1        1     0.00   wolte
+       1        1     0.00   ziere
+       1        0   100.00   zu
+       2        1    50.00   zur
+       1        1     0.00   ſ
+       1        0   100.00   ſein
+       1        0   100.00   ſeinem
+       1        0   100.00   ſeiner
+       1        0   100.00   ſpinnen
+       1        1     0.00   ſpringe
+       2        2     0.00   
+       6        6     0.00   
+       1        1     0.00   
+       1        1     0.00   
+       3        3     0.00   
+       2        2     0.00   
+       1        1     0.00   
+       8        8     0.00   

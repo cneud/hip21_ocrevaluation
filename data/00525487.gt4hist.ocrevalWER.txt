@@ -1,0 +1,203 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     320   Words
+     144   Misrecognized
+   55.00%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        1    50.00        1
+      47       19    59.57        2
+      59       23    61.02        3
+      34       14    58.82        4
+       7        2    71.43        5
+     149       59    60.40    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       2        2     0.00        1
+      12        9    25.00        2
+      36       22    38.89        3
+      44       16    63.64        4
+      23        7    69.57        5
+      14        6    57.14        6
+      17       11    35.29        7
+       8        2    75.00        8
+      10        7    30.00        9
+       3        2    33.33       10
+       2        1    50.00       11
+     171       85    50.29    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      72       34    52.78        1
+      16        4    75.00        2
+       7        0   100.00        3
+       6        0   100.00        4
+       1        0   100.00        5
+       1        0   100.00        7
+       1        1     0.00       10
+     104       39    62.50    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     320      144    55.00        1
+     319      197    38.24        2
+     318      231    27.36        3
+     317      256    19.24        4
+     316      274    13.29        5
+     315      285     9.52        6
+     314      294     6.37        7
+     313      300     4.15        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        0   100.00   a
+       1        0   100.00   an
+      10        4    60.00   and
+       2        1    50.00   any
+       4        0   100.00   are
+       1        0   100.00   as
+       3        1    66.67   be
+       2        0   100.00   but
+       1        0   100.00   by
+       1        0   100.00   can
+       1        1     0.00   for
+       4        2    50.00   from
+       4        2    50.00   have
+       1        0   100.00   his
+       1        1     0.00   i
+       4        2    50.00   if
+       7        2    71.43   in
+       4        1    75.00   is
+       2        0   100.00   it
+       1        1     0.00   know
+       1        0   100.00   like
+       1        0   100.00   make
+       3        1    66.67   man
+       5        1    80.00   may
+       1        0   100.00   my
+       1        1     0.00   no
+       3        1    66.67   not
+       2        2     0.00   now
+      15        9    40.00   of
+       2        2     0.00   on
+       4        2    50.00   out
+       7        2    71.43   that
+      20        9    55.00   the
+       6        1    83.33   their
+       6        3    50.00   them
+       5        1    80.00   they
+       4        2    50.00   this
+       4        1    75.00   to
+       1        1     0.00   way
+       1        0   100.00   we
+       1        1     0.00   when
+       1        1     0.00   which
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   1.4
+       1        1     0.00   12
+       2        2     0.00   13
+       1        1     0.00   16
+       1        1     0.00   22.18
+       1        1     0.00   47
+       1        1     0.00   6.11.12.13
+       1        0   100.00   able
+       2        0   100.00   adde
+       1        1     0.00   again
+       1        0   100.00   ar
+       1        0   100.00   arm
+       1        0   100.00   arme
+       2        1    50.00   armour
+       4        0   100.00   away
+       3        1    66.67   becauſe
+       5        3    40.00   believers
+       1        1     0.00   blot
+       7        5    28.57   book
+       1        1     0.00   c
+       1        0   100.00   calling
+       1        0   100.00   cannot
+       1        0   100.00   cho
+       2        2     0.00   chri
+       1        0   100.00   ci
+       2        1    50.00   city
+       1        1     0.00   cor
+       1        0   100.00   dilligence
+       1        0   100.00   divel
+       1        0   100.00   divels
+       1        1     0.00   e
+       1        1     0.00   ele
+       1        0   100.00   ene
+       1        0   100.00   enemy
+       1        1     0.00   eph
+       1        0   100.00   every
+       1        0   100.00   exhorted
+       1        1     0.00   fa
+       2        0   100.00   faith
+       3        1    66.67   fall
+       1        0   100.00   falling
+       1        0   100.00   giving
+       4        1    75.00   god
+       1        0   100.00   grace
+       1        0   100.00   heareth
+       2        0   100.00   holy
+       1        1     0.00   ion
+       1        1     0.00   iﬁe
+       3        1    66.67   life
+       4        1    75.00   men
+       1        1     0.00   mour
+       2        2     0.00   mu
+       3        0   100.00   names
+       2        0   100.00   need
+       1        0   100.00   none
+       1        0   100.00   nor
+       1        0   100.00   ous
+       2        1    50.00   overcome
+       3        1    66.67   part
+       1        0   100.00   perſons
+       1        1     0.00   plagues
+       1        1     0.00   prevail
+       1        1     0.00   prophe
+       1        0   100.00   prophecy
+       1        0   100.00   put
+       1        0   100.00   quit
+       4        3    25.00   reaſon
+       1        1     0.00   rev
+       1        1     0.00   rong
+       3        1    66.67   take
+       1        0   100.00   taken
+       1        1     0.00   te
+       1        1     0.00   ted
+       2        1    50.00   themſelves
+       3        2    33.33   therefore
+       1        0   100.00   theſe
+       2        1    50.00   things
+       1        1     0.00   thirteenth
+       1        1     0.00   thus
+       1        1     0.00   tranſgre
+       1        1     0.00   twelfth
+       1        0   100.00   ty
+       2        0   100.00   unto
+       1        1     0.00   vanquiſh
+       2        2     0.00   whole
+       1        0   100.00   whoſe
+       2        1    50.00   wiles
+       1        0   100.00   without
+       2        1    50.00   words
+       4        3    25.00   written
+       1        0   100.00   yea
+       1        1     0.00   ſelves
+       1        0   100.00   ſen
+       4        3    25.00   ſhall
+       1        0   100.00   ſlay
+       1        0   100.00   ſo
+       1        0   100.00   ſome
+       1        1     0.00   ſpoile
+       1        0   100.00   ſuch
+       1        0   100.00   ſure
+      10       10     0.00   
+       1        1     0.00   
+       1        1     0.00   
+       1        1     0.00   

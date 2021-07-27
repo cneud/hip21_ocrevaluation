@@ -1,0 +1,154 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     143   Words
+      43   Misrecognized
+   69.93%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       1        1     0.00        1
+       3        1    66.67        2
+       4        1    75.00        4
+       8        3    62.50    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       4        3    25.00        1
+      21        3    85.71        2
+      44       13    70.45        3
+      21        4    80.95        4
+      11        2    81.82        5
+       7        2    71.43        6
+       7        3    57.14        7
+       7        2    71.43        8
+       4        2    50.00        9
+       5        2    60.00       11
+       4        4     0.00       12
+     135       40    70.37    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      73       26    64.38        1
+      14        2    85.71        2
+       7        0   100.00        3
+       2        0   100.00        4
+       1        0   100.00        5
+      97       28    71.13    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     143       43    69.93        1
+     142       60    57.75        2
+     141       71    49.65        3
+     140       80    42.86        4
+     139       89    35.97        5
+     138       97    29.71        6
+     137      104    24.09        7
+     136      110    19.12        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       1        1     0.00   be
+       2        0   100.00   of
+       4        1    75.00   over
+
+Non-stopwords
+   Count   Missed   %Right   
+       4        1    75.00   aan
+       2        0   100.00   al
+       2        2     0.00   alethophilus
+       1        0   100.00   bid
+       1        0   100.00   brengen
+       2        1    50.00   brieven
+       3        2    33.33   broeder
+       2        0   100.00   daar
+       1        0   100.00   daaromtrent
+       1        0   100.00   dan
+       2        0   100.00   dat
+       3        1    66.67   de
+       1        0   100.00   deele
+       2        1    50.00   den
+       2        0   100.00   dezelven
+       1        0   100.00   die
+       1        0   100.00   dog
+       1        1     0.00   e
+       1        0   100.00   eens
+       1        1     0.00   eer
+       1        1     0.00   eerwaardige
+       1        0   100.00   eindelijk
+       3        0   100.00   en
+       1        1     0.00   ern
+       1        0   100.00   gedagten
+       1        0   100.00   geen
+       1        0   100.00   gelaten
+       1        1     0.00   geleerde
+       1        0   100.00   gelegenheid
+       1        0   100.00   gemeen
+       2        0   100.00   heb
+       1        0   100.00   hebbende
+       1        0   100.00   heeft
+       3        1    66.67   heer
+       4        0   100.00   het
+       1        1     0.00   hoogstgeagte
+       1        1     0.00   ig
+       5        1    80.00   ik
+       1        1     0.00   ikze
+       1        1     0.00   ken
+       1        0   100.00   kennis
+       1        1     0.00   konde
+       1        1     0.00   kwa
+       1        1     0.00   m
+       1        0   100.00   ma
+       1        0   100.00   maar
+       1        0   100.00   mede
+       1        0   100.00   men
+       1        0   100.00   merkingen
+       1        0   100.00   met
+       2        0   100.00   mij
+       2        0   100.00   mijne
+       1        0   100.00   mijner
+       1        0   100.00   negen
+       3        0   100.00   niet
+       1        0   100.00   nog
+       1        0   100.00   nu
+       1        0   100.00   om
+       1        1     0.00   ontfangze
+       1        0   100.00   oog
+       1        0   100.00   op
+       1        0   100.00   opdeed
+       1        1     0.00   oten
+       1        1     0.00   overgelezen
+       1        1     0.00   overwegen
+       1        0   100.00   papier
+       1        1     0.00   philadelphus
+       1        1     0.00   raadzaam
+       1        1     0.00   t
+       3        0   100.00   te
+       1        0   100.00   tegen
+       1        0   100.00   ter
+       1        0   100.00   tijd
+       2        0   100.00   toe
+       1        1     0.00   toege
+       2        0   100.00   tot
+       1        0   100.00   twijfelende
+       1        0   100.00   u
+       1        0   100.00   uit
+       3        1    66.67   van
+       1        0   100.00   veel
+       1        0   100.00   verloren
+       1        1     0.00   vóór
+       1        0   100.00   waar
+       1        0   100.00   ware
+       1        0   100.00   weder
+       2        1    50.00   wel
+       1        0   100.00   wogen
+       1        0   100.00   wèl
+       1        0   100.00   zeer
+       1        0   100.00   zette
+       1        1     0.00   zig
+       1        1     0.00   zoo
+       1        1     0.00   zĳnen
+       1        1     0.00   ĳne
+       2        2     0.00   
+       1        1     0.00   

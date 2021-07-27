@@ -1,0 +1,129 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1487   Characters
+     287   Errors
+   80.70%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   80.70%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      99       83      105      287   Unmarked
+      99       83      105      287   Total
+
+   Count   Missed   %Right
+     276       44    84.06   ASCII Spacing Characters
+      51        6    88.24   ASCII Special Symbols
+       2        2     0.00   ASCII Digits
+      59       18    69.49   ASCII Uppercase Letters
+    1022       59    94.23   ASCII Lowercase Letters
+      24        0   100.00   Latin1 Lowercase Letters
+      22       22     0.00   Latin Extended-A
+      11       11     0.00   General Punctuation
+      20       20     0.00   Private Use Area
+    1487      182    87.76   Total
+
+  Errors   Marked   Correct-Generated
+      51        0   {25}-{rons & renuoyons dans la...}
+      24        0   { que air que nous att...}-{}
+      24        0   { }-{}
+      22        0   {ation ; on la puis<\n>ap...}-{}
+      19        0   {}-{RIT DE L'HOMME. 2<\n>P}
+      19        0   {ſ}-{f}
+      18        0   {rons & renuoyons d}-{}
+      14        0   {}-{ft}
+      11        0   {}-{ee LT or<\n>na}
+      10        0   {DE L'HOMME}-{nous atti-}
+       9        0   {ns la reſ}-{}
+       7        0   {ESPRIT}-{air que}
+       7        0   {}-{DE L'ES}
+       7        0   {‑}-{-}
+       6        0   {}-{d'}
+       4        0   {‑}-{fi-.}
+       3        0   {'}-{’}
+       3        0   {DE}-{que}
+       2        0   { }-{d’}
+       2        0   { }-{l'}
+       2        0   {r}-{t}
+       2        0   {ſq}-{ta}
+       2        0   {ſ‑}-{f-}
+       2        0   { }-{ft}
+       2        0   {}-{fl}
+       2        0   {}-{ét}
+       2        0   {}-{d’}
+       2        0   {}-{l’}
+       1        0   { }-{.}
+       1        0   {L}-{l}
+       1        0   {V}-{Y}
+       1        0   {i}-{j}
+       1        0   {i}-{}
+       1        0   {u}-{w}
+       1        0   {}-{‘}
+       1        0   {‑}-{}
+       1        0   {}-{f}
+
+   Count   Missed   %Right
+      33        1    96.97   {<\n>}
+     243       43    82.30   { }
+      11        1    90.91   {&}
+      12        4    66.67   {'}
+      18        0   100.00   {,}
+       2        0   100.00   {.}
+       1        1     0.00   {2}
+       1        1     0.00   {5}
+       2        0   100.00   {:}
+       6        1    83.33   {;}
+       3        0   100.00   {A}
+       1        0   100.00   {B}
+       3        0   100.00   {C}
+       4        2    50.00   {D}
+      10        4    60.00   {E}
+       1        1     0.00   {H}
+       8        1    87.50   {I}
+       4        2    50.00   {L}
+       2        2     0.00   {M}
+       2        0   100.00   {N}
+       2        1    50.00   {O}
+       5        1    80.00   {P}
+       2        1    50.00   {R}
+       7        1    85.71   {S}
+       3        1    66.67   {T}
+       2        1    50.00   {V}
+      60        6    90.00   {a}
+       6        0   100.00   {b}
+      38        0   100.00   {c}
+      35        1    97.14   {d}
+     192        4    97.92   {e}
+       6        0   100.00   {f}
+       8        0   100.00   {g}
+       1        0   100.00   {h}
+      76        6    92.11   {i}
+      45        2    95.56   {l}
+      29        0   100.00   {m}
+      91        7    92.31   {n}
+      68        6    91.18   {o}
+      40        2    95.00   {p}
+      26        3    88.46   {q}
+      79        7    91.14   {r}
+      63        5    92.06   {s}
+      70        3    95.71   {t}
+      81        6    92.59   {u}
+       5        0   100.00   {v}
+       2        0   100.00   {x}
+       1        1     0.00   {y}
+       7        0   100.00   {à}
+       1        0   100.00   {ç}
+      14        0   100.00   {é}
+       2        0   100.00   {û}
+      22       22     0.00   {ſ}
+      11       11     0.00   {‑}
+       9        9     0.00   {}
+       1        1     0.00   {}
+       1        1     0.00   {}
+       1        1     0.00   {}
+       5        5     0.00   {}
+       3        3     0.00   {}

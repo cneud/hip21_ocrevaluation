@@ -1,0 +1,448 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1547   Characters
+    1174   Errors
+   24.11%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   24.11%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     185      792      197     1174   Unmarked
+     185      792      197     1174   Total
+
+   Count   Missed   %Right
+     254       98    61.42   ASCII Spacing Characters
+      49       32    34.69   ASCII Special Symbols
+       3        1    66.67   ASCII Digits
+      62       48    22.58   ASCII Uppercase Letters
+    1148      767    33.19   ASCII Lowercase Letters
+      11       11     0.00   Latin Extended-A
+      12       12     0.00   General Punctuation
+       6        6     0.00   Private Use Area
+       1        1     0.00   Alphabetic Presentation Forms
+       1        1     0.00   Specials
+    1547      977    36.85   Total
+
+  Errors   Marked   Correct-Generated
+      12        0   {D 4<\n>ee‑<\n>MAAR}-{cops}
+      12        0   {}-{<\n>menfchelijk}
+      11        0   {menſchelijk}-{CHRISTUS}
+      10        0   {handelwijs}-{uit moeten}
+       9        0   { be‑<\n>re}-{,<\n>al wat }
+       9        0   {Hij aan z}-{desniett}
+       9        0   {oemde Ver}-{kt, wat, }
+       9        0   {op andere}-{mits zij}
+       9        0   {uit vr}-{handel-<\n>w}
+       9        0   {zulk<\n>GODS}-{dan}
+       8        0   { met and}-{<\n>zaligh}
+       8        0   { zal men}-{-<\n>ders,}
+       8        0   {, omſchr}-{er<\n>b}
+       8        0   {CHRISTUS}-{ook de}
+       8        0   {en zig b}-{voorgeft}
+       8        0   {ken, im‑}-{aat-}
+       8        0   {plaat‑<\n>ſ}-{in<\n>God, }
+       8        0   {ten volg}-{dik}
+       7        0   { gedaa}-{ven zij}
+       7        0   { hier i}-{-<\n>fange}
+       7        0   {Aart e}-{prediki}
+       7        0   {adige h}-{e voorw}
+       7        0   {delwijs}-{g ; of}
+       7        0   {handel‑}-{eigeri-}
+       7        0   {n‑<\n>d}-{êt of V}
+       7        0   {s, van}-{l doede}
+       7        0   {van de}-{heeft.<\n>}
+       7        0   {van<\n>een}-{jrsus}
+       7        0   {voorwaa}-{en bc-<\n>}
+       6        0   { heeft}-{lwijs,}
+       6        0   { zoog}-{ig<\n>nad}
+       6        0   {, of b}-{ genad}
+       6        0   {<\n>hoo}-{ deze }
+       6        0   {God,}-{Bijbel}
+       6        0   {aan,}-{s;<\n>zou}
+       6        0   {ds aan}-{lgen, }
+       6        0   {is zij}-{Natuur}
+       6        0   {n beke}-{lijk V}
+       6        0   {nſchen}-{rbond}
+       6        0   {ook d}-{befchr}
+       6        0   {rbond;}-{de,}
+       6        0   {tra}-{nemen,}
+       6        0   {woorde}-{i}
+       6        0   {wordt}-{en zig}
+       6        0   {}-{? En z}
+       6        0   {}-{e}
+       5        0   { God,}-{adige}
+       5        0   { aann}-{lijk}
+       5        0   {JESUS}-{egter}
+       5        0   {Natuu}-{gehoo}
+       5        0   {beſch}-{v}
+       5        0   {b}-{zondi}
+       5        0   {d aﬂe}-{-#e w}
+       5        0   {den<\n>B}-{h}
+       5        0   {di‑<\n>g}-{oemd}
+       5        0   {geot}-{Volk}
+       5        0   {id in}-{ Gods}
+       5        0   {iette}-{adi}
+       5        0   {ingen}-{, uit}
+       5        0   {kan, }-{gefpr}
+       5        0   {keer}-{ld, m}
+       5        0   {ken, }-{ijk v}
+       5        0   {lofte}-{n kan}
+       5        0   {loov}-{daant}
+       5        0   {loo}-{n men}
+       5        0   {moete}-{zij i}
+       5        0   {n Ge}-{zelfd}
+       5        0   {n met}-{rbond}
+       5        0   {nſch}-{eft d}
+       5        0   {rbo}-{tuige}
+       5        0   {re zo}-{nftaa}
+       5        0   {rking}-{ven 5}
+       5        0   {st pr}-{ hand}
+       5        0   {te, }-{ zijn}
+       5        0   {tuig}-{n ond}
+       5        0   {voltr}-{met z}
+       5        0   {voorg}-{zek}
+       5        0   {zelfd}-{n bek}
+       5        0   {zulke}-{door}
+       4        0   {,<\n>a}-{ gef}
+       4        0   {,}-{ men}
+       4        0   {<\n>zou}-{ is}
+       4        0   {Gods}-{ik u}
+       4        0   {Hu}-{mede}
+       4        0   {ami}-{fche}
+       4        0   {br}-{welk}
+       4        0   {daa}-{-<\n>ze}
+       4        0   {dat}-{MAAR}
+       4        0   {deze}-{van}
+       4        0   {d}-{kunn}
+       4        0   {d}-{ll}
+       4        0   {e Vo}-{fche}
+       4        0   {edew}-{fchr}
+       4        0   {eft}-{lijk}
+       4        0   {enis}-{ be-}
+       4        0   {fang}-{D 4 }
+       4        0   {gena}-{Go}
+       4        0   {geſp}-{volt}
+       4        0   {hij }-{wo}
+       4        0   {hoor}-{r de}
+       4        0   {ik}-{Aart}
+       4        0   {kunn}-{d}
+       4        0   {lijk}-{hoog}
+       4        0   {lijk}-{ne}
+       4        0   {lijk}-{ngt}
+       4        0   {loof}-{daan}
+       4        0   {met }-{zon}
+       4        0   {mi}-{word}
+       4        0   {n, d}-{ft}
+       4        0   {n. D}-{t di}
+       4        0   {n}-{ze}
+       4        0   {nſch}-{z}
+       4        0   {ond}-{de g}
+       4        0   {ont‑}-{zulk}
+       4        0   {ou }-{ijne}
+       4        0   {r ui}-{s}
+       4        0   {r<\n>b}-{lijk}
+       4        0   {t di}-{nder}
+       4        0   {t}-{gen,}
+       4        0   {u}-{fomm}
+       4        0   {van }-{gev}
+       4        0   {voor}-{J.C }
+       4        0   {wat }-{ime<\n>}
+       4        0   {will}-{M}
+       4        0   {word}-{bef}
+       4        0   {zelv}-{n<\n>g}
+       4        0   {zijn}-{gena}
+       4        0   {}-{t }
+       4        0   {ſch}-{, br}
+       4        0   {}-{loov}
+       3        0   { J.}-{der}
+       3        0   { M}-{ze<\n>}
+       3        0   { de}-{en.}
+       3        0   { di}-{dag}
+       3        0   { do}-{fch}
+       3        0   { en}-{l-}
+       3        0   { ha}-{eri}
+       3        0   { in}-{aat}
+       3        0   { wa}-{o}
+       3        0   {,}-{}
+       3        0   {;<\n>e}-{g }
+       3        0   {C.}-{die}
+       3        0   {DOG}-{van}
+       3        0   {G}-{bew}
+       3        0   {a}-{oem}
+       3        0   {bew}-{G}
+       3        0   {de}-{als}
+       3        0   {d}-{l m}
+       3        0   {d}-{op }
+       3        0   {een}-{hij}
+       3        0   {eig}-{d}
+       3        0   {e}-{ij }
+       3        0   {e}-{}
+       3        0   {g g}-{d}
+       3        0   {ged}-{}
+       3        0   {gel}-{}
+       3        0   {gij}-{zou}
+       3        0   {h}-{Huw}
+       3        0   {ig<\n>}-{ me}
+       3        0   {ijk}-{oof}
+       3        0   {ijk}-{ve}
+       3        0   {iki}-{t o}
+       3        0   {jk.}-{ng}
+       3        0   {ken}-{js}
+       3        0   {kk}-{O v}
+       3        0   {k}-{fch}
+       3        0   {k}-{ged}
+       3        0   {ld,}-{}
+       3        0   {lee}-{, o}
+       3        0   {l}-{nad}
+       3        0   {l}-{nd,}
+       3        0   {men}-{nis}
+       3        0   {mmi}-{or}
+       3        0   {n<\n>a}-{ Vo}
+       3        0   {nd }-{}
+       3        0   {ng }-{s<\n>}
+       3        0   {nkt}-{s}
+       3        0   {n}-{k d}
+       3        0   {o v}-{ntl}
+       3        0   {oem}-{a}
+       3        0   {of,}-{zij}
+       3        0   {ok}-{ken}
+       3        0   {ond}-{bek}
+       3        0   {s e}-{in}
+       3        0   {s, }-{bon}
+       3        0   {ve}-{daa}
+       3        0   {wil}-{met}
+       3        0   {zal}-{w}
+       3        0   {zij}-{of}
+       3        0   {z}-{__p}
+       3        0   {z}-{gel}
+       3        0   {}-{ me}
+       3        0   {}-{lof}
+       3        0   {}-{oge}
+       3        0   {}-{ulk}
+       3        0   {ſch}-{ g}
+       3        0   {‑}-{}
+       3        0   {aa}-{ on}
+       2        0   { H}-{n<\n>}
+       2        0   { b}-{r}
+       2        0   { d}-{}
+       2        0   { z}-{am}
+       2        0   { }-{ch}
+       2        0   {,}-{ ?}
+       2        0   {<\n>b}-{ m}
+       2        0   {<\n>d}-{ }
+       2        0   {<\n>}-{ }
+       2        0   {<\n>}-{, }
+       2        0   {Co}-{aa}
+       2        0   {Vo}-{p}
+       2        0   {a}-{u }
+       2        0   {a}-{}
+       2        0   {d }-{tr}
+       2        0   {de}-{va}
+       2        0   {dt}-{re}
+       2        0   {d}-{g}
+       2        0   {d}-{hi}
+       2        0   {d}-{lw}
+       2        0   {d}-{}
+       2        0   {en}-{g}
+       2        0   {en}-{n,}
+       2        0   {en}-{}
+       2        0   {er}-{at}
+       2        0   {er}-{n}
+       2        0   {ev}-{ij}
+       2        0   {e}-{oo}
+       2        0   {e}-{va}
+       2        0   {ge}-{Go}
+       2        0   {ge}-{ha}
+       2        0   {ge}-{ro}
+       2        0   {gh}-{jz}
+       2        0   {gr}-{C}
+       2        0   {gt}-{}
+       2        0   {g}-{e}
+       2        0   {g}-{}
+       2        0   {hi}-{Ge}
+       2        0   {ig}-{, }
+       2        0   {ig}-{ez}
+       2        0   {ig}-{}
+       2        0   {i}-{bo}
+       2        0   {i}-{de}
+       2        0   {i}-{va}
+       2        0   {jb}-{}
+       2        0   {jk}-{g}
+       2        0   {j}-{}
+       2        0   {ld}-{n,}
+       2        0   {lk}-{t}
+       2        0   {ls}-{an}
+       2        0   {l}-{rk}
+       2        0   {me}-{ka}
+       2        0   {mo}-{pr}
+       2        0   {m}-{di}
+       2        0   {m}-{d}
+       2        0   {n }-{fl}
+       2        0   {n,}-{}
+       2        0   {n?}-{c-}
+       2        0   {n}-{ H}
+       2        0   {n}-{ar}
+       2        0   {n}-{el}
+       2        0   {n}-{rs}
+       2        0   {n}-{r}
+       2        0   {n}-{ h}
+       2        0   {of}-{en}
+       2        0   {on}-{i}
+       2        0   {or}-{}
+       2        0   {p}-{wo}
+       2        0   {rb}-{l}
+       2        0   {re}-{id}
+       2        0   {rs}-{n,}
+       2        0   {r}-{n,}
+       2        0   {s,}-{ke}
+       2        0   {s}-{}
+       2        0   {te}-{}
+       2        0   {t}-{d}
+       2        0   {u,}-{en}
+       2        0   {va}-{de}
+       2        0   {ve}-{di}
+       2        0   {w}-{ni}
+       2        0   {ze}-{ld}
+       2        0   {ze}-{r}
+       2        0   {ze}-{s}
+       2        0   {ze}-{}
+       2        0   {z}-{}
+       2        0   {}-{ w}
+       2        0   {}-{,<\n>}
+       2        0   {}-{an}
+       2        0   {}-{do}
+       2        0   {}-{e,}
+       2        0   {}-{en}
+       2        0   {}-{g}
+       2        0   {}-{id}
+       2        0   {}-{n }
+       2        0   {}-{n}
+       2        0   {}-{or}
+       2        0   {}-{te}
+       2        0   {‑<\n>}-{}
+       1        0   { }-{g}
+       1        0   { }-{k}
+       1        0   {,}-{e}
+       1        0   {?}-{d}
+       1        0   {E}-{a}
+       1        0   {G}-{v}
+       1        0   {V}-{b}
+       1        0   {V}-{m}
+       1        0   {a}-{e}
+       1        0   {a}-{v}
+       1        0   {b}-{e}
+       1        0   {b}-{g}
+       1        0   {b}-{u}
+       1        0   {d}-{H}
+       1        0   {d}-{e}
+       1        0   {d}-{m}
+       1        0   {d}-{n}
+       1        0   {d}-{z}
+       1        0   {e}-{a}
+       1        0   {e}-{j}
+       1        0   {e}-{o}
+       1        0   {e}-{s}
+       1        0   {e}-{t}
+       1        0   {g}-{D}
+       1        0   {g}-{d}
+       1        0   {g}-{m}
+       1        0   {j}-{n}
+       1        0   {k}-{e}
+       1        0   {k}-{g}
+       1        0   {l}-{k}
+       1        0   {l}-{r}
+       1        0   {m}-{V}
+       1        0   {m}-{b}
+       1        0   {m}-{f}
+       1        0   {m}-{h}
+       1        0   {n}-{f}
+       1        0   {n}-{}
+       1        0   {o}-{g}
+       1        0   {o}-{i}
+       1        0   {o}-{}
+       1        0   {r}-{k}
+       1        0   {r}-{n}
+       1        0   {s}-{n}
+       1        0   {t}-{r}
+       1        0   {t}-{}
+       1        0   {u}-{}
+       1        0   {v}-{a}
+       1        0   {v}-{b}
+       1        0   {w}-{l}
+       1        0   {w}-{}
+       1        0   {z}-{b}
+       1        0   {z}-{k}
+       1        0   {}-{ }
+       1        0   {}-{.}
+       1        0   {}-{<\n>}
+       1        0   {}-{a}
+       1        0   {}-{d}
+       1        0   {}-{k}
+       1        0   {}-{o}
+       1        0   {}-{z}
+       1        0   {ſ}-{v}
+       1        0   {}-{r}
+       1        0   {�}-{R}
+
+   Count   Missed   %Right
+      39       22    43.59   {<\n>}
+     215       76    64.65   { }
+      38       24    36.84   {,}
+       6        4    33.33   {.}
+       1        1     0.00   {4}
+       2        0   100.00   {5}
+       3        2    33.33   {;}
+       2        2     0.00   {?}
+       4        3    25.00   {A}
+       1        1     0.00   {B}
+       3        3     0.00   {C}
+       5        4    20.00   {D}
+       3        2    33.33   {E}
+      10        8    20.00   {G}
+       4        4     0.00   {H}
+       2        1    50.00   {I}
+       2        2     0.00   {J}
+       2        2     0.00   {M}
+       3        1    66.67   {N}
+       4        2    50.00   {O}
+       3        2    33.33   {R}
+       5        5     0.00   {S}
+       2        1    50.00   {T}
+       2        2     0.00   {U}
+       6        5    16.67   {V}
+       1        0   100.00   {W}
+      68       50    26.47   {a}
+      19       18     5.26   {b}
+       8        8     0.00   {c}
+      92       61    33.70   {d}
+     253      108    57.31   {e}
+      10        9    10.00   {f}
+      52       38    26.92   {g}
+      21       20     4.76   {h}
+      72       50    30.56   {i}
+      25       20    20.00   {j}
+      32       30     6.25   {k}
+      42       34    19.05   {l}
+      26       24     7.69   {m}
+     153       74    51.63   {n}
+      77       59    23.38   {o}
+       5        5     0.00   {p}
+      45       35    22.22   {r}
+      17       16     5.88   {s}
+      45       34    24.44   {t}
+      15       14     6.67   {u}
+      22       19    13.64   {v}
+      18       15    16.67   {w}
+      31       26    16.13   {z}
+      11       11     0.00   {ſ}
+      12       12     0.00   {‑}
+       4        4     0.00   {}
+       1        1     0.00   {}
+       1        1     0.00   {}
+       1        1     0.00   {ﬂ}
+       1        1     0.00   {�}

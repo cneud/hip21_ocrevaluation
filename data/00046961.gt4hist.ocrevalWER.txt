@@ -1,0 +1,189 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     218   Words
+     108   Misrecognized
+   50.46%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       3        3     0.00        1
+       2        1    50.00        2
+       6        2    66.67        3
+      11        6    45.45    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      14       13     7.14        1
+      38       20    47.37        2
+      87       48    44.83        3
+      22        9    59.09        4
+      19        7    63.16        5
+      15        1    93.33        6
+       6        2    66.67        7
+       2        0   100.00        8
+       3        2    33.33       10
+       1        0   100.00       12
+     207      102    50.72    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      96       39    59.38        1
+      10        5    50.00        2
+      12        4    66.67        3
+       2        1    50.00        4
+       2        1    50.00        5
+       2        0   100.00        6
+       1        0   100.00        8
+       1        1     0.00      >10
+     126       51    59.52    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     218      108    50.46        1
+     217      136    37.33        2
+     216      152    29.63        3
+     215      162    24.65        4
+     214      171    20.09        5
+     213      178    16.43        6
+     212      183    13.68        7
+     211      186    11.85        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       1        1     0.00   at
+       1        1     0.00   for
+       1        1     0.00   her
+       2        2     0.00   i
+       3        0   100.00   man
+       1        0   100.00   so
+       1        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   alters
+       2        2     0.00   au
+       1        0   100.00   ausgezogen
+       1        1     0.00   auﬀ
+       1        0   100.00   bier
+       2        0   100.00   bis
+       1        1     0.00   carte
+       3        0   100.00   da
+       1        0   100.00   dar
+       1        0   100.00   darumb
+       1        0   100.00   darzu
+       3        0   100.00   das
+       1        0   100.00   den
+       1        0   100.00   denn
+       1        1     0.00   derglei
+       3        0   100.00   die
+       1        0   100.00   dienet
+       1        0   100.00   dieneten
+       1        0   100.00   dieſelbigen
+       1        0   100.00   dran
+       1        0   100.00   draus
+       6        5    16.67   e
+       6        0   100.00   ein
+       1        0   100.00   eine
+       1        0   100.00   einen
+       1        0   100.00   einer
+       8        7    12.50   en
+       3        0   100.00   er
+       1        0   100.00   ermel
+       4        1    75.00   es
+       1        1     0.00   etli
+       2        0   100.00   fein
+       1        0   100.00   fragte
+       1        1     0.00   frideri
+       1        1     0.00   geh
+       1        1     0.00   gema
+       1        0   100.00   gerathen
+       1        0   100.00   geraum
+       1        0   100.00   geraw
+       1        1     0.00   geworﬀen
+       1        0   100.00   gezeugs
+       1        0   100.00   gilt
+       2        2     0.00   gro
+       1        1     0.00   ha
+       1        0   100.00   har
+       1        0   100.00   hat
+       1        1     0.00   hen
+       1        0   100.00   hengen
+       1        0   100.00   hi
+       1        0   100.00   hieng
+       3        0   100.00   hoſen
+       1        0   100.00   hut
+       1        1     0.00   iij
+       1        0   100.00   im
+       1        1     0.00   je
+       1        0   100.00   jm
+       1        0   100.00   jr
+       1        1     0.00   k
+       1        0   100.00   kan
+       1        0   100.00   kleid
+       1        0   100.00   kommen
+       1        1     0.00   l
+       1        1     0.00   laſ
+       1        1     0.00   le
+       1        0   100.00   les
+       1        0   100.00   lieſet
+       1        1     0.00   m
+       1        1     0.00   ma
+       1        0   100.00   mahl
+       1        0   100.00   mal
+       1        1     0.00   mehr
+       1        1     0.00   mer
+       1        0   100.00   mit
+       2        0   100.00   mus
+       1        1     0.00   na
+       1        0   100.00   nab
+       1        1     0.00   ndte
+       1        0   100.00   ne
+       2        2     0.00   ni
+       1        1     0.00   nitten
+       1        0   100.00   nu
+       1        1     0.00   og
+       3        0   100.00   par
+       1        1     0.00   ret
+       1        1     0.00   s
+       1        0   100.00   sommer
+       1        0   100.00   sondern
+       4        4     0.00   t
+       1        1     0.00   tes
+       1        0   100.00   tragen
+       1        1     0.00   uhe
+       1        1     0.00   und
+       1        0   100.00   viel
+       5        0   100.00   vnd
+       1        1     0.00   vngehewren
+       2        0   100.00   von
+       1        0   100.00   vor
+       1        0   100.00   weg
+       1        0   100.00   weit
+       2        0   100.00   wenn
+       1        0   100.00   wie
+       1        0   100.00   wo
+       1        1     0.00   worzu
+       1        1     0.00   zerha
+       1        1     0.00   zerſ
+       1        1     0.00   zimli
+       1        0   100.00   zu
+       2        2     0.00   ſ
+       1        0   100.00   ſagen
+       1        0   100.00   ſagt
+       1        0   100.00   ſehet
+       3        0   100.00   ſein
+       1        0   100.00   ſeinen
+       1        1     0.00   ſen
+       3        2    33.33   ſol
+       3        3     0.00   
+       1        1     0.00   
+       3        3     0.00   
+       2        2     0.00   
+       3        3     0.00   
+       5        5     0.00   
+       3        3     0.00   
+       1        1     0.00   
+      17       17     0.00   
+       1        1     0.00   ﬀel
+       1        1     0.00   ﬂi

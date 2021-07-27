@@ -1,0 +1,264 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+     825   Characters
+     598   Errors
+   27.52%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   27.52%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      67      427      104      598   Unmarked
+      67      427      104      598   Total
+
+   Count   Missed   %Right
+       4        4     0.00   Unassigned
+     162       64    60.49   ASCII Spacing Characters
+      26       18    30.77   ASCII Special Symbols
+      38       30    21.05   ASCII Uppercase Letters
+     537      324    39.66   ASCII Lowercase Letters
+       1        1     0.00   Latin1 Lowercase Letters
+      12        8    33.33   Latin Extended-A
+      39       39     0.00   Private Use Area
+       4        4     0.00   Alphabetic Presentation Forms
+       2        2     0.00   Specials
+     825      494    40.12   Total
+
+  Errors   Marked   Correct-Generated
+      11        0   {/ im Winter}-{auffenthalt}
+      11        0   {eins gar ab}-{abhelffſen }
+      10        0   {ld verlor}-{nger/<\n>kumm}
+      10        0   {ſet / das}-{x<\n>Menſch}
+       9        0   {Todt / v}-{Schnee<\n>p1}
+       8        0   {Sold}-{/ im Win}
+       8        0   {ein<\n>Ziel}-{Fall hat}
+       8        0   {n<\n>werd}-{rechtigk}
+       8        0   {⸗<\n>geben }-{n Soldt}
+       7        0   { ſweiß}-{ung vnd}
+       7        0   {<\n>au g}-{e hiß}
+       6        0   { / Vmb}-{hengig}
+       6        0   {<\n>Sne}-{ bis d}
+       6        0   {D}-{Gott h}
+       6        0   {abwr}-{ſo lan}
+       6        0   {ding n}-{Frof}
+       6        0   {dur d}-{abwürg}
+       6        0   {g i /}-{ntemal}
+       6        0   {n die}-{g<\n>ouff}
+       6        0   {r Vng}-{v<\n>mal }
+       6        0   {rdur}-{lles /}
+       6        0   {thalt}-{ inder}
+       6        0   {}-{ch}
+       5        0   {.}-{h wir}
+       5        0   {/ Dar}-{Buſch}
+       5        0   {/ bis}-{ander}
+       5        0   {/ was}-{Kelte}
+       5        0   {Sne}-{ges<\n>g}
+       5        0   {dieſe}-{Bmb}
+       5        0   {ie}-{arfär}
+       5        0   {i�<\n>vn}-{a}
+       5        0   {l wir}-{cht}
+       5        0   {lte}-{idung}
+       5        0   {mal v}-{r}
+       5        0   {nit}-{alles}
+       5        0   {s<\n>Got}-{wit-<\n>}
+       5        0   {t<\n>vnd}-{l wir}
+       5        0   {t⸗<\n>te}-{ns ga}
+       5        0   {vnd<\n>d}-{lief}
+       5        0   {vnd}-{/ bis}
+       5        0   {ſo la}-{V}
+       4        0   { / K}-{rſ}
+       4        0   { Die}-{<\n>dcn}
+       4        0   { hab}-{}
+       4        0   {/}-{len.}
+       4        0   {Fro}-{iſt}
+       4        0   {I}-{Daru}
+       4        0   {Klei}-{To}
+       4        0   {Somm}-{hat }
+       4        0   {Snd}-{ſchw}
+       4        0   {Tode}-{2c.}
+       4        0   {V}-{lebe}
+       4        0   {at v}-{ de}
+       4        0   {auﬀ}-{Biel}
+       4        0   {auﬀſ}-{vns }
+       4        0   {der<\n>}-{vns }
+       4        0   {ei⸗<\n>}-{/ So}
+       4        0   {fae}-{ v}
+       4        0   {hat }-{v}
+       4        0   {heng}-{ud ſ}
+       4        0   {iewe}-{as n}
+       4        0   {kumm}-{werd}
+       4        0   {ret}-{n: d}
+       4        0   {r}-{<\n>- a}
+       4        0   {rſr}-{in d}
+       4        0   {te /}-{bige}
+       4        0   {ung}-{ritt}
+       4        0   {vnd }-{gef}
+       4        0   {vns}-{wil/}
+       4        0   {wie}-{abf}
+       4        0   {}-{kan }
+       4        0   {ſen}-{n Er}
+       4        0   {}-{uſſſ}
+       4        0   {t<\n>�}-{/<\n>Ec}
+       4        0   {}-{chen}
+       3        0   { /<\n>}-{er }
+       3        0   { da}-{lo}
+       3        0   { in}-{d<\n>-}
+       3        0   { i}-{ben}
+       3        0   {. D}-{ick}
+       3        0   {<\n>Zu}-{ de}
+       3        0   {Erd}-{geſ}
+       3        0   {G}-{Erd}
+       3        0   {Vnd}-{Zum}
+       3        0   {abh}-{/ K}
+       3        0   {dem}-{/}
+       3        0   {der}-{vns}
+       3        0   {fr}-{en}
+       3        0   {ie}-{nen}
+       3        0   {ka}-{)<\n>y}
+       3        0   {kon}-{/ v}
+       3        0   {mal}-{ehe}
+       3        0   {n F}-{,<\n>D}
+       3        0   {n/}-{rſc}
+       3        0   {n}-{r}
+       3        0   {ond}-{emm}
+       3        0   {s d}-{ich}
+       3        0   {s g}-{d}
+       3        0   {tt}-{e G}
+       3        0   {ung}-{t /}
+       3        0   {vb}-{all}
+       3        0   {}-{Im }
+       3        0   {}-{dur}
+       3        0   {}-{oli}
+       3        0   {}-{-<\n>n}
+       3        0   {es}-{t}
+       3        0   {}-{lic}
+       2        0   { /}-{t}
+       2        0   { l}-{rn}
+       2        0   {/ }-{vn}
+       2        0   {<\n>v}-{he}
+       2        0   {An}-{To}
+       2        0   {C}-{vs}
+       2        0   {E}-{du}
+       2        0   {Me}-{Oc}
+       2        0   {an}-{}
+       2        0   {a}-{di}
+       2        0   {bi}-{vn}
+       2        0   {d}-{ /}
+       2        0   {en}-{d}
+       2        0   {gk}-{ew}
+       2        0   {ha}-{iſ}
+       2        0   {id}-{w}
+       2        0   {lb}-{ d}
+       2        0   {le}-{v}
+       2        0   {mb}-{ld}
+       2        0   {n }-{ d}
+       2        0   {ng}-{ch}
+       2        0   {n}-{it}
+       2        0   {n}-{iß}
+       2        0   {n}-{ßt}
+       2        0   {r}-{<\n>a}
+       2        0   {r}-{}
+       2        0   {s}-{}
+       2        0   {uﬀ}-{ll}
+       2        0   {v}-{Sü}
+       2        0   {}-{ v}
+       2        0   {}-{ }
+       2        0   {}-{da}
+       2        0   {}-{d}
+       2        0   {}-{n}
+       2        0   {ſ}-{/h}
+       2        0   {}-{ck}
+       1        0   { }-{c}
+       1        0   { }-{}
+       1        0   {.}-{s}
+       1        0   {a}-{V}
+       1        0   {d}-{D}
+       1        0   {d}-{s}
+       1        0   {e}-{}
+       1        0   {e}-{ſ}
+       1        0   {g}-{d}
+       1        0   {g}-{n}
+       1        0   {h}-{e}
+       1        0   {n}-{d}
+       1        0   {n}-{}
+       1        0   {o}-{ö}
+       1        0   {r}-{n}
+       1        0   {s}-{/}
+       1        0   {t}-{d}
+       1        0   {t}-{r}
+       1        0   {v}-{e}
+       1        0   {v}-{}
+       1        0   {w}-{}
+       1        0   {}-{b}
+       1        0   {}-{e}
+       1        0   {}-{h}
+       1        0   {}-{i}
+       1        0   {}-{l}
+       1        0   {}-{m}
+       1        0   {}-{t}
+       1        0   {}-{ö}
+       1        0   {⸗}-{s}
+       1        0   {}-{A}
+       1        0   {}-{k}
+       1        0   {}-{}
+       1        0   {}-{}
+       1        0   {ﬀ}-{t}
+
+   Count   Missed   %Right
+      27       16    40.74   {<\n>}
+     135       48    64.44   { }
+       4        3    25.00   {.}
+      22       15    31.82   {/}
+       1        1     0.00   {A}
+       1        1     0.00   {C}
+       6        4    33.33   {D}
+       2        2     0.00   {E}
+       2        2     0.00   {F}
+       3        2    33.33   {G}
+       1        1     0.00   {I}
+       4        2    50.00   {K}
+       2        1    50.00   {M}
+       1        0   100.00   {O}
+       6        5    16.67   {S}
+       2        2     0.00   {T}
+       4        4     0.00   {V}
+       1        1     0.00   {W}
+       2        2     0.00   {Z}
+      35       24    31.43   {a}
+      16       11    31.25   {b}
+       1        0   100.00   {c}
+      46       30    34.78   {d}
+     105       40    61.90   {e}
+       4        2    50.00   {f}
+      21       14    33.33   {g}
+      11        7    36.36   {h}
+      45       25    44.44   {i}
+       5        4    20.00   {k}
+      18       14    22.22   {l}
+      14       10    28.57   {m}
+      77       42    45.45   {n}
+      11       11     0.00   {o}
+      39       25    35.90   {r}
+      14       12    14.29   {s}
+      28       20    28.57   {t}
+      18       10    44.44   {u}
+      17       15    11.76   {v}
+      11        8    27.27   {w}
+       1        0   100.00   {z}
+       1        1     0.00   {ß}
+      12        8    33.33   {ſ}
+       4        4     0.00   {⸗}
+       1        1     0.00   {}
+       3        3     0.00   {}
+       4        4     0.00   {}
+       1        1     0.00   {}
+       2        2     0.00   {}
+       4        4     0.00   {}
+       8        8     0.00   {}
+      16       16     0.00   {}
+       4        4     0.00   {ﬀ}
+       2        2     0.00   {�}

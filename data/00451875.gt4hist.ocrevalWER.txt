@@ -1,0 +1,104 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+      73   Words
+      41   Misrecognized
+   43.84%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       1        1     0.00        1
+       1        0   100.00        2
+       2        1    50.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       3        2    33.33        1
+      12        7    41.67        2
+      22       16    27.27        3
+      12        3    75.00        4
+       8        4    50.00        5
+       4        1    75.00        6
+       1        1     0.00        7
+       4        3    25.00        8
+       3        2    33.33        9
+       1        0   100.00       10
+       1        1     0.00       14
+      71       40    43.66    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      37       18    51.35        1
+       8        4    50.00        2
+       3        1    66.67        3
+       1        0   100.00        4
+       1        1     0.00        5
+      50       24    52.00    Total
+
+Phrases
+   Count   Missed   %Right   Length
+      73       41    43.84        1
+      72       55    23.61        2
+      71       63    11.27        3
+      70       66     5.71        4
+      69       67     2.90        5
+      68       68     0.00        6
+      67       67     0.00        7
+      66       66     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       1        0   100.00   me
+
+Non-stopwords
+   Count   Missed   %Right   
+       2        2     0.00   ant
+       1        0   100.00   auec
+       1        1     0.00   autorité
+       1        0   100.00   credit
+       2        0   100.00   de
+       1        1     0.00   deſaprouuerez
+       2        2     0.00   e
+       1        1     0.00   epistre
+       1        1     0.00   er
+       1        1     0.00   era
+       1        0   100.00   fauorable
+       1        0   100.00   forge
+       1        0   100.00   grace
+       1        0   100.00   humble
+       1        1     0.00   i'eſpere
+       3        2    33.33   ie
+       1        0   100.00   l
+       1        0   100.00   la
+       1        0   100.00   laquelle
+       1        0   100.00   luy
+       1        0   100.00   ma
+       1        0   100.00   mais
+       1        1     0.00   monsievr
+       1        1     0.00   ne
+       1        1     0.00   obeï
+       1        0   100.00   pas
+       2        1    50.00   pour
+       3        2    33.33   pre
+       1        1     0.00   prote
+       1        1     0.00   qu'il
+       2        0   100.00   que
+       2        2     0.00   re
+       1        1     0.00   reconnoi
+       1        0   100.00   rendre
+       2        0   100.00   tres
+       1        1     0.00   urance
+       1        1     0.00   viens
+       1        0   100.00   vne
+       1        1     0.00   vo
+       1        1     0.00   voix
+       4        1    75.00   vous
+       1        1     0.00   écouté
+       1        0   100.00   ſeruiteur
+       1        0   100.00   ſon
+       1        0   100.00   ſous
+       1        0   100.00   ſuis
+       5        5     0.00   
+       2        2     0.00   
+       3        3     0.00   
+       1        1     0.00   

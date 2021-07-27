@@ -1,0 +1,163 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     178   Words
+     124   Misrecognized
+   30.34%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       5        5     0.00        1
+       3        2    33.33        2
+       8        7    12.50    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      13       11    15.38        1
+      33       24    27.27        2
+      72       55    23.61        3
+      22       11    50.00        4
+      10        6    40.00        5
+       9        4    55.56        6
+       6        2    66.67        7
+       2        2     0.00        8
+       2        2     0.00        9
+       1        0   100.00       10
+     170      117    31.18    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      76       46    39.47        1
+      22       15    31.82        2
+       4        2    50.00        3
+       2        1    50.00        5
+       2        1    50.00        6
+       1        1     0.00      >10
+     107       66    38.32    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     178      124    30.34        1
+     177      144    18.64        2
+     176      157    10.80        3
+     175      165     5.71        4
+     174      170     2.30        5
+     173      171     1.16        6
+     172      171     0.58        7
+     171      171     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       4        4     0.00   i
+       2        1    50.00   in
+       1        1     0.00   no
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   1
+       1        0   100.00   3
+       2        1    50.00   andern
+       1        0   100.00   anfahen
+       1        0   100.00   anheben
+       1        1     0.00   au
+       2        2     0.00   auﬀh
+       2        2     0.00   b
+       1        1     0.00   ba
+       1        0   100.00   bet
+       1        1     0.00   bewrinnen
+       1        1     0.00   ck
+       1        1     0.00   d
+       3        0   100.00   das
+       2        2     0.00   den
+       1        1     0.00   denn
+       1        1     0.00   der
+       2        1    50.00   die
+       1        0   100.00   dieſe
+       2        2     0.00   e
+       1        0   100.00   eben
+       1        1     0.00   eige
+       2        0   100.00   ein
+       1        1     0.00   einer
+       2        2     0.00   en
+       6        2    66.67   er
+       1        1     0.00   ern
+       2        2     0.00   es
+       2        2     0.00   f
+       1        1     0.00   ge
+       1        0   100.00   grewel
+       1        1     0.00   h
+       1        0   100.00   hende
+       1        1     0.00   ho
+       1        1     0.00   hoﬀart
+       1        1     0.00   hret
+       1        1     0.00   iegen
+       1        1     0.00   ier
+       1        1     0.00   iiij
+       3        3     0.00   je
+       1        1     0.00   jmmer
+       1        0   100.00   keyſer
+       1        1     0.00   kleidung
+       1        0   100.00   le
+       1        0   100.00   mation
+       1        0   100.00   mein
+       1        0   100.00   nen
+       2        2     0.00   ni
+       1        0   100.00   nun
+       1        0   100.00   o
+       2        0   100.00   oder
+       1        0   100.00   pet
+       1        1     0.00   pre
+       1        0   100.00   refor
+       1        0   100.00   reformiren
+       2        2     0.00   ren
+       1        1     0.00   rgenommen
+       1        1     0.00   rgerin
+       1        1     0.00   rgern
+       1        0   100.00   rius
+       1        1     0.00   st
+       2        2     0.00   t
+       1        0   100.00   tag
+       1        0   100.00   tage
+       2        2     0.00   tige
+       1        0   100.00   tybe
+       1        1     0.00   und
+       1        1     0.00   undt
+       1        1     0.00   vber
+       5        3    40.00   vnd
+       1        1     0.00   vnz
+       1        1     0.00   vo
+       1        1     0.00   vol
+       1        0   100.00   vom
+       1        0   100.00   von
+       1        1     0.00   wa
+       1        1     0.00   weit
+       1        0   100.00   weiß
+       1        0   100.00   wenn
+       1        1     0.00   wer
+       1        1     0.00   wi
+       2        0   100.00   wie
+       1        1     0.00   wil
+       3        1    66.67   wo
+       1        0   100.00   wort
+       1        1     0.00   wu
+       1        1     0.00   zeug
+       2        0   100.00   zu
+       2        2     0.00   ſ
+       1        1     0.00   ſehr
+       1        1     0.00   ſein
+       1        0   100.00   ſeiner
+       2        0   100.00   ſol
+       1        0   100.00   ſolt
+       1        0   100.00   ſolte
+       1        1     0.00   ſon
+       2        2     0.00   
+       6        6     0.00   
+       5        5     0.00   
+       1        1     0.00   
+       1        1     0.00   
+       2        2     0.00   
+       2        2     0.00   
+       3        3     0.00   
+      16       16     0.00   
+       1        1     0.00   ﬁnden
+       1        1     0.00   ﬁndet

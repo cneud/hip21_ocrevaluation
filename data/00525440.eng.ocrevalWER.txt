@@ -1,0 +1,103 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+      64   Words
+      27   Misrecognized
+   57.81%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        1    50.00        1
+       5        0   100.00        2
+       6        0   100.00        3
+       4        1    75.00        4
+      17        2    88.24    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      10        7    30.00        1
+       5        4    20.00        2
+       9        5    44.44        3
+      10        3    70.00        4
+       4        1    75.00        5
+       4        1    75.00        6
+       2        1    50.00        7
+       1        1     0.00        8
+       1        1     0.00       10
+       1        1     0.00       12
+      47       25    46.81    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      36       19    47.22        1
+       4        2    50.00        2
+       1        0   100.00        3
+      41       21    48.78    Total
+
+Phrases
+   Count   Missed   %Right   Length
+      64       27    57.81        1
+      63       37    41.27        2
+      62       43    30.65        3
+      61       46    24.59        4
+      60       48    20.00        5
+      59       50    15.25        6
+      58       51    12.07        7
+      57       51    10.53        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        0   100.00   a
+       1        0   100.00   and
+       1        1     0.00   have
+       1        1     0.00   i
+       1        0   100.00   in
+       3        0   100.00   of
+       5        0   100.00   the
+       1        0   100.00   them
+       1        0   100.00   to
+       1        0   100.00   will
+       1        0   100.00   with
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   10
+       2        1    50.00   11
+       1        1     0.00   21
+       1        1     0.00   4
+       1        0   100.00   7
+       1        0   100.00   age
+       1        0   100.00   author
+       1        0   100.00   blood
+       1        0   100.00   cove
+       1        0   100.00   crown
+       1        1     0.00   de
+       1        0   100.00   dedic
+       1        1     0.00   e
+       1        1     0.00   eader
+       1        1     0.00   epi
+       1        0   100.00   errata
+       1        1     0.00   everlaﬆing
+       1        1     0.00   eſcaped
+       1        0   100.00   faults
+       1        0   100.00   few
+       1        0   100.00   give
+       2        2     0.00   l
+       1        1     0.00   life
+       1        0   100.00   line
+       1        0   100.00   mend
+       1        1     0.00   nant
+       3        1    66.67   p
+       1        0   100.00   pen
+       1        1     0.00   pre
+       2        2     0.00   r
+       1        1     0.00   r.comforts
+       1        0   100.00   read
+       1        1     0.00   reth
+       2        0   100.00   thee
+       1        1     0.00   theſe
+       1        0   100.00   through
+       1        0   100.00   thy
+       1        1     0.00   ſpirit
+       1        1     0.00   
+       1        1     0.00   
+       1        1     0.00   

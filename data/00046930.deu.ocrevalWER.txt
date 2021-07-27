@@ -1,0 +1,172 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     200   Words
+     112   Misrecognized
+   44.00%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        2     0.00        1
+       2        0   100.00        2
+       2        2     0.00        3
+       6        4    33.33    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      16       16     0.00        1
+      24       19    20.83        2
+      79       49    37.97        3
+      26       11    57.69        4
+      12        1    91.67        5
+      17        7    58.82        6
+       9        3    66.67        7
+       7        0   100.00        8
+       3        1    66.67        9
+       1        1     0.00       10
+     194      108    44.33    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      81       38    53.09        1
+      20        7    65.00        2
+       8        4    50.00        3
+       3        3     0.00        5
+       1        0   100.00       10
+       1        1     0.00      >10
+     114       53    53.51    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     200      112    44.00        1
+     199      141    29.15        2
+     198      162    18.18        3
+     197      176    10.66        4
+     196      185     5.61        5
+     195      188     3.59        6
+     194      191     1.55        7
+     193      193     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       2        0   100.00   an
+       1        1     0.00   her
+       1        1     0.00   i
+       1        1     0.00   man
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   16
+       1        0   100.00   abraham
+       1        0   100.00   ampts
+       5        5     0.00   au
+       2        2     0.00   beſ
+       1        1     0.00   creatur
+       1        0   100.00   da
+       1        1     0.00   dan
+       1        0   100.00   de
+       2        0   100.00   dem
+       3        0   100.00   denn
+       2        0   100.00   der
+       2        0   100.00   die
+       1        0   100.00   ding
+       5        5     0.00   e
+       1        1     0.00   ehre
+       1        0   100.00   ehren
+       1        1     0.00   ehrli
+       1        0   100.00   eines
+       2        2     0.00   en
+       3        3     0.00   er
+       1        1     0.00   eret
+       2        0   100.00   es
+       1        1     0.00   f
+       1        0   100.00   fel
+       1        1     0.00   ferner
+       1        0   100.00   frew
+       1        1     0.00   geb
+       1        0   100.00   gebot
+       1        1     0.00   gebrau
+       1        1     0.00   gemangelt
+       1        1     0.00   gen
+       1        0   100.00   geweſen
+       1        0   100.00   gewiſ
+       2        0   100.00   gold
+       2        1    50.00   gott
+       1        0   100.00   gut
+       1        0   100.00   haben
+       1        0   100.00   heiligen
+       1        1     0.00   hmet
+       1        0   100.00   jeden
+       1        1     0.00   jhm
+       1        1     0.00   jren
+       1        1     0.00   k
+       2        1    50.00   kan
+       1        0   100.00   keinen
+       1        0   100.00   kindern
+       3        0   100.00   kleidung
+       1        1     0.00   lam
+       1        0   100.00   leiden
+       1        1     0.00   leidli
+       1        1     0.00   li
+       1        0   100.00   luc
+       3        0   100.00   mit
+       1        0   100.00   mon
+       1        1     0.00   na
+       1        1     0.00   nd
+       3        3     0.00   ni
+       1        0   100.00   niemands
+       1        1     0.00   notdurﬀt
+       1        0   100.00   ohne
+       1        0   100.00   pamper
+       1        1     0.00   patriar
+       2        2     0.00   r
+       1        1     0.00   rc
+       1        1     0.00   re
+       1        0   100.00   rebecca
+       1        1     0.00   rei
+       1        1     0.00   ret
+       1        1     0.00   riﬀt
+       2        2     0.00   s
+       1        0   100.00   salo
+       1        0   100.00   sammet
+       2        0   100.00   seiden
+       1        0   100.00   silber
+       1        0   100.00   stande
+       5        5     0.00   t
+       1        1     0.00   te
+       1        1     0.00   tra
+       2        1    50.00   tragen
+       1        0   100.00   verdammen
+       1        0   100.00   verdammet
+       1        0   100.00   verdampt
+       1        1     0.00   verm
+      10        2    80.00   vnd
+       2        0   100.00   vnnd
+       3        0   100.00   von
+       2        0   100.00   wegen
+       1        1     0.00   weib
+       1        1     0.00   wem
+       1        0   100.00   wenn
+       1        1     0.00   wer
+       1        1     0.00   werung
+       2        0   100.00   wie
+       1        0   100.00   wird
+       1        0   100.00   wirds
+       2        0   100.00   wol
+       1        1     0.00   zierli
+       1        0   100.00   zur
+       1        0   100.00   zwar
+       1        0   100.00   zweif
+       1        1     0.00   ſagung
+       1        0   100.00   ſeiner
+       1        0   100.00   ſeines
+       1        0   100.00   ſens
+       2        2     0.00   ſol
+       1        0   100.00   ſonder
+       2        2     0.00   
+       3        3     0.00   
+       3        3     0.00   
+       2        2     0.00   
+       1        1     0.00   
+       1        1     0.00   
+      24       24     0.00   

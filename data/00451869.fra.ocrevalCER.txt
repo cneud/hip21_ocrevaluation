@@ -1,0 +1,56 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+      77   Characters
+      73   Errors
+    5.19%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+    5.19%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+       3       70        0       73   Unmarked
+       3       70        0       73   Total
+
+   Count   Missed   %Right
+      14       11    21.43   ASCII Spacing Characters
+       1        1     0.00   ASCII Special Symbols
+       5        5     0.00   ASCII Uppercase Letters
+      27       26     3.70   ASCII Lowercase Letters
+      30       30     0.00   Specials
+      77       73     5.19   Total
+
+  Errors   Marked   Correct-Generated
+      30        0   {xandrin.<\n>N�� �...}-{<\n>Ko? 13 TUPAX.<\n>Epi...}
+      20        0   {����<\n>K��...}-{Clement<\n>Alexandrine}
+      10        0   {Clement<\n>Al}-{dxdu @ À d}
+       9        0   {Epicharme}-{5<\n>Nôs opn}
+       4        0   {chez}-{785}
+
+   Count   Missed   %Right
+       4        4     0.00   {<\n>}
+      10        7    30.00   { }
+       1        1     0.00   {.}
+       1        1     0.00   {A}
+       1        1     0.00   {C}
+       1        1     0.00   {E}
+       1        1     0.00   {K}
+       1        1     0.00   {N}
+       2        2     0.00   {a}
+       2        2     0.00   {c}
+       1        1     0.00   {d}
+       5        4    20.00   {e}
+       2        2     0.00   {h}
+       2        2     0.00   {i}
+       2        2     0.00   {l}
+       2        2     0.00   {m}
+       3        3     0.00   {n}
+       1        1     0.00   {p}
+       2        2     0.00   {r}
+       1        1     0.00   {t}
+       1        1     0.00   {x}
+       1        1     0.00   {z}
+      30       30     0.00   {�}

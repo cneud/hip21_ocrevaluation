@@ -1,0 +1,41 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+       6   Words
+       3   Misrecognized
+   50.00%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       0        0   ------    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       2        2     0.00        1
+       1        0   100.00        4
+       1        0   100.00        7
+       1        0   100.00        9
+       1        1     0.00       10
+       6        3    50.00    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+       6        3    50.00        1
+       6        3    50.00    Total
+
+Phrases
+   Count   Missed   %Right   Length
+       6        3    50.00        1
+       5        3    40.00        2
+       4        3    25.00        3
+       3        3     0.00        4
+       2        2     0.00        5
+       1        1     0.00        6
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   alexandrin
+       1        0   100.00   chez
+       1        0   100.00   clement
+       1        0   100.00   epicharme
+       1        1     0.00   k
+       1        1     0.00   n

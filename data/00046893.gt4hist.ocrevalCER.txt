@@ -1,0 +1,69 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+      82   Characters
+      39   Errors
+   52.44%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   52.44%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      32        2        5       39   Unmarked
+      32        2        5       39   Total
+
+   Count   Missed   %Right
+       1        0   100.00   Unassigned
+      13        4    69.23   ASCII Spacing Characters
+       5        2    60.00   ASCII Special Symbols
+      10        5    50.00   ASCII Uppercase Letters
+      47       19    59.57   ASCII Lowercase Letters
+       3        1    66.67   Latin1 Lowercase Letters
+       2        2     0.00   Private Use Area
+       1        1     0.00   Alphabetic Presentation Forms
+      82       34    58.54   Total
+
+  Errors   Marked   Correct-Generated
+      30        0   {Dur<\n>Johan. Strauß...}-{}
+       2        0   {P}-{ B}
+       2        0   {id}-{}
+       2        0   {ﬀ}-{ff}
+       1        0   {}-{ }
+       1        0   {}-{Q}
+       1        0   {}-{—}
+
+   Count   Missed   %Right
+       6        2    66.67   {<\n>}
+       7        2    71.43   { }
+       3        2    33.33   {.}
+       2        0   100.00   {/}
+       1        1     0.00   {D}
+       1        1     0.00   {E}
+       1        1     0.00   {J}
+       2        0   100.00   {K}
+       2        1    50.00   {P}
+       1        1     0.00   {S}
+       1        0   100.00   {T}
+       1        0   100.00   {W}
+       4        2    50.00   {a}
+       1        1     0.00   {b}
+       5        1    80.00   {d}
+       9        2    77.78   {e}
+       1        1     0.00   {g}
+       1        1     0.00   {h}
+       2        1    50.00   {i}
+       4        1    75.00   {l}
+       3        1    66.67   {n}
+       1        1     0.00   {o}
+       8        4    50.00   {r}
+       1        1     0.00   {t}
+       6        2    66.67   {u}
+       1        0   100.00   {v}
+       3        1    66.67   {ß}
+       1        0   100.00   {⸗}
+       1        1     0.00   {}
+       1        1     0.00   {}
+       1        1     0.00   {ﬀ}

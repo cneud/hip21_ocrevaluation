@@ -1,0 +1,181 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     205   Words
+     113   Misrecognized
+   44.88%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       3        3     0.00        1
+       6        4    33.33        2
+       9        7    22.22    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       9        8    11.11        1
+      38       24    36.84        2
+      80       50    37.50        3
+      15        5    66.67        4
+      19        8    57.89        5
+      16        3    81.25        6
+       5        2    60.00        7
+       8        4    50.00        8
+       3        1    66.67        9
+       2        1    50.00       10
+       1        0   100.00       11
+     196      106    45.92    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      94       41    56.38        1
+      11        4    63.64        2
+       7        5    28.57        3
+       1        0   100.00        5
+       1        0   100.00        6
+       2        1    50.00        7
+       1        1     0.00        8
+       1        0   100.00       10
+       1        1     0.00      >10
+     119       53    55.46    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     205      113    44.88        1
+     204      151    25.98        2
+     203      177    12.81        3
+     202      190     5.94        4
+     201      194     3.48        5
+     200      198     1.00        6
+     199      198     0.50        7
+     198      198     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       1        0   100.00   an
+       2        2     0.00   i
+       3        3     0.00   no
+       1        0   100.00   so
+       1        1     0.00   we
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   3
+       1        0   100.00   abgeſag
+       1        0   100.00   al
+       2        0   100.00   alſo
+       1        0   100.00   andern
+       1        0   100.00   anfang
+       1        0   100.00   anfenger
+       1        0   100.00   ante
+       1        1     0.00   au
+       1        0   100.00   augen
+       1        0   100.00   baum
+       1        0   100.00   beraube
+       1        0   100.00   betreuget
+       1        0   100.00   betrog
+       1        1     0.00   chri
+       1        0   100.00   comulauit
+       1        0   100.00   dahin
+       1        0   100.00   damit
+       1        0   100.00   daraus
+       1        0   100.00   darumb
+       1        0   100.00   das
+       2        0   100.00   den
+       1        0   100.00   denn
+       7        0   100.00   der
+       3        0   100.00   die
+       2        0   100.00   dieſes
+       2        2     0.00   dur
+       3        3     0.00   e
+       1        1     0.00   ei
+       1        0   100.00   ein
+       7        7     0.00   en
+      10        5    50.00   er
+       1        0   100.00   erger
+       1        1     0.00   ers
+       1        1     0.00   et
+       1        0   100.00   eua
+       1        1     0.00   f
+       1        1     0.00   fa
+       1        0   100.00   feind
+       1        1     0.00   fr
+       1        0   100.00   fuit
+       1        0   100.00   ge
+       1        1     0.00   gebra
+       1        0   100.00   gott
+       1        0   100.00   gottes
+       3        2    33.33   hat
+       1        0   100.00   henget
+       1        0   100.00   heutiges
+       1        1     0.00   hoﬀart
+       1        1     0.00   hoﬀarth
+       1        0   100.00   im
+       2        0   100.00   je
+       1        0   100.00   jmmer
+       1        0   100.00   jn
+       1        0   100.00   keit
+       1        0   100.00   kommen
+       1        1     0.00   la
+       1        0   100.00   lautet
+       1        1     0.00   lenger
+       1        0   100.00   les
+       1        0   100.00   leute
+       1        1     0.00   leutina
+       1        0   100.00   mehr
+       3        3     0.00   menſ
+       1        1     0.00   mmer
+       2        2     0.00   na
+       1        1     0.00   nd
+       1        1     0.00   ndﬂuth
+       1        0   100.00   ne
+       1        1     0.00   neſ
+       1        0   100.00   nimpt
+       1        1     0.00   ntemal
+       1        1     0.00   o
+       1        0   100.00   peior
+       1        1     0.00   po
+       1        1     0.00   quam
+       1        1     0.00   rnemli
+       2        2     0.00   s
+       1        1     0.00   selig
+       1        0   100.00   sie
+       1        1     0.00   straﬀe
+       1        1     0.00   t
+       1        1     0.00   tages
+       1        0   100.00   ter
+       1        1     0.00   teuﬀel
+       1        1     0.00   ut
+       1        0   100.00   vbel
+       1        1     0.00   ver
+       1        0   100.00   verbottenem
+       1        1     0.00   verß
+       1        1     0.00   verſ
+       1        0   100.00   viel
+       6        2    66.67   vnd
+       1        1     0.00   vnthugendt
+       1        1     0.00   vol
+       1        0   100.00   vom
+       1        1     0.00   vor
+       1        1     0.00   wa
+       1        0   100.00   weiber
+       1        0   100.00   wenn
+       2        0   100.00   werden
+       5        1    80.00   wie
+       2        0   100.00   zu
+       1        0   100.00   zugenommen
+       1        0   100.00   zum
+       1        1     0.00   ſelten
+       2        1    50.00   ſo
+       1        1     0.00   ſol
+       1        0   100.00   ſolte
+       1        0   100.00   ſondern
+       1        1     0.00   
+       3        3     0.00   
+       8        8     0.00   
+       2        2     0.00   
+       3        3     0.00   
+       1        1     0.00   
+       3        3     0.00   
+      16       16     0.00   
+       1        1     0.00   

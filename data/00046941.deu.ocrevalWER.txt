@@ -1,0 +1,199 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     257   Words
+     192   Misrecognized
+   25.29%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        4     0.00        1
+       7        7     0.00        2
+       4        1    75.00        3
+      15       12    20.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      31       30     3.23        1
+      30       27    10.00        2
+     110       81    26.36        3
+      26       14    46.15        4
+      14       10    28.57        5
+      12        6    50.00        6
+       5        2    60.00        7
+       9        5    44.44        8
+       4        4     0.00        9
+       1        1     0.00       10
+     242      180    25.62    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+     103       65    36.89        1
+      13        8    38.46        2
+       5        3    40.00        3
+       3        3     0.00        4
+       3        1    66.67        5
+       3        3     0.00        6
+       2        1    50.00        8
+       2        2     0.00      >10
+     134       86    35.82    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     257      192    25.29        1
+     256      227    11.33        2
+     255      242     5.10        3
+     254      248     2.36        4
+     253      249     1.58        5
+     252      250     0.79        6
+     251      250     0.40        7
+     250      250     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       1        1     0.00   at
+       1        1     0.00   be
+       2        2     0.00   do
+       3        3     0.00   i
+       1        1     0.00   in
+       3        1    66.67   man
+       1        1     0.00   no
+       1        1     0.00   us
+       1        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   alts
+       1        1     0.00   alſo
+       1        1     0.00   angethan
+       1        1     0.00   angeſehn
+       1        1     0.00   au
+       1        0   100.00   audis
+       1        1     0.00   ausri
+       1        1     0.00   aﬀen
+       1        1     0.00   benè
+       1        0   100.00   bewerben
+       1        0   100.00   bey
+       1        1     0.00   beﬁnden
+       1        0   100.00   creditur
+       1        1     0.00   d
+       1        1     0.00   daf
+       1        0   100.00   damit
+       1        0   100.00   darumb
+       3        1    66.67   das
+       1        0   100.00   dem
+       2        0   100.00   denn
+       5        0   100.00   der
+       8        8     0.00   e
+       1        1     0.00   ehn
+       1        1     0.00   ehrli
+       3        3     0.00   ein
+       1        1     0.00   einem
+       1        0   100.00   einer
+       1        0   100.00   eins
+       1        1     0.00   em
+       3        3     0.00   en
+       3        1    66.67   er
+       1        1     0.00   erf
+       1        1     0.00   erfehret
+       1        1     0.00   et
+       5        5     0.00   f
+       1        0   100.00   gar
+       1        1     0.00   ge
+       1        1     0.00   gea
+       1        1     0.00   gelehrten
+       1        0   100.00   gen
+       1        1     0.00   gewalt
+       1        0   100.00   gezogen
+       1        1     0.00   geſ
+       1        0   100.00   geſel
+       1        1     0.00   gibt
+       1        1     0.00   glehrten
+       1        1     0.00   glei
+       1        1     0.00   gro
+       1        1     0.00   gun
+       1        1     0.00   guten
+       1        0   100.00   guts
+       1        0   100.00   han
+       1        1     0.00   hat
+       1        0   100.00   herein
+       1        1     0.00   herna
+       1        1     0.00   het
+       1        1     0.00   hone
+       1        1     0.00   ibus
+       1        1     0.00   idiota
+       2        2     0.00   itus
+       1        0   100.00   jm
+       1        0   100.00   kan
+       2        2     0.00   kein
+       1        1     0.00   kleide
+       1        1     0.00   kleider
+       2        1    50.00   kleidung
+       1        1     0.00   kun
+       1        0   100.00   laudis
+       1        1     0.00   le
+       1        0   100.00   len
+       1        0   100.00   leuten
+       1        1     0.00   li
+       1        1     0.00   lobbey
+       1        1     0.00   ma
+       1        0   100.00   mag
+       2        1    50.00   mann
+       2        0   100.00   mit
+       1        1     0.00   na
+       1        1     0.00   ne
+       1        0   100.00   nec
+       2        2     0.00   ni
+       3        3     0.00   nu
+       4        4     0.00   o
+       1        0   100.00   omne
+       1        1     0.00   oﬀt
+       1        0   100.00   peritus
+       1        1     0.00   pran
+       1        1     0.00   pre
+       1        0   100.00   pro
+       2        1    50.00   quamuis
+       1        0   100.00   quod
+       6        6     0.00   r
+       1        0   100.00   rath
+       1        1     0.00   rderunge
+       1        1     0.00   s
+       1        0   100.00   sicarent
+       1        1     0.00   speculator
+       5        4    20.00   t
+       2        2     0.00   ten
+       1        1     0.00   ter
+       1        1     0.00   tet
+       1        1     0.00   theil
+       1        1     0.00   tige
+       1        1     0.00   ts
+       1        1     0.00   v
+       1        0   100.00   vbel
+       4        4     0.00   ve
+       1        0   100.00   vir
+       1        1     0.00   vmb
+       8        1    87.50   vnd
+       1        1     0.00   weißheit
+       1        0   100.00   welt
+       1        0   100.00   wenn
+       1        0   100.00   werden
+       1        0   100.00   werdt
+       1        1     0.00   wi
+       1        0   100.00   wie
+       1        0   100.00   wird
+       1        0   100.00   wol
+       1        1     0.00   à
+       2        2     0.00   ſ
+       1        1     0.00   ſciat
+       1        1     0.00   ſey
+       1        1     0.00   ſo
+       1        1     0.00   ſpri
+       2        2     0.00   
+       6        6     0.00   
+      14       14     0.00   
+       6        6     0.00   
+       2        2     0.00   
+       2        2     0.00   
+       1        1     0.00   
+       4        4     0.00   
+      23       23     0.00   

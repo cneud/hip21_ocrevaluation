@@ -1,0 +1,191 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     235   Words
+     152   Misrecognized
+   35.32%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       3        3     0.00        1
+       8        5    37.50        2
+       6        2    66.67        3
+      17       10    41.18    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      20       18    10.00        1
+      31       24    22.58        2
+      99       71    28.28        3
+      20        9    55.00        4
+      19        9    52.63        5
+      13        5    61.54        6
+       7        3    57.14        7
+       4        2    50.00        8
+       4        1    75.00        9
+       1        0   100.00       10
+     218      142    34.86    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      97       54    44.33        1
+       9        3    66.67        2
+       9        4    55.56        3
+       2        2     0.00        4
+       4        4     0.00        5
+       1        0   100.00        7
+       2        0   100.00       10
+       1        1     0.00      >10
+     125       68    45.60    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     235      152    35.32        1
+     234      186    20.51        2
+     233      202    13.30        3
+     232      214     7.76        4
+     231      218     5.63        5
+     230      220     4.35        6
+     229      222     3.06        7
+     228      223     2.19        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       2        0   100.00   an
+       1        1     0.00   be
+       1        1     0.00   her
+       2        2     0.00   i
+       1        0   100.00   in
+       2        1    50.00   man
+       1        1     0.00   me
+       2        2     0.00   no
+       1        1     0.00   to
+       3        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   aber
+       1        1     0.00   ang
+       1        1     0.00   au
+       1        1     0.00   auben
+       1        1     0.00   auﬀ
+       1        1     0.00   aﬀt
+       1        1     0.00   b
+       1        1     0.00   bern
+       2        0   100.00   bette
+       1        0   100.00   bißweilen
+       1        0   100.00   borgen
+       1        0   100.00   bringen
+       1        1     0.00   d
+       1        0   100.00   da
+       1        0   100.00   dar
+       2        2     0.00   darna
+       3        0   100.00   das
+       1        0   100.00   datum
+       1        1     0.00   de
+       1        0   100.00   den
+       1        0   100.00   denn
+       3        1    66.67   der
+       1        1     0.00   derglei
+       1        1     0.00   derumb
+       3        0   100.00   die
+       1        1     0.00   dien
+       1        0   100.00   dieſe
+      10        9    10.00   e
+       1        1     0.00   ehe
+       1        1     0.00   eiden
+       1        1     0.00   ein
+       1        0   100.00   einer
+       7        6    14.29   en
+       4        4     0.00   er
+       1        0   100.00   ergattern
+       1        1     0.00   ermonat
+       1        0   100.00   ernehren
+       2        0   100.00   es
+       1        0   100.00   et
+       1        0   100.00   f
+       1        1     0.00   ge
+       1        1     0.00   gedan
+       1        0   100.00   gehet
+       1        0   100.00   gehets
+       1        1     0.00   geri
+       1        1     0.00   greiﬀen
+       1        1     0.00   gro
+       2        0   100.00   haben
+       1        0   100.00   hat
+       1        1     0.00   hauben
+       1        1     0.00   hebreiſ
+       1        1     0.00   herf
+       1        0   100.00   hingeben
+       1        1     0.00   hoﬀart
+       1        1     0.00   iiĳ
+       1        1     0.00   je
+       1        1     0.00   k
+       1        0   100.00   krieg
+       1        1     0.00   kummer
+       1        1     0.00   l
+       1        0   100.00   leibe
+       1        0   100.00   leidige
+       1        0   100.00   lernen
+       1        1     0.00   leuﬀt
+       1        0   100.00   leſen
+       1        1     0.00   ma
+       1        1     0.00   magd
+       3        1    66.67   mans
+       2        0   100.00   mit
+       3        0   100.00   muß
+       3        3     0.00   na
+       1        0   100.00   ne
+       1        0   100.00   noth
+       1        1     0.00   nu
+       1        1     0.00   pf
+       1        0   100.00   pfenden
+       1        1     0.00   r
+       1        1     0.00   rei
+       1        1     0.00   rgers
+       1        1     0.00   s
+       1        0   100.00   sin
+       1        1     0.00   st
+       1        1     0.00   stre
+       3        3     0.00   t
+       1        1     0.00   tag
+       2        2     0.00   ten
+       1        1     0.00   ter
+       1        1     0.00   tet
+       1        0   100.00   thut
+       1        1     0.00   ti
+       1        1     0.00   tra
+       1        0   100.00   vber
+       1        0   100.00   ver
+       1        0   100.00   verdienen
+       1        1     0.00   verſe
+      10        3    70.00   vnd
+       1        0   100.00   vnn
+       1        0   100.00   vnterm
+       1        0   100.00   weder
+       1        0   100.00   wenden
+       1        0   100.00   wenn
+       1        0   100.00   wi
+       1        0   100.00   wie
+       1        0   100.00   wil
+       1        1     0.00   wirtſ
+       2        0   100.00   wol
+       1        0   100.00   ziehen
+       1        1     0.00   zu
+       1        1     0.00   zur
+       1        1     0.00   zuvor
+       1        0   100.00   zuſammen
+       1        1     0.00   ſ
+       1        1     0.00   ſe
+       2        1    50.00   ſo
+       1        1     0.00   ſon
+       1        0   100.00   ſorgen
+       2        2     0.00   
+       5        5     0.00   
+       5        5     0.00   
+       5        5     0.00   
+       4        4     0.00   
+       5        5     0.00   
+       3        3     0.00   
+       3        3     0.00   
+      21       21     0.00   

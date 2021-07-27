@@ -1,0 +1,185 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     210   Words
+     120   Misrecognized
+   42.86%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        2     0.00        1
+       6        2    66.67        2
+       1        1     0.00        3
+       9        5    44.44    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      16       16     0.00        1
+      27       16    40.74        2
+      87       52    40.23        3
+      21        9    57.14        4
+      24       12    50.00        5
+      13        4    69.23        6
+       6        1    83.33        7
+       5        3    40.00        8
+       1        1     0.00        9
+       1        1     0.00       10
+     201      115    42.79    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      97       43    55.67        1
+      14        4    71.43        2
+       5        3    40.00        3
+       2        1    50.00        4
+       2        2     0.00        5
+       1        1     0.00        6
+       2        1    50.00        9
+       1        1     0.00      >10
+     124       56    54.84    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     210      120    42.86        1
+     209      158    24.40        2
+     208      183    12.02        3
+     207      192     7.25        4
+     206      195     5.34        5
+     205      197     3.90        6
+     204      199     2.45        7
+     203      200     1.48        8
+
+Stopwords
+   Count   Missed   %Right   
+       3        0   100.00   an
+       1        1     0.00   he
+       1        1     0.00   her
+       2        2     0.00   i
+       1        0   100.00   in
+       1        1     0.00   so
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   ab
+       1        1     0.00   adel
+       1        0   100.00   als
+       2        1    50.00   alſo
+       1        0   100.00   ander
+       3        2    33.33   au
+       1        1     0.00   auﬀ
+       1        0   100.00   bat
+       1        1     0.00   beſ
+       1        0   100.00   branden
+       1        1     0.00   burgk
+       1        1     0.00   churf
+       1        0   100.00   da
+       3        0   100.00   das
+       1        0   100.00   dem
+       1        0   100.00   denn
+       1        0   100.00   dent
+       9        1    88.89   der
+       1        0   100.00   die
+       1        1     0.00   dien
+       1        1     0.00   dieſe
+       1        0   100.00   drey
+       1        0   100.00   du
+       1        1     0.00   e
+       1        0   100.00   eberhart
+       1        1     0.00   ei
+       1        1     0.00   eidt
+       2        1    50.00   ein
+       2        0   100.00   einen
+       2        2     0.00   en
+       2        1    50.00   er
+       1        0   100.00   erbares
+       1        1     0.00   eriſ
+       1        1     0.00   erli
+       1        0   100.00   erwehnen
+       1        0   100.00   es
+       1        1     0.00   etli
+       4        4     0.00   f
+       1        0   100.00   gab
+       2        2     0.00   gefe
+       1        0   100.00   gefehr
+       1        1     0.00   gei
+       1        1     0.00   gem
+       1        0   100.00   gewar
+       1        1     0.00   gewehret
+       1        1     0.00   gienge
+       1        0   100.00   hat
+       1        0   100.00   hatte
+       1        0   100.00   hen
+       1        1     0.00   het
+       1        1     0.00   hi
+       1        0   100.00   hie
+       1        0   100.00   hinweg
+       2        0   100.00   hoſen
+       1        1     0.00   hoﬀ
+       1        1     0.00   hoﬀe
+       1        0   100.00   im
+       1        1     0.00   j
+       1        1     0.00   jhm
+       1        1     0.00   jhn
+       1        0   100.00   jm
+       1        0   100.00   jn
+       1        1     0.00   kam
+       2        0   100.00   kerl
+       1        0   100.00   kleiden
+       1        0   100.00   kondte
+       1        1     0.00   landtskne
+       1        0   100.00   langen
+       1        0   100.00   latein
+       1        1     0.00   le
+       1        0   100.00   lenger
+       1        1     0.00   li
+       1        0   100.00   mein
+       1        0   100.00   meinem
+       1        1     0.00   mi
+       1        0   100.00   mir
+       2        0   100.00   mirs
+       1        0   100.00   mus
+       1        0   100.00   nem
+       2        2     0.00   ni
+       1        1     0.00   nittenen
+       1        0   100.00   nun
+       1        1     0.00   og
+       1        1     0.00   ohn
+       1        0   100.00   ohne
+       1        1     0.00   orien
+       5        5     0.00   r
+       1        1     0.00   rein
+       2        2     0.00   ro
+       1        0   100.00   stu
+       1        0   100.00   student
+       5        5     0.00   t
+       1        0   100.00   thu
+       1        0   100.00   thue
+       1        1     0.00   ts
+       1        0   100.00   vmb
+       4        1    75.00   vnd
+       1        1     0.00   vnter
+       1        0   100.00   vom
+       2        0   100.00   von
+       1        0   100.00   weiſet
+       1        0   100.00   wenig
+       1        0   100.00   wie
+       1        0   100.00   wil
+       1        0   100.00   wird
+       1        1     0.00   wirtenberg
+       1        0   100.00   wolan
+       1        1     0.00   zerlumpt
+       1        1     0.00   zerſ
+       1        0   100.00   zorn
+       2        0   100.00   zu
+       1        1     0.00   zugefa
+       1        0   100.00   zumal
+       2        0   100.00   ſein
+       1        1     0.00   ſeinem
+       1        0   100.00   ſolt
+       3        3     0.00   ſpra
+       6        6     0.00   
+       9        9     0.00   
+       1        1     0.00   
+       3        3     0.00   
+       1        1     0.00   
+       3        3     0.00   
+      19       19     0.00   

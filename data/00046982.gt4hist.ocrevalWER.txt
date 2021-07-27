@@ -1,0 +1,183 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     243   Words
+     148   Misrecognized
+   39.09%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       9        9     0.00        1
+       5        1    80.00        2
+       6        1    83.33        3
+      20       11    45.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      14       14     0.00        1
+      34       23    32.35        2
+     112       74    33.93        3
+      20       10    50.00        4
+       9        2    77.78        5
+      15        6    60.00        6
+       9        4    55.56        7
+       4        2    50.00        8
+       3        0   100.00        9
+       1        1     0.00       10
+       2        1    50.00       11
+     223      137    38.57    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      84       46    45.24        1
+      18        6    66.67        2
+       6        3    50.00        3
+       2        2     0.00        4
+       1        0   100.00        5
+       2        2     0.00        6
+       4        2    50.00        7
+       2        2     0.00      >10
+     119       63    47.06    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     243      148    39.09        1
+     242      178    26.45        2
+     241      198    17.84        3
+     240      212    11.67        4
+     239      220     7.95        5
+     238      224     5.88        6
+     237      226     4.64        7
+     236      227     3.81        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        2     0.00   a
+       1        0   100.00   an
+       1        0   100.00   be
+       1        1     0.00   do
+       7        7     0.00   i
+       2        0   100.00   in
+       2        0   100.00   man
+       4        1    75.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   abe
+       2        0   100.00   aber
+       1        0   100.00   als
+       1        0   100.00   alſo
+       1        1     0.00   ame
+       1        1     0.00   andt
+       1        0   100.00   anklebendes
+       1        1     0.00   arth
+       1        1     0.00   au
+       1        1     0.00   augen
+       1        1     0.00   auﬀs
+       1        1     0.00   creatur
+       1        0   100.00   da
+       1        0   100.00   darumb
+       5        0   100.00   das
+       1        0   100.00   den
+       2        0   100.00   denn
+       2        0   100.00   der
+       1        1     0.00   derglei
+       1        0   100.00   derman
+       3        0   100.00   die
+       1        0   100.00   dieſem
+       1        0   100.00   ding
+       7        7     0.00   e
+       2        2     0.00   ehe
+       3        0   100.00   ein
+       1        0   100.00   eine
+       6        6     0.00   en
+       1        1     0.00   ens
+       2        2     0.00   er
+       2        0   100.00   erbare
+       2        0   100.00   erbarkeit
+       1        0   100.00   erfah
+       7        0   100.00   es
+       2        0   100.00   ey
+       1        1     0.00   fa
+       1        0   100.00   feine
+       1        0   100.00   gar
+       1        1     0.00   ge
+       1        1     0.00   glei
+       1        1     0.00   gro
+       1        1     0.00   h
+       2        0   100.00   haben
+       1        0   100.00   hat
+       1        0   100.00   herein
+       1        1     0.00   het
+       1        1     0.00   hnli
+       1        0   100.00   inn
+       1        1     0.00   je
+       1        0   100.00   jnen
+       1        0   100.00   kleiden
+       1        0   100.00   kleidung
+       1        1     0.00   ko
+       3        3     0.00   lei
+       1        0   100.00   leute
+       1        0   100.00   leuten
+       1        1     0.00   m
+       2        1    50.00   ma
+       1        0   100.00   mag
+       1        0   100.00   maul
+       1        0   100.00   meinung
+       1        1     0.00   mu
+       2        2     0.00   na
+       1        1     0.00   nd
+       1        1     0.00   ndig
+       1        1     0.00   nes
+       2        2     0.00   ni
+       1        0   100.00   nun
+       1        0   100.00   nur
+       1        1     0.00   nﬀtige
+       1        1     0.00   oﬀen
+       1        0   100.00   pranget
+       1        1     0.00   re
+       2        1    50.00   ren
+       1        1     0.00   sonderli
+       4        4     0.00   t
+       1        1     0.00   tet
+       2        2     0.00   tfertig
+       1        1     0.00   tfertigkeit
+       1        1     0.00   thun
+       1        0   100.00   tiegert
+       2        2     0.00   tra
+       1        1     0.00   tronen
+       1        0   100.00   vber
+       1        1     0.00   verh
+       1        0   100.00   verkappen
+       1        1     0.00   vern
+       7        0   100.00   vnd
+       1        1     0.00   vngew
+       1        1     0.00   vol
+       1        1     0.00   vppiſ
+       1        1     0.00   w
+       1        0   100.00   war
+       1        0   100.00   weiber
+       2        0   100.00   wer
+       2        0   100.00   wie
+       1        1     0.00   wo
+       3        1    66.67   wol
+       1        1     0.00   ſ
+       1        0   100.00   ſagen
+       1        1     0.00   ſehen
+       1        0   100.00   ſehr
+       1        1     0.00   ſel
+       1        0   100.00   ſey
+       2        1    50.00   ſo
+       1        1     0.00   ſol
+       1        0   100.00   ſolts
+       1        0   100.00   ſondern
+       4        4     0.00   
+       3        3     0.00   
+      12       12     0.00   
+       6        6     0.00   
+       3        3     0.00   
+       1        1     0.00   
+       1        1     0.00   
+       7        7     0.00   
+      20       20     0.00   
+       1        1     0.00   ﬂeiſsig
+       1        1     0.00   ﬂugs

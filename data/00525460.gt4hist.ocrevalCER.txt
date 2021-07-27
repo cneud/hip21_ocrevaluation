@@ -1,0 +1,210 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1624   Characters
+    1094   Errors
+   32.64%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   32.64%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     501      105      488     1094   Unmarked
+     501      105      488     1094   Total
+
+   Count   Missed   %Right
+     310      105    66.13   ASCII Spacing Characters
+      63       27    57.14   ASCII Special Symbols
+      19       15    21.05   ASCII Digits
+      26       13    50.00   ASCII Uppercase Letters
+    1160      413    64.40   ASCII Lowercase Letters
+      22        9    59.09   Latin Extended-A
+       6        6     0.00   General Punctuation
+      13       13     0.00   Private Use Area
+       5        5     0.00   Alphabetic Presentation Forms
+    1624      606    62.68   Total
+
+  Errors   Marked   Correct-Generated
+      91        0   { ; in do‑<\n>ing of wh...}-{}
+      83        0   {nocent blood of Chri ...}-{}
+      50        0   {, unto the blood<\n>of Z...}-{}
+      50        0   {}-{ from the blood orf righ...}
+      48        0   {14}-{ all the bloõd that vas...}
+      40        0   {35.}-{ſheding the innocent bl...}
+      39        0   {}-{ repentance, faith and b...}
+      37        0   {t was ſhed upon the ear...}-{}
+      31        0   {M}-{ing or vhich, they, towi...}
+      28        0   {prayed they ſhould ; bu...}-{}
+      25        0   {J}-{Chriſt nad prayed they ...}
+      25        0   {g}-{ them and their Children...}
+      23        0   {25.}-{receive forgiveneſs, as}
+      22        0   {ood, and were ac‑<\n>c...}-{}
+      21        0   {ngly baptized, did re}-{}
+      20        0   {ood of righteous Abe}-{}
+      20        0   {otally and<\n>ﬁnally....}-{}
+      20        0   {}-{ A Treatiſe toucbing}
+      19        0   {believers may fall }-{}
+      17        0   {}-{uld; but as for t}
+      16        0   {}-{red<\n>m might be o}
+      15        0   {em, viz. repent}-{}
+      15        0   {}-{ny as did repen}
+      14        0   {}-{blood of Chriſ}
+      13        0   {ke}-{oh. iuis 6. A}
+      13        0   {}-{upon them, yc}
+      12        0   {or the<\n>re, }-{}
+      11        0   {9}-{. them, vis}
+      11        0   {If<\n>}-{at. 2723ö. }
+      11        0   {}-{ias ſhall b}
+      10        0   { }-{}
+      10        0   {as<\n>Chri h}-{m}
+       9        0   {}-{ they deſ}
+       8        0   {nce, fai}-{}
+       8        0   {}-{ſt}
+       7        0   { the in}-{}
+       7        0   {giveneſ}-{}
+       7        0   {}-{gly bap}
+       6        0   {aptiſm}-{}
+       6        0   {}-{, and }
+       6        0   {}-{e<\n>reſt}
+       6        0   {ſ}-{n-<\n>noc}
+       6        0   {}-{ct}
+       5        0   {.}-{ired,}
+       5        0   {23.}-{their}
+       5        0   {M}-{cordi}
+       5        0   {T}-{Zacha}
+       5        0   {he bl}-{}
+       5        0   {ut th}-{}
+       5        0   {u}-{, whi}
+       4        0   {and }-{}
+       4        0   {th}-{ib}
+       4        0   {}-{ alſ}
+       4        0   {‑}-{-}
+       4        0   {ﬁ}-{fi}
+       3        0   { fo}-{}
+       3        0   {.}-{<\n>ol}
+       3        0   {15}-{ a3}
+       3        0   {27.}-{did}
+       3        0   {A}-{oOf}
+       3        0   {ea,}-{}
+       3        0   {f}-{t}
+       3        0   {od }-{}
+       3        0   {wit}-{mu}
+       3        0   {w}-{v}
+       3        0   {}-{he }
+       2        0   {( }-{&}
+       2        0   {( }-{C}
+       2        0   {1}-{ 3}
+       2        0   {I}-{1}
+       2        0   {ay}-{æ}
+       2        0   {e }-{c}
+       2        0   {ei}-{}
+       2        0   {e}-{c}
+       2        0   {h}-{n}
+       2        0   {h}-{}
+       2        0   {l }-{t}
+       2        0   {ye}-{vl}
+       2        0   {}-{nt}
+       2        0   {}-{ſi}
+       2        0   {}-{ſſ}
+       2        0   {ﬀ}-{ff}
+       2        0   {ﬁ}-{ſi}
+       1        0   {,}-{}
+       1        0   {2}-{e}
+       1        0   {a}-{4}
+       1        0   {b}-{P}
+       1        0   {b}-{h}
+       1        0   {c}-{e}
+       1        0   {d}-{ꝝ}
+       1        0   {f}-{i}
+       1        0   {h}-{f}
+       1        0   {i}-{I}
+       1        0   {i}-{ĩ}
+       1        0   {k}-{L}
+       1        0   {k}-{}
+       1        0   {l}-{i}
+       1        0   {m}-{n}
+       1        0   {n}-{a}
+       1        0   {n}-{g}
+       1        0   {n}-{u}
+       1        0   {o}-{e}
+       1        0   {o}-{u}
+       1        0   {t}-{c}
+       1        0   {t}-{i}
+       1        0   {t}-{ĩ}
+       1        0   {u}-{n}
+       1        0   {u}-{ũ}
+       1        0   {w}-{D}
+       1        0   {w}-{V}
+       1        0   {w}-{m}
+       1        0   {w}-{u}
+       1        0   {w}-{}
+       1        0   {w}-{ꝙ}
+       1        0   {y}-{v}
+       1        0   {}-{ }
+       1        0   {}-{?}
+       1        0   {}-{i}
+       1        0   {}-{◌᷑}
+
+   Count   Missed   %Right
+      40       12    70.00   {<\n>}
+     270       93    65.56   { }
+       2        2     0.00   {(}
+       2        0   100.00   {)}
+      36       14    61.11   {,}
+      17        9    47.06   {.}
+       1        0   100.00   {0}
+       3        3     0.00   {1}
+       5        4    20.00   {2}
+       3        2    33.33   {3}
+       1        1     0.00   {4}
+       3        3     0.00   {5}
+       1        0   100.00   {6}
+       1        1     0.00   {7}
+       1        1     0.00   {9}
+       2        0   100.00   {:}
+       4        2    50.00   {;}
+       3        2    33.33   {A}
+       9        3    66.67   {C}
+       2        0   100.00   {D}
+       1        0   100.00   {F}
+       4        3    25.00   {I}
+       1        1     0.00   {J}
+       2        2     0.00   {M}
+       1        0   100.00   {N}
+       1        1     0.00   {T}
+       1        0   100.00   {V}
+       1        1     0.00   {Z}
+      80       27    66.25   {a}
+      28       13    53.57   {b}
+      21        9    57.14   {c}
+      45       24    46.67   {d}
+     162       50    69.14   {e}
+      32       14    56.25   {f}
+      17        7    58.82   {g}
+     109       38    65.14   {h}
+      86       28    67.44   {i}
+       5        3    40.00   {k}
+      42       18    57.14   {l}
+      36        9    75.00   {m}
+      73       28    61.64   {n}
+      93       33    64.52   {o}
+      24        7    70.83   {p}
+      71       19    73.24   {r}
+      28        7    75.00   {s}
+     119       37    68.91   {t}
+      21       10    52.38   {u}
+      16        3    81.25   {v}
+      17       15    11.76   {w}
+      33       12    63.64   {y}
+       2        2     0.00   {z}
+      22        9    59.09   {ſ}
+       6        6     0.00   {‑}
+       7        7     0.00   {}
+       2        2     0.00   {}
+       1        1     0.00   {}
+       3        3     0.00   {}
+       1        1     0.00   {ﬀ}
+       4        4     0.00   {ﬁ}

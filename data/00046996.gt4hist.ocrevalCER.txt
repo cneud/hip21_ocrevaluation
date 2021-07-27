@@ -1,0 +1,120 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+     745   Characters
+     226   Errors
+   69.66%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   69.66%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      64       57      105      226   Unmarked
+      64       57      105      226   Total
+
+   Count   Missed   %Right
+       2        0   100.00   Unassigned
+     138       12    91.30   ASCII Spacing Characters
+      27        4    85.19   ASCII Special Symbols
+       1        0   100.00   ASCII Digits
+      38        9    76.32   ASCII Uppercase Letters
+     490       52    89.39   ASCII Lowercase Letters
+       8        3    62.50   Latin Extended-A
+      34       34     0.00   Private Use Area
+       7        7     0.00   Alphabetic Presentation Forms
+     745      121    83.76   Total
+
+  Errors   Marked   Correct-Generated
+      63        0   {}-{Ferner / wie GOtt dieſe...}
+      20        0   {ta nget.<\n>Ferner / ...}-{}
+      15        0   {e GOtt dieſem<\n>L}-{}
+      14        0   { vnnd gram i/}-{.}
+      12        0   {ﬀ}-{ff}
+      10        0   {}-{ſt}
+      10        0   {}-{ck}
+      10        0   {}-{ch}
+       8        0   {}-{ſich}
+       7        0   {n feind}-{}
+       5        0   {Alſo<\n>}-{}
+       5        0   {}-{ }
+       5        0   {}-{floſſ}
+       4        0   {}-{o◌ͤ}
+       4        0   {}-{o◌ͤll}
+       4        0   {}-{u◌ͤ}
+       3        0   {}-{oll}
+       3        0   {er}-{}
+       3        0   {ﬀ}-{◌ͤff}
+       2        0   {II}-{JJ}
+       2        0   {e}-{c}
+       2        0   {ir}-{u◌ͤ}
+       2        0   {l/}-{i⸗}
+       2        0   {}-{ſi}
+       1        0   {I}-{J}
+       1        0   {V}-{ }
+       1        0   {g}-{a}
+       1        0   {g}-{z}
+       1        0   {n}-{g}
+       1        0   {p}-{}
+       1        0   {t}-{l}
+       1        0   {v}-{d}
+       1        0   {z}-{i}
+       1        0   {z}-{j}
+       1        0   {ſ}-{f}
+
+   Count   Missed   %Right
+      24        3    87.50   {<\n>}
+     114        9    92.11   { }
+       7        1    85.71   {.}
+      19        3    84.21   {/}
+       1        0   100.00   {3}
+       1        0   100.00   {:}
+       2        1    50.00   {A}
+       1        0   100.00   {D}
+       1        0   100.00   {E}
+       4        1    75.00   {F}
+       5        1    80.00   {G}
+       3        0   100.00   {H}
+       3        3     0.00   {I}
+       3        0   100.00   {K}
+       3        1    66.67   {L}
+       2        0   100.00   {M}
+       3        1    66.67   {O}
+       4        0   100.00   {S}
+       2        1    50.00   {V}
+       2        0   100.00   {W}
+      33        2    93.94   {a}
+      13        0   100.00   {b}
+      38        3    92.11   {d}
+     109       10    90.83   {e}
+       4        1    75.00   {f}
+      16        4    75.00   {g}
+      11        0   100.00   {h}
+      39        4    89.74   {i}
+       2        0   100.00   {j}
+       1        0   100.00   {k}
+      20        2    90.00   {l}
+      13        2    84.62   {m}
+      57        7    87.72   {n}
+      13        1    92.31   {o}
+       1        1     0.00   {p}
+      44        5    88.64   {r}
+       6        0   100.00   {s}
+      35        5    85.71   {t}
+       8        0   100.00   {u}
+      12        2    83.33   {v}
+      12        1    91.67   {w}
+       3        2    33.33   {z}
+       8        3    62.50   {ſ}
+       2        0   100.00   {⸗}
+       5        5     0.00   {}
+       2        2     0.00   {}
+       8        8     0.00   {}
+       4        4     0.00   {}
+       1        1     0.00   {}
+       5        5     0.00   {}
+       2        2     0.00   {}
+       7        7     0.00   {}
+       7        7     0.00   {ﬀ}

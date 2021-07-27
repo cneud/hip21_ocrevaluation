@@ -1,0 +1,95 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+      60   Words
+      46   Misrecognized
+   23.33%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       3        3     0.00        1
+       1        1     0.00        2
+       2        1    50.00        3
+       6        5    16.67    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       9        9     0.00        1
+       5        4    20.00        2
+      20       14    30.00        3
+       5        4    20.00        4
+       6        4    33.33        5
+       2        2     0.00        6
+       2        0   100.00        7
+       2        2     0.00        8
+       3        2    33.33        9
+      54       41    24.07    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      37       24    35.14        1
+       2        2     0.00        2
+       1        1     0.00        3
+       1        1     0.00       10
+      41       28    31.71    Total
+
+Phrases
+   Count   Missed   %Right   Length
+      60       46    23.33        1
+      59       53    10.17        2
+      58       57     1.72        3
+      57       57     0.00        4
+      56       56     0.00        5
+      55       55     0.00        6
+      54       54     0.00        7
+      53       53     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       3        3     0.00   i
+       1        1     0.00   in
+       1        0   100.00   man
+       1        1     0.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       2        2     0.00   1
+       1        1     0.00   5
+       1        1     0.00   8
+       1        1     0.00   adts
+       1        1     0.00   anno
+       1        0   100.00   ber
+       1        1     0.00   beri
+       1        0   100.00   bin
+       1        1     0.00   denno
+       1        0   100.00   die
+       1        0   100.00   dieſer
+       1        1     0.00   dr
+       1        1     0.00   dur
+       1        0   100.00   ein
+       1        1     0.00   freybergk
+       1        1     0.00   gedru
+       1        1     0.00   georgium
+       1        1     0.00   glei
+       1        1     0.00   gſagt
+       1        1     0.00   h
+       1        0   100.00   hab
+       1        1     0.00   hoﬀman
+       1        0   100.00   klagt
+       1        0   100.00   kleid
+       1        0   100.00   mit
+       1        1     0.00   ni
+       1        0   100.00   ob
+       1        1     0.00   riﬀt
+       1        1     0.00   s
+       1        1     0.00   simon
+       3        3     0.00   t
+       1        1     0.00   tters
+       1        0   100.00   verdienen
+       1        1     0.00   verlegung
+       1        0   100.00   warheit
+       1        0   100.00   werd
+       1        1     0.00   zu
+       1        1     0.00   ſ
+       2        2     0.00   
+       1        1     0.00   
+      10       10     0.00   

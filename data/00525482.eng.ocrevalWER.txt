@@ -1,0 +1,168 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     295   Words
+      95   Misrecognized
+   67.80%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+      14       10    28.57        1
+      44       15    65.91        2
+      42       11    73.81        3
+      53        5    90.57        4
+      12        0   100.00        5
+     165       41    75.15    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       7        5    28.57        2
+      19       10    47.37        3
+      20        5    75.00        4
+      34       10    70.59        5
+      12        2    83.33        6
+      12        6    50.00        7
+      10        8    20.00        8
+       7        1    85.71        9
+       3        3     0.00       10
+       6        4    33.33       11
+     130       54    58.46    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      42       19    54.76        1
+      14        2    85.71        2
+       7        3    57.14        3
+       1        1     0.00        4
+       1        1     0.00        5
+       2        1    50.00        6
+       1        0   100.00      >10
+      68       27    60.29    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     295       95    67.80        1
+     294      137    53.40        2
+     293      167    43.00        3
+     292      189    35.27        4
+     291      205    29.55        5
+     290      219    24.48        6
+     289      230    20.42        7
+     288      238    17.36        8
+
+Stopwords
+   Count   Missed   %Right   
+      14       10    28.57   a
+       1        0   100.00   all
+       5        1    80.00   and
+       1        0   100.00   are
+       1        0   100.00   as
+       1        0   100.00   at
+       8        5    37.50   be
+       6        2    66.67   but
+       1        0   100.00   can
+       1        0   100.00   could
+       2        1    50.00   did
+       1        0   100.00   do
+       2        0   100.00   for
+       6        1    83.33   from
+       5        0   100.00   good
+       2        2     0.00   had
+       2        1    50.00   he
+       2        0   100.00   him
+       1        0   100.00   how
+       3        0   100.00   if
+       1        0   100.00   in
+       6        2    66.67   is
+       4        1    75.00   it
+       2        0   100.00   made
+       1        0   100.00   make
+       1        1     0.00   me
+       3        1    66.67   no
+       1        0   100.00   not
+       2        0   100.00   now
+       3        1    66.67   of
+       1        1     0.00   one
+       1        0   100.00   other
+       9        1    88.89   that
+      11        2    81.82   the
+       2        0   100.00   them
+      15        2    86.67   they
+      10        3    70.00   to
+       3        2    33.33   was
+       5        0   100.00   were
+       2        0   100.00   what
+       3        0   100.00   when
+      10        0   100.00   which
+       1        0   100.00   who
+       3        1    66.67   with
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   10
+       1        0   100.00   22
+       1        1     0.00   42
+       2        0   100.00   accompanied
+       3        0   100.00   again
+       1        0   100.00   alexander
+       1        0   100.00   appeared
+       3        0   100.00   away
+       1        0   100.00   brings
+       1        1     0.00   c.ſo
+       1        0   100.00   cannot
+       1        1     0.00   cauſe
+       1        0   100.00   contrary
+       1        1     0.00   conſci
+       4        4     0.00   conſcience
+       1        0   100.00   dea
+       2        0   100.00   delivered
+       1        1     0.00   denyed
+       2        0   100.00   depart
+       1        0   100.00   departing
+       1        1     0.00   di
+       1        1     0.00   emblers
+       1        0   100.00   ence
+       1        0   100.00   exhorts
+      18        2    88.89   faith
+       1        0   100.00   fall
+       1        0   100.00   fallen
+       1        0   100.00   falling
+       2        0   100.00   fell
+       3        0   100.00   god
+       2        0   100.00   having
+       1        0   100.00   heb
+       1        1     0.00   hemeneus
+       2        0   100.00   hold
+       2        0   100.00   holding
+       1        0   100.00   indeed
+       1        0   100.00   ling
+       2        0   100.00   living
+       3        3     0.00   mu
+       1        0   100.00   needs
+       2        1    50.00   never
+       1        0   100.00   none
+       2        2     0.00   ood
+       1        1     0.00   paradox
+       1        0   100.00   paul
+       1        1     0.00   perſons
+       1        0   100.00   plainly
+       3        0   100.00   put
+       1        1     0.00   reaſon
+       2        0   100.00   satan
+       2        0   100.00   therefore
+       1        0   100.00   timothy
+       1        1     0.00   touching
+       1        1     0.00   treatiſe
+       6        3    50.00   true
+       2        1    50.00   viz
+       1        0   100.00   wrong
+       1        1     0.00   ſaid
+       3        3     0.00   ſame
+       1        1     0.00   ſay
+       1        1     0.00   ſee
+       1        1     0.00   ſeemed
+       5        5     0.00   ſeeming
+       3        3     0.00   ſhipwrack
+       2        2     0.00   ſome
+       1        1     0.00   ſurely
+       6        6     0.00   
+       1        1     0.00   

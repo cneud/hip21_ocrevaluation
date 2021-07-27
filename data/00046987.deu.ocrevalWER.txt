@@ -1,0 +1,180 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     215   Words
+     147   Misrecognized
+   31.63%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       5        5     0.00        1
+       2        1    50.00        2
+       1        0   100.00        3
+       8        6    25.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      19       18     5.26        1
+      25       23     8.00        2
+      99       68    31.31        3
+      25       14    44.00        4
+      13        9    30.77        5
+      11        2    81.82        6
+       3        3     0.00        7
+       7        1    85.71        8
+       2        2     0.00        9
+       1        0   100.00       10
+       1        1     0.00       11
+       1        0   100.00       12
+     207      141    31.88    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      88       53    39.77        1
+      14        8    42.86        2
+       6        2    66.67        3
+       4        4     0.00        4
+       2        1    50.00        5
+       2        2     0.00        8
+       1        0   100.00        9
+       1        1     0.00      >10
+     118       71    39.83    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     215      147    31.63        1
+     214      183    14.49        2
+     213      195     8.45        3
+     212      201     5.19        4
+     211      204     3.32        5
+     210      205     2.38        6
+     209      205     1.91        7
+     208      205     1.44        8
+
+Stopwords
+   Count   Missed   %Right   
+       3        3     0.00   a
+       1        0   100.00   an
+       2        2     0.00   i
+       1        0   100.00   was
+       1        1     0.00   we
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   als
+       1        1     0.00   andt
+       1        1     0.00   andﬂe
+       2        2     0.00   au
+       1        1     0.00   auﬀ
+       1        1     0.00   chri
+       3        0   100.00   das
+       3        2    33.33   den
+       1        1     0.00   denn
+       1        0   100.00   derwegen
+       5        0   100.00   die
+       1        0   100.00   drey
+       2        0   100.00   dung
+       8        8     0.00   e
+       1        0   100.00   ehe
+       1        0   100.00   ehren
+       2        0   100.00   ein
+       1        1     0.00   eine
+       1        1     0.00   el
+       1        1     0.00   eltern
+       1        1     0.00   em
+       4        4     0.00   en
+       1        1     0.00   endli
+       1        0   100.00   engelten
+       1        1     0.00   ens
+       3        3     0.00   er
+       1        0   100.00   erhalten
+       1        1     0.00   erkrimmen
+       1        1     0.00   es
+       2        2     0.00   et
+       1        0   100.00   fromme
+       3        2    33.33   gen
+       1        1     0.00   ger
+       1        0   100.00   gerig
+       2        2     0.00   geſ
+       1        0   100.00   gibts
+       1        0   100.00   gleubige
+       1        1     0.00   glu
+       1        1     0.00   gottf
+       1        0   100.00   gut
+       1        0   100.00   halben
+       1        0   100.00   haußhaltung
+       1        1     0.00   helﬀen
+       1        1     0.00   henne
+       1        1     0.00   hie
+       1        1     0.00   hoﬀarth
+       1        1     0.00   hun
+       1        0   100.00   hunger
+       1        1     0.00   jhr
+       1        0   100.00   jnen
+       1        1     0.00   jrer
+       1        1     0.00   jun
+       1        1     0.00   k
+       1        0   100.00   kinder
+       2        0   100.00   klei
+       1        1     0.00   kra
+       1        1     0.00   la
+       1        0   100.00   legen
+       1        1     0.00   lei
+       1        0   100.00   leidet
+       1        1     0.00   leut
+       1        1     0.00   li
+       1        1     0.00   lo
+       1        1     0.00   m
+       1        0   100.00   meiden
+       1        0   100.00   mit
+       1        1     0.00   mu
+       1        0   100.00   na
+       1        0   100.00   narung
+       1        1     0.00   nd
+       1        0   100.00   nen
+       2        2     0.00   ni
+       2        0   100.00   nur
+       1        0   100.00   o
+       1        0   100.00   oder
+       2        2     0.00   oﬀt
+       1        1     0.00   pra
+       1        1     0.00   pre
+       1        1     0.00   r
+       1        1     0.00   rc
+       1        1     0.00   rnlin
+       2        2     0.00   s
+       5        5     0.00   t
+       1        1     0.00   tern
+       1        1     0.00   tfertigkeit
+       2        0   100.00   thun
+       2        2     0.00   tige
+       1        0   100.00   trewen
+       1        1     0.00   trewli
+       1        1     0.00   tur
+       1        1     0.00   vbel
+       1        0   100.00   verſorgen
+       1        0   100.00   vierdten
+       9        1    88.89   vnd
+       1        1     0.00   vnnd
+       1        0   100.00   werd
+       1        1     0.00   wider
+       1        0   100.00   widerumb
+       2        0   100.00   wie
+       1        0   100.00   wo
+       1        1     0.00   zimli
+       1        0   100.00   zum
+       1        0   100.00   zwey
+       1        1     0.00   ſ
+       1        0   100.00   ſelbs
+       3        2    33.33   ſo
+       1        1     0.00   ſol
+       1        1     0.00   
+       4        4     0.00   
+       3        3     0.00   
+       8        8     0.00   
+       2        2     0.00   
+       4        4     0.00   
+       1        1     0.00   
+       4        4     0.00   
+      22       22     0.00   
+       1        1     0.00   ﬁndet
+       1        1     0.00   ﬂeiß

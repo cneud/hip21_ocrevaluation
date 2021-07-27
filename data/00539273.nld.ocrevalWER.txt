@@ -1,0 +1,141 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     117   Words
+      33   Misrecognized
+   71.79%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       5        4    20.00        1
+       1        0   100.00        2
+       6        4    33.33    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      22       12    45.45        1
+      14        4    71.43        2
+      19        6    68.42        3
+       9        3    66.67        4
+      11        1    90.91        5
+       8        1    87.50        6
+       9        1    88.89        7
+       4        0   100.00        8
+       7        0   100.00        9
+       4        1    75.00       10
+       3        0   100.00       12
+       1        0   100.00       14
+     111       29    73.87    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      74       15    79.73        1
+       6        2    66.67        2
+       3        0   100.00        3
+       2        0   100.00        5
+       1        0   100.00        6
+      86       17    80.23    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     117       33    71.79        1
+     116       50    56.90        2
+     115       62    46.09        3
+     114       70    38.60        4
+     113       77    31.86        5
+     112       83    25.89        6
+     111       87    21.62        7
+     110       91    17.27        8
+
+Stopwords
+   Count   Missed   %Right   
+       5        4    20.00   a
+       1        0   100.00   in
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   aan
+       1        0   100.00   aangaande
+       1        0   100.00   alethophilus
+       1        1     0.00   am
+       1        0   100.00   arrenberg
+       1        0   100.00   bekoomen
+       1        0   100.00   bij
+       1        1     0.00   blusſ
+       1        0   100.00   bonden
+       1        0   100.00   bosch
+       1        0   100.00   bothal
+       1        0   100.00   bouvink
+       1        0   100.00   brieven
+       1        0   100.00   brink
+       1        0   100.00   broeder
+       1        0   100.00   bruyn
+       1        0   100.00   burg
+       2        1    50.00   d
+       1        0   100.00   damme
+       5        1    80.00   de
+       3        0   100.00   den
+       1        0   100.00   dordrecht
+       1        0   100.00   eerwaardigen
+       2        0   100.00   en
+       1        0   100.00   enz
+       1        1     0.00   erdam
+       1        1     0.00   f
+       1        1     0.00   gillisſen
+       1        0   100.00   godlijke
+       1        0   100.00   groningen
+       1        0   100.00   gz
+       2        0   100.00   h
+       1        0   100.00   hage
+       1        1     0.00   hart
+       2        0   100.00   heere
+       1        0   100.00   herding
+       1        1     0.00   honkoop
+       1        0   100.00   huizingh
+       6        5    16.67   j
+       1        0   100.00   keel
+       1        0   100.00   kerk
+       1        0   100.00   keyzer
+       1        0   100.00   kinderdoop
+       1        0   100.00   klis
+       1        1     0.00   lee
+       1        0   100.00   leere
+       1        0   100.00   leyden
+       1        0   100.00   luchtmans
+       1        0   100.00   luzac
+       1        1     0.00   m
+       1        1     0.00   men
+       1        0   100.00   middelburg
+       1        1     0.00   n
+       2        2     0.00   ng
+       1        0   100.00   otterloo
+       1        0   100.00   paddenburg
+       1        0   100.00   pallier
+       1        0   100.00   philadelphus
+       1        1     0.00   pols
+       1        0   100.00   predikant
+       1        0   100.00   rotterdam
+       3        0   100.00   s
+       3        0   100.00   te
+       1        0   100.00   tegen
+       1        0   100.00   ten
+       1        0   100.00   ter
+       1        0   100.00   thierry
+       1        0   100.00   utrecht
+       5        3    40.00   v
+       1        0   100.00   van
+       1        0   100.00   ver
+       1        0   100.00   verantwoording
+       1        0   100.00   vis
+       1        0   100.00   visch
+       1        0   100.00   w
+       1        0   100.00   waal
+       1        0   100.00   wed
+       1        0   100.00   wel
+       1        1     0.00   wes
+       1        0   100.00   wetter
+       1        0   100.00   wynants
+       1        0   100.00   zijnen
+       1        0   100.00   zijner
+       1        1     0.00   zoon
+       1        1     0.00   
+       2        2     0.00   

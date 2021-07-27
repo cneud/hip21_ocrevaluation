@@ -1,0 +1,10 @@
+{
+    "gt": "/home/cnd/tmp/dev/ocr_eval_paper/impact/00525441.gt.xml",
+    "ocr": "/home/cnd/tmp/dev/ocr_eval_paper/impact/00525441.eng.xml",
+
+    "cer": 0.21045918367346939,
+    "wer": 0.36764705882352944,
+
+    "n_characters": 784,
+    "n_words": 136
+}

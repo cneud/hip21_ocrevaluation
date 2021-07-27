@@ -1,0 +1,183 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     225   Words
+     127   Misrecognized
+   43.56%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       6        6     0.00        1
+       4        3    25.00        2
+       2        0   100.00        3
+      12        9    25.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      11       11     0.00        1
+      32       26    18.75        2
+      92       54    41.30        3
+      21        9    57.14        4
+      19        4    78.95        5
+      19        7    63.16        6
+       7        2    71.43        7
+       2        2     0.00        8
+       4        2    50.00        9
+       4        1    75.00       10
+       1        0   100.00       11
+       1        0   100.00       14
+     213      118    44.60    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      85       35    58.82        1
+      18       11    38.89        2
+       6        1    83.33        3
+       1        0   100.00        4
+       4        2    50.00        5
+       3        2    33.33        6
+       2        1    50.00      >10
+     119       52    56.30    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     225      127    43.56        1
+     224      161    28.12        2
+     223      180    19.28        3
+     222      193    13.06        4
+     221      202     8.60        5
+     220      209     5.00        6
+     219      213     2.74        7
+     218      215     1.38        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        2     0.00   a
+       1        1     0.00   do
+       4        4     0.00   i
+       1        0   100.00   in
+       1        0   100.00   man
+       1        1     0.00   no
+       1        1     0.00   on
+       1        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   144
+       1        0   100.00   50
+       1        1     0.00   au
+       1        0   100.00   ausgehawen
+       1        1     0.00   auﬀ
+       1        0   100.00   bareth
+       1        0   100.00   behen
+       1        0   100.00   claretlein
+       3        1    66.67   da
+       1        1     0.00   damaſ
+       1        0   100.00   darzu
+       3        0   100.00   das
+       1        0   100.00   dauon
+       1        0   100.00   dem
+       3        1    66.67   den
+       3        0   100.00   denn
+       2        0   100.00   der
+       5        1    80.00   die
+       1        1     0.00   dieſe
+       1        1     0.00   e
+       2        2     0.00   edli
+       1        1     0.00   ehet
+       1        0   100.00   ehr
+       1        1     0.00   ehrenkleid
+       1        0   100.00   ei
+       6        1    83.33   ein
+       1        0   100.00   eine
+       1        0   100.00   einen
+       2        0   100.00   einer
+       1        0   100.00   eines
+       2        2     0.00   en
+       5        4    20.00   er
+       2        1    50.00   erbar
+       1        1     0.00   erehren
+       3        2    33.33   es
+       2        2     0.00   et
+       1        1     0.00   f
+       1        0   100.00   fraw
+       2        2     0.00   g
+       2        2     0.00   ge
+       1        1     0.00   geborget
+       1        1     0.00   gelt
+       1        1     0.00   gen
+       1        0   100.00   gerne
+       1        0   100.00   gold
+       1        0   100.00   goldt
+       1        0   100.00   hat
+       1        0   100.00   haußnarung
+       1        0   100.00   herein
+       1        1     0.00   hoﬀarth
+       1        1     0.00   item
+       1        0   100.00   kan
+       1        0   100.00   ketten
+       1        0   100.00   kinder
+       1        0   100.00   kleid
+       1        0   100.00   kleiden
+       1        0   100.00   kleinen
+       1        1     0.00   krahmbude
+       1        0   100.00   kramer
+       1        1     0.00   l
+       1        1     0.00   lden
+       1        1     0.00   ldene
+       2        2     0.00   ldig
+       2        2     0.00   le
+       1        0   100.00   lebendigen
+       1        0   100.00   leuten
+       1        1     0.00   m
+       1        0   100.00   mantel
+       1        0   100.00   mehr
+       1        0   100.00   mit
+       1        1     0.00   ner
+       2        2     0.00   ni
+       1        1     0.00   niemands
+       1        1     0.00   nun
+       1        0   100.00   purpurfrewlein
+       1        0   100.00   pſalm
+       1        1     0.00   pﬂug
+       1        1     0.00   r
+       1        0   100.00   redet
+       1        1     0.00   riﬀte
+       1        1     0.00   ro
+       1        0   100.00   ruhm
+       1        1     0.00   s
+       2        1    50.00   sammet
+       1        0   100.00   seiden
+       1        0   100.00   stande
+       3        3     0.00   t
+       1        1     0.00   ten
+       2        1    50.00   tregt
+       1        0   100.00   tretten
+       1        0   100.00   ver
+       1        1     0.00   verm
+       1        0   100.00   verzehren
+      14        5    64.29   vnd
+       1        0   100.00   von
+       1        0   100.00   weib
+       2        0   100.00   wenn
+       1        1     0.00   wi
+       4        0   100.00   wie
+       1        0   100.00   wil
+       1        1     0.00   ziemet
+       6        6     0.00   ſ
+       1        1     0.00   ſagen
+       1        0   100.00   ſehen
+       2        0   100.00   ſein
+       1        1     0.00   ſeine
+       1        0   100.00   ſeinen
+       1        0   100.00   ſeiner
+       1        0   100.00   ſeinigen
+       1        0   100.00   ſo
+       1        0   100.00   ſol
+       2        2     0.00   
+       5        5     0.00   
+       6        6     0.00   
+       2        2     0.00   
+       2        2     0.00   
+       5        5     0.00   
+       1        1     0.00   
+      18       18     0.00   

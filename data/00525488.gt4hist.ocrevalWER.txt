@@ -1,0 +1,174 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     206   Words
+      79   Misrecognized
+   61.65%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        3    25.00        1
+      26        5    80.77        2
+      41        8    80.49        3
+      17        2    88.24        4
+       7        1    85.71        5
+      95       19    80.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       6        6     0.00        1
+       6        5    16.67        2
+      22       17    22.73        3
+      31       12    61.29        4
+      14        9    35.71        5
+      14        4    71.43        6
+       3        1    66.67        7
+       9        5    44.44        8
+       5        1    80.00        9
+       1        0   100.00       13
+     111       60    45.95    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      77       36    53.25        1
+      14        8    42.86        2
+       2        1    50.00        3
+      93       45    51.61    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     206       79    61.65        1
+     205      109    46.83        2
+     204      136    33.33        3
+     203      154    24.14        4
+     202      166    17.82        5
+     201      176    12.44        6
+     200      184     8.00        7
+     199      188     5.53        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       1        0   100.00   after
+       1        0   100.00   all
+      10        1    90.00   and
+       1        0   100.00   as
+       2        0   100.00   be
+       2        0   100.00   but
+       5        1    80.00   do
+       1        0   100.00   good
+       2        0   100.00   have
+       3        0   100.00   his
+       3        2    33.33   i
+       2        1    50.00   if
+       2        1    50.00   in
+       2        0   100.00   may
+       3        1    66.67   not
+       1        1     0.00   now
+       7        1    85.71   of
+       1        0   100.00   or
+       3        0   100.00   out
+       4        0   100.00   that
+      16        5    68.75   the
+       4        1    75.00   their
+       2        0   100.00   them
+       3        1    66.67   they
+       1        0   100.00   this
+       6        1    83.33   to
+       2        0   100.00   which
+       4        1    75.00   will
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   0.26
+       1        1     0.00   10
+       2        2     0.00   2
+       1        1     0.00   3.5
+       2        2     0.00   32
+       1        1     0.00   4.8
+       1        1     0.00   48
+       1        0   100.00   angels
+       1        0   100.00   appearing
+       1        0   100.00   ary
+       1        0   100.00   away
+       1        0   100.00   ballance
+       2        1    50.00   before
+       1        0   100.00   believers
+       1        1     0.00   bility
+       1        1     0.00   blene
+       1        0   100.00   blot
+       1        0   100.00   blotted
+       1        0   100.00   book
+       1        0   100.00   cannot
+       1        1     0.00   chri
+       1        0   100.00   city
+       1        0   100.00   come
+       1        1     0.00   confe
+       1        0   100.00   courſe
+       2        2     0.00   crown
+       1        0   100.00   death
+       1        0   100.00   deceived
+       2        2     0.00   e
+       1        0   100.00   end
+       1        1     0.00   exo
+       1        0   100.00   faith
+       1        1     0.00   faithful
+       2        0   100.00   fall
+       1        0   100.00   father
+       1        0   100.00   fully
+       2        1    50.00   give
+       1        1     0.00   god
+       1        1     0.00   heb
+       1        1     0.00   heed
+       1        0   100.00   holy
+       1        1     0.00   keep
+       1        0   100.00   labour
+       1        1     0.00   leave
+       3        2    33.33   life
+       1        0   100.00   love
+       1        0   100.00   means
+       1        1     0.00   n
+       2        1    50.00   name
+       1        0   100.00   obtaining
+       1        0   100.00   overcome
+       1        0   100.00   part
+       1        0   100.00   perſeverance
+       1        1     0.00   po
+       1        1     0.00   proﬁta
+       1        0   100.00   reader
+       1        0   100.00   reaſons
+       2        2     0.00   rev
+       1        1     0.00   rine
+       1        1     0.00   rive
+       1        0   100.00   saints
+       1        0   100.00   take
+       1        1     0.00   taken
+       1        1     0.00   thee
+       1        0   100.00   therefore
+       1        0   100.00   theſe
+       1        0   100.00   thou
+       1        0   100.00   thoſe
+       1        1     0.00   tim
+       1        1     0.00   touching
+       1        1     0.00   treatiſe
+       1        1     0.00   u
+       1        0   100.00   un
+       1        0   100.00   unbia
+       1        0   100.00   unto
+       2        0   100.00   uſe
+       1        1     0.00   weigh
+       1        0   100.00   wil
+       1        0   100.00   ſaith
+       1        1     0.00   ſan
+       1        0   100.00   ſed
+       1        1     0.00   ſerious
+       1        1     0.00   ſhal
+       1        1     0.00   ſhew
+       2        0   100.00   ſo
+       1        1     0.00   ſpirit
+       3        3     0.00   
+       1        1     0.00   
+       2        2     0.00   
+       1        1     0.00   
+       2        2     0.00   
+       2        2     0.00   ﬁght
+       1        1     0.00   ﬁniſh

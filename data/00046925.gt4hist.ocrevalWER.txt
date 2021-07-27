@@ -1,0 +1,180 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     210   Words
+     153   Misrecognized
+   27.14%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       7        7     0.00        1
+       2        1    50.00        2
+       1        0   100.00        3
+      10        8    20.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      13       13     0.00        1
+      27       25     7.41        2
+      95       63    33.68        3
+      21       14    33.33        4
+      16       11    31.25        5
+      15       10    33.33        6
+       4        4     0.00        7
+       5        2    60.00        8
+       1        1     0.00        9
+       1        1     0.00       10
+       1        0   100.00       11
+       1        1     0.00       12
+     200      145    27.50    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      88       63    28.41        1
+      13        6    53.85        2
+       5        5     0.00        3
+       5        3    40.00        4
+       1        1     0.00        5
+       2        0   100.00        6
+       1        1     0.00        8
+       1        0   100.00       10
+       1        1     0.00      >10
+     117       80    31.62    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     210      153    27.14        1
+     209      177    15.31        2
+     208      189     9.13        3
+     207      197     4.83        4
+     206      200     2.91        5
+     205      201     1.95        6
+     204      202     0.98        7
+     203      203     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       4        4     0.00   a
+       1        1     0.00   he
+       3        3     0.00   i
+       1        0   100.00   in
+       1        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   abhelﬀen
+       1        1     0.00   abkni
+       1        1     0.00   abw
+       1        1     0.00   abſ
+       1        0   100.00   ander
+       1        0   100.00   andern
+       1        1     0.00   anfe
+       1        0   100.00   anhengig
+       1        1     0.00   au
+       1        1     0.00   auﬀ
+       1        1     0.00   auﬀenthalt
+       1        1     0.00   auﬀſe
+       1        0   100.00   begierde
+       2        1    50.00   bis
+       1        1     0.00   boſe
+       1        1     0.00   c
+       1        0   100.00   da
+       1        1     0.00   dardur
+       1        1     0.00   darf
+       2        1    50.00   darumb
+       1        1     0.00   das
+       1        0   100.00   dem
+       2        0   100.00   den
+       2        1    50.00   denn
+       6        0   100.00   der
+       1        0   100.00   derſelbige
+       4        1    75.00   die
+       1        1     0.00   dieweil
+       1        1     0.00   dieſe
+       1        1     0.00   ding
+       1        0   100.00   dung
+       1        1     0.00   dur
+       3        3     0.00   e
+       1        1     0.00   ei
+       2        2     0.00   ein
+       1        0   100.00   eins
+       5        5     0.00   en
+       2        2     0.00   er
+       1        0   100.00   erden
+       3        3     0.00   es
+       1        1     0.00   fa
+       1        1     0.00   fro
+       1        0   100.00   gar
+       1        1     0.00   ge
+       1        1     0.00   geben
+       1        1     0.00   gefa
+       1        1     0.00   gere
+       1        1     0.00   geſe
+       2        1    50.00   gott
+       1        1     0.00   haben
+       4        2    50.00   hat
+       1        1     0.00   hi
+       1        0   100.00   hunger
+       1        1     0.00   ig
+       2        1    50.00   im
+       1        1     0.00   kan
+       2        0   100.00   kelte
+       1        0   100.00   klei
+       1        1     0.00   kleidung
+       1        1     0.00   konnen
+       1        0   100.00   kummer
+       1        1     0.00   lang
+       1        0   100.00   leben
+       1        1     0.00   lieferung
+       1        0   100.00   mal
+       2        2     0.00   menſ
+       1        0   100.00   mit
+       1        1     0.00   nden
+       1        1     0.00   ne
+       2        2     0.00   nee
+       1        1     0.00   neiden
+       3        3     0.00   ni
+       1        1     0.00   ntemal
+       1        1     0.00   r
+       1        1     0.00   rc
+       1        1     0.00   rei
+       1        1     0.00   rge
+       1        1     0.00   ritten
+       3        3     0.00   s
+       1        1     0.00   soldt
+       1        1     0.00   sommer
+       1        1     0.00   sondern
+       4        4     0.00   t
+       1        0   100.00   ter
+       1        1     0.00   tigkeit
+       1        0   100.00   tode
+       1        0   100.00   todt
+       1        1     0.00   tunge
+       1        1     0.00   uld
+       1        1     0.00   unge
+       1        1     0.00   vberſ
+       1        0   100.00   verloren
+       1        0   100.00   vmb
+      10        2    80.00   vnd
+       1        1     0.00   vngewit
+       6        4    33.33   vns
+       1        1     0.00   vnſ
+       1        1     0.00   w
+       1        1     0.00   weiß
+       1        1     0.00   werden
+       2        2     0.00   wi
+       1        1     0.00   wil
+       1        0   100.00   winter
+       1        0   100.00   wir
+       1        1     0.00   ziel
+       1        1     0.00   zude
+       1        0   100.00   zum
+       1        1     0.00   ſ
+       1        1     0.00   ſo
+       1        1     0.00   
+       3        3     0.00   
+       4        4     0.00   
+       1        1     0.00   
+       2        2     0.00   
+       4        4     0.00   
+       8        8     0.00   
+      16       16     0.00   

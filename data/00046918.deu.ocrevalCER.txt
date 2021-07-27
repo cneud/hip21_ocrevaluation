@@ -1,0 +1,126 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+     850   Characters
+     136   Errors
+   84.00%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   84.00%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+       7       91       38      136   Unmarked
+       7       91       38      136   Total
+
+   Count   Missed   %Right
+      10       10     0.00   Unassigned
+     155        4    97.42   ASCII Spacing Characters
+      22        1    95.45   ASCII Special Symbols
+      24        1    95.83   ASCII Uppercase Letters
+     573       28    95.11   ASCII Lowercase Letters
+       1        0   100.00   Latin1 Lowercase Letters
+      15        4    73.33   Latin Extended-A
+      49       49     0.00   Private Use Area
+       1        1     0.00   Alphabetic Presentation Forms
+     850       98    88.47   Total
+
+  Errors   Marked   Correct-Generated
+      46        0   {}-{ch}
+       6        0   {}-{ü}
+       4        0   {mna}-{ach}
+       4        0   {⸗}-{s}
+       4        0   {}-{ſt}
+       4        0   {}-{ck}
+       4        0   {}-{ll}
+       4        0   {}-{chſi}
+       3        0   {iud}-{we}
+       3        0   {mel}-{inc}
+       3        0   {ſ}-{[ch}
+       3        0   {⸗}-{-}
+       3        0   {e}-{ſtc}
+       2        0   { m}-{tn}
+       2        0   { }-{}
+       2        0   {el}-{ci}
+       2        0   {e}-{a}
+       2        0   {i⸗}-{l-}
+       2        0   {k}-{fü}
+       2        0   {v}-{o}
+       2        0   {ſ}-{f}
+       2        0   {}-{ſi}
+       2        0   {}-{ſſ}
+       2        0   {}-{c>}
+       2        0   {}-{ek}
+       2        0   {ﬂ}-{fl}
+       1        0   {.}-{,}
+       1        0   {<\n>}-{}
+       1        0   {V}-{W}
+       1        0   {b}-{k}
+       1        0   {d}-{P}
+       1        0   {f}-{F}
+       1        0   {i}-{h}
+       1        0   {j}-{I}
+       1        0   {k}-{F}
+       1        0   {m}-{n}
+       1        0   {r}-{e}
+       1        0   {v}-{e}
+       1        0   {ſ}-{}
+       1        0   {⸗}-{?}
+       1        0   {⸗}-{}
+       1        0   {}-{ä}
+       1        0   {}-{f}
+       1        0   {}-{K}
+       1        0   {}-{B}
+
+   Count   Missed   %Right
+      26        1    96.15   {<\n>}
+     129        3    97.67   { }
+       3        1    66.67   {.}
+      19        0   100.00   {/}
+       1        0   100.00   {A}
+       4        0   100.00   {D}
+       1        0   100.00   {G}
+       1        0   100.00   {H}
+       3        0   100.00   {K}
+       1        0   100.00   {M}
+       2        0   100.00   {P}
+       2        0   100.00   {S}
+       5        0   100.00   {T}
+       1        1     0.00   {V}
+       3        0   100.00   {W}
+      24        1    95.83   {a}
+      10        1    90.00   {b}
+       1        0   100.00   {c}
+      36        2    94.44   {d}
+     126        5    96.03   {e}
+       5        1    80.00   {f}
+      21        0   100.00   {g}
+      11        0   100.00   {h}
+      54        3    94.44   {i}
+       3        1    66.67   {j}
+       3        2    33.33   {k}
+      17        2    88.24   {l}
+      16        4    75.00   {m}
+      90        1    98.89   {n}
+      13        0   100.00   {o}
+       2        0   100.00   {p}
+      42        1    97.62   {r}
+      16        0   100.00   {s}
+      25        0   100.00   {t}
+      21        1    95.24   {u}
+      18        3    83.33   {v}
+      15        0   100.00   {w}
+       4        0   100.00   {z}
+       1        0   100.00   {ß}
+      15        4    73.33   {ſ}
+      10       10     0.00   {⸗}
+       8        8     0.00   {}
+       6        6     0.00   {}
+       1        1     0.00   {}
+       4        4     0.00   {}
+       1        1     0.00   {}
+       2        2     0.00   {}
+      27       27     0.00   {}
+       1        1     0.00   {ﬂ}

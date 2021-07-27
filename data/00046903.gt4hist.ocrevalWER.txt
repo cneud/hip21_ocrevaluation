@@ -1,0 +1,108 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+      73   Words
+      39   Misrecognized
+   46.58%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        2     0.00        1
+       1        0   100.00        2
+       1        1     0.00        3
+       4        3    25.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      11        5    54.55        1
+       7        4    42.86        2
+      20       13    35.00        3
+       5        4    20.00        4
+       8        2    75.00        5
+       7        4    42.86        6
+       6        1    83.33        7
+       3        1    66.67        8
+       1        1     0.00        9
+       1        1     0.00       10
+      69       36    47.83    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      44       21    52.27        1
+       5        2    60.00        2
+       3        3     0.00        3
+       1        0   100.00        6
+      53       26    50.94    Total
+
+Phrases
+   Count   Missed   %Right   Length
+      73       39    46.58        1
+      72       48    33.33        2
+      71       55    22.54        3
+      70       59    15.71        4
+      69       62    10.14        5
+      68       62     8.82        6
+      67       62     7.46        7
+      66       62     6.06        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       1        1     0.00   i
+       1        0   100.00   in
+       1        1     0.00   new
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   1580
+       1        1     0.00   adt
+       1        1     0.00   alte
+       1        0   100.00   alſo
+       2        0   100.00   am
+       1        0   100.00   annemen
+       1        1     0.00   befohlen
+       1        0   100.00   bleiben
+       1        0   100.00   datum
+       2        2     0.00   der
+       1        0   100.00   des
+       1        0   100.00   dieſes
+       1        0   100.00   digen
+       6        2    66.67   e
+       1        1     0.00   ehrenhold
+       1        1     0.00   el
+       1        1     0.00   erbergenſ
+       1        0   100.00   erkennen
+       1        1     0.00   es
+       1        1     0.00   geſ
+       1        0   100.00   gne
+       1        0   100.00   gottes
+       1        0   100.00   guter
+       1        0   100.00   hen
+       1        0   100.00   hiemit
+       1        1     0.00   iger
+       1        1     0.00   iubila
+       1        0   100.00   jahrs
+       1        0   100.00   johannes
+       1        0   100.00   meinung
+       1        0   100.00   mir
+       1        1     0.00   neberg
+       1        1     0.00   preiß
+       2        2     0.00   s
+       1        1     0.00   sager
+       1        0   100.00   sontag
+       1        0   100.00   strauß
+       1        0   100.00   te
+       1        1     0.00   tugend
+       1        1     0.00   u
+       2        0   100.00   v
+       2        0   100.00   vnd
+       1        0   100.00   vnnd
+       1        0   100.00   von
+       1        1     0.00   vorrede
+       1        1     0.00   wi
+       1        1     0.00   wo
+       1        0   100.00   ſein
+       1        1     0.00   ſold
+       3        3     0.00   
+       1        1     0.00   
+       3        3     0.00   
+       3        3     0.00   

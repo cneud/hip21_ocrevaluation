@@ -1,0 +1,183 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     236   Words
+     128   Misrecognized
+   45.76%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       7        7     0.00        1
+       5        1    80.00        2
+       6        0   100.00        3
+       1        0   100.00        4
+      19        8    57.89    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      24       24     0.00        1
+      27       19    29.63        2
+      97       52    46.39        3
+      24        7    70.83        4
+      16        3    81.25        5
+      13        4    69.23        6
+       6        4    33.33        7
+       6        4    33.33        8
+       3        3     0.00        9
+       1        0   100.00       11
+     217      120    44.70    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      84       42    50.00        1
+      17        5    70.59        2
+       6        3    50.00        3
+       4        4     0.00        4
+       2        1    50.00        5
+       2        0   100.00        6
+       2        1    50.00        9
+       2        2     0.00      >10
+     119       58    51.26    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     236      128    45.76        1
+     235      166    29.36        2
+     234      195    16.67        3
+     233      207    11.16        4
+     232      215     7.33        5
+     231      221     4.33        6
+     230      225     2.17        7
+     229      227     0.87        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       2        0   100.00   an
+       1        1     0.00   be
+       6        6     0.00   i
+       2        0   100.00   in
+       5        0   100.00   man
+       1        0   100.00   was
+       1        0   100.00   were
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   als
+       1        1     0.00   au
+       1        0   100.00   augen
+       1        1     0.00   auﬀ
+       1        0   100.00   bekommen
+       1        0   100.00   ben
+       1        1     0.00   beſ
+       2        0   100.00   binden
+       1        1     0.00   brau
+       1        0   100.00   da
+       1        0   100.00   damit
+       2        0   100.00   darumb
+       1        0   100.00   darzu
+       5        0   100.00   das
+       1        0   100.00   deine
+       1        0   100.00   deinem
+       1        1     0.00   dem
+       1        0   100.00   demuth
+       3        0   100.00   den
+       1        0   100.00   denn
+       6        0   100.00   der
+       1        1     0.00   desglei
+       9        0   100.00   die
+       1        1     0.00   dreiſsig
+       1        0   100.00   drey
+       1        1     0.00   dri
+       4        4     0.00   e
+       1        0   100.00   ein
+       1        0   100.00   eine
+       2        1    50.00   einer
+       1        1     0.00   em
+       4        4     0.00   en
+       2        0   100.00   er
+       1        1     0.00   ermei
+       1        0   100.00   es
+       3        2    33.33   et
+       2        0   100.00   etwa
+       3        3     0.00   f
+       1        0   100.00   faß
+       2        0   100.00   fraw
+       1        0   100.00   frawen
+       4        4     0.00   g
+       2        0   100.00   ge
+       1        0   100.00   gewandt
+       1        1     0.00   gewendet
+       1        1     0.00   gr
+       1        0   100.00   gut
+       1        0   100.00   hat
+       1        0   100.00   het
+       2        2     0.00   hoﬀarth
+       1        1     0.00   ig
+       1        0   100.00   jrem
+       1        0   100.00   jungkfrawen
+       1        1     0.00   k
+       1        0   100.00   kan
+       1        1     0.00   ko
+       1        0   100.00   kot
+       1        1     0.00   kothſa
+       1        1     0.00   lagnen
+       1        1     0.00   lden
+       1        0   100.00   leib
+       2        0   100.00   leibe
+       2        2     0.00   li
+       1        1     0.00   m
+       1        0   100.00   ma
+       2        1    50.00   mag
+       1        0   100.00   magen
+       1        0   100.00   mehr
+       3        0   100.00   mit
+       1        0   100.00   mitte
+       1        0   100.00   muß
+       1        1     0.00   nd
+       1        1     0.00   nde
+       1        0   100.00   nein
+       2        2     0.00   ni
+       1        1     0.00   ntel
+       1        0   100.00   oder
+       1        1     0.00   pfenning
+       1        0   100.00   prophet
+       4        4     0.00   r
+       1        1     0.00   rc
+       1        1     0.00   re
+       1        1     0.00   reiﬀen
+       1        1     0.00   rtel
+       2        2     0.00   s
+       5        5     0.00   t
+       2        0   100.00   tel
+       1        0   100.00   tery
+       1        1     0.00   teuﬀel
+       1        0   100.00   tew
+       1        1     0.00   thewer
+       1        1     0.00   tigkeit
+       1        1     0.00   treiben
+       1        1     0.00   triebe
+       1        0   100.00   vier
+       6        0   100.00   vnd
+       1        1     0.00   vnko
+       1        1     0.00   vnre
+       1        0   100.00   warumb
+       1        0   100.00   wein
+       1        1     0.00   wel
+       1        0   100.00   werdt
+       2        0   100.00   wider
+       1        0   100.00   wolte
+       1        0   100.00   worden
+       1        1     0.00   ſ
+       1        1     0.00   ſa
+       1        1     0.00   ſaget
+       2        0   100.00   ſo
+       1        0   100.00   ſondern
+       1        1     0.00   
+       2        2     0.00   
+       9        9     0.00   
+      12       12     0.00   
+       3        3     0.00   
+       3        3     0.00   
+       1        1     0.00   
+       1        1     0.00   
+      13       13     0.00   

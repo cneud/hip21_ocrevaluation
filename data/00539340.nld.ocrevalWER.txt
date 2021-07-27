@@ -1,0 +1,207 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     266   Words
+      19   Misrecognized
+   92.86%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+      12        1    91.67        2
+       1        0   100.00        3
+      13        1    92.31    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      27        0   100.00        2
+      74        6    91.89        3
+      43        3    93.02        4
+      22        3    86.36        5
+      31        0   100.00        6
+      19        1    94.74        7
+       8        1    87.50        8
+      11        2    81.82        9
+      11        0   100.00       10
+       2        1    50.00       11
+       2        0   100.00       12
+       2        0   100.00       13
+       1        1     0.00       14
+     253       18    92.89    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      93       12    87.10        1
+      27        0   100.00        2
+      12        1    91.67        3
+       4        0   100.00        4
+       1        0   100.00        5
+       2        0   100.00        6
+       1        0   100.00        7
+       1        0   100.00        8
+       1        0   100.00        9
+       1        0   100.00      >10
+     143       13    90.91    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     266       19    92.86        1
+     265       30    88.68        2
+     264       41    84.47        3
+     263       52    80.23        4
+     262       63    75.95        5
+     261       74    71.65        6
+     260       84    67.69        7
+     259       93    64.09        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        1    50.00   be
+       3        0   100.00   in
+       5        0   100.00   is
+       1        0   100.00   man
+       2        0   100.00   of
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   30
+       2        1    50.00   aan
+       1        0   100.00   aangeborene
+       1        0   100.00   aangemerkt
+       1        0   100.00   aankomt
+       1        0   100.00   aanzienelijke
+       1        0   100.00   alleen
+       6        0   100.00   als
+       1        0   100.00   altijd
+       1        0   100.00   anders
+       2        0   100.00   bediening
+       3        0   100.00   behooren
+       1        0   100.00   behoort
+       1        0   100.00   belijdenis
+       1        1     0.00   beſneden
+       1        0   100.00   burger
+       1        0   100.00   daante
+       3        0   100.00   daar
+       2        0   100.00   daarom
+       8        0   100.00   dat
+       9        0   100.00   de
+       1        0   100.00   deel
+       1        0   100.00   der
+       1        0   100.00   des
+       1        0   100.00   deze
+       4        0   100.00   die
+       1        0   100.00   dog
+       3        0   100.00   door
+       1        0   100.00   drift
+       1        0   100.00   drijven
+       1        0   100.00   dringen
+       1        0   100.00   dus
+       1        0   100.00   eene
+       1        0   100.00   eenige
+       1        0   100.00   eertijds
+       1        1     0.00   emmen
+       3        0   100.00   en
+       1        0   100.00   er
+       1        0   100.00   erken
+       1        0   100.00   eén
+       2        0   100.00   gansch
+       3        0   100.00   ge
+       1        0   100.00   gedoopt
+       2        0   100.00   geen
+       1        0   100.00   geenszins
+       1        0   100.00   gelden
+       2        0   100.00   gelijk
+       1        0   100.00   geloof
+       1        1     0.00   gena
+       3        0   100.00   genade
+       1        0   100.00   genadeverbond
+       1        0   100.00   hebben
+       1        1     0.00   hedendaagſche
+       1        0   100.00   hef
+       1        0   100.00   heiliging
+       1        0   100.00   herten
+      13        0   100.00   het
+       1        0   100.00   hier
+       1        0   100.00   hoe
+       1        0   100.00   hoewel
+       1        0   100.00   ijdele
+       1        0   100.00   israël
+       1        0   100.00   kan
+       1        0   100.00   kerk
+       1        0   100.00   kinderen
+       1        0   100.00   le
+       1        0   100.00   ligmakende
+       1        0   100.00   lijk
+       5        0   100.00   maar
+       2        0   100.00   mag
+       2        0   100.00   mede
+       1        0   100.00   meer
+       3        0   100.00   men
+       1        1     0.00   menſchen
+       2        0   100.00   met
+       2        0   100.00   min
+       2        0   100.00   nade
+       2        0   100.00   nen
+       1        0   100.00   nevens
+       4        1    75.00   niet
+       2        0   100.00   nieuwe
+       1        0   100.00   om
+       2        0   100.00   onder
+       1        0   100.00   oneindig
+       1        0   100.00   onheiligheid
+       1        0   100.00   onnutte
+       2        0   100.00   ook
+       4        0   100.00   op
+       1        0   100.00   ophouden
+       2        0   100.00   oude
+       2        0   100.00   ouderen
+       1        0   100.00   philadelphus
+       1        1     0.00   rijd
+       1        0   100.00   tament
+       3        0   100.00   te
+       1        0   100.00   tegen
+       1        0   100.00   tes
+       1        0   100.00   testament
+       1        1     0.00   toe
+       3        0   100.00   tot
+       2        0   100.00   uiterlijk
+       6        0   100.00   uiterlijke
+       4        0   100.00   van
+       1        0   100.00   vastgehegt
+       1        0   100.00   veel
+       1        0   100.00   vele
+       1        1     0.00   ver
+       7        0   100.00   verbond
+       1        0   100.00   verkeerde
+       1        0   100.00   volk
+       2        0   100.00   volko
+       1        1     0.00   volwasſene
+       1        0   100.00   voorts
+       1        0   100.00   waar
+       1        0   100.00   waaraan
+       1        0   100.00   want
+       1        0   100.00   ware
+       1        0   100.00   weggenomen
+       1        0   100.00   wel
+       1        0   100.00   welk
+       1        0   100.00   welken
+       1        1     0.00   weten
+       1        0   100.00   wezen
+       1        0   100.00   wierden
+       1        0   100.00   wij
+       1        1     0.00   woorden
+       2        0   100.00   worden
+       2        1    50.00   wordt
+       1        0   100.00   za
+       1        0   100.00   zake
+       1        0   100.00   zaligende
+       2        0   100.00   zeker
+       3        0   100.00   zelve
+       1        0   100.00   zen
+       2        0   100.00   zij
+       2        0   100.00   zijn
+       2        0   100.00   zijne
+       2        0   100.00   zonder
+       3        0   100.00   zoo
+       1        0   100.00   zoude
+       2        0   100.00   zulks
+       1        1     0.00   ſchouwd
+       3        3     0.00   

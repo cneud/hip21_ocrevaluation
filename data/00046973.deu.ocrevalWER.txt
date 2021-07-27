@@ -1,0 +1,192 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     237   Words
+     147   Misrecognized
+   37.97%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        4     0.00        1
+       5        0   100.00        2
+       1        1     0.00        3
+      10        5    50.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      18       18     0.00        1
+      40       27    32.50        2
+      91       63    30.77        3
+      28       16    42.86        4
+      17        7    58.82        5
+      15        3    80.00        6
+       5        1    80.00        7
+       4        2    50.00        8
+       5        2    60.00        9
+       3        2    33.33       10
+       1        1     0.00       11
+     227      142    37.44    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+     101       50    50.50        1
+      13        6    53.85        2
+       4        2    50.00        3
+       5        3    40.00        4
+       2        2     0.00        5
+       3        1    66.67        6
+       1        1     0.00        7
+       1        0   100.00       10
+       1        1     0.00      >10
+     131       66    49.62    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     237      147    37.97        1
+     236      182    22.88        2
+     235      206    12.34        3
+     234      216     7.69        4
+     233      222     4.72        5
+     232      228     1.72        6
+     231      231     0.00        7
+     230      230     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        0   100.00   an
+       4        4     0.00   i
+       3        0   100.00   in
+       1        1     0.00   man
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   am
+       2        0   100.00   ange
+       1        1     0.00   angeſpro
+       1        0   100.00   anno
+       4        4     0.00   au
+       1        1     0.00   auﬀn
+       1        1     0.00   bi
+       1        0   100.00   bilder
+       4        0   100.00   da
+       1        0   100.00   darein
+       6        1    83.33   das
+       1        0   100.00   daß
+       1        0   100.00   decret
+       2        0   100.00   denn
+       2        0   100.00   der
+       1        1     0.00   derglei
+       1        0   100.00   dern
+       1        0   100.00   des
+       2        1    50.00   die
+       1        0   100.00   dieſem
+       1        1     0.00   dung
+       7        7     0.00   e
+       2        1    50.00   ehe
+       3        0   100.00   ein
+       1        0   100.00   einen
+       1        1     0.00   einſehen
+      10        9    10.00   en
+       1        1     0.00   endli
+       4        2    50.00   er
+       1        1     0.00   ern
+       3        1    66.67   es
+       1        1     0.00   et
+       1        1     0.00   etli
+       1        1     0.00   f
+       1        0   100.00   fraget
+       1        0   100.00   gar
+       1        1     0.00   geb
+       1        0   100.00   gedulden
+       1        0   100.00   gegeben
+       1        1     0.00   gehalten
+       1        1     0.00   gepu
+       1        1     0.00   gewi
+       1        1     0.00   geſe
+       1        0   100.00   hen
+       1        0   100.00   hinden
+       1        1     0.00   hohen
+       1        1     0.00   iget
+       1        0   100.00   im
+       1        0   100.00   jeder
+       1        1     0.00   jhr
+       1        1     0.00   jhrs
+       1        0   100.00   kan
+       1        0   100.00   keines
+       1        0   100.00   kerl
+       1        1     0.00   klei
+       1        0   100.00   kleidern
+       1        0   100.00   kommen
+       2        2     0.00   kr
+       1        1     0.00   krau
+       1        0   100.00   leges
+       1        1     0.00   li
+       1        1     0.00   ma
+       1        0   100.00   mitten
+       1        1     0.00   muthwi
+       1        1     0.00   n
+       2        2     0.00   na
+       1        0   100.00   nidern
+       1        0   100.00   nimpt
+       1        1     0.00   nli
+       1        0   100.00   obrigkeit
+       1        0   100.00   orten
+       1        1     0.00   pantoﬀeln
+       1        0   100.00   perſonen
+       1        0   100.00   promulgirt
+       1        1     0.00   rc
+       1        1     0.00   rde
+       1        1     0.00   ren
+       1        0   100.00   rey
+       2        2     0.00   s
+       1        0   100.00   sie
+       1        0   100.00   sondern
+       1        0   100.00   stan
+       1        1     0.00   straﬀe
+       5        5     0.00   t
+       1        1     0.00   tan
+       1        1     0.00   tig
+       1        0   100.00   tragen
+       1        1     0.00   u
+       1        0   100.00   vbereilet
+       1        1     0.00   vberſ
+       1        1     0.00   vberﬂuß
+       1        0   100.00   vmb
+       6        0   100.00   vnd
+       1        1     0.00   vngew
+       1        0   100.00   vns
+       1        1     0.00   vnter
+       1        1     0.00   w
+       1        1     0.00   wal
+       1        0   100.00   weges
+       1        0   100.00   weibs
+       1        1     0.00   weil
+       1        0   100.00   wendet
+       1        0   100.00   wer
+       1        0   100.00   werden
+       1        0   100.00   wider
+       1        0   100.00   wo
+       1        0   100.00   wol
+       1        0   100.00   wolte
+       1        0   100.00   zeit
+       2        1    50.00   zu
+       1        1     0.00   zuge
+       1        0   100.00   zuhaben
+       1        1     0.00   zuma
+       1        1     0.00   ſ
+       1        0   100.00   ſagt
+       2        2     0.00   ſe
+       1        1     0.00   ſein
+       2        0   100.00   ſey
+       4        4     0.00   ſol
+       1        1     0.00   ſon
+       1        1     0.00   ſpri
+       1        1     0.00   ſumptuari
+       4        4     0.00   
+       2        2     0.00   
+       6        6     0.00   
+       5        5     0.00   
+       1        1     0.00   
+       2        2     0.00   
+       3        3     0.00   
+       3        3     0.00   
+      23       23     0.00   

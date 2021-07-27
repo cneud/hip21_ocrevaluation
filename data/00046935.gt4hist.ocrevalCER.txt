@@ -1,0 +1,183 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+     807   Characters
+     559   Errors
+   30.73%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   30.73%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     230       83      246      559   Unmarked
+     230       83      246      559   Total
+
+   Count   Missed   %Right
+       7        4    42.86   Unassigned
+     150       46    69.33   ASCII Spacing Characters
+      28       10    64.29   ASCII Special Symbols
+      41       19    53.66   ASCII Uppercase Letters
+     515      178    65.44   ASCII Lowercase Letters
+       5        3    40.00   Latin1 Lowercase Letters
+      11        3    72.73   Latin Extended-A
+      45       45     0.00   Private Use Area
+       5        5     0.00   Alphabetic Presentation Forms
+     807      313    61.21   Total
+
+  Errors   Marked   Correct-Generated
+      53        0   {}-{e jegund wool<\n>ein ſc...}
+      37        0   {ein ſleter Brg...}-{}
+      33        0   {}-{gemacht.<\n>Hertzog Albe...}
+      26        0   {}-{ etlicht Jahr ſeine Glo...}
+      21        0   { Diß ſolte jeund wo...}-{}
+      21        0   {bert zu Bayern/<\n>kam v}-{}
+      20        0   {eine Gloriam oder Ba}-{}
+      19        0   {/ vnd war Bac⸗<\n>cala}-{g}
+      18        0   {}-{n Parhß anheim⸗ vn}
+      18        0   {}-{worden / vnd tru⸗<\n>}
+      17        0   {}-{te Kappen. Di ſol}
+      16        0   {}-{ch}
+      14        0   {}-{ odcr cc-.<\n>ure}
+      11        0   {n Paryß anh}-{ſ}
+      10        0   {}-{ſt}
+       9        0   {vnd vbel }-{}
+       9        0   {worden / }-{}
+       8        0   {Herog A}-{}
+       8        0   {}-{aus — —<\n>}
+       8        0   {e <\n>lo}-{}
+       7        0   {reus de}-{◌ͤ}
+       7        0   {}-{e⸗<\n>cala}
+       7        0   {ren.}-{ich}
+       6        0   { Kappe}-{}
+       6        0   {ca⸗<\n>la}-{h}
+       6        0   {e grt}-{i}
+       6        0   {tru⸗<\n>g}-{vb}
+       5        0   {Jahr }-{}
+       5        0   {Saﬀ}-{der R}
+       5        0   {}-{kam v}
+       4        0   { Re}-{}
+       4        0   { }-{}
+       4        0   {/ }-{}
+       4        0   {/}-{oder}
+       4        0   {Fuß}-{Scha}
+       4        0   {at V}-{v}
+       4        0   {}-{ſich}
+       4        0   {olu}-{ſſd}
+       4        0   {}-{ſſ}
+       4        0   {ﬀ}-{ff}
+       3        0   { et}-{}
+       3        0   {eat}-{z}
+       3        0   {e}-{ wa}
+       3        0   {ie}-{}
+       3        0   {rum}-{}
+       3        0   {}-{ }
+       3        0   {}-{reu}
+       3        0   {o}-{ſſa}
+       3        0   {}-{cht}
+       2        0   { r}-{e}
+       2        0   {e}-{c}
+       2        0   {g}-{a}
+       2        0   {im}-{}
+       2        0   {l}-{ch}
+       2        0   {nd}-{}
+       2        0   {s}-{⸗}
+       2        0   {u}-{ }
+       2        0   {w}-{ r}
+       2        0   {}-{—<\n>}
+       2        0   {ĳ}-{ij}
+       2        0   {}-{o◌ͤ}
+       2        0   {}-{u◌ͤ}
+       2        0   {}-{ſi}
+       2        0   {}-{s/}
+       2        0   {ﬁ}-{ſi}
+       2        0   {ﬆ}-{ſt}
+       1        0   {&}-{E}
+       1        0   {,}-{}
+       1        0   {D}-{H}
+       1        0   {D}-{d}
+       1        0   {V}-{v}
+       1        0   {a}-{⸗}
+       1        0   {b}-{h}
+       1        0   {g}-{z}
+       1        0   {h}-{E}
+       1        0   {m}-{i}
+       1        0   {n}-{i}
+       1        0   {n}-{}
+       1        0   {s}-{.}
+       1        0   {u}-{i}
+       1        0   {v}-{r}
+       1        0   {}-{c}
+       1        0   {}-{f}
+       1        0   {}-{z}
+       1        0   {}-{◌ͤ}
+       1        0   {⸗}-{-}
+       1        0   {}-{ſ}
+       1        0   {}-{l}
+
+   Count   Missed   %Right
+      25        7    72.00   {<\n>}
+     125       39    68.80   { }
+       1        1     0.00   {&}
+       1        1     0.00   {,}
+       9        2    77.78   {.}
+      16        6    62.50   {/}
+       1        0   100.00   {:}
+       1        1     0.00   {A}
+       4        4     0.00   {B}
+       8        3    62.50   {D}
+       2        0   100.00   {E}
+       1        1     0.00   {F}
+       3        1    66.67   {G}
+       3        1    66.67   {H}
+       2        1    50.00   {J}
+       3        1    66.67   {K}
+       2        0   100.00   {L}
+       1        0   100.00   {M}
+       1        0   100.00   {O}
+       1        1     0.00   {P}
+       1        1     0.00   {R}
+       5        2    60.00   {S}
+       2        2     0.00   {V}
+       1        0   100.00   {W}
+      43       18    58.14   {a}
+       9        3    66.67   {b}
+       6        3    50.00   {c}
+      29        7    75.86   {d}
+      83       27    67.47   {e}
+       2        0   100.00   {f}
+      15        7    53.33   {g}
+       9        5    44.44   {h}
+      47        7    85.11   {i}
+       1        1     0.00   {j}
+       3        1    66.67   {k}
+      27       10    62.96   {l}
+      13        5    61.54   {m}
+      58       16    72.41   {n}
+      23       10    56.52   {o}
+       4        2    50.00   {p}
+      38       18    52.63   {r}
+      18        5    72.22   {s}
+      33       10    69.70   {t}
+      26       11    57.69   {u}
+      12        5    58.33   {v}
+      10        4    60.00   {w}
+       2        2     0.00   {y}
+       4        1    75.00   {z}
+       5        3    40.00   {ß}
+       1        1     0.00   {ĳ}
+      10        2    80.00   {ſ}
+       7        4    42.86   {⸗}
+       1        1     0.00   {}
+       4        4     0.00   {}
+       6        6     0.00   {}
+       4        4     0.00   {}
+       4        4     0.00   {}
+       4        4     0.00   {}
+       2        2     0.00   {}
+      20       20     0.00   {}
+       3        3     0.00   {ﬀ}
+       1        1     0.00   {ﬁ}
+       1        1     0.00   {ﬆ}

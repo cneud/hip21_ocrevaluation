@@ -1,0 +1,102 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+      70   Words
+      35   Misrecognized
+   50.00%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       1        1     0.00        1
+       1        0   100.00        2
+       2        1    50.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       7        7     0.00        1
+       8        6    25.00        2
+      25       15    40.00        3
+       8        2    75.00        4
+      11        2    81.82        5
+       2        1    50.00        6
+       1        0   100.00        7
+       4        1    75.00        8
+       1        0   100.00        9
+       1        0   100.00       11
+      68       34    50.00    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      39       16    58.97        1
+       5        1    80.00        2
+       3        2    33.33        3
+       1        1     0.00        4
+       1        1     0.00        6
+      49       21    57.14    Total
+
+Phrases
+   Count   Missed   %Right   Length
+      70       35    50.00        1
+      69       45    34.78        2
+      68       52    23.53        3
+      67       55    17.91        4
+      66       57    13.64        5
+      65       58    10.77        6
+      64       59     7.81        7
+      63       59     6.35        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   i
+       1        0   100.00   in
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   1
+       1        1     0.00   2
+       1        1     0.00   3
+       1        1     0.00   4
+       1        1     0.00   als
+       1        1     0.00   anzimlí
+       1        1     0.00   aﬀen
+       1        0   100.00   beide
+       1        0   100.00   da
+       3        0   100.00   das
+       1        0   100.00   die
+       1        1     0.00   dien
+       1        0   100.00   dieſelbige
+       3        3     0.00   e
+       1        1     0.00   en
+       3        3     0.00   er
+       1        0   100.00   frieden
+       1        0   100.00   gefal
+       1        0   100.00   geordnet
+       1        1     0.00   geſ
+       1        0   100.00   gott
+       1        0   100.00   habe
+       1        0   100.00   helt
+       1        0   100.00   jhren
+       2        0   100.00   kleidung
+       1        0   100.00   len
+       1        1     0.00   li
+       1        1     0.00   menſ
+       1        0   100.00   mit
+       1        1     0.00   nemli
+       1        1     0.00   st
+       2        0   100.00   theil
+       1        0   100.00   tragen
+       1        0   100.00   vier
+       2        0   100.00   vnd
+       1        0   100.00   vnnd
+       1        0   100.00   vom
+       1        0   100.00   vrſprung
+       1        0   100.00   warzu
+       1        0   100.00   wie
+       1        0   100.00   woher
+       1        0   100.00   zu
+       2        0   100.00   ſein
+       1        0   100.00   ſol
+       1        1     0.00   
+       4        4     0.00   
+       2        2     0.00   
+       1        1     0.00   
+       6        6     0.00   

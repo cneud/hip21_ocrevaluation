@@ -1,0 +1,130 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+     745   Characters
+     232   Errors
+   68.86%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   68.86%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      70       65       97      232   Unmarked
+      70       65       97      232   Total
+
+   Count   Missed   %Right
+       2        2     0.00   Unassigned
+     138       19    86.23   ASCII Spacing Characters
+      27        7    74.07   ASCII Special Symbols
+       1        1     0.00   ASCII Digits
+      38       13    65.79   ASCII Uppercase Letters
+     490       49    90.00   ASCII Lowercase Letters
+       8        3    62.50   Latin Extended-A
+      34       34     0.00   Private Use Area
+       7        7     0.00   Alphabetic Presentation Forms
+     745      135    81.88   Total
+
+  Errors   Marked   Correct-Generated
+      63        0   {}-{Ferner / wie GOtt dieſe...}
+      20        0   {ta nget.<\n>Ferner / ...}-{}
+      14        0   { vnnd gram i/}-{,}
+      12        0   {ﬀ}-{ff}
+      10        0   {t dieſem<\n>L}-{}
+      10        0   {}-{ch}
+       8        0   {}-{ſich}
+       7        0   {n feind}-{}
+       6        0   { }-{}
+       6        0   {Alſo<\n>3}-{5}
+       6        0   {}-{öll}
+       6        0   {}-{ck}
+       5        0   {}-{fiöſſ}
+       4        0   {e GO}-{}
+       3        0   {.}-{, ,}
+       3        0   {Den}-{Ocm}
+       3        0   {II.}-{il,}
+       3        0   {er}-{}
+       3        0   {e}-{jic}
+       3        0   {⸗}-{ck-}
+       2        0   { ſ}-{f}
+       2        0   {.}-{,}
+       2        0   {W}-{AP}
+       2        0   {eb}-{ch}
+       2        0   {e⸗}-{xo}
+       2        0   {}-{ö}
+       2        0   {}-{ft}
+       2        0   {}-{ji}
+       2        0   {}-{ſi}
+       2        0   {}-{ſt}
+       2        0   {}-{ſi}
+       2        0   {ﬀ}-{ſf}
+       1        0   {I}-{J}
+       1        0   {O}-{D}
+       1        0   {S}-{E}
+       1        0   {V}-{W}
+       1        0   {b}-{ö}
+       1        0   {g}-{a}
+       1        0   {j}-{i}
+       1        0   {n}-{g}
+       1        0   {p}-{}
+       1        0   {}-{i}
+       1        0   {}-{ä}
+       1        0   {}-{ü}
+       1        0   {}-{k}
+
+   Count   Missed   %Right
+      24        3    87.50   {<\n>}
+     114       16    85.96   { }
+       7        5    28.57   {.}
+      19        2    89.47   {/}
+       1        1     0.00   {3}
+       1        0   100.00   {:}
+       2        1    50.00   {A}
+       1        1     0.00   {D}
+       1        0   100.00   {E}
+       4        1    75.00   {F}
+       5        1    80.00   {G}
+       3        0   100.00   {H}
+       3        3     0.00   {I}
+       3        0   100.00   {K}
+       3        1    66.67   {L}
+       2        0   100.00   {M}
+       3        2    33.33   {O}
+       4        1    75.00   {S}
+       2        1    50.00   {V}
+       2        1    50.00   {W}
+      33        2    93.94   {a}
+      13        2    84.62   {b}
+      38        3    92.11   {d}
+     109       12    88.99   {e}
+       4        1    75.00   {f}
+      16        3    81.25   {g}
+      11        0   100.00   {h}
+      39        3    92.31   {i}
+       2        1    50.00   {j}
+       1        0   100.00   {k}
+      20        1    95.00   {l}
+      13        2    84.62   {m}
+      57        8    85.96   {n}
+      13        1    92.31   {o}
+       1        1     0.00   {p}
+      44        4    90.91   {r}
+       6        0   100.00   {s}
+      35        3    91.43   {t}
+       8        0   100.00   {u}
+      12        1    91.67   {v}
+      12        1    91.67   {w}
+       3        0   100.00   {z}
+       8        3    62.50   {ſ}
+       2        2     0.00   {⸗}
+       5        5     0.00   {}
+       2        2     0.00   {}
+       8        8     0.00   {}
+       4        4     0.00   {}
+       1        1     0.00   {}
+       5        5     0.00   {}
+       2        2     0.00   {}
+       7        7     0.00   {}
+       7        7     0.00   {ﬀ}

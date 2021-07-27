@@ -1,0 +1,100 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+      63   Words
+      36   Misrecognized
+   42.86%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       1        0   100.00        1
+       1        0   100.00        2
+       2        0   100.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       3        2    33.33        1
+      17        9    47.06        2
+      15       10    33.33        3
+       5        2    60.00        4
+       2        0   100.00        5
+       6        3    50.00        6
+       5        3    40.00        7
+       3        3     0.00        8
+       3        2    33.33        9
+       2        2     0.00       10
+      61       36    40.98    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      42       28    33.33        1
+       4        3    25.00        2
+       1        0   100.00        5
+       1        0   100.00        6
+      48       31    35.42    Total
+
+Phrases
+   Count   Missed   %Right   Length
+      63       36    42.86        1
+      62       45    27.42        2
+      61       51    16.39        3
+      60       54    10.00        4
+      59       56     5.08        5
+      58       57     1.72        6
+      57       57     0.00        7
+      56       56     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        0   100.00   a
+       1        0   100.00   me
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   auec
+       1        0   100.00   auoir
+       1        0   100.00   autant
+       1        0   100.00   bonté
+       1        1     0.00   c'e
+       1        1     0.00   conseiller
+       1        1     0.00   conseils
+       1        0   100.00   cét
+       6        2    66.67   de
+       1        1     0.00   defiance
+       1        1     0.00   des
+       1        1     0.00   deu
+       1        1     0.00   dv
+       2        2     0.00   e
+       1        1     0.00   el
+       1        1     0.00   en
+       1        0   100.00   encore
+       1        1     0.00   et
+       1        0   100.00   flate
+       1        1     0.00   hardie
+       1        1     0.00   ho
+       1        1     0.00   i'oſe
+       2        0   100.00   ie
+       1        1     0.00   ij
+       1        0   100.00   la
+       1        0   100.00   le
+       1        0   100.00   m
+       1        1     0.00   maistre
+       1        1     0.00   monsievr
+       1        1     0.00   montmor
+       1        0   100.00   neanmoins
+       1        1     0.00   onsievr
+       1        1     0.00   ordinaire
+       1        0   100.00   ouurage
+       1        1     0.00   preſenter
+       5        0   100.00   que
+       1        0   100.00   quelque
+       1        1     0.00   reqvestes
+       1        1     0.00   reſpe
+       1        1     0.00   roy
+       1        1     0.00   ses
+       1        1     0.00   tovs
+       1        0   100.00   vous
+       1        1     0.00   ã
+       1        1     0.00   ſon
+       2        2     0.00   
+       2        2     0.00   
+       1        1     0.00   

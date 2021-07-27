@@ -1,0 +1,176 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     219   Words
+      81   Misrecognized
+   63.01%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       5        1    80.00        1
+      49       13    73.47        2
+      30        5    83.33        3
+      11        2    81.82        4
+       3        0   100.00        5
+      98       21    78.57    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       1        1     0.00        1
+       5        4    20.00        2
+      24       12    50.00        3
+      41       12    70.73        4
+      19       10    47.37        5
+      11        7    36.36        6
+       8        5    37.50        7
+       5        3    40.00        8
+       5        4    20.00        9
+       1        1     0.00       10
+       1        1     0.00       13
+     121       60    50.41    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      70       38    45.71        1
+       9        3    66.67        2
+       4        1    75.00        3
+       1        0   100.00        4
+       1        1     0.00        7
+       1        0   100.00       10
+      86       43    50.00    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     219       81    63.01        1
+     218      118    45.87        2
+     217      152    29.95        3
+     216      173    19.91        4
+     215      189    12.09        5
+     214      198     7.48        6
+     213      203     4.69        7
+     212      205     3.30        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        0   100.00   a
+       1        0   100.00   all
+       4        0   100.00   and
+       5        1    80.00   be
+       2        0   100.00   but
+       1        0   100.00   do
+       3        1    66.67   for
+       1        1     0.00   good
+       1        1     0.00   have
+       2        1    50.00   he
+       4        0   100.00   his
+       3        1    66.67   i
+       4        0   100.00   if
+       4        2    50.00   in
+       3        2    33.33   is
+      14        3    78.57   it
+       1        0   100.00   may
+       2        2     0.00   me
+       1        0   100.00   my
+       1        0   100.00   no
+       2        0   100.00   not
+       4        0   100.00   of
+       1        0   100.00   on
+       3        2    33.33   one
+       1        0   100.00   or
+       3        0   100.00   that
+       8        1    87.50   the
+       1        0   100.00   then
+       2        0   100.00   this
+       6        2    66.67   to
+       3        0   100.00   which
+       2        1    50.00   who
+       2        0   100.00   will
+       1        0   100.00   with
+
+Non-stopwords
+   Count   Missed   %Right   
+       2        1    50.00   13
+       1        0   100.00   according
+       1        1     0.00   ament
+       1        0   100.00   art
+       1        1     0.00   becauſe
+       1        1     0.00   beneﬁt
+       1        1     0.00   bloud
+       1        0   100.00   carry
+       1        1     0.00   cleave
+       1        1     0.00   de
+       1        0   100.00   deer
+       1        1     0.00   died
+       1        1     0.00   diſ
+       1        1     0.00   diſpiſer
+       1        1     0.00   doe
+       1        0   100.00   doing
+       1        0   100.00   ears
+       1        0   100.00   end
+       1        0   100.00   found
+       1        0   100.00   friend
+       1        0   100.00   give
+       1        0   100.00   glory
+       1        0   100.00   god
+       1        0   100.00   gold
+       1        1     0.00   griffith
+       1        0   100.00   hath
+       1        1     0.00   hope
+       1        0   100.00   however
+       1        1     0.00   hoſoever
+       1        1     0.00   imonies
+       1        1     0.00   ing
+       1        1     0.00   john
+       2        0   100.00   law
+       2        0   100.00   let
+       1        0   100.00   life
+       1        0   100.00   loving
+       2        2     0.00   maie
+       1        0   100.00   obeying
+       1        1     0.00   piſeth
+       1        0   100.00   prov
+       1        1     0.00   proﬁt
+       1        1     0.00   ratiﬁed
+       2        0   100.00   read
+       1        0   100.00   reader
+       1        1     0.00   reje
+       1        1     0.00   righteous
+       1        1     0.00   royed
+       1        0   100.00   son
+       1        0   100.00   take
+       2        2     0.00   te
+       2        0   100.00   tell
+       4        1    75.00   thee
+       1        1     0.00   thine
+       2        0   100.00   thing
+       1        0   100.00   things
+      10        2    80.00   thou
+       3        0   100.00   thy
+       1        1     0.00   touch
+       1        0   100.00   touching
+       1        0   100.00   treat
+       1        0   100.00   treateth
+       1        1     0.00   treatiſe
+       1        1     0.00   truﬆ
+       1        0   100.00   try
+       1        1     0.00   unpleaſantly
+       1        0   100.00   upon
+       1        0   100.00   voice
+       1        1     0.00   w
+       1        0   100.00   weigh
+       1        0   100.00   well
+       1        0   100.00   whether
+       3        2    33.33   wilt
+       3        0   100.00   word
+       1        1     0.00   ſcarce
+       1        1     0.00   ſeeing
+       1        1     0.00   ſeek
+       1        1     0.00   ſhall
+       1        1     0.00   ſmall
+       1        1     0.00   ſo
+       1        1     0.00   ſound
+       1        1     0.00   ſpeak
+       1        1     0.00   ſubje
+       1        1     0.00   ſure
+       7        7     0.00   
+       2        2     0.00   
+       3        3     0.00   ﬁnd

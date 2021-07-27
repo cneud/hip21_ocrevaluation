@@ -1,0 +1,209 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1965   Characters
+    1448   Errors
+   26.31%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   26.31%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     660      103      685     1448   Unmarked
+     660      103      685     1448   Total
+
+   Count   Missed   %Right
+     361      133    63.16   ASCII Spacing Characters
+      46       23    50.00   ASCII Special Symbols
+       3        0   100.00   ASCII Digits
+      36        7    80.56   ASCII Uppercase Letters
+    1394      490    64.85   ASCII Lowercase Letters
+      24        9    62.50   Latin1 Lowercase Letters
+      44       44     0.00   Latin Extended-A
+      22       22     0.00   General Punctuation
+      35       35     0.00   Private Use Area
+    1965      763    61.17   Total
+
+  Errors   Marked   Correct-Generated
+     251        0   {vt edantur ſoni<\n>qual...}-{}
+     157        0   {on tibi<\n>videri eodem ...}-{}
+     105        0   {ſonitum illius vo‑...}-{}
+      41        0   {}-{ ve forma Lo- iufques à...}
+      39        0   {}-{ma, fed diuino nu- "<\n>...}
+      35        0   {}-{Tues Filius meus,<\n>non...}
+      31        0   {}-{tofpiritu. Sienim<\n>Sbu...}
+      27        0   {}-{ Il \ . |<\n>Eve tee vas...}
+      27        0   {}-{creatura corpoled;<\n>ca...}
+      27        0   {}-{fpeciemcorpora- .<\n>rem...}
+      24        0   {}-{;<\n>pore animato fo- ....}
+      24        0   {ſ}-{à ipo- {… s - : - ....}
+      23        0   {ſ}-{f}
+      20        0   {tura corporea,<\n>ne ...}-{}
+      19        0   {<\n>raiſon.<\n>Mais<\n>...}-{}
+      19        0   {}-{leur, ve forma le” }
+      19        0   {}-{rio; à<\n>\ . . :<\n>Fe...}
+      18        0   {}-{videri eodem mo-<\n>R}
+      17        0   {<\n>animæ minierio,}-{”}
+      16        0   {}-{,<\n>sur afpeétibus}
+      16        0   {}-{Jibet animantis }
+      16        0   {}-{les di ex cor- a}
+      15        0   { }-{}
+      15        0   {}-{; & non tibi fe}
+      15        0   {}-{Bioino nues, ma}
+      15        0   {}-{cis qu dif et; }
+      14        0   {}-{imite’<\n>viuenti}
+      14        0   {}-{vols gure & e }
+      13        0   {btemperat Deo}-{}
+      12        0   {}-{ne mini- fan}
+      12        0   {‑<\n>tuie ; & }-{}
+      12        0   {}-{d'}
+      11        0   {<\n>naturâ c }-{}
+      11        0   {tibi videri}-{:}
+      11        0   {}-{fem«'<\n>animæ}
+      10        0   {}-{ :}
+      10        0   {}-{erpoñ- {an}
+      10        0   {}-{mpe- ÿ”Obe}
+       9        0   {uificanti}-{}
+       9        0   {}-{ | ;<\n>riqu}
+       9        0   {}-{’er?<\n>tort}
+       8        0   {Si enim<\n>}-{C}
+       8        0   {n<\n>}-{u es ti }
+       8        0   {n}-{creator }
+       8        0   {x}-{nferaun,}
+       8        0   {}-{t : .<\n>pn}
+       8        0   {}-{œuins Et}
+       8        0   {‑<\n>}-{mr foot }
+       7        0   {}-{m, 2 1,}
+       6        0   {ieri p}-{}
+       6        0   {vo}-{Ctbus }
+       6        0   {}-{o , fi}
+       6        0   {ſ}-{minift}
+       6        0   {}-{ff}
+       6        0   {}-{l’}
+       5        0   {vne}-{-VNE:}
+       5        0   {}-{VOIX }
+       5        0   {}-{a Mft}
+       4        0   { ſ}-{f}
+       4        0   {}-{: }
+       4        0   {}-{cur }
+       4        0   {}-{li i}
+       4        0   {}-{lo l}
+       4        0   {ſ}-{aus }
+       4        0   {ſ}-{avim}
+       4        0   {ſ‑}-{f+ -}
+       4        0   {‑}-{-}
+       4        0   {}-{ft}
+       4        0   {}-{fl}
+       4        0   {}-{l'}
+       3        0   { e}-{eft}
+       3        0   { à }-{äi}
+       3        0   {&}-{mo-}
+       3        0   {'}-{on }
+       3        0   {cre}-{M}
+       3        0   {cro}-{CTO}
+       3        0   {e}-{é :}
+       3        0   {por}-{}
+       3        0   {}-{fi }
+       3        0   {}-{oo }
+       3        0   {}-{ter}
+       3        0   {}-{”}
+       3        0   {‑}-{- -}
+       3        0   {}-{fi.}
+       2        0   {,}-{;:}
+       2        0   {;}-{s'}
+       2        0   {t}-{ A}
+       2        0   {}-{ -}
+       2        0   {}-{:}
+       2        0   {}-{qu}
+       2        0   {}-{re}
+       2        0   {}-{— }
+       2        0   {}-{’.}
+       2        0   {}-{’}
+       2        0   {ſm}-{fn}
+       2        0   {ſ}-{{}
+       2        0   {}-{mg}
+       2        0   {}-{fi}
+       2        0   {}-{d }
+       1        0   { }-{'}
+       1        0   {,}-{;}
+       1        0   {<\n>}-{ }
+       1        0   {I}-{L}
+       1        0   {e}-{E}
+       1        0   {e}-{a}
+       1        0   {e}-{é}
+       1        0   {g}-{s}
+       1        0   {l}-{L}
+       1        0   {l}-{}
+       1        0   {r}-{f}
+       1        0   {t}-{l}
+       1        0   {v}-{V}
+       1        0   {}-{f}
+       1        0   {}-{i}
+       1        0   {}-{ë}
+
+   Count   Missed   %Right
+      68       39    42.65   {<\n>}
+     293       94    67.92   { }
+       4        2    50.00   {&}
+       3        1    66.67   {'}
+      28       15    46.43   {,}
+       8        2    75.00   {.}
+       1        0   100.00   {0}
+       1        0   100.00   {1}
+       1        0   100.00   {2}
+       3        3     0.00   {;}
+       5        0   100.00   {A}
+       9        0   100.00   {C}
+       4        1    75.00   {D}
+       3        0   100.00   {E}
+       3        1    66.67   {F}
+       1        1     0.00   {I}
+       2        0   100.00   {L}
+       2        2     0.00   {M}
+       2        0   100.00   {P}
+       1        0   100.00   {R}
+       1        1     0.00   {S}
+       2        1    50.00   {T}
+       1        0   100.00   {V}
+     102       31    69.61   {a}
+      19        7    63.16   {b}
+      42       17    59.52   {c}
+      42       12    71.43   {d}
+     230       55    76.09   {e}
+      11        6    45.45   {f}
+      11        3    72.73   {g}
+       4        0   100.00   {h}
+     135       73    45.93   {i}
+      62       17    72.58   {l}
+      62       26    58.06   {m}
+     108       39    63.89   {n}
+     100       42    58.00   {o}
+      40       13    67.50   {p}
+      23        4    82.61   {q}
+     101       38    62.38   {r}
+      53       15    71.70   {s}
+      84       39    53.57   {t}
+     119       38    68.07   {u}
+      28       13    53.57   {v}
+       6        2    66.67   {x}
+       8        0   100.00   {y}
+       4        0   100.00   {z}
+       7        1    85.71   {à}
+       5        5     0.00   {â}
+       1        1     0.00   {ã}
+       2        2     0.00   {æ}
+       6        0   100.00   {é}
+       1        0   100.00   {ï}
+       2        0   100.00   {û}
+       1        1     0.00   {ũ}
+      43       43     0.00   {ſ}
+      22       22     0.00   {‑}
+       7        7     0.00   {}
+       7        7     0.00   {}
+       7        7     0.00   {}
+       2        2     0.00   {}
+       7        7     0.00   {}
+       5        5     0.00   {}

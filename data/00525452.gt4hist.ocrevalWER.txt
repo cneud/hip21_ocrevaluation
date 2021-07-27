@@ -1,0 +1,206 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     312   Words
+     102   Misrecognized
+   67.31%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       7        4    42.86        1
+      59       11    81.36        2
+      59        7    88.14        3
+      12        0   100.00        4
+       4        1    75.00        5
+     141       23    83.69    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       9        5    44.44        1
+       8        7    12.50        2
+      35       21    40.00        3
+      34       12    64.71        4
+      29       10    65.52        5
+      15        7    53.33        6
+      12        4    66.67        7
+      14        6    57.14        8
+       6        2    66.67        9
+       4        3    25.00       10
+       4        1    75.00       11
+       1        1     0.00       13
+     171       79    53.80    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      89       45    49.44        1
+      15        1    93.33        2
+       5        2    60.00        3
+       2        0   100.00        4
+       1        0   100.00        6
+       2        0   100.00        7
+       1        1     0.00        9
+     115       49    57.39    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     312      102    67.31        1
+     311      156    49.84        2
+     310      193    37.74        3
+     309      219    29.13        4
+     308      241    21.75        5
+     307      259    15.64        6
+     306      274    10.46        7
+     305      284     6.89        8
+
+Stopwords
+   Count   Missed   %Right   
+       5        3    40.00   a
+       1        1     0.00   all
+       6        0   100.00   and
+       7        1    85.71   are
+       3        0   100.00   as
+       2        0   100.00   be
+       5        0   100.00   but
+       8        0   100.00   by
+       1        1     0.00   do
+       6        0   100.00   for
+       1        1     0.00   his
+       2        1    50.00   i
+       1        0   100.00   in
+      12        3    75.00   is
+       7        3    57.14   it
+       1        0   100.00   may
+       1        0   100.00   my
+       1        1     0.00   new
+       4        0   100.00   not
+      11        1    90.91   of
+       2        1    50.00   one
+       3        0   100.00   or
+       6        0   100.00   that
+      22        2    90.91   the
+       1        0   100.00   them
+       3        0   100.00   they
+       7        1    85.71   to
+       1        0   100.00   two
+       1        0   100.00   was
+       3        2    33.33   we
+       4        1    75.00   which
+       1        0   100.00   who
+       2        0   100.00   with
+
+Non-stopwords
+   Count   Missed   %Right   
+       4        3    25.00   1
+       1        1     0.00   1.16
+       1        1     0.00   1.18
+       1        1     0.00   1.23
+       2        2     0.00   12
+       1        0   100.00   2
+       1        0   100.00   2.2
+       1        1     0.00   23,24
+       2        1    50.00   4
+       1        0   100.00   abideth
+       1        1     0.00   am
+       1        0   100.00   andmy
+       1        1     0.00   apo
+       1        0   100.00   arekept
+       1        0   100.00   aſhamed
+       1        0   100.00   babes
+       1        0   100.00   beget
+       3        2    33.33   begotten
+       1        0   100.00   being
+       2        0   100.00   born
+       2        0   100.00   both
+       1        0   100.00   c
+       1        0   100.00   called
+       1        0   100.00   chap
+       3        3     0.00   chri
+       1        1     0.00   compul
+       1        1     0.00   conﬁderable
+       1        1     0.00   cor
+       1        0   100.00   corruptible
+       1        1     0.00   cruciﬁed
+       1        1     0.00   de
+       1        1     0.00   demon
+       1        1     0.00   e
+       1        0   100.00   ever
+       1        0   100.00   every
+       1        0   100.00   faith
+       1        1     0.00   fir
+       1        1     0.00   fooliſhne
+       1        0   100.00   forcible
+       1        0   100.00   gain
+       1        1     0.00   given
+       7        1    85.71   god
+       2        1    50.00   goſpel
+       1        1     0.00   greeks
+       1        1     0.00   greekswe
+       2        1    50.00   grow
+       1        0   100.00   heb
+       2        0   100.00   hence
+       1        0   100.00   here
+       1        1     0.00   heuſeth
+       1        0   100.00   hope
+       1        1     0.00   impli'd
+       1        0   100.00   inheritance
+       1        0   100.00   inticing
+       1        1     0.00   inſpi
+       1        1     0.00   jam
+       1        1     0.00   jew
+       1        0   100.00   jewes
+       1        0   100.00   keepeth
+       2        0   100.00   kept
+       1        1     0.00   le
+       1        1     0.00   lieveth
+       1        0   100.00   likewiſe
+       1        1     0.00   lively
+       1        1     0.00   liveth
+       1        0   100.00   mark
+       3        0   100.00   means
+       1        1     0.00   milk
+       1        1     0.00   mu
+       1        1     0.00   ncere
+       1        1     0.00   ofgod
+       1        1     0.00   ofmens
+       1        1     0.00   paul
+       2        1    50.00   pet
+       7        3    57.14   power
+       3        1    66.67   powerful
+       1        1     0.00   powerfull
+       1        0   100.00   pray
+       2        0   100.00   preach
+       1        0   100.00   preaching
+       1        1     0.00   proﬁtable
+       2        1    50.00   ration
+       1        0   100.00   re
+       1        1     0.00   rine
+       1        1     0.00   ring
+       1        0   100.00   rom
+       1        0   100.00   scripture
+       1        0   100.00   secondly
+       1        0   100.00   teth
+       1        0   100.00   thereby
+       1        0   100.00   therefore
+       1        0   100.00   things
+       1        0   100.00   thoſe
+       1        1     0.00   touching
+       1        1     0.00   treatiſe
+       1        1     0.00   umbling
+       2        0   100.00   unto
+       1        1     0.00   ve
+       1        0   100.00   wiſdom
+       1        0   100.00   wiſdome
+       6        1    83.33   word
+       1        0   100.00   words
+       2        0   100.00   ſaid
+       2        0   100.00   ſaith
+       2        1    50.00   ſalvation
+       1        1     0.00   ſeed
+       4        0   100.00   ſo
+       1        1     0.00   ſome
+       1        0   100.00   ſpeech
+       1        0   100.00   ſpirit
+       1        0   100.00   ſuppoſeth
+       9        9     0.00   
+       3        3     0.00   
+       1        1     0.00   
+       1        1     0.00   

@@ -1,0 +1,186 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     227   Words
+     133   Misrecognized
+   41.41%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        2     0.00        1
+       8        3    62.50        2
+       2        0   100.00        3
+      12        5    58.33    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      15       14     6.67        1
+      32       22    31.25        2
+      98       63    35.71        3
+      25       13    48.00        4
+      19        7    63.16        5
+      12        4    66.67        6
+       6        2    66.67        7
+       4        3    25.00        8
+       4        0   100.00        9
+     215      128    40.47    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      95       41    56.84        1
+      21       12    42.86        2
+       3        1    66.67        3
+       3        2    33.33        7
+       1        0   100.00        8
+       1        1     0.00       10
+       2        2     0.00      >10
+     126       59    53.17    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     227      133    41.41        1
+     226      164    27.43        2
+     225      187    16.89        3
+     224      200    10.71        4
+     223      207     7.17        5
+     222      209     5.86        6
+     221      211     4.52        7
+     220      213     3.18        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       1        0   100.00   an
+       1        1     0.00   do
+       1        1     0.00   i
+       5        1    80.00   in
+       1        1     0.00   no
+       2        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   12
+       1        0   100.00   2
+       1        0   100.00   aber
+       1        0   100.00   act
+       2        0   100.00   als
+       1        0   100.00   alſo
+       1        1     0.00   andes
+       2        2     0.00   auﬀ
+       1        1     0.00   auﬀs
+       1        0   100.00   bi
+       1        1     0.00   biſ
+       1        0   100.00   cardi
+       1        0   100.00   cardinal
+       1        0   100.00   da
+       1        0   100.00   dahin
+       1        1     0.00   darﬀs
+       1        0   100.00   das
+       1        0   100.00   dem
+       3        1    66.67   den
+       2        0   100.00   denn
+       2        0   100.00   der
+       3        0   100.00   die
+       2        2     0.00   e
+       1        0   100.00   ehren
+       1        0   100.00   ei
+       1        0   100.00   ein
+       1        0   100.00   einem
+       1        1     0.00   einen
+       1        0   100.00   eines
+       7        7     0.00   en
+       1        1     0.00   engeland
+       1        0   100.00   engelandt
+       7        3    57.14   er
+       1        1     0.00   ere
+       1        0   100.00   erhaben
+       1        1     0.00   ers
+       1        0   100.00   et
+       1        1     0.00   fleiſ
+       2        2     0.00   fran
+       1        0   100.00   fuhre
+       1        1     0.00   g
+       1        0   100.00   gab
+       2        0   100.00   gar
+       2        2     0.00   ge
+       1        1     0.00   gebrau
+       1        1     0.00   gefre
+       1        0   100.00   geheim
+       1        1     0.00   gei
+       1        0   100.00   getrieben
+       1        1     0.00   geſ
+       1        0   100.00   goldt
+       1        1     0.00   gr
+       1        1     0.00   graﬀen
+       2        2     0.00   h
+       1        0   100.00   hat
+       1        0   100.00   herkomens
+       1        0   100.00   hielte
+       1        0   100.00   hinein
+       1        1     0.00   hoﬀ
+       1        1     0.00   hoﬀart
+       1        1     0.00   iegen
+       1        1     0.00   iiĳ
+       2        0   100.00   inn
+       1        0   100.00   jemals
+       1        0   100.00   jhn
+       7        7     0.00   k
+       1        0   100.00   kam
+       1        1     0.00   kein
+       1        1     0.00   le
+       1        0   100.00   legaten
+       2        2     0.00   li
+       1        0   100.00   lieb
+       1        1     0.00   lﬀ
+       1        1     0.00   mahl
+       1        0   100.00   mit
+       1        1     0.00   mpt
+       2        2     0.00   mu
+       1        0   100.00   nahe
+       1        1     0.00   nal
+       1        0   100.00   nes
+       3        3     0.00   nig
+       1        1     0.00   nigs
+       1        0   100.00   nun
+       2        2     0.00   oﬀ
+       1        0   100.00   pferde
+       2        2     0.00   rei
+       1        0   100.00   reiſen
+       1        1     0.00   rmen
+       1        1     0.00   sa
+       1        0   100.00   sadt
+       1        0   100.00   sohn
+       1        0   100.00   stadt
+       1        1     0.00   t
+       1        1     0.00   ten
+       1        1     0.00   ver
+       1        0   100.00   viel
+       8        1    87.50   vnd
+       1        0   100.00   vngnad
+       1        1     0.00   von
+       1        1     0.00   w
+       2        0   100.00   wagen
+       2        0   100.00   war
+       2        0   100.00   ward
+       1        0   100.00   wegen
+       1        0   100.00   weißheit
+       1        1     0.00   wel
+       1        1     0.00   weltli
+       2        1    50.00   wenn
+       1        0   100.00   wie
+       1        0   100.00   wiewol
+       1        0   100.00   wort
+       1        0   100.00   ziehen
+       1        0   100.00   zu
+       1        0   100.00   zum
+       1        1     0.00   zw
+       2        2     0.00   ſ
+       1        0   100.00   ſeiner
+       1        1     0.00   ſeines
+       1        1     0.00   ſo
+      11       11     0.00   
+       1        1     0.00   
+      10       10     0.00   
+       2        2     0.00   
+       2        2     0.00   
+       1        1     0.00   
+      19       19     0.00   

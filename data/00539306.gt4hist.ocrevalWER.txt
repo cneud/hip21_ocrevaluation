@@ -1,0 +1,171 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     166   Words
+      74   Misrecognized
+   55.42%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       3        0   100.00        1
+       2        0   100.00        2
+       5        0   100.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       1        0   100.00        1
+      36       12    66.67        2
+      40       14    65.00        3
+      18       10    44.44        4
+      14        9    35.71        5
+      10        3    70.00        6
+      13        6    53.85        7
+      11        7    36.36        8
+       6        4    33.33        9
+       3        2    33.33       10
+       5        4    20.00       11
+       2        2     0.00       12
+       2        1    50.00       14
+     161       74    54.04    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      92       45    51.09        1
+      11        4    63.64        2
+       4        0   100.00        3
+       2        0   100.00        4
+       4        0   100.00        5
+       1        0   100.00        7
+     114       49    57.02    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     166       74    55.42        1
+     165      113    31.52        2
+     164      134    18.29        3
+     163      145    11.04        4
+     162      149     8.02        5
+     161      150     6.83        6
+     160      151     5.62        7
+     159      152     4.40        8
+
+Stopwords
+   Count   Missed   %Right   
+       3        0   100.00   a
+       2        0   100.00   in
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   306
+       1        0   100.00   307
+       1        0   100.00   325
+       1        0   100.00   326
+       1        0   100.00   328
+       1        1     0.00   3i7
+       1        0   100.00   54
+       1        0   100.00   74
+       1        1     0.00   82
+       1        0   100.00   aangaande
+       1        0   100.00   avond
+       1        0   100.00   begrip
+       1        1     0.00   bewijzen
+       1        0   100.00   bezig
+       1        1     0.00   bijgebragt
+       5        0   100.00   bl
+       1        1     0.00   boekjen
+       1        1     0.00   brief
+       1        1     0.00   brieven
+       1        1     0.00   christelĳke
+       1        0   100.00   daar
+       1        0   100.00   dan
+       1        1     0.00   dank
+       2        1    50.00   dat
+       1        1     0.00   datwe
+       7        2    71.43   de
+       3        0   100.00   den
+       1        1     0.00   denzelfden
+       1        1     0.00   deswegen
+       1        0   100.00   deszelfs
+       2        2     0.00   deze
+       1        0   100.00   dog
+       1        0   100.00   drie
+       3        2    33.33   een
+       1        1     0.00   eens
+       1        1     0.00   egts
+       1        1     0.00   eindelĳk
+       1        1     0.00   eindigen
+       1        1     0.00   elling
+       5        1    80.00   en
+       1        0   100.00   er
+       1        1     0.00   ern
+       1        1     0.00   formulieren
+       1        0   100.00   ge
+       1        0   100.00   geen
+       2        1    50.00   gelezen
+       1        1     0.00   geloofsbelĳde
+       1        0   100.00   gemaakt
+       1        0   100.00   gemeen
+       1        0   100.00   genoegen
+       1        0   100.00   genoemd
+       1        0   100.00   gepoogd
+       1        1     0.00   hartelijken
+       2        0   100.00   heb
+       1        0   100.00   hebben
+       1        1     0.00   heeft
+       4        2    50.00   het
+       2        1    50.00   hetzelve
+       1        1     0.00   hier
+       1        1     0.00   hoofd
+       3        1    66.67   hr
+       1        1     0.00   ig
+       5        4    20.00   ik
+       1        0   100.00   jeſus
+       1        1     0.00   katechismus
+       1        1     0.00   kerk
+       1        1     0.00   kerke
+       1        1     0.00   kundigen
+       1        0   100.00   laatste
+       1        0   100.00   maal
+       1        1     0.00   maken
+       1        1     0.00   meende
+       2        1    50.00   meer
+       2        0   100.00   met
+       1        1     0.00   mijnen
+       1        0   100.00   nederlandſche
+       1        0   100.00   niet
+       1        1     0.00   nis
+       1        0   100.00   ontfang
+       1        0   100.00   onzer
+       1        1     0.00   opgemerkt
+       1        1     0.00   opmaken
+       1        0   100.00   overdagt
+       1        0   100.00   schrijver
+       1        0   100.00   t
+       3        1    66.67   te
+       1        0   100.00   tegen
+       1        1     0.00   twintigsten
+       4        3    25.00   uit
+       5        0   100.00   van
+       1        1     0.00   veel
+       1        1     0.00   verantwoorde
+       1        0   100.00   voor
+       2        2     0.00   voorreden
+       1        0   100.00   voudig
+       2        1    50.00   vr
+       1        0   100.00   waar
+       1        0   100.00   waarneming
+       1        0   100.00   weinige
+       1        0   100.00   wenſchende
+       1        1     0.00   woorden
+       1        0   100.00   worden
+       2        2     0.00   wordt
+       1        1     0.00   xxxii
+       1        0   100.00   zal
+       1        0   100.00   zeg
+       1        1     0.00   zijn
+       1        0   100.00   zijne
+       1        0   100.00   zijnen
+       1        1     0.00   ſchets
+       1        1     0.00   ſpreekt
+       1        1     0.00   ſproken
+       2        2     0.00   
+       1        1     0.00   

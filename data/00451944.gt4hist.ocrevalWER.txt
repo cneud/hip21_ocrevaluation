@@ -1,0 +1,206 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     337   Words
+     162   Misrecognized
+   51.93%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       5        3    40.00        1
+       4        3    25.00        2
+       9        6    33.33    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      15       14     6.67        1
+      57       17    70.18        2
+     117       82    29.91        3
+      38       10    73.68        4
+      23        7    69.57        5
+      32        9    71.88        6
+      12        4    66.67        7
+      11        4    63.64        8
+      11        5    54.55        9
+       4        1    75.00       10
+       6        2    66.67       11
+       2        1    50.00       12
+     328      156    52.44    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      87       29    66.67        1
+      30       12    60.00        2
+      12        5    58.33        3
+       3        1    66.67        4
+       4        0   100.00        5
+       1        0   100.00        6
+       1        1     0.00        7
+       1        0   100.00        9
+       6        4    33.33      >10
+     145       52    64.14    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     337      162    51.93        1
+     336      215    36.01        2
+     335      248    25.97        3
+     334      266    20.36        4
+     333      281    15.62        5
+     332      293    11.75        6
+     331      299     9.67        7
+     330      304     7.88        8
+
+Stopwords
+   Count   Missed   %Right   
+       5        3    40.00   a
+       1        1     0.00   an
+       1        1     0.00   in
+       2        1    50.00   on
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   20
+       2        2     0.00   ain
+       1        1     0.00   ame
+       1        1     0.00   ances
+       1        1     0.00   ant
+       1        0   100.00   apporter
+       1        1     0.00   attribut
+       3        1    66.67   attributs
+       1        0   100.00   aucune
+       1        0   100.00   auoir
+       3        3     0.00   autre
+       1        1     0.00   c'e
+       2        0   100.00   car
+       4        0   100.00   ce
+       1        1     0.00   celle
+       1        0   100.00   cette
+       1        0   100.00   cha
+       1        0   100.00   choſe
+       1        0   100.00   claircir
+       2        0   100.00   clairement
+       2        2     0.00   compoſé
+       2        0   100.00   compriſe
+       3        2    33.33   con
+       1        0   100.00   conceu
+       1        1     0.00   connoi
+       1        0   100.00   contient
+       1        1     0.00   conuenir
+       1        0   100.00   cun
+       1        1     0.00   cy
+       5        0   100.00   dans
+       1        0   100.00   dauantage
+       1        0   100.00   dautant
+      16        1    93.75   de
+       3        0   100.00   deux
+       1        0   100.00   deſcartes
+       1        0   100.00   deſquels
+       1        1     0.00   di
+       1        0   100.00   differentes
+       2        2     0.00   difficulté
+       1        0   100.00   dire
+       1        0   100.00   diuers
+       1        1     0.00   diſoit
+       2        0   100.00   donc
+      14       14     0.00   e
+       1        1     0.00   ement
+       3        1    66.67   en
+       2        2     0.00   ence
+       3        3     0.00   enduë
+       1        1     0.00   ent
+       1        0   100.00   entr'eux
+       1        1     0.00   entreprendre
+       2        2     0.00   er
+       1        1     0.00   ertions
+       2        2     0.00   eur
+       1        1     0.00   eurée
+       1        0   100.00   faites
+       1        1     0.00   façon
+       1        0   100.00   fois
+       1        0   100.00   grande
+       1        1     0.00   ible
+       2        0   100.00   icy
+       1        0   100.00   ie
+       2        0   100.00   il
+       1        1     0.00   impo
+       1        1     0.00   ion
+       1        0   100.00   iour
+       2        2     0.00   ituent
+       9        1    88.89   la
+       2        0   100.00   le
+       2        0   100.00   les
+       1        0   100.00   lors
+       1        0   100.00   lumiere
+       1        0   100.00   luy
+       2        1    50.00   là
+       2        0   100.00   mais
+       1        0   100.00   marque
+       1        0   100.00   ment
+       3        0   100.00   meſme
+       1        0   100.00   mode
+       2        2     0.00   mon
+       2        2     0.00   mple
+       3        3     0.00   n'e
+       1        0   100.00   natures
+       2        0   100.00   ne
+       1        0   100.00   non
+       5        0   100.00   notion
+       1        0   100.00   ny
+       1        1     0.00   oppo
+       2        0   100.00   par
+       1        0   100.00   pas
+       2        2     0.00   penſée
+       4        0   100.00   peut
+       1        1     0.00   placart
+       1        0   100.00   plein
+       1        0   100.00   plus
+       1        0   100.00   point
+       1        1     0.00   pui
+       3        0   100.00   qu'il
+       1        0   100.00   qu'ils
+       1        0   100.00   qu'vn
+      11        1    90.91   que
+       2        0   100.00   quelque
+       2        0   100.00   quelques
+       1        0   100.00   ques
+       6        0   100.00   qui
+       1        0   100.00   raiſonnable
+       3        3     0.00   re
+       1        0   100.00   remar
+       1        0   100.00   remarqueray
+       1        0   100.00   rencontrent
+       1        1     0.00   reſoluë
+       1        0   100.00   roy
+       1        1     0.00   s'agit
+       1        0   100.00   tels
+       1        0   100.00   tiels
+       1        0   100.00   tion
+       1        0   100.00   touchant
+       1        0   100.00   toutes
+       1        1     0.00   tradi
+       1        1     0.00   traitte
+       5        4    20.00   vn
+       1        0   100.00   vne
+       1        0   100.00   vouloir
+       1        0   100.00   y
+       2        1    50.00   à
+       2        2     0.00   é
+       3        0   100.00   ſans
+       2        0   100.00   ſe
+       1        0   100.00   ſemblables
+       2        0   100.00   ſeroit
+       1        0   100.00   ſes
+       2        0   100.00   ſeul
+       1        0   100.00   ſeule
+       1        0   100.00   ſont
+       3        3     0.00   ſub
+       5        0   100.00   ſujet
+       1        0   100.00   ſur
+       1        1     0.00   ſçauoir
+       1        1     0.00   ſçauroit
+      23       23     0.00   
+      12       12     0.00   
+       7        7     0.00   
+       2        2     0.00   
+       4        4     0.00   
+      15       15     0.00   

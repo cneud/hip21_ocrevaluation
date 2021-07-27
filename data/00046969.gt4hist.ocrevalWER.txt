@@ -1,0 +1,186 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     232   Words
+     146   Misrecognized
+   37.07%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       5        5     0.00        1
+       5        1    80.00        2
+       1        0   100.00        3
+      11        6    45.45    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      20       20     0.00        1
+      38       30    21.05        2
+     106       68    35.85        3
+      14        8    42.86        4
+      15        5    66.67        5
+      14        5    64.29        6
+       7        3    57.14        7
+       5        0   100.00        8
+       1        0   100.00        9
+       1        1     0.00       10
+     221      140    36.65    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      92       45    51.09        1
+      16       10    37.50        2
+       6        3    50.00        3
+       2        2     0.00        4
+       2        0   100.00        5
+       1        0   100.00        6
+       3        3     0.00        7
+       1        1     0.00       10
+       1        1     0.00      >10
+     124       65    47.58    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     232      146    37.07        1
+     231      183    20.78        2
+     230      205    10.87        3
+     229      216     5.68        4
+     228      220     3.51        5
+     227      222     2.20        6
+     226      224     0.88        7
+     225      225     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       3        0   100.00   an
+       4        4     0.00   i
+       1        0   100.00   in
+       1        0   100.00   man
+       1        1     0.00   no
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   ade
+       1        0   100.00   als
+       1        0   100.00   andern
+       1        1     0.00   au
+       1        0   100.00   bey
+       1        1     0.00   camin
+       2        0   100.00   da
+       2        0   100.00   damit
+       1        0   100.00   dar
+       5        0   100.00   das
+       3        0   100.00   dem
+       1        1     0.00   demna
+       1        0   100.00   den
+       1        0   100.00   der
+       1        0   100.00   des
+       1        1     0.00   deudtſ
+       1        1     0.00   deudſ
+       1        1     0.00   di
+       5        0   100.00   die
+       1        0   100.00   dingen
+       1        1     0.00   dor
+       3        3     0.00   dur
+       7        7     0.00   e
+       1        1     0.00   ein
+       1        1     0.00   einen
+      10       10     0.00   en
+       1        1     0.00   enen
+       6        1    83.33   er
+       1        0   100.00   erbe
+       1        0   100.00   erger
+       2        1    50.00   es
+       1        1     0.00   et
+       1        0   100.00   ewer
+       1        0   100.00   ewern
+       3        3     0.00   f
+       1        0   100.00   fewers
+       1        0   100.00   futtern
+       1        1     0.00   g
+       1        1     0.00   gej
+       1        0   100.00   gen
+       1        1     0.00   gte
+       1        0   100.00   heim
+       1        1     0.00   hi
+       1        1     0.00   hinein
+       2        2     0.00   hret
+       1        1     0.00   ing
+       1        0   100.00   jhn
+       1        0   100.00   jhnen
+       2        0   100.00   jhr
+       1        1     0.00   jren
+       1        1     0.00   k
+       1        0   100.00   kleid
+       2        1    50.00   kleider
+       1        1     0.00   ko
+       1        0   100.00   kom
+       1        0   100.00   langen
+       1        0   100.00   leppi
+       2        2     0.00   li
+       1        0   100.00   lies
+       1        1     0.00   luﬀt
+       1        0   100.00   mangelte
+       1        0   100.00   mehr
+       1        0   100.00   meine
+       1        0   100.00   men
+       3        0   100.00   mit
+       2        2     0.00   mu
+       1        1     0.00   n
+       1        1     0.00   na
+       1        0   100.00   ner
+       2        2     0.00   ni
+       1        0   100.00   nun
+       1        0   100.00   oder
+       1        0   100.00   pappir
+       1        1     0.00   pel
+       1        1     0.00   r
+       1        1     0.00   rden
+       1        0   100.00   regen
+       1        0   100.00   reiten
+       1        1     0.00   rtein
+       2        2     0.00   s
+       1        0   100.00   seinen
+       1        0   100.00   stauden
+       2        2     0.00   t
+       1        1     0.00   terli
+       1        1     0.00   tol
+       1        1     0.00   tr
+       1        1     0.00   ts
+       1        0   100.00   umb
+       1        1     0.00   und
+       1        1     0.00   v
+       1        0   100.00   ver
+       1        0   100.00   verderbe
+       1        0   100.00   verderbet
+       1        0   100.00   verderbt
+       1        1     0.00   verzog
+       2        0   100.00   vnd
+       3        0   100.00   von
+       1        0   100.00   vñ
+       1        1     0.00   w
+       1        1     0.00   weig
+       1        1     0.00   wel
+       1        1     0.00   wendet
+       1        0   100.00   wider
+       1        1     0.00   win
+       1        1     0.00   wolﬀspel
+       1        0   100.00   wurden
+       1        0   100.00   zeiget
+       1        1     0.00   zuri
+       4        4     0.00   ſ
+       1        0   100.00   ſagende
+       1        0   100.00   ſeinen
+       1        1     0.00   ſol
+       1        0   100.00   ſondern
+       2        2     0.00   
+       1        1     0.00   
+       7        7     0.00   
+       7        7     0.00   
+       2        2     0.00   
+       3        3     0.00   
+       2        2     0.00   
+       4        4     0.00   
+       2        2     0.00   
+      24       24     0.00   
+       1        1     0.00   ﬂeiß

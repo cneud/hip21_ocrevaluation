@@ -1,0 +1,164 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     167   Words
+      28   Misrecognized
+   83.23%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       5        1    80.00        1
+       5        0   100.00        2
+       2        0   100.00        3
+      12        1    91.67    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       4        1    75.00        1
+      36        3    91.67        2
+      45       12    73.33        3
+      13        0   100.00        4
+      13        0   100.00        5
+       7        1    85.71        6
+       6        0   100.00        7
+       1        0   100.00        8
+      11        2    81.82        9
+       7        2    71.43       10
+       7        2    71.43       11
+       2        1    50.00       12
+       3        3     0.00       14
+     155       27    82.58    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      83       17    79.52        1
+      11        0   100.00        2
+       3        0   100.00        3
+       1        0   100.00        5
+       1        0   100.00        7
+       2        0   100.00        9
+       1        0   100.00      >10
+     102       17    83.33    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     167       28    83.23        1
+     166       50    69.88        2
+     165       68    58.79        3
+     164       83    49.39        4
+     163       96    41.10        5
+     162      108    33.33        6
+     161      117    27.33        7
+     160      123    23.12        8
+
+Stopwords
+   Count   Missed   %Right   
+       5        1    80.00   a
+       1        0   100.00   had
+       4        0   100.00   in
+       1        0   100.00   of
+       1        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   260
+       1        0   100.00   263
+       1        0   100.00   265
+       1        1     0.00   274
+       1        0   100.00   284
+       1        1     0.00   290
+       1        0   100.00   294
+       2        1    50.00   303
+       1        0   100.00   74
+       1        1     0.00   aan
+       1        0   100.00   aantoonen
+       1        0   100.00   aanzien
+       1        0   100.00   acten
+       1        0   100.00   als
+       1        0   100.00   beantwoorden
+       1        1     0.00   bedenkingen
+       1        0   100.00   begint
+       1        0   100.00   beledi
+       1        0   100.00   bewijzen
+       1        1     0.00   beſchuldiging
+       1        0   100.00   bijgebragt
+       1        0   100.00   bijzondere
+       9        0   100.00   bl
+       1        0   100.00   brengt
+       2        0   100.00   brief
+       2        0   100.00   daar
+       1        0   100.00   daarna
+      11        1    90.91   de
+       3        0   100.00   den
+       2        0   100.00   der
+       2        0   100.00   des
+       1        0   100.00   die
+       1        0   100.00   ding
+       1        0   100.00   door
+       1        0   100.00   eene
+       1        0   100.00   eigenlijk
+       2        0   100.00   en
+       1        0   100.00   formulier
+       1        0   100.00   formulieren
+       1        0   100.00   gebed
+       1        0   100.00   gegeven
+       1        1     0.00   gehandeld
+       1        1     0.00   geloofsbelĳde
+       1        0   100.00   gen
+       1        0   100.00   gende
+       1        0   100.00   gene
+       1        0   100.00   genomen
+       1        0   100.00   getrouw
+       3        2    33.33   het
+       5        0   100.00   hr
+       2        0   100.00   ik
+       1        1     0.00   katechismi
+       1        0   100.00   katechismus
+       1        1     0.00   kinderdoops
+       1        0   100.00   leer
+       1        0   100.00   leere
+       1        0   100.00   mede
+       2        0   100.00   moest
+       1        0   100.00   n
+       1        0   100.00   na
+       1        0   100.00   nationale
+       1        0   100.00   nederland
+       1        1     0.00   nederlandſche
+       1        1     0.00   negentienden
+       1        0   100.00   niet
+       1        0   100.00   nis
+       1        1     0.00   nus
+       1        0   100.00   om
+       1        0   100.00   opgegeven
+       1        0   100.00   overweging
+       1        0   100.00   persoonele
+       1        0   100.00   provinciale
+       1        0   100.00   redeneren
+       1        0   100.00   synoden
+       3        1    66.67   t
+       2        0   100.00   te
+       1        0   100.00   tegen
+       1        0   100.00   ten
+       1        0   100.00   twintigsten
+       9        3    66.67   uit
+       1        1     0.00   ur
+       7        1    85.71   van
+       1        1     0.00   verantwoor
+       1        0   100.00   verbonden
+       1        0   100.00   verdediging
+       1        0   100.00   verklaring
+       1        0   100.00   volgt
+       1        0   100.00   voor
+       1        1     0.00   vooraf
+       2        1    50.00   voorreden
+       1        1     0.00   vr
+       1        0   100.00   vrage
+       1        0   100.00   waar
+       2        0   100.00   wat
+       1        0   100.00   welken
+       1        0   100.00   woorden
+       1        0   100.00   wordt
+       1        0   100.00   xxxi
+       1        0   100.00   zijn
+       1        0   100.00   zijne
+       1        0   100.00   zijnen
+       1        1     0.00   

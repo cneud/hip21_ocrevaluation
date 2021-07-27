@@ -1,0 +1,162 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     190   Words
+     137   Misrecognized
+   27.89%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        4     0.00        1
+       5        2    60.00        2
+       2        1    50.00        3
+      11        7    36.36    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      15       15     0.00        1
+      33       26    21.21        2
+      69       49    28.99        3
+      19       14    26.32        4
+      14        9    35.71        5
+      15       10    33.33        6
+       5        3    40.00        7
+       5        2    60.00        8
+       2        1    50.00        9
+       1        0   100.00       10
+       1        1     0.00       11
+     179      130    27.37    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      68       46    32.35        1
+      16        7    56.25        2
+       9        6    33.33        3
+       1        1     0.00        4
+       1        0   100.00        5
+       3        1    66.67        6
+       1        1     0.00        7
+       1        1     0.00      >10
+     100       63    37.00    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     190      137    27.89        1
+     189      160    15.34        2
+     188      170     9.57        3
+     187      179     4.28        4
+     186      183     1.61        5
+     185      184     0.54        6
+     184      184     0.00        7
+     183      183     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        2     0.00   a
+       4        1    75.00   an
+       1        1     0.00   get
+       2        2     0.00   i
+       1        1     0.00   in
+       1        0   100.00   man
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   1
+       1        1     0.00   3
+       1        0   100.00   al
+       1        1     0.00   alſo
+       2        1    50.00   am
+       1        1     0.00   anderer
+       1        1     0.00   anmeldet
+       1        1     0.00   au
+       2        2     0.00   aﬀen
+       1        1     0.00   begn
+       1        1     0.00   beider
+       2        1    50.00   bilde
+       1        1     0.00   bloß
+       2        2     0.00   bu
+       2        1    50.00   cap
+       3        2    33.33   da
+       2        0   100.00   das
+       1        0   100.00   den
+       1        1     0.00   denn
+       6        2    66.67   der
+       1        0   100.00   des
+       2        0   100.00   die
+       7        7     0.00   e
+       1        0   100.00   einem
+       1        1     0.00   elte
+       3        3     0.00   en
+       5        3    40.00   er
+       1        0   100.00   erkentniß
+       2        2     0.00   es
+       1        1     0.00   et
+       1        0   100.00   eua
+       1        1     0.00   ew
+       1        1     0.00   fengli
+       1        1     0.00   fur
+       1        1     0.00   gere
+       2        2     0.00   geſ
+       1        1     0.00   glaubwirdig
+       1        0   100.00   gnade
+       1        1     0.00   gott
+       3        0   100.00   gottes
+       1        1     0.00   h
+       1        0   100.00   habe
+       1        0   100.00   heilig
+       1        1     0.00   het
+       1        1     0.00   ie
+       1        1     0.00   im
+       1        1     0.00   item
+       1        1     0.00   ja
+       1        1     0.00   je
+       1        1     0.00   jhre
+       1        1     0.00   jhren
+       1        0   100.00   jm
+       1        0   100.00   jn
+       1        0   100.00   kleidung
+       1        1     0.00   klerli
+       1        1     0.00   langen
+       1        0   100.00   lemblein
+       3        3     0.00   menſ
+       2        1    50.00   mit
+       2        1    50.00   moyſes
+       1        1     0.00   na
+       1        1     0.00   ndlein
+       1        0   100.00   oder
+       2        0   100.00   ohne
+       1        0   100.00   reden
+       1        1     0.00   redet
+       1        1     0.00   s
+       1        1     0.00   scribent
+       1        1     0.00   st
+       3        3     0.00   t
+       1        1     0.00   todes
+       2        2     0.00   uﬀ
+       6        3    50.00   vnd
+       1        1     0.00   vngl
+       1        1     0.00   vo
+       1        0   100.00   vom
+       1        1     0.00   vrſprung
+       1        1     0.00   w
+       1        0   100.00   weißheit
+       3        2    33.33   wie
+       1        1     0.00   wir
+       1        0   100.00   woher
+       1        1     0.00   wurden
+       1        0   100.00   zeiget
+       2        0   100.00   zum
+       3        3     0.00   ſ
+       2        2     0.00   ſaget
+       1        0   100.00   ſeinem
+       1        1     0.00   ſelben
+       1        0   100.00   ſey
+       1        1     0.00   ſo
+       2        2     0.00   ſol
+       1        0   100.00   ſpielen
+       4        4     0.00   
+       6        6     0.00   
+       1        1     0.00   
+       3        3     0.00   
+       1        1     0.00   
+       3        3     0.00   
+      18       18     0.00   

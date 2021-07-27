@@ -1,0 +1,200 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     224   Words
+     139   Misrecognized
+   37.95%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        4     0.00        1
+       5        4    20.00        2
+       2        1    50.00        3
+      11        9    18.18    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      19       18     5.26        1
+      19       18     5.26        2
+      97       61    37.11        3
+      34       12    64.71        4
+      15        4    73.33        5
+      15        8    46.67        6
+       7        3    57.14        7
+       2        2     0.00        8
+       2        1    50.00        9
+       3        3     0.00       10
+     213      130    38.97    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+     105       55    47.62        1
+      17        9    47.06        2
+       4        2    50.00        3
+       3        3     0.00        4
+       1        0   100.00        5
+       4        3    25.00        6
+       1        0   100.00        7
+       1        1     0.00      >10
+     136       73    46.32    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     224      139    37.95        1
+     223      172    22.87        2
+     222      191    13.96        3
+     221      202     8.60        4
+     220      208     5.45        5
+     219      213     2.74        6
+     218      216     0.92        7
+     217      217     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       3        3     0.00   a
+       1        1     0.00   an
+       1        1     0.00   her
+       1        1     0.00   i
+       1        1     0.00   is
+       1        1     0.00   no
+       1        0   100.00   so
+       1        0   100.00   was
+       1        1     0.00   we
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   3
+       1        0   100.00   al
+       1        1     0.00   alſo
+       1        0   100.00   arm
+       1        1     0.00   auﬀ
+       2        2     0.00   b
+       1        1     0.00   beinhauſe
+       1        0   100.00   bewar
+       1        1     0.00   biſ
+       1        0   100.00   boden
+       1        1     0.00   bulern
+       1        0   100.00   cap
+       1        1     0.00   da
+       1        0   100.00   damit
+       1        1     0.00   darﬀs
+       2        1    50.00   das
+       2        0   100.00   dein
+       1        1     0.00   den
+       1        0   100.00   denn
+       6        0   100.00   der
+       5        2    60.00   die
+       2        2     0.00   e
+       1        1     0.00   eht
+       1        0   100.00   ein
+       1        1     0.00   en
+       1        1     0.00   ens
+       2        2     0.00   er
+       1        0   100.00   erden
+       1        0   100.00   erfah
+       1        1     0.00   eritis
+       2        2     0.00   et
+       1        0   100.00   eſa
+       2        2     0.00   f
+       1        0   100.00   fart
+       1        1     0.00   fe
+       1        0   100.00   fuimus
+       1        1     0.00   gefa
+       1        1     0.00   gefe
+       1        0   100.00   gefelt
+       1        0   100.00   gehet
+       1        1     0.00   geht
+       1        1     0.00   gemeinigli
+       1        0   100.00   gibt
+       1        0   100.00   gott
+       1        1     0.00   hi
+       1        0   100.00   hie
+       1        1     0.00   hoc
+       1        0   100.00   hof
+       1        0   100.00   hoſen
+       2        0   100.00   ihr
+       1        1     0.00   iiij
+       3        3     0.00   je
+       1        1     0.00   jenem
+       1        0   100.00   jhr
+       1        1     0.00   jun
+       1        0   100.00   kindern
+       1        0   100.00   kleid
+       1        1     0.00   kleider
+       1        1     0.00   kne
+       1        0   100.00   lands
+       1        0   100.00   landt
+       1        1     0.00   lebendigen
+       1        1     0.00   lei
+       2        1    50.00   leib
+       1        0   100.00   lein
+       1        0   100.00   leut
+       1        0   100.00   leute
+       1        1     0.00   li
+       1        1     0.00   m
+       1        0   100.00   memores
+       1        1     0.00   mir
+       2        0   100.00   mit
+       1        0   100.00   modo
+       1        1     0.00   mu
+       1        0   100.00   narren
+       1        1     0.00   nd
+       1        0   100.00   neben
+       1        1     0.00   ni
+       1        0   100.00   nimmet
+       1        1     0.00   nﬀtige
+       2        0   100.00   oder
+       1        0   100.00   quandoq
+       1        0   100.00   qui
+       2        1    50.00   quod
+       2        2     0.00   r
+       1        1     0.00   rei
+       1        1     0.00   ri
+       1        1     0.00   riﬀt
+       1        1     0.00   rme
+       1        0   100.00   rung
+       2        2     0.00   s
+       6        6     0.00   t
+       1        1     0.00   telt
+       1        1     0.00   tfertig
+       2        2     0.00   tis
+       1        1     0.00   todten
+       1        1     0.00   tran
+       1        0   100.00   vber
+       1        0   100.00   vberhandt
+       1        1     0.00   vberma
+       1        1     0.00   vberﬂus
+       1        1     0.00   vern
+       1        1     0.00   verslein
+       1        0   100.00   viel
+       7        0   100.00   vnd
+       1        0   100.00   vns
+       1        0   100.00   vos
+       1        1     0.00   w
+       1        0   100.00   warn
+       1        1     0.00   wels
+       1        0   100.00   wenn
+       1        0   100.00   werd
+       1        0   100.00   werden
+       3        0   100.00   wie
+       2        1    50.00   wir
+       1        0   100.00   wird
+       1        1     0.00   wol
+       1        1     0.00   zu
+       1        1     0.00   zun
+       1        1     0.00   zwey
+       1        1     0.00   ſ
+       1        1     0.00   ſa
+       2        2     0.00   ſagen
+       1        1     0.00   ſeid
+       1        0   100.00   ſeinen
+       1        0   100.00   ſet
+       3        1    66.67   ſo
+       1        0   100.00   ſpeis
+       1        1     0.00   ſumus
+       6        6     0.00   
+       4        4     0.00   
+       3        3     0.00   
+       4        4     0.00   
+       6        6     0.00   
+       4        4     0.00   
+      14       14     0.00   

@@ -1,0 +1,145 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     145   Words
+     102   Misrecognized
+   29.66%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        4     0.00        1
+       5        5     0.00        2
+       2        2     0.00        3
+      11       11     0.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      14        9    35.71        1
+      20       18    10.00        2
+      50       37    26.00        3
+      16        7    56.25        4
+      15       10    33.33        5
+       6        1    83.33        6
+       6        2    66.67        7
+       5        5     0.00        8
+       1        1     0.00       11
+       1        1     0.00       13
+     134       91    32.09    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      70       45    35.71        1
+       9        5    44.44        2
+       6        2    66.67        3
+       1        0   100.00        7
+       1        1     0.00      >10
+      87       53    39.08    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     145      102    29.66        1
+     144      125    13.19        2
+     143      136     4.90        3
+     142      141     0.70        4
+     141      141     0.00        5
+     140      140     0.00        6
+     139      139     0.00        7
+     138      138     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        2     0.00   do
+       1        1     0.00   her
+       4        4     0.00   i
+       1        1     0.00   in
+       1        1     0.00   man
+       2        2     0.00   no
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   aber
+       1        0   100.00   alte
+       1        0   100.00   andere
+       1        1     0.00   au
+       1        1     0.00   ausgehen
+       1        1     0.00   auﬀ
+       1        1     0.00   aﬀt
+       1        1     0.00   ben
+       1        1     0.00   ber
+       1        0   100.00   bey
+       1        1     0.00   bi
+       1        0   100.00   da
+       1        0   100.00   daher
+       1        1     0.00   dar
+       1        1     0.00   dargegen
+       3        0   100.00   das
+       2        0   100.00   denn
+       1        1     0.00   denno
+       2        1    50.00   der
+       3        0   100.00   die
+       7        3    57.14   e
+       1        1     0.00   ehrli
+       2        1    50.00   einer
+       2        2     0.00   en
+       3        3     0.00   er
+       1        1     0.00   et
+       1        1     0.00   etli
+       1        1     0.00   etwa
+       1        1     0.00   f
+       1        0   100.00   feiner
+       1        1     0.00   ge
+       1        1     0.00   gend
+       1        1     0.00   geſehen
+       1        1     0.00   gr
+       1        1     0.00   ha
+       1        0   100.00   hatten
+       1        0   100.00   herein
+       1        1     0.00   hrten
+       1        0   100.00   im
+       1        1     0.00   inn
+       1        1     0.00   jhren
+       1        1     0.00   k
+       1        1     0.00   kleidung
+       2        2     0.00   la
+       1        0   100.00   leibe
+       1        0   100.00   leuten
+       1        1     0.00   li
+       1        0   100.00   lob
+       1        1     0.00   lobſpru
+       1        0   100.00   mein
+       1        0   100.00   meinung
+       1        0   100.00   mir
+       1        0   100.00   mit
+       1        1     0.00   mpt
+       1        0   100.00   namen
+       1        1     0.00   namhaﬀtigen
+       1        1     0.00   pra
+       1        1     0.00   preiß
+       1        1     0.00   reibe
+       1        0   100.00   stadt
+       1        1     0.00   stadtli
+       2        2     0.00   t
+       1        0   100.00   tretten
+       1        1     0.00   tu
+       3        2    33.33   v
+       2        0   100.00   viel
+       3        2    33.33   vnd
+       1        1     0.00   vnnd
+       1        1     0.00   vnter
+       1        1     0.00   voitlendiſ
+       1        0   100.00   vorrede
+       1        0   100.00   welt
+       1        0   100.00   weniger
+       1        0   100.00   wirt
+       1        0   100.00   zim
+       1        1     0.00   zuſ
+       3        3     0.00   ſ
+       1        1     0.00   ſern
+       1        1     0.00   ſes
+       1        1     0.00   ſol
+       2        2     0.00   
+       2        2     0.00   
+       1        1     0.00   
+       1        1     0.00   
+       1        1     0.00   
+      21       21     0.00   
+       1        1     0.00   ﬁndet

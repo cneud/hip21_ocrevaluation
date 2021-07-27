@@ -1,0 +1,127 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1226   Characters
+     504   Errors
+   58.89%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   58.89%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     224       38      242      504   Unmarked
+     224       38      242      504   Total
+
+   Count   Missed   %Right
+     211       36    82.94   ASCII Spacing Characters
+      40       12    70.00   ASCII Special Symbols
+       9        6    33.33   ASCII Digits
+      57       27    52.63   ASCII Uppercase Letters
+     892      164    81.61   ASCII Lowercase Letters
+       6        6     0.00   Latin Extended-A
+       7        7     0.00   General Punctuation
+       4        4     0.00   Private Use Area
+    1226      262    78.63   Total
+
+  Errors   Marked   Correct-Generated
+     134        0   {}-{,<\n>EVEN 200 weinig wee...}
+     103        0   {}-{fchijnt gezonden geweest...}
+      51        0   {het<\n>Berigt wegens Phi...}-{Y}
+      47        0   {VOORREDEN.<\n>EVEN zoo w...}-{I}
+      38        0   {zonden geweest te zijn, ...}-{}
+      28        0   { zijne Boekzaal, bl. 676...}-{}
+      15        0   {I787.<\n>ſchijnt g}-{N}
+       8        0   {Boekzale}-{6}
+       7        0   {t<\n>te<\n>ve}-{}
+       6        0   {}-{ft}
+       5        0   {Junij}-{E}
+       5        0   {Maand}-{D}
+       5        0   {Uitge}-{}
+       5        0   {t, ni}-{}
+       5        0   {ſ}-{f}
+       4        0   {'t }-{% fl}
+       4        0   {r, i}-{}
+       4        0   {voor}-{R}
+       3        0   {der}-{OO}
+       3        0   {gen}-{}
+       3        0   {‐}-{e}
+       2        0   {IV}-{\}
+       2        0   {OF}-{or}
+       2        0   {an}-{}
+       2        0   {de}-{RE}
+       2        0   {er}-{}
+       2        0   {}-{ ‘}
+       1        0   {.}-{,}
+       1        0   {I}-{1}
+       1        0   {a}-{á}
+       1        0   {g}-{s}
+       1        0   {m}-{s}
+       1        0   {n}-{z}
+       1        0   {‐}-{-}
+       1        0   {‐}-{=}
+       1        0   {‐}-{É}
+
+   Count   Missed   %Right
+      30        6    80.00   {<\n>}
+     181       30    83.43   { }
+       2        2     0.00   {'}
+       1        0   100.00   {(}
+       1        0   100.00   {)}
+      23        5    78.26   {,}
+       8        5    37.50   {.}
+       2        2     0.00   {6}
+       5        3    40.00   {7}
+       2        1    50.00   {8}
+       2        0   100.00   {:}
+       3        0   100.00   {;}
+       1        0   100.00   {A}
+       6        3    50.00   {B}
+       2        0   100.00   {C}
+       3        1    66.67   {D}
+       5        4    20.00   {E}
+       1        1     0.00   {F}
+       2        0   100.00   {H}
+       4        3    25.00   {I}
+       1        1     0.00   {J}
+       3        0   100.00   {L}
+       2        1    50.00   {M}
+       2        2     0.00   {N}
+       4        3    25.00   {O}
+       5        1    80.00   {P}
+       4        2    50.00   {R}
+       1        0   100.00   {S}
+       1        0   100.00   {T}
+       4        2    50.00   {U}
+       5        3    40.00   {V}
+       1        0   100.00   {W}
+      71       11    84.51   {a}
+       9        1    88.89   {b}
+       5        1    80.00   {c}
+      74        8    89.19   {d}
+     168       31    81.55   {e}
+       7        0   100.00   {f}
+      33       10    69.70   {g}
+      23        4    82.61   {h}
+      66       14    78.79   {i}
+      19        4    78.95   {j}
+      22        4    81.82   {k}
+      40        6    85.00   {l}
+      20        1    95.00   {m}
+      77       17    77.92   {n}
+      45       10    77.78   {o}
+       9        1    88.89   {p}
+      45        5    88.89   {r}
+      15        3    80.00   {s}
+      67       17    74.63   {t}
+      18        2    88.89   {u}
+      18        2    88.89   {v}
+      16        5    68.75   {w}
+       1        0   100.00   {y}
+      24        7    70.83   {z}
+       6        6     0.00   {ſ}
+       6        6     0.00   {‐}
+       1        1     0.00   {‑}
+       4        4     0.00   {}

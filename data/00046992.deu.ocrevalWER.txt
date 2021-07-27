@@ -1,0 +1,168 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     210   Words
+     140   Misrecognized
+   33.33%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       7        7     0.00        1
+       2        2     0.00        2
+       1        0   100.00        3
+      10        9    10.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      19       18     5.26        1
+      35       30    14.29        2
+      87       61    29.89        3
+      14        4    71.43        4
+      15       11    26.67        5
+      15        5    66.67        6
+       6        0   100.00        7
+       3        0   100.00        8
+       4        1    75.00        9
+       2        1    50.00       10
+     200      131    34.50    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      81       40    50.62        1
+       8        4    50.00        2
+      11        5    54.55        3
+       2        1    50.00        4
+       4        3    25.00        5
+       2        2     0.00        6
+       1        1     0.00      >10
+     109       56    48.62    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     210      140    33.33        1
+     209      172    17.70        2
+     208      189     9.13        3
+     207      198     4.35        4
+     206      202     1.94        5
+     205      203     0.98        6
+     204      203     0.49        7
+     203      203     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       3        3     0.00   a
+       1        1     0.00   do
+       1        1     0.00   he
+       4        4     0.00   i
+       1        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   9
+       1        0   100.00   aber
+       1        0   100.00   alexander
+       1        1     0.00   alt
+       1        0   100.00   anders
+       3        3     0.00   au
+       1        0   100.00   augenwehe
+       1        1     0.00   auﬀ
+       1        0   100.00   barkeit
+       1        1     0.00   ben
+       1        1     0.00   berli
+       1        0   100.00   cap
+       1        0   100.00   damit
+       1        0   100.00   darumb
+       1        0   100.00   das
+       1        1     0.00   dauon
+       1        0   100.00   dem
+       3        0   100.00   den
+       2        0   100.00   denn
+       1        0   100.00   der
+       1        1     0.00   dern
+       3        0   100.00   die
+       1        0   100.00   du
+       6        6     0.00   e
+       1        1     0.00   ehemennern
+       1        1     0.00   ehrli
+       2        0   100.00   ein
+       5        5     0.00   en
+       3        1    66.67   er
+       1        1     0.00   es
+       1        1     0.00   f
+       1        0   100.00   fewriges
+       1        0   100.00   frawen
+       3        2    33.33   ge
+       1        1     0.00   gefa
+       1        0   100.00   gehorſam
+       1        0   100.00   gern
+       1        0   100.00   giengen
+       1        1     0.00   ha
+       1        1     0.00   halte
+       1        0   100.00   haupte
+       1        0   100.00   herr
+       1        1     0.00   herrli
+       1        0   100.00   hette
+       1        0   100.00   hetten
+       1        0   100.00   heut
+       1        0   100.00   hieronymus
+       1        0   100.00   item
+       1        1     0.00   jhren
+       1        1     0.00   jr
+       1        0   100.00   jre
+       1        0   100.00   jungk
+       2        2     0.00   k
+       1        1     0.00   kommen
+       1        1     0.00   la
+       1        1     0.00   li
+       1        0   100.00   liebten
+       1        1     0.00   meinem
+       1        1     0.00   menner
+       2        0   100.00   mit
+       2        2     0.00   mu
+       1        0   100.00   mus
+       1        1     0.00   narrenwer
+       2        2     0.00   ne
+       3        3     0.00   ni
+       1        1     0.00   nigin
+       1        1     0.00   per
+       1        0   100.00   prangen
+       1        1     0.00   r
+       1        1     0.00   rc
+       1        0   100.00   redet
+       1        1     0.00   redli
+       1        1     0.00   rei
+       3        3     0.00   s
+       1        0   100.00   sondern
+       1        1     0.00   syra
+       5        5     0.00   t
+       1        0   100.00   tag
+       1        1     0.00   te
+       1        0   100.00   tra
+       1        1     0.00   tu
+       1        0   100.00   viel
+       1        1     0.00   vmb
+       1        0   100.00   vmbgehen
+       5        2    60.00   vnd
+       1        0   100.00   vnreines
+       1        0   100.00   von
+       1        1     0.00   war
+       1        1     0.00   wei
+       3        0   100.00   weiber
+       1        0   100.00   wenn
+       1        1     0.00   werdt
+       4        0   100.00   wie
+       1        0   100.00   wolt
+       1        0   100.00   zierten
+       2        1    50.00   zu
+       3        3     0.00   ſ
+       3        1    66.67   ſaget
+       1        1     0.00   ſagt
+       1        1     0.00   ſein
+       1        1     0.00   ſon
+       4        4     0.00   
+       1        1     0.00   
+       5        5     0.00   
+       6        6     0.00   
+       2        2     0.00   
+       3        3     0.00   
+       1        1     0.00   
+      30       30     0.00   

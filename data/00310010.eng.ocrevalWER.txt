@@ -1,0 +1,161 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     154   Words
+      86   Misrecognized
+   44.16%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        1    50.00        1
+      25       12    52.00        2
+      16        8    50.00        3
+      18        7    61.11        4
+      61       28    54.10    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       3        2    33.33        1
+       6        6     0.00        2
+      12        8    33.33        3
+      21       11    47.62        4
+      16       10    37.50        5
+       6        3    50.00        6
+      10        8    20.00        7
+      11        5    54.55        8
+       5        3    40.00        9
+       2        1    50.00       10
+       1        1     0.00       12
+      93       58    37.63    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      69       44    36.23        1
+       9        3    66.67        2
+       2        1    50.00        3
+      80       48    40.00    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     154       86    44.16        1
+     153      105    31.37        2
+     152      116    23.68        3
+     151      121    19.87        4
+     150      126    16.00        5
+     149      131    12.08        6
+     148      135     8.78        7
+     147      137     6.80        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        1    50.00   a
+       5        3    40.00   and
+       1        1     0.00   are
+       1        0   100.00   as
+       3        1    66.67   at
+       2        1    50.00   be
+       1        0   100.00   but
+       4        3    25.00   by
+       2        2     0.00   do
+       1        0   100.00   down
+       1        0   100.00   for
+       4        3    25.00   from
+       1        0   100.00   he
+       1        0   100.00   if
+       2        1    50.00   in
+       1        1     0.00   is
+       1        0   100.00   man
+       2        1    50.00   many
+       1        1     0.00   may
+       1        0   100.00   no
+       3        1    66.67   not
+       3        1    66.67   of
+       1        0   100.00   or
+       6        2    66.67   that
+       3        2    33.33   the
+       2        0   100.00   they
+       3        2    33.33   to
+       2        1    50.00   were
+       1        0   100.00   with
+
+Non-stopwords
+   Count   Missed   %Right   
+       2        2     0.00   11
+       1        1     0.00   1653
+       1        1     0.00   20
+       1        1     0.00   21
+       1        0   100.00   3
+       1        1     0.00   abſurdities
+       1        1     0.00   added
+       1        1     0.00   alſo
+       1        1     0.00   anſwered
+       1        0   100.00   arguments
+       1        1     0.00   becauſe
+       2        1    50.00   believers
+       1        0   100.00   branches
+       1        0   100.00   broken
+       1        0   100.00   cannot
+       1        1     0.00   church
+       1        0   100.00   conference
+       1        0   100.00   crown
+       1        0   100.00   examined
+       1        1     0.00   fa
+       1        0   100.00   faith
+       2        1    50.00   fall
+       1        0   100.00   falling
+       1        0   100.00   fear
+       1        1     0.00   finally
+       1        1     0.00   flowing
+       1        0   100.00   god
+       3        1    66.67   grace
+       1        1     0.00   griffith
+       1        1     0.00   h
+       1        1     0.00   ha
+       1        0   100.00   heed
+       1        0   100.00   high
+       1        1     0.00   hills
+       1        0   100.00   hold
+       1        0   100.00   ing
+       1        1     0.00   john
+       1        1     0.00   kent
+       1        1     0.00   laid
+       1        1     0.00   lea
+       1        1     0.00   london
+       1        0   100.00   minded
+       1        1     0.00   moon
+       1        1     0.00   n
+       1        0   100.00   naturall
+       1        0   100.00   off
+       1        1     0.00   pauls
+       1        1     0.00   printed
+       1        1     0.00   profitable
+       2        1    50.00   prove
+       1        1     0.00   reaſons
+       1        1     0.00   rev
+       1        1     0.00   richard
+       2        2     0.00   rine
+       1        1     0.00   rom
+       1        0   100.00   spare
+       1        1     0.00   stars
+       2        0   100.00   take
+       1        0   100.00   tending
+       1        1     0.00   thee
+       2        1    50.00   thirteen
+       2        0   100.00   thou
+       1        0   100.00   thy
+       1        1     0.00   totally
+       1        1     0.00   touching
+       1        0   100.00   treatise
+       1        0   100.00   unbelief
+       1        1     0.00   uſes
+       1        0   100.00   well
+       1        1     0.00   whereunto
+       1        1     0.00   yaid
+       1        1     0.00   yard
+       1        1     0.00   ſeven
+       1        1     0.00   ſhewed
+       1        1     0.00   ſign
+       1        1     0.00   ſold
+       1        1     0.00   ſpared
+       3        3     0.00   
+       2        2     0.00   
+       1        1     0.00   ﬆands

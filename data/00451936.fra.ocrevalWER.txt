@@ -1,0 +1,199 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     264   Words
+     138   Misrecognized
+   47.73%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        4     0.00        1
+       1        1     0.00        2
+       5        5     0.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      13       11    15.38        1
+      56       20    64.29        2
+      85       57    32.94        3
+      17        9    47.06        4
+      28        8    71.43        5
+      15        7    53.33        6
+      14        8    42.86        7
+      15        5    66.67        8
+       4        0   100.00        9
+       7        6    14.29       10
+       2        0   100.00       11
+       2        2     0.00       12
+       1        0   100.00       14
+     259      133    48.65    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      93       42    54.84        1
+      23        8    65.22        2
+       7        1    85.71        3
+       6        4    33.33        4
+       2        0   100.00        5
+       2        0   100.00        6
+       1        1     0.00        7
+       1        0   100.00        8
+       3        1    66.67      >10
+     138       57    58.70    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     264      138    47.73        1
+     263      178    32.32        2
+     262      205    21.76        3
+     261      221    15.33        4
+     260      232    10.77        5
+     259      241     6.95        6
+     258      247     4.26        7
+     257      251     2.33        8
+
+Stopwords
+   Count   Missed   %Right   
+       3        3     0.00   a
+       1        1     0.00   i
+       1        1     0.00   us
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   12
+       2        0   100.00   ait
+       1        1     0.00   ance
+       1        0   100.00   anciens
+       2        2     0.00   ans
+       1        1     0.00   arriué
+       1        0   100.00   attachez
+       1        1     0.00   au
+       1        0   100.00   aucune
+       1        1     0.00   auec
+       1        0   100.00   auquel
+       1        0   100.00   autres
+       1        0   100.00   ayant
+       1        1     0.00   ayent
+       1        0   100.00   car
+       1        1     0.00   cauſe
+       4        2    50.00   ce
+       2        0   100.00   celle
+       1        1     0.00   chap
+       1        1     0.00   choſe
+       1        0   100.00   clairez
+       1        1     0.00   con
+       1        1     0.00   connoi
+       5        0   100.00   corps
+       1        0   100.00   crû
+      13        6    53.85   de
+       1        1     0.00   derer
+       2        0   100.00   des
+       2        1    50.00   di
+       1        0   100.00   difficile
+       1        0   100.00   difficulté
+       2        0   100.00   du
+      11       10     9.09   e
+       3        1    66.67   en
+       1        0   100.00   encore
+       1        0   100.00   entre
+       1        0   100.00   eu
+       1        1     0.00   ez
+       2        2     0.00   eſ
+       4        4     0.00   eſprit
+       1        1     0.00   faiſans
+       1        0   100.00   force
+       1        0   100.00   foy
+       1        0   100.00   grande
+       1        1     0.00   harmonie
+       1        1     0.00   homme
+       1        0   100.00   iamais
+       1        1     0.00   iii
+       3        1    66.67   il
+       2        1    50.00   ils
+       2        2     0.00   immateriel
+       1        1     0.00   inguans
+       2        2     0.00   ions
+       1        0   100.00   joint
+       8        3    62.50   la
+       2        0   100.00   laquelle
+       5        0   100.00   le
+       4        1    75.00   les
+       1        1     0.00   lumieres
+       2        1    50.00   luy
+       1        1     0.00   m'e
+       1        0   100.00   mais
+       1        0   100.00   matiere
+       2        2     0.00   meſme
+       1        0   100.00   modernes
+       2        0   100.00   moins
+       1        0   100.00   mou
+       1        0   100.00   mouuement
+       1        0   100.00   mouuements
+       1        0   100.00   moyen
+       2        1    50.00   n'y
+       1        0   100.00   nature
+       2        1    50.00   ne
+       1        0   100.00   nobles
+       1        0   100.00   non
+       1        0   100.00   ny
+       3        3     0.00   oit
+       1        1     0.00   onner
+       2        0   100.00   ont
+       1        1     0.00   opinions
+       3        0   100.00   ou
+       1        1     0.00   où
+       1        0   100.00   par
+       1        0   100.00   parce
+       1        0   100.00   parmy
+       1        1     0.00   penſe
+       1        1     0.00   penſé
+       1        1     0.00   philoſophes
+       1        1     0.00   philoſophie
+       3        0   100.00   plus
+       2        0   100.00   point
+       1        0   100.00   principalement
+       1        0   100.00   prit
+       1        0   100.00   qu'entre
+       1        1     0.00   qu'il
+       1        0   100.00   qu'à
+       6        2    66.67   que
+       1        0   100.00   quelque
+       3        0   100.00   quelques
+       6        2    66.67   qui
+       1        0   100.00   rapport
+       1        0   100.00   recherchée
+       1        0   100.00   reflexion
+       1        0   100.00   regarde
+       1        0   100.00   releuées
+       1        0   100.00   rendu
+       1        1     0.00   reü
+       1        0   100.00   s'e
+       1        0   100.00   tant
+       1        0   100.00   touchant
+       1        1     0.00   tout
+       1        1     0.00   toutes
+       2        2     0.00   toutesfois
+       1        1     0.00   traitte
+       1        1     0.00   té
+       1        1     0.00   uer
+       1        0   100.00   uoir
+       2        1    50.00   vn
+       1        0   100.00   vne
+       1        0   100.00   vns
+       1        0   100.00   volonté
+       2        1    50.00   y
+       3        0   100.00   à
+       1        1     0.00   é
+       2        2     0.00   ſe
+       1        1     0.00   ſens
+       1        1     0.00   ſes
+       1        1     0.00   ſeulement
+       2        2     0.00   ſont
+       1        1     0.00   ſoûmis
+       1        1     0.00   ſur
+       1        1     0.00   ſçaurois
+      14       14     0.00   
+       4        4     0.00   
+       4        4     0.00   
+       1        1     0.00   
+       4        4     0.00   
+       7        7     0.00   

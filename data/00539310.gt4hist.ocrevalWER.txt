@@ -1,0 +1,89 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+      46   Words
+      20   Misrecognized
+   56.52%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        0   100.00        2
+       2        0   100.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       8        0   100.00        2
+       9        4    55.56        3
+       4        1    75.00        4
+       3        2    33.33        5
+       4        1    75.00        6
+       3        1    66.67        7
+       2        2     0.00        8
+       6        5    16.67        9
+       2        2     0.00       10
+       1        1     0.00       12
+       1        0   100.00       13
+       1        1     0.00       14
+      44       20    54.55    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      32       20    37.50        1
+       2        0   100.00        2
+       1        0   100.00        3
+       1        0   100.00        5
+      36       20    44.44    Total
+
+Phrases
+   Count   Missed   %Right   Length
+      46       20    56.52        1
+      45       29    35.56        2
+      44       36    18.18        3
+      43       39     9.30        4
+      42       41     2.38        5
+      41       41     0.00        6
+      40       40     0.00        7
+      39       39     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        0   100.00   in
+       1        0   100.00   on
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   aan
+       1        0   100.00   alle
+       1        1     0.00   behoud
+       1        1     0.00   beoefening
+       1        0   100.00   bevorderd
+       1        1     0.00   bijbelkennis
+       1        1     0.00   blijkbaar
+       3        0   100.00   de
+       1        0   100.00   dingen
+       1        0   100.00   een
+       1        0   100.00   egte
+       5        0   100.00   en
+       1        1     0.00   gehoorzaamheid
+       1        0   100.00   geloof
+       1        0   100.00   gemaakt
+       1        1     0.00   getrouwe
+       1        1     0.00   geveinsde
+       1        1     0.00   geëerde
+       1        0   100.00   gods
+       1        1     0.00   godvrucht
+       1        0   100.00   goede
+       1        1     0.00   het
+       1        1     0.00   lezer
+       1        1     0.00   onderzoek
+       1        0   100.00   opregt
+       1        1     0.00   phi
+       2        0   100.00   ter
+       1        1     0.00   vaarwel
+       2        0   100.00   van
+       1        0   100.00   verbond
+       1        0   100.00   vermeerdering
+       1        1     0.00   voorreden
+       1        1     0.00   ware
+       1        1     0.00   welgegrond
+       1        1     0.00   wor
+       1        1     0.00   xxxvi

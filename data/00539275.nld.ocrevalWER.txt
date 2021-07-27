@@ -1,0 +1,167 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     155   Words
+      69   Misrecognized
+   55.48%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       7        1    85.71        2
+       3        3     0.00        3
+       1        0   100.00        4
+      11        4    63.64    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       6        2    66.67        1
+      18        6    66.67        2
+      54       28    48.15        3
+      17        8    52.94        4
+      10        5    50.00        5
+       7        0   100.00        6
+       9        3    66.67        7
+       3        1    66.67        8
+       8        4    50.00        9
+       4        1    75.00       10
+       4        3    25.00       11
+       3        3     0.00       12
+       1        1     0.00       14
+     144       65    54.86    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      83       35    57.83        1
+      15        3    80.00        2
+       3        1    66.67        3
+       3        0   100.00        4
+       2        1    50.00        5
+     106       40    62.26    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     155       69    55.48        1
+     154       79    48.70        2
+     153       88    42.48        3
+     152       96    36.84        4
+     151      104    31.13        5
+     150      112    25.33        6
+     149      118    20.81        7
+     148      122    17.57        8
+
+Stopwords
+   Count   Missed   %Right   
+       4        1    75.00   in
+       2        0   100.00   is
+       1        0   100.00   of
+       2        2     0.00   out
+       1        0   100.00   over
+       1        1     0.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   5
+       1        1     0.00   54
+       2        2     0.00   aan
+       1        0   100.00   aangaande
+       1        1     0.00   aankondiging
+       1        0   100.00   aar
+       1        0   100.00   agt
+       1        1     0.00   ale
+       1        0   100.00   alleen
+       1        1     0.00   allen
+       1        0   100.00   als
+       1        1     0.00   anderen
+       1        0   100.00   beeld
+       1        0   100.00   behandelde
+       1        0   100.00   bekende
+       1        1     0.00   beſchouwt
+       2        1    50.00   bij
+       1        0   100.00   brief
+       2        1    50.00   brieven
+       1        1     0.00   courant
+       1        0   100.00   d
+       1        1     0.00   daar
+       4        2    50.00   dat
+       5        3    40.00   de
+       4        3    25.00   den
+       1        1     0.00   denk
+       1        1     0.00   der
+       1        0   100.00   deze
+       3        1    66.67   die
+       1        1     0.00   dien
+       1        1     0.00   dijngsdag
+       1        1     0.00   e
+       4        1    75.00   een
+       1        0   100.00   eenigen
+       1        0   100.00   elk
+       1        1     0.00   ema
+       2        0   100.00   en
+       1        0   100.00   evenveel
+       1        1     0.00   geſchreven
+       2        0   100.00   gij
+       2        0   100.00   hebben
+       1        1     0.00   heeft
+       1        0   100.00   hem
+       2        0   100.00   het
+       2        1    50.00   hij
+       1        1     0.00   i789
+       2        0   100.00   ik
+       1        0   100.00   ken
+       1        0   100.00   kunnen
+       1        1     0.00   lezer
+       1        1     0.00   lijk
+       1        1     0.00   men
+       1        0   100.00   mensch
+       2        0   100.00   met
+       1        1     0.00   mey
+       3        1    66.67   mij
+       1        0   100.00   mogt
+       1        0   100.00   n
+       1        1     0.00   naam
+       1        0   100.00   nadeelig
+       1        0   100.00   ne
+       1        0   100.00   noodig
+       1        0   100.00   om
+       1        0   100.00   omtrent
+       2        2     0.00   onder
+       1        1     0.00   oog
+       1        0   100.00   ook
+       1        0   100.00   oordeel
+       1        1     0.00   op
+       1        1     0.00   open
+       1        0   100.00   opgevat
+       2        2     0.00   philadelphus
+       1        1     0.00   rijdperk
+       1        1     0.00   rotterdamſche
+       2        1    50.00   schrijver
+       1        1     0.00   sy
+       1        0   100.00   t
+       2        0   100.00   te
+       1        0   100.00   tegen
+       1        0   100.00   ten
+       1        1     0.00   thophilus
+       1        1     0.00   toe
+       1        0   100.00   treden
+       1        0   100.00   twistgierig
+       1        0   100.00   u
+       1        0   100.00   uitdaagde
+       1        0   100.00   uitgegeven
+       1        0   100.00   uw
+       1        0   100.00   uwen
+       3        3     0.00   van
+       1        0   100.00   verdedigen
+       1        0   100.00   verdedigt
+       1        1     0.00   verzekerd
+       1        0   100.00   vijf
+       1        0   100.00   vloed
+       1        1     0.00   vooroordeel
+       1        0   100.00   ware
+       1        0   100.00   welk
+       1        0   100.00   za
+       1        0   100.00   zaak
+       2        1    50.00   zijn
+       1        1     0.00   zoo
+       1        0   100.00   zoudt
+       1        0   100.00   zulk
+       1        1     0.00   ſchuilende
+       5        5     0.00   

@@ -1,0 +1,187 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1863   Characters
+    1083   Errors
+   41.87%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   41.87%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+     533      105      445     1083   Unmarked
+     533      105      445     1083   Total
+
+   Count   Missed   %Right
+     373      123    67.02   ASCII Spacing Characters
+      75       25    66.67   ASCII Special Symbols
+       5        1    80.00   ASCII Digits
+      49        5    89.80   ASCII Uppercase Letters
+    1232      371    69.89   ASCII Lowercase Letters
+      26       10    61.54   Latin1 Lowercase Letters
+      38       38     0.00   Latin Extended-A
+      26       26     0.00   General Punctuation
+      39       39     0.00   Private Use Area
+    1863      638    65.75   Total
+
+  Errors   Marked   Correct-Generated
+     278        0   {in terra germinan‑<\n>...}-{x}
+      68        0   {videri non po‑<\n>te...}-{}
+      50        0   {Ame mou‑<\n>ã ã...}-{}
+      27        0   { ,<\n>qui pro ſui ſubt...}-{}
+      27        0   {<\n>autem vegetat tan‑...}-{}
+      26        0   {}-{», + + . « , . : : ft ...}
+      25        0   {}-{ . … | carne moriens, ...}
+      24        0   {ſ}-{f}
+      23        0   { }-{}
+      23        0   {}-{ - : JeŒu carens , cum...}
+      21        0   {‑}-{- lis inuifbilis » ed}
+      20        0   {‑}-{- care videri non po}
+      19        0   {e}-{é vita bratorum a=°}
+      19        0   {n ſen‑<\n>ficat , ...}-{}
+      19        0   {}-{fenfibilis ; memo-<\n>}
+      19        0   {}-{nm & non fenñ<\n>ficat}
+      18        0   {herbas, & vniuerſa}-{44-}
+      18        0   {}-{ herbas,ë vniuerfa}
+      17        0   {}-{ vel poriusignems}
+      15        0   {‑}-{- nas ven rando}
+      14        0   {}-{ficuc arbores,}
+      14        0   {}-{t & vegerat fi}
+      14        0   {}-{ft}
+      13        0   {}-{ sus Vale con}
+      13        0   {ſ}-{: ! n : " , D}
+      12        0   { potius igne}-{'Â}
+      12        0   {}-{ Apeige »<\n>fé}
+      12        0   {}-{ Sriium Ras.}
+      12        0   {}-{ csancleense}
+      12        0   {}-{mnes brute *}
+      11        0   {t arbores ,}-{}
+      11        0   {}-{ FE Sémae |}
+      11        0   {}-{: ; : à fic}
+      10        0   {}-{ animelis.}
+      10        0   {}-{l'}
+       9        0   {}-{MEUTÉ ria}
+       8        0   {‑}-{- Hi dia}
+       7        0   {}-{ dam fe}
+       6        0   {}-{fi=<\n>5,}
+       6        0   {}-{d'}
+       5        0   {u}-{ns,in}
+       5        0   {}-{Masqu}
+       4        0   {e}-{é}
+       4        0   {}-{ hab}
+       4        0   {}-{Lt. }
+       4        0   {‑}-{- oo}
+       4        0   {‑}-{-}
+       4        0   {}-{fi}
+       4        0   {}-{ff}
+       4        0   {}-{fl}
+       3        0   {t}-{el-}
+       3        0   {}-{ena}
+       3        0   {}-{é é}
+       3        0   { }-{ft-}
+       3        0   {‑}-{ft-}
+       3        0   {}-{l’'}
+       2        0   { l}-{-f}
+       2        0   { }-{'}
+       2        0   { ſ}-{f}
+       2        0   {&}-{@r}
+       2        0   {cr}-{s}
+       2        0   {la}-{Hi}
+       2        0   {n}-{ri}
+       2        0   {t}-{r}
+       2        0   {}-{« }
+       2        0   {û }-{ü}
+       2        0   {ſe}-{É}
+       2        0   {}-{lt}
+       2        0   {}-{d’}
+       2        0   {}-{J'}
+       1        0   { }-{-}
+       1        0   { }-{:}
+       1        0   { }-{‘}
+       1        0   {,}-{.}
+       1        0   {.}-{,}
+       1        0   {.}-{}
+       1        0   {3}-{5}
+       1        0   {F}-{r}
+       1        0   {I}-{l}
+       1        0   {a}-{i}
+       1        0   {i}-{1}
+       1        0   {l}-{L}
+       1        0   {l}-{}
+       1        0   {u}-{ü}
+       1        0   {}-{,}
+       1        0   {}-{:}
+       1        0   {}-{c}
+       1        0   {}-{É}
+       1        0   {}-{’}
+       1        0   {ü}-{û}
+       1        0   {ſ}-{l}
+       1        0   {}-{f}
+
+   Count   Missed   %Right
+      60       28    53.33   {<\n>}
+     313       95    69.65   { }
+      16        6    62.50   {&}
+      10        0   100.00   {'}
+      29       12    58.62   {,}
+      11        4    63.64   {.}
+       3        1    66.67   {3}
+       1        0   100.00   {4}
+       1        0   100.00   {8}
+       1        0   100.00   {:}
+       7        3    57.14   {;}
+       1        0   100.00   {?}
+       7        1    85.71   {A}
+      11        0   100.00   {C}
+       1        0   100.00   {D}
+      10        0   100.00   {E}
+       1        1     0.00   {F}
+       2        1    50.00   {I}
+       6        0   100.00   {L}
+       2        0   100.00   {M}
+       2        0   100.00   {P}
+       1        0   100.00   {Q}
+       1        0   100.00   {R}
+       2        1    50.00   {S}
+       2        1    50.00   {V}
+       1        0   100.00   {Y}
+     105       42    60.00   {a}
+      16        8    50.00   {b}
+      34       14    58.82   {c}
+      52        6    88.46   {d}
+     205       44    78.54   {e}
+      13        3    76.92   {f}
+      15        6    60.00   {g}
+       7        2    71.43   {h}
+     123       45    63.41   {i}
+      73       13    82.19   {l}
+      46       20    56.52   {m}
+      93       33    64.52   {n}
+      49       18    63.27   {o}
+      39        7    82.05   {p}
+      23        3    86.96   {q}
+      86       27    68.60   {r}
+      53       14    73.58   {s}
+      84       31    63.10   {t}
+      89       26    70.79   {u}
+      22        9    59.09   {v}
+       5        0   100.00   {y}
+       4        0   100.00   {à}
+       2        2     0.00   {ã}
+       2        2     0.00   {æ}
+      11        0   100.00   {é}
+       3        3     0.00   {ë}
+       2        1    50.00   {ù}
+       1        1     0.00   {û}
+       1        1     0.00   {ü}
+      38       38     0.00   {ſ}
+      26       26     0.00   {‑}
+      13       13     0.00   {}
+       8        8     0.00   {}
+       5        5     0.00   {}
+       1        1     0.00   {}
+       4        4     0.00   {}
+       8        8     0.00   {}

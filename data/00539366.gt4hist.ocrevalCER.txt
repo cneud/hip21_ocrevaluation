@@ -1,0 +1,125 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1612   Characters
+     103   Errors
+   93.61%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   93.61%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      10       79       14      103   Unmarked
+      10       79       14      103   Total
+
+   Count   Missed   %Right
+     269        2    99.26   ASCII Spacing Characters
+      50        4    92.00   ASCII Special Symbols
+       2        0   100.00   ASCII Digits
+      48       16    66.67   ASCII Uppercase Letters
+    1200       40    96.67   ASCII Lowercase Letters
+       4        2    50.00   Latin1 Lowercase Letters
+      14        0   100.00   Latin Extended-A
+      15       15     0.00   General Punctuation
+       9        9     0.00   Private Use Area
+       1        1     0.00   Alphabetic Presentation Forms
+    1612       89    94.48   Total
+
+  Errors   Marked   Correct-Generated
+      16        0   {}-{ſt}
+      14        0   {‑}-{-}
+       6        0   {k}-{b}
+       4        0   {God‑}-{—}
+       4        0   {PHU}-{NMVä}
+       3        0   {'t }-{}
+       3        0   {<\n>PH}-{ vu}
+       3        0   {DIT}-{pie}
+       3        0   {HET}-{Uer}
+       3        0   {k}-{}
+       3        0   {zoo}-{200}
+       2        0   {G}-{C}
+       2        0   {Tw}-{Iv}
+       2        0   {d}-{o◌ͤ}
+       2        0   {jk}-{ſi}
+       2        0   {k}-{<\n>1}
+       2        0   {k}-{R}
+       2        0   {k}-{s}
+       2        0   {lk}-{ſt}
+       2        0   {oo}-{00}
+       2        0   {w}-{v}
+       2        0   {éé}-{ce}
+       2        0   {}-{ſl}
+       2        0   {ﬁ}-{ſi}
+       1        0   {'}-{}
+       1        0   {'}-{ſ}
+       1        0   {,}-{;}
+       1        0   {P}-{H}
+       1        0   {a}-{d}
+       1        0   {e}-{c}
+       1        0   {e}-{o}
+       1        0   {e}-{è}
+       1        0   {k}-{K}
+       1        0   {k}-{l}
+       1        0   {k}-{t}
+       1        0   {n}-{m}
+       1        0   {w}-{x}
+       1        0   {z}-{Z}
+       1        0   {}-{C}
+
+   Count   Missed   %Right
+      38        1    97.37   {<\n>}
+     231        1    99.57   { }
+       1        0   100.00   {!}
+       3        3     0.00   {'}
+      35        1    97.14   {,}
+       5        0   100.00   {.}
+       1        0   100.00   {5}
+       1        0   100.00   {6}
+       2        0   100.00   {;}
+       4        0   100.00   {?}
+       1        0   100.00   {A}
+       2        1    50.00   {D}
+       5        1    80.00   {E}
+       7        3    57.14   {G}
+       5        3    40.00   {H}
+       5        1    80.00   {I}
+       3        0   100.00   {L}
+       1        0   100.00   {M}
+       2        0   100.00   {O}
+       4        3    25.00   {P}
+       2        0   100.00   {S}
+       3        3     0.00   {T}
+       1        1     0.00   {U}
+       7        0   100.00   {V}
+      82        1    98.78   {a}
+      21        0   100.00   {b}
+      12        0   100.00   {c}
+      87        2    97.70   {d}
+     250        3    98.80   {e}
+       7        0   100.00   {f}
+      52        0   100.00   {g}
+      33        0   100.00   {h}
+      76        0   100.00   {i}
+      29        1    96.55   {j}
+      34       19    44.12   {k}
+      47        1    97.87   {l}
+      35        0   100.00   {m}
+     139        1    99.28   {n}
+      69        5    92.75   {o}
+      10        0   100.00   {p}
+      53        0   100.00   {r}
+      16        0   100.00   {s}
+      72        1    98.61   {t}
+      16        0   100.00   {u}
+      21        0   100.00   {v}
+      18        4    77.78   {w}
+      21        2    90.48   {z}
+       4        2    50.00   {é}
+      14        0   100.00   {ſ}
+      15       15     0.00   {‑}
+       8        8     0.00   {}
+       1        1     0.00   {}
+       1        1     0.00   {ﬁ}

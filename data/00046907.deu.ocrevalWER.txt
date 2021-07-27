@@ -1,0 +1,190 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     244   Words
+     202   Misrecognized
+   17.21%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       6        6     0.00        1
+       7        5    28.57        2
+      13       11    15.38    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      17       17     0.00        1
+      42       36    14.29        2
+      97       86    11.34        3
+      24       17    29.17        4
+      24       16    33.33        5
+      12        8    33.33        6
+       4        3    25.00        7
+       5        3    40.00        8
+       2        2     0.00        9
+       2        1    50.00       10
+       2        2     0.00       11
+     231      191    17.32    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      92       68    26.09        1
+      17       10    41.18        2
+       7        3    57.14        3
+       4        4     0.00        4
+       2        2     0.00        5
+       1        1     0.00        6
+       1        1     0.00        7
+       1        1     0.00        8
+       1        0   100.00        9
+       1        1     0.00      >10
+     127       91    28.35    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     244      202    17.21        1
+     243      223     8.23        2
+     242      231     4.55        3
+     241      235     2.49        4
+     240      237     1.25        5
+     239      238     0.42        6
+     238      238     0.00        7
+     237      237     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       1        1     0.00   an
+       5        5     0.00   i
+       3        2    33.33   in
+       2        2     0.00   no
+       1        0   100.00   on
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   aber
+       1        0   100.00   adam
+       2        2     0.00   alſo
+       1        1     0.00   am
+       1        1     0.00   anfengli
+       1        1     0.00   angeſ
+       1        1     0.00   artig
+       1        1     0.00   au
+       2        0   100.00   augen
+       1        1     0.00   auﬀgethan
+       1        1     0.00   balde
+       1        1     0.00   baum
+       1        0   100.00   beider
+       1        1     0.00   bilde
+       3        3     0.00   bl
+       1        0   100.00   da
+       2        1    50.00   daher
+       3        2    33.33   das
+       3        2    33.33   dem
+       1        1     0.00   den
+       2        0   100.00   denn
+       3        2    33.33   der
+       8        8     0.00   e
+       1        1     0.00   eben
+       1        1     0.00   ehet
+       1        0   100.00   ein
+       4        4     0.00   en
+       1        0   100.00   er
+       1        1     0.00   es
+       2        2     0.00   et
+       1        0   100.00   etwas
+       1        0   100.00   eua
+       4        4     0.00   ew
+       2        2     0.00   f
+       1        1     0.00   fa
+       1        0   100.00   faden
+       1        1     0.00   fr
+       1        0   100.00   frey
+       1        1     0.00   friſ
+       1        1     0.00   fur
+       1        1     0.00   gan
+       2        1    50.00   ge
+       1        1     0.00   gebot
+       1        0   100.00   gen
+       1        0   100.00   gerade
+       1        1     0.00   gere
+       1        0   100.00   gewar
+       1        0   100.00   gewe
+       1        0   100.00   geweſen
+       1        1     0.00   gewi
+       1        1     0.00   geſehen
+       1        1     0.00   glatten
+       1        1     0.00   got
+       2        2     0.00   gott
+       1        1     0.00   gottes
+       1        1     0.00   h
+       3        2    33.33   hat
+       1        0   100.00   heiligkeit
+       1        1     0.00   herrli
+       1        1     0.00   het
+       1        0   100.00   im
+       1        1     0.00   ja
+       1        1     0.00   je
+       1        0   100.00   jederman
+       1        1     0.00   jemandes
+       1        1     0.00   jhm
+       1        1     0.00   jhme
+       1        1     0.00   jhnen
+       1        1     0.00   jhrer
+       2        1    50.00   jnen
+       1        1     0.00   jre
+       1        1     0.00   jren
+       1        0   100.00   jrgend
+       1        0   100.00   keine
+       1        1     0.00   keit
+       1        1     0.00   kennet
+       1        1     0.00   kinder
+       1        1     0.00   kleine
+       1        1     0.00   lein
+       1        1     0.00   li
+       3        3     0.00   menſ
+       1        1     0.00   mu
+       4        4     0.00   na
+       2        2     0.00   ni
+       1        1     0.00   nitten
+       1        0   100.00   ohne
+       2        2     0.00   r
+       1        1     0.00   seligkeit
+       1        1     0.00   sol
+       1        0   100.00   sondern
+       4        4     0.00   t
+       1        1     0.00   ten
+       1        1     0.00   tes
+       1        1     0.00   tig
+       2        2     0.00   uld
+       1        1     0.00   unſ
+       1        1     0.00   vbertretten
+       1        1     0.00   verbo
+       9        6    33.33   vnd
+       1        0   100.00   vnter
+       1        1     0.00   vnſ
+       1        1     0.00   vnſere
+       1        1     0.00   von
+       1        1     0.00   wammeslein
+       1        1     0.00   waren
+       2        1    50.00   wie
+       1        0   100.00   wo
+       1        1     0.00   wol
+       1        0   100.00   wurden
+       2        1    50.00   zu
+       6        6     0.00   ſ
+       1        1     0.00   ſehen
+       1        1     0.00   ſein
+       1        1     0.00   ſelein
+       1        1     0.00   ſen
+       1        1     0.00   ſo
+       1        1     0.00   ſol
+       1        1     0.00   ſpringen
+       5        5     0.00   
+       2        2     0.00   
+       7        7     0.00   
+       2        2     0.00   
+       5        5     0.00   
+       3        3     0.00   
+       1        1     0.00   
+       2        2     0.00   
+      28       28     0.00   

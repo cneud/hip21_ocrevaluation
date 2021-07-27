@@ -1,0 +1,171 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     188   Words
+      81   Misrecognized
+   56.91%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       3        0   100.00        1
+       7        0   100.00        2
+       1        0   100.00        3
+      11        0   100.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      35        8    77.14        2
+      42       20    52.38        3
+      24        9    62.50        4
+      16        8    50.00        5
+      12        3    75.00        6
+       7        3    57.14        7
+      18       15    16.67        8
+       4        2    50.00        9
+       7        5    28.57       10
+      10        6    40.00       11
+       1        1     0.00       13
+       1        1     0.00       16
+     177       81    54.24    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      81       51    37.04        1
+      12        2    83.33        2
+       6        1    83.33        3
+       3        1    66.67        4
+       2        1    50.00        5
+       1        0   100.00        6
+       2        0   100.00        7
+       1        0   100.00      >10
+     108       56    48.15    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     188       81    56.91        1
+     187      129    31.02        2
+     186      156    16.13        3
+     185      170     8.11        4
+     184      178     3.26        5
+     183      181     1.09        6
+     182      181     0.55        7
+     181      181     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       3        0   100.00   a
+       2        0   100.00   be
+       1        0   100.00   had
+       2        0   100.00   in
+       1        0   100.00   me
+       2        0   100.00   of
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   aan
+       1        1     0.00   aangaan
+       1        1     0.00   aanroert
+       1        1     0.00   aat
+       1        1     0.00   afſcheidde
+       1        0   100.00   apos
+       1        1     0.00   apostoliſche
+       1        1     0.00   beantwoordt
+       1        1     0.00   begrip
+       1        1     0.00   bekeeren
+       2        1    50.00   betoogen
+       1        1     0.00   bevonden
+       5        5     0.00   bewijzen
+       2        1    50.00   bij
+       1        1     0.00   bijgebragt
+       6        0   100.00   bl
+       1        1     0.00   blijven
+       1        1     0.00   blikkelijk
+       3        1    66.67   bondelingen
+       1        0   100.00   brengen
+       3        3     0.00   brief
+       1        0   100.00   brieven
+       1        0   100.00   christendom
+       2        1    50.00   christenen
+       1        1     0.00   christus
+       1        1     0.00   dadelijk
+       7        1    85.71   dat
+      12        1    91.67   de
+       4        0   100.00   den
+       1        1     0.00   dertienden
+       3        0   100.00   die
+       1        1     0.00   edelmoedig
+       1        1     0.00   eene
+       1        0   100.00   elf
+       1        0   100.00   gaat
+       1        0   100.00   gebragt
+       2        0   100.00   geene
+       1        1     0.00   gehouden
+       1        0   100.00   gemeenten
+       1        0   100.00   genen
+       1        1     0.00   gods
+       1        0   100.00   heb
+       2        0   100.00   hebben
+       2        1    50.00   heeft
+       1        1     0.00   het
+       1        1     0.00   hier
+       2        2     0.00   hij
+       1        0   100.00   houden
+       3        1    66.67   hr
+       1        1     0.00   i78
+       1        1     0.00   i88
+       1        1     0.00   i8i
+       1        1     0.00   i95
+       1        1     0.00   i96
+       1        1     0.00   i97
+       4        4     0.00   ik
+       1        1     0.00   kort
+       2        1    50.00   kunnen
+       1        1     0.00   mattheus
+       1        0   100.00   mede
+       1        0   100.00   meende
+       1        0   100.00   mij
+       1        1     0.00   mijn
+       1        1     0.00   mijne
+       1        1     0.00   nademaal
+       1        1     0.00   nakwamen
+       5        0   100.00   niet
+       1        0   100.00   nu
+       2        0   100.00   om
+       1        0   100.00   onvoldoende
+       1        1     0.00   oogen
+       1        1     0.00   ook
+       1        1     0.00   opzettelijk
+       1        0   100.00   overige
+       7        2    71.43   te
+       3        0   100.00   tegen
+       1        1     0.00   telen
+       1        0   100.00   ten
+       1        0   100.00   toogen
+       1        1     0.00   twaalfden
+       1        1     0.00   twee
+       1        0   100.00   uit
+       2        1    50.00   van
+       1        1     0.00   veertienden
+       1        0   100.00   ver
+       1        0   100.00   verdedig
+       1        0   100.00   volgende
+       4        0   100.00   voor
+       1        1     0.00   voorreden
+       1        1     0.00   voorwaarden
+       3        1    66.67   waar
+       1        1     0.00   wederom
+       1        0   100.00   weerd
+       1        0   100.00   wegens
+       1        0   100.00   welken
+       1        0   100.00   werk
+       1        1     0.00   wijle
+       1        1     0.00   wijs
+       1        0   100.00   xxviii
+       1        1     0.00   zeer
+       2        1    50.00   zig
+       2        2     0.00   zij
+       1        1     0.00   zoeken
+       1        1     0.00   zoo
+       1        0   100.00   zoodanigen
+       1        0   100.00   ſchieten
+       1        1     0.00   ſchriftuurlijke
+       1        1     0.00   

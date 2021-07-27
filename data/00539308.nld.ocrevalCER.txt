@@ -1,0 +1,119 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1250   Characters
+      81   Errors
+   93.52%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   93.52%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+       5       46       30       81   Unmarked
+       5       46       30       81   Total
+
+   Count   Missed   %Right
+     214        2    99.07   ASCII Spacing Characters
+      33        5    84.85   ASCII Special Symbols
+      38        7    81.58   ASCII Uppercase Letters
+     934        8    99.14   ASCII Lowercase Letters
+       2        0   100.00   Latin1 Lowercase Letters
+       7        7     0.00   Latin Extended-A
+      10       10     0.00   General Punctuation
+      11       11     0.00   Private Use Area
+       1        1     0.00   Specials
+    1250       51    95.92   Total
+
+  Errors   Marked   Correct-Generated
+      14        0   {}-{fl}
+       6        0   {XX}-{"Ea<\n>VE}
+       6        0   {}-{ }
+       6        0   {ſ}-{f}
+       4        0   {}-{ft}
+       3        0   {II.}-{JL}
+       3        0   {MET}-{mer}
+       3        0   {‑}-{-}
+       3        0   {}-{ fl}
+       2        0   { ’}-{}
+       2        0   {<\n>}-{ O}
+       2        0   {m}-{rn}
+       2        0   {}-{ °}
+       2        0   {}-{-}
+       2        0   {ſc}-{fe}
+       2        0   {‑}-{s.}
+       2        0   {‑}-{s=}
+       2        0   {}-{fi}
+       1        0   {,}-{;}
+       1        0   {.}-{,}
+       1        0   {.}-{e}
+       1        0   {;}-{s}
+       1        0   {e}-{:}
+       1        0   {l}-{}
+       1        0   {n}-{w}
+       1        0   {n}-{z}
+       1        0   {r}-{v}
+       1        0   {t}-{v}
+       1        0   {‑}-{.}
+       1        0   {‑}-{:}
+       1        0   {‑}-{s}
+       1        0   {‑}-{}
+       1        0   {�}-{t}
+
+   Count   Missed   %Right
+      30        1    96.67   {<\n>}
+     184        1    99.46   { }
+      23        1    95.65   {,}
+       7        3    57.14   {.}
+       3        1    66.67   {;}
+       2        0   100.00   {A}
+       1        0   100.00   {B}
+       2        0   100.00   {D}
+       4        1    75.00   {E}
+       1        0   100.00   {G}
+       2        0   100.00   {H}
+       4        2    50.00   {I}
+       2        0   100.00   {L}
+       1        1     0.00   {M}
+       1        0   100.00   {N}
+       2        0   100.00   {O}
+       1        0   100.00   {P}
+       3        0   100.00   {R}
+       4        0   100.00   {S}
+       1        1     0.00   {T}
+       3        0   100.00   {V}
+       3        2    33.33   {X}
+       1        0   100.00   {Z}
+      61        0   100.00   {a}
+      14        0   100.00   {b}
+      10        1    90.00   {c}
+      56        0   100.00   {d}
+     188        1    99.47   {e}
+       7        0   100.00   {f}
+      36        0   100.00   {g}
+      32        0   100.00   {h}
+      72        0   100.00   {i}
+      30        0   100.00   {j}
+      34        0   100.00   {k}
+      31        1    96.77   {l}
+      26        1    96.15   {m}
+      93        2    97.85   {n}
+      56        0   100.00   {o}
+       8        0   100.00   {p}
+      48        1    97.92   {r}
+      15        0   100.00   {s}
+      46        1    97.83   {t}
+      15        0   100.00   {u}
+      29        0   100.00   {v}
+      11        0   100.00   {w}
+       1        0   100.00   {y}
+      15        0   100.00   {z}
+       2        0   100.00   {ë}
+       7        7     0.00   {ſ}
+       9        9     0.00   {‑}
+       1        1     0.00   {’}
+      10       10     0.00   {}
+       1        1     0.00   {}
+       1        1     0.00   {�}

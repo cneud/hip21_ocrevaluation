@@ -1,0 +1,189 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     239   Words
+     142   Misrecognized
+   40.59%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       7        7     0.00        1
+       8        4    50.00        2
+       5        0   100.00        3
+      20       11    45.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      20       20     0.00        1
+      29       27     6.90        2
+      95       60    36.84        3
+      22        6    72.73        4
+      17        6    64.71        5
+      15        0   100.00        6
+      11        8    27.27        7
+       5        2    60.00        8
+       2        0   100.00        9
+       1        1     0.00       11
+       1        0   100.00       12
+       1        1     0.00       14
+     219      131    40.18    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      91       35    61.54        1
+      17        8    52.94        2
+       8        8     0.00        3
+       1        0   100.00        4
+       2        2     0.00        5
+       2        0   100.00        6
+       2        2     0.00        7
+       1        1     0.00      >10
+     124       56    54.84    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     239      142    40.59        1
+     238      179    24.79        2
+     237      207    12.66        3
+     236      222     5.93        4
+     235      229     2.55        5
+     234      233     0.43        6
+     233      233     0.00        7
+     232      232     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       2        2     0.00   do
+       1        0   100.00   get
+       2        1    50.00   he
+       6        6     0.00   i
+       3        0   100.00   in
+       4        0   100.00   man
+       1        1     0.00   no
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   1544
+       1        0   100.00   alſo
+       2        0   100.00   anders
+       1        1     0.00   au
+       1        1     0.00   auﬀſ
+       1        0   100.00   betrawren
+       1        0   100.00   binde
+       1        1     0.00   braunſ
+       2        0   100.00   breite
+       1        0   100.00   da
+       1        0   100.00   dar
+       1        0   100.00   darinnen
+       1        1     0.00   darna
+       4        0   100.00   das
+       1        0   100.00   den
+       1        0   100.00   denn
+       2        0   100.00   der
+       6        1    83.33   die
+       1        0   100.00   dienet
+       1        0   100.00   dis
+       1        0   100.00   dran
+       1        1     0.00   drauﬀ
+       7        7     0.00   e
+       2        2     0.00   ehen
+       2        0   100.00   ein
+       1        0   100.00   eine
+       1        0   100.00   einen
+       1        0   100.00   elend
+       5        5     0.00   en
+       1        1     0.00   et
+       1        0   100.00   etwa
+       1        1     0.00   eﬀelboden
+       1        1     0.00   fa
+       1        0   100.00   falten
+       1        1     0.00   ge
+       1        1     0.00   gelt
+       1        0   100.00   gerne
+       1        0   100.00   getragen
+       1        0   100.00   geſehen
+       1        0   100.00   gott
+       2        2     0.00   gro
+       5        5     0.00   h
+       1        0   100.00   haar
+       1        0   100.00   habe
+       1        1     0.00   hagel
+       1        1     0.00   helﬀe
+       1        0   100.00   hette
+       1        1     0.00   ho
+       1        0   100.00   hohe
+       1        1     0.00   hoﬀar
+       1        1     0.00   ig
+       1        1     0.00   ige
+       1        1     0.00   im
+       1        0   100.00   jahr
+       2        2     0.00   k
+       1        0   100.00   kleins
+       1        0   100.00   knabe
+       1        0   100.00   kramern
+       1        1     0.00   krauſen
+       3        3     0.00   le
+       1        1     0.00   legen
+       1        0   100.00   liege
+       1        1     0.00   m
+       1        1     0.00   ma
+       1        0   100.00   mag
+       1        1     0.00   mb
+       1        0   100.00   mehr
+       1        0   100.00   meinet
+       1        0   100.00   mit
+       1        1     0.00   moſcowiteriſ
+       2        0   100.00   mus
+       1        1     0.00   nd
+       1        1     0.00   nei
+       3        3     0.00   ni
+       1        1     0.00   nﬀtige
+       2        0   100.00   oder
+       2        0   100.00   pareth
+       1        0   100.00   paretlein
+       1        1     0.00   polniſ
+       1        1     0.00   pﬀe
+       3        3     0.00   s
+       1        0   100.00   seidene
+       1        0   100.00   spani
+       1        0   100.00   stadt
+       2        2     0.00   t
+       2        2     0.00   te
+       1        1     0.00   ten
+       1        1     0.00   thůgen
+       1        1     0.00   tlein
+       1        0   100.00   trawerbinden
+       1        0   100.00   tre
+       2        0   100.00   treget
+       1        0   100.00   treibet
+       1        1     0.00   ts
+       2        2     0.00   tte
+       6        0   100.00   vnd
+       1        0   100.00   vnnd
+       1        0   100.00   vor
+       1        0   100.00   war
+       1        1     0.00   weigiſ
+       1        0   100.00   werden
+       1        1     0.00   weren
+       1        0   100.00   weñ
+       1        0   100.00   wie
+       1        0   100.00   wir
+       1        0   100.00   wol
+       1        0   100.00   zeiten
+       1        0   100.00   zu
+       1        0   100.00   zur
+       3        3     0.00   ſ
+       1        0   100.00   ſa
+       1        0   100.00   ſein
+       1        0   100.00   ſo
+       2        1    50.00   ſol
+       1        0   100.00   ſorge
+       2        2     0.00   ſpi
+       2        2     0.00   
+       7        7     0.00   
+       3        3     0.00   
+       3        3     0.00   
+       3        3     0.00   
+       3        3     0.00   
+       1        1     0.00   
+      30       30     0.00   

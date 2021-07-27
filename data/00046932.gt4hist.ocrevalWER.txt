@@ -1,0 +1,177 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     197   Words
+     110   Misrecognized
+   44.16%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       5        5     0.00        1
+       4        0   100.00        2
+       9        5    44.44    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       8        7    12.50        1
+      29       22    24.14        2
+      84       51    39.29        3
+      22       11    50.00        4
+      22        6    72.73        5
+       7        0   100.00        6
+       7        4    42.86        7
+       5        1    80.00        8
+       3        2    33.33        9
+       1        1     0.00       10
+     188      105    44.15    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      91       38    58.24        1
+      15        7    53.33        2
+       5        2    60.00        3
+       2        2     0.00        4
+       1        1     0.00        5
+       1        0   100.00        6
+       1        0   100.00        7
+       1        1     0.00       10
+       1        1     0.00      >10
+     118       52    55.93    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     197      110    44.16        1
+     196      141    28.06        2
+     195      160    17.95        3
+     194      173    10.82        4
+     193      182     5.70        5
+     192      187     2.60        6
+     191      189     1.05        7
+     190      190     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       3        0   100.00   an
+       4        4     0.00   i
+       1        0   100.00   in
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   9
+       1        0   100.00   aber
+       1        0   100.00   alſo
+       1        1     0.00   au
+       2        0   100.00   aus
+       1        0   100.00   barn
+       1        0   100.00   bekieiden
+       1        1     0.00   bey
+       1        0   100.00   bis
+       1        1     0.00   chri
+       2        0   100.00   da
+       1        0   100.00   darzu
+       1        0   100.00   das
+       1        0   100.00   dem
+       1        0   100.00   denen
+       1        0   100.00   der
+       1        0   100.00   dern
+       1        1     0.00   deſ
+       6        0   100.00   die
+       1        0   100.00   dieſen
+       2        2     0.00   dur
+       1        1     0.00   durﬀt
+       3        3     0.00   e
+       1        1     0.00   ehenden
+       2        0   100.00   ein
+       1        0   100.00   einen
+       1        0   100.00   eines
+       4        4     0.00   en
+       3        2    33.33   er
+       1        1     0.00   erbarli
+       1        0   100.00   es
+       2        2     0.00   et
+       1        0   100.00   frawen
+       2        0   100.00   frieden
+       1        0   100.00   fromme
+       1        1     0.00   ge
+       1        1     0.00   gebl
+       2        2     0.00   gefa
+       1        1     0.00   geholﬀen
+       1        1     0.00   gem
+       1        1     0.00   gema
+       1        1     0.00   getrieben
+       1        0   100.00   geweſen
+       1        1     0.00   gewir
+       1        1     0.00   glei
+       2        0   100.00   gott
+       1        1     0.00   gr
+       1        0   100.00   haben
+       1        0   100.00   hat
+       1        0   100.00   hatte
+       1        0   100.00   heiligen
+       1        1     0.00   hoﬀart
+       1        1     0.00   ii
+       1        0   100.00   jh
+       1        0   100.00   jheſu
+       2        1    50.00   jhm
+       1        0   100.00   joppen
+       1        1     0.00   k
+       1        1     0.00   kleider
+       1        0   100.00   kleidung
+       1        1     0.00   kun
+       1        0   100.00   kundt
+       1        1     0.00   le
+       1        0   100.00   leben
+       1        0   100.00   leute
+       1        1     0.00   li
+       1        0   100.00   liebe
+       1        0   100.00   maria
+       1        1     0.00   menſ
+       2        0   100.00   mit
+       1        0   100.00   mutter
+       1        1     0.00   na
+       1        1     0.00   nden
+       1        0   100.00   ne
+       1        1     0.00   ni
+       1        0   100.00   noth
+       1        0   100.00   nun
+       1        0   100.00   oben
+       1        1     0.00   oﬀenbar
+       1        0   100.00   petro
+       1        0   100.00   rem
+       1        1     0.00   ri
+       1        1     0.00   ro
+       1        0   100.00   sin
+       3        3     0.00   t
+       1        1     0.00   thabe
+       1        0   100.00   trage
+       2        2     0.00   ts
+       1        1     0.00   verru
+       1        1     0.00   vmb
+       7        0   100.00   vnd
+       1        0   100.00   vnten
+       1        0   100.00   von
+       1        0   100.00   war
+       2        2     0.00   wel
+       1        0   100.00   wenn
+       1        0   100.00   wid
+       1        0   100.00   wie
+       1        0   100.00   wol
+       1        0   100.00   zeigen
+       1        1     0.00   zimli
+       3        2    33.33   zu
+       1        0   100.00   ſein
+       1        0   100.00   ſeine
+       1        1     0.00   ſelb
+       2        1    50.00   ſen
+       1        0   100.00   ſey
+       3        2    33.33   ſol
+       1        0   100.00   ſondern
+       1        1     0.00   
+       4        4     0.00   
+      10       10     0.00   
+       2        2     0.00   
+       5        5     0.00   
+       1        1     0.00   
+       1        1     0.00   
+       2        2     0.00   
+      16       16     0.00   

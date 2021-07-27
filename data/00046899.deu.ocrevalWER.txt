@@ -1,0 +1,143 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     135   Words
+      89   Misrecognized
+   34.07%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        4     0.00        1
+       2        0   100.00        2
+       4        3    25.00        3
+      10        7    30.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      11       11     0.00        1
+      14       13     7.14        2
+      52       37    28.85        3
+      17        6    64.71        4
+       6        3    50.00        5
+       6        3    50.00        6
+       7        3    57.14        7
+       6        2    66.67        8
+       3        2    33.33        9
+       2        1    50.00       10
+       1        1     0.00       13
+     125       82    34.40    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      69       36    47.83        1
+       8        5    37.50        2
+       4        2    50.00        3
+       3        3     0.00        4
+       1        1     0.00      >10
+      85       47    44.71    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     135       89    34.07        1
+     134      110    17.91        2
+     133      121     9.02        3
+     132      127     3.79        4
+     131      129     1.53        5
+     130      130     0.00        6
+     129      129     0.00        7
+     128      128     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        2     0.00   a
+       2        2     0.00   i
+       2        0   100.00   in
+       3        3     0.00   man
+       1        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   adel
+       1        1     0.00   al
+       2        2     0.00   au
+       1        0   100.00   behenget
+       1        0   100.00   bekennen
+       1        0   100.00   bey
+       1        0   100.00   damit
+       3        0   100.00   das
+       1        0   100.00   dem
+       1        0   100.00   den
+       3        0   100.00   der
+       1        1     0.00   dieſem
+       4        4     0.00   e
+       1        1     0.00   edelge
+       1        0   100.00   eine
+       1        1     0.00   einen
+       1        1     0.00   em
+       4        4     0.00   en
+       1        1     0.00   erſehen
+       1        0   100.00   es
+       2        2     0.00   f
+       1        0   100.00   gehen
+       2        1    50.00   gen
+       1        0   100.00   getrieben
+       2        2     0.00   geſ
+       1        1     0.00   glei
+       1        0   100.00   gold
+       1        1     0.00   gro
+       1        0   100.00   haben
+       1        1     0.00   hierinnen
+       1        1     0.00   hoﬀarth
+       1        1     0.00   iiij
+       1        1     0.00   je
+       1        0   100.00   kaum
+       1        0   100.00   kleidern
+       1        0   100.00   kleidung
+       1        1     0.00   le
+       1        1     0.00   li
+       1        1     0.00   m
+       1        1     0.00   ma
+       2        1    50.00   mit
+       1        0   100.00   muß
+       1        1     0.00   namhaﬀti
+       1        1     0.00   ni
+       1        0   100.00   perlen
+       1        0   100.00   potentaten
+       1        1     0.00   pre
+       1        1     0.00   r
+       1        1     0.00   rei
+       1        1     0.00   rnemli
+       1        1     0.00   sonderli
+       1        0   100.00   stedten
+       1        1     0.00   stenden
+       3        3     0.00   t
+       1        0   100.00   terlein
+       1        0   100.00   thut
+       1        1     0.00   tig
+       1        0   100.00   vberaus
+       1        1     0.00   vbermeſsigen
+       1        0   100.00   viel
+       2        0   100.00   vnd
+       1        0   100.00   vnnd
+       1        1     0.00   vnter
+       1        0   100.00   vor
+       1        1     0.00   vorrede
+       1        1     0.00   weibli
+       1        1     0.00   weige
+       1        0   100.00   welt
+       1        0   100.00   weniger
+       1        0   100.00   wil
+       1        0   100.00   wird
+       1        0   100.00   worden
+       1        0   100.00   zeit
+       1        0   100.00   zuuorn
+       1        1     0.00   ſo
+       1        1     0.00   ſol
+       1        1     0.00   ſon
+       1        1     0.00   
+       2        2     0.00   
+       4        4     0.00   
+       3        3     0.00   
+       2        2     0.00   
+       1        1     0.00   
+       1        1     0.00   
+      16       16     0.00   

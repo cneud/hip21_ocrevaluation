@@ -1,0 +1,201 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     249   Words
+     146   Misrecognized
+   41.37%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       1        1     0.00        1
+       6        5    16.67        2
+       3        0   100.00        3
+      10        6    40.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      24       24     0.00        1
+      37       24    35.14        2
+      96       64    33.33        3
+      22        9    59.09        4
+      30        6    80.00        5
+      13        4    69.23        6
+       7        4    42.86        7
+       3        2    33.33        8
+       1        0   100.00        9
+       4        2    50.00       10
+       2        1    50.00       11
+     239      140    41.42    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+     105       40    61.90        1
+      17        5    70.59        2
+       5        2    60.00        3
+       2        2     0.00        4
+       3        3     0.00        5
+       3        2    33.33        6
+       1        1     0.00        9
+       2        2     0.00      >10
+     138       57    58.70    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     249      146    41.37        1
+     248      181    27.02        2
+     247      201    18.62        3
+     246      214    13.01        4
+     245      223     8.98        5
+     244      229     6.15        6
+     243      234     3.70        7
+     242      236     2.48        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   an
+       2        1    50.00   be
+       1        0   100.00   her
+       1        1     0.00   i
+       1        0   100.00   man
+       3        3     0.00   no
+       1        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   alten
+       1        0   100.00   annemet
+       1        0   100.00   ausge
+       1        1     0.00   bede
+       1        0   100.00   bei
+       1        0   100.00   bloß
+       1        1     0.00   carolus
+       1        0   100.00   da
+       2        0   100.00   das
+       1        1     0.00   de
+       1        0   100.00   dem
+       1        1     0.00   demna
+       2        0   100.00   den
+       1        0   100.00   der
+       2        0   100.00   deren
+       1        0   100.00   derſelben
+       1        1     0.00   deudtſ
+       2        2     0.00   deudſ
+       1        0   100.00   deutet
+       2        0   100.00   die
+       1        0   100.00   dieſe
+       1        0   100.00   dung
+       9        9     0.00   e
+       2        0   100.00   ein
+       1        0   100.00   einem
+       2        0   100.00   einen
+       1        0   100.00   einer
+      11       11     0.00   en
+       2        0   100.00   er
+       1        0   100.00   erfrieren
+       3        1    66.67   es
+       1        1     0.00   eu
+       1        0   100.00   ewer
+       4        4     0.00   f
+       1        0   100.00   felde
+       1        1     0.00   fle
+       3        3     0.00   fran
+       1        0   100.00   freye
+       1        1     0.00   gan
+       1        0   100.00   gar
+       1        0   100.00   gebott
+       1        1     0.00   gebrau
+       1        1     0.00   gema
+       2        2     0.00   gemeinigli
+       1        0   100.00   gut
+       1        1     0.00   gutes
+       1        0   100.00   guts
+       1        0   100.00   habt
+       1        0   100.00   hader
+       1        0   100.00   halb
+       1        0   100.00   hen
+       1        0   100.00   herrn
+       1        1     0.00   hi
+       1        0   100.00   ihr
+       2        0   100.00   im
+       1        0   100.00   inn
+       1        1     0.00   jhn
+       3        2    33.33   jhr
+       1        0   100.00   jnen
+       2        0   100.00   jr
+       1        0   100.00   jre
+       1        1     0.00   kauﬀen
+       1        0   100.00   kelte
+       1        0   100.00   klei
+       1        0   100.00   kleider
+       1        0   100.00   kleidung
+       1        0   100.00   kriegen
+       1        1     0.00   kur
+       1        1     0.00   la
+       1        1     0.00   lande
+       1        0   100.00   leib
+       1        1     0.00   lein
+       1        0   100.00   lies
+       1        0   100.00   magnus
+       1        0   100.00   melden
+       1        1     0.00   mentel
+       1        0   100.00   mit
+       1        0   100.00   mus
+       1        1     0.00   na
+       1        0   100.00   namen
+       1        0   100.00   ne
+       1        1     0.00   nemen
+       1        0   100.00   nemet
+       4        4     0.00   ni
+       1        1     0.00   o
+       1        1     0.00   oſen
+       1        1     0.00   pﬂegen
+       5        5     0.00   r
+       1        0   100.00   regen
+       1        1     0.00   rit
+       1        1     0.00   rye
+       1        1     0.00   s
+       1        0   100.00   sie
+       3        3     0.00   t
+       1        1     0.00   tem
+       1        0   100.00   ten
+       1        1     0.00   ter
+       1        0   100.00   thun
+       1        0   100.00   trug
+       1        1     0.00   ts
+       1        0   100.00   vberwunden
+       1        1     0.00   verkauﬀen
+       1        0   100.00   vnbeſonnen
+       6        1    83.33   vnd
+       1        1     0.00   vnnd
+       1        0   100.00   vnter
+       1        0   100.00   wahlen
+       1        0   100.00   ward
+       2        0   100.00   weder
+       1        1     0.00   welſ
+       1        0   100.00   werden
+       1        0   100.00   wie
+       1        0   100.00   win
+       1        0   100.00   wind
+       1        0   100.00   wo
+       1        0   100.00   wol
+       1        1     0.00   wolﬀs
+       1        1     0.00   z
+       1        1     0.00   zei
+       1        0   100.00   zornig
+       2        0   100.00   zu
+       2        2     0.00   ſ
+       1        0   100.00   ſahe
+       2        0   100.00   ſeid
+       1        0   100.00   ſein
+       1        1     0.00   ſeines
+       3        1    66.67   ſo
+       2        2     0.00   ſol
+       1        0   100.00   ſolte
+       2        2     0.00   
+       5        5     0.00   
+       1        1     0.00   
+       6        6     0.00   
+       1        1     0.00   
+       5        5     0.00   
+       6        6     0.00   
+       1        1     0.00   
+      24       24     0.00   

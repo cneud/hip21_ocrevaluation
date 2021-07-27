@@ -1,0 +1,181 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     231   Words
+     126   Misrecognized
+   45.45%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       3        3     0.00        1
+       8        0   100.00        2
+       1        0   100.00        3
+      12        3    75.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      16       16     0.00        1
+      40       26    35.00        2
+     102       56    45.10        3
+      16        5    68.75        4
+      24       12    50.00        5
+      10        3    70.00        6
+       6        2    66.67        7
+       2        1    50.00        8
+       2        1    50.00        9
+       1        1     0.00       10
+     219      123    43.84    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      87       41    52.87        1
+      19       10    47.37        2
+       5        2    60.00        3
+       5        4    20.00        4
+       5        1    80.00        5
+       1        0   100.00        6
+       1        1     0.00      >10
+     123       59    52.03    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     231      126    45.45        1
+     230      164    28.70        2
+     229      188    17.90        3
+     228      202    11.40        4
+     227      211     7.05        5
+     226      213     5.75        6
+     225      215     4.44        7
+     224      217     3.12        8
+
+Stopwords
+   Count   Missed   %Right   
+       3        0   100.00   an
+       3        3     0.00   i
+       5        0   100.00   in
+       1        0   100.00   man
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   2
+       1        0   100.00   aber
+       1        0   100.00   ander
+       1        0   100.00   ar
+       1        0   100.00   armer
+       2        2     0.00   au
+       1        1     0.00   aﬀt
+       1        1     0.00   b
+       1        0   100.00   bat
+       1        0   100.00   beredt
+       2        0   100.00   bin
+       2        0   100.00   da
+       1        0   100.00   darumb
+       1        0   100.00   dem
+       3        0   100.00   den
+       5        1    80.00   der
+       1        1     0.00   derglei
+       2        0   100.00   des
+       1        0   100.00   donato
+       2        0   100.00   donatus
+       1        0   100.00   drein
+       1        1     0.00   dur
+       2        2     0.00   e
+       2        2     0.00   ei
+       5        0   100.00   ein
+       1        1     0.00   einbarli
+       1        0   100.00   eine
+       1        1     0.00   einfeltige
+       1        0   100.00   eingelaſ
+       1        1     0.00   einla
+       4        4     0.00   en
+       1        1     0.00   eng
+       5        2    60.00   er
+       1        0   100.00   exempel
+       2        2     0.00   f
+       1        1     0.00   fa
+       1        1     0.00   fran
+       1        1     0.00   gan
+       1        0   100.00   gehen
+       1        1     0.00   geri
+       1        0   100.00   geweſen
+       1        1     0.00   gieng
+       1        1     0.00   herrſ
+       1        0   100.00   hie
+       1        0   100.00   hies
+       1        1     0.00   italien
+       1        0   100.00   ja
+       1        1     0.00   je
+       3        0   100.00   jhm
+       1        1     0.00   jhme
+       1        0   100.00   jhn
+       1        1     0.00   k
+       2        0   100.00   kam
+       1        1     0.00   kan
+       1        0   100.00   kleid
+       1        0   100.00   latein
+       1        1     0.00   lateiniſ
+       2        2     0.00   le
+       1        1     0.00   leget
+       1        1     0.00   lein
+       1        1     0.00   li
+       1        0   100.00   lieb
+       1        0   100.00   lob
+       1        0   100.00   mannes
+       2        0   100.00   men
+       1        1     0.00   mi
+       1        0   100.00   mir
+       2        1    50.00   mit
+       1        0   100.00   na
+       2        0   100.00   nem
+       1        0   100.00   newen
+       1        0   100.00   newer
+       1        1     0.00   ni
+       2        0   100.00   padua
+       1        1     0.00   petrar
+       4        4     0.00   r
+       1        0   100.00   re
+       1        0   100.00   rede
+       1        0   100.00   redner
+       1        1     0.00   reibet
+       1        1     0.00   rger
+       4        4     0.00   ri
+       1        1     0.00   ro
+       1        1     0.00   s
+       1        0   100.00   spra
+       3        3     0.00   t
+       1        1     0.00   ten
+       4        3    25.00   ter
+       1        1     0.00   tes
+       1        1     0.00   th
+       1        0   100.00   thun
+       1        1     0.00   u
+       6        0   100.00   vnd
+       3        0   100.00   von
+       1        1     0.00   vor
+       1        0   100.00   war
+       1        0   100.00   wegen
+       2        2     0.00   welſ
+       1        1     0.00   wenig
+       1        0   100.00   wol
+       1        0   100.00   wolt
+       1        0   100.00   wolte
+       1        0   100.00   worden
+       1        0   100.00   wort
+       1        0   100.00   zeit
+       5        0   100.00   zu
+       1        0   100.00   zur
+       3        3     0.00   ſ
+       1        0   100.00   ſaß
+       1        1     0.00   ſehr
+       1        1     0.00   ſein
+       1        0   100.00   ſelben
+       1        0   100.00   ſen
+       1        0   100.00   ſo
+       2        2     0.00   ſpra
+       2        2     0.00   
+       4        4     0.00   
+       5        5     0.00   
+       1        1     0.00   
+       2        2     0.00   
+       2        2     0.00   
+      28       28     0.00   
+       1        1     0.00   ﬁel

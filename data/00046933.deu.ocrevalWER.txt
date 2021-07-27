@@ -1,0 +1,175 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     194   Words
+     152   Misrecognized
+   21.65%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       1        1     0.00        1
+       1        0   100.00        2
+       2        1    50.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      18       18     0.00        1
+      26       24     7.69        2
+      82       68    17.07        3
+      19       12    36.84        4
+      15       11    26.67        5
+      12        7    41.67        6
+       5        3    40.00        7
+       8        3    62.50        8
+       4        2    50.00        9
+       2        2     0.00       10
+       1        1     0.00       14
+     192      151    21.35    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      93       67    27.96        1
+      14       10    28.57        2
+       4        2    50.00        3
+       5        3    40.00        4
+       3        2    33.33        5
+       1        1     0.00      >10
+     120       85    29.17    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     194      152    21.65        1
+     193      172    10.88        2
+     192      181     5.73        3
+     191      185     3.14        4
+     190      187     1.58        5
+     189      188     0.53        6
+     188      188     0.00        7
+     187      187     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   i
+       1        0   100.00   in
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   3
+       1        1     0.00   alber
+       2        1    50.00   alten
+       1        0   100.00   alſo
+       1        1     0.00   anden
+       1        1     0.00   andre
+       1        0   100.00   arth
+       1        0   100.00   aus
+       1        0   100.00   bekleidet
+       1        0   100.00   beweiſe
+       1        1     0.00   beﬂeiſsigen
+       1        1     0.00   c
+       1        1     0.00   carolus
+       1        0   100.00   das
+       2        2     0.00   de
+       1        0   100.00   dem
+       1        0   100.00   denn
+       3        1    66.67   der
+       1        1     0.00   des
+       1        1     0.00   det
+       1        0   100.00   deud
+       2        2     0.00   deudſ
+       4        2    50.00   die
+       1        0   100.00   dieſe
+       1        1     0.00   dung
+       4        4     0.00   e
+       2        2     0.00   ehrli
+       1        0   100.00   eigene
+       1        1     0.00   einfel
+       5        5     0.00   en
+       1        1     0.00   ens
+       4        3    25.00   er
+       1        1     0.00   erempel
+       1        1     0.00   exemplorum
+       1        1     0.00   f
+       1        1     0.00   fran
+       2        0   100.00   gar
+       1        0   100.00   ge
+       1        1     0.00   gea
+       1        1     0.00   gebot
+       1        1     0.00   gebrau
+       1        1     0.00   gekl
+       1        0   100.00   gemeine
+       1        1     0.00   geringli
+       1        1     0.00   geſp
+       1        1     0.00   gr
+       1        1     0.00   haben
+       1        0   100.00   hat
+       1        1     0.00   herf
+       1        0   100.00   hiemit
+       1        1     0.00   hondorfĳ
+       2        2     0.00   im
+       1        1     0.00   inn
+       1        1     0.00   itu
+       1        1     0.00   jhre
+       1        1     0.00   jhren
+       1        1     0.00   k
+       1        0   100.00   kein
+       1        1     0.00   klei
+       3        1    66.67   kleidung
+       1        0   100.00   landen
+       1        0   100.00   leute
+       1        1     0.00   li
+       1        1     0.00   ma
+       1        0   100.00   magnus
+       1        0   100.00   mann
+       2        2     0.00   mu
+       2        2     0.00   na
+       1        1     0.00   nde
+       1        1     0.00   newe
+       2        2     0.00   ni
+       1        1     0.00   nli
+       1        1     0.00   oder
+       1        0   100.00   perſon
+       1        1     0.00   prom
+       1        1     0.00   ptuario
+       2        2     0.00   r
+       1        0   100.00   reiniger
+       1        1     0.00   ret
+       3        3     0.00   s
+       2        2     0.00   t
+       1        1     0.00   te
+       1        1     0.00   ten
+       1        1     0.00   tet
+       1        1     0.00   tig
+       1        1     0.00   titulo
+       1        1     0.00   tra
+       1        1     0.00   u
+       1        1     0.00   v
+       1        1     0.00   vberﬂuß
+       1        1     0.00   ve
+       2        1    50.00   viel
+       5        3    40.00   vnd
+       1        1     0.00   vnnd
+       1        0   100.00   vnter
+       1        1     0.00   von
+       1        0   100.00   vppigkeit
+       1        1     0.00   w
+       1        1     0.00   wenig
+       1        1     0.00   wie
+       1        0   100.00   wird
+       1        1     0.00   zierli
+       1        1     0.00   zubringen
+       2        0   100.00   zum
+       1        1     0.00   zurotten
+       1        1     0.00   ſ
+       1        1     0.00   ſe
+       1        1     0.00   ſen
+       1        1     0.00   ſo
+       1        0   100.00   ſondern
+       2        2     0.00   
+       4        4     0.00   
+       4        4     0.00   
+       5        5     0.00   
+       1        1     0.00   
+       3        3     0.00   
+       1        1     0.00   
+       1        1     0.00   
+      24       24     0.00   
+       1        1     0.00   ﬁnde

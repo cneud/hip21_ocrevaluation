@@ -1,0 +1,244 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+    1565   Characters
+     476   Errors
+   69.58%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   69.58%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      81      319       76      476   Unmarked
+      81      319       76      476   Total
+
+   Count   Missed   %Right
+     306       59    80.72   ASCII Spacing Characters
+      70       28    60.00   ASCII Special Symbols
+      29       11    62.07   ASCII Digits
+      27        5    81.48   ASCII Uppercase Letters
+    1082      246    77.26   ASCII Lowercase Letters
+      28       28     0.00   Latin Extended-A
+       5        5     0.00   General Punctuation
+      12       12     0.00   Private Use Area
+       6        6     0.00   Alphabetic Presentation Forms
+    1565      400    74.44   Total
+
+  Errors   Marked   Correct-Generated
+      15        0   { }-{}
+      13        0   {ſ}-{f}
+       9        0   {iﬁed, yea}-{ calling}
+       8        0   { juiﬁes}-{fe that}
+       8        0   { you<\n>are}-{atis}
+       8        0   {: but to}-{only,<\n>as}
+       8        0   {p. 1. 4.}-{sindure}
+       8        0   {rthy of}-{t called}
+       8        0   {y making}-{elievers}
+       7        0   {:}-{purpofe}
+       7        0   {accord}-{where w}
+       7        0   {and glo}-{thei}
+       7        0   {believe}-{and glo}
+       7        0   {purpoſe}-{called,}
+       7        0   {wed.<\n>yo}-{alfo j}
+       6        0   { not c}-{ey<\n>fh}
+       6        0   {been}-{2.10.)}
+       6        0   {called}-{}
+       6        0   {g and}-{neffe:}
+       6        0   {hat ye}-{ifies,}
+       6        0   {indure}-{walk}
+       6        0   {n ſur}-{ holin}
+       6        0   {s ) to}-{ified,}
+       6        0   {ſuch}-{4+ for}
+       6        0   {ﬁ}-{fi}
+       5        0   {) he}-{,<\n>Now}
+       5        0   {elei}-{but t}
+       5        0   {heir }-{o we}
+       5        0   {ly}-{ {ure}
+       5        0   {m h}-{ call}
+       5        0   {olin}-{ath b}
+       5        0   {us<\n>( }-{befa}
+       5        0   {‑}-{-}
+       4        0   {( t}-{@eec}
+       4        0   {, }-{}
+       4        0   {<\n>}-{rdin}
+       4        0   {Gods}-{“are}
+       4        0   {call}-{( v}
+       4        0   {cati}-{<\n>gl}
+       4        0   {lled}-{tion}
+       4        0   {n wh}-{rifi}
+       4        0   {ne}-{d th}
+       4        0   {oſ}-{at y}
+       4        0   {riﬁe}-{<\n>God}
+       4        0   {that}-{walk}
+       4        0   {uncl}-{y}
+       4        0   {uſ}-{nf}
+       4        0   {ved,}-{king}
+       4        0   {y of}-{em}
+       4        0   {ſ. 4}-{wed}
+       4        0   {}-{ft}
+       3        0   { v}-{alf}
+       3        0   {&c }-{fu}
+       3        0   {, ſ}-{f}
+       3        0   {16<\n>}-{}
+       3        0   {alſ}-{th}
+       3        0   {as}-{God}
+       3        0   {end}-{of}
+       3        0   {e}-{thy}
+       3        0   {iz.}-{ed,}
+       3        0   {r}-{the}
+       3        0   {wor}-{}
+       3        0   {y }-{cti}
+       3        0   {}-{16<\n>}
+       3        0   {}-{ing}
+       3        0   {}-{of }
+       2        0   { ;}-{s}
+       2        0   { }-{ft}
+       2        0   {,}-{fe}
+       2        0   {.}-{,}
+       2        0   {10}-{7}
+       2        0   {<\n>1}-{n}
+       2        0   {Go}-{en}
+       2        0   {P}-{Th}
+       2        0   {as}-{2}
+       2        0   {a}-{wo}
+       2        0   {c}-{e}
+       2        0   {e;}-{cs}
+       2        0   {ed}-{}
+       2        0   {ey}-{is}
+       2        0   {e}-{y}
+       2        0   {f}-{t}
+       2        0   {ha}-{Pe}
+       2        0   {ha}-{}
+       2        0   {hi}-{w}
+       2        0   {is}-{1.}
+       2        0   {li}-{ea}
+       2        0   {lk}-{nd}
+       2        0   {lk}-{th}
+       2        0   {l}-{ t}
+       2        0   {lſ}-{cc}
+       2        0   {m.}-{v,}
+       2        0   {nd}-{re}
+       2        0   {ng}-{th}
+       2        0   {ng}-{z.}
+       2        0   {re}-{s:}
+       2        0   {th}-{el}
+       2        0   {t}-{p.}
+       2        0   {t}-{}
+       2        0   {wi}-{}
+       2        0   {}-{ .}
+       2        0   {}-{) }
+       2        0   {}-{_ }
+       2        0   {}-{va}
+       2        0   {}-{¢ }
+       2        0   {ſe}-{fi}
+       2        0   {ſh}-{c}
+       2        0   {ſh}-{fo}
+       2        0   { }-{tt}
+       2        0   {}-{fe}
+       2        0   {}-{fi}
+       2        0   {}-{ff}
+       2        0   {}-{fl}
+       1        0   { }-{'}
+       1        0   { }-{.}
+       1        0   { }-{f}
+       1        0   { }-{r}
+       1        0   {&}-{C}
+       1        0   {,}-{s}
+       1        0   {.}-{}
+       1        0   {2}-{4}
+       1        0   {2}-{i}
+       1        0   {7}-{}
+       1        0   {:}-{e}
+       1        0   {N}-{y}
+       1        0   {T}-{f}
+       1        0   {a}-{}
+       1        0   {e}-{c}
+       1        0   {h}-{.}
+       1        0   {l}-{}
+       1        0   {n}-{r}
+       1        0   {t}-{f}
+       1        0   {t}-{w}
+       1        0   {t}-{y}
+       1        0   {u}-{a}
+       1        0   {u}-{w}
+       1        0   {w}-{h}
+       1        0   {w}-{n}
+       1        0   {w}-{u}
+       1        0   {w}-{}
+       1        0   {}-{ }
+       1        0   {}-{&}
+       1        0   {}-{.}
+       1        0   {}-{:}
+       1        0   {}-{a}
+       1        0   {}-{d}
+       1        0   {}-{u}
+       1        0   {}-{y}
+       1        0   {ſ}-{m}
+       1        0   {ſ}-{}
+       1        0   {}-{}
+
+   Count   Missed   %Right
+      35        6    82.86   {<\n>}
+     271       53    80.44   { }
+       2        2     0.00   {&}
+       2        2     0.00   {(}
+       2        2     0.00   {)}
+      23        7    69.57   {,}
+      33       10    69.70   {.}
+       1        1     0.00   {0}
+       8        4    50.00   {1}
+       9        2    77.78   {2}
+       6        2    66.67   {4}
+       1        1     0.00   {6}
+       2        1    50.00   {7}
+       2        0   100.00   {8}
+       6        3    50.00   {:}
+       2        2     0.00   {;}
+       4        0   100.00   {A}
+       1        0   100.00   {B}
+       2        0   100.00   {C}
+       1        0   100.00   {E}
+       4        2    50.00   {G}
+       2        0   100.00   {I}
+       1        0   100.00   {J}
+       1        0   100.00   {L}
+       1        0   100.00   {M}
+       2        1    50.00   {N}
+       2        1    50.00   {P}
+       1        0   100.00   {R}
+       2        0   100.00   {S}
+       3        1    66.67   {T}
+      97       18    81.44   {a}
+      17        3    82.35   {b}
+      40       11    72.50   {c}
+      40       13    67.50   {d}
+     143       32    77.62   {e}
+      25        4    84.00   {f}
+      24        5    79.17   {g}
+      72       15    79.17   {h}
+      60       15    75.00   {i}
+       2        1    50.00   {j}
+       7        3    57.14   {k}
+      61       19    68.85   {l}
+      20        3    85.00   {m}
+      76       16    78.95   {n}
+      93       15    83.87   {o}
+      11        3    72.73   {p}
+      72       11    84.72   {r}
+      31        7    77.42   {s}
+     102       17    83.33   {t}
+      39       13    66.67   {u}
+       7        3    57.14   {v}
+      19        8    57.89   {w}
+      22       10    54.55   {y}
+       2        1    50.00   {z}
+      28       28     0.00   {ſ}
+       5        5     0.00   {‑}
+       6        6     0.00   {}
+       1        1     0.00   {}
+       4        4     0.00   {}
+       1        1     0.00   {}
+       6        6     0.00   {ﬁ}

@@ -1,0 +1,54 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+      16   Words
+      10   Misrecognized
+   37.50%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       0        0   ------    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       1        1     0.00        2
+       7        4    42.86        3
+       3        2    33.33        5
+       2        1    50.00        6
+       2        1    50.00        7
+       1        1     0.00        8
+      16       10    37.50    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      16       10    37.50        1
+      16       10    37.50    Total
+
+Phrases
+   Count   Missed   %Right   Length
+      16       10    37.50        1
+      15       11    26.67        2
+      14       12    14.29        3
+      13       12     7.69        4
+      12       12     0.00        5
+      11       11     0.00        6
+      10       10     0.00        7
+       9        9     0.00        8
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   den
+       1        0   100.00   der
+       1        1     0.00   dur
+       1        1     0.00   el
+       1        1     0.00   erberg
+       1        1     0.00   johan
+       1        0   100.00   kleider
+       1        0   100.00   krauß
+       1        0   100.00   pauß
+       1        1     0.00   plu
+       1        1     0.00   strauß
+       1        1     0.00   teuﬀel
+       1        0   100.00   vnd
+       1        1     0.00   wider
+       1        1     0.00   
+       1        1     0.00   

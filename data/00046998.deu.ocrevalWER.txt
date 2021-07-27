@@ -1,0 +1,180 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     218   Words
+     140   Misrecognized
+   35.78%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       7        6    14.29        1
+       1        0   100.00        2
+       2        2     0.00        3
+      10        8    20.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      15       13    13.33        1
+      28       23    17.86        2
+      98       66    32.65        3
+      16        9    43.75        4
+      23       11    52.17        5
+      16        7    56.25        6
+       5        1    80.00        7
+       3        1    66.67        8
+       3        1    66.67        9
+       1        0   100.00       10
+     208      132    36.54    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      85       48    43.53        1
+      20        7    65.00        2
+       5        2    60.00        3
+       4        4     0.00        4
+       5        2    60.00        5
+       1        1     0.00        6
+       1        1     0.00      >10
+     121       65    46.28    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     218      140    35.78        1
+     217      168    22.58        2
+     216      186    13.89        3
+     215      195     9.30        4
+     214      202     5.61        5
+     213      207     2.82        6
+     212      210     0.94        7
+     211      211     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       4        3    25.00   a
+       1        1     0.00   her
+       3        3     0.00   i
+       1        0   100.00   in
+       1        1     0.00   man
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   3
+       1        0   100.00   abgewendet
+       1        0   100.00   alſo
+       1        0   100.00   andern
+       1        0   100.00   anhang
+       1        1     0.00   au
+       2        1    50.00   augen
+       1        0   100.00   bald
+       1        0   100.00   bernhard
+       1        0   100.00   bey
+       1        1     0.00   bri
+       1        0   100.00   da
+       1        1     0.00   darna
+       1        0   100.00   darumb
+       3        0   100.00   das
+       1        1     0.00   de
+       2        0   100.00   dem
+       2        0   100.00   den
+       2        0   100.00   denn
+       5        0   100.00   der
+       1        0   100.00   des
+       2        1    50.00   die
+       4        4     0.00   e
+       1        0   100.00   ein
+       1        0   100.00   einen
+       1        1     0.00   einkom
+       1        1     0.00   ele
+       3        3     0.00   en
+       1        1     0.00   ene
+       5        3    40.00   er
+       1        1     0.00   erlein
+       2        1    50.00   es
+       1        1     0.00   et
+       1        0   100.00   ey
+       1        1     0.00   fel
+       1        1     0.00   fels
+       1        1     0.00   ferhe
+       1        1     0.00   gang
+       1        1     0.00   gar
+       1        1     0.00   geb
+       1        0   100.00   geben
+       1        1     0.00   gehabt
+       1        0   100.00   gehalten
+       1        1     0.00   gekleidet
+       1        1     0.00   gem
+       1        1     0.00   gemehli
+       1        1     0.00   gr
+       2        0   100.00   haben
+       1        0   100.00   heraus
+       1        1     0.00   herf
+       1        1     0.00   herrli
+       1        0   100.00   herrn
+       1        1     0.00   hnli
+       1        1     0.00   hr
+       1        1     0.00   iger
+       2        0   100.00   imbro
+       1        1     0.00   jnen
+       1        1     0.00   k
+       1        0   100.00   keiner
+       1        0   100.00   ker
+       2        0   100.00   keyſer
+       1        0   100.00   kinder
+       1        0   100.00   kleid
+       1        1     0.00   kleidung
+       1        1     0.00   la
+       2        2     0.00   li
+       1        1     0.00   ma
+       1        1     0.00   maſ
+       1        0   100.00   men
+       1        1     0.00   mit
+       1        1     0.00   moſen
+       2        2     0.00   na
+       1        1     0.00   opf
+       2        2     0.00   p
+       1        0   100.00   prangen
+       1        1     0.00   pre
+       2        2     0.00   r
+       1        1     0.00   rei
+       1        0   100.00   s
+       2        2     0.00   sehet
+       4        4     0.00   t
+       1        1     0.00   tbarn
+       1        1     0.00   th
+       1        1     0.00   thuts
+       1        1     0.00   tiger
+       1        0   100.00   verdirbet
+       1        1     0.00   verdro
+       1        0   100.00   vmb
+       1        0   100.00   vmbringen
+       5        1    80.00   vnd
+       1        1     0.00   vngew
+       2        1    50.00   vnnd
+       2        1    50.00   vns
+       1        1     0.00   vnwi
+       3        0   100.00   von
+       1        1     0.00   vrſa
+       1        1     0.00   weg
+       1        0   100.00   weib
+       1        1     0.00   wel
+       1        1     0.00   wi
+       3        0   100.00   wie
+       1        0   100.00   wird
+       1        0   100.00   wol
+       1        0   100.00   zuuorn
+       3        3     0.00   ſ
+       2        1    50.00   ſaget
+       1        0   100.00   ſagt
+       1        0   100.00   ſein
+       1        0   100.00   ſeinem
+       1        0   100.00   ſelbs
+       1        1     0.00   ſern
+       2        1    50.00   ſo
+       1        0   100.00   ſol
+       5        5     0.00   
+       4        4     0.00   
+       5        5     0.00   
+       4        4     0.00   
+       2        2     0.00   
+       2        2     0.00   
+       6        6     0.00   
+      21       21     0.00   

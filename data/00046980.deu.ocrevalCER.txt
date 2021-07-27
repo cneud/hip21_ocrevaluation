@@ -1,0 +1,241 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+     803   Characters
+     533   Errors
+   33.62%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   33.62%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      72      353      108      533   Unmarked
+      72      353      108      533   Total
+
+   Count   Missed   %Right
+      10       10     0.00   Unassigned
+     160       57    64.38   ASCII Spacing Characters
+      27       17    37.04   ASCII Special Symbols
+      25       20    20.00   ASCII Uppercase Letters
+     523      268    48.76   ASCII Lowercase Letters
+      13        8    38.46   Latin Extended-A
+      41       41     0.00   Private Use Area
+       4        4     0.00   Alphabetic Presentation Forms
+     803      425    47.07   Total
+
+  Errors   Marked   Correct-Generated
+      15        0   {o woen e mi<\n>}-{irafft ha-<\n>ben/}
+      10        0   {aber ni}-{wil Hoffar}
+      10        0   {t<\n>gethan}-{iden, Aber}
+       9        0   {Jungkfraw}-{vbermach}
+       9        0   {l Hoﬀar}-{cran<\n>nich}
+       9        0   {}-{ars<\n>' inn}
+       8        0   { aein d}-{geſchlag}
+       8        0   {bewe}-{-<\n>Farth }
+       8        0   {ﬀt ha⸗<\n>b}-{rgen / D}
+       7        0   {Ehr vnd}-{alle}
+       7        0   {Hof⸗<\n>fa}-{auch }
+       7        0   {Mann}-{vppiſch}
+       7        0   {hauf⸗<\n>f}-{Got}
+       7        0   {keines}-{fcy. Wo}
+       7        0   {n. Aber}-{r volck}
+       7        0   {r Eh⸗<\n>r}-{s<\n>mill}
+       7        0   {t kan }-{nnes P}
+       6        0   { /}-{-<\n>dern}
+       6        0   { }-{}
+       6        0   {/}-{ſie}
+       6        0   {<\n>nits}-{ / ſo}
+       6        0   {Perſo⸗}-{haufs,}
+       6        0   {l duld}-{s<\n>n}
+       6        0   {r vol}-{ſindes}
+       6        0   {s<\n>wie}-{n / So}
+       6        0   {vnd W}-{leicht}
+       6        0   {}-{ch}
+       5        0   { vppi}-{,<\n>Vn}
+       5        0   { wide}-{ngkf}
+       5        0   {/ ſo }-{Ehs<\n>r}
+       5        0   {Vnſer}-{Th}
+       5        0   {dlie}-{s gar}
+       5        0   {nerun}-{es we}
+       5        0   {r vmb}-{ſen}
+       5        0   {re}-{ nich}
+       5        0   {w}-{ich ſ}
+       5        0   {}-{ duld}
+       4        0   { / v}-{awe}
+       4        0   {/ i}-{aber}
+       4        0   {/<\n>I}-{es}
+       4        0   {Denn}-{cs /}
+       4        0   {Erba}-{den }
+       4        0   {Son⸗}-{mich}
+       4        0   {en}-{ott }
+       4        0   {ga}-{/.Ch}
+       4        0   {ma}-{lich}
+       4        0   {mein}-{vnr}
+       4        0   {roh}-{laſſ}
+       4        0   {y}-{iden}
+       4        0   {ſ}-{ev<\n>w}
+       4        0   {⸗<\n>}-{ung/}
+       4        0   {raﬀ}-{ſi}
+       4        0   {}-{fich}
+       3        0   { e}-{cht}
+       3        0   {. E}-{ mi}
+       3        0   {. H}-{ Tr}
+       3        0   {/ }-{Hab}
+       3        0   {/}-{dem}
+       3        0   {/}-{des}
+       3        0   {au}-{fo}
+       3        0   {be}-{cht}
+       3        0   {b}-{nd }
+       3        0   {dem}-{/}
+       3        0   {der}-{v}
+       3        0   {des}-{/}
+       3        0   {die}-{/ }
+       3        0   {ein}-{vmb}
+       3        0   {ib}-{n G}
+       3        0   {ide}-{}
+       3        0   {i}-{t<\n>g}
+       3        0   {i}-{das}
+       3        0   {i}-{kan}
+       3        0   {jhn}-{ſie}
+       3        0   {kan}-{/}
+       3        0   {li}-{bar}
+       3        0   {l}-{ſtr}
+       3        0   {n.<\n>}-{<\n>fe}
+       3        0   {ni}-{wol}
+       3        0   {n}-{r}
+       3        0   {r z}-{<\n>J}
+       3        0   {r}-{d l}
+       3        0   {s}-{n}
+       3        0   {s}-{r}
+       3        0   {th }-{edl}
+       3        0   {vnd}-{ich}
+       3        0   {weg}-{ab}
+       3        0   {}-{wid}
+       3        0   {⸗}-{s}
+       2        0   { /}-{n}
+       2        0   { d}-{}
+       2        0   { w}-{m}
+       2        0   { }-{ec}
+       2        0   {/ }-{ge}
+       2        0   {<\n>l}-{}
+       2        0   {<\n>w}-{f}
+       2        0   {Go}-{bi}
+       2        0   {Tr}-{M}
+       2        0   {Wo}-{Er}
+       2        0   {ab}-{di}
+       2        0   {ag}-{b}
+       2        0   {eh}-{E}
+       2        0   {en}-{o}
+       2        0   {ge}-{d }
+       2        0   {lb}-{in}
+       2        0   {le}-{}
+       2        0   {mi}-{vn}
+       2        0   {n}-{}
+       2        0   {rg}-{iſ}
+       2        0   {rt}-{il}
+       2        0   {r}-{th}
+       2        0   {r}-{}
+       2        0   {te}-{}
+       2        0   {t}-{ch}
+       2        0   {}-{ k}
+       2        0   {}-{.}
+       2        0   {}-{/ }
+       2        0   {}-{ch}
+       2        0   {}-{f-}
+       2        0   {}-{h}
+       2        0   {}-{in}
+       2        0   {}-{oh}
+       2        0   {}-{t }
+       2        0   {}-{vn}
+       2        0   { }-{ch}
+       2        0   {}-{ſt}
+       2        0   {e}-{zu}
+       2        0   {}-{fi}
+       2        0   {}-{ff}
+       2        0   {}-{ll}
+       1        0   {.}-{,}
+       1        0   {<\n>}-{ }
+       1        0   {G}-{w}
+       1        0   {b}-{m}
+       1        0   {d}-{b}
+       1        0   {d}-{}
+       1        0   {e}-{c}
+       1        0   {g}-{v}
+       1        0   {h}-{s}
+       1        0   {l}-{W}
+       1        0   {m}-{n}
+       1        0   {n}-{F}
+       1        0   {r}-{w}
+       1        0   {t}-{r}
+       1        0   {v}-{b}
+       1        0   {v}-{h}
+       1        0   {w}-{h}
+       1        0   {}-{e}
+       1        0   {}-{i}
+       1        0   {}-{n}
+       1        0   {ſ}-{H}
+       1        0   {ſ}-{[}
+       1        0   {ſ}-{l}
+       1        0   {ſ}-{m}
+       1        0   {}-{ü}
+       1        0   {}-{}
+       1        0   {}-{e}
+       1        0   {}-{}
+       1        0   {}-{ſ}
+       1        0   {ﬀ}-{f}
+
+   Count   Missed   %Right
+      25       14    44.00   {<\n>}
+     135       43    68.15   { }
+       7        5    28.57   {.}
+      20       12    40.00   {/}
+       1        1     0.00   {A}
+       2        1    50.00   {D}
+       4        4     0.00   {E}
+       4        2    50.00   {G}
+       3        3     0.00   {H}
+       1        1     0.00   {I}
+       1        1     0.00   {J}
+       1        0   100.00   {K}
+       1        1     0.00   {M}
+       2        1    50.00   {P}
+       1        1     0.00   {S}
+       1        1     0.00   {T}
+       1        1     0.00   {V}
+       2        2     0.00   {W}
+      33       18    45.45   {a}
+      14       12    14.29   {b}
+      28       16    42.86   {d}
+     113       36    68.14   {e}
+       6        5    16.67   {f}
+      11        8    27.27   {g}
+      15       10    33.33   {h}
+      36       21    41.67   {i}
+       2        1    50.00   {j}
+       4        4     0.00   {k}
+      17       11    35.29   {l}
+       8        7    12.50   {m}
+      76       34    55.26   {n}
+      20       11    45.00   {o}
+       2        2     0.00   {p}
+      54       26    51.85   {r}
+      15       10    33.33   {s}
+      28       10    64.29   {t}
+       9        5    44.44   {u}
+      16        9    43.75   {v}
+      13       10    23.08   {w}
+       1        1     0.00   {y}
+       2        1    50.00   {z}
+      13        8    38.46   {ſ}
+      10       10     0.00   {⸗}
+       1        1     0.00   {}
+       5        5     0.00   {}
+       7        7     0.00   {}
+       1        1     0.00   {}
+       1        1     0.00   {}
+       4        4     0.00   {}
+      22       22     0.00   {}
+       4        4     0.00   {ﬀ}

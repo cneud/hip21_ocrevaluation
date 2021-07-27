@@ -1,0 +1,183 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     196   Words
+     119   Misrecognized
+   39.29%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        2     0.00        1
+       5        4    20.00        2
+       1        0   100.00        3
+       8        6    25.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      18       18     0.00        1
+      17       14    17.65        2
+      92       58    36.96        3
+      15        5    66.67        4
+      23        9    60.87        5
+      11        4    63.64        6
+       4        2    50.00        7
+       3        0   100.00        8
+       3        2    33.33        9
+       2        1    50.00       10
+     188      113    39.89    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      95       48    49.47        1
+      10        4    60.00        2
+       7        3    57.14        3
+       3        3     0.00        4
+       2        1    50.00        5
+       3        2    33.33        6
+       1        1     0.00      >10
+     121       62    48.76    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     196      119    39.29        1
+     195      148    24.10        2
+     194      160    17.53        3
+     193      170    11.92        4
+     192      177     7.81        5
+     191      181     5.24        6
+     190      183     3.68        7
+     189      185     2.12        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       1        0   100.00   an
+       1        1     0.00   he
+       1        1     0.00   i
+       1        1     0.00   in
+       1        0   100.00   man
+       1        1     0.00   me
+       1        1     0.00   we
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   am
+       1        1     0.00   auben
+       1        1     0.00   auﬀ
+       1        0   100.00   bis
+       1        1     0.00   cir
+       1        1     0.00   daf
+       1        0   100.00   dar
+       3        0   100.00   das
+       1        0   100.00   den
+       1        0   100.00   der
+       3        0   100.00   die
+       1        1     0.00   dieſelben
+       1        0   100.00   dig
+       1        0   100.00   drunter
+       4        4     0.00   e
+       1        1     0.00   eiden
+       3        0   100.00   ein
+       1        0   100.00   eine
+       1        0   100.00   einen
+       1        1     0.00   el
+       3        3     0.00   en
+       1        1     0.00   er
+       1        1     0.00   erlein
+       1        1     0.00   erſ
+       5        3    40.00   es
+       1        1     0.00   et
+       2        0   100.00   etwa
+       1        1     0.00   eublin
+       1        1     0.00   exempel
+       1        1     0.00   f
+       1        0   100.00   feine
+       1        0   100.00   feinen
+       1        0   100.00   frawzimmer
+       2        2     0.00   g
+       1        0   100.00   gab
+       1        0   100.00   geben
+       1        1     0.00   gef
+       1        1     0.00   gele
+       1        0   100.00   gen
+       1        0   100.00   genug
+       1        1     0.00   geſe
+       1        1     0.00   glo
+       1        0   100.00   gold
+       1        0   100.00   graupen
+       1        1     0.00   h
+       1        1     0.00   hamen
+       1        1     0.00   har
+       1        1     0.00   innen
+       1        1     0.00   je
+       1        0   100.00   jnwen
+       1        0   100.00   jungkfraw
+       1        0   100.00   kaum
+       1        0   100.00   kein
+       2        1    50.00   keplin
+       1        1     0.00   ker
+       1        0   100.00   kleid
+       1        0   100.00   kleidern
+       1        1     0.00   kur
+       1        1     0.00   l
+       1        1     0.00   landtskne
+       1        0   100.00   lange
+       1        1     0.00   leibje
+       1        1     0.00   leinwandt
+       1        1     0.00   lin
+       1        0   100.00   loren
+       1        1     0.00   lſen
+       1        1     0.00   m
+       1        0   100.00   mag
+       1        0   100.00   mit
+       1        0   100.00   mus
+       1        1     0.00   nd
+       1        0   100.00   nemen
+       1        0   100.00   oben
+       1        1     0.00   p
+       1        1     0.00   pra
+       1        1     0.00   r
+       1        1     0.00   redli
+       1        0   100.00   ren
+       2        2     0.00   rtel
+       3        3     0.00   s
+       1        1     0.00   sa
+       1        0   100.00   sammet
+       1        0   100.00   seiden
+       1        0   100.00   silber
+       1        0   100.00   springer
+       3        3     0.00   t
+       1        1     0.00   tan
+       1        1     0.00   ter
+       1        0   100.00   thun
+       1        0   100.00   trugs
+       2        0   100.00   ver
+       1        0   100.00   vmb
+       6        0   100.00   vnd
+       1        0   100.00   vnnd
+       2        1    50.00   vnten
+       3        1    66.67   von
+       1        0   100.00   vor
+       1        0   100.00   war
+       1        1     0.00   weg
+       1        1     0.00   wei
+       1        0   100.00   weit
+       1        1     0.00   weiﬀe
+       1        1     0.00   wel
+       2        1    50.00   wie
+       1        0   100.00   zeigtens
+       1        0   100.00   zeiten
+       1        1     0.00   ĳ
+       1        1     0.00   ſ
+       1        0   100.00   ſehen
+       2        0   100.00   ſein
+       1        1     0.00   ſol
+       1        0   100.00   ſpar
+       1        1     0.00   
+       6        6     0.00   
+       2        2     0.00   
+       5        5     0.00   
+       2        2     0.00   
+       4        4     0.00   
+       6        6     0.00   
+       4        4     0.00   
+      12       12     0.00   

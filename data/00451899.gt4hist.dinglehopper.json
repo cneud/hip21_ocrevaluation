@@ -1,0 +1,10 @@
+{
+    "gt": "/home/cnd/tmp/dev/ocr_eval_paper/impact/00451899.gt.xml",
+    "ocr": "/home/cnd/tmp/dev/ocr_eval_paper/impact/00451899.gt4hist.xml",
+
+    "cer": 0.24,
+    "wer": 0.3875,
+
+    "n_characters": 1375,
+    "n_words": 240
+}

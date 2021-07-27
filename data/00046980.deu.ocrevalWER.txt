@@ -1,0 +1,172 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     205   Words
+     152   Misrecognized
+   25.85%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       7        7     0.00        1
+       1        1     0.00        2
+       1        0   100.00        3
+       9        8    11.11    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      14       14     0.00        1
+      30       28     6.67        2
+      91       69    24.18        3
+      17       10    41.18        4
+      11        6    45.45        5
+      20       12    40.00        6
+       6        2    66.67        7
+       3        1    66.67        8
+       2        2     0.00        9
+       1        0   100.00       11
+       1        0   100.00       12
+     196      144    26.53    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      85       50    41.18        1
+      13        8    38.46        2
+       2        1    50.00        3
+       4        2    50.00        4
+       1        1     0.00        5
+       1        1     0.00        6
+       2        1    50.00        7
+       2        2     0.00        8
+       1        1     0.00      >10
+     111       67    39.64    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     205      152    25.85        1
+     204      174    14.71        2
+     203      189     6.90        3
+     202      196     2.97        4
+     201      198     1.49        5
+     200      199     0.50        6
+     199      199     0.00        7
+     198      198     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        2     0.00   a
+       1        1     0.00   an
+       5        5     0.00   i
+       1        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       3        1    66.67   aber
+       1        0   100.00   anders
+       1        0   100.00   anfahen
+       2        2     0.00   au
+       1        1     0.00   bed
+       1        1     0.00   ben
+       1        1     0.00   beweiſen
+       1        0   100.00   bitte
+       1        0   100.00   das
+       1        1     0.00   dem
+       1        0   100.00   den
+       1        0   100.00   denn
+       4        1    75.00   der
+       1        0   100.00   dern
+       1        0   100.00   ders
+       2        0   100.00   des
+       1        0   100.00   die
+       1        0   100.00   dieſen
+       1        1     0.00   dulden
+       8        8     0.00   e
+       1        1     0.00   eh
+       1        1     0.00   ehr
+       1        1     0.00   ehrli
+       2        2     0.00   ein
+       1        0   100.00   einer
+       8        8     0.00   en
+       4        4     0.00   er
+       1        0   100.00   erbare
+       1        1     0.00   ern
+       1        0   100.00   ernehren
+       1        1     0.00   erweh
+       2        1    50.00   es
+       1        1     0.00   etli
+       1        1     0.00   farth
+       1        0   100.00   fen
+       1        0   100.00   gar
+       2        2     0.00   ge
+       1        0   100.00   gethan
+       2        2     0.00   gott
+       1        0   100.00   gottes
+       1        1     0.00   ha
+       1        0   100.00   habe
+       1        1     0.00   hauf
+       1        1     0.00   hieran
+       1        1     0.00   hof
+       1        1     0.00   hoﬀarth
+       1        0   100.00   hungers
+       1        1     0.00   innerung
+       1        1     0.00   jhn
+       1        0   100.00   jnen
+       1        0   100.00   jungkfrawen
+       2        2     0.00   kan
+       1        1     0.00   keines
+       1        1     0.00   kin
+       1        1     0.00   la
+       1        1     0.00   lagen
+       1        1     0.00   lei
+       2        2     0.00   leiden
+       1        0   100.00   mannes
+       1        0   100.00   meine
+       1        1     0.00   mi
+       1        0   100.00   mir
+       2        0   100.00   mit
+       1        1     0.00   ndes
+       1        0   100.00   nen
+       3        3     0.00   ni
+       1        1     0.00   perſo
+       1        1     0.00   pra
+       1        1     0.00   raﬀen
+       1        1     0.00   raﬀt
+       1        1     0.00   redli
+       2        1    50.00   ren
+       1        0   100.00   rohen
+       1        1     0.00   rﬀte
+       1        0   100.00   son
+       6        6     0.00   t
+       1        1     0.00   ten
+       1        1     0.00   tra
+       1        0   100.00   treiben
+       1        1     0.00   ts
+       1        1     0.00   vberma
+       1        0   100.00   verargen
+       1        0   100.00   vmb
+       7        4    42.86   vnd
+       1        1     0.00   vngeſ
+       2        2     0.00   vnre
+       1        1     0.00   vnſer
+       1        1     0.00   vol
+       1        0   100.00   vorzertelung
+       1        1     0.00   vppiſ
+       1        0   100.00   weges
+       1        0   100.00   weiber
+       1        1     0.00   wi
+       1        1     0.00   wider
+       2        2     0.00   wil
+       2        1    50.00   wo
+       1        1     0.00   wol
+       1        0   100.00   wolten
+       1        0   100.00   worten
+       1        1     0.00   zu
+       1        1     0.00   ſelber
+       1        1     0.00   ſey
+       4        2    50.00   ſo
+       1        1     0.00   ſol
+       1        1     0.00   
+       5        5     0.00   
+       7        7     0.00   
+       1        1     0.00   
+       1        1     0.00   
+       4        4     0.00   
+      22       22     0.00   

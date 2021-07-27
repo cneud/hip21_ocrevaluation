@@ -1,0 +1,199 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     242   Words
+     112   Misrecognized
+   53.72%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+      14        1    92.86        2
+       2        1    50.00        3
+       1        0   100.00        4
+      17        2    88.24    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       2        1    50.00        1
+      37       19    48.65        2
+      74       28    62.16        3
+      42       24    42.86        4
+      18       11    38.89        5
+      14        6    57.14        6
+       5        1    80.00        7
+       9        8    11.11        8
+      11        6    45.45        9
+       5        3    40.00       10
+       6        3    50.00       11
+       2        0   100.00       12
+     225      110    51.11    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      95       54    43.16        1
+      18        4    77.78        2
+      11        3    72.73        3
+       6        0   100.00        4
+       1        0   100.00        6
+       1        0   100.00        7
+       3        2    33.33        8
+     135       63    53.33    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     242      112    53.72        1
+     241      170    29.46        2
+     240      199    17.08        3
+     239      216     9.62        4
+     238      223     6.30        5
+     237      228     3.80        6
+     236      231     2.12        7
+     235      233     0.85        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        0   100.00   be
+       6        0   100.00   in
+       4        1    75.00   is
+       1        0   100.00   man
+       1        0   100.00   no
+       1        0   100.00   of
+       1        0   100.00   over
+       1        1     0.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   22
+       1        0   100.00   435
+       1        1     0.00   572
+       1        1     0.00   6i
+       3        1    66.67   aan
+       1        1     0.00   aande
+       1        0   100.00   alleen
+       2        0   100.00   als
+       1        0   100.00   ande
+       1        1     0.00   ander
+       1        0   100.00   april
+       1        0   100.00   bedenkingen
+       1        1     0.00   bedoelde
+       1        1     0.00   begrijpende
+       1        0   100.00   belangt
+       1        0   100.00   ben
+       2        0   100.00   bl
+       1        1     0.00   blijft
+       3        3     0.00   boekzaal
+       1        0   100.00   courant
+       1        1     0.00   daad
+       1        1     0.00   daan
+       4        2    50.00   daar
+       7        0   100.00   dat
+       8        1    87.50   de
+       2        0   100.00   den
+       2        1    50.00   deze
+       1        1     0.00   dezelfde
+       3        0   100.00   die
+       4        1    75.00   dit
+       2        0   100.00   dog
+       1        0   100.00   door
+       3        1    66.67   een
+       2        2     0.00   eene
+       1        1     0.00   eenigszins
+       3        3     0.00   el
+       1        1     0.00   ema
+       1        1     0.00   emming
+       4        0   100.00   en
+       3        2    33.33   er
+       2        0   100.00   gedaan
+       1        0   100.00   gegeven
+       1        1     0.00   gehad
+       1        1     0.00   geheel
+       2        1    50.00   gelijk
+       1        0   100.00   geplaatst
+       1        1     0.00   geven
+       1        1     0.00   gezegd
+       1        1     0.00   haagſche
+       1        0   100.00   hadden
+       1        1     0.00   hand
+       1        0   100.00   heb
+       1        0   100.00   hebben
+       3        2    33.33   heeft
+       1        0   100.00   hem
+       1        0   100.00   hervormde
+       4        1    75.00   het
+       1        1     0.00   i787
+       2        2     0.00   i789
+       1        0   100.00   ieder
+       1        0   100.00   iets
+       1        1     0.00   ii
+       8        8     0.00   ik
+       1        0   100.00   intebrengen
+       1        1     0.00   ja
+       1        0   100.00   kend
+       1        1     0.00   kende
+       1        1     0.00   kerk
+       1        0   100.00   lands
+       1        1     0.00   las
+       1        0   100.00   lust
+       3        1    66.67   men
+       2        0   100.00   met
+       2        1    50.00   mey
+       1        0   100.00   mij
+       1        0   100.00   mijn
+       1        1     0.00   mishaagde
+       1        0   100.00   mogten
+       1        1     0.00   naderhand
+       1        1     0.00   neêr
+       3        1    66.67   niet
+       1        1     0.00   niettegen
+       4        0   100.00   noch
+       1        0   100.00   nu
+       1        0   100.00   nuttigheid
+       2        0   100.00   om
+       1        0   100.00   onder
+       1        0   100.00   onſchuldig
+       1        1     0.00   ook
+       2        2     0.00   openlijk
+       1        1     0.00   opgerezen
+       1        1     0.00   optevatten
+       1        1     0.00   outheid
+       1        0   100.00   pen
+       1        0   100.00   philadelphus
+       1        1     0.00   ren
+       1        1     0.00   rijdperk
+       1        1     0.00   sy
+       2        1    50.00   t
+       1        0   100.00   te
+       2        0   100.00   tegen
+       1        0   100.00   tegendeel
+       3        1    66.67   toe
+       1        0   100.00   treden
+       1        1     0.00   twist
+       1        0   100.00   uitdaagde
+       1        0   100.00   uitdaging
+       1        0   100.00   uitgenoodigd
+       6        1    83.33   van
+       1        1     0.00   veel
+       1        0   100.00   ver
+       1        0   100.00   verzagt
+       1        0   100.00   verzagting
+       1        1     0.00   verzekering
+       1        1     0.00   verſchilde
+       4        2    50.00   voor
+       1        1     0.00   voorreden
+       1        0   100.00   vorderen
+       1        1     0.00   vrees
+       1        1     0.00   waar
+       2        2     0.00   wat
+       3        3     0.00   wel
+       1        1     0.00   welk
+       1        1     0.00   wist
+       1        1     0.00   zaak
+       1        1     0.00   zeer
+       1        1     0.00   zelve
+       2        1    50.00   zijn
+       1        1     0.00   zonder
+       1        1     0.00   zoo
+       2        1    50.00   zou
+       1        1     0.00   zugt
+       1        1     0.00   zulk
+       1        1     0.00   ſchrijven
+       8        8     0.00   

@@ -1,0 +1,122 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+     229   Characters
+     205   Errors
+   10.48%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   10.48%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      15      160       30      205   Unmarked
+      15      160       30      205   Total
+
+   Count   Missed   %Right
+       1        1     0.00   Unassigned
+      43       20    53.49   ASCII Spacing Characters
+       9        5    44.44   ASCII Special Symbols
+       4        4     0.00   ASCII Digits
+      14       14     0.00   ASCII Uppercase Letters
+     140      113    19.29   ASCII Lowercase Letters
+       3        3     0.00   Latin Extended-A
+      13       13     0.00   Private Use Area
+       2        2     0.00   Alphabetic Presentation Forms
+     229      175    23.58   Total
+
+  Errors   Marked   Correct-Generated
+      13        0   {<\n>Htters.<\n>Ein}-{noch hab ich}
+      12        0   {Was ſadts?}-{in verlegung}
+      11        0   {gium Hoﬀman}-{ Schrifft}
+      10        0   {verdienen}-{glagt/<\n>Wab}
+       9        0   {gung Simo}-{richt.<\n>De}
+       9        0   {nit/<\n>Mit}-{fchadts?}
+       9        0   {ybergk}-{nen nicht}
+       8        0   { glei d}-{<\n>Hu◌ͤtte}
+       7        0   {bin i }-{dru◌ͤ⸗<\n>}
+       7        0   {klagt}-{1 5 8 1}
+       6        0   {dieſer}-{ob man}
+       6        0   {dur G}-{Mit di}
+       6        0   {nno}-{druckt}
+       5        0   {1 5 8}-{Kleid}
+       5        0   {1.<\n>Ge}-{wer}
+       5        0   {gſ}-{Hoffm}
+       5        0   {i di}-{Freyb}
+       5        0   {i}-{ klag}
+       5        0   {verl}-{ich b}
+       5        0   {zu Fr}-{verdi}
+       4        0   {Wa}-{/<\n>du}
+       4        0   {ber}-{Anno}
+       4        0   {rut}-{ ich}
+       3        0   {Sr}-{gle}
+       3        0   {hab}-{zu}
+       3        0   {ob }-{Si}
+       3        0   {}-{org}
+       3        0   {}-{rgk}
+       2        0   {/<\n>}-{b}
+       2        0   {An}-{Ei}
+       2        0   {Kl}-{di}
+       2        0   {d }-{he}
+       2        0   {gt}-{n }
+       2        0   {id}-{}
+       2        0   {o}-{ſe}
+       2        0   {t}-{um}
+       2        0   {we}-{Wa}
+       2        0   {}-{ G}
+       2        0   {⸗}-{s.}
+       2        0   {ﬀt}-{ch}
+       1        0   {<\n>}-{}
+       1        0   {D}-{G}
+       1        0   {a}-{o}
+       1        0   {o}-{}
+       1        0   {}-{c}
+       1        0   {}-{t}
+
+   Count   Missed   %Right
+      10        6    40.00   {<\n>}
+      33       14    57.58   { }
+       4        2    50.00   {.}
+       4        2    50.00   {/}
+       2        2     0.00   {1}
+       1        1     0.00   {5}
+       1        1     0.00   {8}
+       1        1     0.00   {?}
+       1        1     0.00   {A}
+       1        1     0.00   {D}
+       1        1     0.00   {E}
+       1        1     0.00   {F}
+       2        2     0.00   {G}
+       2        2     0.00   {H}
+       1        1     0.00   {K}
+       1        1     0.00   {M}
+       2        2     0.00   {S}
+       2        2     0.00   {W}
+       8        7    12.50   {a}
+       6        5    16.67   {b}
+       9        8    11.11   {d}
+      20       12    40.00   {e}
+       8        8     0.00   {g}
+       2        1    50.00   {h}
+      18       14    22.22   {i}
+       2        2     0.00   {k}
+       4        4     0.00   {l}
+       4        3    25.00   {m}
+      14       10    28.57   {n}
+       6        6     0.00   {o}
+      15       10    33.33   {r}
+       3        3     0.00   {s}
+      11       10     9.09   {t}
+       5        5     0.00   {u}
+       2        2     0.00   {v}
+       1        1     0.00   {w}
+       1        1     0.00   {y}
+       1        1     0.00   {z}
+       3        3     0.00   {ſ}
+       1        1     0.00   {⸗}
+       2        2     0.00   {}
+       1        1     0.00   {}
+      10       10     0.00   {}
+       2        2     0.00   {ﬀ}

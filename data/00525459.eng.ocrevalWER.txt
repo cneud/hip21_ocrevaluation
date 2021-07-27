@@ -1,0 +1,193 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     311   Words
+     126   Misrecognized
+   59.49%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+      46       14    69.57        2
+      60        8    86.67        3
+      46        6    86.96        4
+       8        0   100.00        5
+     160       28    82.50    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       5        2    60.00        1
+      14       12    14.29        2
+      44       34    22.73        3
+      19       14    26.32        4
+      20        7    65.00        5
+      14        7    50.00        6
+      12        7    41.67        7
+       8        3    62.50        8
+       9        7    22.22        9
+       2        1    50.00       10
+       1        1     0.00       11
+       1        1     0.00       12
+       1        1     0.00       13
+       1        1     0.00       14
+     151       98    35.10    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      64       33    48.44        1
+      14        6    57.14        2
+       4        1    75.00        3
+       2        1    50.00        4
+       2        2     0.00        5
+       1        1     0.00        6
+       1        1     0.00        9
+       1        1     0.00      >10
+      89       46    48.31    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     311      126    59.49        1
+     310      181    41.61        2
+     309      217    29.77        3
+     308      241    21.75        4
+     307      257    16.29        5
+     306      271    11.44        6
+     305      282     7.54        7
+     304      287     5.59        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        0   100.00   all
+       5        0   100.00   and
+       2        0   100.00   as
+       6        1    83.33   be
+       4        0   100.00   been
+       2        0   100.00   but
+       2        1    50.00   by
+       1        0   100.00   could
+       2        0   100.00   did
+       5        1    80.00   for
+       3        2    33.33   from
+       3        0   100.00   had
+       3        0   100.00   have
+       3        0   100.00   he
+       7        1    85.71   him
+       3        1    66.67   his
+       4        3    25.00   if
+       6        2    66.67   in
+       1        0   100.00   is
+       4        0   100.00   it
+       3        1    66.67   know
+       1        0   100.00   my
+       5        0   100.00   not
+       3        0   100.00   now
+       3        0   100.00   of
+       1        1     0.00   on
+       2        0   100.00   or
+       7        1    85.71   that
+      13        5    61.54   the
+       1        0   100.00   their
+       5        1    80.00   them
+       4        0   100.00   then
+       6        0   100.00   they
+       4        0   100.00   this
+      10        5    50.00   to
+       8        0   100.00   was
+       2        0   100.00   way
+       1        1     0.00   we
+       1        0   100.00   were
+       5        0   100.00   which
+       1        0   100.00   who
+       5        1    80.00   will
+       1        0   100.00   with
+       1        0   100.00   would
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   17
+       1        0   100.00   19
+       1        0   100.00   2
+       1        1     0.00   21
+       2        2     0.00   23
+       1        1     0.00   24
+       1        0   100.00   3
+       2        2     0.00   abſolute
+       1        1     0.00   accompliſh
+       1        1     0.00   accompliſhed
+       1        0   100.00   again
+       1        1     0.00   aﬀorded
+       1        1     0.00   becauſe
+       1        0   100.00   believe
+       1        0   100.00   bringing
+       9        9     0.00   chri
+       1        1     0.00   come
+       1        0   100.00   concerning
+       1        1     0.00   conclude
+       1        1     0.00   correſpondent
+       1        1     0.00   cruciﬁed
+       1        0   100.00   cup
+       1        0   100.00   cut
+       1        0   100.00   d
+       1        0   100.00   dance
+       1        0   100.00   doe
+       1        1     0.00   e
+       1        1     0.00   ed
+       2        1    50.00   end
+       1        0   100.00   eternall
+       1        0   100.00   even
+       1        0   100.00   every
+       1        1     0.00   eﬀe
+       1        1     0.00   falling
+       1        0   100.00   fathers
+       3        1    66.67   forgiven
+       1        1     0.00   forgiveneſs
+       2        0   100.00   god
+       1        1     0.00   grace
+       1        0   100.00   hath
+       3        1    66.67   heard
+       1        0   100.00   here
+       1        1     0.00   hot
+       1        1     0.00   inaſmuch
+       1        0   100.00   jewes
+       1        1     0.00   joh
+       1        0   100.00   knowledg
+       1        0   100.00   life
+       1        1     0.00   luke
+       2        1    50.00   meanes
+       1        0   100.00   means
+       2        0   100.00   might
+       4        4     0.00   mu
+       1        1     0.00   nne
+       1        1     0.00   ood
+       1        1     0.00   oﬀ
+       1        1     0.00   pa
+       2        1    50.00   po
+       2        0   100.00   prayed
+       4        0   100.00   prayer
+       1        0   100.00   praying
+       1        1     0.00   promiſed
+       1        0   100.00   put
+       1        0   100.00   receiving
+       5        5     0.00   reſpe
+       1        1     0.00   s
+       1        0   100.00   ten
+       1        0   100.00   themeanes
+       2        2     0.00   therefore
+       1        0   100.00   thers
+       1        0   100.00   thirdly
+       1        0   100.00   thy
+       2        2     0.00   tive
+       1        1     0.00   under
+       1        0   100.00   unto
+       1        1     0.00   uſed
+       1        1     0.00   verſ
+       2        1    50.00   viz
+       2        1    50.00   without
+       3        0   100.00   world
+       5        5     0.00   ſhould
+       3        3     0.00   ſo
+       1        1     0.00   ſubmi
+       1        1     0.00   ſuch
+      14       14     0.00   
+       2        2     0.00   
+       1        1     0.00   
+       2        2     0.00   
+       6        6     0.00   

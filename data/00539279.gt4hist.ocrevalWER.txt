@@ -1,0 +1,203 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     223   Words
+      92   Misrecognized
+   58.74%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       9        2    77.78        2
+       2        2     0.00        3
+       2        0   100.00        4
+      13        4    69.23    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       4        4     0.00        1
+      36       12    66.67        2
+      63       20    68.25        3
+      30       12    60.00        4
+      18        9    50.00        5
+      21        8    61.90        6
+       8        4    50.00        7
+       8        4    50.00        8
+      10        6    40.00        9
+       6        5    16.67       10
+       5        4    20.00       11
+       1        0   100.00       14
+     210       88    58.10    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+     112       55    50.89        1
+      12        3    75.00        2
+       5        0   100.00        3
+       6        0   100.00        4
+       1        1     0.00        5
+       1        0   100.00        6
+       1        0   100.00        7
+       1        0   100.00        8
+       1        0   100.00        9
+     140       59    57.86    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     223       92    58.74        1
+     222      138    37.84        2
+     221      168    23.98        3
+     220      189    14.09        4
+     219      203     7.31        5
+     218      208     4.59        6
+     217      209     3.69        7
+     216      210     2.78        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        0   100.00   be
+       6        0   100.00   in
+       2        2     0.00   of
+       2        0   100.00   over
+       2        2     0.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   3
+       1        0   100.00   582
+       1        0   100.00   583
+       1        1     0.00   aangedaan
+       1        1     0.00   agt
+       2        0   100.00   al
+       1        0   100.00   alle
+       2        1    50.00   alleen
+       1        1     0.00   allermin
+       1        0   100.00   als
+       1        1     0.00   beantwoord
+       1        1     0.00   behalven
+       1        1     0.00   behandelde
+       1        0   100.00   belediging
+       2        1    50.00   ben
+       1        0   100.00   berigt
+       1        0   100.00   bi
+       2        2     0.00   bibliotheek
+       2        1    50.00   bij
+       1        0   100.00   bl
+       1        1     0.00   boekzaal
+       1        1     0.00   boekzalen
+       1        0   100.00   brie
+       4        2    50.00   brieven
+       2        0   100.00   daar
+       1        1     0.00   dan
+       3        0   100.00   dat
+       8        2    75.00   de
+       1        0   100.00   deel
+       1        0   100.00   der
+       1        1     0.00   deze
+       1        1     0.00   dezelve
+       3        1    66.67   die
+       1        0   100.00   dog
+       1        0   100.00   door
+       1        1     0.00   drukker
+       1        0   100.00   durven
+       2        2     0.00   e
+       1        0   100.00   een
+       1        1     0.00   eene
+       1        1     0.00   el
+       3        0   100.00   en
+       1        0   100.00   fen
+       1        0   100.00   ge
+       2        1    50.00   gedaan
+       1        0   100.00   gee
+       1        0   100.00   geen
+       1        0   100.00   gegeven
+       1        0   100.00   gehad
+       1        0   100.00   gekomen
+       1        0   100.00   genoemde
+       1        0   100.00   gezonden
+       1        1     0.00   geſchre
+       1        1     0.00   geſchreven
+       1        0   100.00   hand
+       1        1     0.00   handelwijze
+       4        1    75.00   heb
+       1        0   100.00   hebben
+       2        2     0.00   heeft
+       1        0   100.00   hem
+       6        2    66.67   het
+       1        1     0.00   hier
+       1        1     0.00   hij
+       1        1     0.00   hoe
+       1        1     0.00   i784
+       1        1     0.00   i787
+       1        0   100.00   iemand
+       1        0   100.00   iets
+       9        8    11.11   ik
+       1        1     0.00   jaar
+       1        0   100.00   junij
+       1        1     0.00   kleine
+       1        1     0.00   kunnen
+       1        0   100.00   maar
+       1        0   100.00   mag
+       1        0   100.00   mede
+       1        0   100.00   met
+       4        0   100.00   mij
+       4        1    75.00   mijne
+       2        0   100.00   mijner
+       1        0   100.00   naam
+       1        1     0.00   naderhand
+       1        0   100.00   ne
+       1        0   100.00   nederlandſche
+       1        1     0.00   ng
+       2        1    50.00   niets
+       1        1     0.00   nieuwe
+       3        0   100.00   noch
+       1        0   100.00   nog
+       4        0   100.00   om
+       1        0   100.00   ooit
+       1        1     0.00   ook
+       1        1     0.00   oﬀen
+       1        1     0.00   plaat
+       1        0   100.00   plaats
+       2        0   100.00   plaatſen
+       1        0   100.00   richt
+       1        1     0.00   schrijvers
+       1        0   100.00   sedert
+       4        0   100.00   te
+       1        1     0.00   teekening
+       1        0   100.00   tegen
+       1        0   100.00   ter
+       1        0   100.00   toe
+       1        0   100.00   toen
+       1        1     0.00   twist
+       1        1     0.00   té
+       1        0   100.00   uitgever
+       1        0   100.00   uitkomen
+       1        1     0.00   v
+       7        0   100.00   van
+       3        0   100.00   ven
+       1        0   100.00   verdediging
+       1        1     0.00   verder
+       1        0   100.00   verklaard
+       1        1     0.00   verklaren
+       1        0   100.00   vermoeden
+       1        1     0.00   verwonderd
+       1        1     0.00   voor
+       1        1     0.00   voorkennis
+       1        1     0.00   voorreden
+       1        0   100.00   voren
+       1        0   100.00   vragen
+       1        1     0.00   waar
+       1        1     0.00   weet
+       1        1     0.00   wegens
+       1        1     0.00   weren
+       1        1     0.00   zal
+       1        1     0.00   zelve
+       1        1     0.00   zij
+       1        1     0.00   zijn
+       1        1     0.00   zijne
+       1        0   100.00   zogt
+       1        1     0.00   zond
+       1        0   100.00   zonder
+       1        0   100.00   zou
+       1        1     0.00   zulk
+       1        0   100.00   ſprak
+       5        5     0.00   
+       1        1     0.00   

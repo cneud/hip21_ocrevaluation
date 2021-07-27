@@ -1,0 +1,166 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     177   Words
+     109   Misrecognized
+   38.42%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       1        1     0.00        1
+       9        5    44.44        2
+      10        6    40.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      10       10     0.00        1
+      21       17    19.05        2
+      73       45    38.36        3
+      18       12    33.33        4
+      16        5    68.75        5
+      12        5    58.33        6
+       2        2     0.00        7
+       5        1    80.00        8
+       5        2    60.00        9
+       3        2    33.33       10
+       1        1     0.00       12
+       1        1     0.00       13
+     167      103    38.32    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      78       46    41.03        1
+      13        4    69.23        2
+       6        2    66.67        3
+       2        1    50.00        4
+       2        2     0.00        5
+       2        0   100.00        6
+       1        1     0.00        7
+       1        1     0.00        8
+     105       57    45.71    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     177      109    38.42        1
+     176      136    22.73        2
+     175      155    11.43        3
+     174      162     6.90        4
+     173      166     4.05        5
+     172      169     1.74        6
+     171      169     1.17        7
+     170      169     0.59        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        1    50.00   an
+       2        2     0.00   be
+       1        1     0.00   i
+       4        1    75.00   in
+       1        1     0.00   so
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   3
+       1        0   100.00   abforderte
+       1        0   100.00   abgezogen
+       1        0   100.00   abmahlen
+       1        1     0.00   al
+       1        0   100.00   als
+       2        1    50.00   alſo
+       1        0   100.00   antrug
+       2        1    50.00   da
+       1        1     0.00   darna
+       1        0   100.00   das
+       2        0   100.00   dem
+       2        0   100.00   den
+       1        1     0.00   denn
+       3        0   100.00   der
+       6        1    83.33   die
+       1        1     0.00   dieſem
+       3        3     0.00   e
+       1        1     0.00   ehet
+       1        0   100.00   ein
+       1        0   100.00   eine
+       3        3     0.00   en
+       6        4    33.33   er
+       1        1     0.00   erledigung
+       2        1    50.00   es
+       2        2     0.00   et
+       1        0   100.00   eſel
+       1        0   100.00   fabeln
+       2        0   100.00   federn
+       1        1     0.00   feindt
+       1        1     0.00   ferner
+       1        1     0.00   fran
+       1        0   100.00   frembden
+       1        0   100.00   gar
+       1        1     0.00   ge
+       1        0   100.00   gehets
+       1        0   100.00   getrieben
+       1        1     0.00   geworﬀen
+       1        1     0.00   giﬀt
+       3        2    33.33   gott
+       1        1     0.00   gram
+       1        0   100.00   haben
+       1        0   100.00   halte
+       1        0   100.00   hat
+       1        0   100.00   hatte
+       1        0   100.00   haut
+       1        1     0.00   hle
+       1        1     0.00   hoﬀarth
+       1        1     0.00   hoﬀertigen
+       1        1     0.00   ii
+       1        1     0.00   item
+       1        0   100.00   jeder
+       1        1     0.00   jhn
+       1        1     0.00   k
+       1        0   100.00   kaal
+       1        1     0.00   ker
+       1        0   100.00   kleidern
+       1        1     0.00   l
+       1        1     0.00   la
+       1        0   100.00   leut
+       1        1     0.00   li
+       1        1     0.00   liebe
+       1        1     0.00   m
+       1        1     0.00   marta
+       3        0   100.00   mit
+       1        1     0.00   nget
+       1        1     0.00   nig
+       1        1     0.00   nﬀtigen
+       1        1     0.00   raﬀe
+       1        1     0.00   rei
+       1        1     0.00   se
+       1        1     0.00   sol
+       1        0   100.00   stuel
+       1        1     0.00   t
+       1        1     0.00   unde
+       1        1     0.00   vern
+       1        0   100.00   verrathen
+       1        1     0.00   verzweiﬀelt
+       1        1     0.00   vmbbra
+       4        1    75.00   vnd
+       2        1    50.00   vnnd
+       1        0   100.00   vogel
+       2        0   100.00   vom
+       1        0   100.00   von
+       2        2     0.00   w
+       1        0   100.00   waltigen
+       1        1     0.00   wen
+       1        1     0.00   wer
+       3        1    66.67   wider
+       2        1    50.00   wie
+       1        1     0.00   wird
+       1        0   100.00   wurde
+       1        0   100.00   zun
+       1        0   100.00   ſeine
+       1        1     0.00   ſeiner
+       1        0   100.00   ſelbs
+       1        1     0.00   ſpinnen
+       5        5     0.00   
+       2        2     0.00   
+       8        8     0.00   
+       4        4     0.00   
+       1        1     0.00   
+       5        5     0.00   
+       2        2     0.00   
+       7        7     0.00   

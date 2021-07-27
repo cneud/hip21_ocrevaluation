@@ -1,0 +1,184 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     215   Words
+     102   Misrecognized
+   52.56%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+      11        2    81.82        2
+       4        3    25.00        3
+       1        0   100.00        4
+      16        5    68.75    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       2        1    50.00        1
+      25       11    56.00        2
+      64       29    54.69        3
+      30       15    50.00        4
+      17        8    52.94        5
+      17        4    76.47        6
+      11        5    54.55        7
+      18       15    16.67        8
+       4        3    25.00        9
+       1        1     0.00       10
+       2        2     0.00       11
+       5        2    60.00       12
+       2        1    50.00       14
+       1        0   100.00       16
+     199       97    51.26    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      82       41    50.00        1
+      17        7    58.82        2
+       9        3    66.67        3
+       6        1    83.33        4
+       2        0   100.00        5
+       1        0   100.00        6
+       1        0   100.00        7
+       1        0   100.00        9
+     119       52    56.30    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     215      102    52.56        1
+     214      135    36.92        2
+     213      153    28.17        3
+     212      163    23.11        4
+     211      171    18.96        5
+     210      179    14.76        6
+     209      183    12.44        7
+     208      187    10.10        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        0   100.00   be
+       1        0   100.00   had
+       9        1    88.89   in
+       1        1     0.00   of
+       1        0   100.00   over
+       3        3     0.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   676
+       2        2     0.00   aan
+       1        0   100.00   al
+       1        1     0.00   alethophilus
+       1        0   100.00   allen
+       1        0   100.00   als
+       1        1     0.00   begreep
+       1        0   100.00   beide
+       2        1    50.00   berigt
+       1        0   100.00   beſchuldigingen
+       1        0   100.00   bijna
+       1        1     0.00   bl
+       3        3     0.00   boekzaal
+       1        1     0.00   boekzale
+       1        0   100.00   brieven
+       2        0   100.00   courant
+       5        1    80.00   daar
+       1        1     0.00   daarze
+       9        2    77.78   dat
+       7        2    71.43   de
+       1        0   100.00   delphus
+       3        1    66.67   den
+       1        1     0.00   denkbeeld
+       1        1     0.00   der
+       1        0   100.00   deze
+       4        2    50.00   dezelfde
+       4        1    75.00   die
+       1        0   100.00   dit
+       1        1     0.00   duidelijk
+       1        0   100.00   een
+       1        0   100.00   eens
+       1        1     0.00   el
+       4        0   100.00   en
+       1        1     0.00   even
+       2        0   100.00   gedaan
+       1        0   100.00   gelijk
+       1        1     0.00   gevloeid
+       1        1     0.00   geweest
+       1        0   100.00   gezegd
+       1        1     0.00   gezonden
+       1        1     0.00   graag
+       1        1     0.00   grootelijks
+       1        0   100.00   hadden
+       2        1    50.00   heeft
+       2        0   100.00   hem
+       4        2    50.00   het
+       1        1     0.00   hetzelf
+       1        0   100.00   hij
+       2        2     0.00   i787
+       3        2    33.33   ik
+       1        1     0.00   iv
+       1        1     0.00   junij
+       1        1     0.00   leest
+       1        1     0.00   lezer
+       1        0   100.00   lust
+       1        1     0.00   maand
+       1        0   100.00   maar
+       1        0   100.00   mede
+       5        0   100.00   men
+       3        0   100.00   met
+       1        1     0.00   mey
+       1        0   100.00   mij
+       1        0   100.00   mijner
+       1        1     0.00   mogelijk
+       1        0   100.00   na
+       2        1    50.00   niet
+       1        0   100.00   niets
+       2        2     0.00   nog
+       1        1     0.00   nu
+       1        0   100.00   om
+       1        0   100.00   omtrent
+       1        1     0.00   ook
+       1        0   100.00   openlijk
+       1        0   100.00   pen
+       1        0   100.00   phila
+       2        1    50.00   philadelphus
+       1        1     0.00   publiek
+       1        0   100.00   reden
+       3        3     0.00   rijdperk
+       2        1    50.00   rotterdamſche
+       2        1    50.00   t
+       4        3    25.00   te
+       2        1    50.00   toe
+       1        1     0.00   tot
+       3        0   100.00   treden
+       1        0   100.00   uit
+       1        0   100.00   uitdaag
+       1        0   100.00   uitdaging
+       1        1     0.00   uitdrukken
+       1        1     0.00   uitge
+       2        2     0.00   uitgever
+       6        3    50.00   van
+       1        1     0.00   vengenoemde
+       1        1     0.00   ver
+       1        0   100.00   verongelijkt
+       1        0   100.00   vervat
+       3        1    66.67   voor
+       1        0   100.00   vooral
+       1        1     0.00   voorreden
+       1        1     0.00   want
+       2        2     0.00   weet
+       1        1     0.00   wegens
+       1        1     0.00   weinig
+       3        3     0.00   wel
+       1        1     0.00   welk
+       1        0   100.00   wilde
+       1        1     0.00   wist
+       1        0   100.00   woor
+       1        1     0.00   woorden
+       2        2     0.00   zegt
+       1        0   100.00   zien
+       3        2    33.33   zijn
+       1        1     0.00   zijne
+       2        2     0.00   zoo
+       1        0   100.00   zoude
+       1        1     0.00   ſchijnt
+       1        0   100.00   ſchuldiging
+       1        0   100.00   ſoort
+       4        4     0.00   

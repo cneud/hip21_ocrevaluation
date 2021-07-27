@@ -1,0 +1,159 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     219   Words
+     161   Misrecognized
+   26.48%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       6        6     0.00        1
+       2        1    50.00        2
+       1        1     0.00        3
+       9        8    11.11    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      23       22     4.35        1
+      24       22     8.33        2
+     105       74    29.52        3
+      27       16    40.74        4
+      13        8    38.46        5
+       6        2    66.67        6
+       7        6    14.29        7
+       4        2    50.00        8
+       1        1     0.00       11
+     210      153    27.14    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      65       48    26.15        1
+      18       11    38.89        2
+       6        3    50.00        3
+       5        3    40.00        4
+       3        1    66.67        6
+       1        1     0.00        7
+       1        1     0.00       10
+       2        1    50.00      >10
+     101       69    31.68    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     219      161    26.48        1
+     218      191    12.39        2
+     217      205     5.53        3
+     216      211     2.31        4
+     215      211     1.86        5
+     214      211     1.40        6
+     213      211     0.94        7
+     212      211     0.47        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        2     0.00   a
+       2        1    50.00   an
+       4        4     0.00   i
+       1        1     0.00   man
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   3
+       2        2     0.00   alſo
+       1        1     0.00   ange
+       1        1     0.00   armſpangen
+       1        1     0.00   auﬀ
+       1        1     0.00   auﬀgri
+       1        1     0.00   ca
+       1        0   100.00   cap
+       1        0   100.00   da
+       1        0   100.00   darumb
+       3        0   100.00   das
+       1        1     0.00   dawider
+       1        1     0.00   dempta
+       4        0   100.00   den
+       1        1     0.00   denn
+       6        1    83.33   der
+      11        3    72.73   die
+       1        1     0.00   e
+       1        0   100.00   einher
+       4        4     0.00   en
+       2        2     0.00   er
+       1        1     0.00   ern
+       1        1     0.00   es
+       1        1     0.00   et
+       1        1     0.00   etel
+       1        1     0.00   eſaias
+       2        2     0.00   f
+       1        1     0.00   flittern
+       2        2     0.00   fœmina
+       2        1    50.00   gar
+       1        1     0.00   gebreme
+       1        1     0.00   gehen
+       1        1     0.00   gei
+       1        1     0.00   gepu
+       2        2     0.00   geſ
+       1        0   100.00   gott
+       1        1     0.00   h
+       1        0   100.00   haben
+       1        1     0.00   hal
+       1        0   100.00   hauben
+       1        1     0.00   herein
+       4        2    50.00   herr
+       1        0   100.00   jhr
+       1        1     0.00   jren
+       2        2     0.00   k
+       1        1     0.00   kaal
+       1        1     0.00   kite
+       1        0   100.00   leget
+       2        1    50.00   lein
+       4        4     0.00   li
+       1        1     0.00   ma
+       1        1     0.00   meide
+       1        1     0.00   min
+       1        1     0.00   minus
+       2        1    50.00   mit
+       2        2     0.00   mu
+       1        1     0.00   n
+       1        1     0.00   nd
+       2        2     0.00   ni
+       1        0   100.00   nimis
+       1        1     0.00   ol
+       1        1     0.00   pra
+       2        2     0.00   r
+       1        0   100.00   redet
+       1        1     0.00   rein
+       6        6     0.00   s
+       1        1     0.00   sol
+       1        1     0.00   spangen
+       7        7     0.00   t
+       1        1     0.00   tem
+       2        1    50.00   ten
+       2        2     0.00   ter
+       1        0   100.00   tretten
+       1        1     0.00   trit
+       1        1     0.00   uhe
+       1        1     0.00   uhen
+       2        1    50.00   viel
+       6        2    66.67   vnd
+       2        0   100.00   wegnemen
+       1        1     0.00   wen
+       1        0   100.00   wider
+       3        0   100.00   wird
+       1        1     0.00   wo
+       1        0   100.00   zeit
+       2        0   100.00   zion
+       1        0   100.00   zu
+       1        1     0.00   ſ
+       1        0   100.00   ſaget
+       1        1     0.00   ſe
+       3        1    66.67   ſo
+       1        1     0.00   ſpri
+       1        1     0.00   
+       4        4     0.00   
+       3        3     0.00   
+      10       10     0.00   
+       2        2     0.00   
+       1        1     0.00   
+       3        3     0.00   
+       3        3     0.00   
+      25       25     0.00   
+       1        1     0.00   ﬀte

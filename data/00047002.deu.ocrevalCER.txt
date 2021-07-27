@@ -1,0 +1,114 @@
+ocreval Accuracy Report Version 7.0
+-----------------------------------
+     229   Characters
+     202   Errors
+   11.79%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   11.79%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      11      174       17      202   Unmarked
+      11      174       17      202   Total
+
+   Count   Missed   %Right
+       1        1     0.00   Unassigned
+      43       24    44.19   ASCII Spacing Characters
+       9        7    22.22   ASCII Special Symbols
+       4        4     0.00   ASCII Digits
+      14       14     0.00   ASCII Uppercase Letters
+     140      117    16.43   ASCII Lowercase Letters
+       3        3     0.00   Latin Extended-A
+      13       13     0.00   Private Use Area
+       2        2     0.00   Alphabetic Presentation Forms
+     229      185    19.21   Total
+
+  Errors   Marked   Correct-Generated
+      15        0   {Sriﬀt bin i}-{flagt,<\n>Gedruckt}
+      14        0   {die Warheit gſ}-{Georgium Hoffm}
+      13        0   {nen nit/<\n>Mit}-{ obıman glich}
+      12        0   {n<\n>Htters.<\n>E}-{ch hab ich d}
+      11        0   {nno hab i}-{rgk/<\n>durch}
+      10        0   {legung Sim}-{icht,<\n>Denn}
+      10        0   {ſadts? ob}-{verlegung}
+       9        0   {5 8 1.<\n>G}-{werdich v}
+       9        0   {Freybergk}-{niche/<\n>ie}
+       9        0   {berit.<\n>D}-{zu Freyb}
+       8        0   { glei d}-{on<\n>Hütte}
+       6        0   {no 1}-{ Kleid}
+       6        0   {ut zu}-{dienen}
+       5        0   {/<\n>du}-{diefe}
+       5        0   {Hoﬀma}-{bi}
+       5        0   {klagt}-{15 81}
+       5        0   {rd i}-{/<\n>Mas}
+       4        0   {/<\n>in}-{ich}
+       4        0   {Kl}-{Warh}
+       4        0   {ber}-{Anno}
+       4        0   {gium}-{ifft}
+       4        0   {ver}-{fcha}
+       4        0   {w}-{glag}
+       3        0   {Geo}-{Sch}
+       3        0   {Was}-{in}
+       3        0   {eſ}-{s<\n>b}
+       2        0   {A}-{Ei}
+       2        0   {gt}-{n }
+       2        0   {i}-{ts}
+       2        0   {ma}-{Su}
+       2        0   {⸗}-{s.}
+       1        0   {<\n>}-{}
+       1        0   {d}-{t}
+       1        0   {d}-{}
+       1        0   {n}-{e}
+       1        0   {v}-{b}
+       1        0   {}-{r}
+       1        0   {}-{}
+
+   Count   Missed   %Right
+      10        8    20.00   {<\n>}
+      33       16    51.52   { }
+       4        3    25.00   {.}
+       4        3    25.00   {/}
+       2        2     0.00   {1}
+       1        1     0.00   {5}
+       1        1     0.00   {8}
+       1        1     0.00   {?}
+       1        1     0.00   {A}
+       1        1     0.00   {D}
+       1        1     0.00   {E}
+       1        1     0.00   {F}
+       2        2     0.00   {G}
+       2        2     0.00   {H}
+       1        1     0.00   {K}
+       1        1     0.00   {M}
+       2        2     0.00   {S}
+       2        2     0.00   {W}
+       8        7    12.50   {a}
+       6        6     0.00   {b}
+       9        7    22.22   {d}
+      20       13    35.00   {e}
+       8        8     0.00   {g}
+       2        2     0.00   {h}
+      18       15    16.67   {i}
+       2        2     0.00   {k}
+       4        4     0.00   {l}
+       4        4     0.00   {m}
+      14       11    21.43   {n}
+       6        5    16.67   {o}
+      15        9    40.00   {r}
+       3        3     0.00   {s}
+      11       11     0.00   {t}
+       5        5     0.00   {u}
+       2        2     0.00   {v}
+       1        1     0.00   {w}
+       1        1     0.00   {y}
+       1        1     0.00   {z}
+       3        3     0.00   {ſ}
+       1        1     0.00   {⸗}
+       2        2     0.00   {}
+       1        1     0.00   {}
+      10       10     0.00   {}
+       2        2     0.00   {ﬀ}

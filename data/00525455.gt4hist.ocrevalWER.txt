@@ -1,0 +1,205 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     320   Words
+     156   Misrecognized
+   51.25%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        3    25.00        1
+      62       24    61.29        2
+      48       10    79.17        3
+      39       13    66.67        4
+       2        2     0.00        5
+     155       52    66.45    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      13        7    46.15        1
+      13       11    15.38        2
+      35       26    25.71        3
+      30       17    43.33        4
+      24       13    45.83        5
+      16        7    56.25        6
+      11        7    36.36        7
+       6        4    33.33        8
+      11        7    36.36        9
+       3        2    33.33       10
+       2        2     0.00       11
+       1        1     0.00       13
+     165      104    36.97    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      77       48    37.66        1
+      20        7    65.00        2
+       6        2    66.67        3
+       4        1    75.00        4
+       1        1     0.00      >10
+     108       59    45.37    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     320      156    51.25        1
+     319      218    31.66        2
+     318      257    19.18        3
+     317      278    12.30        4
+     316      292     7.59        5
+     315      301     4.44        6
+     314      307     2.23        7
+     313      310     0.96        8
+
+Stopwords
+   Count   Missed   %Right   
+       4        0   100.00   all
+       5        0   100.00   and
+       3        1    66.67   are
+       3        2    33.33   as
+       1        0   100.00   at
+       5        2    60.00   be
+       1        0   100.00   by
+       7        0   100.00   did
+       2        1    50.00   for
+       3        0   100.00   from
+      15        6    60.00   he
+       1        0   100.00   his
+       4        3    25.00   i
+       1        0   100.00   if
+       5        0   100.00   in
+       3        1    66.67   is
+       1        1     0.00   it
+       5        4    20.00   know
+       1        0   100.00   made
+       1        0   100.00   may
+       2        0   100.00   me
+       2        1    50.00   no
+       9        0   100.00   not
+       1        1     0.00   now
+      14        8    42.86   of
+       3        1    66.67   that
+       9        3    66.67   the
+       1        1     0.00   their
+      10        4    60.00   them
+       3        0   100.00   then
+       2        0   100.00   they
+       6        1    83.33   this
+       8        3    62.50   to
+       1        0   100.00   we
+       1        0   100.00   were
+       2        2     0.00   what
+       1        1     0.00   which
+       2        1    50.00   who
+       2        1    50.00   will
+       1        0   100.00   with
+       4        3    25.00   you
+
+Non-stopwords
+   Count   Missed   %Right   
+       2        1    50.00   1
+       1        1     0.00   10
+       1        1     0.00   15
+       2        2     0.00   2
+       1        0   100.00   25
+       1        1     0.00   5
+       1        0   100.00   6
+       1        1     0.00   64
+       1        0   100.00   7
+       1        1     0.00   7.25
+       1        0   100.00   again
+       2        0   100.00   alſo
+       1        1     0.00   approve
+       1        1     0.00   approveof
+       1        1     0.00   arily
+       1        0   100.00   believ
+       2        2     0.00   believers
+       1        0   100.00   beſeech
+       2        1    50.00   called
+       1        1     0.00   ch
+       4        4     0.00   chri
+       1        1     0.00   con
+       1        0   100.00   concluded
+       1        1     0.00   conformable
+       1        0   100.00   conformity
+       1        0   100.00   day
+       2        0   100.00   depart
+       1        0   100.00   doth
+       4        2    50.00   e
+       1        1     0.00   ephs
+       1        0   100.00   ers
+       3        0   100.00   even
+       1        0   100.00   faith
+       1        0   100.00   falling
+       1        0   100.00   fol
+       3        3     0.00   foreknow
+       1        1     0.00   foreknoweth
+       1        1     0.00   foreknowledge
+       1        0   100.00   foreknown
+       3        0   100.00   god
+       1        0   100.00   grace
+       1        0   100.00   granted
+       1        1     0.00   hath
+       2        1    50.00   holy
+       2        1    50.00   image
+       2        2     0.00   inate
+       1        1     0.00   inated
+       1        0   100.00   ini
+       2        0   100.00   iniqui
+       1        0   100.00   iſa
+       1        1     0.00   john
+       1        1     0.00   john1.7
+       2        2     0.00   knew
+       1        1     0.00   knoweth
+       1        1     0.00   knowledge
+       1        1     0.00   la
+       1        1     0.00   le
+       1        1     0.00   lord
+       1        1     0.00   loweth
+       1        1     0.00   manner
+       2        2     0.00   mat
+       2        1    50.00   men
+       1        0   100.00   mentioned
+       1        0   100.00   moreover
+       1        1     0.00   mu
+       1        0   100.00   nated
+       2        2     0.00   nece
+       2        1    50.00   never
+       1        1     0.00   nor
+       1        0   100.00   o
+       1        1     0.00   ood
+       2        0   100.00   others
+       1        0   100.00   peter
+       1        1     0.00   pi
+       4        3    25.00   prede
+       1        1     0.00   priſoner
+       1        1     0.00   profe
+       1        1     0.00   quity
+       1        0   100.00   righ
+       1        1     0.00   s
+       1        1     0.00   teouſne
+       3        0   100.00   text
+       2        1    50.00   therefore
+       1        1     0.00   therſore
+       1        1     0.00   thoſe
+       3        2    33.33   ty
+       1        1     0.00   under
+       1        0   100.00   unto
+       1        1     0.00   ver.but
+       1        1     0.00   verſation
+       1        1     0.00   viz
+       2        1    50.00   whom
+       1        1     0.00   wicked
+       4        2    50.00   workers
+       1        0   100.00   works
+       1        1     0.00   ye
+       1        1     0.00   ſaid
+       1        0   100.00   ſaith
+       1        0   100.00   ſee
+       1        1     0.00   ſence
+       1        1     0.00   ſenſe
+       2        1    50.00   ſo
+       1        1     0.00   ſome
+      14       14     0.00   
+       3        3     0.00   
+       1        1     0.00   
+       1        1     0.00   ﬁfteenth
+       2        2     0.00   ﬁr

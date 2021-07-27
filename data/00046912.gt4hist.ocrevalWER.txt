@@ -1,0 +1,177 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     222   Words
+     130   Misrecognized
+   41.44%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       5        5     0.00        1
+       4        1    75.00        2
+       2        1    50.00        3
+      11        7    36.36    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      14       14     0.00        1
+      32       29     9.38        2
+      90       58    35.56        3
+      17        3    82.35        4
+      23        9    60.87        5
+      14        4    71.43        6
+       7        2    71.43        7
+       8        1    87.50        8
+       4        1    75.00        9
+       2        2     0.00       10
+     211      123    41.71    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      79       33    58.23        1
+      21       11    47.62        2
+       7        2    71.43        3
+       3        1    66.67        4
+       1        1     0.00        5
+       1        1     0.00        6
+       2        1    50.00        7
+       2        2     0.00      >10
+     116       52    55.17    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     222      130    41.44        1
+     221      165    25.34        2
+     220      184    16.36        3
+     219      194    11.42        4
+     218      201     7.80        5
+     217      206     5.07        6
+     216      207     4.17        7
+     215      208     3.26        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        1     0.00   a
+       1        1     0.00   be
+       1        1     0.00   her
+       4        4     0.00   i
+       3        0   100.00   in
+       1        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   adam
+       1        0   100.00   andern
+       1        0   100.00   anziehen
+       1        1     0.00   arren
+       4        4     0.00   au
+       1        1     0.00   begreiﬀt
+       1        0   100.00   bekleiden
+       1        1     0.00   ber
+       1        1     0.00   chri
+       1        1     0.00   da
+       1        0   100.00   darumb
+       4        0   100.00   das
+       1        0   100.00   denn
+       3        1    66.67   der
+       1        1     0.00   derbte
+       2        0   100.00   die
+       3        0   100.00   dieſe
+       1        1     0.00   dr
+       5        5     0.00   e
+       1        1     0.00   eigentli
+       3        0   100.00   ein
+       2        0   100.00   einen
+       7        7     0.00   en
+       4        3    25.00   er
+       1        0   100.00   erin
+       1        1     0.00   f
+       1        1     0.00   fe
+       2        2     0.00   fu
+       2        1    50.00   ge
+       1        1     0.00   gef
+       1        1     0.00   gemeinigli
+       1        0   100.00   gen
+       1        0   100.00   gerathen
+       1        0   100.00   gnaden
+       1        0   100.00   gott
+       1        0   100.00   gottes
+       1        1     0.00   herrli
+       1        0   100.00   herrn
+       1        0   100.00   heut
+       1        0   100.00   heutiges
+       1        1     0.00   ige
+       1        1     0.00   je
+       1        0   100.00   jnnwendig
+       1        0   100.00   kleid
+       2        0   100.00   kleider
+       3        0   100.00   kleidung
+       1        0   100.00   kriegen
+       1        1     0.00   lagene
+       1        0   100.00   lamb
+       1        0   100.00   lebendig
+       1        0   100.00   leib
+       2        2     0.00   li
+       1        1     0.00   lu
+       1        1     0.00   lﬁſ
+       1        1     0.00   m
+       1        0   100.00   mein
+       2        2     0.00   menſ
+       1        0   100.00   mit
+       2        0   100.00   natur
+       2        2     0.00   nd
+       1        0   100.00   nemen
+       1        1     0.00   nemli
+       1        0   100.00   nerung
+       1        0   100.00   newe
+       1        0   100.00   newen
+       2        2     0.00   o
+       1        1     0.00   opﬀer
+       1        1     0.00   orben
+       1        1     0.00   r
+       2        2     0.00   rde
+       1        1     0.00   ro
+       1        0   100.00   stenden
+       1        1     0.00   t
+       1        0   100.00   tage
+       1        0   100.00   tages
+       1        1     0.00   ther
+       1        0   100.00   thier
+       1        0   100.00   tiger
+       2        2     0.00   tro
+       1        1     0.00   ttert
+       1        1     0.00   tyranniſ
+       1        0   100.00   ver
+       1        1     0.00   verſ
+       7        0   100.00   vnd
+       1        0   100.00   vnnd
+       3        1    66.67   vns
+       1        0   100.00   vnſere
+       2        1    50.00   vom
+       2        0   100.00   von
+       1        0   100.00   vppigkeit
+       3        3     0.00   w
+       1        0   100.00   war
+       1        0   100.00   wenn
+       1        0   100.00   werde
+       1        0   100.00   wider
+       2        0   100.00   wie
+       1        1     0.00   wolﬀs
+       1        0   100.00   worden
+       1        0   100.00   zu
+       1        0   100.00   zum
+       1        0   100.00   zwar
+       2        2     0.00   ß
+       1        1     0.00   ßbel
+       1        0   100.00   ſagen
+       1        1     0.00   ſehe
+       1        0   100.00   ſein
+       2        0   100.00   ſo
+       2        1    50.00   ſol
+       1        1     0.00   
+       6        6     0.00   
+      12       12     0.00   
+       3        3     0.00   
+       2        2     0.00   
+       2        2     0.00   
+       2        2     0.00   
+      20       20     0.00   

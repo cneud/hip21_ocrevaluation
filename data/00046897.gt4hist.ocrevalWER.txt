@@ -1,0 +1,149 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     132   Words
+      69   Misrecognized
+   47.73%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       3        2    33.33        1
+       3        2    33.33        2
+       3        1    66.67        3
+       9        5    44.44    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       3        3     0.00        1
+      21       17    19.05        2
+      44       26    40.91        3
+      17        6    64.71        4
+       8        1    87.50        5
+      12        5    58.33        6
+       7        3    57.14        7
+       8        2    75.00        8
+       1        0   100.00        9
+       1        0   100.00       10
+       1        1     0.00       11
+     123       64    47.97    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      73       29    60.27        1
+       8        3    62.50        2
+       1        1     0.00        3
+       3        2    33.33        4
+       1        0   100.00        6
+       1        1     0.00      >10
+      87       36    58.62    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     132       69    47.73        1
+     131       89    32.06        2
+     130      100    23.08        3
+     129      108    16.28        4
+     128      114    10.94        5
+     127      119     6.30        6
+     126      124     1.59        7
+     125      125     0.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        1    50.00   a
+       1        0   100.00   an
+       1        1     0.00   do
+       1        1     0.00   i
+       1        1     0.00   in
+       1        1     0.00   man
+       1        0   100.00   new
+       1        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        1     0.00   56
+       1        0   100.00   aber
+       1        0   100.00   andere
+       1        0   100.00   ange
+       1        0   100.00   anhero
+       1        0   100.00   arbeit
+       1        1     0.00   auﬀs
+       1        1     0.00   aﬀen
+       1        0   100.00   biß
+       1        0   100.00   bleibet
+       1        0   100.00   cap
+       1        0   100.00   dahinden
+       1        0   100.00   damit
+       1        0   100.00   dem
+       1        0   100.00   des
+       6        0   100.00   die
+       1        1     0.00   e
+       2        0   100.00   ein
+       2        1    50.00   einander
+       2        1    50.00   eine
+       4        4     0.00   en
+       4        3    25.00   er
+       1        1     0.00   erhunde
+       1        0   100.00   es
+       1        1     0.00   eſaiæ
+       1        1     0.00   fa
+       1        0   100.00   fangene
+       1        1     0.00   fleiſ
+       1        0   100.00   ge
+       1        1     0.00   gedempﬀet
+       1        1     0.00   gefa
+       1        0   100.00   geklaget
+       1        0   100.00   geweſen
+       1        0   100.00   gewonheit
+       1        0   100.00   gott
+       1        0   100.00   groſ
+       1        0   100.00   himmel
+       1        0   100.00   hund
+       1        1     0.00   ier
+       1        0   100.00   iij
+       1        0   100.00   im
+       1        1     0.00   jemmerli
+       1        1     0.00   k
+       2        2     0.00   la
+       1        0   100.00   leider
+       1        1     0.00   leidli
+       1        0   100.00   mahls
+       1        0   100.00   mit
+       2        2     0.00   na
+       1        1     0.00   ndte
+       1        0   100.00   nemen
+       1        1     0.00   ni
+       1        1     0.00   nu
+       1        0   100.00   nun
+       1        0   100.00   prediger
+       1        1     0.00   rei
+       1        1     0.00   reiben
+       1        0   100.00   sondern
+       1        1     0.00   t
+       1        0   100.00   theil
+       1        1     0.00   ummer
+       1        0   100.00   vnd
+       2        0   100.00   vnnd
+       1        1     0.00   vorrede
+       1        0   100.00   wider
+       1        0   100.00   widerumb
+       1        0   100.00   wie
+       1        0   100.00   wird
+       1        0   100.00   wol
+       1        0   100.00   zeit
+       1        0   100.00   zerzauſet
+       1        0   100.00   zum
+       2        0   100.00   zuuorn
+       1        1     0.00   zuſ
+       2        2     0.00   ſ
+       1        0   100.00   ſein
+       1        0   100.00   ſeiner
+       1        0   100.00   ſen
+       1        1     0.00   ſey
+       1        1     0.00   ſol
+       1        1     0.00   
+       4        4     0.00   
+       1        1     0.00   
+       1        1     0.00   
+       1        1     0.00   
+       3        3     0.00   
+      13       13     0.00   

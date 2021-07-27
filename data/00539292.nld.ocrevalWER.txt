@@ -1,0 +1,197 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     226   Words
+      29   Misrecognized
+   87.17%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+      10        0   100.00        2
+       1        0   100.00        3
+      11        0   100.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       4        2    50.00        1
+      24        1    95.83        2
+      61        7    88.52        3
+      31        4    87.10        4
+      22        4    81.82        5
+      16        1    93.75        6
+      12        0   100.00        7
+      13        1    92.31        8
+      17        7    58.82        9
+       6        0   100.00       10
+       5        0   100.00       11
+       4        2    50.00       12
+     215       29    86.51    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+     102       16    84.31        1
+      19        1    94.74        2
+       6        1    83.33        3
+       5        0   100.00        4
+       1        0   100.00        5
+       1        0   100.00        6
+       2        0   100.00        8
+       1        0   100.00       10
+     137       18    86.86    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     226       29    87.17        1
+     225       51    77.33        2
+     224       69    69.20        3
+     223       85    61.88        4
+     222       98    55.86        5
+     221      108    51.13        6
+     220      117    46.82        7
+     219      124    43.38        8
+
+Stopwords
+   Count   Missed   %Right   
+       4        0   100.00   in
+       2        0   100.00   is
+       4        0   100.00   of
+       1        0   100.00   was
+
+Non-stopwords
+   Count   Missed   %Right   
+       4        0   100.00   aan
+       1        0   100.00   aanbieden
+       4        0   100.00   aanbieding
+       1        0   100.00   aannemen
+       1        0   100.00   aanzien
+       1        0   100.00   aart
+       1        1     0.00   aat
+       1        0   100.00   afwijzen
+       1        0   100.00   algemeene
+       1        0   100.00   alle
+       1        0   100.00   allen
+       1        0   100.00   als
+       1        0   100.00   anderen
+       1        0   100.00   anders
+       1        0   100.00   armelijke
+       1        0   100.00   beantwoorden
+       1        0   100.00   bekend
+       1        0   100.00   ben
+       1        0   100.00   bewoordingen
+       1        1     0.00   beſchouw
+       2        0   100.00   bij
+       1        0   100.00   broeders
+       1        1     0.00   c
+       2        0   100.00   christus
+       2        1    50.00   creaturen
+       1        0   100.00   daar
+       1        0   100.00   daarom
+       1        0   100.00   dadelijk
+       3        1    66.67   dan
+       5        0   100.00   dat
+       3        0   100.00   de
+       2        0   100.00   den
+       3        0   100.00   der
+       1        0   100.00   des
+       1        0   100.00   dezelven
+       1        0   100.00   dezen
+       8        0   100.00   die
+       1        0   100.00   dien
+       2        0   100.00   door
+       1        0   100.00   doorgaans
+       1        0   100.00   durven
+       2        0   100.00   een
+       2        0   100.00   eene
+       1        1     0.00   ellen
+      10        1    90.00   en
+       1        0   100.00   euangelium
+       1        0   100.00   gaat
+       1        0   100.00   gebruikt
+       1        0   100.00   gedaan
+       1        0   100.00   gehad
+       1        0   100.00   genadig
+       2        0   100.00   gods
+       1        1     0.00   haar
+       1        1     0.00   heb
+       2        0   100.00   hebben
+       1        0   100.00   heen
+       3        0   100.00   het
+       1        0   100.00   hetzelfde
+       1        0   100.00   homologeren
+       2        0   100.00   hunne
+       8        0   100.00   ik
+       1        1     0.00   j
+       1        1     0.00   joden
+       1        0   100.00   kan
+       1        0   100.00   ken
+       1        0   100.00   kerke
+       1        0   100.00   konden
+       1        0   100.00   latende
+       1        0   100.00   letterknegt
+       1        0   100.00   mannen
+       2        0   100.00   meen
+       1        0   100.00   men
+       2        2     0.00   menſchen
+       1        0   100.00   met
+       2        0   100.00   mij
+       1        0   100.00   mijzelven
+       1        1     0.00   min
+       1        0   100.00   naar
+       1        0   100.00   nadenk
+       1        0   100.00   nen
+       6        0   100.00   niet
+       1        0   100.00   nog
+       1        1     0.00   nooit
+       1        0   100.00   om
+       1        1     0.00   onſchrif
+       1        0   100.00   overtuiging
+       1        0   100.00   paulus
+       1        0   100.00   plaats
+       1        0   100.00   prediken
+       1        0   100.00   prediking
+       1        0   100.00   predikt
+       2        1    50.00   reden
+       1        0   100.00   repudiëren
+       1        0   100.00   te
+       2        0   100.00   ten
+       1        0   100.00   tuurlijk
+       2        0   100.00   u
+       2        0   100.00   van
+       1        0   100.00   verbond
+       1        0   100.00   verbonds
+       2        1    50.00   vergeving
+       1        0   100.00   verkies
+       1        0   100.00   verkondigd
+       1        0   100.00   verkondigen
+       1        1     0.00   verkondiging
+       1        1     0.00   verwisſelen
+       4        3    25.00   voor
+       1        0   100.00   voorbeeld
+       1        1     0.00   voorreden
+       1        1     0.00   vrijheid
+       1        0   100.00   waarlijk
+       4        0   100.00   wanneer
+       1        0   100.00   want
+       1        0   100.00   waren
+       1        0   100.00   wegen
+       2        0   100.00   welke
+       1        0   100.00   welken
+       1        0   100.00   wezen
+       1        0   100.00   wierd
+       1        0   100.00   woord
+       1        0   100.00   woorden
+       1        0   100.00   wordt
+       1        0   100.00   xviii
+       1        0   100.00   za
+       1        0   100.00   zegt
+       1        0   100.00   zeide
+       1        0   100.00   zien
+       4        0   100.00   zij
+       1        0   100.00   zijn
+       1        0   100.00   zijner
+       1        0   100.00   zin
+       1        0   100.00   zonden
+       3        0   100.00   zoo
+       1        0   100.00   zoude
+       1        0   100.00   zulk
+       1        1     0.00   ſchij
+       3        3     0.00   

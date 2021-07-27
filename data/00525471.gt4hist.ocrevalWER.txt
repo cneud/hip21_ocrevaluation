@@ -1,0 +1,180 @@
+ocreval Word Accuracy Report Version 7.0
+----------------------------------------
+     313   Words
+     136   Misrecognized
+   56.55%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       6        5    16.67        1
+      37       19    48.65        2
+      50       10    80.00        3
+      96       30    68.75        4
+       4        4     0.00        5
+     193       68    64.77    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       3        3     0.00        1
+       9        4    55.56        2
+      18       16    11.11        3
+      29       18    37.93        4
+      22        9    59.09        5
+      19        5    73.68        6
+       7        4    42.86        7
+       6        3    50.00        8
+       5        5     0.00        9
+       1        0   100.00       10
+       1        1     0.00       12
+     120       68    43.33    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      57       31    45.61        1
+      12        7    41.67        2
+       5        0   100.00        3
+       2        0   100.00        4
+       2        0   100.00        5
+       1        1     0.00        6
+      79       39    50.63    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     313      136    56.55        1
+     312      201    35.58        2
+     311      242    22.19        3
+     310      267    13.87        4
+     309      285     7.77        5
+     308      296     3.90        6
+     307      300     2.28        7
+     306      302     1.31        8
+
+Stopwords
+   Count   Missed   %Right   
+       3        2    33.33   a
+       1        1     0.00   after
+       1        0   100.00   all
+       4        1    75.00   and
+       4        1    75.00   are
+       2        0   100.00   be
+       2        0   100.00   been
+       7        0   100.00   but
+       1        0   100.00   can
+       1        0   100.00   did
+       3        1    66.67   for
+      12        7    41.67   from
+       1        1     0.00   had
+       4        1    75.00   have
+       1        0   100.00   he
+       3        3     0.00   i
+       1        1     0.00   if
+       1        0   100.00   in
+       2        1    50.00   is
+       3        1    66.67   it
+       1        0   100.00   made
+       1        0   100.00   many
+       1        0   100.00   may
+       1        0   100.00   more
+       1        0   100.00   no
+       8        2    75.00   not
+      16       12    25.00   of
+       1        0   100.00   or
+       7        2    71.43   out
+      15        3    80.00   that
+      12        2    83.33   the
+      15        4    73.33   them
+       3        0   100.00   then
+       1        1     0.00   there
+      23        7    69.57   they
+       1        0   100.00   this
+       2        1    50.00   to
+       7        3    57.14   us
+       9        3    66.67   were
+       1        1     0.00   what
+       1        0   100.00   when
+       1        0   100.00   will
+       4        2    50.00   with
+       2        2     0.00   would
+       2        2     0.00   your
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   18
+       1        0   100.00   20
+       1        1     0.00   31
+       1        1     0.00   according
+       1        0   100.00   again
+       1        0   100.00   alſo
+       1        0   100.00   ano
+       2        2     0.00   antichri
+       1        1     0.00   antichriﬆs
+       1        1     0.00   anſw
+       1        1     0.00   anſwer
+       2        2     0.00   apo
+       1        0   100.00   ariſe
+       2        1    50.00   away
+       1        1     0.00   believers
+       1        1     0.00   chri
+       2        0   100.00   churches
+       1        1     0.00   continue
+       1        1     0.00   continued
+       1        1     0.00   deny
+       1        0   100.00   depart
+       1        0   100.00   diſciples
+       3        1    66.67   doth
+       1        0   100.00   doubt
+       1        1     0.00   draw
+       1        1     0.00   ed
+       4        3    25.00   faith
+       1        1     0.00   fall
+       1        0   100.00   fallen
+       1        1     0.00   falling
+       1        0   100.00   fell
+       1        1     0.00   fore
+       1        0   100.00   former
+       3        0   100.00   go
+       1        1     0.00   grace
+       1        1     0.00   grant
+       1        1     0.00   keep
+       1        0   100.00   latter
+       2        2     0.00   le
+       1        1     0.00   lleth
+       1        1     0.00   manife
+       1        1     0.00   mark
+       1        0   100.00   men
+       1        1     0.00   might
+       1        0   100.00   ming
+       5        0   100.00   never
+       1        1     0.00   obj
+       1        1     0.00   obje
+       2        2     0.00   own
+       1        1     0.00   perverſe
+       3        1    66.67   prove
+       1        0   100.00   proves
+       1        0   100.00   rather
+       1        0   100.00   received
+       2        2     0.00   s
+       1        1     0.00   t
+       3        1    66.67   text
+       2        1    50.00   ther
+       1        1     0.00   therefore
+       1        0   100.00   theſe
+       1        1     0.00   things
+       4        2    50.00   thoſe
+       1        0   100.00   thus
+       1        0   100.00   verſe
+       2        2     0.00   viz
+       1        0   100.00   well
+       5        4    20.00   went
+       1        0   100.00   ſaith
+       1        1     0.00   ſay
+       1        1     0.00   ſee
+       2        0   100.00   ſelves
+       2        1    50.00   ſhall
+       1        1     0.00   ſo
+       1        0   100.00   ſome
+       1        0   100.00   ſpeak
+       3        2    33.33   ſpirit
+       1        0   100.00   ſure
+       6        6     0.00   
+       2        2     0.00   
