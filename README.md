@@ -1,6 +1,6 @@
 # hip21_ocrevaluation
 
-Resources to support replication of the experiments in the [HIP'21](https://blog.sbb.berlin/hip2021/) paper "A Survey of OCR Evaluation Tools and Metrics".  
+Resources for replication of the experiments in the [HIP'21](https://blog.sbb.berlin/hip2021/) paper "A Survey of OCR Evaluation Tools and Metrics".  
 
 ## Data
 
@@ -15,6 +15,8 @@ All files are named by their unique 8-digit [PRImA-ID](https://www.primaresearch
 * `ocrevalUAtion` for [ocrevalUAtion](https://github.com/impactcentre/ocrevalUAtion) CER/WER/BOW report (HTML)
 * `ocrevalCER` for [ocreval](https://github.com/eddieantonio/ocreval) CER report (TXT)
 * `ocrevalWER` for [ocreval](https://github.com/eddieantonio/ocreval) WER report (TXT)
+
+TODO: PRImA Text/Layout evaluation results
 
 ## How to use
 
