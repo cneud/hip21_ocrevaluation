@@ -4,7 +4,7 @@ Resources for replication of the experiments in the [HIP'21](https://blog.sbb.be
 
 ## Data
 
-The `data` directory contains all Ground Truth, OCR and evaluation results. 
+The `data` directory contains the Ground Truth, OCR and evaluation results. 
 
 All files are named by their unique 8-digit [PRImA-ID](https://www.primaresearch.org/datasets) followed by one or a combination of the following extensions:  
 * `gt` for Ground Truth (PAGE-XML)
