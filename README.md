@@ -12,11 +12,14 @@ All files are named by their unique 8-digit [PRImA-ID](https://www.primaresearch
 * `deu`, `eng`, `est`, `fin`, `fra`, `lav`, `nld`, `pol`, `swe` for OCR results using [tessdata](https://github.com/tesseract-ocr/tessdata) models (ALTO)
 * `conf` for [OCR confidence](https://github.com/cneud/alto-ocr-confidence) scores (TXT)
 * `dinglehopper` for [dinglehopper](https://github.com/qurator-spk/dinglehopper) CER/WER report (JSON)
-* `ocrevalUAtion` for [ocrevalUAtion](https://github.com/impactcentre/ocrevalUAtion) CER/WER/BOW report (HTML)
+* `ocrevalUAtion` for [ocrevalUAtion](https://github.com/impactcentre/ocrevalUAtion) CER/WER/BoW report (HTML)
 * `ocrevalCER` for [ocreval](https://github.com/eddieantonio/ocreval) CER report (TXT)
 * `ocrevalWER` for [ocreval](https://github.com/eddieantonio/ocreval) WER report (TXT)
+* `primaCER` for [PRImA](https://www.primaresearch.org/tools/PerformanceEvaluation) CER report (CSV)
+* `primaWER` for [PRImA](https://www.primaresearch.org/tools/PerformanceEvaluation) WER report (CSV)
+* `primaBoW` for [PRImA](https://www.primaresearch.org/tools/PerformanceEvaluation) BoW report (CSV)
 
-TODO: PRImA Text/Layout evaluation results
+TODO: PRImA Layout evaluation results
 
 ## How to use
 
