@@ -2,6 +2,10 @@
 
 Resources for replication of the experiments in the [HIP'21](https://blog.sbb.berlin/hip2021/) paper "A Survey of OCR Evaluation Tools and Metrics".  
 
+## How to use
+
+TODO: Makefile and documentation
+
 ## Data
 
 The `data` directory contains the Ground Truth, OCR and evaluation results. 
@@ -20,10 +24,6 @@ All files are named by their unique 8-digit [PRImA-ID](https://www.primaresearch
 * `primaBoW` for [PRImA](https://www.primaresearch.org/tools/PerformanceEvaluation) BoW report (CSV)
 
 TODO: PRImA Layout evaluation results
-
-## How to use
-
-TODO: Makefile and documentation
 
 ## How to cite
 ```bibtex
