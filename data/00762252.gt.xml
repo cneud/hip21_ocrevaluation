@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd" pcGtsId="pc-00762252">
+	<Metadata>
+	<Creator>FineReader Engine 10</Creator>
+	<Created>2013-10-15T15:17:00</Created>
+	<LastChange>2014-07-03T08:25:58</LastChange>
+	<Comments>Recognition and export settings:
+
+  Recognition language(s): Polish
+  Font class: normal
+  Orig-outlines: false
+  Orig-text: false
+  Orig-drop-caps: false
+  Reading order: false
+    Exclude: [default]
+  Layers: false
+  To remove: background-images
+
+Conversion and export:
+
+  Removed 6 background images
+  Ignored 3 regions that have no coordinates (ghost regions)
+</Comments></Metadata>
+	<Page imageFilename="00762252.tif" imageWidth="3852" imageHeight="5642">
+	<ReadingOrder>
+	<UnorderedGroup id="ro357564684568544579089">
+	<OrderedGroup id="r94">
+	<RegionRefIndexed regionRef="r43" index="0"/>
+	<RegionRefIndexed regionRef="r290" index="1"/></OrderedGroup>
+	<OrderedGroup id="r98">
+	<RegionRefIndexed regionRef="r858" index="0"/>
+	<RegionRefIndexed regionRef="r893" index="1"/>
+	<RegionRefIndexed regionRef="r907" index="2"/>
+	<RegionRefIndexed regionRef="r1042" index="3"/>
+	<RegionRefIndexed regionRef="r1140" index="4"/>
+	<RegionRefIndexed regionRef="r1260" index="5"/>
+	<RegionRefIndexed regionRef="r1455" index="6"/></OrderedGroup>
+	<OrderedGroup id="r99">
+	<RegionRefIndexed regionRef="r1618" index="0"/>
+	<RegionRefIndexed regionRef="r92" index="1"/>
+	<RegionRefIndexed regionRef="r1764" index="2"/>
+	<RegionRefIndexed regionRef="r1808" index="3"/>
+	<RegionRefIndexed regionRef="r2059" index="4"/>
+	<RegionRefIndexed regionRef="r2222" index="5"/>
+	<RegionRefIndexed regionRef="r2248" index="6"/>
+	<RegionRefIndexed regionRef="r2373" index="7"/>
+	<RegionRefIndexed regionRef="r2411" index="8"/>
+	<RegionRefIndexed regionRef="r2479" index="9"/>
+	<RegionRefIndexed regionRef="r2808" index="10"/>
+	<RegionRefIndexed regionRef="r2918" index="11"/>
+	<RegionRefIndexed regionRef="r2947" index="12"/>
+	<RegionRefIndexed regionRef="r3074" index="13"/>
+	<RegionRefIndexed regionRef="r3145" index="14"/>
+	<RegionRefIndexed regionRef="r3200" index="15"/>
+	<RegionRefIndexed regionRef="r3304" index="16"/>
+	<RegionRefIndexed regionRef="r118" index="17"/>
+	<RegionRefIndexed regionRef="r3587" index="18"/>
+	<RegionRefIndexed regionRef="r3608" index="19"/>
+	<RegionRefIndexed regionRef="r3638" index="20"/>
+	<RegionRefIndexed regionRef="r3723" index="21"/>
+	<RegionRefIndexed regionRef="r96" index="22"/>
+	<RegionRefIndexed regionRef="r3909" index="23"/></OrderedGroup>
+	<OrderedGroup id="r101">
+	<RegionRefIndexed regionRef="r4149" index="0"/></OrderedGroup>
+	<OrderedGroup id="r104">
+	<RegionRefIndexed regionRef="r126" index="0"/>
+	<RegionRefIndexed regionRef="r4501" index="1"/>
+	<RegionRefIndexed regionRef="r4605" index="2"/>
+	<RegionRefIndexed regionRef="r4868" index="3"/>
+	<RegionRefIndexed regionRef="r123" index="4"/>
+	<RegionRefIndexed regionRef="r125" index="5"/>
+	<RegionRefIndexed regionRef="r5536" index="6"/>
+	<RegionRefIndexed regionRef="r5735" index="7"/>
+	<RegionRefIndexed regionRef="r5985" index="8"/>
+	<RegionRefIndexed regionRef="r142" index="9"/>
+	<RegionRefIndexed regionRef="r141" index="10"/>
+	<RegionRefIndexed regionRef="r6242" index="11"/></OrderedGroup></UnorderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords points="311,442 443,438 466,444 466,474 328,479 314,474 306,467 309,451"/>
+	<TextEquiv>
+	<Unicode>Nr. 2.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="header">
+	<Coords points="1609,440 2258,432 2266,435 2268,436 2264,470 2247,483 1609,486 1605,479 1604,475"/>
+	<TextEquiv>
+	<Unicode>„GAZETA KRAKOWSKA"</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r34" type="header">
+	<Coords points="3570,461 3567,475 3489,476 3429,477 3429,479 3428,479 3428,480 3421,476 3416,471 3415,442 3418,434 3542,434"/>
+	<TextEquiv>
+	<Unicode>Nr. 1.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r43" type="paragraph">
+	<Coords points="268,522 315,516 1080,522 1081,549 1084,624 1084,711 1080,738 878,739 268,738 263,734"/>
+	<TextEquiv>
+	<Unicode>siłklam. wspohlziałając z władzami mia-
+sta i nowoutworzonym Komitetem Oby-
+watelskim. Wszyscy jesteśmy razem za to
+odpowiedzialni i wszyscy możemy się przy-
+czynić do przywrócenia życia miasta, wy-
+gląda o ile możności normalnego.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r290" type="paragraph">
+	<Coords points="266,743 308,740 1082,743 1083,822 1085,1165 1082,1244 308,1246 266,1244 258,1216 264,1058 264,880"/>
+	<TextEquiv>
+	<Unicode>Przeprowadzane ewakuacje urzędów już
+się zakończyły, Tak samo musi zakończyć
+się opuszczanie miasta przez ludność. O-
+puszczanie to jednak nie przybrało takich
+rozmjarów, jakby można przypuścić z wy-
+glądu ulic, przez które przeciągają uchodź-
+cy z okolic podmiejskich. Trzon ludności
+Krakowa pozostał — zarówno ze sfer in-
+teligencji, jak i mieszczaństwa, przedsta-
+wiciell przemysłu, handlu, rękodzieła itd.
+Te żywioły są gwarancją, że porządek bę-
+dzie utrzymany tembardziej, że współdzia-
+łanie ogółu ludności z nimi jest zapew-
+nione.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r858" type="paragraph">
+	<Coords points="1120,532 2772,532 2776,623 2772,684 1120,684"/>
+	<TextEquiv>
+	<Unicode>Organizacja straży obywatelskiej</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r893" type="paragraph">
+	<Coords points="1640,702 1851,699 2278,702 2284,771 2278,782 2268,788 1726,792 1647,790 1640,782 1631,746"/>
+	<TextEquiv>
+	<Unicode>w Krakowle.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r907" type="paragraph">
+	<Coords points="1662,809 1788,814 1921,816 1929,824 1936,842 1935,881 1932,926 1925,942 1711,945 1678,941 1536,944 1411,947 1312,947 1292,945 1301,978 1289,984 1121,985 1114,975 1112,936 1112,880 1124,861 1153,872 1150,812 1277,806 1475,809 1611,807"/>
+	<TextEquiv>
+	<Unicode>Miejska straż obywatelska, mająca na
+celu zapewnienie porządku i bezpieczeń-
+stwa publicznego w Krakowie, została u-
+tworzona.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1042" type="paragraph">
+	<Coords points="1917,983 1938,1004 1930,1062 1929,1062 1929,1063 1928,1063 1928,1064 1912,1064 1912,1067 1911,1067 1911,1068 1909,1068 1909,1069 1902,1069 1902,1068 1863,1068 1863,1066 1860,1066 1860,1065 1769,1065 1769,1064 1607,1064 1607,1065 1554,1065 1554,1066 1553,1066 1553,1067 1552,1067 1552,1068 1550,1068 1550,1069 1471,1069 1471,1104 1470,1104 1470,1106 1469,1108 1446,1108 1446,1109 1401,1109 1401,1110 1400,1110 1395,1111 1224,1109 1224,1108 1115,1114 1114,1041 1153,1045 1153,1005 1154,1005 1154,1002 1155,1002 1155,1000 1156,1000 1156,998 1157,998 1157,996 1158,996 1158,995 1160,995 1160,994 1162,994 1162,993 1211,993 1211,994 1212,994 1212,1002 1225,1002 1225,1003 1355,988 1490,984 1650,980 1794,981 1847,980"/>
+	<TextEquiv>
+	<Unicode>Głównym komendantem Straży jest wi-
+ceprezes Izby Przemysłowo-handlowej p.
+Jan Stefan Kuhn.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1140" type="heading">
+	<Coords points="1719,1121 1721,1121 1721,1122 1796,1122 1796,1124 1797,1124 1797,1131 1913,1115 1926,1125 1936,1144 1934,1190 1922,1203 1857,1213 1761,1249 1546,1239 1546,1240 1527,1241 1520,1244 1503,1249 1415,1255 1379,1246 1229,1250 1116,1243 1110,1185 1126,1160 1157,1124 1158,1124 1158,1123 1297,1123 1297,1124 1514,1116 1643,1132 1643,1123 1644,1123 1644,1122 1719,1122"/>
+	<TextEquiv>
+	<Unicode>Bluro Straty, gdzie przyjmuje się zapi-
+sy ochotników, mleścl się w Pałacu Larl-
+scha pl. WW, Świętych 6 na I p.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1260" type="paragraph">
+	<Coords points="1964,814 2044,806 2604,808 2779,814 2782,912 2783,985 2547,988 2469,1023 2443,1027 2100,1029 2070,1027 2037,1023 2004,1027 1996,1024 1964,1031 1963,1014 1960,889"/>
+	<TextEquiv>
+	<Unicode>Zgłaszać się moga na członków straży
+stale w Krakowie zamleszkali obywatele
+w wleku ponad lat 40 l tylko zaopatrzenl w
+dokumenty. Przyjęci otrzymują odpowie-
+dnie legitymacje i opaski.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1455" type="paragraph">
+	<Coords points="1965,1056 1979,1058 1989,1034 2005,1031 2075,1034 2488,1031 2653,1031 2725,1032 2743,1031 2778,1034 2780,1054 2781,1147 2778,1201 1965,1203 1963,1063"/>
+	<TextEquiv>
+	<Unicode>Utworzonych zostało dziesięć okręgów
+Straży. Wszystkich mieszkańców Krako-
+wa wzywa się do udzielania pomocy człon-
+kom straży w pełnieniu ich obowiązków.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1618" type="paragraph">
+	<Coords points="296,1411 2630,1391 2762,1397 2786,1472 2783,1577 2780,1631 2156,1638 2046,1653 1157,1665 1131,1667 1114,1653 536,1649 266,1649"/>
+	<TextEquiv>
+	<Unicode>Ataki na porty niemleckie</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1764" type="paragraph">
+	<Coords points="491,1953 460,1901 640,1900 962,1908 972,2030 376,2030 377,1944"/>
+	<TextEquiv>
+	<Unicode>Mobilizacja
+trzech kontynentów.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1808" type="paragraph">
+	<Coords points="272,2040 1042,2041 1083,2051 1087,2112 1087,2237 1083,2272 274,2272 269,2265 263,2119"/>
+	<TextEquiv>
+	<Unicode>Londyn, 5 września (Radjo). Nowa Ze-
+landja wypowiedziała Niemcom wojnę:
+Egipt zerwal stosunki dyplomatyczne z
+Niemcami i oddał listy posłowi niemiec-
+kiemu. W Australji i w Kanadzie powo-
+łano całą rezerwę armji i policji W Pale-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2059" type="paragraph">
+	<Coords points="1119,1683 1565,1678 1887,1676 1927,1683 1927,1831 1164,1835 1119,1831 1114,1714"/>
+	<TextEquiv>
+	<Unicode>stynie cały świat arabski stanął solidar-
+nie po stronie Anglji. Organizacje żydow-
+skie ogłosiły mobilizację wszystkich męż-
+czyzn od 18 do 50 roku życia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2222" type="heading">
+	<Coords points="1157,1854 1275,1851 1891,1854 1897,1888 1891,1910 1298,1915 1153,1907"/>
+	<TextEquiv>
+	<Unicode>Anglja walczy na morzu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2373" type="paragraph">
+	<Coords points="1694,2099 1753,2100 1891,2099 1917,2098 1938,2113 1934,2138 1925,2137 1874,2140 1808,2139 1605,2139 1543,2146 1416,2141 1358,2145 1198,2139 1197,2139 1167,2138 1155,2140 1144,2114 1158,2104 1190,2107 1185,2115 1208,2116 1221,2109 1235,2101 1262,2102 1389,2097 1637,2096"/>
+	<TextEquiv>
+	<Unicode>Na AtlantyKu na wyeokości Rio Grande</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2411" type="heading">
+	<Coords points="1160,2158 1897,2154 1894,2262 1159,2263 1156,2182"/>
+	<TextEquiv>
+	<Unicode>pancernik angielski „Atax" zatopił
+pancernik niemiecki „Olinda".</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2479" type="paragraph">
+	<Coords points="1963,1680 2347,1674 2735,1670 2783,1680 2782,1939 2767,1934 2378,1935 2350,1962 2338,1961 2294,1965 1963,1965"/>
+	<TextEquiv>
+	<Unicode>po uprzedniem zapowiedzeniu. Załogę wziął
+ńa pokład inny statek brytyjski. Zatopie-
+nie „Olindy" jest odpowiedzią na storpedo-
+wanie i zsatopienie pasażerskiego statku
+brytyjskego „Arthenia" koło Hebryd, na
+którym było 1400 pasażerów, w tem 311 A-
+merykanów, 34 Niemców, 30 Czechów i Po-
+laków uciekinierów.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2808" type="paragraph">
+	<Coords points="2642,1954 2775,1954 2785,1972 2783,2018 2786,2030 2761,2036 2663,2037 2634,2039 2466,2033 2463,2034 2389,2034 2389,2068 2388,2068 2388,2069 2385,2069 2385,2070 2370,2070 2370,2071 2368,2071 2368,2072 2361,2072 2361,2073 2359,2073 2359,2072 2358,2072 2358,2071 2355,2071 2355,2070 2150,2071 2029,2072 1968,2076 1966,2050 1968,2024 1984,1995 2001,1982 2006,1967 2335,1966 2329,1977 2339,1973 2474,1970 2482,1973"/>
+	<TextEquiv>
+	<Unicode>(Radjo niemieckie zaprzecza zatopieniu
+„Arthenii" przez Niemców, twierdząc, że na-
+jechała ona na minę).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2918" type="heading">
+	<Coords points="2007,2087 2588,2079 2711,2080 2741,2087 2750,2123 2741,2142 2007,2142 2003,2121"/>
+	<TextEquiv>
+	<Unicode>Działania lotnicze Anglji.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2947" type="paragraph">
+	<Coords points="1968,2154 2013,2149 2756,2152 2784,2154 2784,2261 2157,2264 1968,2261 1966,2228"/>
+	<TextEquiv>
+	<Unicode>Londyn, 5 września (Radio). W nocy dnia
+3—4 sierpnia samoloty angielskie dokonały
+nalotu wywiadowczego w Niemczech oraz</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3074" type="paragraph">
+	<Coords points="3613,521 3632,539 3622,553 3621,553 3610,559 3572,555 3558,561 3287,565 3267,575 3266,594 3239,603 3124,602 3043,604 2924,604 2896,605 2819,605 2810,590 2810,540 2818,535 2924,532 2954,529 3087,527 3260,526 3390,527 3549,527 3564,536 3564,535"/>
+	<TextEquiv>
+	<Unicode>rozrzuciły 6 miljonów ulotek skierowanych
+do narodu niemieckiego.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3145" type="heading">
+	<Coords points="3551,625 3587,641 3591,673 3574,710 3513,775 3426,770 3417,774 3201,783 3100,785 3088,782 2951,778 2926,777 2884,694 2851,704 2842,667 2841,636 2854,627 3061,626 3066,634 3266,626 3381,629 3533,623"/>
+	<TextEquiv>
+	<Unicode>Wojska francuskie wkroczyły
+na terytorjum Niemiec.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3200" type="paragraph">
+	<Coords points="3606,787 3640,796 3636,863 3600,864 3597,860 3553,869 3450,871 3257,872 3244,866 3145,873 3098,872 3101,875 3098,899 3096,899 3096,900 3088,900 3088,901 3086,901 3086,902 2957,902 2957,903 2954,903 2954,902 2930,902 2930,901 2929,901 2929,900 2870,900 2870,899 2850,899 2850,898 2823,912 2819,902 2811,880 2810,844 2818,825 2852,832 2844,802 2854,785 2982,795 2998,792 3110,792 3127,796 3215,792 3333,789 3491,796 3491,795 3583,786"/>
+	<TextEquiv>
+	<Unicode>Paryż, 5 września (Radio) Wszystkio siły
+Francji na lądzie, na morzu i w powietrzu
+wszczęły akcję.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3304" type="paragraph">
+	<Coords points="3497,893 3630,898 3634,924 3630,974 3606,977 3538,967 3545,990 3542,1001 3516,1001 3516,1002 3484,1002 3484,1001 3347,1001 3347,1002 3299,1002 3299,1003 3298,1003 3298,1004 3296,1004 3296,1005 3212,1005 3212,1002 3089,1002 3089,1003 3028,1003 3028,1002 2916,1002 2916,1007 2914,1007 2914,1005 2839,1007 2813,1012 2807,993 2813,950 2820,941 2849,939 2852,933 2853,933 2853,904 2953,904 2953,903 2953,904 2958,904 2958,903 2959,903 2959,904 3033,904 3033,905 3034,905 3034,906 3035,906 3035,912 3149,905 3163,895 3304,895 3400,894"/>
+	<TextEquiv>
+	<Unicode>Wojska francuskie w 12 miejscach przer-
+wały front niemiecki. Koło Metza posunę-
+ły sie o 3 kłm. w terytorjam Niemiec.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3587" type="paragraph">
+	<Coords points="2946,1177 3395,1172 3496,1177 3496,1227 2939,1230"/>
+	<TextEquiv>
+	<Unicode>Państwa neutralne.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3608" type="paragraph">
+	<Coords points="3566,1247 3608,1271 3601,1284 3576,1284 3576,1285 3575,1285 3575,1286 3555,1286 3552,1285 3513,1284 3477,1287 3477,1285 3324,1285 3324,1284 3322,1284 3322,1283 3214,1286 3213,1287 3212,1287 3212,1288 3024,1283 3017,1283 3010,1268 3008,1251 3038,1247 3159,1263 3159,1262 3245,1250 3381,1248 3485,1245"/>
+	<TextEquiv>
+	<Unicode>Warszawa, 5 września. Radio</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3638" type="paragraph">
+	<Coords points="3603,1288 3603,1289 3615,1282 3635,1295 3634,1354 3601,1362 3469,1362 3274,1360 3123,1366 3054,1362 2816,1361 2812,1346 2819,1327 2847,1317 2847,1290 2868,1283 3053,1287 3081,1289 3074,1298 3115,1293 3186,1298 3186,1291 3187,1291 3187,1290 3292,1290 3292,1289"/>
+	<TextEquiv>
+	<Unicode>Neutralność w obecnej wojnie ogłosiły
+ostatnio: Japonja, Hiszpanja, Jugostawla.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3723" type="heading">
+	<Coords points="2878,1388 3566,1388 3566,1448 2878,1448"/>
+	<TextEquiv>
+	<Unicode>Włochy żyją normalnie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3909" type="paragraph">
+	<Coords points="3227,1638 3229,1638 3252,1644 3255,1635 3275,1634 3363,1635 3446,1634 3612,1631 3639,1649 3634,1808 3614,1816 3581,1817 3487,1819 3327,1814 3327,1846 3314,1850 3229,1846 3229,1847 3214,1846 3073,1853 3063,1853 2830,1846 2830,1847 2828,1847 2822,1848 2814,1848 2815,1725 2814,1671 2856,1674 2853,1649 2854,1640 2857,1641 2857,1640 2875,1640 2875,1641 2877,1641 2877,1642 2879,1642 2879,1643 2880,1643 2880,1647 2881,1647 2881,1648 2985,1648 2985,1642 2998,1642 2998,1649 3111,1638 3169,1640 3196,1657 3202,1654 3202,1641 3226,1639 3227,1639"/>
+	<TextEquiv>
+	<Unicode>Rzym, 5 września. Radio. Opiuja katolic-
+kich Włoch wstrząsnęła wiadomość o nalo-
+cie na Jasną Górę. Podobno Niemcy mieli
+zaproponować jednemu z dziennikarzy a-
+merykańskich sprawdzenie i następnie za-
+przeczenie tej wiadomości.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4149" type="paragraph">
+	<Coords points="2816,1981 2826,1973 3609,1973 3638,1981 3638,2261 3151,2263 2810,2261"/>
+	<TextEquiv>
+	<Unicode>SZCZĘDZIĆ ŚWIATŁAI Elektrownis
+Miejska zawiadamia, że ze względów osz-
+czędnościowych węgla, w poszczególnych
+mieszkaniach nie wolno świecić więcej jak
+jedną żarówkę. O ile kontrola przekons sie,
+że ktoś świeci więcej jak jedną żarówkę in-
+stalacja elektryczna mieszkania zostanis
+bezzwłocznie wyłączona.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4501" type="paragraph">
+	<Coords points="277,2834 319,2822 439,2822 883,2825 1088,2834 1089,2855 1091,2907 854,2907 781,2910 771,2941 580,2939 570,2923 553,2940 275,2939 267,2889"/>
+	<TextEquiv>
+	<Unicode>Na podstawie informacji ze strony urzę-
+dowej chcemy podać do wiadomości
+wszystkich, co następuje:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4605" type="paragraph">
+	<Coords points="906,2936 916,2940 1012,2944 1011,2938 1020,2937 1087,2941 1087,2947 1091,2962 1089,2970 1093,3100 1094,3139 1088,3147 1080,3150 1054,3158 916,3156 894,3150 894,3152 893,3153 892,3157 848,3154 848,3153 764,3153 764,3152 763,3152 763,3151 762,3151 762,3149 654,3149 654,3152 652,3152 652,3153 650,3153 650,3154 649,3154 649,3153 642,3153 642,3152 641,3152 641,3149 604,3149 604,3148 484,3156 367,3149 371,3184 348,3183 348,3184 319,3184 319,3185 318,3185 318,3184 315,3184 315,3183 276,3184 275,3150 277,3141 275,3018 273,2987 282,2982 310,2980 306,2957 311,2941 379,2943 379,2942 380,2942 380,2943 488,2942 629,2943 629,2942 630,2942 630,2943 680,2943 680,2944 686,2944 686,2945 690,2945 690,2943 764,2943 764,2944 765,2944 765,2951 891,2946 898,2945 896,2938"/>
+	<TextEquiv>
+	<Unicode>Wskazówki te Czytelnicy nasi powinni
+podawać dalej wszystkim, ktoby ich jesz-
+cze nie czytał osobiście, znajomym i nie-
+znajomym, — w szczególności zaś informo-
+wać powinni o ich treści te liczne rzesze
+uchodźców, które przeciągają przez Kra-
+ków.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4868" type="paragraph">
+	<Coords points="282,3187 380,3186 428,3182 443,3184 1051,3184 1091,3187 1094,3262 1093,3335 879,3333 276,3333"/>
+	<TextEquiv>
+	<Unicode>Jest to dlatego niezmiernie ważne, że
+właśnie te rzesze uchodźców — bez potrze-
+by — podkreślić tu musimy — stały się
+jedna z przeszkód w ruchu dróg w ruchach</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5536" type="paragraph">
+	<Coords points="1967,2826 2777,2821 2778,2987 2214,3009 1967,3011"/>
+	<TextEquiv>
+	<Unicode>tych pogranicanych stref na zachodzie Ślą-
+ską którym nasze komendy wojskowe za-
+leciły opuszczenie swych siedzib, nie chcąc
+narażać ich na ostrzeliwanie, tembardziej
+przez swoich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5735" type="paragraph">
+	<Coords points="1971,3021 2778,3021 2778,3249 1971,3249"/>
+	<TextEquiv>
+	<Unicode>Otóż dla tej kategorji uchodżców Kraków
+musi okazać pełne zrozumienie, udzielić im
+schronienia i opieki. Nie zmuszać ich do
+dalszej wędrówki po drogach, na których
+znowu stałyby sę zawadą w poruszaniu się
+naszych oddziałów wojskowych.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5985" type="heading">
+	<Coords points="2006,3260 2114,3260 2114,3261 2118,3261 2118,3262 2173,3262 2173,3263 2174,3263 2174,3270 2296,3270 2296,3263 2297,3263 2297,3262 2299,3262 2299,3261 2610,3255 2762,3260 2787,3266 2787,3297 2779,3329 2777,3334 2616,3331 2616,3332 2615,3332 2615,3331 2581,3341 2420,3347 2311,3339 2114,3349 2004,3344 1973,3341 1965,3329 1970,3297 1981,3286 2005,3295 2005,3261 2006,3261"/>
+	<TextEquiv>
+	<Unicode>Udzieleniem opieki i schronienia muszą
+sie zajać organizacje społeczne w łączności</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6242" type="paragraph">
+	<Coords points="3513,3058 3610,3054 3634,3061 3629,3101 3628,3106 3635,3113 3627,3198 3626,3198 3626,3199 3625,3199 3625,3202 3624,3202 3624,3217 3621,3217 3621,3227 3620,3227 3620,3231 3619,3231 3619,3234 3618,3234 3618,3235 3611,3235 3611,3236 3601,3236 3601,3237 3578,3237 3578,3241 3577,3241 3577,3242 3575,3242 3575,3241 3574,3241 3574,3240 3429,3240 3429,3272 3428,3272 3428,3274 3427,3274 3427,3275 3421,3275 3421,3277 3420,3277 3420,3278 3416,3278 3416,3280 3414,3280 3414,3279 3382,3279 3382,3278 3260,3278 3260,3279 3239,3279 3239,3278 3238,3278 3238,3276 3028,3276 3028,3277 3027,3277 3027,3279 3026,3279 3026,3280 3021,3280 3021,3281 3018,3281 3018,3280 2923,3280 2923,3279 2821,3283 2815,3259 2815,3104 2852,3113 2852,3076 2853,3076 2853,3074 2854,3074 2854,3072 2855,3072 2855,3071 2856,3071 2856,3070 2858,3070 2858,3068 2860,3068 2860,3067 2863,3067 2863,3066 2877,3066 2877,3067 3063,3063 3098,3063 3146,3068 3146,3067 3150,3067 3150,3066 3202,3066 3202,3067 3280,3062 3380,3070 3419,3060 3452,3054"/>
+	<TextEquiv>
+	<Unicode>Cala pozostała ludność wszystkich miej-
+scowości, w których władze wojskowe nie
+zarządązają ewakuacji powinna pozostać w
+domu. pilnować swych osiedli i mieszkań i
+oddawać się swoim zajęciom. Każda ręka
+pracująca jest Polsce potrzebna.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r92" type="paragraph">
+	<Coords points="257,1689 872,1674 1063,1677 1084,1689 1084,1877 257,1877"/>
+	<TextEquiv>
+	<Unicode>Warazawa, 5 września (Radjo). Samoloty
+angielskie dokonały nalotów na 2 porty
+kanału kilońskiego: Wilhelmshafen, gdzie
+zbombardowano stojące tam okręty i Kux-
+hafen, gdzie zbombardowano nadbrzeże.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r96" type="paragraph">
+	<Coords points="3642,1500 3643,1500 3643,1583 3642,1583 3642,1602 3602,1607 3595,1608 3589,1606 3584,1606 3571,1601 3569,1603 3559,1605 3363,1610 3245,1607 3245,1630 3244,1630 3244,1632 3242,1632 3242,1634 3241,1634 3241,1635 3230,1635 3230,1636 3229,1636 3229,1637 3226,1637 3226,1638 3217,1638 3220,1628 3203,1640 3200,1639 3110,1636 2956,1635 2956,1637 2955,1637 2955,1638 2954,1638 2954,1639 2896,1639 2896,1640 2895,1640 2895,1639 2885,1639 2885,1638 2884,1638 2830,1636 2830,1635 2813,1638 2814,1612 2816,1587 2813,1532 2814,1508 2847,1477 2851,1457 2871,1467 2876,1468 2876,1469 2878,1469 2879,1470 2879,1472 2880,1474 2881,1474 2881,1475 3002,1460 3127,1461 3301,1459 3400,1460 3421,1468 3421,1467 3587,1467 3587,1466 3594,1466 3594,1465 3601,1465 3601,1464 3608,1464 3608,1463 3615,1463 3615,1462 3622,1462 3622,1461 3629,1461 3629,1460 3636,1460 3636,1459 3642,1459 3642,1458"/>
+	<TextEquiv>
+	<Unicode>Rzym, 5 września. Radio. We Włoszech
+panuje spokój. Przerwano zaciemniania
+miast na noc. Granica z Francją dotąd
+zamknięta, została otwarta przez most St.
+Luigi (koło Mentony).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r118" type="paragraph">
+	<Coords points="3479,1005 3479,1006 3480,1006 3480,1007 3481,1007 3481,1013 3620,1005 3636,1035 3630,1112 3560,1105 3560,1106 3538,1107 3536,1107 3536,1108 3535,1108 3535,1109 3532,1109 3490,1108 3490,1107 3489,1107 3444,1110 3373,1104 3373,1105 3326,1117 3271,1105 3271,1106 3223,1106 3223,1107 3197,1107 3197,1122 3196,1122 3196,1127 3195,1127 3195,1130 3203,1130 3202,1130 3202,1131 3201,1131 3201,1132 3200,1132 3200,1133 3199,1133 3199,1134 3198,1134 3198,1135 3197,1135 3201,1138 3196,1137 3202,1140 3203,1140 3195,1142 3199,1142 3199,1143 3199,1142 3184,1150 3155,1142 3155,1143 3155,1142 3070,1142 3070,1143 2990,1143 2990,1144 2977,1144 2966,1143 2935,1152 2832,1150 2818,1149 2805,1118 2814,1044 2852,1012 2853,1012 2853,1010 2856,1010 2856,1009 2866,1009 2866,1010 2954,1010 2954,1011 3006,1011 3006,1012 3007,1012 3007,1018 3129,1018 3129,1017 3130,1017 3130,1012 3131,1012 3131,1011 3132,1011 3132,1009 3133,1009 3133,1008 3137,1008 3137,1009 3244,1009 3244,1008 3246,1008 3246,1007 3411,1007 3411,1006 3478,1006 3478,1005"/>
+	<TextEquiv>
+	<Unicode>Paryż, 5 września (Radio). Syrja przy-
+gotowuje się do współdziałania z Francja-
+Kolonje francuskie w Afryce biorą udział
+w akcji francuskiej.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r126" type="heading">
+	<Coords points="272,2467 607,2471 674,2500 734,2496 780,2493 1040,2468 1111,2462 1184,2506 1737,2461 2092,2498 2548,2462 2894,2481 3077,2458 3344,2468 3634,2467 3631,2739 2915,2743 2786,2752 2691,2738 2396,2782 2215,2748 2076,2776 1832,2741 1572,2779 1533,2786 1015,2784 537,2746 270,2750"/>
+	<TextEquiv>
+	<Unicode>Odwagi, męstwa, wytrwałości!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r141" type="paragraph">
+	<Coords points="2973,2914 2973,2916 3027,2910 3060,2920 3148,2916 3204,2914 3230,2923 3277,2925 3277,2924 3322,2924 3322,2923 3322,2924 3358,2900 3382,2909 3396,2924 3396,2925 3508,2915 3516,2916 3548,2908 3564,2902 3583,2913 3620,2917 3643,2921 3643,2920 3643,2993 3644,3008 3641,3019 3639,3019 3639,3020 3637,3020 3637,3021 3635,3021 3633,3022 3633,3023 3631,3023 3631,3024 3629,3024 3629,3025 3629,3024 3613,3024 3613,3023 3556,3023 3556,3022 3483,3022 3483,3023 3481,3023 3481,3021 3480,3021 3480,3020 3478,3020 3478,3019 3360,3019 3360,3048 3359,3048 3359,3051 3358,3051 3358,3052 3338,3052 3338,3053 3272,3053 3272,3054 3147,3054 3147,3055 3109,3055 3109,3056 3106,3056 3106,3057 3104,3057 3104,3058 3102,3058 3102,3057 3100,3057 3100,3055 2973,3055 2973,3056 2927,3056 2927,3057 2921,3057 2921,3056 2919,3056 2919,3054 2861,3054 2861,3053 2859,3053 2859,3052 2843,3056 2814,3056 2810,3006 2817,2963 2836,2963 2836,2962 2850,2962 2843,2920 2858,2911 2971,2916 2971,2915 2972,2915 2972,2914"/>
+	<TextEquiv>
+	<Unicode>Mieszkańcy mescy � wediu�
+wskazówek wojskowych powinni � o-
+puścić, zgłaszajac sie do najbliższei napo-
+tkanej komendy K. A. R. U.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r142" type="paragraph">
+	<Coords points="2810,2826 2808,2865 2814,2908 3010,2907 3008,2877 3120,2886 3153,2879 3635,2886 3634,2825"/>
+	<TextEquiv>
+	<Unicode>z władzami miasta, oraz wszyboy ludzie do-
+brej woli.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r55">
+	<Coords points="277,480 275,492 335,494 462,500 734,499 752,501 931,505 1101,509 2808,506 3619,505 3619,480 3600,482 3487,483 3416,486 3396,486 3363,483 3353,481 2811,488 2302,486 2275,487 2238,491 1864,488 1625,488 1103,491 930,490 750,487 609,488 465,488"/></SeparatorRegion>
+	<SeparatorRegion id="r58">
+	<Coords points="1105,513 1105,571 1104,571 1104,613 1096,613 1096,518 1095,518 1095,513"/></SeparatorRegion>
+	<SeparatorRegion id="r60">
+	<Coords points="1104,615 1104,657 1103,657 1103,1107 1104,1107 1104,1165 1105,1225 1095,1225 1096,1166 1096,1107 1097,1107 1097,653 1096,653 1096,615"/></SeparatorRegion>
+	<SeparatorRegion id="r67">
+	<Coords points="2415,1267 2415,1281 2390,1281 2176,1280 1973,1282 1699,1283 1625,1282 853,1285 795,1286 795,1287 625,1284 309,1287 290,1286 285,1286 269,1287 269,1274 402,1273 775,1271 1353,1271 1716,1267"/></SeparatorRegion>
+	<SeparatorRegion id="r69">
+	<Coords points="2415,1283 2415,1304 2416,1325 2416,1338 1716,1340 1441,1342 1142,1342 855,1344 496,1346 271,1346 271,1290 287,1289 797,1289 797,1288 855,1288 1643,1287 1701,1286 1975,1285 2392,1283"/></SeparatorRegion>
+	<SeparatorRegion id="r71">
+	<Coords points="2757,1267 2759,1271 2758,1276 2750,1277 2452,1279 2423,1279 2423,1280 2417,1280 2417,1267 2429,1266 2705,1265 2745,1264 2756,1264"/></SeparatorRegion>
+	<SeparatorRegion id="r73">
+	<Coords points="2450,1282 2760,1282 2760,1338 2418,1338 2418,1323 2417,1302 2417,1282 2425,1282 2425,1281"/></SeparatorRegion>
+	<SeparatorRegion id="r76">
+	<Coords points="3632,1871 3632,1887 2836,1887 2836,1888 2826,1888 2826,1889 2818,1889 2818,1888 2817,1888 2817,1887 2816,1887 2816,1871"/></SeparatorRegion>
+	<SeparatorRegion id="r78">
+	<Coords points="3632,1889 3632,1935 2816,1935 2816,1890 2816,1891 2828,1891 2828,1890 2838,1890 2838,1889"/></SeparatorRegion>
+	<SeparatorRegion id="r81">
+	<Coords points="3627,2308 3627,2327 2466,2327 2466,2328 2331,2328 2331,2329 263,2329 263,2308"/></SeparatorRegion>
+	<SeparatorRegion id="r83">
+	<Coords points="3627,2329 3627,2388 263,2388 263,2331 2333,2331 2333,2330 2468,2330 2468,2329"/></SeparatorRegion>
+	<SeparatorRegion id="r84">
+	<Coords points="1098,2830 1103,3068 1104,3261 1101,3326 1113,3327 1111,3196 1111,2987 1110,2967 1110,2831"/></SeparatorRegion>
+	<SeparatorRegion id="r87">
+	<Coords points="1959,2827 1959,2848 1958,2848 1958,2870 1957,2870 1957,2892 1956,2892 1956,2906 1944,2906 1944,2897 1943,2897 1943,2874 1942,2874 1942,2851 1941,2851 1941,2827"/></SeparatorRegion>
+	<SeparatorRegion id="r89">
+	<Coords points="1956,2908 1956,3210 1957,3210 1957,3325 1947,3325 1947,3215 1948,3215 1948,3080 1947,3080 1947,2966 1946,2966 1946,2943 1945,2943 1945,2920 1944,2920 1944,2908"/></SeparatorRegion>
+	<SeparatorRegion id="r93">
+	<Coords points="2802,2827 2802,2905 2793,2905 2793,2904 2789,2904 2789,2876 2788,2876 2788,2839 2787,2839 2787,2834 2786,2834 2786,2827"/></SeparatorRegion>
+	<SeparatorRegion id="r95">
+	<Coords points="2791,2906 2791,2907 2801,2907 2801,2908 2802,2908 2802,2960 2803,2960 2803,3092 2804,3092 2804,3229 2805,3229 2805,3259 2806,3259 2806,3289 2807,3289 2807,3321 2801,3321 2801,3322 2794,3322 2794,3228 2795,3228 2795,3093 2794,3093 2794,3057 2793,3057 2793,3021 2792,3021 2792,2985 2791,2985 2791,2948 2790,2948 2790,2912 2789,2912 2789,2906"/></SeparatorRegion>
+	<GraphicRegion id="r97" type="other">
+	<Coords points="1292,3900 1292,4035 2650,4035 2650,3900"/></GraphicRegion>
+	<SeparatorRegion id="r100">
+	<Coords points="2800,510 2800,511 2801,511 2801,609 2791,609 2791,610 2789,610 2789,510"/></SeparatorRegion>
+	<SeparatorRegion id="r102">
+	<Coords points="2801,611 2801,1068 2802,1068 2802,1168 2803,1168 2803,2164 2804,2164 2804,2186 2805,2186 2805,2208 2806,2208 2806,2230 2807,2230 2807,2252 2795,2252 2795,2033 2796,2033 2796,1651 2795,1651 2795,1488 2794,1488 2794,1325 2793,1325 2793,1162 2792,1162 2792,999 2791,999 2791,836 2790,836 2790,673 2789,673 2789,612 2793,612 2793,611"/></SeparatorRegion>
+	<SeparatorRegion id="r103">
+	<Coords points="1940,816 1944,1221 1954,1223 1951,962 1952,818"/></SeparatorRegion>
+	<TextRegion id="r2248" type="heading">
+	<Coords points="1442,1924 1443,1924 1443,1926 1549,1926 1549,1925 1563,1925 1563,1924 1563,1925 1681,1925 1681,1924 1822,1924 1822,1925 1831,1925 1831,1926 1840,1926 1840,1927 1848,1927 1848,1928 1857,1928 1857,1929 1865,1929 1865,1930 1874,1930 1874,1931 1882,1931 1882,1932 1891,1932 1891,1933 1899,1933 1899,1934 1908,1934 1908,1935 1916,1935 1916,1936 1925,1936 1925,1937 1933,1937 1933,1948 1934,1948 1934,1959 1935,1959 1935,1965 1942,1965 1942,1966 1941,1966 1941,1979 1940,1979 1940,1993 1939,1993 1939,2006 1938,2006 1938,2020 1937,2020 1937,2034 1936,2034 1936,2047 1935,2047 1935,2061 1934,2061 1934,2074 1385,2074 1385,2075 1307,2075 1307,2076 1306,2076 1306,2078 1305,2078 1305,2080 1304,2080 1304,2082 1303,2082 1303,2084 1302,2084 1302,2086 1301,2086 1301,2088 1300,2088 1300,2090 1299,2090 1299,2092 1298,2092 1298,2094 1297,2094 1297,2096 1296,2096 1296,2098 1226,2098 1226,2103 1217,2103 1217,2104 1213,2104 1213,2105 1209,2105 1209,2106 1205,2106 1205,2107 1201,2107 1201,2108 1198,2108 1198,2109 1198,2108 1197,2108 1197,2107 1186,2103 1154,2103 1119,2107 1119,1965 1151,1965 1151,1926 1151,1927 1192,1927 1192,1928 1233,1928 1233,1929 1335,1929 1335,1928 1346,1928 1346,1927 1379,1927 1379,1926 1411,1926 1411,1925 1442,1925"/>
+	<TextEquiv>
+	<Unicode>Flota angielska weszła w stan wojny na
+wszystkich morzach. Zapowiedziana jest
+blokada portów niemieckich. Admiralicja
+ostrzega, że na morzu Północnem założono
+miny.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r106">
+	<Coords points="1108,1686 1108,1751 1109,1751 1109,1816 1110,1816 1110,1846 1107,1846 1107,1847 1094,1847 1094,1826 1093,1826 1093,1757 1092,1757 1092,1686"/></SeparatorRegion>
+	<SeparatorRegion id="r108">
+	<Coords points="1110,1848 1110,2102 1111,2102 1111,2175 1112,2175 1112,2251 1111,2251 1111,2253 1110,2253 1110,2255 1109,2255 1109,2257 1102,2257 1102,2256 1096,2256 1096,2179 1097,2179 1097,2034 1096,2034 1096,1965 1095,1965 1095,1895 1094,1895 1094,1849 1109,1849 1109,1848"/></SeparatorRegion>
+	<SeparatorRegion id="r111">
+	<Coords points="1951,1679 1951,1815 1952,1815 1952,1826 1953,1826 1953,1837 1954,1837 1945,1843 1940,1839 1940,1771 1939,1771 1939,1726 1938,1726 1938,1680 1944,1680 1944,1679"/></SeparatorRegion>
+	<SeparatorRegion id="r115">
+	<Coords points="1954,1844 1954,1890 1955,1890 1955,2043 1945,2043 1945,1901 1944,1901 1944,1872 1943,1872 1943,1844 1942,1844"/></SeparatorRegion>
+	<SeparatorRegion id="r117">
+	<Coords points="1955,2045 1955,2149 1956,2149 1956,2248 1943,2248 1943,2148 1945,2148 1945,2045"/></SeparatorRegion>
+	<TextRegion id="r123" type="paragraph">
+	<Coords points="1577,2820 1577,2821 1613,2821 1613,2822 1649,2822 1649,2823 1685,2823 1685,2824 1721,2824 1721,2825 1757,2825 1757,2826 1793,2826 1793,2827 1829,2827 1829,2828 1865,2828 1865,2829 1901,2829 1901,2830 1937,2830 1937,2831 1938,2831 1938,2870 1857,2863 1682,2867 1674,2874 1656,2869 1622,2868 1600,2870 1600,2869 1586,2869 1586,2870 1584,2870 1584,2871 1574,2871 1574,2872 1572,2872 1572,2873 1569,2873 1569,2874 1567,2874 1567,2875 1545,2871 1542,2871 1542,2872 1534,2872 1534,2871 1524,2871 1524,2870 1521,2870 1521,2869 1518,2869 1518,2868 1514,2868 1514,2867 1509,2867 1509,2866 1502,2866 1502,2867 1501,2867 1501,2868 1493,2867 1416,2874 1416,2873 1401,2873 1401,2872 1396,2872 1396,2871 1391,2871 1391,2870 1388,2870 1388,2869 1385,2869 1385,2868 1345,2868 1345,2869 1342,2869 1342,2870 1339,2870 1339,2871 1268,2871 1268,2872 1227,2872 1227,2871 1217,2871 1217,2870 1212,2870 1212,2869 1185,2869 1185,2868 1162,2868 1162,2869 1159,2869 1159,2870 1156,2870 1156,2871 1154,2871 1154,2870 1144,2870 1144,2869 1132,2869 1132,2870 1124,2870 1124,2869 1120,2869 1120,2831 1121,2831 1121,2830 1140,2830 1140,2829 1159,2829 1159,2828 1179,2828 1179,2827 1198,2827 1198,2826 1217,2826 1217,2825 1277,2825 1277,2826 1317,2826 1317,2827 1357,2827 1357,2828 1397,2828 1397,2829 1437,2829 1437,2830 1477,2830 1477,2831 1519,2831 1519,2830 1521,2830 1521,2829 1523,2829 1523,2828 1525,2828 1525,2827 1527,2827 1527,2826 1529,2826 1529,2825 1531,2825 1531,2824 1533,2824 1533,2823 1535,2823 1535,2822 1537,2822 1537,2821 1539,2821 1539,2820"/>
+	<TextEquiv>
+	<Unicode>naszych oddziałów wojskowych.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r125" type="paragraph">
+	<Coords points="1507,2868 1507,2869 1512,2869 1512,2870 1516,2870 1516,2871 1519,2871 1519,2872 1522,2872 1522,2873 1532,2873 1532,2874 1541,2874 1540,2874 1540,2875 1539,2875 1539,2876 1538,2876 1538,2877 1537,2877 1537,2878 1539,2879 1546,2880 1556,2879 1566,2878 1566,2877 1569,2877 1569,2876 1571,2876 1571,2875 1574,2875 1574,2874 1576,2874 1576,2873 1586,2873 1586,2872 1588,2872 1588,2871 1598,2871 1598,2872 1632,2870 1675,2876 1696,2869 1857,2867 1938,2872 1938,3002 1939,3002 1939,3173 1940,3173 1940,3345 1838,3345 1838,3344 1735,3344 1735,3343 1632,3343 1632,3342 1529,3342 1529,3341 1426,3341 1426,3340 1323,3340 1323,3339 1220,3339 1220,3338 1117,3338 1117,3211 1118,3211 1118,3084 1119,3084 1119,2958 1120,2958 1120,2871 1122,2871 1122,2872 1134,2872 1134,2871 1142,2871 1142,2872 1152,2872 1152,2873 1158,2873 1158,2872 1161,2872 1161,2871 1164,2871 1164,2870 1183,2870 1183,2871 1210,2871 1210,2872 1215,2872 1215,2873 1225,2873 1225,2874 1270,2874 1270,2873 1341,2873 1341,2872 1344,2872 1344,2871 1347,2871 1347,2870 1383,2870 1383,2871 1386,2871 1386,2872 1389,2872 1389,2873 1394,2873 1394,2874 1399,2874 1399,2875 1414,2875 1414,2876 1497,2870 1501,2871 1502,2870 1503,2870 1503,2869 1504,2869 1504,2868"/>
+	<TextEquiv>
+	<Unicode>Tarasowaly one drogi dla dowozd żyw-
+ności, tak ważnego dla utrzymania stanu
+fizycznego żołnierza. Obawa tych ucieki-
+nierów jest bezpodstawna i powinna byċ
+pohamowana także w ich wlasnym intere-
+sie. Opuszczanie przez Iudnośċ cywilna
+s woich miejsc zamieszkania niewczesne i
+bez istotnej potrzeby, pozbawia jej samej
+mienia, naraża na szkody, straty nieraz
+nie do powetowania, trudy i cierpienia. —
+Niewątpliwie wśród tych uchodżców, któ-
+rzy przeciągają przez Kraków, znajdują slę
+także uchodżcy z musu. Sa to mieszkańcy.</Unicode></TextEquiv></TextRegion></Page></PcGts>

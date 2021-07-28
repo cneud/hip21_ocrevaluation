@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd" pcGtsId="pc-00762785">
+	<Metadata>
+	<Creator>FineReader Engine 10</Creator>
+	<Created>2013-10-15T09:28:48</Created>
+	<LastChange>2014-07-03T08:25:02</LastChange>
+	<Comments>Recognition and export settings:
+
+  Recognition language(s): Polish
+  Font class: normal
+  Orig-outlines: false
+  Orig-text: false
+  Orig-drop-caps: false
+  Reading order: false
+    Exclude: [default]
+  Layers: false
+  To remove: background-images
+
+Conversion and export:
+
+  Corrected 14 regions that were out of the document bounds
+  Ignored 1 regions that have no coordinates (ghost regions)
+</Comments></Metadata>
+	<Page imageFilename="00762785.tif" imageWidth="2103" imageHeight="2873">
+	<ReadingOrder>
+	<UnorderedGroup id="ro357564684568544579089">
+	<OrderedGroup id="r63">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r420" index="1"/>
+	<RegionRefIndexed regionRef="r627" index="2"/>
+	<RegionRefIndexed regionRef="r1191" index="3"/>
+	<RegionRefIndexed regionRef="r128" index="4"/>
+	<RegionRefIndexed regionRef="r1641" index="5"/>
+	<RegionRefIndexed regionRef="r1840" index="6"/>
+	<RegionRefIndexed regionRef="r2375" index="7"/>
+	<RegionRefIndexed regionRef="r2594" index="8"/>
+	<RegionRefIndexed regionRef="r2600" index="9"/>
+	<RegionRefIndexed regionRef="r2615" index="10"/>
+	<RegionRefIndexed regionRef="r2998" index="11"/>
+	<RegionRefIndexed regionRef="r3063" index="12"/>
+	<RegionRefIndexed regionRef="r3146" index="13"/>
+	<RegionRefIndexed regionRef="r3261" index="14"/></OrderedGroup>
+	<OrderedGroup id="r64">
+	<RegionRefIndexed regionRef="r3437" index="0"/>
+	<RegionRefIndexed regionRef="r3452" index="1"/>
+	<RegionRefIndexed regionRef="r3589" index="2"/>
+	<RegionRefIndexed regionRef="r4320" index="3"/>
+	<RegionRefIndexed regionRef="r5375" index="4"/>
+	<RegionRefIndexed regionRef="r6091" index="5"/>
+	<RegionRefIndexed regionRef="r7538" index="6"/></OrderedGroup>
+	<OrderedGroup id="r65">
+	<RegionRefIndexed regionRef="r119" index="0"/>
+	<RegionRefIndexed regionRef="r115" index="1"/>
+	<RegionRefIndexed regionRef="r129" index="2"/>
+	<RegionRefIndexed regionRef="r127" index="3"/></OrderedGroup>
+	<OrderedGroup id="r66">
+	<RegionRefIndexed regionRef="r8780" index="0"/>
+	<RegionRefIndexed regionRef="r8791" index="1"/></OrderedGroup>
+	<OrderedGroup id="r70">
+	<RegionRefIndexed regionRef="r8932" index="0"/>
+	<RegionRefIndexed regionRef="r8961" index="1"/>
+	<RegionRefIndexed regionRef="r8998" index="2"/>
+	<RegionRefIndexed regionRef="r9016" index="3"/></OrderedGroup>
+	<OrderedGroup id="r71">
+	<RegionRefIndexed regionRef="r10001" index="0"/>
+	<RegionRefIndexed regionRef="r10045" index="1"/>
+	<RegionRefIndexed regionRef="r10072" index="2"/></OrderedGroup>
+	<OrderedGroup id="r74">
+	<RegionRefIndexed regionRef="r10205" index="0"/>
+	<RegionRefIndexed regionRef="r10291" index="1"/>
+	<RegionRefIndexed regionRef="r131" index="2"/>
+	<RegionRefIndexed regionRef="r10570" index="3"/>
+	<RegionRefIndexed regionRef="r10604" index="4"/></OrderedGroup>
+	<OrderedGroup id="g95">
+	<RegionRefIndexed regionRef="r81" index="0"/>
+	<RegionRefIndexed regionRef="r85" index="1"/>
+	<RegionRefIndexed regionRef="r87" index="2"/></OrderedGroup>
+	<OrderedGroup id="g96">
+	<RegionRefIndexed regionRef="r89" index="0"/>
+	<RegionRefIndexed regionRef="r91" index="1"/></OrderedGroup></UnorderedGroup></ReadingOrder>
+	<TextRegion id="r3" type="page-number">
+	<Coords points="170,99 170,109 171,109 171,111 172,111 172,112 171,112 171,113 170,113 170,117 167,117 167,113 166,113 166,112 160,112 160,109 161,109 161,107 162,107 162,106 163,106 163,105 164,105 164,104 165,104 165,101 166,101 166,100 167,100 167,99"/>
+	<TextEquiv>
+	<Unicode>4</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="131,154 265,148 593,157 594,480 368,482 263,481 250,482 129,477"/>
+	<TextEquiv>
+	<Unicode>— Spółka udziałowa urzę-
+dników Zarządu miejskie-
+go. Pracownicy i członkowie insty-
+tucji miejskich w Wilnie organizują
+spółkę udziałową dla zakładania i
+prowadzenia ogrodów warzywnych i
+owocowych, hodowli zwierząt domo-
+wych i ptactwa oraz sprzedaży tako-
+wych członkom w pierwszym rzędzie,
+następnie osobom postronnym i insty-
+tucjom pod firmą «Spójnia pracowni-
+ków Zarządu m. Wilna».</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r420" type="paragraph">
+	<Coords points="126,483 172,483 223,484 229,487 262,488 265,486 591,485 590,621 332,626 322,650 283,646 267,642 249,643 127,639"/>
+	<TextEquiv>
+	<Unicode>We czwartek odbyło się posiedze-
+nie organizacyjne, na którem srczegó-
+łowo omawiano projekt organizacji
+spółki. Przewodniczył mec. T. Wró-
+blewski, pióro sekretarskie trzymał
+inż. Walicki, (o)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r627" type="paragraph">
+	<Coords points="128,653 207,647 261,647 312,653 335,653 366,647 590,650 586,1029 589,1075 260,1064 244,1071 236,1086 197,1086 193,1085 124,1087"/>
+	<TextEquiv>
+	<Unicode>— W sprawie spisu lud-
+naści. Dochodzą nas skargi na
+osoby, zajmujące się spisem ludności.
+Częste są wypadki, że osoba, spisu-
+jące ludność, nie zna alfabetu łaciń-
+skiego, usiłując więc zapisać czyje
+nazwisko, przez pomyłkę obok łaciń-
+skich stawia litery rosyjskie, przez
+co tworzy dziwoląg brzmiący zupełnie
+nie tak jak nazwisko danej osoby.
+W innych znów wypadkach osoby
+zapisujące nie nadają sobie trudu
+udać się po iuformacje do właściciela
+mieszkania, lecz, zasięgnąwszy wiado-
+mości od służącej, tem się ograni-
+czają, (o)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1191" type="paragraph">
+	<Coords points="123,1094 194,1091 201,1091 211,1088 588,1086 588,1364 123,1364"/>
+	<TextEquiv>
+	<Unicode>— Uzupełniania. W krótkiej
+wzmiance o centralnym szpitalu dla
+wenerycznych w Wilnie («Dz. Wil.»
+Nr 30 b. r.) został pominięty jeden
+szczegół zżycia tamecznego. Tem jest
+obecność w srpitalu przy chorych
+matkach kilkorga dzieci. Dalsze pozo-
+stawanie ich w szpitaluejest poprostunie-
+dopuszczalnem tak ze względów zdro-
+wotnych. jak moralnych.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1630" type="header">
+	<Coords points="1068,101 1071,130 834,126 834,101"/>
+	<TextEquiv>
+	<Unicode>DZIENNIK</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1641" type="paragraph">
+	<Coords points="608,161 1076,162 1075,270 708,270 700,268 697,271 682,272 670,271 661,270 640,270 608,271"/>
+	<TextEquiv>
+	<Unicode>pięrosy. Fabrykant papierosów Borg «Of-
+fizier-Kasino» ze złotym mundsztukiem w
+paczkach po 20 sztuk nie posiada tego ga-
+tunku więcej na składzie, wobec tego obsta-
+lunki są bezcelowe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1840" type="paragraph">
+	<Coords points="611,278 675,276 688,273 1073,274 1074,551 688,550 677,561 609,562"/>
+	<TextEquiv>
+	<Unicode>— Pożary. Wczoraj w nocy na ul.
+Orenburakiej wybuchł pożar: zapaliły �ie
+warsztaty stolarskie przy moście Raduńskim
+Ogień wazizął aię około g. 3-ej w nocy z
+przyczyn niewiadomych. Drewniane zabudo-
+wania rychło stanęły w ogniu. Zawdzięcza-
+jąc prędkiemu przybyciu na miejsce wypad-
+ku Nowogródzkiego oddziału straży miejskiej
+i centralnej, pożar rychło udało się umiej-
+scowić i sąsiednie drewniane zabudowania,
+przedstawiające podamy materiał dla ognia,
+ochronić. Pożar stłumiono nad ranem około
+K. 7-ej.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2375" type="paragraph">
+	<Coords points="608,571 654,566 677,566 683,561 692,557 1073,560 1072,670 1035,668 1003,669 994,673 984,673 610,672"/>
+	<TextEquiv>
+	<Unicode>— Okrlo g. 5-ej wierz. we czwartek na
+ul. Orenburskiej w d . 5, wybuchł poiar;
+zapaliły się belki pod piecem, które juś od
+kilku dni tliły nie zauważone przez nikogo.
+Po wyrąbaniu belek ogień rychło ugaszono.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2594" type="paragraph">
+	<Coords points="1001,672 1032,672 1030,695 1002,694"/>
+	<TextEquiv>
+	<Unicode>(o)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2600" type="heading">
+	<Coords points="651,707 826,707 829,736 650,736"/>
+	<TextEquiv>
+	<Unicode>{:} Z Lutni.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2615" type="paragraph">
+	<Coords points="605,746 1068,749 1069,929 882,922 877,945 785,945 775,941 770,941 754,945 711,941 706,945 684,941 605,941"/>
+	<TextEquiv>
+	<Unicode>Jutto — w niedzielę, wystawioną zo�tanie
+na scenie «Latni» barwna kon�dia kontu
+azowa J I. Kraszewskiego „Miód kasz-
+tełański", zaliczająca się do rzędu wybit-
+niejszych sztuk znakomitego powieś. iopisarza
+polskiego. Akcja i �ło sztuki wskrzesza przed
+oczyma widza dawne dzieje polskie, szcze-
+ry humor i doucipne sytuacje wy�arzają
+atmosferę miłą i pogodną.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2998" type="paragraph">
+	<Coords points="606,945 692,945 702,949 1067,947 1065,984 767,986 755,989 742,989 714,986 677,986 668,989 662,989 654,986 648,985 641,990 607,990"/>
+	<TextEquiv>
+	<Unicode>Główną rolę Jacka Sołoduchy odtworzy
+r. Juljusz Strycharski.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3063" type="paragraph">
+	<Coords points="606,995 639,994 651,990 692,989 729,991 779,989 1069,990 1066,1033 930,1034 916,1030 896,1031 812,1032 798,1034 786,1031 685,1033 677,1030 606,1034"/>
+	<TextEquiv>
+	<Unicode>Orkiestra «Lutni» wykona szeieg nowych
+produkeji muzycznych autorów polskich.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3146" type="paragraph">
+	<Coords points="607,1041 628,1037 650,1035 664,1034 677,1037 773,1037 783,1038 792,1034 803,1037 846,1034 915,1034 921,1037 1066,1035 1069,1084 806,1097 652,1094 643,1099 606,1099"/>
+	<TextEquiv>
+	<Unicode>Kasa czynną jest dziś od g. 5—8 wiecz.
+w kancelarji «Lutni», jutro zaś od g. 12-tej
+w pol. w kasie sali.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3261" type="paragraph">
+	<Coords points="606,1104 653,1100 1068,1097 1069,1207 717,1212 606,1211"/>
+	<TextEquiv>
+	<Unicode>Zakwalifikowano do wystawienia w cza-
+sie najbliższym sztuki. „Marsx Dąbrow-
+akiego" — Zenona Parvi, „Pan prexy-
+dent" — Nerzymskiego" � „Szwaczki"
+M. Bałuckiego.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3437" type="heading">
+	<Coords points="652,1262 1020,1261 1024,1318 652,1313"/>
+	<TextEquiv>
+	<Unicode>Rozmaitości.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3452" type="paragraph">
+	<Coords points="606,1350 1072,1351 1073,1416 605,1418"/>
+	<TextEquiv>
+	<Unicode>.: Imlona wejenne. Obecna woi-
+na światoze, podobnie zioztą jak wia�kie
+wojny poprzednie, wskrzesiła, na wielką �</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3578" type="header">
+	<Coords points="1105,105 1243,98 1344,105 1345,133 1111,130"/>
+	<TextEquiv>
+	<Unicode>WILEŃSKI</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3589" type="paragraph">
+	<Coords points="1089,170 1300,166 1554,170 1554,524 1339,523 1327,541 1246,543 1237,544 1232,542 1227,540 1090,540 1090,347"/>
+	<TextEquiv>
+	<Unicode>skalę, swyczaj nadawania dzieciom imion,
+związanych bezpośrednio lub pośrednio � woj-
+�ą, W czasie wojen napoleońskich niejeden
+�oczciwiec, Bogu ducha winien, uzywal się
+Napoleon, albo Bonaparte. Wojna fraucusko
+�iemieka z lat 1870—1871 sprawila,że du-
+żo chłopcóu niemieckich otrzymało imiona
+»Sedan» albo «Paryż», to znowu Wilbelm,
+Fritz, Bismarck i t. p. «Berliner Tageblatt»
+prxypomina, że pewien krawiec, nazwiskiem
+Trampedank, napisał do ks. Bismarckalist,
+prosząc kanclerza o pozwolenie, ażeby nowo
+narodzony sy� Trampedanka nazywal się Bis-
+marck. Kanclerz zezwolił na to, dopisując
+następująca uwagę «Gdyby mi nieba dały
+jeszcze syna, to odwzajemnię się i dam mu
+na imię Trampedank».</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4320" type="paragraph">
+	<Coords points="1089,541 1228,542 1237,545 1338,545 1554,542 1550,1067 1289,1067 1263,1069 1090,1067"/>
+	<TextEquiv>
+	<Unicode>Oczywiście obecna wojna światowa wy-
+w. łała podobne objawy w Niemczech, jak
+stwierdza «Berlincr Tageblatt» na podstawie
+informacji, otrzymanych z nrzędów stanu w
+Berlinie. W śródmieściu Berlina imiona wo-
+jenne są bardzo rzadkie, natomiast w dziel-
+nicach zewnętrznych, zwłaszcza wśród sfer
+robotniczych, imiona owe są bardzo częate.
+Podobnie jest na prowincji. Kobiety zwłasz-
+cza, mające mężów na wojnie, dają swoim
+drieciom imiona wojenne. I tak pewna ko-
+bieta dała swemu synkowi imię «Belgrad»
+dla tego, iż ojciec jego brał udział w zdoby-
+ciu stolicy serbskiej. Inny chłopiec otrzy
+mai imię «Warschau», pewien urzędnik ad-
+miralicji w Berlinie dał swemu synkowi imię
+«Wilno». Zdarzają się często imiona «Long-
+w� i «Tannenberg. Jeszoze częstsremi są
+imiona, wzięte z nazwisk wodzów, jak Hin-
+denburg z łaszcza. Zdarza się takie, ii dzie-
+cł otrzymuja imiona pod znakiem pokoju. W
+takim razie chłopiec nazywa się «Friedemund»,
+«Friedenreich» i. t. p. dziewczynki «Bringfrie
+de», «Christfriede»</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5375" type="paragraph">
+	<Coords points="1086,1077 1126,1077 1137,1070 1185,1070 1266,1073 1553,1072 1553,1423 1086,1423"/>
+	<TextEquiv>
+	<Unicode>.: Odwaga a nerwy. Ktc jest od-
+ważny? Na to pytanie odpowiada dr Aloizy
+Crepa w czasopiśmie «Umachan»: Kto ma
+silne nerwy. Dr. Czepa w niezliczonych wy-
+padkach, podczas działalności lekarskiei na
+polach bitew, zauważył, ze żołnierze i ofice-
+rowie, którzy na początku wojny z jaknaj-
+wicksza pogardą śmierci podejmowali niesły-
+chanie odważną akcję, w najszaleńszym ogniu
+dokonywali obserwacji, przedsiębrali oblicze-
+nia, po dluższem uczestnictwie w wojnie tyl-
+ko jeszcze z calem natężeniem sily woli za-
+chowywali wewnętrzny spokój. Stali się po
+prostu nerwowi, ich nerwy reagują o wiele
+ostrzej na ataki zewnętrme. Osobliwa �la-
+na �znacza się u lakich osób, które wskn-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6085" type="header">
+	<Coords points="1948,120 1964,120 1964,121 1966,121 1966,122 1967,122 1967,125 1992,125 1992,126 2007,126 2007,127 2008,127 2008,128 2009,128 2009,143 2008,143 2008,144 2007,144 2007,145 2002,145 2002,146 2001,146 2001,145 1999,145 1999,144 1984,144 1984,142 1983,142 1983,138 1947,138 1947,137 1946,137 1946,136 1945,136 1945,134 1948,134"/>
+	<TextEquiv>
+	<Unicode>Nr 33</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6091" type="paragraph">
+	<Coords points="1572,172 2041,175 2037,574 2038,733 2039,807 2029,885 1750,883 1741,896 1707,896 1701,897 1696,899 1676,896 1657,896 1639,899 1633,895 1567,900"/>
+	<TextEquiv>
+	<Unicode>tek pęknięcia w pobliża ich granatu albo w
+bardzo gwałtownym ogniu doznały tak zw.
+«wstrząsu» nerwowego. Są one często przez
+dłuższy czas bez przytomności, potem są w
+stanie najstraszliwszej emocji, niezdolne do
+mówienia, do zebrania swoich myśli, dozca-
+ją napadów płaczu spazmowego. Kto dozrał
+tak zw. «wstrązsu», chociaż później wyzdro-
+wieje, rzadko odzyska zimn� krew. Drży wo-
+bec niebezpieezeństwa i stawia mu czoło tyl-
+ko z całem napięciem woli w silnem poczu-
+ciu obowiązku, gdy przed tem jakoby z uś-
+miechem spoglądał na niebezpieczeństwo.
+Czepa wspomina przy tej sposobności aneg-
+dotę o jenerałach francuskim i angielskim,
+którzy niegdyś podczas bitwy stali na wzgó-
+rzu, ostrzeliwanem ogniem artyleryjskim. Je-
+nerał angielski objawiał emocję, a jenerał
+francuski zapytał go ironicznie: — «Pan za-
+pewne się boisz?» — «Tak, boję się» — od-
+powiedział anglik — ale, gdybyś pan tak się
+bał, uciekłbyś już dawno». Także o lotnikach
+wiemy, że odwaga ich i pogarda śmierci nie
+wzmagają się z lalami, lecz przecianie, p�
+przebyciu wielkich niebezpieczeństw tracą
+oni spokój i pewność siebie i większa ich
+część, im więcej i śmielej wzlatywała
+w góię, tera prędzej porzuca lotnictwo.
+Ale są też tchórze z bardzo dobremi nerwa -
+mi. Kto jednak jest odważny, musi mieć do-
+bre nerwy i odwaga najmężniejazego może
+się zachwiać, gdy jego system nerwowy nie
+jest w porządku.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7538" type="paragraph">
+	<Coords points="1567,907 1614,900 1631,900 1653,903 1658,899 1673,899 1683,903 1715,899 2034,899 2035,1102 2035,1327 2031,1339 1567,1342"/>
+	<TextEquiv>
+	<Unicode>∴ Fortepjan o 255 klawiszaeh.
+Do Londynu sprowadzono, oczywiście z Ame-
+ryki, fortepjan-potór, liczący 255 klawiszy
+W�twór ten, goniącej rawsze za sensacją,
+fautazji ameryzańs�iej, �nieszczono, jak d�
+nosi londyńska «Daily M�, z wieizun t�
+dett i kosztem na s�enie teatru londyńskie-
+go «Empiro", gdyż lam mają odbywać sie
+produkcje na ty�wo�u. Klawjatura je
+ko mierzy długości 7 metrów i, jak zapew
+niają jej twórcy, urządzenie je; wynagało �
+kromnych i nie�miernie powikłanych oblicze�
+W Ameryce produkcje na lym potworze mia
+ły mieć pozodzenie nadzwyczajue. W clągu
+jednego tygodnia teatr nowojorski Globe ze-
+brał za bilety wejścia na koncerly za nim
+4,000 dolarów. To � i Londyn otzekuje z
+niecierpliwością niezwykłego widowisks, tem-
+bardziej, że na 255 klawiszach olbrzyma gra
+�ednocześnie � pjanistów.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8780" type="heading">
+	<Coords points="1770,1480 1929,1488 1934,1521 1770,1516"/>
+	<TextEquiv>
+	<Unicode>Sklepowy</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8791" type="paragraph">
+	<Coords points="1664,1518 2038,1526 2036,1618 1669,1608"/>
+	<TextEquiv>
+	<Unicode>do nowej kooperatywy potrzebny za-
+raz. Informacje zasięgnąć można u
+p. A. Szklcnnika, W. Pohulanka 18
+m. 4 od g. 2—4 pp. 95</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8932" type="heading">
+	<Coords points="437,1769 946,1772 949,1827 438,1820"/>
+	<TextEquiv>
+	<Unicode>Na zasadzie rozporządzenia</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8961" type="heading">
+	<Coords points="210,1840 1184,1850 1187,1952 208,1951"/>
+	<TextEquiv>
+	<Unicode>Dyrekcji Cesarsko-Królewskiego Zarządu</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8998" type="heading">
+	<Coords points="325,1977 633,1970 1064,1978 1067,2038 326,2036"/>
+	<TextEquiv>
+	<Unicode>KOLEI ŻELAZNYCH</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10001" type="heading">
+	<Coords points="117,2542 1258,2550 1260,2652 1002,2655 952,2644 708,2642 675,2650 642,2638 123,2638"/>
+	<TextEquiv>
+	<Unicode>Wileńskie Towarz. Pożyczkowo-Oszczednościowe</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10045" type="paragraph">
+	<Coords points="415,2652 669,2653 710,2648 963,2654 967,2684 423,2682"/>
+	<TextEquiv>
+	<Unicode>UL. DOMINIKAŃSKA Nr. II.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10205" type="paragraph">
+	<Coords points="1275,2300 1634,2305 1642,2342 1640,2408 1275,2403"/>
+	<TextEquiv>
+	<Unicode>Kupuje papiery procentowe.
+Podwale (Żandarmski)
+Nr 5 m. 38 od godz. 12-ej do 3-ej.
+69</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10570" type="heading">
+	<Coords points="1676,2355 1779,2350 2008,2351 2010,2419 1970,2419 1936,2414 1679,2412"/>
+	<TextEquiv>
+	<Unicode>DRUKARNIA
+Ks. A. Rutkowskiego</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10938" type="footer">
+	<Coords points="148,2772 200,2769 541,2772 1049,2775 1050,2805 147,2797"/>
+	<TextEquiv>
+	<Unicode>Druk i nakład drukarni wydawniczej ks. A. Rutkowskiego, Botaniczna 7.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11010" type="footer">
+	<Coords points="1450,2780 2002,2785 2009,2810 1450,2809"/>
+	<TextEquiv>
+	<Unicode>Odpowiedzialny za redakcję St. Łukaszewicz.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r11065">
+	<Coords points="123,1428 2030,1433 2030,1471 125,1460"/></SeparatorRegion>
+	<SeparatorRegion id="r11075">
+	<Coords points="1393,2411 1393,2412 1522,2412 1522,2413 1640,2413 1640,2418 1522,2418 1522,2416 1393,2416 1393,2415 1280,2415 1280,2411"/></SeparatorRegion>
+	<SeparatorRegion id="r11077">
+	<Coords points="110,2523 1254,2532 1255,2542 1083,2543 445,2536 398,2535 356,2538 345,2537 125,2532"/></SeparatorRegion>
+	<SeparatorRegion id="r11078">
+	<Coords points="1605,2604 1605,2606 1639,2610 1605,2610 1605,2609 1279,2609 1279,2604"/></SeparatorRegion>
+	<SeparatorRegion id="r11079">
+	<Coords points="126,2754 1086,2762 2033,2772 2034,2782 1193,2775 542,2767 119,2765 118,2752"/></SeparatorRegion>
+	<TextRegion id="r115" type="paragraph">
+	<Coords points="123,1525 124,1516 853,1519 851,1560 170,1571 124,1582"/>
+	<TextEquiv>
+	<Unicode>„REPOS“ „Wyścig śmierci“</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r119" type="heading">
+	<Coords points="180,1475 382,1475 377,1503 179,1502"/>
+	<TextEquiv>
+	<Unicode>Kino-Teatr</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r127" type="paragraph">
+	<Coords points="861,1487 779,1488 776,1511 830,1511 870,1513 859,1568 737,1568 718,1586 721,1595 988,1600 1364,1600 1639,1578 1642,1493"/>
+	<TextEquiv>
+	<Unicode>dziś nowy wybitny program pierwazy raz w Wilnie.
+dramat seusacyjny w 5-ciu aktach z życia bandytów. Osobne obrazy:
+«Walja z czarnymi bandytami», «Wybuch w szybie», «Katastrpja na okręcie».
+i dużo innych obrazów. Nadpisy czytane w języku polskim.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r128" type="paragraph">
+	<Coords points="120,1370 181,1368 588,1369 588,1419 122,1413"/>
+	<TextEquiv>
+	<Unicode>— Naoxelnik zarządu m. Wilna
+�omunikuje: «Wnłne dl� obstalowujących pa-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r129" type="paragraph">
+	<Coords points="224,1575 224,1598 324,1598 324,1575"/>
+	<TextEquiv>
+	<Unicode>Trocka x.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10291" type="paragraph">
+	<Coords points="1278,2434 1463,2434 1463,2436 1472,2436 1472,2437 1556,2437 1556,2438 1640,2438 1640,2470 1641,2470 1641,2502 1642,2502 1642,2534 1643,2534 1643,2566 1641,2596 1630,2596 1630,2595 1615,2595 1615,2594 1600,2594 1600,2593 1585,2593 1585,2592 1571,2592 1571,2591 1556,2591 1556,2590 1541,2590 1541,2589 1526,2589 1526,2588 1511,2588 1511,2587 1497,2587 1497,2586 1482,2586 1482,2585 1467,2585 1467,2584 1452,2584 1452,2583 1437,2583 1437,2582 1423,2582 1423,2581 1408,2581 1408,2580 1393,2580 1393,2579 1378,2579 1378,2578 1363,2578 1363,2577 1349,2577 1349,2576 1334,2576 1334,2575 1319,2575 1319,2574 1304,2574 1304,2573 1289,2573 1289,2572 1275,2572 1275,2526 1274,2526 1274,2480 1273,2480 1276,2480 1276,2463 1277,2463 1277,2449 1278,2449"/>
+	<TextEquiv>
+	<Unicode>Szwaczka przyjmuje wszel-
+kie roboty, w za-
+kres krawiectwa i bieliźuiarstwa
+wchodzące oraz reparacje po ce-
+nach najdostępniejszych. M. Łu-
+czyúska, Zaułek Bernardyński II.
+gr</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r131" type="paragraph">
+	<Coords points="1581,2618 1588,2618 1588,2619 1593,2619 1593,2620 1598,2620 1598,2621 1603,2621 1603,2622 1609,2622 1609,2623 1614,2623 1614,2624 1619,2624 1619,2625 1624,2625 1624,2626 1630,2626 1630,2627 1631,2627 1631,2630 1632,2630 1632,2633 1633,2633 1633,2637 1634,2637 1634,2640 1635,2640 1635,2644 1636,2644 1636,2647 1637,2647 1637,2650 1638,2650 1638,2654 1639,2654 1639,2657 1640,2657 1640,2661 1641,2661 1641,2664 1642,2664 1642,2667 1643,2667 1643,2671 1644,2671 1644,2674 1645,2674 1645,2720 1644,2720 1639,2748 1616,2750 1616,2720 1273,2720 1273,2677 1274,2677 1274,2627 1364,2627 1364,2628 1454,2628 1454,2629 1567,2629 1567,2628 1568,2628 1568,2627 1570,2627 1570,2626 1571,2626 1571,2625 1572,2625 1572,2624 1574,2624 1574,2623 1575,2623 1575,2622 1577,2622 1577,2621 1578,2621 1578,2620 1580,2620 1580,2619 1581,2619"/>
+	<TextEquiv>
+	<Unicode>Warszawianka
+udziela lekcji polskiego języka, za godzinę 20 k.
+Zwierzyniec 63, Pensjonat Pari. M. P.
+gr</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10604" type="paragraph">
+	<Coords points="1760,2420 1760,2421 1836,2421 1836,2422 1912,2422 1912,2423 1988,2423 1988,2449 1989,2449 1989,2466 2013,2466 2012,2466 2012,2618 2013,2618 2013,2654 2014,2654 2014,2713 1867,2713 1867,2714 1867,2713 1848,2713 1848,2712 1829,2712 1829,2711 1811,2711 1811,2708 1810,2708 1810,2705 1809,2705 1809,2703 1808,2703 1808,2700 1807,2700 1807,2698 1806,2698 1806,2695 1805,2695 1805,2693 1804,2693 1804,2690 1803,2690 1803,2689 1802,2689 1802,2683 1695,2683 1695,2684 1695,2654 1676,2654 1676,2460 1701,2460 1701,2424 1716,2424 1716,2423 1731,2423 1731,2422 1746,2422 1746,2421 1760,2421"/>
+	<TextEquiv>
+	<Unicode>WILNO, ul. Botaniczna Nr. 7.
+Przyjmnje wszelkie obstalunki w
+zakres drukarstwa wchodzące,
+jako to:
+Czasopisma, sprawozdania, broszu-
+ry, cenniki, dzieła, cyrkularze,
+adresy, etykiety, rachunki, kwita-
+rjusze, bilety wizytowe, koperty,
+tabele, blankiety, klepsydry i t. d.
+Wykończenie staranne.
+Ceny umiarkowane.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10072" type="paragraph">
+	<Coords points="302,2685 303,2685 303,2686 410,2686 410,2687 518,2687 518,2688 626,2688 626,2689 691,2689 691,2690 755,2690 755,2691 820,2691 820,2692 884,2692 884,2693 949,2693 949,2694 1013,2694 1013,2695 1077,2695 1077,2707 1078,2707 1078,2717 1079,2717 1079,2718 1021,2718 1021,2745 1020,2745 1020,2744 938,2744 938,2743 856,2743 856,2742 773,2742 773,2741 691,2741 691,2740 608,2740 608,2739 526,2739 526,2738 443,2738 443,2737 361,2737 361,2733 360,2733 360,2729 359,2729 359,2725 358,2725 358,2721 357,2721 357,2717 356,2717 356,2715 355,2715 355,2710 306,2710 306,2703 305,2703 305,2697 304,2697 304,2691 303,2691 303,2686 302,2686"/>
+	<TextEquiv>
+	<Unicode>Wydaje pożyczki pod zastaw papierów procentowych i dyskontuje kupony.
+Otwarte od godz. II do 2-gioj z wyjątkiem świąt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9016" type="paragraph">
+	<Coords points="191,2079 1197,2079 1197,2410 191,2410"/>
+	<TextEquiv>
+	<Unicode>pot�zebui są na kolej robotnicy fachowcy i zwykli. Opłata fachow-
+ców 5 marek dziennie, prostych robotników 4 marki przy 10 godzinach pracy
+dziennej; mieszkanie przy kolei rządowe, za które potrąca się 50 fenigów dzien-
+nie; życzący mogą mieszkać w mieście; żywność będzie wydawana w formie por-
+cji żołnierskich za potrąceniem 1 marki 20 fenigów dziennie; koszta podróży
+tam i z powretem do Wilna na rachunek kolei; wymówienie pracy z obydwóch
+stron w terminie dwutygodniowym.
+Zapisy przyjmuje Giełda Pracy codziennie, Zawalua N 5 — w końcu korytarza.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r126">
+	<Coords points="1649,1486 1649,1646 1658,1646 1658,1486"/></SeparatorRegion>
+	<SeparatorRegion id="r57">
+	<Coords points="598,162 598,380 596,607 596,781 594,862 593,1026 592,1220 592,1318 591,1366 592,1405 597,1413 605,162"/></SeparatorRegion>
+	<SeparatorRegion id="r58">
+	<Coords points="1079,165 1079,396 1078,665 1075,1239 1075,1414 1082,1415 1081,1268 1081,1063 1086,406 1085,165"/></SeparatorRegion>
+	<SeparatorRegion id="r59">
+	<Coords points="1560,175 1558,551 1557,676 1556,758 1556,946 1557,1420 1564,1419 1562,1332 1562,939 1563,688 1566,175"/></SeparatorRegion>
+	<SeparatorRegion id="r60">
+	<Coords points="129,118 125,132 329,140 523,138 690,145 1039,149 1216,154 1541,156 2043,160 2047,149 1383,141"/></SeparatorRegion>
+	<SeparatorRegion id="r61">
+	<Coords points="1647,2303 1645,2381 1645,2473 1649,2620 1648,2753 1659,2753 1657,2452 1657,2306"/></SeparatorRegion>
+	<SeparatorRegion id="r62">
+	<Coords points="1264,1651 1263,2696 1263,2748 1270,2761 1277,1651"/></SeparatorRegion>
+	<GraphicRegion id="r79">
+	<Coords points="1620,1356 1620,1402 2013,1402 2013,1356"/></GraphicRegion>
+	<TextRegion id="r81" type="paragraph">
+	<Coords points="1984,1686 1984,1869 1782,1869 1782,1868 1564,1868 1564,1867 1536,1867 1536,1866 1508,1866 1508,1865 1480,1865 1480,1864 1452,1864 1452,1863 1424,1863 1424,1862 1396,1862 1396,1861 1368,1861 1368,1860 1340,1860 1340,1859 1325,1859 1325,1686"/>
+	<TextEquiv>
+	<Unicode>ZARZĄD
+Wil. Stowarzyszenia Pożyczkowo-
+Oszczędnośclowego</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r85" type="paragraph">
+	<Coords points="1339,1861 1339,1862 1367,1862 1367,1863 1395,1863 1395,1864 1423,1864 1423,1865 1451,1865 1451,1866 1479,1866 1479,1867 1507,1867 1507,1868 1535,1868 1535,1869 1563,1869 1563,1870 1781,1870 1781,1871 1984,1871 1984,1905 1936,1905 1936,1904 1838,1904 1838,1903 1741,1903 1741,1902 1643,1902 1643,1901 1545,1901 1545,1900 1483,1900 1483,1901 1459,1901 1459,1902 1434,1902 1434,1903 1410,1903 1410,1904 1386,1904 1386,1905 1361,1905 1361,1906 1337,1906 1337,1907 1325,1907 1325,1861"/>
+	<TextEquiv>
+	<Unicode>- ul. Zawralna 60. -</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r87" type="paragraph">
+	<Coords points="1544,1902 1544,1903 1642,1903 1642,1904 1740,1904 1740,1905 1837,1905 1837,1906 1935,1906 1935,1907 1984,1907 1984,1977 1325,1977 1325,1909 1338,1909 1338,1908 1362,1908 1362,1907 1387,1907 1387,1906 1411,1906 1411,1905 1435,1905 1435,1904 1460,1904 1460,1903 1484,1903 1484,1902"/>
+	<TextEquiv>
+	<Unicode>Wydaje pożyczki pod zastaw papierów procentowych,
+Asekuruje bilety loteryjne i Dyskontuje kupony.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r89" type="paragraph">
+	<Coords points="1991,2073 1991,2192 1910,2192 1910,2191 1746,2191 1746,2190 1582,2190 1582,2189 1319,2189 1319,2073"/>
+	<TextEquiv>
+	<Unicode>DOM PRACY
+POLSKIEGO TOWARZYSTWA POMOCY OFIAROM WOJNY
+Ś-to Michalska Nr. 10 (Konwikt).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r91" type="paragraph">
+	<Coords points="1581,2191 1581,2192 1745,2192 1745,2193 1909,2193 1909,2194 1991,2194 1991,2249 1319,2249 1319,2191"/>
+	<TextEquiv>
+	<Unicode>Sprzedaje torby papierowe podwójne, różnej wielkości do kaszy,
+mąki, grochów, cukru i t. p. — Ceny b. przystępne.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r92">
+	<Coords points="1292,2032 2045,2034 2042,2017 1285,2001 1285,2028"/></SeparatorRegion>
+	<SeparatorRegion id="r93">
+	<Coords points="1666,1620 2038,1629 2038,1642 1670,1638 1668,1621"/></SeparatorRegion>
+	<SeparatorRegion id="r94">
+	<Coords points="112,1604 909,1612 1634,1614 1636,1634 912,1636 885,1634 116,1634 113,1609"/></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd" pcGtsId="pc-00762134">
+	<Metadata>
+	<Creator>FineReader Engine 10</Creator>
+	<Created>2013-10-15T14:55:04</Created>
+	<LastChange>2014-07-03T08:27:40</LastChange>
+	<Comments>Recognition and export settings:
+
+  Recognition language(s): Polish
+  Font class: normal
+  Orig-outlines: false
+  Orig-text: false
+  Orig-drop-caps: false
+  Reading order: false
+    Exclude: [default]
+  Layers: false
+  To remove: background-images
+
+Conversion and export:
+
+  Ignored 4 regions that have no coordinates (ghost regions)
+</Comments></Metadata>
+	<Page imageFilename="00762134.tif" imageWidth="4514" imageHeight="6197">
+	<ReadingOrder>
+	<UnorderedGroup id="ro357564684568544579089">
+	<OrderedGroup id="r148">
+	<RegionRefIndexed regionRef="r110" index="0"/>
+	<RegionRefIndexed regionRef="r119" index="1"/></OrderedGroup>
+	<OrderedGroup id="r149">
+	<RegionRefIndexed regionRef="r588" index="0"/>
+	<RegionRefIndexed regionRef="r653" index="1"/></OrderedGroup>
+	<OrderedGroup id="r150">
+	<RegionRefIndexed regionRef="r1778" index="0"/>
+	<RegionRefIndexed regionRef="r1802" index="1"/></OrderedGroup>
+	<OrderedGroup id="r151">
+	<RegionRefIndexed regionRef="r2929" index="0"/>
+	<RegionRefIndexed regionRef="r2960" index="1"/></OrderedGroup>
+	<OrderedGroup id="r152">
+	<RegionRefIndexed regionRef="r1691" index="0"/>
+	<RegionRefIndexed regionRef="r1722" index="1"/>
+	<RegionRefIndexed regionRef="r3796" index="2"/>
+	<RegionRefIndexed regionRef="r4248" index="3"/>
+	<RegionRefIndexed regionRef="r4365" index="4"/>
+	<RegionRefIndexed regionRef="r4528" index="5"/>
+	<RegionRefIndexed regionRef="r4637" index="6"/>
+	<RegionRefIndexed regionRef="r4784" index="7"/>
+	<RegionRefIndexed regionRef="r4913" index="8"/>
+	<RegionRefIndexed regionRef="r4943" index="9"/>
+	<RegionRefIndexed regionRef="r5063" index="10"/>
+	<RegionRefIndexed regionRef="r5267" index="11"/>
+	<RegionRefIndexed regionRef="r5403" index="12"/>
+	<RegionRefIndexed regionRef="r5456" index="13"/>
+	<RegionRefIndexed regionRef="r5804" index="14"/>
+	<RegionRefIndexed regionRef="r5972" index="15"/>
+	<RegionRefIndexed regionRef="r6448" index="16"/>
+	<RegionRefIndexed regionRef="r6520" index="17"/>
+	<RegionRefIndexed regionRef="r6930" index="18"/>
+	<RegionRefIndexed regionRef="r6973" index="19"/>
+	<RegionRefIndexed regionRef="r7051" index="20"/>
+	<RegionRefIndexed regionRef="r7327" index="21"/>
+	<RegionRefIndexed regionRef="r7457" index="22"/>
+	<RegionRefIndexed regionRef="r7473" index="23"/>
+	<RegionRefIndexed regionRef="r7524" index="24"/>
+	<RegionRefIndexed regionRef="r7624" index="25"/>
+	<RegionRefIndexed regionRef="r8407" index="26"/>
+	<RegionRefIndexed regionRef="r9243" index="27"/>
+	<RegionRefIndexed regionRef="r9308" index="28"/>
+	<RegionRefIndexed regionRef="r9577" index="29"/>
+	<RegionRefIndexed regionRef="r10172" index="30"/>
+	<RegionRefIndexed regionRef="r10833" index="31"/>
+	<RegionRefIndexed regionRef="r11033" index="32"/>
+	<RegionRefIndexed regionRef="r11947" index="33"/>
+	<RegionRefIndexed regionRef="r12511" index="34"/></OrderedGroup>
+	<OrderedGroup id="r153">
+	<RegionRefIndexed regionRef="r12673" index="0"/>
+	<RegionRefIndexed regionRef="r12720" index="1"/>
+	<RegionRefIndexed regionRef="r12743" index="2"/>
+	<RegionRefIndexed regionRef="r12927" index="3"/>
+	<RegionRefIndexed regionRef="r13268" index="4"/>
+	<RegionRefIndexed regionRef="r13417" index="5"/>
+	<RegionRefIndexed regionRef="r13727" index="6"/>
+	<RegionRefIndexed regionRef="r13877" index="7"/></OrderedGroup>
+	<OrderedGroup id="r154">
+	<RegionRefIndexed regionRef="r14180" index="0"/>
+	<RegionRefIndexed regionRef="r14195" index="1"/>
+	<RegionRefIndexed regionRef="r14219" index="2"/>
+	<RegionRefIndexed regionRef="r14624" index="3"/></OrderedGroup>
+	<OrderedGroup id="r156">
+	<RegionRefIndexed regionRef="r14997" index="0"/>
+	<RegionRefIndexed regionRef="r157" index="1"/>
+	<RegionRefIndexed regionRef="r15049" index="2"/>
+	<RegionRefIndexed regionRef="r15041" index="3"/>
+	<RegionRefIndexed regionRef="r15060" index="4"/>
+	<RegionRefIndexed regionRef="r15256" index="5"/>
+	<RegionRefIndexed regionRef="r15426" index="6"/>
+	<RegionRefIndexed regionRef="r15600" index="7"/>
+	<RegionRefIndexed regionRef="r15721" index="8"/>
+	<RegionRefIndexed regionRef="r15734" index="9"/>
+	<RegionRefIndexed regionRef="r15803" index="10"/>
+	<RegionRefIndexed regionRef="r15961" index="11"/>
+	<RegionRefIndexed regionRef="r15988" index="12"/>
+	<RegionRefIndexed regionRef="r16096" index="13"/>
+	<RegionRefIndexed regionRef="r16131" index="14"/>
+	<RegionRefIndexed regionRef="r16280" index="15"/>
+	<RegionRefIndexed regionRef="r16313" index="16"/>
+	<RegionRefIndexed regionRef="r16361" index="17"/>
+	<RegionRefIndexed regionRef="r16491" index="18"/>
+	<RegionRefIndexed regionRef="r16516" index="19"/>
+	<RegionRefIndexed regionRef="r16739" index="20"/>
+	<RegionRefIndexed regionRef="r16810" index="21"/>
+	<RegionRefIndexed regionRef="r16920" index="22"/>
+	<RegionRefIndexed regionRef="r17019" index="23"/>
+	<RegionRefIndexed regionRef="r17151" index="24"/>
+	<RegionRefIndexed regionRef="r17200" index="25"/>
+	<RegionRefIndexed regionRef="r17382" index="26"/>
+	<RegionRefIndexed regionRef="r17504" index="27"/>
+	<RegionRefIndexed regionRef="r17605" index="28"/>
+	<RegionRefIndexed regionRef="r17693" index="29"/>
+	<RegionRefIndexed regionRef="r17767" index="30"/>
+	<RegionRefIndexed regionRef="r17823" index="31"/>
+	<RegionRefIndexed regionRef="r17889" index="32"/>
+	<RegionRefIndexed regionRef="r18109" index="33"/>
+	<RegionRefIndexed regionRef="r18160" index="34"/>
+	<RegionRefIndexed regionRef="r18192" index="35"/>
+	<RegionRefIndexed regionRef="r18264" index="36"/>
+	<RegionRefIndexed regionRef="r18284" index="37"/>
+	<RegionRefIndexed regionRef="r18359" index="38"/>
+	<RegionRefIndexed regionRef="r18387" index="39"/>
+	<RegionRefIndexed regionRef="r18446" index="40"/>
+	<RegionRefIndexed regionRef="r18480" index="41"/>
+	<RegionRefIndexed regionRef="r18515" index="42"/>
+	<RegionRefIndexed regionRef="r18560" index="43"/>
+	<RegionRefIndexed regionRef="r18732" index="44"/>
+	<RegionRefIndexed regionRef="r18763" index="45"/>
+	<RegionRefIndexed regionRef="r18782" index="46"/>
+	<RegionRefIndexed regionRef="r18883" index="47"/>
+	<RegionRefIndexed regionRef="r19000" index="48"/>
+	<RegionRefIndexed regionRef="r19013" index="49"/>
+	<RegionRefIndexed regionRef="r19023" index="50"/>
+	<RegionRefIndexed regionRef="r19159" index="51"/>
+	<RegionRefIndexed regionRef="r19196" index="52"/>
+	<RegionRefIndexed regionRef="r19249" index="53"/>
+	<RegionRefIndexed regionRef="r19364" index="54"/>
+	<RegionRefIndexed regionRef="r19410" index="55"/>
+	<RegionRefIndexed regionRef="r19450" index="56"/>
+	<RegionRefIndexed regionRef="r19493" index="57"/>
+	<RegionRefIndexed regionRef="r19572" index="58"/>
+	<RegionRefIndexed regionRef="r19655" index="59"/></OrderedGroup></UnorderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords points="491,312 542,310 588,334 604,312 624,312 635,316 639,332 635,350 495,350 489,345"/>
+	<TextEquiv>
+	<Unicode>Str. 6</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r65" type="header">
+	<Coords points="3863,309 3869,306 4033,309 4033,342 3861,344 3861,320"/>
+	<TextEquiv>
+	<Unicode>Nr 200</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r119" type="paragraph">
+	<Coords points="489,614 480,579 601,577 1156,572 1316,577 1314,964 1314,975 1031,973 1016,1019 406,1019 402,1006 404,628"/>
+	<TextEquiv>
+	<Unicode>Do portu gdyńskiego przybył z Filadelfii
+statek grecki „Joannis Carrs" z ładunkiem zło-
+mu. Przedwczoraj, w czasie przejścia Kanału Ki-
+lońskiego statek grecki został zatrzymany i zre
+widowany przez umundurowanych źołnierzy i
+uzbrojonych hitlerowców. Na protesty kapita-
+na statku grożono mu rewolwerami, wykrzy-
+kując, że z ładunkiem tym nie powinien jechać
+do Gdyni. W końcu statek po kilkugodzinnym
+zatrzymaniu został wypuszczony.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r588" type="heading">
+	<Coords points="529,1088 535,1075 558,1071 594,1077 810,1076 972,1072 1169,1074 1178,1113 1212,1118 1214,1146 1212,1164 1155,1162 1136,1165 1121,1161 1002,1157 959,1157 830,1159 661,1161 647,1165 627,1161 506,1160 496,1148 500,1121 507,1112"/>
+	<TextEquiv>
+	<Unicode>Najpoczytniejszy dziennik,
+którego nikt nie miał w ręku</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r653" type="paragraph">
+	<Coords points="487,1196 491,1171 1316,1171 1315,2096 968,2093 841,2095 642,2091 644,2124 620,2129 410,2128 404,2103 403,1993 405,1853 402,1761 401,1592 403,1410 401,1303 406,1228 408,1222 422,1211"/>
+	<TextEquiv>
+	<Unicode>Jako najpoczytniejsze dzienniki wymienia
+się wielkie pisma angielskie, czy amerykańskie,
+które mają największe nakłady. Tymczasem —
+Jeden z dziennikarzy amerykańskich przypomniał
+o dzienniku, który niewątpliwie jest czytany
+przez największą liczbę ludzi, jakkolwiek nikt
+z czytelników nigdy go nie miał w ręku. Dzien-
+nik ten to „Subway - Sum". Nikt o nim nie
+słyszał? U nas nikt. Ale znają go doskonale
+nowojorczycy. Jest to dziennik, który ma naj-
+wyżej jedną stronę, a czasem tylko parę wier-
+szy. To rodzaj „gazetki ściennej", wywieszanej
+co dzień w każdym wagonie metro nowojorskie-
+go. Donosi ona o różnych zdarzeniach w mieś-
+cie, zawiera aktualne komunikaty i wiadomo-
+ści. Każdy z jadących czyta je choćby dla skró-
+cenia sobie drogi. A Nowy Jork wraz z przed
+mieściami liczy 10 milionów mieszkańców, o-
+gromna większość ich jeździ metrem, więc —
+„Subway- Sun" ma rzeczywiście dane, aby pre-
+tendować, do tytułu najbardziej czytanego dzien-
+nika świata.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1691" type="heading">
+	<Coords points="1364,420 1462,414 1490,417 1494,448 1718,453 1924,444 1954,452 2189,451 2245,416 2291,416 2351,429 2383,423 2419,424 2449,445 2495,444 2513,448 2524,447 2555,445 2609,439 2808,448 2808,418 2829,414 3011,413 3170,418 3208,433 3235,459 3241,560 3229,623 3018,609 2938,609 2819,604 2745,624 2595,623 2547,623 2492,619 2480,625 2442,630 2366,626 2349,617 2105,614 2103,628 2074,638 2036,613 1871,608 1852,626 1823,629 1804,610 1366,608"/>
+	<TextEquiv>
+	<Unicode>Słowacy napadający na Polskę</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1722" type="heading">
+	<Coords points="1588,651 1634,650 1691,666 1778,652 1939,659 1962,650 2384,650 2886,647 2961,647 2982,651 2987,666 2985,710 2744,715 2544,714 2458,715 2375,718 2197,725 1807,728 1675,726 1588,726 1582,685"/>
+	<TextEquiv>
+	<Unicode>ukrywają przed swym społeczeństwem testament Hlinki</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1778" type="heading">
+	<Coords points="607,2179 639,2177 677,2188 744,2178 1108,2183 1114,2203 1106,2219 1089,2222 605,2220 605,2204"/>
+	<TextEquiv>
+	<Unicode>Samuel Colt — i colt</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1802" type="paragraph">
+	<Coords points="485,2270 480,2233 502,2232 1324,2237 1322,2861 1327,3217 1324,3269 443,3271 402,3269 402,2745 399,2513 402,2291 411,2272"/>
+	<TextEquiv>
+	<Unicode>Statystyki policyljne wykazują, że prze-
+ciętnie co roku pada 2500 strzałów rewolwero-
+wych w Paryżu, 4000 w Nowym Jorku, 6000
+w Chicago. Rewolwer jest najpopularniejszą
+bronią, palną, tak popularną, że warto przy-
+pomnieć sobie historię jego wynalazcy Sa-
+muela Colta, urodzonego w 1814 roku w sta-
+nie Connecticut. Jako czternastoletni chłopiec
+skonstruował on jakieś dziwo o czterech lu-
+fach, aby strzały mogły następować szybko
+jeden po drugim. W 1829 Colt skonstruował
+swój pierwszy rewolwer, który rozleciał się
+„dopiero" po kilku dniach: był z drzewa. W
+1832 roku powstała w warsztacie młodego
+wynalazcy „strzelająca petarda" wagi. dwóch
+kilo. broni w New Jersey i zacząl wyrabiać
+rewolwery. Okoliczności sprzyjały mu, bo far-
+merzy I pionierzy Dalekiego Zachodu potrze-
+� gwałt broni do walk z Indianami �
+prędko przekonali się do nowej broni. Mała
+fabryczka stała się olbrzymią wytwórnią, a
+gdy Colt umarł w 1862 roku zostawił swym
+spadkobiercom fortunę 5 milionów dolarów.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2929" type="heading">
+	<Coords points="508,3320 602,3320 611,3321 615,3331 630,3332 685,3329 754,3345 804,3322 815,3320 915,3323 1232,3321 1239,3325 1241,3353 1233,3384 1129,3385 706,3387 699,3395 680,3387 513,3382 507,3364 510,3340"/>
+	<TextEquiv>
+	<Unicode>kurierzy - dawni rekordziści</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2960" type="paragraph">
+	<Coords points="488,3432 469,3398 489,3398 529,3391 564,3398 1331,3400 1332,3496 1331,3601 1330,3721 1330,3882 1325,3911 1338,3962 1342,4039 1342,4118 1341,4133 1064,4138 878,4134 873,4179 480,4183 435,4181 425,4169 405,3461 408,3430"/>
+	<TextEquiv>
+	<Unicode>W czasach, gdy stan dróg czynił podróże
+jeśli nie niebezpiecznymi to w każdym razie
+uciażliwymi i długimi kupcy i kurierzy bjlj re-
+dniem dzisiejszym ale godne podziwu w ich
+warunkach. W 17-tym wieku słynny był fran-
+cuski kapitan Paulin, który w 21 dni przybył
+z Konstantynopola do Fontaineboau do kró-
+la. Jan Burochio, kurier króla hiszpańskiego,
+przywiósł mu wieść o nocy św. Bartłomieja
+z Paryża do Madrytu w ciągu trzech dni i
+trzech nocy. Inny kurier francuski Chame-
+reau zawiózł królowi Polski wiadomość o
+śmierci Karola IX w ciągu 12 dni. Pewien
+opát odbył drogę Paryż—Rzym w osłem dni.
+Oczywiście kurierzy ci mieli do dyspozycji po
+drodze świeże konie, a siłami swymi i zwie-
+rząt szafowali hojnie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3796" type="paragraph">
+	<Coords points="1417,797 1428,758 1703,755 2208,755 2275,756 2277,834 2279,893 2281,973 2280,1031 2278,1111 2278,1146 2056,1145 1852,1145 1807,1149 1813,1179 1810,1189 1362,1189 1357,1153 1360,809 1363,802"/>
+	<TextEquiv>
+	<Unicode>Hitler rządzi w Słowacji. Tiso, Mach
+i Tuka zadziwiają świat, a chyba i Hitlera
+najbardziej swoją postawą pełną dla niego czo-
+łobitności. Bo przecież kanclerz Rzeszy bierze
+ze Słowacji wszystko czego dnsza zapragnie, nie
+dając nie wzamian. To też nie była by to wia-
+domość najnowsza, gdyby nie fakt, że ośmdzie-
+siąt procent Słowaków jednogłośnie już dziś nie
+szepce, lecz otwarcie tłumaczy tę zagadkę. Wy-
+jaśni ją mój rozmówca.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4248" type="paragraph">
+	<Coords points="1422,1245 1423,1204 1438,1200 2124,1198 2226,1197 2276,1202 2279,1281 2224,1285 2099,1285 1915,1282 1861,1284 1853,1325 1824,1329 1384,1329 1364,1327 1361,1323 1362,1253"/>
+	<TextEquiv>
+	<Unicode>Tatry. Rozmawiamy zupełnie spokojnie. Tu
+wyjątkowo nikt nie podsłuchuje. Zapytuję o
+„wielkich ludzi" Słowacji.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4365" type="paragraph">
+	<Coords points="1438,1386 1422,1357 1482,1353 1499,1338 2199,1336 2276,1342 2276,1506 1363,1510 1360,1395"/>
+	<TextEquiv>
+	<Unicode>— Żadna rewolucja nic nie pomoże. Każdy
+nowy rząd będzie zmuszony prowadzić dotych-
+czasową politykę, a nie każdy zdecyduje się na
+całowanie z Niemcami.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4528" type="paragraph">
+	<Coords points="1437,1572 1429,1543 1428,1524 2253,1520 2276,1524 2279,1594 2268,1604 2144,1610 2060,1606 1878,1609 1787,1608 1802,1646 1725,1647 1363,1650 1360,1643 1358,1584 1361,1576 1364,1565"/>
+	<TextEquiv>
+	<Unicode>Odpowiedź znamienna. Niepokoi mię fakt,
+że mój rozmówca zajmuje jedno z wysokich
+stanowisk w państwie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4637" type="paragraph">
+	<Coords points="1363,1664 2263,1658 2275,1664 2278,1728 2275,1784 1979,1790 1608,1792 1563,1791 1479,1789 1487,1827 1481,1830 1465,1831 1363,1828"/>
+	<TextEquiv>
+	<Unicode>— Takich jak ja, mimo wszystko stojących
+na stanowisku — odpowiada mi — jest więk-
+szość. Musimy pilnować, by wszystkiego nie roz-
+kradli.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4784" type="paragraph">
+	<Coords points="1453,1881 1430,1868 1421,1860 1445,1840 2046,1837 2274,1840 2278,1859 2277,1913 2258,1916 2155,1919 2056,1922 2061,1963 1362,1967 1359,1931 1362,1895 1379,1888"/>
+	<TextEquiv>
+	<Unicode>— Przecież pan i pana grupa z Sidorem na
+czele zostaliście wyznaczeni na spadkobierców
+testamentem politycznym ks. Hlinki.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4913" type="paragraph">
+	<Coords points="1429,1981 1446,1978 1879,1978 1926,1979 1957,1982 1957,2017 1929,2017 1490,2019 1431,2017 1427,2006"/>
+	<TextEquiv>
+	<Unicode>Mój towarzysz zmieszał się.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4943" type="paragraph">
+	<Coords points="1460,2071 1429,2060 1421,2048 1487,2030 1831,2032 2276,2030 2279,2111 2024,2111 1995,2115 1961,2114 1911,2112 1912,2123 1923,2155 1364,2155 1361,2124 1361,2087 1387,2071"/>
+	<TextEquiv>
+	<Unicode>— Czy wie pan — odpowiada — że ten te-
+stament, mimo że znaną jest jego treść, dotąd
+nie został oficjalnie otwarty.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5063" type="paragraph">
+	<Coords points="1486,2212 1431,2204 1411,2191 1489,2168 2251,2164 2275,2169 2278,2235 2280,2331 2279,2331 2242,2336 2042,2340 1838,2341 1644,2339 1585,2339 1568,2334 1570,2343 1580,2378 1574,2383 1364,2381 1362,2359 1361,2221 1398,2210"/>
+	<TextEquiv>
+	<Unicode>— O ile wiem, jedną z przyezyn przyjazdu
+ministra Sidora do Bratysławy z placówki rzym
+skiej był właśnie wyznaczony na rocznicę śmier-
+ei Hlinki termin oficjalnego ogłoszenia treści
+testamentu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5267" type="paragraph">
+	<Coords points="1459,2441 1414,2421 1462,2397 1996,2394 2198,2392 2276,2397 2281,2467 2250,2475 2199,2479 2204,2511 2190,2525 1364,2525 1360,2505 1364,2455 1374,2436"/>
+	<TextEquiv>
+	<Unicode>— Tak, lecz rząd w ostatniej chwili zdecy-
+dował wbrew przepisom prawnym, że testament
+zostanie otwarty dopiero za trzy miesiące.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5403" type="paragraph">
+	<Coords points="1449,2577 1430,2566 1426,2555 1473,2537 2274,2537 2277,2560 2261,2571 2224,2578 1931,2575 1677,2578 1545,2580 1453,2570 1460,2590 1461,2618 1393,2618 1362,2617 1364,2576 1409,2580"/>
+	<TextEquiv>
+	<Unicode>— No a eo będzie przez ten ezas „oczekiwa-
+nia"?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5456" type="paragraph">
+	<Coords points="1468,2672 1428,2662 1421,2648 1479,2636 1493,2633 2281,2635 2283,2923 2168,2931 2132,2930 1933,2936 1906,2934 1899,2933 1812,2934 1824,2962 1822,2975 1366,2977 1366,2688 1391,2674"/>
+	<TextEquiv>
+	<Unicode>— Gdyby pan stawił to pytanie podczas po-
+ufnej rozmowy z ks. Tiso, odpowiedziałby, że
+przez ten czas rząd umocni swoją pozycję. Mo-
+że usłyszałby pan nawet o pewnych planach
+„przesunięć" ludzi niewygodnych. Większość
+zaś Słowaków przez ten czas oczekiwać będzie
+wielkich' zmian, które muszą dać Słowacji wol-
+ność. Czekamy na was...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5804" type="paragraph">
+	<Coords points="1441,3038 1426,2993 1451,2990 1764,2990 2140,2988 2257,2988 2282,2990 2284,3011 2282,3160 1370,3160 1369,3123 1367,3049 1384,3039"/>
+	<TextEquiv>
+	<Unicode>Wyrażam swoje zdziwienie. Przecież Słowa-
+cy w ostatnich miesiącach niejednokrotnie ra-
+zem z Niemcami brali udział w wyścigu napa-
+dów na wszystko co polskie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5972" type="paragraph">
+	<Coords points="1497,3213 1439,3206 1426,3195 1438,3189 1470,3189 1500,3172 2260,3169 2285,3172 2286,3598 2134,3605 1863,3605 1620,3609 1549,3608 1474,3604 1485,3648 1407,3649 1378,3649 1372,3647 1370,3224 1416,3215"/>
+	<TextEquiv>
+	<Unicode>— Nie napadał żaden uczciwy Słowak. To
+robota Macha. Czy pan wie, że ten nasz słowac-
+ki Goebbels, który z Tuką i Tiso trzyma się u
+szczytu dzięki pomocy Berlina niedawno na
+wszelki wypadek powiedział, że rządzić we wła-
+snym kraju przy obcej pomocy jest draństwem.
+Większość narodu zrozumiała, że po raz pierw-
+szy ocenił słusznie swoją pozycją w kraju. Słu-
+szny wyrok wydany na siebie. Niech Polacy
+nam wierzą, że takich Machów mamy tutaj nie
+wielu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6448" type="paragraph">
+	<Coords points="1459,3708 1435,3690 1442,3678 1434,3660 1447,3655 2124,3653 2285,3655 2288,3672 2283,3691 2129,3692 1967,3693 1956,3692 1873,3694 1893,3720 1899,3737 1607,3739 1536,3735 1499,3740 1395,3744 1370,3734 1372,3705 1385,3702"/>
+	<TextEquiv>
+	<Unicode>Nagle przerywa i zaczyna się mnie wypy-
+tywać o wojnę. Dlaczego,..,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6520" type="paragraph">
+	<Coords points="1447,3797 1431,3760 1501,3743 1620,3747 2289,3740 2292,4028 2290,4080 1873,4082 1784,4085 1799,4100 1815,4116 1813,4125 1786,4129 1375,4128 1373,3795 1407,3788"/>
+	<TextEquiv>
+	<Unicode>— Czekamy na zwycięstwo Polski. Ten żoł-
+nierz słowacki, słuchający dziś rozkazu niemie-
+ckiego oficera nie pali się do wojny. Niech pan
+zapamięta, że tu na tej granicy stoją ludzie, z
+bagnetami wymierzonymi w stronę Polski. Prze-
+ciw wam pójdą siedzący u nas Niemcy. Słowak
+pójdzie, gdy z tyłu zostanie pchnięty bagnetem
+drugiego Niemca. To jest nasza tragedia. I dla-
+tego pytamy o wojnę...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6930" type="paragraph">
+	<Coords points="1449,4133 2082,4129 2290,4133 2292,4155 2290,4173 1509,4174 1447,4171 1443,4140"/>
+	<TextEquiv>
+	<Unicode>Mój informator przerywa, zdaje się już z</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6973" type="paragraph">
+	<Coords points="2322,755 3161,751 3234,755 3238,776 3235,783 3131,790 3079,795 2940,797 2890,803 2780,799 2787,828 2781,840 2485,837 2473,843 2464,837 2322,840 2318,784"/>
+	<TextEquiv>
+	<Unicode>przyzwyczajenia rozgląda się w koło, a po chwi-
+li kończy zaczęte zdanie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7051" type="paragraph">
+	<Coords points="2385,886 2385,866 2425,851 3231,846 3235,851 3236,874 3235,1002 3233,1063 3226,1066 3183,1064 3173,1109 2426,1108 2319,1106 2318,1051 2318,896"/>
+	<TextEquiv>
+	<Unicode>— Pytamy o wojnę, bo wy musicie wygrać
+tam nad morzem. Wtedy na pomoc ściągną je-
+dnego Niemca od nas. Nie ma obaw byśmy stali
+bezczynnie. Przeciw temu drugiemu który pozo-
+stał zwrócimy się choćby nam zabrali tę resztę
+broni, którą łaskawie Berlin nam zostawił!!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7327" type="paragraph">
+	<Coords points="2391,1158 2383,1115 3071,1113 3175,1114 3185,1111 3218,1112 3232,1115 3234,1138 3231,1189 3223,1193 3097,1199 3091,1232 3078,1240 2319,1244 2316,1230 2313,1167 2326,1154"/>
+	<TextEquiv>
+	<Unicode>Właśnie z sąsiednego domu wylazło dwóch
+żołnierzy niemieckich. Przykry widok. Słowa-
+cy witają się jak z dobrymi znajomymi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7457" type="paragraph">
+	<Coords points="3146,1257 3195,1269 3200,1287 3197,1296 3012,1297 3016,1260"/>
+	<TextEquiv>
+	<Unicode>Svoradov.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r7469">
+	<Coords points="2779,1310 2782,1310 2782,1311 2783,1311 2783,1312 2784,1312 2784,1316 2791,1316 2791,1317 2793,1317 2793,1319 2794,1319 2794,1321 2795,1321 2795,1323 2794,1323 2794,1336 2793,1336 2793,1338 2791,1338 2791,1339 2783,1339 2783,1343 2782,1343 2782,1344 2779,1344 2779,1345 2777,1345 2777,1344 2776,1344 2776,1343 2775,1343 2775,1342 2774,1342 2774,1338 2765,1338 2765,1337 2764,1337 2764,1336 2763,1336 2763,1319 2764,1319 2764,1318 2765,1318 2765,1317 2773,1317 2773,1313 2774,1313 2774,1312 2775,1312 2775,1311 2779,1311"/></GraphicRegion>
+	<TextRegion id="r7473" type="heading">
+	<Coords points="2426,1367 2590,1363 2926,1365 3099,1369 3102,1401 3093,1405 3032,1404 3003,1413 3014,1454 2998,1453 2752,1459 2736,1463 2724,1467 2707,1462 2700,1459 2645,1459 2640,1465 2622,1463 2618,1459 2536,1459 2522,1414 2466,1406 2426,1408 2425,1395"/>
+	<TextEquiv>
+	<Unicode>Katolicka Agencja Prasowa
+też potępia ks. Tiso</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7524" type="paragraph">
+	<Coords points="3233,1485 3233,1519 3232,1528 3214,1536 3092,1533 3092,1534 3083,1534 3083,1535 2942,1535 2942,1539 2941,1539 2941,1540 2932,1540 2932,1541 2931,1541 2931,1540 2930,1540 2930,1539 2929,1539 2929,1536 2786,1536 2786,1537 2648,1537 2648,1541 2638,1541 2638,1540 2637,1540 2637,1537 2475,1537 2475,1538 2451,1538 2454,1563 2451,1570 2451,1572 2450,1571 2449,1571 2449,1572 2406,1579 2387,1573 2327,1577 2316,1561 2317,1538 2320,1512 2365,1511 2389,1517 2385,1480 2393,1472 2400,1475 2402,1476 2403,1477 2405,1481 2434,1476 2629,1477 2686,1483 2683,1472 2747,1469 2770,1469 2866,1470 2985,1466 3143,1466 3198,1464 3226,1465"/>
+	<TextEquiv>
+	<Unicode>Organ naszego Episkopatu — Katolicka A-
+gencja Prasowa pisze na temat premiera słowa-
+ckiego:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7624" type="paragraph">
+	<Coords points="2385,1615 2383,1607 2399,1581 3051,1579 3159,1577 3231,1581 3233,1692 3231,2118 3226,2128 3054,2128 2904,2133 2736,2134 2663,2135 2667,2165 2645,2162 2632,2167 2622,2165 2471,2164 2464,2170 2451,2164 2335,2165 2318,2167 2316,2110 2316,1761 2318,1679 2319,1627 2347,1612"/>
+	<TextEquiv>
+	<Unicode>„Zdumienie wreszcie wywołuje fakt, iż po-
+plecznikiem Niemców z pod znaku swastyki,
+podburzającym lud słowacki przeciw Polsce i
+Polakom jest kapłan katolicki. Fakt ten wywo-
+łuje liczne zapytania pod naszym adresem, co o
+tym sądzimy? Przecież ks. Tiso, zaślepiony w
+nienawiści do Polski i powolny rozkazom od-
+wiecznych nieprzyjaciół Słowiańszczyzny powi-
+nien by wiedzieć, iż wpuścił do swego kraju
+wrogów wiary katolickiej. Przecież już za jego
+własnych rządów niejednokrotnie zdarzały się
+w Słowacji profanacje przedmiotów kultu chrze-
+ścijańskiego. rzeczy dla katolików świętych oraz
+inne wystąpienia przeciw Kościołowi ze strony
+zwolenników ideologii nazistowskiej, przygoto-
+wujących grunt dla całkowitego ujarzmienia ka
+tolickiej Słowacji.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8407" type="paragraph">
+	<Coords points="2314,2211 2339,2198 2365,2201 2382,2201 2388,2196 2382,2175 2395,2167 2408,2166 2449,2167 2461,2183 2477,2168 2504,2169 2512,2166 2519,2170 2587,2172 2597,2167 2604,2167 2608,2173 2631,2174 2634,2168 2646,2166 2649,2173 2676,2163 3191,2154 3235,2167 3233,2742 3079,2749 2795,2752 2587,2755 2584,2790 2334,2792 2319,2791"/>
+	<TextEquiv>
+	<Unicode>Cóż odpowiedzieć możemy? Niestety, histo-
+ria zna wiele przykładów odstępstw, których do-
+puszczali się nawet kapłani. Zna wilków w ow-
+czych skórach i fałszywych proroków... Jeszcze
+jeden zwiększa ich grono, niepomny ostrzezeń
+Ojca św. ś. p. Piusa XI, który w encyklice o po-
+łożeniu Kościoła w Rzeszy Niemieckiej (Mit-
+brennender Sorge) dokładnie wyjaśni sto-
+sunek Kościoła do ideologii narodowo-socja-
+listycznej. Ks. Tiso mimo to oparł się właśnie
+na przyjaciołach pieczętujących się krzyżem,
+„który nie jest Krzyżem Chrystusowym"... Nie-
+wątpliwie polityka ks. Tiso znajdzie swoją wła-
+ściwą ocenę w świecie katolickim. A tymczasem
+możemy tylko, jako katolicy prosić Boga, by się
+ks. Tiso opamiętał i przestał być grabarzem wol
+ności własnego narodu i sprzymierzeńcem wro-
+gów Krzyża".</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r9239">
+	<Coords points="2771,2792 2785,2790 2798,2799 2798,2821 2785,2825 2784,2826 2777,2828 2763,2820 2761,2800"/></GraphicRegion>
+	<TextRegion id="r9243" type="heading">
+	<Coords points="2411,2868 2406,2844 2434,2841 2646,2846 2956,2841 2987,2839 3156,2839 3175,2841 3179,2978 3048,2980 3039,2987 3025,2991 3017,2988 3006,2980 2630,2985 2626,2995 2618,2996 2610,2994 2608,2985 2392,2987 2388,2950 2418,2921 2411,2909 2408,2893"/>
+	<TextEquiv>
+	<Unicode>Nimieckie wojska w Słowacji
+a nasze położenie strategiczne</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9308" type="paragraph">
+	<Coords points="2395,3034 2391,3005 2412,3003 2997,2998 3014,2996 3028,3000 3037,2997 3118,2995 3146,2999 3176,2993 3184,2999 3238,2998 3240,3170 3213,3178 3131,3179 3069,3181 3068,3211 3047,3212 3036,3209 3002,3210 2906,3214 2896,3209 2877,3214 2635,3211 2630,3215 2620,3213 2464,3215 2459,3218 2454,3214 2385,3214 2327,3220 2323,3205 2321,3058 2322,3050"/>
+	<TextEquiv>
+	<Unicode>Na łamach „Kuriera Warszawskiego" pisze
+wybitny znawca zagadnień wojskowych major
+Żurawski na temat stanowiska Słowacji wo-
+bec Polski i twierdzi, że zajęcie Słowacji przez
+wojska niemieckie ma większe znaczenie jako
+posunięcie taktyczne niż strategiczne.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9577" type="paragraph">
+	<Coords points="2348,3263 2393,3256 2392,3222 2397,3215 2430,3219 2449,3226 2460,3220 2469,3217 2479,3223 2505,3222 2546,3220 2576,3220 2627,3216 2633,3218 2776,3222 2783,3215 2789,3216 2792,3222 2808,3223 2887,3221 2891,3215 2897,3213 2900,3221 3000,3218 3009,3213 3031,3213 3041,3214 3064,3216 3073,3212 3078,3217 3083,3218 3120,3225 3157,3205 3240,3211 3240,3634 3235,3640 3091,3639 3079,3640 3080,3644 3080,3675 3029,3678 2964,3678 2958,3672 2950,3676 2840,3674 2835,3679 2821,3674 2732,3675 2530,3676 2516,3677 2443,3676 2435,3676 2416,3679 2396,3680 2363,3682 2327,3680 2324,3669 2325,3260"/>
+	<TextEquiv>
+	<Unicode>Linię graniczną stanowi grzbiet górski
+o wysokościach dochodzących w Tatrach wyso-
+kich do 2500 m., zaś w Karpatach — do 1300 m.
+Dogodne przejścia przez tę linię graniczną
+znajdują się na niewielu przełęczach, z których
+poważne znaczenie komunikacyjne posiadają
+tylko dwie. Jest to w zachodniej części granicy
+polsko-słowackiej przełęcz Jabłonków, na wy-
+sokości 550 m, leżąca na drodze z południa do
+Krakowa. Drugie dogodne przejście o znacze-
+niu komunikacyjnym prowadzi przez przełęcz
+Dukla na wysokości 502 m., przy czym szlak
+wyprowadza do środkowej Małopolski.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10172" type="paragraph">
+	<Coords points="2389,3726 2392,3726 2395,3722 2393,3709 2395,3681 2511,3679 2677,3679 2703,3685 2741,3685 2741,3678 2752,3678 2754,3685 2811,3685 2940,3682 2949,3682 2955,3675 2962,3682 2964,3687 3110,3681 3126,3675 3164,3673 3243,3677 3243,4174 2347,4177 2329,4174 2325,3721"/>
+	<TextEquiv>
+	<Unicode>Z punktu widzenia operacyjnego użytecz-
+ną dla ewentualnego natarcia od południa na
+granice Polski jest tylko przełęcz Jabłonków.
+Ponieważ tylko w tej części pogranicza budo-
+wa i charakter terenu pozwala ją na skoncentro
+wanie części znacznych sił na południe od niej.
+Natomiast kięrunek ewentualnego natarcia le-
+żałby z konieczności w bezpośrednim sąsiedz-
+twie właściwej granicy polsko-niemieckiej, tak,
+że nie można uważać jego za strategiczne
+okrążenie polskiego ugrupowania. Co się ty-
+czy przełęczy Dukla, to charakter terenu, będą-
+cego jej zapleczem od południa, uniemożliwia
+skoncentrowanie takiej ilości sił, aby wyszło</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10833" type="paragraph">
+	<Coords points="3279,413 4088,409 4186,413 4189,551 4107,555 3800,554 3523,558 3466,553 3474,588 3466,589 3438,588 3367,588 3345,589 3335,572 3317,593 3311,594 3276,594 3273,572 3276,427"/>
+	<TextEquiv>
+	<Unicode>w tym kierunku działanie zaczepne o charak-
+terze poważnej operacji. Poza tym wszystkie
+przełęcze mają bardzo dogodne warunki natu-
+ralne dla zorganizowania ich obrony od stro-
+ny Polski.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11033" type="paragraph">
+	<Coords points="3349,638 3344,596 3348,591 3988,591 3996,589 4190,591 4197,1261 4159,1271 4016,1266 3948,1267 3962,1300 3929,1301 3872,1300 3861,1297 3851,1299 3825,1301 3816,1278 3809,1286 3798,1299 3277,1301 3277,643 3275,627 3309,629"/>
+	<TextEquiv>
+	<Unicode>Układ sieci komunikacyjnej na Słowaczyź-
+nie jest tego rodzaju, że główna jej arteria
+z zachodu na wschód biegnie doliną wschodniej
+części Wagu. Wag tworzy wąski przełom o bar-
+dzo wysokich i stromych zboczach, którym
+biegną na znacznej długości linia kolejowa
+i dobra szosa samochodowa, często się krzy-
+żując. Obie te arterie ciągną się równolegie
+do granicy polskiej oddalone od niej na znacz-
+nej długości o zaledwie kilkanaście kilometrów.
+Polska ma duża możność przerwania, a w ka-
+żdym razie utrudnienia komunikacji na tych
+arteriach ogniem swych dział i karabinów ma-
+szynowych, z brzegu panującego nad doliną
+Wagu z dużej wysokości. Zabezpieczenie sobie
+swobody ruchów na tej linii komunikacyjnej
+ze strony wojsk niemieckich, czy też słowa-
+ckich wymagać będzie przeprowadzenia opera-
+cji w terenie wysokogórskim, zawsze trudniej-
+szym dla natarcia niż dla obrony.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12511" type="paragraph">
+	<Coords points="3354,1786 3343,1761 4093,1763 4192,1768 4194,1870 4108,1877 3880,1871 3778,1871 3698,1874 3485,1873 3471,1872 3456,1891 3414,1906 3272,1902 3273,1802 3281,1794 3323,1795 3361,1803"/>
+	<TextEquiv>
+	<Unicode>Wszystkie te momenty powodują, że nie na-
+leży przeceniać znaczenia strategicznego nie-
+podległej Słowacji i opanowania jej przez
+Niemcy.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12673" type="heading">
+	<Coords points="3408,1931 4064,1938 4067,1969 4066,1976 4048,1978 3928,1976 3926,2031 3897,2033 3551,2026 3538,2014 3531,1979 3428,1977 3410,1971 3404,1962"/>
+	<TextEquiv>
+	<Unicode>Nie brak i takich Niemców.
+którzy krzyczą:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12720" type="heading">
+	<Coords points="3402,2089 3390,2063 3407,2048 3429,2045 3686,2050 4108,2048 4113,2085 4114,2103 4087,2096 4062,2122 4030,2128 3709,2133 3587,2125 3362,2132 3357,2120 3359,2088"/>
+	<TextEquiv>
+	<Unicode>„niech żyje Polska"</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12743" type="paragraph">
+	<Coords points="3345,2190 3347,2173 3346,2146 3370,2148 4194,2153 4196,2254 4194,2298 4075,2293 4058,2270 4053,2299 4018,2298 3975,2299 3927,2299 3821,2292 3794,2296 3785,2294 3782,2291 3771,2305 3764,2295 3764,2289 3693,2290 3465,2290 3386,2292 3333,2292 3299,2293 3278,2294 3281,2229 3283,2182"/>
+	<TextEquiv>
+	<Unicode>Rolnicy, zamieszkali we wsi Sumówko pow.
+brodnickiego, obywatele polscy narodowości
+niemieckiej, jednomyślnie uchwalili na spe-
+cjalnym zebraniu rezolucję następującej treści:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12927" type="paragraph">
+	<Coords points="3324,2328 3350,2325 3349,2294 3757,2296 3767,2328 3782,2305 3811,2300 3820,2295 3825,2295 3888,2298 3923,2312 3937,2317 3945,2309 3968,2302 4060,2305 4066,2304 4070,2296 4104,2299 4145,2299 4200,2304 4198,2456 4195,2551 4164,2553 3640,2543 3593,2542 3578,2546 3582,2575 3568,2574 3566,2578 3553,2577 3547,2576 3453,2575 3426,2577 3404,2574 3394,2578 3385,2577 3380,2574 3338,2573 3324,2580 3276,2571 3273,2514 3277,2340"/>
+	<TextEquiv>
+	<Unicode>„My, niżej podpisani rolnicy gromady Su-
+mówko, narodowości niemieckiej, w sposób
+stanowczy i niedwuznaczny podkreślamy swoją
+lojalność w stosunku do Państwa Polskiego,
+które uważamy za swoja Ojczyznę, gotowi bro-
+nić całości jej granic i ponieść wszelkie ofia-
+ry mienia i krwi w obronie niepodległości Oj-
+czyzny polskiej.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13268" type="paragraph">
+	<Coords points="3338,2616 3346,2578 3353,2577 3426,2583 3447,2577 3450,2583 3525,2585 3553,2580 3571,2580 3580,2582 3606,2576 3915,2579 4193,2587 4197,2693 4171,2695 3944,2690 3684,2689 3469,2687 3404,2683 3414,2714 3402,2718 3341,2716 3280,2722 3279,2716 3277,2703 3278,2623"/>
+	<TextEquiv>
+	<Unicode>Prosimy władze polskie przyjąć nasze szcze-
+re wyznanie lojalności do łaskawej wiadomości,
+a gotowość naszą wykorzystać do ostatnich
+granic.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13417" type="paragraph">
+	<Coords points="3355,2748 3351,2721 4197,2722 4198,2937 4152,2942 4050,2941 3925,2942 3916,2963 3907,2969 3894,2974 3876,2969 3852,2968 3754,2969 3709,2970 3690,2967 3659,2974 3649,2969 3572,2968 3557,2938 3542,2968 3382,2969 3364,2963 3352,2967 3315,2969 3285,2966 3281,2852 3285,2775 3286,2757"/>
+	<TextEquiv>
+	<Unicode>Wszystkich obywateli narodowości niemie-
+ckiej, w sposób stanowczy i niedwuznaczny
+podkreślamy swoją lojalność w stosunku do
+Państwa Polskiego, które uważamy za swoją
+Ojczyznę, gotowi bronić całości jej granic i po-
+nieść wszelkie ofiary mienia i krwi w obronie
+niepodległości Ojczyzny polskiej.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13727" type="paragraph">
+	<Coords points="3347,3011 3351,2974 3353,2969 3373,2969 3384,2974 3442,2972 3557,2973 3564,2970 3648,2974 3661,2986 3683,2972 3703,2980 3716,2972 3876,2973 3891,2980 3907,2974 3914,2969 3967,2971 4191,2981 4200,3004 4196,3082 4128,3085 3562,3081 3475,3078 3413,3081 3414,3111 3282,3112 3284,3017 3288,3010"/>
+	<TextEquiv>
+	<Unicode>Prosimy władze polskie przyjąć nasze szcze
+re wyznanie lojalności do łaskawej wiadomo-
+ści, a gotowość naszą wykorzystać do ostatnich
+granic.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13877" type="paragraph">
+	<Coords points="3356,3150 3355,3116 4193,3116 4192,3328 4184,3337 3969,3334 3873,3335 3870,3364 3636,3366 3628,3367 3436,3368 3284,3366 3281,3189 3282,3161 3304,3147"/>
+	<TextEquiv>
+	<Unicode>Wszystkich obywateli narodowości niemie-
+ckiej, zamieszkałych w Polsce, wzywamy do
+walki z zachłannością hitlerowską, a braci na-
+szych, zamieszkujących Rzeszę Niemiecką,
+wzywamy do przeciwstawienia sie klice, rzą-
+dzącej Rzeszą, dążącej do wywołania pożogi
+wojennej. „Niech żyje Polska"!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14180" type="heading">
+	<Coords points="3288,3415 3599,3415 3599,3457 3288,3457"/>
+	<TextEquiv>
+	<Unicode>Łódź pracuje</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14195" type="paragraph">
+	<Coords points="3458,3497 3792,3496 4036,3501 4038,3531 4036,3568 3676,3562 3663,3571 3652,3569 3644,3561 3457,3558 3451,3530"/>
+	<TextEquiv>
+	<Unicode>Dwa wspaniałe dworce</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14624" type="paragraph">
+	<Coords points="3308,3917 3352,3930 3357,3892 3503,3892 3531,3903 3538,3892 3686,3892 3689,3898 3726,3900 3753,3894 3770,3890 4203,3893 4209,3963 4209,4139 4033,4142 3812,4146 3773,4140 3686,4144 3694,4168 3290,4172 3285,4150 3286,3936 3293,3928"/>
+	<TextEquiv>
+	<Unicode>Będzie to wielki gmach, który składać się bę-
+dzie z dwóch części: dworca odjazdowego i przy-
+jazdowego. Dworzec odjazdowy składać się będzie
+z wielkiej hali dla pasażerów, z halami, bufetami,
+zakładem fryzjerskim itp. Dworzec przyjazdowy
+mieć będzie salę recepcyjną, na wypadek przy-
+jazdu gości, oraz dużą salę dla podróżnych przy-
+bywających do Łodzi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14997" type="heading">
+	<Coords points="466,4259 500,4261 553,4258 902,4254 1115,4251 1164,4255 1168,4272 1171,4282 1165,4290 1140,4293 1106,4290 1007,4296 461,4297 460,4268"/>
+	<TextEquiv>
+	<Unicode>Janina Stefanowa Zakrzewska</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15041" type="heading">
+	<Coords points="459,4570 520,4570 520,4610 459,4610"/>
+	<TextEquiv>
+	<Unicode>(76)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15049" type="paragraph">
+	<Coords points="1283,4560 1465,4560 1465,4595 1283,4595"/>
+	<TextEquiv>
+	<Unicode>Powieść</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15060" type="paragraph">
+	<Coords points="543,4678 547,4636 1088,4635 1104,4631 1343,4633 1358,4636 1360,4797 1357,4800 1350,4807 1210,4810 947,4813 803,4809 720,4810 721,4849 561,4851 465,4848 458,4842 457,4719 459,4687"/>
+	<TextEquiv>
+	<Unicode>Ze spuszczoną głową poszedł do swoich
+apartamentów, poddał się biernie zabiegom
+służącego, który zdejmował zeń przejęte wilgo-
+cią, ubranie, obuwie, podawał mu zwykłą do
+mową odzież.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15256" type="paragraph">
+	<Coords points="520,4896 555,4894 549,4854 792,4851 829,4849 856,4852 965,4850 997,4848 1150,4847 1313,4847 1338,4845 1362,4849 1363,4872 1358,4977 1298,4977 1217,4972 1165,4974 1154,4985 1154,5011 1126,5014 1000,5016 983,5022 976,5020 970,5016 913,5017 896,5024 888,5017 712,5019 697,5026 688,5025 680,5020 459,5019 458,4962 461,4903"/>
+	<TextEquiv>
+	<Unicode>Od chwili, gdy go Marta tak brutalnie
+Odrzuciła, nie nakładał już wieczorowego ubra-
+nia do obiadu,... poco? Jadał sam, na małym
+stoiku w gabinecie, jak pustelnik.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15426" type="paragraph">
+	<Coords points="550,5070 548,5040 548,5030 553,5023 581,5024 584,5028 617,5028 621,5023 632,5027 662,5024 681,5023 692,5031 694,5040 716,5026 807,5025 816,5020 833,5025 845,5025 859,5022 869,5025 929,5027 940,5021 967,5022 994,5026 1013,5022 1019,5020 1026,5022 1029,5026 1134,5031 1144,5020 1214,5030 1231,5025 1364,5026 1361,5144 1263,5147 1156,5151 1152,5159 1166,5179 1154,5184 972,5183 967,5191 954,5192 939,5190 932,5187 738,5187 738,5192 727,5190 640,5188 637,5193 631,5196 624,5188 612,5189 602,5192 598,5188 575,5188 572,5194 547,5196 545,5187 515,5197 461,5196 458,5138 458,5091 459,5077"/>
+	<TextEquiv>
+	<Unicode>Zasiadł przy dużym biurku — tym samym
+przy którym w ostatnich latach żyda tyle czasu
+spędził jego ojciec, podparł głowę na ręku i
+i pogrążył się w smutnej zadumie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15600" type="paragraph">
+	<Coords points="574,5236 557,5227 555,5217 541,5206 548,5197 556,5198 595,5193 623,5200 644,5193 676,5192 678,5203 710,5194 729,5201 774,5193 837,5190 890,5203 914,5189 922,5190 933,5200 1039,5192 1063,5191 1082,5188 1096,5199 1319,5186 1357,5190 1359,5241 1358,5268 1337,5273 1070,5279 1000,5282 1007,5301 1006,5317 988,5319 759,5316 752,5323 736,5324 721,5322 718,5315 545,5314 539,5315 532,5323 523,5326 516,5322 510,5320 502,5326 489,5321 466,5322 460,5314 460,5235 557,5243"/>
+	<TextEquiv>
+	<Unicode>Właściwie ukończył wszystkie sprawy, wią-
+żące go z Krasną Górą. W każdej chwili mógł
+wyjechać... wyjechać albo...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15721" type="TOC-entry">
+	<Coords points="560,5319 643,5331 671,5341 674,5349 673,5354 647,5361 553,5356 550,5351"/>
+	<TextEquiv>
+	<Unicode>Albo...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15734" type="paragraph">
+	<Coords points="1154,5354 1287,5357 1360,5357 1361,5375 1360,5393 1354,5394 1327,5402 1246,5399 1243,5402 1229,5402 1233,5394 1124,5396 1119,5394 1113,5395 1102,5396 1077,5402 1004,5408 904,5406 873,5401 717,5405 722,5427 723,5434 723,5441 698,5450 692,5450 684,5451 615,5444 573,5444 519,5443 506,5446 480,5454 464,5453 462,5423 463,5412 467,5404 516,5399 544,5367 560,5362 680,5365 696,5361 708,5363 806,5361 900,5359 904,5365 1080,5361 1120,5354"/>
+	<TextEquiv>
+	<Unicode>Znieruchomiał, tępym wzfokiem patrzył
+przed siebię...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15961" type="TOC-entry">
+	<Coords points="558,5633 617,5640 618,5619 664,5617 881,5615 1003,5606 1013,5617 1039,5626 1067,5620 1109,5616 1142,5622 1202,5626 1253,5617 1279,5627 1301,5644 1300,5654 1208,5658 1051,5657 1005,5659 825,5656 820,5662 806,5663 793,5654 775,5655 749,5654 741,5658 717,5654 634,5655 576,5651 550,5646 548,5642 550,5634"/>
+	<TextEquiv>
+	<Unicode>— Nie będę Jadł...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15988" type="paragraph">
+	<Coords points="554,5714 550,5661 736,5665 748,5670 763,5662 766,5672 777,5665 816,5675 833,5671 900,5660 950,5666 962,5661 973,5661 979,5665 1064,5661 1252,5660 1360,5661 1364,5708 1365,5749 1146,5754 943,5759 759,5755 647,5755 651,5783 650,5795 638,5797 467,5794 466,5733 468,5710"/>
+	<TextEquiv>
+	<Unicode>Wyszli cicho zabierając wszystko. Tylko
+stary Piotr ośmielił się ptółgłosem od progu
+odezwać;</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16096" type="paragraph">
+	<Coords points="1498,4636 1615,4633 1675,4633 1706,4638 1732,4633 2078,4633 2145,4636 2149,4661 2147,4671 1985,4671 1842,4673 1803,4675 1759,4675 1750,4678 1560,4678 1541,4677 1554,4658 1534,4666 1520,4666 1497,4669 1494,4654"/>
+	<TextEquiv>
+	<Unicode>— Jaśnie palnie, tak nie można.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16131" type="paragraph">
+	<Coords points="1509,4727 1501,4717 1500,4685 2217,4679 2298,4684 2300,4814 2165,4818 2094,4817 1799,4815 1672,4821 1680,4846 1668,4854 1412,4855 1409,4852 1406,4783 1406,4733 1409,4727"/>
+	<TextEquiv>
+	<Unicode>Urwał. spojrzawszy na twarz hrabiego.
+Wyszedł ostrożnie zamykając drzwi i ze spusz-
+czoną głową powlókł się do swojego pokoiku
+za kredensem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16280" type="paragraph">
+	<Coords points="1495,4858 2070,4858 2072,4892 1661,4899 1645,4901 1635,4899 1574,4895 1490,4894"/>
+	<TextEquiv>
+	<Unicode>Bolało go stare, wierne serce.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16313" type="paragraph">
+	<Coords points="1496,4898 1603,4901 1617,4909 1636,4916 1656,4903 1674,4904 1717,4900 1869,4898 1985,4900 1998,4899 2114,4894 2282,4892 2299,4898 2303,4906 2300,4935 2213,4936 2204,4938 2195,4936 2043,4936 2028,4943 2022,4940 2020,4936 1907,4938 1891,4943 1883,4938 1496,4942 1493,4908"/>
+	<TextEquiv>
+	<Unicode>Źle się działo w ordynackiej rodzinie, źle!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16361" type="paragraph">
+	<Coords points="1493,4978 1490,4945 1563,4944 1618,4946 1635,4944 1647,4948 1786,4944 1805,4943 1835,4943 1902,4946 1913,4942 1922,4947 1939,4946 1960,4942 1978,4948 2025,4951 2095,4949 2100,4940 2138,4940 2146,4948 2300,4944 2302,4968 2303,5019 2296,5024 2190,5029 2113,5026 2095,5069 2068,5069 1912,5068 1900,5071 1850,5068 1842,5069 1843,5058 1818,5063 1746,5064 1708,5062 1579,5065 1567,5070 1560,5066 1408,5071 1405,4998"/>
+	<TextEquiv>
+	<Unicode>Eryk nie pozwolił światła w gabinecie za-
+pałać, wolał siedzieć po ciemku. W pewnej chwi
+li dziwny blask uderzył jego oczy.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16491" type="paragraph">
+	<Coords points="1491,5071 1691,5071 1702,5068 1730,5072 1835,5074 1848,5071 1856,5072 1864,5074 1897,5092 1907,5072 1964,5072 1964,5104 1955,5105 1948,5106 1906,5110 1790,5107 1779,5111 1767,5107 1702,5105 1700,5110 1692,5114 1678,5114 1672,5106 1497,5105 1496,5106"/>
+	<TextEquiv>
+	<Unicode>Podniósł głowę. Co to?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16516" type="paragraph">
+	<Coords points="1490,5154 1488,5111 1668,5113 1687,5120 1711,5113 1840,5113 1885,5144 1896,5129 1900,5117 1948,5111 2071,5107 2300,5113 2305,5151 2300,5275 2298,5279 2104,5282 2009,5281 2019,5322 1805,5319 1796,5327 1788,5319 1771,5319 1759,5327 1754,5322 1735,5322 1718,5328 1715,5322 1408,5320 1402,5282 1406,5164 1412,5156"/>
+	<TextEquiv>
+	<Unicode>Przez niezasłonięte roletami okna wpa-
+dał jasny blask księżyca, który płytnął po sza-
+firowym niebie jak wielki srebrny korab. Drze
+wa i krzewy, a nawet jesieinne kwiaty na klom
+bach widoczne były jak w dzień.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16739" type="paragraph">
+	<Coords points="1487,5366 1494,5330 1503,5325 1557,5330 1566,5324 1578,5329 1633,5332 1648,5326 1656,5333 1709,5335 1743,5332 1771,5329 1782,5333 1791,5331 1803,5327 1821,5328 1861,5326 1964,5327 2028,5329 2081,5322 2290,5321 2294,5336 2296,5343 2299,5362 2027,5364 1920,5377 1901,5406 1893,5402 1872,5403 1744,5403 1746,5410 1738,5413 1728,5411 1725,5403 1558,5407 1409,5404 1403,5386 1405,5378 1433,5373"/>
+	<TextEquiv>
+	<Unicode>Eryk się zapatrzył, mimowoli z fotela
+wstał i do okna podszedł.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16810" type="paragraph">
+	<Coords points="1493,5449 1485,5410 1637,5410 1693,5413 1731,5419 1793,5414 1802,5414 1812,5407 1831,5414 1864,5415 1905,5414 1922,5407 1939,5412 1952,5409 1966,5411 2057,5408 2088,5408 2274,5405 2299,5409 2301,5475 2292,5496 1837,5496 1741,5494 1740,5532 1627,5534 1407,5534 1404,5451"/>
+	<TextEquiv>
+	<Unicode>Podniósł twarz ku miebu, miał wrażenie,
+że łagodne księżycowe światło głaszcze go ciep
+łem dotknięciem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16920" type="paragraph">
+	<Coords points="1498,5573 1484,5537 1631,5538 2254,5534 2296,5536 2300,5613 2266,5624 2003,5627 1602,5627 1603,5660 1590,5659 1497,5658 1493,5663 1481,5668 1475,5663 1474,5658 1422,5658 1402,5653 1404,5567"/>
+	<TextEquiv>
+	<Unicode>Odruchowo. besanyslnie zwrócił się ku
+drzwiom, minął puste milczące pokoje, wyszedł
+do parku.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17019" type="paragraph">
+	<Coords points="1463,5722 1468,5704 1493,5666 1553,5664 2303,5661 2303,5737 2303,5735 2297,5740 2098,5748 2110,5789 2100,5789 2048,5793 1400,5791 1395,5757 1403,5737 1405,5718"/>
+	<TextEquiv>
+	<Unicode>Owionęło go czyste, wieczorne powietraei
+— tak był zdrętwiały — że nie czuł nawet chło-
+du — szedł przed siebie jak lunatyk.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17200" type="paragraph">
+	<Coords points="2425,4398 2431,4350 2753,4347 3036,4345 3171,4343 3240,4348 3242,4374 3241,4449 3237,4492 3048,4499 3040,4512 3030,4513 3012,4521 3003,4520 2983,4511 2968,4514 2955,4521 2947,4522 2937,4521 2914,4514 2864,4513 2862,4518 2855,4522 2846,4513 2730,4515 2716,4522 2711,4515 2606,4516 2595,4521 2587,4516 2442,4518 2428,4521 2424,4524 2418,4519 2348,4521 2344,4505 2343,4429 2343,4393"/>
+	<TextEquiv>
+	<Unicode>I nagle drgnął. Zaszedł do tej części par-
+ku, którą od lat przeszło dwóch najstaranniej
+omijał... Zaszedł do stóp pagórka, na którego
+szczycie stały ruiny starej kaplicy.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17382" type="paragraph">
+	<Coords points="2427,4566 2433,4522 2785,4525 2823,4524 2828,4520 2842,4519 2848,4529 2870,4518 2914,4519 2944,4528 2969,4519 2990,4519 3012,4529 3022,4519 3237,4519 3242,4598 3043,4600 2979,4598 2981,4606 2998,4640 2878,4646 2876,4649 2866,4649 2857,4645 2623,4644 2606,4651 2601,4646 2575,4642 2564,4648 2548,4642 2462,4641 2459,4648 2442,4649 2435,4638 2410,4647 2349,4649 2347,4635 2344,4580 2346,4574"/>
+	<TextEquiv>
+	<Unicode>Drgnął jeszcze mocniej, zatrzymał się —
+a potem tym samym lunatycznym krokiem za-
+czął po krętej ścieżce wstępować.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17504" type="paragraph">
+	<Coords points="2405,4691 2430,4696 2426,4651 2590,4649 2610,4659 2622,4649 2863,4650 2876,4656 2886,4649 3238,4648 3241,4679 3238,4720 3238,4734 3141,4726 3089,4741 3081,4730 2906,4735 2847,4731 2668,4735 2608,4728 2548,4735 2548,4747 2551,4761 2550,4773 2348,4773 2343,4709 2349,4690"/>
+	<TextEquiv>
+	<Unicode>Szczątki starych murów błyszczały przed
+nim jak srebrne, luki między nimi wydawały
+się czarne.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17605" type="paragraph">
+	<Coords points="2422,4818 2436,4777 3237,4777 3240,4857 3214,4858 3209,4861 3204,4856 3157,4856 3154,4863 3144,4862 3138,4853 3011,4853 3002,4858 2988,4853 2560,4853 2557,4860 2545,4862 2536,4853 2507,4854 2498,4863 2487,4861 2481,4854 2422,4856 2347,4863 2345,4820 2355,4813 2392,4814"/>
+	<TextEquiv>
+	<Unicode>Doszedł do szczytu i tak samo sztywno,
+Jak nieprzytomnie wszedł do wnętrza kaplicy.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17693" type="paragraph">
+	<Coords points="2436,4899 2427,4862 2480,4862 2494,4868 2510,4862 2540,4865 2579,4861 3034,4860 3051,4860 3138,4862 3157,4875 3164,4862 3200,4862 3214,4868 3219,4862 3239,4862 3242,4899 2873,4901 2816,4897 2819,4937 2816,4940 2808,4942 2778,4940 2742,4937 2740,4944 2734,4944 2352,4943 2349,4918 2350,4901 2438,4901"/>
+	<TextEquiv>
+	<Unicode>Spojrzał przed siebie... zachwiał się... bez
+władnie na ziemię opadł.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17767" type="paragraph">
+	<Coords points="2426,4982 2427,4958 2437,4947 2779,4947 2793,4945 2804,4947 2824,4950 2866,4945 3117,4943 3236,4947 3240,4986 3045,4989 2831,4988 2651,4993 2528,4991 2481,4987 2442,4984 2458,5021 2436,5023 2415,5038 2404,5033 2400,5028 2351,5032 2348,5008 2349,4990"/>
+	<TextEquiv>
+	<Unicode>Zimny pot go oblał... chdał krzyczeć..., nie
+mógł.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17823" type="paragraph">
+	<Coords points="2413,5076 2459,5069 2445,5061 2433,5042 2435,5033 2444,5027 3240,5030 3242,5073 3052,5072 2881,5076 2818,5075 2704,5074 2707,5110 2356,5112 2348,5095 2350,5068 2374,5069 2394,5073"/>
+	<TextEquiv>
+	<Unicode>W jasnej księżycowej poświacie stał przed
+flim duch Alfreda.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17889" type="paragraph">
+	<Coords points="2435,5154 2426,5116 2965,5114 3239,5114 3238,5281 3111,5289 3082,5278 3051,5279 3061,5294 3078,5321 2930,5322 2917,5331 2911,5327 2909,5322 2827,5323 2815,5329 2808,5323 2684,5325 2672,5329 2651,5325 2561,5325 2558,5320 2544,5330 2530,5320 2522,5321 2374,5324 2365,5330 2344,5331 2346,5217 2344,5168 2364,5164"/>
+	<TextEquiv>
+	<Unicode>Stał nieruchomy, z twarzą ku księżycowi
+wzniesioną, ciemne włosy, jak za życia, gładko
+do czaszki przylegały — cała postać wysoka,
+ciemna, rozpływała się w mroku, rzuconym
+przez mury, ale głowa była wyraźna!...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18160" type="paragraph">
+	<Coords points="2457,5423 2496,5409 2856,5409 2957,5411 2957,5455 2935,5455 2912,5448 2832,5445 2687,5450 2546,5448 2509,5445 2432,5440 2429,5433 2435,5428"/>
+	<TextEquiv>
+	<Unicode>— Alfredzie.... Alfredzie....</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18192" type="paragraph">
+	<Coords points="2416,5492 2430,5460 2444,5453 2670,5453 2799,5460 2815,5451 2822,5462 2892,5461 2891,5453 2901,5451 2911,5453 2912,5460 2963,5462 3002,5453 3233,5456 3236,5469 3234,5487 3224,5502 3064,5499 2863,5500 2851,5535 2833,5533 2684,5532 2665,5540 2644,5537 2641,5531 2620,5533 2606,5531 2592,5542 2577,5531 2447,5539 2440,5543 2433,5540 2348,5536 2344,5515 2344,5508 2393,5493"/>
+	<TextEquiv>
+	<Unicode>Odpowiedział mu łagodny, dobrze znany
+ach jak znany! głos brata:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18264" type="paragraph">
+	<Coords points="2439,5553 2495,5554 2499,5540 2529,5538 2584,5550 2629,5538 2643,5547 2645,5542 2650,5539 2657,5542 2678,5547 2697,5539 2774,5537 2810,5537 2819,5540 2820,5556 2819,5573 2433,5573 2424,5563"/>
+	<TextEquiv>
+	<Unicode>— Kto mnie woła?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18284" type="paragraph">
+	<Coords points="2429,5616 2428,5579 2903,5580 2937,5575 2972,5582 3007,5582 3037,5573 3064,5582 3189,5578 3232,5581 3237,5621 3012,5626 2964,5622 2912,5615 2903,5632 2910,5662 2806,5657 2644,5663 2638,5666 2632,5662 2532,5659 2517,5659 2494,5667 2347,5667 2345,5638 2346,5629 2413,5628"/>
+	<TextEquiv>
+	<Unicode>Erykowi się zdawało że śni... jak we śnie
+Wyciągnął ku zjawie ramiona.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18359" type="paragraph">
+	<Coords points="2478,5675 2506,5674 2515,5662 2525,5674 2532,5664 2610,5664 2627,5669 2640,5668 2648,5673 2801,5664 2807,5666 2893,5665 2895,5700 2856,5701 2772,5701 2750,5703 2731,5710 2719,5707 2715,5702 2705,5705 2477,5698 2429,5695 2428,5686 2432,5679"/>
+	<TextEquiv>
+	<Unicode>— Alfredzie... przebacz!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18387" type="paragraph">
+	<Coords points="2427,5748 2421,5712 2448,5704 2474,5710 2485,5703 2491,5710 2591,5708 2707,5709 2720,5710 2730,5716 2749,5712 2792,5712 2801,5708 2807,5712 2836,5712 2992,5707 3180,5705 3233,5708 3239,5744 3221,5755 3215,5754 3209,5751 3046,5755 2991,5748 2713,5744 2505,5756 2438,5745 2442,5790 2346,5792 2346,5749"/>
+	<TextEquiv>
+	<Unicode>Odpowiedział mu ten sam cichy łagodny
+głos:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18446" type="paragraph">
+	<Coords points="3431,4266 3448,4256 4032,4252 4040,4257 4043,4284 4040,4298 3442,4296 3423,4286 3413,4294 3375,4290 3368,4281 3379,4271"/>
+	<TextEquiv>
+	<Unicode>— Nie mam ci nic do wybaczenia</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18480" type="paragraph">
+	<Coords points="3433,4315 3449,4303 3630,4300 3638,4301 4006,4302 4011,4337 3974,4340 3959,4341 3846,4341 3645,4340 3626,4336 3617,4342 3604,4344 3595,4340 3585,4339 3471,4340 3450,4344 3442,4339 3384,4338 3378,4335 3372,4325 3380,4315"/>
+	<TextEquiv>
+	<Unicode>— Jakto? zginąłeś z mojej winy...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18515" type="paragraph">
+	<Coords points="3434,4352 3444,4346 3582,4346 3602,4351 3615,4347 3624,4344 3831,4346 3839,4344 3913,4347 3926,4344 3932,4344 3938,4347 4046,4349 4041,4360 4044,4374 4040,4378 4007,4377 3995,4385 3990,4381 3985,4376 3970,4378 3952,4378 3952,4386 3942,4385 3931,4379 3801,4381 3787,4393 3775,4378 3745,4379 3740,4382 3731,4387 3689,4380 3568,4386 3557,4390 3542,4387 3453,4382 3415,4375 3376,4378 3371,4365 3372,4358 3428,4358"/>
+	<TextEquiv>
+	<Unicode>— Nie zginąłem... ja jestem żywy...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18732" type="paragraph">
+	<Coords points="3371,4556 3418,4558 3422,4565 3441,4566 3470,4556 3655,4557 3674,4576 3704,4557 3731,4559 3750,4568 3776,4559 3795,4559 3809,4554 3828,4559 3909,4558 3909,4600 3614,4593 3607,4601 3588,4596 3588,4592 3520,4593 3518,4600 3504,4600 3416,4597 3413,4602 3400,4602 3374,4600 3368,4583"/>
+	<TextEquiv>
+	<Unicode>Zjawa pochyliła się nad nim.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18763" type="paragraph">
+	<Coords points="3389,4616 3443,4614 3442,4601 3475,4602 3477,4611 3505,4610 3505,4604 3523,4602 3536,4609 3585,4608 3589,4600 3600,4603 3601,4608 3663,4604 3672,4599 3682,4604 3727,4604 3727,4643 3404,4632 3374,4632 3373,4626"/>
+	<TextEquiv>
+	<Unicode>— Eryku bracie...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18782" type="paragraph">
+	<Coords points="3372,4693 3367,4681 3366,4640 3412,4642 3474,4646 3488,4652 3506,4649 3556,4645 4178,4642 4178,4763 3442,4763 3398,4727 3411,4763 3405,4767 3292,4767 3280,4764 3283,4753 3289,4693"/>
+	<TextEquiv>
+	<Unicode>Silne ramiona dźwignęły bezwładną postać,
+przytuliły do siebie gorącym braterskim uści-
+skiem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18883" type="paragraph">
+	<Coords points="3377,4811 3371,4805 3375,4772 4195,4772 4195,4898 3546,4896 3540,4901 3530,4896 3521,4896 3519,4903 3506,4896 3290,4898 3285,4883 3285,4811"/>
+	<TextEquiv>
+	<Unicode>Eryk nie zemdlał, ale był nieprzytomny.
+Dopiero po długiej chwili o tyle przyszedł do
+siebie, że wyjąkał:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19000" type="paragraph">
+	<Coords points="3435,4918 3445,4902 3586,4907 3586,4950 3508,4947 3501,4949 3473,4951 3466,4948 3464,4944 3365,4939 3375,4917"/>
+	<TextEquiv>
+	<Unicode>— Żyjesz...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19013" type="paragraph">
+	<Coords points="3372,4951 3451,4948 3477,4954 3499,4953 3550,4951 3554,4976 3552,4983 3547,4984 3516,4991 3472,4994 3405,4979 3364,4982 3368,4971 3375,4966 3430,4960"/>
+	<TextEquiv>
+	<Unicode>— Żyję...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19023" type="paragraph">
+	<Coords points="3373,5017 3366,5003 3363,4995 3395,4994 3445,4994 3457,5000 3495,5004 3495,4997 3522,4995 3528,4992 3540,4990 3878,4992 3893,4985 3900,4992 4070,4987 4153,4990 4176,4994 4180,4999 4176,5117 3442,5112 3438,5119 3423,5117 3417,5110 3360,5114 3290,5117 3285,5085 3284,5052 3301,5045 3371,5030"/>
+	<TextEquiv>
+	<Unicode>Głowa Eryka opadła na piersi. Ogarnęło
+go tak szalone uczucie ulgi, że zesłabł jeszcze
+bardziej i zwisł w braterskich ramionach.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19159" type="paragraph">
+	<Coords points="3374,5120 3428,5120 3460,5127 3450,5120 4052,5120 4052,5160 3995,5155 3860,5155 3852,5166 3838,5162 3834,5155 3761,5156 3752,5162 3742,5164 3730,5157 3620,5159 3614,5164 3603,5164 3594,5159 3568,5155 3516,5153 3507,5158 3369,5154 3369,5137"/>
+	<TextEquiv>
+	<Unicode>Ałfred to spostrzegł i powiedział:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19196" type="paragraph">
+	<Coords points="3383,5173 3443,5161 3585,5164 3623,5174 3628,5168 3651,5162 3716,5165 3722,5161 3733,5164 3737,5168 3849,5170 3867,5162 3879,5167 3984,5163 3986,5169 3993,5170 4033,5173 4111,5163 4140,5156 4175,5162 4180,5177 4177,5204 4075,5207 3962,5199 3584,5205 3490,5199 3523,5233 3513,5243 3486,5244 3369,5242 3321,5251 3286,5246 3281,5217 3343,5202 3438,5192 3361,5189 3372,5176"/>
+	<TextEquiv>
+	<Unicode>— Chodźmy do domu... tam ci wszystka
+wytłumaczę.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19249" type="paragraph">
+	<Coords points="3361,5288 3369,5247 4173,5247 4176,5319 4176,5327 4027,5333 3843,5334 3737,5332 3722,5366 3702,5368 3678,5368 3613,5366 3610,5371 3597,5374 3594,5366 3559,5365 3553,5377 3539,5375 3529,5364 3516,5372 3387,5369 3357,5367 3307,5378 3287,5375 3285,5353 3284,5310 3285,5299 3297,5297"/>
+	<TextEquiv>
+	<Unicode>Ruszyli. Krzepkie ramię Alfreda podtrzy.
+mywało bezsilną, bezwładną postać Eryka, któ
+ry wlókł się przy nim.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19364" type="paragraph">
+	<Coords points="3368,5375 3530,5375 3558,5385 3562,5375 3581,5375 3593,5383 3601,5375 4135,5373 4172,5375 4175,5408 4172,5418 4147,5414 4126,5420 4114,5420 4095,5415 3860,5416 3852,5424 3844,5417 3841,5406 3826,5412 3711,5408 3705,5421 3690,5416 3688,5408 3609,5410 3459,5407 3436,5420 3372,5411 3369,5406 3364,5397"/>
+	<TextEquiv>
+	<Unicode>Gdy dochodzili do pałacu, porwał się nagle.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19410" type="paragraph">
+	<Coords points="3459,5414 3673,5413 3708,5426 3715,5413 3840,5415 3830,5431 3856,5434 3875,5418 4096,5418 4117,5424 4125,5427 4127,5457 4117,5459 3912,5458 3899,5466 3890,5460 3887,5454 3727,5454 3707,5465 3697,5459 3693,5454 3669,5453 3439,5453 3379,5448 3368,5442 3369,5436 3390,5432 3418,5430 3443,5436 3448,5416"/>
+	<TextEquiv>
+	<Unicode>— Zawołać wszystkich... powiedzieć...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19450" type="paragraph">
+	<Coords points="3354,5492 3353,5462 3693,5458 3690,5467 3712,5470 3729,5458 3885,5460 3884,5470 3905,5472 3941,5463 4170,5462 4175,5491 4160,5502 3880,5510 3534,5505 3348,5508 3349,5543 3305,5547 3302,5551 3269,5549 3285,5519 3290,5509 3323,5504"/>
+	<TextEquiv>
+	<Unicode>Łagodna, ale stalowa ręka powstrzymywała
+go.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19493" type="paragraph">
+	<Coords points="3374,5585 3353,5565 3368,5549 3442,5543 3552,5541 3627,5546 3651,5542 3695,5546 4166,5546 4171,5584 4151,5586 4138,5585 4095,5585 4076,5584 4037,5589 4041,5626 3625,5625 3622,5635 3610,5631 3605,5624 3570,5622 3539,5624 3534,5631 3526,5624 3435,5623 3422,5633 3416,5625 3356,5622 3348,5628 3336,5639 3322,5628 3295,5628 3279,5615 3277,5595 3343,5583"/>
+	<TextEquiv>
+	<Unicode>— Czekaj, najpierw musimy pomówić...
+wejdźmy tak, aby nas nikt nie widział.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19572" type="paragraph">
+	<Coords points="3367,5630 3375,5634 3388,5630 3401,5630 3419,5639 3434,5628 3513,5628 3538,5648 3547,5663 3550,5628 3602,5628 3604,5636 3624,5640 3634,5631 4166,5631 4166,5721 3287,5721 3279,5686 3281,5675 3341,5669 3374,5673 3368,5664 3365,5652 3363,5648"/>
+	<TextEquiv>
+	<Unicode>Eryk się zdumiał, ale posłuchał. Bardzo
+wolno przychodził do przytomności.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19655" type="heading">
+	<Coords points="3516,5754 3538,5746 3929,5751 3930,5754 3936,5762 3930,5800 3877,5803 3662,5804 3516,5800 3513,5774"/>
+	<TextEquiv>
+	<Unicode>(Ciąg dalszy nastąpi)</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r19680">
+	<Coords points="946,1041 946,1051 928,1051 928,1052 775,1052 775,1042 928,1042 928,1041"/></SeparatorRegion>
+	<SeparatorRegion id="r19681">
+	<Coords points="3655,1905 3695,1901 3733,1901 3905,1906 3957,1909 3995,1907 3995,1914 3957,1917 3905,1919 3783,1919 3783,1918 3698,1921 3645,1918 3624,1917 3577,1916 3501,1914 3500,1909 3502,1902 3623,1903"/></SeparatorRegion>
+	<SeparatorRegion id="r19682">
+	<Coords points="775,2149 949,2150 949,2160 777,2160"/></SeparatorRegion>
+	<SeparatorRegion id="r19683">
+	<Coords points="885,3288 885,3289 957,3289 957,3300 930,3300 930,3299 885,3299 885,3298 786,3298 786,3288"/></SeparatorRegion>
+	<SeparatorRegion id="r19684">
+	<Coords points="3795,3371 3898,3375 3902,3382 3898,3390 3788,3392 3716,3393 3699,3394 3627,3387 3610,3385 3595,3388 3590,3382 3594,3375 3606,3376 3622,3377 3652,3372"/></SeparatorRegion>
+	<SeparatorRegion id="r19685">
+	<Coords points="3287,3467 3596,3467 3596,3482 3287,3482"/></SeparatorRegion>
+	<SeparatorRegion id="r19686">
+	<Coords points="2693,4191 3681,4191 3996,4194 4006,4193 4201,4195 4203,4205 4201,4211 4006,4209 3681,4207 2693,4207 2693,4209 2505,4209 2505,4210 2353,4210 1378,4214 801,4217 441,4218 441,4202 801,4199 1378,4196 2353,4195 2505,4193"/></SeparatorRegion>
+	<SeparatorRegion id="r19687">
+	<Coords points="2921,4214 3101,4214 3708,4215 3838,4217 4103,4218 4203,4218 4200,4224 4188,4225 4103,4222 3838,4221 3708,4221 3305,4219 3101,4218 2847,4218 2645,4221 2564,4221 2420,4223 2335,4224 2091,4226 2091,4227 1274,4228 814,4230 673,4230 442,4231 441,4223 656,4224 1106,4224 1274,4223 1337,4221 2091,4221 2091,4220 2335,4219 2420,4218 2564,4217 2645,4215"/></SeparatorRegion>
+	<SeparatorRegion id="r19691">
+	<Coords points="2302,755 2301,1119 2302,1270 2301,1288 2302,1301 2303,1310 2303,1337 2302,1377 2301,2202 2302,2206 2302,2268 2301,2268 2304,2463 2304,2495 2306,2720 2297,2720 2293,2463 2294,2268 2295,2268 2295,2232 2294,2232 2294,2206 2293,2202 2293,1119 2294,755"/></SeparatorRegion>
+	<SeparatorRegion id="r19692">
+	<Coords points="2309,2727 2309,3504 2310,3617 2311,3776 2312,3837 2313,3913 2314,4010 2315,4079 2316,4142 2316,4173 2309,4173 2308,4142 2307,4079 2306,4010 2305,3913 2304,3837 2302,3776 2302,3617 2300,3504 2297,2723 2308,2722"/></SeparatorRegion>
+	<SeparatorRegion id="r19694">
+	<Coords points="3259,415 3258,1165 3257,1246 3258,1650 3259,1941 3260,2667 3260,2688 3253,2688 3251,2667 3249,1941 3249,1246 3248,1239 3251,1165 3251,1155 3252,415"/></SeparatorRegion>
+	<SeparatorRegion id="r19695">
+	<Coords points="3270,4569 3270,5022 3267,5308 3266,5401 3265,5419 3264,5605 3263,5707 3263,5784 3253,5784 3253,5763 3254,5707 3256,5605 3257,5414 3258,5401 3259,5308 3260,5022 3262,4569"/></SeparatorRegion>
+	<SeparatorRegion id="r19696">
+	<Coords points="3262,2691 3263,2759 3265,3070 3266,3336 3267,3441 3268,3553 3269,3669 3270,3800 3271,3900 3273,4025 3273,4146 3265,4146 3264,4025 3263,3900 3262,3800 3261,3669 3260,3553 3259,3441 3256,3070 3256,2691"/></SeparatorRegion>
+	<SeparatorRegion id="r19697">
+	<Coords points="3268,4260 3269,4314 3269,4563 3261,4563 3261,4344 3260,4321 3260,4260"/></SeparatorRegion>
+	<TextRegion id="r157" type="heading">
+	<Coords points="437,4325 437,4457 472,4518 664,4503 711,4504 833,4507 1064,4495 1241,4503 1585,4512 1615,4533 1646,4514 1745,4517 1762,4531 1807,4519 2170,4524 2194,4538 2221,4527 2255,4501 2275,4398 2237,4380 2080,4362 2052,4374 1963,4353 1814,4332 1647,4335 1596,4352 1248,4366 848,4380 783,4393 666,4363 649,4341 452,4323"/>
+	<TextEquiv>
+	<Unicode>nie znam swojej żony</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r110" type="heading">
+	<Coords points="409,421 416,415 1104,414 1244,416 1321,421 1323,481 1185,490 942,496 938,560 809,561 800,553 787,553 785,485 566,493 545,488 422,481 405,478 403,440 403,423"/>
+	<TextEquiv>
+	<Unicode>Niemcy kontrolują na Bałtyku obce
+statki</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r19688">
+	<Coords points="1342,421 1342,422 1347,422 1347,423 1352,423 1352,424 1356,424 1355,424 1355,518 1354,518 1354,612 1353,612 1353,706 1352,706 1352,800 1351,800 1351,1179 1352,1179 1352,1464 1353,1464 1353,1471 1354,1471 1354,1478 1355,1478 1355,1484 1356,1484 1356,1504 1357,1504 1352,1643 1357,2891 1362,3283 1363,3283 1363,3329 1364,3329 1364,3458 1369,3970 1371,4173 1346,4173 1339,3454 1338,3454 1337,3329 1337,3287 1332,2891 1329,2755 1327,1484 1326,1484 1326,929 1325,929 1326,929 1326,768 1327,768 1327,607 1328,607 1328,435 1327,435 1327,424 1326,424 1332,424 1332,423 1337,423 1337,422 1342,422"/></SeparatorRegion>
+	<TextRegion id="r15803" type="paragraph">
+	<Coords points="548,5485 540,5462 556,5452 568,5448 578,5454 582,5462 599,5458 670,5460 684,5452 694,5454 761,5454 767,5446 880,5445 1166,5440 1358,5445 1362,5558 1358,5576 1045,5576 1006,5571 980,5573 812,5578 670,5575 675,5613 654,5614 614,5618 597,5612 545,5613 463,5613 462,5499 463,5490"/>
+	<TextEquiv>
+	<Unicode>Sam nie wiedział, ile czasu tak przesie-
+dział. Zbudziło go wejście służby, wnoszącej
+nakryty stół. Odprawił ich aiederpliwym ru-
+chem ręki.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r158">
+	<Coords points="1388,4633 1389,4638 1389,4827 1390,4827 1391,4934 1391,4937 1390,4937 1390,4939 1383,4938 1383,4919 1381,4730 1379,4637 1379,4632"/></SeparatorRegion>
+	<SeparatorRegion id="r160">
+	<Coords points="1378,4941 1390,4941 1389,5018 1389,5313 1390,5410 1391,5506 1392,5642 1395,5742 1396,5742 1380,5742 1381,5742 1381,5736 1382,5736 1382,5574 1381,5506 1380,5332 1379,5098 1378,5022 1378,4947 1377,4947 1378,4947 1378,4940"/></SeparatorRegion>
+	<TextRegion id="r17151" type="paragraph">
+	<Coords points="2430,4314 2428,4264 3171,4259 3238,4265 3241,4292 3238,4298 3172,4309 2993,4311 2711,4308 2650,4314 2555,4311 2497,4305 2411,4323 2412,4346 2390,4346 2349,4344 2345,4320 2355,4303"/>
+	<TextEquiv>
+	<Unicode>Szedł jakby po smudze księżycowego świa
+tła.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18109" type="paragraph">
+	<Coords points="2427,5359 2429,5326 2535,5328 2557,5337 2560,5328 2638,5328 2681,5342 2693,5337 2717,5327 2761,5330 2769,5327 2782,5326 2789,5330 2889,5331 2917,5335 2928,5329 2948,5329 3227,5327 3233,5329 3240,5336 3236,5373 3070,5373 2773,5367 2470,5367 2419,5369 2423,5404 2355,5417 2348,5413 2343,5409 2344,5368"/>
+	<TextEquiv>
+	<Unicode>Minęło kilka chwil... z ust Eryka wybiegł
+jęk:</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r162">
+	<Coords points="2330,4269 2330,4774 2329,4774 2329,4806 2330,4806 2330,5371 2329,5371 2329,5470 2330,5470 2329,5470 2329,5471 2324,5471 2324,5470 2321,5470 2321,5369 2322,5369 2322,4704 2321,4704 2321,4601 2320,4601 2320,4499 2319,4499 2320,4499 2320,4491 2321,4491 2321,4271 2320,4271 2322,4271 2322,4270 2323,4270 2323,4269"/></SeparatorRegion>
+	<SeparatorRegion id="r164">
+	<Coords points="2322,5472 2322,5473 2329,5473 2329,5734 2328,5734 2328,5750 2321,5750 2321,5734 2320,5734 2320,5476 2321,5476 2321,5472"/></SeparatorRegion>
+	<TextRegion id="r18560" type="paragraph">
+	<Coords points="3319,4427 3362,4428 3368,4383 3416,4388 3464,4390 3557,4393 3574,4396 3648,4386 3665,4386 3697,4394 3736,4388 3743,4385 3770,4385 3784,4425 3809,4385 3937,4384 3944,4389 3978,4407 3970,4384 3993,4394 4004,4381 4010,4383 4021,4386 4068,4380 4136,4379 4178,4383 4182,4452 4182,4516 4069,4504 4030,4509 3977,4510 3994,4551 3765,4547 3761,4556 3753,4559 3745,4552 3741,4546 3693,4549 3680,4562 3663,4558 3655,4548 3601,4547 3596,4554 3585,4553 3576,4547 3507,4551 3447,4551 3434,4557 3420,4554 3422,4551 3412,4552 3386,4549 3373,4552 3290,4557 3285,4489 3288,4423"/>
+	<TextEquiv>
+	<Unicode>Zjawa poruszyła się, podeszła do Etyka
+Ten klęczał ciągle, zastygł z rękami wzniesio
+nymi do góry, .z wpół otwartymi ustami. Oczy
+zdawały mu się z głowy wychodzić.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14219" type="paragraph">
+	<Coords points="3427,3575 3622,3577 3690,3574 3793,3575 3809,3576 3876,3575 4063,3574 4195,3584 4202,3594 4207,3605 4204,3672 4202,3845 4201,3845 4201,3846 4186,3854 4185,3854 4185,3855 4184,3855 4184,3856 4183,3856 4183,3857 4181,3857 4181,3858 4178,3858 4178,3857 4176,3857 4176,3856 4175,3856 4175,3855 4174,3855 4174,3853 4047,3853 4047,3855 4046,3855 4046,3856 4045,3856 4045,3857 4038,3857 4037,3855 4036,3856 3880,3859 3749,3858 3723,3856 3729,3886 3728,3886 3728,3888 3726,3888 3726,3889 3709,3889 3707,3892 3707,3893 3702,3893 3702,3892 3701,3892 3701,3891 3700,3891 3691,3889 3523,3888 3523,3889 3520,3889 3520,3892 3518,3892 3518,3893 3516,3893 3516,3894 3514,3894 3514,3895 3514,3894 3513,3894 3513,3893 3512,3893 3512,3892 3511,3892 3511,3891 3510,3891 3510,3890 3509,3890 3509,3889 3508,3889 3508,3888 3355,3888 3355,3889 3354,3889 3354,3890 3353,3890 3353,3891 3352,3891 3352,3892 3350,3892 3350,3891 3291,3891 3291,3889 3290,3889 3290,3887 3289,3887 3289,3885 3288,3885 3288,3883 3287,3883 3287,3822 3286,3822 3286,3804 3285,3804 3285,3786 3284,3786 3284,3768 3283,3768 3284,3768 3284,3743 3285,3743 3285,3719 3286,3719 3286,3695 3287,3695 3287,3671 3285,3627 3288,3609 3343,3608 3358,3612 3355,3603 3355,3571"/>
+	<TextEquiv>
+	<Unicode>Dwie ważne stacje kolejowe Łódź Fabryczna
+i Koluszki do dnia dzisiejszego posiadają dworce
+nie odpowiadające natężeniu ruchu na tych li-
+niach. Obecnie zdecydowano opracowanie planów
+nowych dworców. Do Łodzi przyjedzie w najbliż-
+szych dniach komisja inżynierów kolejowych
+i budowlanych, która dokona pomiarów. Nowy
+dworzec Łódź - Fabryczna stanie na innym miej-
+scu, niż dotychczasowy.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11947" type="paragraph">
+	<Coords points="3346,1337 3342,1303 3813,1302 3825,1308 3858,1303 3901,1304 3919,1307 3949,1303 4030,1300 4191,1303 4193,1327 4195,1702 4192,1712 4193,1712 4193,1718 4194,1718 4194,1724 4195,1724 4195,1730 4196,1730 4196,1735 4197,1735 4197,1736 4196,1736 4196,1735 4154,1735 4154,1734 4111,1734 4111,1733 4069,1733 4069,1732 4026,1732 4026,1731 3984,1731 3984,1730 3941,1730 3941,1729 3899,1729 3899,1728 3856,1728 3856,1727 3452,1727 3452,1757 3446,1757 3446,1758 3441,1758 3441,1759 3323,1759 3323,1760 3311,1760 3311,1761 3298,1761 3298,1762 3285,1762 3285,1763 3274,1763 3274,1764 3273,1764 3273,1763 3274,1763 3274,1743 3275,1743 3273,1661 3272,1351 3275,1341 3280,1334"/>
+	<TextEquiv>
+	<Unicode>Słowacja w swojej wschodniej części, poło-
+żonej na południe od Polski, będąca krajem gó-
+rzystym i górskim posiada bardzo trudne wa-
+runki dla zorganizowania na niej poważnej
+sieci lotnisk. Ten naturalny wzgląd jest jeszcze
+w dalszym ciągu utrudniony przez szczątko-
+wy charakter sieci komunikacyjnej w Słowa-
+cji, zdekompletowanej przez odcinki dróg od-
+stąpione w swoim czasie Polsce i Węgrom.
+Wszystko to powoduje, że Słowacja nie może
+być uważana za bazę dla działań lotniczych
+o wielkiej skali, skierowanych na Polskę od
+południa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="header">
+	<Coords points="2693,314 2693,315 2730,315 2730,316 2837,316 2837,317 2943,317 2943,318 2944,318 2944,319 2945,319 2945,320 2946,320 2946,321 2947,321 2947,322 2948,322 2948,323 2949,323 2949,324 2950,324 2950,325 2951,325 2951,326 2952,326 2952,327 2953,327 2953,328 2954,328 2954,329 2955,329 2955,330 2956,330 2956,331 2957,331 2957,332 2958,332 2958,333 2959,333 2959,337 2960,337 2960,341 2961,341 2961,345 2962,345 2962,348 2963,348 2962,348 2962,350 2961,350 2961,351 2960,351 2960,352 2959,352 2959,353 2950,353 2950,354 2941,354 2941,355 2941,354 2793,354 2793,353 2608,353 2608,354 2571,354 2571,355 2533,355 2533,356 2496,356 2496,357 2458,357 2458,358 2421,358 2421,359 2384,359 2384,360 2352,360 2352,361 2320,361 2320,362 2288,362 2288,363 2256,363 2256,364 2225,364 2225,365 2225,364 2222,364 2222,363 2220,363 2220,362 2218,362 2218,355 1579,355 1579,320 2129,320 2129,322 2231,322 2231,321 2233,321 2233,320 2294,320 2294,319 2354,319 2354,318 2507,318 2507,317 2659,317 2659,316 2686,316 2686,315 2693,315"/>
+	<TextEquiv>
+	<Unicode>DZIENNIK POZNAŃSKI — piątek, dnia 1 września 1939 r.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r19678">
+	<Coords points="4068,359 4157,359 4157,371 3661,371 3661,372 3598,372 3598,373 3535,373 3535,374 3395,374 3395,375 3268,375 3268,376 3141,376 3141,377 3056,377 3056,378 2920,378 2920,379 2787,379 2787,380 2678,380 2678,381 2497,381 2497,382 2247,382 2247,383 1997,383 1997,384 1747,384 1747,386 1747,385 1655,385 1655,384 1643,384 1643,383 1587,383 1587,382 1359,382 1359,381 412,381 412,382 412,376 411,376 411,371 410,371 411,371 411,369 412,369 412,367 413,367 413,365 414,365 414,364 414,365 502,365 502,366 589,366 589,367 676,367 676,368 853,368 853,367 1132,367 1132,368 1199,368 1199,369 1266,369 1266,370 1333,370 1333,371 1587,371 1587,370 1587,371 1676,371 1676,372 1765,372 1765,373 2497,373 2497,372 2678,372 2678,371 2787,371 2787,370 2896,370 2896,369 3035,369 3035,368 3041,368 3041,367 3141,367 3141,366 3395,366 3395,365 3418,365 3418,364 3440,364 3440,363 3462,363 3462,362 3598,362 3598,361 3661,361 3661,360 4068,360"/></SeparatorRegion></Page></PcGts>

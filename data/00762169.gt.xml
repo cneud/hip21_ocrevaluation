@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd" pcGtsId="pc-00762169">
+	<Metadata>
+	<Creator>FineReader Engine 10</Creator>
+	<Created>2013-10-15T10:30:24</Created>
+	<LastChange>2014-07-03T08:23:59</LastChange>
+	<Comments>Recognition and export settings:
+
+  Recognition language(s): Polish
+  Font class: normal
+  Orig-outlines: false
+  Orig-text: false
+  Orig-drop-caps: false
+  Reading order: false
+    Exclude: [default]
+  Layers: false
+  To remove: background-images
+
+Conversion and export:
+
+  Removed 4 background images
+  Ignored 3 regions that have no coordinates (ghost regions)
+</Comments></Metadata>
+	<Page imageFilename="00762169.tif" imageWidth="4632" imageHeight="6661">
+	<ReadingOrder>
+	<UnorderedGroup id="ro357564684568544579089">
+	<UnorderedGroup id="r91">
+	<RegionRef regionRef="r126"/>
+	<RegionRef regionRef="r89"/>
+	<RegionRef regionRef="r127"/>
+	<RegionRef regionRef="r131"/>
+	<RegionRef regionRef="r129"/></UnorderedGroup>
+	<OrderedGroup id="r92">
+	<RegionRefIndexed regionRef="r706" index="0"/>
+	<RegionRefIndexed regionRef="r737" index="1"/>
+	<RegionRefIndexed regionRef="r764" index="2"/>
+	<RegionRefIndexed regionRef="r881" index="3"/>
+	<RegionRefIndexed regionRef="r1191" index="4"/>
+	<RegionRefIndexed regionRef="r1647" index="5"/>
+	<RegionRefIndexed regionRef="r1902" index="6"/>
+	<RegionRefIndexed regionRef="r2057" index="7"/>
+	<RegionRefIndexed regionRef="r112" index="8"/>
+	<RegionRefIndexed regionRef="r114" index="9"/>
+	<RegionRefIndexed regionRef="r2734" index="10"/>
+	<RegionRefIndexed regionRef="r132" index="11"/>
+	<RegionRefIndexed regionRef="r3054" index="12"/>
+	<RegionRefIndexed regionRef="r3148" index="13"/>
+	<RegionRefIndexed regionRef="r3171" index="14"/>
+	<RegionRefIndexed regionRef="r116" index="15"/>
+	<RegionRefIndexed regionRef="r118" index="16"/>
+	<RegionRefIndexed regionRef="r3715" index="17"/>
+	<RegionRefIndexed regionRef="r134" index="18"/>
+	<RegionRefIndexed regionRef="r120" index="19"/>
+	<RegionRefIndexed regionRef="r122" index="20"/>
+	<RegionRefIndexed regionRef="r4445" index="21"/>
+	<RegionRefIndexed regionRef="r4619" index="22"/>
+	<RegionRefIndexed regionRef="r4821" index="23"/>
+	<RegionRefIndexed regionRef="r5159" index="24"/>
+	<RegionRefIndexed regionRef="r135" index="25"/>
+	<RegionRefIndexed regionRef="r5676" index="26"/>
+	<RegionRefIndexed regionRef="r6037" index="27"/>
+	<RegionRefIndexed regionRef="r6365" index="28"/></OrderedGroup>
+	<OrderedGroup id="r93">
+	<RegionRefIndexed regionRef="r7214" index="0"/>
+	<RegionRefIndexed regionRef="r7239" index="1"/>
+	<RegionRefIndexed regionRef="r7263" index="2"/>
+	<RegionRefIndexed regionRef="r7773" index="3"/>
+	<RegionRefIndexed regionRef="r7792" index="4"/></OrderedGroup>
+	<OrderedGroup id="r94">
+	<RegionRefIndexed regionRef="r142" index="0"/>
+	<RegionRefIndexed regionRef="r8220" index="1"/>
+	<RegionRefIndexed regionRef="r8386" index="2"/>
+	<RegionRefIndexed regionRef="r8586" index="3"/>
+	<RegionRefIndexed regionRef="r8830" index="4"/>
+	<RegionRefIndexed regionRef="r9637" index="5"/>
+	<RegionRefIndexed regionRef="r9822" index="6"/>
+	<RegionRefIndexed regionRef="r10024" index="7"/>
+	<RegionRefIndexed regionRef="r10316" index="8"/>
+	<RegionRefIndexed regionRef="r10455" index="9"/>
+	<RegionRefIndexed regionRef="r10601" index="10"/>
+	<RegionRefIndexed regionRef="r10617" index="11"/></OrderedGroup>
+	<OrderedGroup id="r95">
+	<RegionRefIndexed regionRef="r138" index="0"/>
+	<RegionRefIndexed regionRef="r6552" index="1"/>
+	<RegionRefIndexed regionRef="r6605" index="2"/>
+	<RegionRefIndexed regionRef="r6701" index="3"/>
+	<RegionRefIndexed regionRef="r6739" index="4"/>
+	<RegionRefIndexed regionRef="r141" index="5"/>
+	<RegionRefIndexed regionRef="r6998" index="6"/>
+	<RegionRefIndexed regionRef="r7072" index="7"/>
+	<RegionRefIndexed regionRef="r8266" index="8"/>
+	<RegionRefIndexed regionRef="r8298" index="9"/>
+	<RegionRefIndexed regionRef="r8318" index="10"/></OrderedGroup>
+	<OrderedGroup id="r97">
+	<RegionRefIndexed regionRef="r143" index="0"/></OrderedGroup></UnorderedGroup></ReadingOrder>
+	<TextRegion id="r706" type="paragraph">
+	<Coords points="560,1113 728,1108 1194,1099 3976,1080 3997,1249 3101,1262 2794,1236 2728,1271 2606,1250 1544,1289 564,1284"/>
+	<TextEquiv>
+	<Unicode>Z WIARĄ, UFNOŚCIĄ I MĘSTWEM</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r737" type="paragraph">
+	<Coords points="203,1304 483,1288 583,1296 1452,1300 2590,1255 2735,1282 4352,1264 4364,1534 3962,1480 2783,1542 2729,1556 1263,1527 624,1590 208,1568"/>
+	<TextEquiv>
+	<Unicode>PÓJDZIEMY W BÓJ O POLSKĘ</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r764" type="paragraph">
+	<Coords points="325,1583 630,1604 1172,1582 1511,1566 2723,1570 3304,1521 3898,1533 3944,1552 4175,1539 4259,1570 4240,1632 4014,1657 3749,1665 3499,1652 2771,1662 2619,1679 1899,1691 1637,1676 321,1701"/>
+	<TextEquiv>
+	<Unicode>Nasza moralna przewaga nad wrogiem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r881" type="paragraph">
+	<Coords points="208,1730 1019,1723 1022,1993 1018,2050 1007,2060 502,2060 290,2067 284,2090 282,2096 200,2097 198,1796"/>
+	<TextEquiv>
+	<Unicode>ŁOMŻA, 1.9. — JE. ks. biskup Stani-
+sław Kostka Łukomski, ordynariusz diece-
+zji łomżyjskiej, wydat list pasterski do die
+cezjan, w którym w obliczu groźby wojen
+nej i wobec pytania, co należy czynić i dla
+zmniejszenia niebezpieczeństwa i dla zwy-
+cięskiego jego opanowania m. in. tak pi-
+sze:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1191" type="paragraph">
+	<Coords points="202,2117 356,2100 1023,2101 1026,2566 892,2562 897,2601 779,2607 752,2610 681,2605 607,2611 600,2608 563,2609 540,2608 502,2611 307,2614 291,2606 203,2607"/>
+	<TextEquiv>
+	<Unicode>— Otóż ci, którzy są lub będą powo-
+łani do wojskowej obrony Ojczyzny, niech
+mają stale przed oczyma szczytny przy-
+kład swych dziadów i ojców, co z całą o-
+sobistą ofiarnością przeciwstawiali się nie
+przyjacielowi, silnie ufając w pomoc spra
+wiedliwego Boga. Bo sprawedliwą na
+wskroś jest sprawa, której bronimy, bo
+bronimy naszej Ojczyzny, jej swobody, a
+zarazem i Wiary naszej świętej, która nie
+mniej od Ojczyzny jest zagrożona.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1647" type="paragraph">
+	<Coords points="237,2618 284,2614 310,2618 539,2612 582,2611 610,2621 673,2610 681,2611 746,2617 794,2611 863,2608 1023,2612 1023,2742 1031,2880 673,2888 451,2882 352,2890 227,2890 211,2888 203,2665"/>
+	<TextEquiv>
+	<Unicode>I na tym właśnie polega uż od samego
+początku nasza moralna przewaga nad nie
+przyjacielem, że słuszność sprawy jest po
+naszej stronie, że Naród Polski usilnie
+pragnął i że nie z winy naszej zagrożona
+jest jego wolność i niepodległość. Ta słu-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1902" type="paragraph">
+	<Coords points="1041,1725 1854,1714 1855,1893 1494,1891 1466,1903 1373,1905 1046,1904"/>
+	<TextEquiv>
+	<Unicode>szność bezwzględna naszej sprawy jest
+pierwszą rękojmią naszej pewności, że
+sprawiedliwy i dobry Bóg jest i będzie z
+nami a nie z nieprzyjacielem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2057" type="paragraph">
+	<Coords points="1113,1945 1123,1907 1363,1909 1511,1902 1573,1902 1860,1903 1863,2163 1760,2163 1748,2214 1688,2222 1656,2221 1606,2216 1558,2214 1559,2224 1546,2224 1545,2214 1454,2216 1453,2225 1446,2228 1437,2216 1343,2220 1208,2221 1207,2229 1192,2227 1189,2220 1116,2222 1115,2231 1105,2232 1049,2223 1047,1959"/>
+	<TextEquiv>
+	<Unicode>Ale tą wiarą i ufnością i męstwem prze
+jęci mamy być wszyscy, także ci, którzy
+pozostają w domu. Wojna bowiem sięga
+głęboko w życie pozafrontowe. Wprowa-
+dzając do niego zamieszanie usiłuje dopo-
+móc nieprzyjacielowi przez wszczynanie
+nieporządków w kraju napadniętym.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2734" type="paragraph">
+	<Coords points="1057,2697 1327,2697 1663,2693 1698,2704 1753,2698 1774,2699 1797,2690 1840,2688 1866,2693 1870,2874 1581,2877 1092,2886 1055,2879 1050,2791"/>
+	<TextEquiv>
+	<Unicode>Jak najwyższe napięcie woli, posłuch
+tym, co kierują publicznymi sprawami, bez-
+I względna ochoczość do przysłużenia się
+| Ojczyinie, armii naszej, społeczeństwu, je-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3054" type="paragraph">
+	<Coords points="1886,1908 1961,1888 2084,1888 2221,1880 2688,1871 2696,1879 2702,1902 2700,1963 2620,1972 2226,1980 2057,1972 2055,2014 2036,2018 1892,2015"/>
+	<TextEquiv>
+	<Unicode>Żołnierz polski musi mieć tę uspokaja-
+jącą i wzmacniającą go pewność, że poza
+nim stoi</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3148" type="paragraph">
+	<Coords points="2079,2017 2083,2014 2481,2011 2507,2017 2518,2050 2507,2065 2158,2072 2079,2065 2071,2038"/>
+	<TextEquiv>
+	<Unicode>druga ogromna armia,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3171" type="paragraph">
+	<Coords points="1892,2083 2699,2083 2705,2216 2166,2227 2165,2267 2056,2275 1891,2269 1886,2142"/>
+	<TextEquiv>
+	<Unicode>współpracująca z nim szczerze i ofiarnie.
+Ta pewność będzie dla armii walczącej z
+nieprzyjacielem silniejszą jeszcze bronią niż
+broń wojenna.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3715" type="paragraph">
+	<Coords points="1917,2737 1986,2733 2275,2737 2330,2726 2647,2714 2700,2720 2705,2853 2034,2873 1892,2865 1892,2750"/>
+	<TextEquiv>
+	<Unicode>Nazywamy naszą młodzież przyszłością
+narodu. Bo też w jej ręce przechodzą z cza
+sem losy narodu. Gdy tedy ojcowie, starsi,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4445" type="paragraph">
+	<Coords points="2723,2234 2876,2242 2944,2230 3183,2231 3292,2236 3409,2228 3480,2226 3538,2229 3541,2253 3541,2387 3484,2397 3463,2406 3326,2405 3297,2409 3135,2408 3072,2411 3025,2404 2792,2407 2786,2417 2726,2418 2726,2415"/>
+	<TextEquiv>
+	<Unicode>o jej szczęście, o jej radosną przyszłość —
+a tym samym także o twoją, kochana mło-
+dzieży przyszłość s xzczęśliwą, oto, abyś nie
+popadła w hańbiącą i bolesną niewolę.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4619" type="paragraph">
+	<Coords points="2721,2435 2782,2424 2798,2414 2957,2413 3047,2417 3233,2412 3271,2411 3304,2413 3324,2409 3425,2413 3460,2408 3462,2412 3518,2402 3539,2406 3541,2588 3261,2594 3261,2627 3187,2628 3084,2634 3049,2631 3035,2638 2956,2632 2902,2639 2801,2633 2788,2639 2775,2641 2726,2631"/>
+	<TextEquiv>
+	<Unicode>Dlatego bądź rozumną i pobożną, bądź
+posłuszną starszym i pracowitą, bądź go-
+dną imienia Polaka, które to imię zawsze a
+szczególnie obecnie cieszy się najpiękniej-
+szą sławą w całym świecie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5159" type="paragraph">
+	<Coords points="2732,3005 2812,3003 2835,3010 2857,3011 2877,2997 3009,2999 3056,3006 3104,3000 3109,3000 3240,3002 3270,3003 3274,2998 3359,2996 3433,2994 3439,2996 3484,2998 3540,2995 3542,3117 3538,3124 3342,3132 3143,3135 2727,3141 2725,3084"/>
+	<TextEquiv>
+	<Unicode>Z miłością i z ofiarną walką dla Ojczy-
+zny łączył naród polski zawsze także reli-
+gijną pobożność. I zapewne w tym tkwi ta</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5676" type="paragraph">
+	<Coords points="3644,2126 3907,2128 4382,2120 4386,2482 4278,2488 3807,2496 3813,2539 3673,2541 3626,2539 3574,2543 3564,2541 3560,2399 3561,2173 3626,2141"/>
+	<TextEquiv>
+	<Unicode>Chwyćmy się przeto i teraz tej broni
+niezawodnej, broni modlitwy, nabożeństw.
+sakramentów św. Ubezpieczając swoje spra
+wy materialne, pamiętajmy o ubezpieczeniu
+własnych dusz, aby je zachować zdrowe i
+napełnić je łaską Bożą. Zatem módlcie się
+codziennie gorąco, wytrwale za siebie, módl
+cie się za mężne wojsko nasze i naszą dro-
+gą Ojczyznę.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6037" type="paragraph">
+	<Coords points="3635,2582 3630,2542 3676,2542 3880,2543 3933,2536 4059,2534 4382,2538 4386,2832 4381,2847 4005,2852 3995,2892 3969,2897 3926,2893 3900,2901 3896,2895 3858,2894 3854,2898 3810,2893 3785,2901 3777,2893 3570,2891 3566,2584"/>
+	<TextEquiv>
+	<Unicode>W tym też celu przyjmujcie często sa-
+kramenta św., słuchajcie nabożnie Mszy św.
+i ofiarowujcie je także na tych, których o-
+brona Ojczyzny trzyma z dala od naszych
+kościołów. Uderzmy gorącą i wytrwałą mo
+dlitwą w Serce Jezusowe, aby za przyczy-
+ną Matki Najśw. okazało się miłościwe dla
+nas i naszej Ojczyzny.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6365" type="paragraph">
+	<Coords points="3640,2935 3639,2900 3707,2900 3771,2899 3792,2907 3823,2899 3868,2899 3902,2904 3920,2898 3939,2899 3950,2899 3981,2898 4011,2898 4134,2894 4384,2894 4388,2918 4385,3069 4335,3080 4208,3080 3838,3084 3835,3118 3643,3129 3565,3126 3563,3048 3572,2946"/>
+	<TextEquiv>
+	<Unicode>W końcu Ks. Biskup podaje zarządze-
+nia co do modlitw odmawianych przez ka-
+płanów we Mszy św. (kolekty pro re gravi,
+pro pace lub tempore belli) Suplikacyj po
+Mszy św. i in.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6552" type="paragraph">
+	<Coords points="455,3436 1982,3410 2476,3426 2476,3738 567,3748 382,3738 365,3634"/>
+	<TextEquiv>
+	<Unicode>do Narodu Polskiego
+Obywatele Rzeczypospolitej!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6605" type="paragraph">
+	<Coords points="361,3758 2022,3750 2702,3756 2708,3809 2707,3946 2642,3957 416,3966 383,3982 226,3974 216,3948 220,3900 375,3879"/>
+	<TextEquiv>
+	<Unicode>Nocy dzisiejszej odwieczny wróg nasz rozpo-
+czął działania zaczepne wobec Pańsíwa Polskiego</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6701" type="paragraph">
+	<Coords points="232,4008 2707,4001 2707,4142 2700,4164 285,4180 232,4164 224,4135"/>
+	<TextEquiv>
+	<Unicode>co stwierdzam wobec Boga i historii</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7072" type="paragraph">
+	<Coords points="231,5252 1217,5240 2169,5233 2723,5247 2722,5561 286,5584 232,5578 226,5565 222,5421"/>
+	<TextEquiv>
+	<Unicode>Cały Naród Polski, pobłoģosławiony przez
+Boģa, w walce o swoją świętą i słuszną sprawę,
+zjednoczony z armią pójdzie ramię przy ramieniu</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7214" type="paragraph">
+	<Coords points="2820,3188 4380,3188 4390,3355 3943,3369 3605,3387 3367,3368 3331,3388 3142,3393 3100,3370 3042,3366 2727,3368 2726,3191"/>
+	<TextEquiv>
+	<Unicode>Podstępny napad Niemiec</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7239" type="paragraph">
+	<Coords points="2724,3409 3043,3393 3185,3408 3357,3387 3561,3386 3638,3401 3898,3381 4324,3379 4384,3384 4392,3490 4384,3512 3227,3517 2730,3512"/>
+	<TextEquiv>
+	<Unicode>na terytorium Polski.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7263" type="paragraph">
+	<Coords points="2732,3541 3536,3530 3540,3539 3546,3670 3550,4299 2732,4299 2724,3649"/>
+	<TextEquiv>
+	<Unicode>WARSZAWA 1.9. — O świcie dnia 1
+września 1939 r. siły zbrojne Rzeszy Nie-
+mieckiej rozpoczęły działania wojenne prze
+ciw Polsce. Nastąpiło przekroczenie grani-
+cy polskiej w szeregu miejscowości zarów-
+no ze strony Prus Wschodnich, jak i Rze-
+szy Niemieckiej. Wojska niemieckie zaata-
+kowały garnizon polski na Westerplatte,
+Który odparł atak. Niemieckie lotnictwo do
+konato szeregu nalotów na Kraków, mia-
+sta śląskie, Częstochowę, Tczew, Puck i
+Grodno, przy czym przeprowadzono sze-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7773" type="paragraph">
+	<Coords points="3577,3537 3914,3528 3928,3537 3928,3582 3577,3582"/>
+	<TextEquiv>
+	<Unicode>reg bombardowań.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7792" type="paragraph">
+	<Coords points="3574,3599 4355,3589 4390,3599 4400,4119 4390,4225 3599,4231 3574,4225 3577,3832 3569,3822 3569,3689"/>
+	<TextEquiv>
+	<Unicode>Podstępna napaść nastąpiła w kilka
+godzin po tym, gdy ambasador Polski w
+Berlinie zawiadomił rząd Rzeszy o życzli-
+wym stanowisku rządu polskiego do wy-
+siłków rządu brytyjskiego, mających na
+celu utrzymanie pokoju. Bezprzykładna w
+swej brutalności forma agresji spotka się
+ze zdecydowaną wolą całego narodu pol-
+skiego, który będzie bronił swej wolności,
+praw i honoru aż do końca. (PA.T.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8220" type="paragraph">
+	<Coords points="2734,4566 2791,4562 2890,4571 2999,4560 4350,4541 4400,4548 4400,4644 2737,4656"/>
+	<TextEquiv>
+	<Unicode>,,Prawda z r. 1915 jest dzisiaj nieprawdą“.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8266" type="paragraph">
+	<Coords points="242,5618 2250,5609 2716,5618 2719,5687 2716,5746 708,5752 242,5746 232,5708"/>
+	<TextEquiv>
+	<Unicode>do boju i pełnego zwycięstwa</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8298" type="paragraph">
+	<Coords points="1344,5796 2676,5784 2686,5909 1721,5924 1336,5925"/>
+	<TextEquiv>
+	<Unicode>(—) Ignacy Mościcki</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8318" type="paragraph">
+	<Coords points="1312,6091 1311,5939 2102,5936 2701,5933 2707,6053 2257,6048 2150,6180 730,6193 234,6182 226,6108 231,6087"/>
+	<TextEquiv>
+	<Unicode>Prezydent Rzeczypospolitej
+Warszawa, dnia 1 września 1939 roku.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8386" type="paragraph">
+	<Coords points="2744,4666 3233,4662 3562,4663 3556,4849 3427,4857 3416,4891 3258,4889 3204,4897 2846,4897 2759,4900 2744,4897"/>
+	<TextEquiv>
+	<Unicode>ZURYCH, 1.9. — Italia zalana jest ta
+jemniczymi ulotkami, reprodukującymi
+przemówienia Mussoliniego. Oto tekst do-
+słowny ulotki, której kilka egzemplarzy
+przesłano do francuskiej Sabaudii:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8586" type="paragraph">
+	<Coords points="2742,4909 2849,4900 3224,4899 3247,4894 3424,4896 3556,4897 3559,5090 3557,5120 3455,5121 3454,5168 3213,5168 3196,5177 3183,5174 3183,5168 2844,5171 2828,5178 2821,5179 2814,5176 2748,5177"/>
+	<TextEquiv>
+	<Unicode>,,Chcemy walczyć za Italię i jedynie za
+Italię, zważywszy, że w celu uratowania
+siebie samej i całej Europy, Italia musi
+powstrzymać pochód polipa, który z Ber-
+lina wyciąga swoje macki w kierunku
+wszystkich mórz i wszystkich rzek“.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8830" type="paragraph">
+	<Coords points="2745,5183 2840,5182 2856,5177 3151,5177 3182,5184 3232,5183 3290,5172 3546,5172 3560,5177 3562,5529 3564,5858 3560,5925 2750,5925 2745,5200"/>
+	<TextEquiv>
+	<Unicode>,,Chcemy walczyć przeciwko Germanii.
+Wojna dzisiejsza jest wojną przeciwko
+Germanii. Musimy brać udział w tej woj-
+nie, bo Germania reprezentuje panowanie
+ślepej dyscypliny nad indywidualną inicja
+tywą, reprezentuje ,,koszarowość“, dopro-
+wadzoną do absurdu, kult siły brutalnej,
+triumf ilości nad jakością, wszechwładny
+merkantylizm, głęboką ignorację, zagubio-
+ną wśród erudycji, próżna nicość w Sztu-
+ce, całkowity brak dobrego smaku, wol-
+ności. Germania reprezentuje w Europie
+stałe niebezpieczeństwo wobec ekspansji
+ekonomicznej i wojowniczej, z racji ,,kolo-
+salnego“ militaryzmu, zmuszającego wszy
+stkie inne narody do niewspółmiernych</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9637" type="paragraph">
+	<Coords points="3587,4658 4272,4652 4399,4658 4412,4733 4405,4833 4249,4848 3894,4846 3873,4890 3782,4894 3677,4889 3630,4898 3587,4895 3581,4712"/>
+	<TextEquiv>
+	<Unicode>zbrojeń wobec szaleńczych zamiarów za-
+garnięcia pod swoją kontrolę i pod swoje
+wpływy wszystkich innych krajów, a prze
+de wszystkim — sąsiadujących z nią słab
+szych krajów“.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9822" type="paragraph">
+	<Coords points="3583,4908 3681,4895 3890,4900 3985,4887 4411,4884 4421,5119 4202,5116 4139,5118 4107,5122 3882,5124 3872,5128 3848,5122 3748,5126 3742,5124 3589,5126 3585,5084"/>
+	<TextEquiv>
+	<Unicode>,,Z tych wszystkich powodów i jeszcze
+z wielu innych ruszymy w bój przeciwko
+Germanii. Musimy przystąpić do boju, gdyż
+jako Włosi, jako Europejczycy, jako ludzie
+wreszcie, mamy ten obowiązek“.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10024" type="paragraph">
+	<Coords points="3585,5135 3689,5131 3848,5128 3854,5128 3868,5132 3947,5128 4133,5126 4180,5120 4381,5121 4404,5124 4409,5285 4404,5455 4364,5435 4204,5455 4197,5448 4060,5445 4039,5453 3690,5457 3589,5455"/>
+	<TextEquiv>
+	<Unicode>,,Zdradziliśmy Italię, ludzkość, ideały
+wolności i pokoju, które reprezentujemy,
+gdybyśmy nie byli gotowi do zajęcia miej-
+sca w boju. Jeśli, ruszając do boju, będzie
+my mogli być pożyteczni Francji, Anglii —
+tym lepiej! Ruszamy z nimi do boju, bo
+mamy wspólnego wroga: Niemcy!“</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10316" type="paragraph">
+	<Coords points="3590,5467 4050,5461 4114,5468 4154,5463 4175,5463 4180,5468 4197,5462 4359,5457 4402,5461 4406,5583 4394,5597 3862,5604 3862,5640 3591,5641"/>
+	<TextEquiv>
+	<Unicode>Mowę tę wygłosił Mussolini w kwiet-
+niu 1915 roku. Autentyczność jej łatwo mo
+żna sprawdzić w zbiorowym wydaniu prze
+mówień Duce.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10455" type="paragraph">
+	<Coords points="3589,5650 4412,5640 4409,5786 3927,5791 3925,5837 3595,5837 3586,5816"/>
+	<TextEquiv>
+	<Unicode>Zachłanny ,,polip“ germański dzisiaj
+stał się przyjacielem i sojusznikiem Duce.
+Które zwierciadło jest krzywe? To z 1915,
+czy z 1939 roku?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10601" type="paragraph">
+	<Coords points="3598,5880 4416,5875 4404,5970 4349,5974 3598,5970"/>
+	<TextEquiv>
+	<Unicode>Dolar 5.30½</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10617" type="paragraph">
+	<Coords points="3584,5978 4411,5978 4411,6177 3584,6177"/>
+	<TextEquiv>
+	<Unicode>Bank Polski notował dziś rano dolary
+po 5.30 i pół, funty szterlingi po 23.14, fran
+ki szwajcarskie po 120.10, franki francu-
+skie po 13.24</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10794">
+	<Coords points="1418,2455 1510,2451 1507,2462 1488,2463 1417,2464 1414,2460 1396,2461 1381,2464 1381,2465 1364,2465 1364,2464 1321,2465 1322,2457 1381,2457 1381,2456 1415,2456"/></SeparatorRegion>
+	<SeparatorRegion id="r10798">
+	<Coords points="3923,3135 4371,3135 4371,3158 3923,3158"/></SeparatorRegion>
+	<SeparatorRegion id="r10799">
+	<Coords points="3920,3140 3920,3159 3787,3159 3787,3162 3503,3162 3503,3165 3315,3165 3315,3168 3072,3168 3072,3170 2945,3170 2945,3173 2730,3173 2730,3152 2945,3152 2945,3150 3072,3150 3072,3147 3315,3147 3315,3145 3503,3145 3503,3141 3787,3141 3787,3140"/></SeparatorRegion>
+	<SeparatorRegion id="r10800">
+	<Coords points="3899,4264 4082,4261 4080,4270 4065,4272 3899,4272"/></SeparatorRegion>
+	<SeparatorRegion id="r10801">
+	<Coords points="4065,5452 4190,5453 4188,5460 4062,5458"/></SeparatorRegion>
+	<SeparatorRegion id="r10802">
+	<Coords points="3390,5932 3557,5932 3557,5960 3383,5960 3383,5961 3342,5961 3342,5966 2756,5966 2756,5965 2755,5965 2755,5959 2753,5959 2753,5940 2755,5940 2755,5939 2756,5939 2756,5934 3342,5934 3342,5933 3390,5933"/></SeparatorRegion>
+	<SeparatorRegion id="r10803">
+	<Coords points="1032,1734 1032,1798 1033,1798 1033,2010 1034,2010 1034,2067 1035,2067 1037,2184 1042,2385 1040,2451 1045,2768 1047,2793 1048,2879 1037,2891 1034,2879 1027,2633 1030,2390 1030,2186 1029,2192 1028,2010 1026,2010 1026,1798 1024,1798 1024,1734"/></SeparatorRegion>
+	<SeparatorRegion id="r10804">
+	<Coords points="1875,1715 1875,1815 1876,1815 1876,1914 1877,1914 1877,2035 1878,2035 1878,2218 1879,2218 1879,2247 1878,2247 1878,2269 1879,2269 1879,2440 1880,2441 1889,2765 1887,2855 1873,2860 1872,2269 1871,2269 1871,2241 1872,2241 1872,2218 1871,2218 1871,2035 1870,2035 1870,1914 1869,1914 1869,1815 1867,1815 1867,1715"/></SeparatorRegion>
+	<SeparatorRegion id="r10805">
+	<Coords points="2713,1710 2713,1827 2714,1827 2714,1938 2715,1938 2715,2009 2716,2009 2716,2141 2717,2141 2717,2764 2716,2974 2715,3140 2717,3242 2716,3351 2709,3351 2707,3146 2705,2982 2708,2974 2707,2773 2710,2141 2709,2141 2709,1938 2707,1938 2707,1844 2708,1844 2708,1828 2707,1828 2707,1710"/></SeparatorRegion>
+	<SeparatorRegion id="r10806">
+	<Coords points="2715,3354 2715,3392 2716,3392 2716,3412 2717,3412 2717,3503 2718,3503 2718,3512 2720,3512 2720,3742 2719,3742 2719,3744 2721,3744 2721,4049 2723,4049 2723,4211 2724,4211 2724,4284 2725,4284 2725,4319 2726,4319 2726,4323 2727,4323 2727,4471 2728,4471 2728,4612 2727,4612 2727,4637 2725,4637 2725,4643 2727,4643 2727,4651 2728,4651 2728,4654 2729,4654 2729,4700 2730,4700 2730,4752 2732,4752 2732,4841 2724,4841 2724,4752 2723,4752 2723,4694 2722,4694 2722,4612 2721,4612 2721,4471 2719,4471 2719,4323 2718,4323 2718,4299 2719,4299 2719,4284 2718,4284 2718,4211 2717,4211 2717,4141 2716,4141 2716,4014 2714,4014 2714,3744 2715,3744 2715,3742 2712,3742 2712,3512 2711,3512 2711,3503 2710,3503 2710,3431 2711,3431 2711,3412 2710,3412 2710,3392 2709,3392 2709,3354"/></SeparatorRegion>
+	<SeparatorRegion id="r10807">
+	<Coords points="2731,4855 2731,4929 2733,4929 2733,5067 2724,5067 2726,4929 2725,4929 2725,4855"/></SeparatorRegion>
+	<SeparatorRegion id="r10808">
+	<Coords points="2734,5093 2734,5228 2735,5228 2735,5386 2736,5386 2736,5578 2737,5578 2737,5765 2738,5765 2738,6082 2739,6082 2739,6115 2740,6115 2740,6149 2731,6149 2731,6125 2732,6125 2732,6082 2731,6082 2731,5765 2730,5765 2730,5578 2729,5578 2729,5386 2728,5386 2728,5228 2727,5228 2727,5093"/></SeparatorRegion>
+	<SeparatorRegion id="r10809">
+	<Coords points="3536,1693 3550,1693 3553,2133 3554,2294 3556,2740 3546,2741 3546,2568 3542,2051"/></SeparatorRegion>
+	<SeparatorRegion id="r10810">
+	<Coords points="3551,2747 3559,2747 3563,3000 3564,3005 3557,3010 3555,3110 3546,3110 3545,3008 3552,3003 3553,2878"/></SeparatorRegion>
+	<SeparatorRegion id="r10811">
+	<Coords points="3561,3700 3562,3700 3562,3858 3555,3858 3555,3700 3554,3700 3549,3538 3564,3540"/></SeparatorRegion>
+	<SeparatorRegion id="r10812">
+	<Coords points="3571,3867 3571,4005 3569,4005 3569,4240 3568,4240 3570,4287 3559,4292 3562,4240 3563,4240 3563,4005 3564,4005 3564,3867"/></SeparatorRegion>
+	<SeparatorRegion id="r10813">
+	<Coords points="3571,4677 3571,4839 3572,4839 3572,4975 3573,4975 3573,5126 3575,5126 3575,5450 3576,5450 3576,5463 3577,5463 3577,5486 3576,5486 3576,5864 3577,5864 3577,6145 3578,6145 3578,6158 3572,6158 3572,6145 3570,6145 3570,5864 3569,5864 3569,5450 3568,5450 3568,5313 3569,5306 3569,5126 3568,5126 3568,4975 3567,4975 3567,4839 3566,4839 3566,4677"/></SeparatorRegion>
+	<TextRegion id="r127" type="paragraph">
+	<Coords points="3788,342 3786,364 3803,371 4056,368 4054,335 3944,333"/>
+	<TextEquiv>
+	<Unicode>OG�OSZEN:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r129" type="paragraph">
+	<Coords points="3537,386 3532,692 3758,691 3785,714 3881,714 3892,715 3902,710 3899,689 4130,684 4138,374 4087,373"/>
+	<TextEquiv>
+	<Unicode>Przod tekstem t.j. 1-sza strona 50 gr
+za w. m-m 1 łam. str: 5 łam: w tekście
+50 gr., nekrologi 40 gr., zwycz. 15 gr.
+strona 10 łamów. drobne 12 gr. sa wy
+raz. dla poszukujących pracy 10 gr.
+� ogłoszenie 1.20 gr., dle
+oakrobot. 1 st. Ogłoszenia dwukolorow�
+� prec: droaej, ogłoszenia �granicz-
+ne 1 �ójkolorowo o 100 proc. droże.
+Ogłoszenia adwokatów ryczałtena 25 zł
+O�y ogło� niedziełnych sa o 25 proc
+droższe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r131" type="paragraph">
+	<Coords points="3535,727 3535,916 3574,925 4116,909 4130,754 4052,714 3903,717 3881,716 3647,718 3608,727"/>
+	<TextEquiv>
+	<Unicode>W wydania ogólnopolskim �
+za 1 w. m-m w. 1 łamio �r 70 m-m
+(str. 5 lamow) - 1 st. drobne za wyras � gr
+Za tarmia druku 1 tr�ó ogłó�ó
+administracją nie odpowiada.
+P. K. O. Nr. 602 880
+� poesiewa � go�wia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r132" type="paragraph">
+	<Coords points="1883,1706 1883,1883 1888,1895 1920,1884 2122,1882 2126,1842 2671,1833 2699,1826 2700,1706 2685,1691"/>
+	<TextEquiv>
+	<Unicode>dnoskom unikanie wszelkich waśni - oto
+przymioty dzielnego Polaka, oto cnoty, któ-
+rymi zwycięża się najsilniejszego nawet
+przeciwnika.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r134" type="paragraph">
+	<Coords points="2720,2090 2729,2094 3357,2086 3384,2054 3540,2046 3533,1676 2719,1693 2719,1875"/>
+	<TextEquiv>
+	<Unicode>bracia, społeczni opiekunowie spełniać bę-
+dą swoją powinność wojskową z dala od
+ognisk rodzinnym, wy pozostali tym troskli
+wiej zaopiekujcie się młodzieżą, zabiega-
+jąc nie tylko o jej wyżywienie ale także o
+jej uczciwe prowadzenie się. Czuwajcie
+nad tym, aby z braku odpowiedniej opieki
+młodzież nie weszła na złe drogi, nie uległa
+truciźnie niezbożności i swawoli.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r135" type="paragraph">
+	<Coords points="3555,1679 3555,2128 3616,2128 3620,2092 4386,2082 4375,1680 4318,1669 4212,1672"/>
+	<TextEquiv>
+	<Unicode>radosna tajemnica naszych pomyślnych w
+przeszłości zmagań się z przeciwnościami i
+naszych zwycięstw. Z modlitwą, religijną
+pieśnią na ustach podejmowaliśmy ducho-
+we i krwawe walki o wolność narodu i swo
+body dla Ojczyzny. Królowa nasza Matka
+Najśw. właśnie dla tej pobożności uprasza
+ła nam zwycięstwa nawet wtenczas, gdy
+zwycięstwo wydawało się już beznadziej-
+ne.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r141" type="paragraph">
+	<Coords points="223,4951 244,4992 2720,4962 2720,4812 1755,4838 258,4852 230,4875"/>
+	<TextEquiv>
+	<Unicode>godną odpowiedź napastnikowi</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r142" type="paragraph">
+	<Coords points="2739,4337 4401,4337 4400,4534 2924,4541 2906,4565 2884,4565 2862,4546 2739,4547"/>
+	<TextEquiv>
+	<Unicode>Antyniemieckie ulotki we Włoszeth.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r126" type="paragraph">
+	<Coords points="1093,312 1755,283 1842,310 3431,312 3434,985 2401,996 1814,892 1594,1017 1175,1018 1093,1013"/>
+	<TextEquiv>
+	<Unicode>Echo
+Rok XV Nr. 242
+tédź piatek 1 września 1939 r.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10785">
+	<Coords points="223,1046 488,1045 920,1039 1422,1026 2238,1006 3460,998 4356,979 4348,1037 1856,1070 1183,1085 772,1089 221,1085"/></SeparatorRegion>
+	<SeparatorRegion id="r110">
+	<Coords points="1672,2686 1688,2697 1777,2696 1790,2686 1786,2682"/></SeparatorRegion>
+	<TextRegion id="r112" type="paragraph">
+	<Coords points="1857,2220 1859,2220 1859,2221 1860,2221 1860,2222 1861,2222 1861,2327 1862,2327 1862,2401 1769,2401 1782,2438 1769,2444 1723,2442 1540,2447 1520,2455 1510,2444 1465,2445 1344,2455 1326,2451 1282,2450 1261,2456 1255,2455 1252,2448 1197,2450 1098,2461 1090,2461 1090,2449 1052,2450 1052,2413 1051,2413 1051,2279 1050,2279 1056,2279 1056,2278 1061,2278 1061,2277 1066,2277 1066,2276 1071,2276 1071,2275 1076,2275 1076,2274 1081,2274 1081,2273 1086,2273 1086,2272 1091,2272 1091,2271 1096,2271 1096,2270 1101,2270 1101,2269 1106,2269 1106,2268 1111,2268 1111,2267 1116,2267 1116,2266 1117,2266 1117,2257 1118,2257 1118,2249 1119,2249 1119,2240 1120,2240 1120,2232 1129,2232 1129,2231 1138,2231 1138,2230 1170,2230 1170,2231 1184,2231 1184,2232 1243,2232 1243,2231 1289,2231 1289,2230 1335,2230 1335,2229 1381,2229 1381,2228 1381,2229 1401,2229 1401,2230 1421,2230 1421,2231 1449,2231 1449,2230 1456,2230 1456,2229 1464,2229 1464,2228 1471,2228 1471,2227 1479,2227 1479,2226 1486,2226 1486,2225 1486,2226 1499,2226 1499,2227 1512,2227 1512,2228 1561,2228 1561,2227 1565,2227 1565,2226 1568,2226 1568,2225 1571,2225 1571,2224 1574,2224 1574,2223 1574,2224 1712,2224 1712,2223 1748,2223 1748,2222 1785,2222 1785,2221 1821,2221 1821,2220 1857,2220 1857,2219"/>
+	<TextEquiv>
+	<Unicode>Otóż żadną miarą nie należy dopuszczać
+do powstania a tym mniej do rozszerzenia
+się takiego zamieszania. Od pierwszej chwi
+li wszyscy mężczylni czy kobiety, starcy
+czy młodzi, mają obowiązek sumienia</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r114" type="paragraph">
+	<Coords points="1761,2460 1761,2461 1813,2461 1813,2462 1863,2462 1863,2535 1864,2535 1864,2639 1865,2639 1784,2639 1784,2640 1703,2640 1703,2641 1645,2641 1645,2642 1588,2642 1588,2643 1530,2643 1530,2644 1473,2644 1473,2645 1415,2645 1415,2646 1358,2646 1358,2647 1358,2646 1325,2646 1325,2645 1292,2645 1292,2644 1259,2644 1259,2643 1226,2643 1226,2642 1195,2649 1193,2641 1159,2641 1159,2648 1158,2648 1158,2655 1157,2655 1157,2661 1156,2661 1156,2668 1155,2668 1155,2674 1154,2674 1154,2681 1153,2681 1153,2687 1153,2686 1128,2686 1128,2685 1103,2685 1103,2684 1078,2684 1078,2683 1053,2683 1052,2548 1055,2510 1161,2514 1158,2494 1159,2467 1159,2466 1178,2466 1178,2465 1202,2466 1215,2464 1233,2463 1233,2462 1270,2461 1270,2460 1280,2461 1291,2462 1302,2463 1313,2464 1321,2467 1323,2468 1393,2468 1400,2469 1405,2463 1411,2462 1418,2467 1499,2466 1506,2465 1515,2459 1520,2463 1520,2462 1534,2461 1541,2460 1555,2458 1606,2468"/>
+	<TextEquiv>
+	<Unicode>spełniać swoje codzienne prace
+jak najgorliwiej i jak najwydatniej — ow-
+szem, obok tych prac powinni podejmować
+także te, które spełniali zawezwani do woj-
+ska...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r116" type="paragraph">
+	<Coords points="2703,2387 2669,2387 2669,2388 2632,2388 2632,2389 2594,2389 2594,2390 2557,2390 2557,2391 2519,2391 2519,2392 2482,2392 2482,2393 2444,2393 2444,2394 2407,2394 2407,2395 2369,2395 2369,2396 2362,2396 2362,2397 2354,2397 2354,2398 2347,2398 2347,2399 2339,2399 2339,2400 2332,2400 2332,2401 2324,2401 2324,2402 2317,2402 2317,2403 2309,2403 2309,2404 2302,2404 2302,2405 2294,2405 2294,2406 2287,2406 2287,2407 2279,2407 2279,2408 2272,2408 2272,2409 2264,2409 2264,2410 2257,2410 2257,2411 2249,2411 2249,2412 2243,2412 2243,2411 2239,2411 2239,2410 2235,2410 2235,2409 2231,2409 2231,2408 2226,2408 2226,2407 2222,2407 2222,2406 2218,2406 2218,2405 2211,2405 2211,2406 2199,2406 2199,2407 2186,2407 2186,2408 2174,2408 2174,2409 2161,2409 2161,2410 2149,2410 2149,2411 2136,2411 2136,2412 2116,2412 2116,2413 2095,2413 2095,2414 2075,2414 2075,2415 2056,2415 2056,2414 2055,2414 2055,2413 2053,2413 2053,2412 2052,2412 2052,2411 2050,2411 2050,2410 2049,2410 2049,2409 2047,2409 2047,2408 2046,2408 2046,2407 2044,2407 2044,2406 2040,2406 2040,2407 2014,2407 2014,2408 1991,2408 1991,2407 1964,2407 1964,2406 1937,2406 1937,2405 1910,2405 1910,2404 1891,2404 1891,2288 1898,2288 1898,2287 1904,2287 1904,2286 1910,2286 1910,2285 1916,2285 1916,2284 1923,2284 1923,2283 1929,2283 1929,2282 1935,2282 1935,2281 1941,2281 1941,2280 1948,2280 1948,2279 1954,2279 1954,2278 1960,2278 1960,2277 1966,2277 1966,2276 1972,2276 1972,2275 1972,2276 1998,2276 1998,2277 2024,2277 2024,2278 2054,2278 2054,2277 2059,2277 2059,2276 2088,2276 2088,2275 2116,2275 2116,2274 2145,2274 2145,2273 2173,2273 2173,2272 2201,2272 2201,2271 2235,2271 2235,2270 2268,2270 2268,2269 2302,2269 2302,2268 2335,2268 2335,2267 2369,2267 2369,2266 2402,2266 2402,2265 2436,2265 2436,2264 2469,2264 2469,2263 2503,2263 2503,2262 2536,2262 2536,2261 2570,2261 2570,2260 2603,2260 2603,2259 2637,2259 2637,2258 2670,2258 2670,2257 2703,2257 2703,2256"/>
+	<TextEquiv>
+	<Unicode>A jeśliby się tu i ówdzie pokazały ja-
+kieś dla Polski niepowodzenia wojenne,
+wiedźcie, że to będzie</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r118" type="paragraph">
+	<Coords points="2703,2389 2703,2707 2704,2707 2679,2707 2679,2708 2655,2708 2655,2709 2631,2709 2631,2710 2607,2710 2607,2711 2583,2711 2583,2712 2559,2712 2559,2713 2535,2713 2535,2714 2511,2714 2511,2715 2487,2715 2487,2716 2463,2716 2463,2717 2439,2717 2439,2718 2415,2718 2415,2719 2391,2719 2391,2720 2367,2720 2367,2721 2343,2721 2343,2722 2319,2722 2319,2723 2295,2723 2295,2724 2271,2724 2271,2725 2228,2725 2228,2726 2185,2726 2185,2727 2142,2727 2142,2728 2099,2728 2099,2729 2057,2729 2057,2730 2057,2729 1974,2729 1974,2728 1891,2728 1891,2438 1890,2438 1891,2438 1891,2406 1908,2406 1908,2407 1935,2407 1935,2408 1962,2408 1962,2409 1989,2409 1989,2410 2016,2410 2016,2409 2042,2409 2042,2408 2042,2409 2044,2409 2044,2410 2045,2410 2045,2411 2047,2411 2047,2412 2048,2412 2048,2413 2050,2413 2050,2414 2051,2414 2051,2415 2053,2415 2053,2416 2054,2416 2054,2417 2077,2417 2077,2416 2097,2416 2097,2415 2118,2415 2118,2414 2138,2414 2138,2413 2151,2413 2151,2412 2163,2412 2163,2411 2176,2411 2176,2410 2188,2410 2188,2409 2201,2409 2201,2408 2213,2408 2213,2407 2216,2407 2216,2408 2220,2408 2220,2409 2224,2409 2224,2410 2229,2410 2229,2411 2233,2411 2233,2412 2237,2412 2237,2413 2241,2413 2241,2414 2251,2414 2251,2413 2259,2413 2259,2412 2266,2412 2266,2411 2274,2411 2274,2410 2281,2410 2281,2409 2289,2409 2289,2408 2296,2408 2296,2407 2304,2407 2304,2406 2311,2406 2311,2405 2319,2405 2319,2404 2326,2404 2326,2403 2334,2403 2334,2402 2341,2402 2341,2401 2349,2401 2349,2400 2356,2400 2356,2399 2364,2399 2364,2398 2371,2398 2371,2397 2409,2397 2409,2396 2446,2396 2446,2395 2484,2395 2484,2394 2521,2394 2521,2393 2559,2393 2559,2392 2596,2392 2596,2391 2634,2391 2634,2390 2671,2390 2671,2389"/>
+	<TextEquiv>
+	<Unicode>bez żadnego znaczenia na wynik wojny.
+W każdej wojnie, także w tych, które pro-
+wadzić musiała Polska, zachodziły w po-
+czątkach takie niepomyślne wypadki, Są
+one jednak przemijające — zwycięstwo od-
+noszą ci, którzy, przepojeni żądzą zwycię-
+stwa, mężnie walczą do końca.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r120" type="paragraph">
+	<Coords points="3536,2104 3537,2104 3537,2115 3538,2115 3537,2115 3537,2154 3536,2154 3536,2177 3532,2177 3526,2178 3520,2179 3520,2180 3515,2180 3509,2181 3509,2182 3503,2182 3503,2183 3497,2183 3497,2184 3492,2184 3492,2185 3486,2185 3480,2186 3480,2187 3476,2187 3476,2186 3450,2186 3450,2185 3424,2185 3424,2184 3397,2184 3397,2183 3371,2183 3371,2182 3344,2182 3344,2181 3318,2181 3318,2180 3289,2180 3289,2181 3286,2181 3286,2182 3282,2182 3282,2183 3279,2183 3279,2184 3275,2184 3275,2185 3273,2185 3273,2184 3269,2184 3269,2183 3265,2183 3265,2182 3259,2182 3259,2181 3253,2181 3253,2180 3245,2180 3245,2181 3205,2181 3205,2182 3164,2182 3164,2183 3123,2183 3123,2184 3119,2184 3119,2185 3115,2185 3115,2186 3113,2186 3113,2185 3108,2185 3108,2184 3103,2184 3103,2183 3098,2183 3098,2182 3093,2182 3093,2181 3088,2181 3088,2180 3081,2180 3081,2181 3064,2181 3064,2182 3046,2182 3046,2183 3028,2183 3028,2184 3010,2184 3010,2185 2992,2185 2992,2186 2976,2186 2976,2185 2952,2185 2952,2184 2928,2184 2928,2183 2904,2183 2904,2182 2880,2182 2880,2181 2854,2181 2854,2182 2847,2182 2847,2183 2839,2183 2839,2184 2832,2184 2832,2185 2824,2185 2824,2186 2817,2186 2809,2187 2809,2188 2802,2188 2794,2189 2794,2190 2787,2190 2779,2191 2779,2192 2772,2192 2764,2193 2764,2194 2757,2194 2757,2195 2749,2195 2749,2196 2742,2196 2742,2197 2734,2197 2727,2198 2727,2199 2725,2199 2725,2191 2724,2191 2724,2181 2723,2181 2723,2171 2722,2171 2722,2161 2721,2161 2722,2161 2722,2156 2723,2156 2723,2152 2724,2152 2724,2147 2725,2147 2725,2143 2726,2143 2726,2138 2727,2138 2727,2134 2728,2134 2728,2129 2729,2129 2729,2125 2730,2125 2730,2120 2731,2120 2731,2116 2732,2116 2732,2111 2733,2111 2733,2107 2735,2107 2735,2106 2737,2106 2737,2105 2739,2105 2739,2104 2740,2104 2740,2103 2742,2103 2742,2102 2744,2102 2744,2101 2746,2101 2746,2100 2747,2100 2747,2099 2860,2099 2860,2098 2973,2098 2973,2097 3086,2097 3086,2096 3198,2096 3198,2095 3311,2095 3311,2094 3424,2094 3424,2093 3536,2093 3536,2092"/>
+	<TextEquiv>
+	<Unicode>Ty zaś młodzieży oceniaj dobrze powa
+gę położenia. Wiedz, że toczyć się będzie</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r122" type="paragraph">
+	<Coords points="3423,2226 3403,2227 3207,2229 2960,2225 2884,2234 2872,2231 2832,2227 2826,2188 2826,2187 2834,2187 2834,2186 2841,2186 2841,2185 2849,2185 2849,2184 2856,2184 2856,2183 2878,2183 2878,2184 2902,2184 2902,2185 2926,2185 2926,2186 2950,2186 2950,2187 2974,2187 2974,2188 2994,2188 2994,2187 3012,2187 3012,2186 3030,2186 3030,2185 3048,2185 3048,2184 3066,2184 3066,2183 3083,2183 3083,2182 3086,2182 3086,2183 3091,2183 3091,2184 3096,2184 3096,2185 3101,2185 3101,2186 3106,2186 3106,2187 3111,2187 3111,2188 3117,2188 3117,2187 3121,2187 3121,2186 3125,2186 3125,2185 3166,2185 3166,2184 3207,2184 3207,2183 3247,2183 3247,2182 3251,2182 3251,2183 3257,2183 3257,2184 3263,2184 3263,2185 3267,2185 3267,2186 3271,2186 3271,2187 3277,2187 3277,2186 3281,2186 3281,2185 3284,2185 3284,2184 3288,2184 3288,2183 3291,2183 3291,2182 3316,2182 3316,2183 3342,2183 3342,2184 3369,2184 3369,2185 3395,2185 3395,2186 3422,2186 3422,2187 3433,2215"/>
+	<TextEquiv>
+	<Unicode>bój o wolność twojej Ojczyzny,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r143" type="paragraph">
+	<Coords points="2748,6007 3370,6007 3511,6002 3557,6007 3560,6138 3557,6172 2748,6172"/>
+	<TextEquiv>
+	<Unicode>Prywatne Żeńskie KURSY KROJU modelowania, szycia i Robót Ręcznych
+Marii PUTOWEJ w Łodzi,
+ZAISY CODZIENNIE ul, Piotrkowska 103</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r96">
+	<Coords points="215,3358 218,3398 220,3419 2440,3397 2695,3389 2702,3363 2701,3340 2385,3333 2374,3346 2172,3343 2136,3352 2045,3350 2028,3346 1965,3344 1562,3341 1378,3352 1345,3352"/></SeparatorRegion>
+	<TextRegion id="r138" type="paragraph">
+	<Coords points="2424,2956 2680,2956 2684,2960 2684,3048 2688,3048 2688,3052 2692,3052 2692,3064 2696,3064 2696,3100 2700,3100 2700,3184 2699,3184 2699,3235 2698,3235 2698,3286 2697,3286 2697,3337 2665,3337 2665,3336 2662,3336 2662,3335 2659,3335 2659,3334 2655,3334 2655,3333 2654,3333 2654,3332 2653,3332 2653,3331 2652,3331 2652,3330 2651,3330 2651,3329 2650,3329 2650,3328 2649,3328 2649,3327 2648,3327 2648,3326 2647,3326 2647,3325 2646,3325 2646,3324 2645,3324 2645,3323 2644,3323 2644,3322 2643,3322 2643,3321 2642,3321 2642,3320 2641,3320 2641,3319 2374,3319 2374,3320 2373,3320 2373,3322 2372,3322 2372,3324 2371,3324 2371,3326 2370,3326 2370,3328 2369,3328 2369,3330 2368,3330 2368,3332 2367,3332 2367,3334 2366,3334 2366,3336 2365,3336 2365,3338 2364,3338 2364,3340 2363,3340 2363,3342 2326,3342 2326,3341 2324,3341 2324,3340 2322,3340 2322,3339 2160,3339 2160,3340 2156,3340 2156,3341 2152,3341 2152,3342 2148,3342 2148,3343 2144,3343 2144,3344 2140,3344 2140,3345 2136,3345 2136,3346 2131,3346 2131,3347 2087,3347 2087,3348 2042,3348 2042,3347 2041,3347 2041,3346 2040,3346 2040,3345 2039,3345 2039,3344 2038,3344 2038,3343 2037,3343 2037,3342 2036,3342 2036,3341 2035,3341 2035,3340 2033,3340 2033,3339 1940,3324 1445,3324 1269,3335 1260,3348 1235,3348 1231,3345 1229,3344 1227,3343 886,3335 598,3334 226,3337 224,3288 224,3180 275,3114 222,3117 219,3111 220,2990 308,2984 952,2980 1192,2976 1440,2972 1748,2968 1976,2964 2228,2964 2228,2960"/>
+	<TextEquiv>
+	<Unicode>NIEMCY ROZPOCZĘLI WOJNĘ
+Odezwa P. Prezydenta Rzeczypospolitej</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6739" type="paragraph">
+	<Coords points="228,4224 2712,4224 2714,4632 2714,4649 2424,4648 2049,4655 2028,4768 1560,4778 212,4787 190,4512"/>
+	<TextEquiv>
+	<Unicode>W tej chwili dziejowej zwracam się do wszy-
+stkich Obywateli Państwa w głębokim przeświad-
+czeniu, że cały Naród w obronie swojej wolności,
+niepodległości i honoru skupi się dokoła Wodza
+Naczelnego i Sił Zbrojnych, oraz da</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6998" type="paragraph">
+	<Coords points="230,5008 2516,4995 2714,5008 2722,5023 2714,5097 1205,5119 1216,5223 238,5246 222,5239 215,5028"/>
+	<TextEquiv>
+	<Unicode>jak się to już nieraz działo w hisíorii stosunków
+polsko-niemieckich.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r10795">
+	<Coords points="232,2908 2697,2868 2696,2905 240,2936 231,2928"/></SeparatorRegion>
+	<TextRegion id="r4821" type="paragraph">
+	<Coords points="3308,2629 3308,2630 3355,2630 3355,2631 3401,2631 3401,2632 3448,2632 3448,2633 3494,2633 3494,2634 3540,2634 3540,2668 3541,2668 3541,2702 3542,2702 3542,2736 3543,2736 3543,2770 3544,2770 3544,2803 3545,2803 3545,2926 3546,2926 3546,2981 3547,2981 3538,2981 3538,2982 3529,2982 3529,2983 3520,2983 3520,2984 3512,2984 3512,2985 3503,2985 3503,2986 3494,2986 3494,2987 3486,2987 3486,2988 3481,2988 3481,2989 3477,2989 3477,2990 3473,2990 3473,2991 3469,2991 3469,2992 3465,2992 3465,2993 3461,2993 3461,2994 3461,2993 3455,2993 3455,2992 3449,2992 3449,2991 3443,2991 3443,2990 3311,2990 3311,2991 3298,2991 3298,2992 3286,2992 3268,2993 3268,2994 3251,2994 3251,2995 3234,2995 3234,2996 3217,2996 3217,2997 3200,2997 3200,2998 3200,2997 3186,2997 3186,2996 3083,2996 3083,2997 3070,2997 3070,2998 3058,2998 3058,2999 3045,2999 3045,3000 3033,3000 3033,3001 3033,2999 3032,2999 3032,2998 3031,2998 3031,2997 3030,2997 3030,2996 3029,2996 3029,2995 3028,2995 3028,2994 3027,2994 3027,2993 3026,2993 3026,2992 2879,2992 2879,2993 2863,2993 2863,2994 2862,2994 2862,2997 2861,2997 2861,2999 2860,2999 2860,3001 2859,3001 2859,3003 2856,3002 2849,3006 2846,3006 2846,3005 2842,3005 2842,3004 2839,3004 2839,3003 2828,3003 2828,3001 2732,2996 2731,2956 2730,2956 2730,2911 2729,2911 2729,2866 2728,2866 2728,2822 2727,2822 2727,2725 2726,2725 2726,2694 2725,2694 2730,2694 2730,2693 2734,2693 2734,2692 2738,2692 2738,2691 2742,2691 2742,2690 2746,2690 2746,2689 2750,2689 2750,2688 2754,2688 2754,2687 2758,2687 2758,2686 2762,2686 2762,2685 2766,2685 2766,2684 2770,2684 2770,2683 2774,2683 2774,2682 2778,2682 2778,2681 2781,2681 2781,2650 2783,2650 2783,2649 2785,2649 2785,2648 2787,2648 2787,2647 2789,2647 2789,2646 2791,2646 2791,2645 2793,2645 2793,2644 2795,2644 2795,2643 2797,2643 2797,2642 2799,2642 2799,2641 2801,2641 2801,2640 2803,2640 2803,2639 2804,2639 2804,2638 2804,2639 2914,2642 3038,2641 3046,2638 3076,2638 3076,2637 3105,2637 3105,2636 3134,2636 3134,2635 3163,2635 3163,2634 3192,2634 3192,2633 3221,2633 3221,2632 3250,2632 3250,2631 3279,2631 3279,2630 3308,2630"/>
+	<TextEquiv>
+	<Unicode>Cechą młodzieży polskiej była gorąca
+miłość Ojczyzny. Teraz droga młodzieży,
+pokażesz czynem, jak głęboko i poważnie
+tę miłość pojmujesz. Za to, że twoi ojcowie
+i bracia własną piersią stawać będą w two
+jej obronie, abyś nie stała się niewolnika-
+mi wroga, okaż swoją wdzięczność przez
+beznaganne i wytężoną pracę domową.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r89" type="paragraph">
+	<Coords points="342,387 342,960 955,960 955,387"/>
+	<TextEquiv>
+	<Unicode>��������</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r90" type="handwritten-annotation">
+	<Coords points="221,175 221,292 1701,264 1733,175"/></GraphicRegion>
+	<GraphicRegion id="r99" type="handwritten-annotation">
+	<Coords points="2562,6333 2562,6522 3000,6522 3000,6333"/></GraphicRegion>
+	<GraphicRegion id="r100" type="stamp">
+	<Coords points="2322,6337 2322,6503 2540,6503 2540,6337"/></GraphicRegion>
+	<GraphicRegion id="r101" type="handwritten-annotation">
+	<Coords points="2192,6212 2192,6298 2612,6298 2612,6212"/></GraphicRegion></Page></PcGts>

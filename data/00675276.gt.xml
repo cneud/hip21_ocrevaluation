@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00675276">
+	<Metadata>
+	<Creator>FineReader Engine 10</Creator>
+	<Created>2013-10-15T06:20:50</Created>
+	<LastChange>2014-01-22T06:41:25</LastChange>
+	<Comments>Recognition and export settings:
+
+  Recognition language(s): Estonian
+  Font class: normal
+  Orig-outlines: false
+  Orig-text: false
+  Orig-drop-caps: false
+  Reading order: false
+    Exclude: [default]
+  Layers: false
+  To remove: background-images
+
+Conversion and export:
+
+</Comments></Metadata>
+	<Page imageFilename="00675276.tif" imageWidth="7168" imageHeight="8448">
+	<ReadingOrder>
+	<UnorderedGroup id="ro357564684568544579089">
+	<OrderedGroup id="r103">
+	<RegionRefIndexed regionRef="r247" index="0"/>
+	<RegionRefIndexed regionRef="r101" index="1"/>
+	<RegionRefIndexed regionRef="r278" index="2"/>
+	<RegionRefIndexed regionRef="r754" index="3"/>
+	<RegionRefIndexed regionRef="r1389" index="4"/>
+	<RegionRefIndexed regionRef="r2372" index="5"/>
+	<RegionRefIndexed regionRef="r3197" index="6"/>
+	<RegionRefIndexed regionRef="r4455" index="7"/>
+	<RegionRefIndexed regionRef="r4653" index="8"/>
+	<RegionRefIndexed regionRef="r4657" index="9"/>
+	<RegionRefIndexed regionRef="r5441" index="10"/>
+	<RegionRefIndexed regionRef="r7329" index="11"/>
+	<RegionRefIndexed regionRef="r7739" index="12"/>
+	<RegionRefIndexed regionRef="r8506" index="13"/>
+	<RegionRefIndexed regionRef="r9099" index="14"/></OrderedGroup>
+	<OrderedGroup id="r104">
+	<RegionRefIndexed regionRef="r31" index="0"/>
+	<RegionRefIndexed regionRef="r162" index="1"/>
+	<RegionRefIndexed regionRef="r176" index="2"/>
+	<RegionRefIndexed regionRef="r5573" index="3"/>
+	<RegionRefIndexed regionRef="r6182" index="4"/>
+	<RegionRefIndexed regionRef="r6316" index="5"/>
+	<RegionRefIndexed regionRef="r6702" index="6"/>
+	<RegionRefIndexed regionRef="r6775" index="7"/>
+	<RegionRefIndexed regionRef="r7006" index="8"/>
+	<RegionRefIndexed regionRef="r9675" index="9"/>
+	<RegionRefIndexed regionRef="r10435" index="10"/>
+	<RegionRefIndexed regionRef="r10500" index="11"/>
+	<RegionRefIndexed regionRef="r11066" index="12"/>
+	<RegionRefIndexed regionRef="r11663" index="13"/>
+	<RegionRefIndexed regionRef="r11710" index="14"/>
+	<RegionRefIndexed regionRef="r12168" index="15"/>
+	<RegionRefIndexed regionRef="r12517" index="16"/>
+	<RegionRefIndexed regionRef="r12570" index="17"/>
+	<RegionRefIndexed regionRef="r12598" index="18"/>
+	<RegionRefIndexed regionRef="r12899" index="19"/>
+	<RegionRefIndexed regionRef="r13054" index="20"/>
+	<RegionRefIndexed regionRef="r13119" index="21"/>
+	<RegionRefIndexed regionRef="r13896" index="22"/>
+	<RegionRefIndexed regionRef="r15199" index="23"/>
+	<RegionRefIndexed regionRef="r15395" index="24"/>
+	<RegionRefIndexed regionRef="r15579" index="25"/>
+	<RegionRefIndexed regionRef="r15722" index="26"/>
+	<RegionRefIndexed regionRef="r15765" index="27"/>
+	<RegionRefIndexed regionRef="r16273" index="28"/>
+	<RegionRefIndexed regionRef="r17036" index="29"/>
+	<RegionRefIndexed regionRef="r17323" index="30"/></OrderedGroup>
+	<OrderedGroup id="r105">
+	<RegionRefIndexed regionRef="r18725" index="0"/>
+	<RegionRefIndexed regionRef="r18742" index="1"/></OrderedGroup></UnorderedGroup></ReadingOrder>
+	<ImageRegion id="r30">
+	<Coords>
+	<Point x="500" y="902"/>
+	<Point x="1486" y="902"/>
+	<Point x="1486" y="2284"/>
+	<Point x="500" y="2284"/></Coords></ImageRegion>
+	<TextRegion id="r31" type="heading">
+	<Coords>
+	<Point x="1572" y="844"/>
+	<Point x="4764" y="844"/>
+	<Point x="4764" y="1116"/>
+	<Point x="1572" y="1116"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>„Vanemuine" uue teatrihooaja lävel</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r176" type="paragraph">
+	<Coords>
+	<Point x="1789" y="1316"/>
+	<Point x="4566" y="1326"/>
+	<Point x="4566" y="1424"/>
+	<Point x="1880" y="1436"/>
+	<Point x="1783" y="1436"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>„Vanemuise" eesriie kerkib 25. septembril</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r219" type="caption">
+	<Coords>
+	<Point x="687" y="2326"/>
+	<Point x="1006" y="2328"/>
+	<Point x="1327" y="2322"/>
+	<Point x="1322" y="2383"/>
+	<Point x="683" y="2396"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kunstiline üldjuht K. Ird</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r247" type="heading">
+	<Coords>
+	<Point x="449" y="2439"/>
+	<Point x="1523" y="2439"/>
+	<Point x="1523" y="2567"/>
+	<Point x="446" y="2559"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>�Vanemuise" teater uuel tee]</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r278" type="paragraph">
+	<Coords>
+	<Point x="495" y="2643"/>
+	<Point x="1526" y="2637"/>
+	<Point x="1534" y="3156"/>
+	<Point x="489" y="3158"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Meie töötava rahva hiljutised suured või-
+dud on kindlustanud ka „Vanemuise" teatrile
+senisest hoopis avaramad võimalused teatri-
+kunsti arendamiseks. Tartu Töölislihingute
+Keskliidu algatusel uuendatud teatri juht-
+kond ühes kogu arvuka tegelasteperega on
+asunud hoogsalt neid võimalusi kasutama, et
+omalt poolt täle innuga ja aktiivselt kaasa ai-
+data tagurluse köidikuist vabanenud töörahva
+võitlusele sotsialismi ülesehitamisel ja kind-
+lustamisel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r754" type="paragraph">
+	<Coords>
+	<Point x="483" y="3167"/>
+	<Point x="1532" y="3166"/>
+	<Point x="1533" y="3830"/>
+	<Point x="480" y="3829"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Reaktsionääride võimu kukutamisega on
+ühtlasi „Vanemuise" teater lakanud olemast
+ühe väikese kultuurihuvideta kildkonna tea-
+ter. Uues ühiskonnas on teatrile avatud-tee
+vabaks, laiahaardeliseks ja sihiteadlikuks
+loominguks. „Vanemuine" võib kujuneda ko-
+gu töötava rahva elu- ja kunstihuve kandvaks
+kunstiteatriks, tõeliseks kõrge kultuuritase-
+mega rahvateatriks. Paljutõotav ja tun-
+nustustvääriv on ses suhtes teatri uue Kuns-
+tilise Nõukogu juhtlause: „Oleme mitte ai-
+ult lojaalne uuele, vaid aktiivselt vastu kõigele
+vanale' ja aktiviseerivalt poolt kõigele uuele,
+arenevale" („Postimees" nr. 212).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1389" type="paragraph">
+	<Coords>
+	<Point x="498" y="3839"/>
+	<Point x="1539" y="3835"/>
+	<Point x="1531" y="4826"/>
+	<Point x="803" y="4827"/>
+	<Point x="491" y="4824"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Siinjuures aga tuleb märkida, et tartlased
+on harjunud üldiselt umbusklikult suhtuma
+„Vanemuise" teatrisse. Viimase kolmeküm-
+neaastase tegevuse kestel on nähtud siin nii
+palju kunstiliste juhtide vahetamisi, koossei-
+sude põhjalikke muutumisi ning on kuuldud
+siis aeg-ajalt kõlavasõnalisi tõotusi uuest suu-
+nast ja peatsest tõusust. Kuld teatrikriis on
+püsinud) kuni viimase ajani. Suhe teatri ja
+ra�va vahel on olnud lõtv. Helkiv, soojendav
+ja kaasahaarav loominguline leek ei ole saa-
+nud neil ajul kunagi puhkeda „Vanemuise"
+laval. Neis oludes teater ei saanud pakkuda
+enamat kui kajastada sama ummikut ja või-
+metust, mis oli omane manduvale, ilma tulevi-
+ku-väljavaadeteta kodanlikule kihile. Sellest
+oli tingitud ka rahva poolehoiu kaotamine. Na-
+gu kodanlikel kihtidel, nii ka teatril puudus
+sügavalt põhjendatud ideoloogia, puudus see-
+ga siht tegutsemiseks ja edasiarenemiseks.
+Sellest oli tingitud teatri kunstiline saamatus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2372" type="paragraph">
+	<Coords>
+	<Point x="489" y="4832"/>
+	<Point x="1529" y="4832"/>
+	<Point x="1525" y="5654"/>
+	<Point x="1356" y="5669"/>
+	<Point x="496" y="5683"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Peame olema teadlikud, et praegust põhi-
+list muudatust teatri suunas ei tule samasta-
+da eelpool nimetatud muudatustega. Siin ei
+ole tegemist ainult üksikute tegelaste ümber-
+istumisega või päevakajalise programmivahe-
+tusega. Siin ei ole tegemist ka lihtsa järje-
+kordse „uuendamisega", vaid uue teatri loo-
+misega. Uus „Vanemuine" peab rajatama
+kindlale ideoloogilisele ja maailmavaatelisele
+alusele. Selleks kindlaks aluseks on mark-
+sismi-leninlsmi õpetus, mis on juhtinud töö-
+tavad kihid võidule ning sotsialismi ülesehi-
+tamisele. Järelikult omandab seega teatri
+tegevus eesmärgi ühtluse kõige laialdasemate
+töötavate kihtide võitluse eesmärkidega. Ai-
+nult nii võib teater juba oma tegevuse algul
+saada töörahva usalduse osaliseks, et tõesti
+tagajärjekalt teenida uut ühiskonda.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3197" type="paragraph">
+	<Coords>
+	<Point x="1461" y="5674"/>
+	<Point x="1535" y="5678"/>
+	<Point x="1537" y="6951"/>
+	<Point x="501" y="6953"/>
+	<Point x="487" y="5688"/>
+	<Point x="573" y="5686"/>
+	<Point x="644" y="5685"/>
+	<Point x="1031" y="5685"/>
+	<Point x="1326" y="5677"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>See kõik aga nõuab uute loominguprint-
+siipide rakendamist teatritöö juhtimisel. Kuna
+kindlal ideoloogilisel alusel seisva teatri te-
+gevushoogu ei ähvarda ega kõiguta alalised
+suunaotsingud ja neist tulenevad kriisid, siis
+võidakse loomingulist tegevust juhtida ja edasi
+arendada juba teadliku meetodi põhjal. Ei
+tohiks olla kahtlust selles, et „Vanemuise"
+edaspidises tegevuses peaks juhtivaks kujune-
+ma sotsialistliku realismi loominguline mee-
+tod. Selle meetodi omandamisel võivad teatri
+tegelaskonnal suuresti abiks olla liiduvabarii-
+kide rahvaste rikkalikud kunstikogemused ja
+kriitilised arutelud. Kuid ei tule unustada, et
+sotsialistlik realism ei paku valemeid ja val-
+misretsepte, vaid annab üldised juhibed ning
+lähtekohad konkreetsete nähtuste mõistmiseks
+ja käsitlemiseks. Et neid juhiseid õieti kasu-
+tada, see nõuab igalt kunstnikult põhjalikku
+eeltööd ja süvenemist. Seepärast on hinna-
+tav ja mõistetav uue juhtkonna talitus, kui
+ta on jätnud pea kõigile senisel le tegelasile
+võimaluse proovida oma võimeid uute nõud-
+luste teostamisel Tahame loota, et uus vaim
+avaidab viljastavat mõju mitmessegi säära-
+sesse tegelasse, kelle võlmed ei pääsenud esile
+senises ebaterves õhkkonnas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4455" type="paragraph">
+	<Coords>
+	<Point x="512" y="6962"/>
+	<Point x="1535" y="6958"/>
+	<Point x="1542" y="7189"/>
+	<Point x="1016" y="7188"/>
+	<Point x="510" y="7198"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Arvustusel tuleb suurima huviga ja mõis-
+tatahtmisega jälgida „Vanemuise" uue tege-
+vuse algust. Esialgsete puuduste ja vigade
+avastamisel ei tohi arvustus silmast lasta
+teatri üldsihti.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4653" type="paragraph">
+	<Coords>
+	<Point x="1021" y="7197"/>
+	<Point x="1051" y="7198"/>
+	<Point x="1053" y="7237"/>
+	<Point x="1018" y="7235"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4657" type="paragraph">
+	<Coords>
+	<Point x="506" y="7240"/>
+	<Point x="1543" y="7242"/>
+	<Point x="1537" y="8022"/>
+	<Point x="1175" y="8039"/>
+	<Point x="512" y="8059"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Praegu on vajalik tähelepanu juhtida asja-
+olule, et uute sihtjoonte püstitamisel teatri
+juhtkond ei ole suutnud õiget lahendust näi-
+data vana teatri kõige ohtlikuma ja kuri-
+kuulsama pärandi suhtes. See on nimelt
+anarhiline oli�ord tegelaskonna koosseisude
+kuuluvuse alal. Uute ümberkorraldustega on
+õnnelikult vabanetud endisaegsest väga tüli-
+kast dualismist teatri juhtimisel. Seltsi ju-
+hatus ei ole enam segamas kunstilise juht-
+konna tegevust. Näiliselt allub teater ühtla-
+sele juhtimisele. Tegelikult ja õieti kuulub
+sellele juhtimisele kaks erialalist teatrit, mida
+on siiski võimatu ühtlaselt juhtida. Siit tekib
+vastuoksusi kunstiprintsiipide rakendusel, se-
+gadusi koosseisude alal ning hajutavat stiilide
+segu kunstilistes avaldustes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5441" type="paragraph">
+	<Coords>
+	<Point x="507" y="8064"/>
+	<Point x="623" y="8058"/>
+	<Point x="1542" y="8041"/>
+	<Point x="1548" y="8189"/>
+	<Point x="508" y="8197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Teatril on kasutada meie olude kohta
+hiigelmaja. Põhjendatult võidakse karta, et
+ainult ühel teatri-alal käib üle jõu säärase</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5573" type="paragraph">
+	<Coords>
+	<Point x="1574" y="1459"/>
+	<Point x="2600" y="1458"/>
+	<Point x="2618" y="2390"/>
+	<Point x="1575" y="2396"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Murrangulised sündmused meie po-
+liitilises elus on toonud kaasa murran-
+gu ka teatriellu. Ja pealegi üsna põhja-
+liku, sest uues ühiskonnas ühelt poolt
+on teadusele ja kunstile, seega ka
+teatrile kindlustatud vabad arengu-
+võimalused, teiselt poolt on aseta-
+tud teatrile ka senisest suuremad nõud-
+mised ja ülesanded. Kuidas kavatseb
+„ Vanemuise" rohkearvuline pere täita
+neid temale asetatud ülesandeid uue
+sotsialistliku ühiskonna ülesehitamise
+töös ja milliseid muudatusi on toonud
+uus kord teatriinimestele, laseme jutus-
+tada „Vanemuise" juhtivatel tegelastel
+enestel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6182" type="paragraph">
+	<Coords>
+	<Point x="1589" y="2407"/>
+	<Point x="2600" y="2400"/>
+	<Point x="2601" y="2636"/>
+	<Point x="1589" y="2636"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>„Vanemuise" teatri direktor Kaarli
+Aluoja ja teatri kunstiline juht Kaarel
+Ird oma ühises jutuajamises tähenda-
+sid järgmist:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6316" type="paragraph">
+	<Coords>
+	<Point x="1580" y="2656"/>
+	<Point x="2608" y="2656"/>
+	<Point x="2611" y="3233"/>
+	<Point x="1587" y="3239"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>„Nii juhtkonna kui ka tegelaskonna
+meeleolu on praegu suurepärane," vas-
+tasid usutletavad vastavale küsimusele.
+„Teatri tegelaskond on aru saanud,
+mida neil tuleb teha, ja nende meeleolule
+on positiivselt mõjunud punktisüsteemi
+kaotamine ja näitlejate viimine kindla-
+tele palkadele. Kuigi töökoormus on
+üsna suur, sest hooaja avamine seisab
+juba üsna ukse ees —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6775" type="paragraph">
+	<Coords>
+	<Point x="1587" y="3394"/>
+	<Point x="2613" y="3397"/>
+	<Point x="2612" y="3720"/>
+	<Point x="2251" y="3733"/>
+	<Point x="2222" y="3739"/>
+	<Point x="2065" y="3732"/>
+	<Point x="1869" y="3741"/>
+	<Point x="1850" y="3741"/>
+	<Point x="1767" y="3733"/>
+	<Point x="1633" y="3733"/>
+	<Point x="1588" y="3732"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>siis on tegelaskonna tööpäev täiel rin-
+del muuutnud üsna pikaks. Kuid sel-
+lele vaatamata pole olnud mingisugu-
+seid nurinaid. Kurdetakse ainult üks-
+meelselt, et päevad on lühikesed — 24
+tunnist kipub väheseks jääma.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7006" type="paragraph">
+	<Coords>
+	<Point x="1586" y="3743"/>
+	<Point x="1763" y="3738"/>
+	<Point x="1851" y="3743"/>
+	<Point x="2149" y="3741"/>
+	<Point x="2607" y="3735"/>
+	<Point x="2628" y="4127"/>
+	<Point x="1583" y="4128"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lisatööd on tegelaskonnale toonud
+nn. „Lõbusa muusika ja ajaviite õh-
+tud", mis toimuvad igal laupäeval. Mai-
+nitud õhtud on õieti esimeseks ürituseks
+uues vaimus, sest kui varem oli maksev
+arvamine, et need üritused, mis lõpevad
+tantsuga. peavad olema kavaliselt ker-</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r7306">
+	<Coords>
+	<Point x="1587" y="4134"/>
+	<Point x="2127" y="4143"/>
+	<Point x="2611" y="4151"/>
+	<Point x="2618" y="5544"/>
+	<Point x="1602" y="5536"/></Coords></ImageRegion>
+	<TextRegion id="r7307" type="caption">
+	<Coords>
+	<Point x="1849" y="5565"/>
+	<Point x="2365" y="5565"/>
+	<Point x="2365" y="5618"/>
+	<Point x="1849" y="5618"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Näitejuht A. Mering</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7329" type="paragraph">
+	<Coords>
+	<Point x="1598" y="5706"/>
+	<Point x="2138" y="5709"/>
+	<Point x="2620" y="5715"/>
+	<Point x="2625" y="6130"/>
+	<Point x="1986" y="6133"/>
+	<Point x="1596" y="6132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>maja kasutamine. Oletame siis, et selles ma-
+jas leidub küllaldaselt ruumi ka tsirkusele
+jä poksivõistlustele. lima vähemagi halvus-
+tamistahteta viimaste alade suhtes võime siis-
+ki välta, et keegi ei kaitseks mõtet, nagu
+peaksid siis nii sõna- kui ka muusikalavastu-
+sed, tants, operett, ooper, tsirkuse-etendused
+ja poksivõistlused kuuluma ikka ja ikka ühi-
+sele kunstilisele juhtimisele.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7739" type="paragraph">
+	<Coords>
+	<Point x="1596" y="6141"/>
+	<Point x="2625" y="6137"/>
+	<Point x="2630" y="6937"/>
+	<Point x="1600" y="6938"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Miks meie siis kõige viljastavamate loo-
+minguliste mõtete teostamisel, kõige üleva-
+mate suundade tähistamisel kanname endaga
+kaasas ikka seda põhilist eksitust, nagu olek-
+sid just „Vanemuise" sõna- ja muusikalavas-
+tuste alad lahutamatud? Kui meil jätkub
+ruumi ning ainelisi võimalusi, huvi mõlema
+ala vastu, miks meie kord ei lahuta koosseise,
+ei koosta eri eelarveid ega loo kaht eri teat-
+rit, mis tegutseksid ühes majas. Säärasel
+juhul mõlemad erlalalised teatrid saaksid
+oma ülesannetele palju otsesemalt vastava
+juhtkonna nlrig nende tegevus oleks kindlasti
+ilmekam ja sihiteadlikum, ühtlasi oleks see
+tegevus siis ka energilisem ning selle taga-
+järjel kattuksid need lisakulud, mida tooks
+kaasa teatri-alade lahutamine.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8506" type="paragraph">
+	<Coords>
+	<Point x="1601" y="6946"/>
+	<Point x="2169" y="6946"/>
+	<Point x="2623" y="6950"/>
+	<Point x="2632" y="7553"/>
+	<Point x="1604" y="7556"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Eriti tähtis on selle küsimuse kaalumisele
+ja otsustamisele võtmine praegusel ajal. Ka-
+he iseseisvalt juhitava ja majandatava teatri-
+ala tegevus võiks juba alul esile kutsuda sot-
+sialistliku võistluse, mis tooks vaimset elevust
+ja pinget teatrite seesmisse töösse ning ära-
+taks ka laialdast huvi publikus. Teiseks meie
+saaksime kord selgema pildi mõlema teatri-
+ala kulukusest, otstarbekohasusest ja loomin-
+gulistest tagajärgedest. Siis on meil ka ker-
+gem valikut teostada, kui meil siiski kord
+tuleb Tartu olude kohaselt otsus langetada
+ühe teatri-ala kasuks.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r9653">
+	<Coords>
+	<Point x="3333" y="1497"/>
+	<Point x="3640" y="1505"/>
+	<Point x="3633" y="2377"/>
+	<Point x="3631" y="2875"/>
+	<Point x="2659" y="2867"/>
+	<Point x="2635" y="1487"/>
+	<Point x="2862" y="1484"/>
+	<Point x="3072" y="1495"/></Coords></ImageRegion>
+	<TextRegion id="r9654" type="caption">
+	<Coords>
+	<Point x="2938" y="2912"/>
+	<Point x="3429" y="2908"/>
+	<Point x="3432" y="2971"/>
+	<Point x="2936" y="2966"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Direktor K. Aluoja</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9675" type="paragraph">
+	<Coords>
+	<Point x="2674" y="3021"/>
+	<Point x="3713" y="3020"/>
+	<Point x="3712" y="4097"/>
+	<Point x="2670" y="4099"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ged, kusjuures ei pandud rõhku ettekan-
+tava kunstilisele väärtusele, siis nende
+õhtute kavad on ka kergesisulised, kuid
+kannatavad välja igasuguse kunstikrii-
+tika. Ja pealtvaatajaskond suhtus esi-
+messe õhtusse üsna asjalikult, võttes
+palad,mis õieti kuuluvad kontsertla-
+vale,suure huviga vastu. See esimene
+edu on annud meile julgustust ja tao-
+lisi üritusi hakkame nüüdsest alates
+korraldama igal laupäeval. Kui jutt
+juba kontsertsaalile on kaldunud,siis
+tuleb tähendada,nii kurb kui see ka ei
+ole, et kontsertsaali akustika on äärmi-
+selt ebasobiv ja on tõenäolik, et seda ei
+saa teisiti parandada kui kontsertsaali
+ümberehitamisega. Üldse oleme teinud
+„Vanemuises" viimasel ajal mitmesugu-
+seid ümberehitusi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10435" type="paragraph">
+	<Coords>
+	<Point x="2676" y="4104"/>
+	<Point x="3704" y="4103"/>
+	<Point x="3708" y="4210"/>
+	<Point x="2681" y="4213"/>
+	<Point x="2679" y="4206"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mis puutub tegelaskonna koosseisu,
+siis on suureks kaotuseks</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11066" type="paragraph">
+	<Coords>
+	<Point x="2678" y="5025"/>
+	<Point x="3714" y="5025"/>
+	<Point x="3710" y="5875"/>
+	<Point x="2684" y="5874"/>
+	<Point x="2681" y="5698"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mis juhtkonnale peavalu valmistab,
+on praegu sobiva repertuaari puudu-
+mine. „Puudus on nii suur, et kividki
+kisendavad, mispärast ootame pikisilmi
+M. Raua poolt meile lubatud näidendit
+„Kivid karjuvad"," tähendas K. Aluoja.
+Loodame seda kätte saada juba lähema-
+tel päevadel. Praegu siiski otsest puu-
+dust meil pole, sest peale avatükina et-
+tekandmisele tuleva Korneitšuki „lae-
+vastiku huku" õpime veel A. H. Tamm-
+saare „Põrgupõhja uut vanapaganat",
+mille esietendus on nädal pärast „Lae-
+västiku hukku", ja „Vaikset Doni", mil-
+le toome lavale oktoobri lõpus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11663" type="paragraph">
+	<Coords>
+	<Point x="2686" y="5879"/>
+	<Point x="3716" y="5877"/>
+	<Point x="3716" y="5984"/>
+	<Point x="2682" y="5986"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Koos oma igapäevase lavatööga käib
+meil ka</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11710" type="paragraph">
+	<Coords>
+	<Point x="2683" y="5997"/>
+	<Point x="3710" y="5995"/>
+	<Point x="3712" y="6668"/>
+	<Point x="2683" y="6674"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>kultuuriline ja poliitiline selgitustöö.
+Igal nädalal sms V. Kosenkranius jät-
+kab oma poliitiliste loengute seeriat,
+tegelaskonnale tutvustatakse uut Kons-
+titutsiooni ja lähemal ajal antakse välja
+ka oma seinaajaleht. Ehkki tegelas-
+kond saab oma ülesannete täitmisel ise-
+gi küllalt liikuda, toimub hommikuti
+neile siiski ühisvõimlemine. Kõigist
+neist üritusist võetakse hoolega osa ja
+töö sel alal on muutunud intensiivse-
+maks.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r12167">
+	<Coords>
+	<Point x="2701" y="6748"/>
+	<Point x="3699" y="6751"/>
+	<Point x="3698" y="8104"/>
+	<Point x="2706" y="8104"/></Coords></ImageRegion>
+	<TextRegion id="r12168" type="paragraph">
+	<Coords>
+	<Point x="3753" y="1466"/>
+	<Point x="4776" y="1466"/>
+	<Point x="4776" y="1970"/>
+	<Point x="3753" y="1970"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mis puutub dekoratsioonidesse, siis
+majanduslikkude võimaluste puudumi-
+sel ei saa siin rahaga midagi suurt ära
+teha, vaid kõik tuleb jätta dekoraator
+Voldemar Peili leidlikkuse hooleks. Ja
+ehkki meie repertuaaris pole ette näh-
+tud „krahvi-lugusid",mistõttu siidi ja
+sametit läheb vähem, ei ole dekoraatori
+ülesanne mitte kerge.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12517" type="paragraph">
+	<Coords>
+	<Point x="3761" y="1994"/>
+	<Point x="4775" y="1994"/>
+	<Point x="4775" y="2110"/>
+	<Point x="3761" y="2110"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lähema üritusena on meil ette näh-
+tud 15. sept.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12570" type="paragraph">
+	<Coords>
+	<Point x="3935" y="2134"/>
+	<Point x="4613" y="2134"/>
+	<Point x="4613" y="2188"/>
+	<Point x="3935" y="2188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>kontsert punaarmeelastele</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12598" type="paragraph">
+	<Coords>
+	<Point x="3760" y="2212"/>
+	<Point x="4778" y="2212"/>
+	<Point x="4778" y="2661"/>
+	<Point x="3760" y="2661"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>vastastikuse tutvustamise otstarbel.
+Selle õhtu kavas on katkeid ooperitest
+ja operettidest, tantsu ja sõnalisi ette-
+kandeid. Kava täitmiseks on tegevusse
+rakendatud kogu tegelaskond. Kuna
+meil on tegelasi, kes vabalt valdavad
+vene keelt, siis osa ettekandeid toimub
+ka vene keeles."</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12899" type="paragraph">
+	<Coords>
+	<Point x="3762" y="2669"/>
+	<Point x="4778" y="2669"/>
+	<Point x="4778" y="2894"/>
+	<Point x="3762" y="2894"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>„Kui töö sellises tempos edasi läheb,
+siis võib „Vanemuise" pere julgelt tule-
+vikule vastu vaadata," lõpetasid meie
+vestluse K. Aluoja ja K. Ird.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13054" type="paragraph">
+	<Coords>
+	<Point x="3762" y="2917"/>
+	<Point x="4779" y="2916"/>
+	<Point x="4779" y="3026"/>
+	<Point x="3801" y="3026"/>
+	<Point x="3760" y="3018"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>„Näitlejaskonnal ott ees uued ja varem
+mõeldamatud ülesanded,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13119" type="paragraph">
+	<Coords>
+	<Point x="3769" y="3053"/>
+	<Point x="4791" y="3053"/>
+	<Point x="4791" y="4110"/>
+	<Point x="3769" y="4110"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>tähendas A. Randviir, kui pärisime te-
+malt kui tegelaskonna vanemalt näitle-
+jate ülesandeist uues olukorras. „Näit-
+lejaskond on nüüd kogu oma tervikus
+ise oma teatri peremees ja võtab osa
+ka selle juhtimisest oma esindajate
+kaudu. On moodustatud Tartu Teatri-
+tegelaste Ametiühing ja selle juhatusse
+kuuluvad A. Randviir esimehena, A.
+Juksaar abina ja peale selle veel I. Su-
+vero, E. Jägala ja J. Põder. Ameti-
+ühingu esimees kuulub automaatselt
+teätrivalitsusse. Teatritegelaste Ameti-
+ühingusse on organiseerunud „Vane-
+muise" pere 100-protsendiliselt ja ame-
+tiühingu juhatuse ülesandeks on õieti
+näitlejaskonna sisemise elu korralda-
+mine. Peale selle lasub juhatusel suur</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r13836">
+	<Coords>
+	<Point x="3786" y="4204"/>
+	<Point x="4752" y="4204"/>
+	<Point x="4752" y="5548"/>
+	<Point x="3786" y="5548"/></Coords></ImageRegion>
+	<ImageRegion id="r13837">
+	<Coords>
+	<Point x="4820" y="846"/>
+	<Point x="5826" y="832"/>
+	<Point x="5837" y="2265"/>
+	<Point x="4826" y="2261"/></Coords></ImageRegion>
+	<TextRegion id="r13838" type="caption">
+	<Coords>
+	<Point x="2748" y="8141"/>
+	<Point x="3648" y="8135"/>
+	<Point x="3648" y="8196"/>
+	<Point x="2748" y="8197"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tegelaskonna vanem A. Randviir</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13871" type="caption">
+	<Coords>
+	<Point x="3999" y="5589"/>
+	<Point x="4539" y="5589"/>
+	<Point x="4539" y="5643"/>
+	<Point x="3999" y="5643"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Liikumisjuht I. IJrbel</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13896" type="paragraph">
+	<Coords>
+	<Point x="3778" y="5698"/>
+	<Point x="4794" y="5698"/>
+	<Point x="4794" y="7628"/>
+	<Point x="3778" y="7628"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ja vastutusrikas ülesanne — tõmmata
+kaasa iga teatritegelane uuele sotsia-
+listlikule ülesehitavale tööle ja viia iga
+üksiku näitleja võime maksimumini.
+Enne oli näitlejatel ees selle teostami-
+seks rida takistusi ja nad ei saanud
+välja panna oma võimiste maksimumi
+lihtsalt sel põhjusel, et paljudel puudus
+vajalik kutseline eelharidus — mängiti
+enamikus „jumalast loodud kunstni-
+kena", sest ainult väikesel protsendil
+näitlejaskonnast oli olemas vastav
+omaalaline eelkool. Ja näitlejatel pol-
+nud ka kuigi suuri võimalusi eneste
+täiendamiseks, sest puudusid majan-
+duslikud võimalused. Nüüd aga on olu-
+kord muutunud ja võib loota, et näit-
+lejaskonnal avanevad võimalused enda
+täiendamiseks, et täita väärikalt
+neid ülesandeid, mis on temale aseta-
+tud uues sotsialistlikus ühiskonnas.
+Teatri tegelaskogu kokkutulekul öeldi
+niihästi koosolekul kui ka avaaktusel
+nii juhtide kui ka tegelaskonna poolt
+ilusaid sõnu ja anti vastastikuseid luba-
+dusi. Ja kuna näitlejaskond oma esin-
+daja läbi lubas anda oma parima, siis
+on ,,Vanemuise" tegelaskogu juhatus
+seadnud oma edaspidisele tegevusele
+kindlaks suunaks — keegi ei tohi hoo-
+aja lõpul tegelaskogule ütlema tulla, et
+nemad olidki need, kes tekitasid rasku-
+si jooksvas teatritöös.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15199" type="paragraph">
+	<Coords>
+	<Point x="3782" y="7658"/>
+	<Point x="4789" y="7658"/>
+	<Point x="4789" y="7938"/>
+	<Point x="3782" y="7938"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Et tegelaskogu suudaks täita oma
+antud lubadusi ja temale asetatud suu-
+ri ja vastutusrikkaid ülesandeid, peab
+valitsema kindel distsipliin. Ja tege-
+laskond on sellest ise aru saanud."</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15395" type="paragraph">
+	<Coords>
+	<Point x="3781" y="7951"/>
+	<Point x="4789" y="7951"/>
+	<Point x="4789" y="8188"/>
+	<Point x="3781" y="8188"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vestlusel selgub, et avatükina ette-
+kandmisele tulevas ««Eskaadri hukus"
+teeb A. Randviir teistkordselt revolut-
+siooni läbi — esimest korda tegelikult</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15556" type="caption">
+	<Coords>
+	<Point x="5078" y="2310"/>
+	<Point x="5660" y="2310"/>
+	<Point x="5651" y="2369"/>
+	<Point x="5078" y="2365"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Muusikajuht E. Tubin</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15579" type="paragraph">
+	<Coords>
+	<Point x="4852" y="2406"/>
+	<Point x="5889" y="2405"/>
+	<Point x="5897" y="2652"/>
+	<Point x="4855" y="2649"/>
+	<Point x="4842" y="2649"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Balti mere laevastikus telegrafistina
+ja nüüd teistkordselt laval ühe revolut-
+sionäärina. Tegevus toimub sedapuhku
+küll Mustal merel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15722" type="paragraph">
+	<Coords>
+	<Point x="4843" y="2661"/>
+	<Point x="5890" y="2661"/>
+	<Point x="5892" y="2756"/>
+	<Point x="5430" y="2776"/>
+	<Point x="5394" y="2787"/>
+	<Point x="5379" y="2788"/>
+	<Point x="5323" y="2779"/>
+	<Point x="5090" y="2780"/>
+	<Point x="4996" y="2782"/>
+	<Point x="4982" y="2776"/>
+	<Point x="4887" y="2796"/>
+	<Point x="4837" y="2788"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ja mida pajatab näite-
+juht A. Mering?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15765" type="paragraph">
+	<Coords>
+	<Point x="4842" y="2803"/>
+	<Point x="5001" y="2786"/>
+	<Point x="5169" y="2785"/>
+	<Point x="5301" y="2787"/>
+	<Point x="5367" y="2790"/>
+	<Point x="5684" y="2779"/>
+	<Point x="5851" y="2773"/>
+	<Point x="5890" y="2779"/>
+	<Point x="5891" y="3531"/>
+	<Point x="5436" y="3543"/>
+	<Point x="5387" y="3538"/>
+	<Point x="5234" y="3541"/>
+	<Point x="5089" y="3549"/>
+	<Point x="4857" y="3541"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>„Näitejuhi töö on muutunud võrrel-
+des eelmiste aastatega kergemaks, mil-
+leks on kaasa aidanud punktisüsteemi
+kaotamine ja näitlejaskonna viimine
+miinimum-palkadele. Sellega on tõus-
+nud märgatavalt tegelaskonna tööind
+ja oma ülesandeisse suhtutakse palju
+tõsisemalt ja suure armastusega. Kui
+varem punktide alusel töötajad käisid
+ebakorrapäraselt proovidel, takistades
+tunduvalt lavastaja tööd, siis on nüüd
+selline olukord kadunud ja senini pole
+veel keegi proovidelt puudunud.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16273" type="paragraph">
+	<Coords>
+	<Point x="4852" y="3548"/>
+	<Point x="5106" y="3555"/>
+	<Point x="5225" y="3546"/>
+	<Point x="5389" y="3546"/>
+	<Point x="5744" y="3543"/>
+	<Point x="5895" y="3546"/>
+	<Point x="5898" y="4655"/>
+	<Point x="5270" y="4658"/>
+	<Point x="5263" y="4658"/>
+	<Point x="4860" y="4655"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mis puutub eeloleval hooajal lavas-
+tamisele tulevatesse tükkidesse, siis
+hakatakse senisest enamat rõhku pane-
+ma laste- ja noorsootükkidele, mis on
+saanud nüüd „üheväärseteks" teiste la-
+vastustega. Neile on määratud kindlad
+lavastajad, mitte aga nii nagu eelmistel
+hooaegadel, kus laste- ja noorsootükke
+lavastati niiütelda oma tavalise töö kõr-
+val. Nad saavad nüüdsest alates sama
+tõsise rakenduse osaliseks kui teisedki
+lavastused, et neis poleks tulevikus
+enam võltsi tooni. Algaval hooajal
+kõik lavastused viiakse läbi põhimõttel
+— sisult sotsialistlik, vormilt rahvus-
+lik. Nüüdsest alates hakatakse pakku-
+ma rahvale arusaadavat kunsti, sest on
+ju kõige suurem ja väärtuslikum kunst
+see, mis on kõigile arusaadav.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17036" type="paragraph">
+	<Coords>
+	<Point x="4856" y="4663"/>
+	<Point x="5146" y="4660"/>
+	<Point x="5267" y="4662"/>
+	<Point x="5786" y="4659"/>
+	<Point x="5898" y="4662"/>
+	<Point x="5900" y="5111"/>
+	<Point x="4863" y="5115"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Tegelaskond on praegu oma olukor-
+raga väga rahul ja hakatakse uuele olu-
+korrale sisse elama. Selleks on tänu-
+väärset osa etendanud sms. V. Kosen-
+kraniuse selgitavad loengud, mis toi-
+muvad kord nädalas ja kus selgitatakse
+kõike seda, millest senini on eemale
+hoitud.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17323" type="paragraph">
+	<Coords>
+	<Point x="4859" y="5126"/>
+	<Point x="4986" y="5124"/>
+	<Point x="5089" y="5125"/>
+	<Point x="5911" y="5127"/>
+	<Point x="5907" y="5325"/>
+	<Point x="5908" y="5526"/>
+	<Point x="5900" y="7227"/>
+	<Point x="4867" y="7230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Punktisüsteemi kaotamisest tunne-
+vad tõsist rõõmu ka muusikajuht E.
+T u b i n ja liikumisjuht I. Urbel, na-
+gu selgus nendega vesteldes. Nii tant-
+surühm, koor kui ka orkester esinevad
+algaval hooajal enam-vähem samas
+koosseisus kui möödunud hooajalgi, ai-
+nult selle vahega, et endised punktide
+alüsel töötajad on viidud kindlale pal-
+gale. Ehkki tööpäev kipub kujunema
+pikaks, kaks proovi päevas, ei ole selle
+üle enam nurisemist, vaid töötatakse
+hoolega, sest nii koori, orkestri kui ka
+tantsutrupi liikmed on teadlikud neil
+lasuvaist kohustusist ja püüavad anda
+oma parima, et väärikalt kaasa aidata
+uue „Vanemuise" — töötava rahva
+teatri heakäekäigule. Usna peatselt
+alustatakse tööliste võitluslaulude õppi-
+misega, kuna tantsutrupil on kavatsus
+peale uut aastat tartlasi üllatada ise-
+seisva õhtuga, milleks asutakse õppima
+pantomiimi „Esmeralda", millele on
+muusika loonud helilooja Gliere. Prae-
+gu õpitakse hoolega ka vene laule ja
+tantse, ja ehkki need oma iseloomult
+on seniõpituist märgatavalt erinevad,
+saadakse nendega hästi hakkama. Koo-
+ri, orkestri ja tantsurühma liikmete
+senisest tõsisem suhtumine töösse ja
+arusaamine neil täita tulevaist kohus-
+tusist on kergendanud nii muusikajuhi
+Tubina kui ka liikumisjuhi Urbeli tööd,
+sest töödistsipliin on hea ja ei esine
+proovidelt puudumisi, mis takistaksid
+tööd.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18742" type="paragraph">
+	<Coords>
+	<Point x="4855" y="7583"/>
+	<Point x="5916" y="7591"/>
+	<Point x="5913" y="8141"/>
+	<Point x="4853" y="8132"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Mosfilmi stuudios on E. Gabrilo-
+vitši ja S. Jermolinski libreto põhjal
+lavastamisele võetud uus meeleolufilm
+„Mashenka". Selles jutustatakse Nõu-
+kogude tavalise tütarlapse elust sõja-
+ning rahuajal, tema esimesest armastu-
+sest, tema sõbrataridest, tema argipäev-
+seist askeldusist lõunapoolses mere-
+äärses linnakeses.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r20297">
+	<Coords>
+	<Point x="5853" y="495"/>
+	<Point x="5847" y="550"/>
+	<Point x="5340" y="569"/>
+	<Point x="4746" y="574"/>
+	<Point x="4746" y="530"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r20298">
+	<Coords>
+	<Point x="427" y="556"/>
+	<Point x="1504" y="556"/>
+	<Point x="1504" y="596"/>
+	<Point x="427" y="596"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r20299">
+	<Coords>
+	<Point x="1503" y="614"/>
+	<Point x="1503" y="654"/>
+	<Point x="433" y="654"/>
+	<Point x="433" y="645"/>
+	<Point x="431" y="645"/>
+	<Point x="431" y="615"/>
+	<Point x="433" y="615"/>
+	<Point x="433" y="614"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r20304">
+	<Coords>
+	<Point x="1916" y="5624"/>
+	<Point x="2116" y="5626"/>
+	<Point x="2619" y="5627"/>
+	<Point x="2619" y="5638"/>
+	<Point x="2033" y="5637"/>
+	<Point x="1595" y="5637"/>
+	<Point x="1593" y="5624"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r20305">
+	<Coords>
+	<Point x="5288" y="8166"/>
+	<Point x="5447" y="8173"/>
+	<Point x="5445" y="8185"/>
+	<Point x="5312" y="8181"/>
+	<Point x="5285" y="8180"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r20306">
+	<Coords>
+	<Point x="159" y="6396"/>
+	<Point x="159" y="6416"/>
+	<Point x="161" y="6416"/>
+	<Point x="161" y="6535"/>
+	<Point x="162" y="6535"/>
+	<Point x="162" y="6545"/>
+	<Point x="161" y="6545"/>
+	<Point x="161" y="6559"/>
+	<Point x="162" y="6559"/>
+	<Point x="162" y="6576"/>
+	<Point x="161" y="6576"/>
+	<Point x="161" y="6584"/>
+	<Point x="162" y="6584"/>
+	<Point x="162" y="6595"/>
+	<Point x="161" y="6595"/>
+	<Point x="161" y="6599"/>
+	<Point x="162" y="6599"/>
+	<Point x="162" y="6615"/>
+	<Point x="161" y="6615"/>
+	<Point x="161" y="6634"/>
+	<Point x="162" y="6634"/>
+	<Point x="162" y="6635"/>
+	<Point x="163" y="6635"/>
+	<Point x="163" y="6697"/>
+	<Point x="164" y="6697"/>
+	<Point x="164" y="6733"/>
+	<Point x="161" y="6733"/>
+	<Point x="161" y="6728"/>
+	<Point x="158" y="6728"/>
+	<Point x="158" y="6697"/>
+	<Point x="155" y="6697"/>
+	<Point x="155" y="6658"/>
+	<Point x="154" y="6658"/>
+	<Point x="154" y="6653"/>
+	<Point x="153" y="6653"/>
+	<Point x="153" y="6651"/>
+	<Point x="152" y="6651"/>
+	<Point x="152" y="6637"/>
+	<Point x="151" y="6637"/>
+	<Point x="151" y="6618"/>
+	<Point x="152" y="6618"/>
+	<Point x="152" y="6550"/>
+	<Point x="153" y="6550"/>
+	<Point x="153" y="6541"/>
+	<Point x="154" y="6541"/>
+	<Point x="154" y="6483"/>
+	<Point x="155" y="6483"/>
+	<Point x="155" y="6474"/>
+	<Point x="156" y="6474"/>
+	<Point x="156" y="6473"/>
+	<Point x="157" y="6473"/>
+	<Point x="157" y="6416"/>
+	<Point x="158" y="6416"/>
+	<Point x="158" y="6396"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r20318">
+	<Coords>
+	<Point x="160" y="6921"/>
+	<Point x="165" y="6921"/>
+	<Point x="165" y="7062"/>
+	<Point x="160" y="7062"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r118">
+	<Coords>
+	<Point x="4750" y="592"/>
+	<Point x="4750" y="636"/>
+	<Point x="5170" y="636"/>
+	<Point x="5850" y="610"/>
+	<Point x="5853" y="566"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r119">
+	<Coords>
+	<Point x="4467" y="538"/>
+	<Point x="4469" y="587"/>
+	<Point x="4683" y="583"/>
+	<Point x="4686" y="540"/>
+	<Point x="4647" y="540"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r120">
+	<Coords>
+	<Point x="4684" y="598"/>
+	<Point x="4683" y="636"/>
+	<Point x="4467" y="640"/>
+	<Point x="4473" y="593"/></Coords></SeparatorRegion>
+	<TextRegion id="r162" type="paragraph">
+	<Coords>
+	<Point x="1590" y="1141"/>
+	<Point x="4709" y="1141"/>
+	<Point x="4709" y="1218"/>
+	<Point x="4709" y="1217"/>
+	<Point x="4566" y="1217"/>
+	<Point x="4566" y="1216"/>
+	<Point x="4423" y="1216"/>
+	<Point x="4423" y="1215"/>
+	<Point x="4281" y="1215"/>
+	<Point x="4281" y="1214"/>
+	<Point x="4138" y="1214"/>
+	<Point x="4138" y="1213"/>
+	<Point x="3996" y="1213"/>
+	<Point x="3996" y="1212"/>
+	<Point x="3853" y="1212"/>
+	<Point x="3853" y="1211"/>
+	<Point x="3711" y="1211"/>
+	<Point x="3711" y="1210"/>
+	<Point x="3568" y="1210"/>
+	<Point x="3568" y="1209"/>
+	<Point x="3381" y="1212"/>
+	<Point x="3381" y="1286"/>
+	<Point x="3003" y="1286"/>
+	<Point x="2995" y="1220"/>
+	<Point x="2891" y="1212"/>
+	<Point x="2891" y="1213"/>
+	<Point x="2879" y="1213"/>
+	<Point x="2879" y="1214"/>
+	<Point x="2867" y="1214"/>
+	<Point x="2867" y="1215"/>
+	<Point x="2855" y="1215"/>
+	<Point x="2855" y="1216"/>
+	<Point x="2844" y="1216"/>
+	<Point x="2844" y="1217"/>
+	<Point x="2832" y="1217"/>
+	<Point x="2832" y="1218"/>
+	<Point x="2820" y="1218"/>
+	<Point x="2820" y="1219"/>
+	<Point x="2809" y="1219"/>
+	<Point x="2809" y="1220"/>
+	<Point x="2809" y="1219"/>
+	<Point x="2199" y="1219"/>
+	<Point x="2199" y="1218"/>
+	<Point x="1590" y="1218"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Töömeeleolu on nii juhtkonnal kui ka tegelaskonnal hea. Jutuajamisi „ Vanemuise" juhtivate
+tegelastega</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10500" type="paragraph">
+	<Coords>
+	<Point x="2673" y="4231"/>
+	<Point x="3709" y="4234"/>
+	<Point x="3709" y="5019"/>
+	<Point x="2674" y="5019"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>�Arno Niitofi lahkumine,
+kes siirdub Tallinna konservatooriumi
+lauluklassi juhatajaks. Eriti kahju on
+Niitofi lahkumisest tegelaskonnal, kuna
+Niitof oli võtnud enese peale hääleseade,
+mida tegelaskond juba aastaid igatses,
+ehikki asjatult. Nüüd sai nende soov
+teoks, kuid peab jälle pooleli jääma.
+On siiski teatavaid lootusi, et see täiesti
+ära ei jää, kuna Niitof on lubanud või-
+maluse korral Tartu sõita, et täita ene-
+sele võetud ülesannet. Oma osi loodab
+ta siiski ise külalisena täita, nii et ses
+suhtes meil takistusi ei tule.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18725" type="heading">
+	<Coords>
+	<Point x="4865" y="7284"/>
+	<Point x="5763" y="7284"/>
+	<Point x="5763" y="7565"/>
+	<Point x="4865" y="7565"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Filmiuudiseid „Mashenka"</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords>
+	<Point x="4355" y="326"/>
+	<Point x="4356" y="326"/>
+	<Point x="4356" y="327"/>
+	<Point x="4355" y="327"/>
+	<Point x="4355" y="375"/>
+	<Point x="4354" y="375"/>
+	<Point x="4354" y="424"/>
+	<Point x="4353" y="424"/>
+	<Point x="4353" y="473"/>
+	<Point x="4352" y="473"/>
+	<Point x="4352" y="521"/>
+	<Point x="4351" y="521"/>
+	<Point x="4351" y="570"/>
+	<Point x="4350" y="570"/>
+	<Point x="4350" y="619"/>
+	<Point x="4349" y="619"/>
+	<Point x="4349" y="667"/>
+	<Point x="4349" y="666"/>
+	<Point x="4199" y="666"/>
+	<Point x="4199" y="665"/>
+	<Point x="4050" y="665"/>
+	<Point x="4050" y="664"/>
+	<Point x="3901" y="664"/>
+	<Point x="3901" y="663"/>
+	<Point x="3751" y="663"/>
+	<Point x="3751" y="662"/>
+	<Point x="3602" y="662"/>
+	<Point x="3602" y="661"/>
+	<Point x="3013" y="669"/>
+	<Point x="2828" y="669"/>
+	<Point x="2828" y="670"/>
+	<Point x="2643" y="670"/>
+	<Point x="2643" y="671"/>
+	<Point x="2458" y="671"/>
+	<Point x="2458" y="672"/>
+	<Point x="2273" y="672"/>
+	<Point x="2273" y="673"/>
+	<Point x="1874" y="674"/>
+	<Point x="1885" y="335"/>
+	<Point x="3441" y="343"/>
+	<Point x="3440" y="343"/>
+	<Point x="3494" y="343"/>
+	<Point x="3494" y="342"/>
+	<Point x="3548" y="342"/>
+	<Point x="3548" y="341"/>
+	<Point x="3602" y="341"/>
+	<Point x="3602" y="340"/>
+	<Point x="3656" y="340"/>
+	<Point x="3656" y="339"/>
+	<Point x="3710" y="339"/>
+	<Point x="3710" y="338"/>
+	<Point x="3764" y="338"/>
+	<Point x="3764" y="337"/>
+	<Point x="3818" y="337"/>
+	<Point x="3818" y="336"/>
+	<Point x="3872" y="336"/>
+	<Point x="3872" y="335"/>
+	<Point x="3925" y="335"/>
+	<Point x="3925" y="334"/>
+	<Point x="3979" y="334"/>
+	<Point x="3979" y="333"/>
+	<Point x="4033" y="333"/>
+	<Point x="4033" y="332"/>
+	<Point x="4087" y="332"/>
+	<Point x="4087" y="331"/>
+	<Point x="4141" y="331"/>
+	<Point x="4141" y="330"/>
+	<Point x="4195" y="330"/>
+	<Point x="4195" y="329"/>
+	<Point x="4249" y="329"/>
+	<Point x="4249" y="328"/>
+	<Point x="4303" y="328"/>
+	<Point x="4303" y="327"/>
+	<Point x="4355" y="327"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Teater⸗Kino</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6702" type="paragraph">
+	<Coords>
+	<Point x="1653" y="3264"/>
+	<Point x="2548" y="3264"/>
+	<Point x="2548" y="3317"/>
+	<Point x="2547" y="3317"/>
+	<Point x="2547" y="3369"/>
+	<Point x="1681" y="3369"/>
+	<Point x="1681" y="3317"/>
+	<Point x="1653" y="3317"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>25. septembril tuleb esiettekandele
+Korneitshuki „Laevastiku hukk",</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9099" type="paragraph">
+	<Coords>
+	<Point x="1945" y="7557"/>
+	<Point x="1961" y="7557"/>
+	<Point x="1961" y="7558"/>
+	<Point x="2095" y="7558"/>
+	<Point x="2095" y="7559"/>
+	<Point x="2229" y="7559"/>
+	<Point x="2229" y="7560"/>
+	<Point x="2362" y="7560"/>
+	<Point x="2362" y="7561"/>
+	<Point x="2496" y="7561"/>
+	<Point x="2496" y="7562"/>
+	<Point x="2629" y="7562"/>
+	<Point x="2628" y="7562"/>
+	<Point x="2628" y="7706"/>
+	<Point x="2627" y="7706"/>
+	<Point x="2627" y="7850"/>
+	<Point x="2626" y="7850"/>
+	<Point x="2626" y="7994"/>
+	<Point x="2625" y="7994"/>
+	<Point x="2625" y="8137"/>
+	<Point x="2522" y="8137"/>
+	<Point x="2522" y="8177"/>
+	<Point x="2312" y="8177"/>
+	<Point x="2312" y="8143"/>
+	<Point x="2311" y="8143"/>
+	<Point x="2311" y="8137"/>
+	<Point x="1601" y="8137"/>
+	<Point x="1601" y="8138"/>
+	<Point x="1600" y="8138"/>
+	<Point x="1600" y="8137"/>
+	<Point x="1601" y="8137"/>
+	<Point x="1601" y="8074"/>
+	<Point x="1602" y="8074"/>
+	<Point x="1602" y="8010"/>
+	<Point x="1603" y="8010"/>
+	<Point x="1603" y="7947"/>
+	<Point x="1604" y="7947"/>
+	<Point x="1604" y="7883"/>
+	<Point x="1605" y="7883"/>
+	<Point x="1605" y="7820"/>
+	<Point x="1606" y="7820"/>
+	<Point x="1606" y="7756"/>
+	<Point x="1607" y="7756"/>
+	<Point x="1607" y="7693"/>
+	<Point x="1608" y="7693"/>
+	<Point x="1608" y="7629"/>
+	<Point x="1609" y="7629"/>
+	<Point x="1609" y="7566"/>
+	<Point x="1647" y="7566"/>
+	<Point x="1647" y="7565"/>
+	<Point x="1684" y="7565"/>
+	<Point x="1684" y="7564"/>
+	<Point x="1721" y="7564"/>
+	<Point x="1721" y="7563"/>
+	<Point x="1759" y="7563"/>
+	<Point x="1759" y="7562"/>
+	<Point x="1796" y="7562"/>
+	<Point x="1796" y="7561"/>
+	<Point x="1833" y="7561"/>
+	<Point x="1833" y="7560"/>
+	<Point x="1871" y="7560"/>
+	<Point x="1871" y="7559"/>
+	<Point x="1908" y="7559"/>
+	<Point x="1908" y="7558"/>
+	<Point x="1945" y="7558"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Lõpuks, kui teatri uuel juhtkonnal on tõ-
+sine tahe, milles ei ole põhjust kahelda,
+teatrikunsti arendamisel senisest enamal
+määral esile tõsta sügavamat idee-
+likkust ning õiget kujundust anda sotsialist-
+likule sisule, siis peaks just enamarenenud
+sõnalavastuste alale loodama võimalused ise-
+seisvaks arenemiseks. Siis ei tekiks enam sää-
+rast ebaloomulikku olukorda, kus ühe maha-
+jäänuma teatri-ala puudused ning vead kan-
+duvad üle teistele aladele ning takistavad
+nende alade loomingulist hoogu ja edasitungi.
+Erni Hiir.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r101" type="paragraph">
+	<Coords>
+	<Point x="982" y="2585"/>
+	<Point x="982" y="2618"/>
+	<Point x="1044" y="2618"/>
+	<Point x="1044" y="2585"/>
+	<Point x="1011" y="2567"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r102">
+	<Coords>
+	<Point x="1493" y="700"/>
+	<Point x="1493" y="780"/>
+	<Point x="4753" y="780"/>
+	<Point x="4753" y="700"/></Coords></SeparatorRegion></Page></PcGts>

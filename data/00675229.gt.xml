@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00675229">
+	<Metadata>
+	<Creator>FineReader Engine 10</Creator>
+	<Created>2013-10-15T06:04:29</Created>
+	<LastChange>2014-01-22T08:59:08</LastChange>
+	<Comments>Recognition and export settings:
+
+  Recognition language(s): Estonian
+  Font class: normal
+  Orig-outlines: false
+  Orig-text: false
+  Orig-drop-caps: false
+  Reading order: false
+    Exclude: [default]
+  Layers: false
+  To remove: background-images
+
+Conversion and export:
+
+  Ignored 1 regions that have no coordinates (ghost regions)
+</Comments></Metadata>
+	<Page imageFilename="00675229.tif" imageWidth="4330" imageHeight="6540">
+	<ReadingOrder>
+	<UnorderedGroup id="ro357564684568544579089">
+	<UnorderedGroup id="r45">
+	<RegionRef regionRef="r4074"/>
+	<RegionRef regionRef="r4113"/>
+	<RegionRef regionRef="r4125"/>
+	<RegionRef regionRef="r41"/>
+	<RegionRef regionRef="r4146"/>
+	<RegionRef regionRef="r40"/></UnorderedGroup>
+	<OrderedGroup id="r46">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r25" index="1"/>
+	<RegionRefIndexed regionRef="r125" index="2"/>
+	<RegionRefIndexed regionRef="r363" index="3"/>
+	<RegionRefIndexed regionRef="r673" index="4"/>
+	<RegionRefIndexed regionRef="r924" index="5"/>
+	<RegionRefIndexed regionRef="r1038" index="6"/>
+	<RegionRefIndexed regionRef="r1118" index="7"/>
+	<RegionRefIndexed regionRef="r1413" index="8"/>
+	<RegionRefIndexed regionRef="r1717" index="9"/>
+	<RegionRefIndexed regionRef="r1831" index="10"/>
+	<RegionRefIndexed regionRef="r1912" index="11"/>
+	<RegionRefIndexed regionRef="r2095" index="12"/>
+	<RegionRefIndexed regionRef="r2135" index="13"/>
+	<RegionRefIndexed regionRef="r2196" index="14"/>
+	<RegionRefIndexed regionRef="r2333" index="15"/>
+	<RegionRefIndexed regionRef="r2768" index="16"/>
+	<RegionRefIndexed regionRef="r2940" index="17"/>
+	<RegionRefIndexed regionRef="r2995" index="18"/>
+	<RegionRefIndexed regionRef="r3071" index="19"/>
+	<RegionRefIndexed regionRef="r3263" index="20"/>
+	<RegionRefIndexed regionRef="r3352" index="21"/>
+	<RegionRefIndexed regionRef="r3731" index="22"/>
+	<RegionRefIndexed regionRef="r3870" index="23"/>
+	<RegionRefIndexed regionRef="r3890" index="24"/></OrderedGroup></UnorderedGroup></ReadingOrder>
+	<ImageRegion id="r1">
+	<Coords>
+	<Point x="4011" y="2011"/>
+	<Point x="4018" y="4611"/>
+	<Point x="2418" y="4614"/>
+	<Point x="1929" y="4611"/>
+	<Point x="1655" y="4618"/>
+	<Point x="1422" y="4625"/>
+	<Point x="414" y="4625"/>
+	<Point x="414" y="2029"/>
+	<Point x="2266" y="2040"/></Coords></ImageRegion>
+	<TextRegion id="r2" type="heading">
+	<Coords>
+	<Point x="860" y="4680"/>
+	<Point x="3508" y="4680"/>
+	<Point x="3508" y="4920"/>
+	<Point x="3523" y="4926"/>
+	<Point x="3485" y="4929"/>
+	<Point x="2339" y="4926"/>
+	<Point x="860" y="4920"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Unustatud acmastus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r25" type="paragraph">
+	<Coords>
+	<Point x="363" y="5002"/>
+	<Point x="1232" y="5004"/>
+	<Point x="1237" y="5108"/>
+	<Point x="652" y="5112"/>
+	<Point x="641" y="5140"/>
+	<Point x="435" y="5149"/>
+	<Point x="422" y="5148"/>
+	<Point x="416" y="5148"/>
+	<Point x="303" y="5145"/>
+	<Point x="304" y="5046"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kui Diitele meenus ta lapsepõli, ker-
+kis ta silmade ette elamus, mida ta hüü-
+dis: „Robert".</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r125" type="paragraph">
+	<Coords>
+	<Point x="301" y="5171"/>
+	<Point x="307" y="5155"/>
+	<Point x="381" y="5151"/>
+	<Point x="430" y="5152"/>
+	<Point x="460" y="5152"/>
+	<Point x="480" y="5161"/>
+	<Point x="530" y="5152"/>
+	<Point x="586" y="5147"/>
+	<Point x="892" y="5144"/>
+	<Point x="1244" y="5131"/>
+	<Point x="1239" y="5422"/>
+	<Point x="891" y="5428"/>
+	<Point x="608" y="5430"/>
+	<Point x="543" y="5428"/>
+	<Point x="527" y="5394"/>
+	<Point x="511" y="5424"/>
+	<Point x="304" y="5430"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Robert oli teeninud Diite isa rüge-
+mendis, ta oli haavatud ja et tal maa-
+ilmas ühtki sugulast ega tuttavat ei ol-
+nud, kelle juures veeta oma puhkus, kut-
+sus Diite isa teda oma juure. See oli
+vümasel sõja-aastal augustis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r363" type="paragraph">
+	<Coords>
+	<Point x="312" y="5447"/>
+	<Point x="355" y="5433"/>
+	<Point x="564" y="5433"/>
+	<Point x="817" y="5430"/>
+	<Point x="1231" y="5432"/>
+	<Point x="1248" y="5522"/>
+	<Point x="1231" y="5798"/>
+	<Point x="306" y="5801"/>
+	<Point x="304" y="5622"/>
+	<Point x="305" y="5602"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diite oli tollal viisteist aastat vana.
+Peagu veel laps, ent ometi tajus ta,
+mingit tunnet selle noore blondi ohvit-
+seri vastu. See oli tunne, mis ei olnud
+tavaline, see oli midagi enneolematut,
+erinevat sellest, mida ta tundis oma
+vanemate, hobuste, koerade ja teiste te-
+ma lemmikute vastu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r673" type="paragraph">
+	<Coords>
+	<Point x="306" y="5806"/>
+	<Point x="786" y="5805"/>
+	<Point x="1028" y="5805"/>
+	<Point x="1234" y="5803"/>
+	<Point x="1233" y="5809"/>
+	<Point x="1240" y="5818"/>
+	<Point x="1240" y="6081"/>
+	<Point x="921" y="6085"/>
+	<Point x="338" y="6076"/>
+	<Point x="304" y="6078"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Robert oli aastailt samuti noor, ent
+sõja karm elu oli ta ilmesse jätnud jäl-
+jed. Kitsas suu oli tõsiselt suletud, ta
+naeratas harva. Silmad olid suured ja
+hallid. Neis oli ehmunud ilme, mis näis
+kõnelevat okkastõkkeist ning üksildusest.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r924" type="paragraph">
+	<Coords>
+	<Point x="316" y="6086"/>
+	<Point x="348" y="6081"/>
+	<Point x="394" y="6080"/>
+	<Point x="401" y="6080"/>
+	<Point x="630" y="6088"/>
+	<Point x="878" y="6089"/>
+	<Point x="928" y="6087"/>
+	<Point x="1236" y="6087"/>
+	<Point x="1240" y="6165"/>
+	<Point x="1232" y="6220"/>
+	<Point x="937" y="6222"/>
+	<Point x="307" y="6217"/>
+	<Point x="301" y="6126"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diite tundis mingit hämarat, ent
+siiski palavat kaastunnet mehele, kes
+ristles eksinult ta tunnetemaailmas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1038" type="paragraph">
+	<Coords>
+	<Point x="317" y="6224"/>
+	<Point x="338" y="6221"/>
+	<Point x="489" y="6221"/>
+	<Point x="844" y="6227"/>
+	<Point x="917" y="6237"/>
+	<Point x="927" y="6225"/>
+	<Point x="1002" y="6224"/>
+	<Point x="1229" y="6224"/>
+	<Point x="1239" y="6312"/>
+	<Point x="1148" y="6323"/>
+	<Point x="864" y="6318"/>
+	<Point x="317" y="6313"/>
+	<Point x="297" y="6259"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nad tegid koos palju jalutuskäike,
+väike Diite ja tõsiue Robert. Ikka abi-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1118" type="paragraph">
+	<Coords>
+	<Point x="1252" y="5006"/>
+	<Point x="1408" y="5003"/>
+	<Point x="1743" y="5001"/>
+	<Point x="1942" y="4998"/>
+	<Point x="2117" y="4997"/>
+	<Point x="2169" y="4998"/>
+	<Point x="2168" y="5007"/>
+	<Point x="2175" y="5024"/>
+	<Point x="2176" y="5195"/>
+	<Point x="2168" y="5369"/>
+	<Point x="1255" y="5376"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>valmis, otsis tütarlaps ilusaimat, mida
+tal Robertile ornas kodus näidata oli.
+Robert tervenes. Ta silmad muutusid
+uuesti rõõmsaiks ja rahulikeks, ning ta
+käed silitasid mõnikord tasaselt Diite
+pehmeid juukseid. Ta rääkis omast tu-
+levikust, millest Diitegi näis huvitet
+olevat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1413" type="paragraph">
+	<Coords>
+	<Point x="1259" y="5386"/>
+	<Point x="2177" y="5384"/>
+	<Point x="2180" y="5502"/>
+	<Point x="2177" y="5761"/>
+	<Point x="1262" y="5761"/>
+	<Point x="1256" y="5556"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diite oli nii noor, peagu laps veel,
+ent ta armastas ... Ta muutus säravaks
+kui nägi Roberti tulevat. Diite tundis
+end õnnelikuna tema juures. Diite mõt-
+ted ja tunded olid kõik Roberti juures.
+See juhtus vaid harukordadel, kus tal
+tekkis kartus, kui ühel päeval Robert
+peaks lahkuma ..?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1717" type="paragraph">
+	<Coords>
+	<Point x="1261" y="5774"/>
+	<Point x="1644" y="5771"/>
+	<Point x="2167" y="5779"/>
+	<Point x="2179" y="5820"/>
+	<Point x="2167" y="5913"/>
+	<Point x="1257" y="5919"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ja see päev lähenes, lähenes kõigest
+hoolimata... ta lähenes koguni palju
+kiiremini kui kõik teised päevad!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1831" type="paragraph">
+	<Coords>
+	<Point x="1262" y="5930"/>
+	<Point x="1370" y="5925"/>
+	<Point x="1684" y="5922"/>
+	<Point x="2137" y="5923"/>
+	<Point x="2168" y="5930"/>
+	<Point x="2180" y="5997"/>
+	<Point x="2168" y="6019"/>
+	<Point x="2110" y="6025"/>
+	<Point x="1390" y="6023"/>
+	<Point x="1262" y="6019"/>
+	<Point x="1255" y="6007"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Noore külalise lahkumiseks korralda-
+ti aiapidu. Sõda nõudis Roberti tagasi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1912" type="paragraph">
+	<Coords>
+	<Point x="1261" y="6036"/>
+	<Point x="1373" y="6030"/>
+	<Point x="2170" y="6036"/>
+	<Point x="2173" y="6223"/>
+	<Point x="1941" y="6225"/>
+	<Point x="1469" y="6228"/>
+	<Point x="1488" y="6255"/>
+	<Point x="1425" y="6265"/>
+	<Point x="1251" y="6265"/>
+	<Point x="1261" y="6216"/>
+	<Point x="1245" y="6166"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diitel oli tol õhtul pikk valge kleit.
+Õrnalt haaras valge riie ta saledat ke-
+ha. Diite seisis kaua peegli ees ja vaat-
+les end. Ilus tahtis ta olla. ilus et talle
+meeldida!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2095" type="paragraph">
+	<Coords>
+	<Point x="1311" y="6269"/>
+	<Point x="1656" y="6267"/>
+	<Point x="2079" y="6267"/>
+	<Point x="2174" y="6262"/>
+	<Point x="2180" y="6313"/>
+	<Point x="1694" y="6323"/>
+	<Point x="1315" y="6334"/>
+	<Point x="1312" y="6291"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Diite punased, õrnad huuled, nad olid</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2135" type="paragraph">
+	<Coords>
+	<Point x="2200" y="5009"/>
+	<Point x="3111" y="5009"/>
+	<Point x="3111" y="5095"/>
+	<Point x="2200" y="5095"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>igatsevad . .. ta tumedaist silmadest
+kiirgas sära . . .</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2196" type="paragraph">
+	<Coords>
+	<Point x="2200" y="5124"/>
+	<Point x="3118" y="5124"/>
+	<Point x="3118" y="5299"/>
+	<Point x="2200" y="5299"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sellisena nägi Robert lahkumisõhtul
+Diitet. Üksteise silmadest lugesid nad
+kõik. Oli see unes või tõelisus? Nad
+ei teadnud seda.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2333" type="paragraph">
+	<Coords>
+	<Point x="2201" y="5334"/>
+	<Point x="3120" y="5334"/>
+	<Point x="3120" y="5845"/>
+	<Point x="2201" y="5845"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aeg ja ruum kaotasid omad mõis-
+ted. Ainult nemad elasid ja armastasid.
+Muusika ja tants uimastasid neid nagu
+vein, nagu tugevasti lõhnavad lilled.
+Elu oli ilus. Diite ilusam. Kobert oli
+rõõmus ja eluhimuline. Väljas aga va-
+ritses surm. Ta ootas kaevikuis ja okas-
+tõkkeis. Nad jalutasid eemale. Nende
+käed leidsid teineteist... Silmad rää-
+kisid armastusest. Nad suudlesid. Hä-
+belikult. Siis — andumusega...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2768" type="paragraph">
+	<Coords>
+	<Point x="2199" y="5874"/>
+	<Point x="3122" y="5874"/>
+	<Point x="3122" y="6097"/>
+	<Point x="2199" y="6097"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Veel tänagi meenutab Diite omale
+kõike seda. Veel tänagi kuuleb ta Ro-
+berti õrna. sosistavat häält: „Ma tahak-
+sin jääda siia. Armastaksin sind terve
+oma elu ..“</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2940" type="paragraph">
+	<Coords>
+	<Point x="2204" y="6119"/>
+	<Point x="2343" y="6111"/>
+	<Point x="3121" y="6119"/>
+	<Point x="3121" y="6202"/>
+	<Point x="2196" y="6211"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>„.Ja homme...“ Kes rääkis, mõtles,
+tundis sellest?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2995" type="paragraph">
+	<Coords>
+	<Point x="2206" y="6225"/>
+	<Point x="2699" y="6216"/>
+	<Point x="3124" y="6225"/>
+	<Point x="3139" y="6275"/>
+	<Point x="3124" y="6314"/>
+	<Point x="2201" y="6322"/>
+	<Point x="2197" y="6304"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Homme, see tähendas lahutust, tõi
+pisaraid, kibedaid varjatud pisaraid.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3071" type="paragraph">
+	<Coords>
+	<Point x="3136" y="5001"/>
+	<Point x="4073" y="5001"/>
+	<Point x="4070" y="5211"/>
+	<Point x="3964" y="5234"/>
+	<Point x="3610" y="5237"/>
+	<Point x="3606" y="5240"/>
+	<Point x="3593" y="5243"/>
+	<Point x="3557" y="5237"/>
+	<Point x="3271" y="5239"/>
+	<Point x="3268" y="5215"/>
+	<Point x="3250" y="5233"/>
+	<Point x="3148" y="5237"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kõik jäi vaikseks. Roberti ei oluad
+enam. Tuli revolutsioon. Kõik muutus.
+Diite läks suurlinna. Tema kodu oli
+hävitatud, vanemateta, ent igatsus Ro-
+berti järele elas nagu varem ...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3263" type="paragraph">
+	<Coords>
+	<Point x="3151" y="5261"/>
+	<Point x="3202" y="5243"/>
+	<Point x="3248" y="5242"/>
+	<Point x="3547" y="5243"/>
+	<Point x="3561" y="5243"/>
+	<Point x="3610" y="5246"/>
+	<Point x="3613" y="5253"/>
+	<Point x="3630" y="5273"/>
+	<Point x="3680" y="5243"/>
+	<Point x="4087" y="5240"/>
+	<Point x="4092" y="5371"/>
+	<Point x="3440" y="5378"/>
+	<Point x="3136" y="5379"/>
+	<Point x="3140" y="5318"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Möödusid aastad. Üksi elas Diite.
+Ta oli muutunud ilusamaks, ihaldus-
+väärseimaks.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3352" type="paragraph">
+	<Coords>
+	<Point x="3139" y="5386"/>
+	<Point x="3191" y="5383"/>
+	<Point x="4097" y="5378"/>
+	<Point x="4097" y="5389"/>
+	<Point x="4098" y="5835"/>
+	<Point x="3523" y="5846"/>
+	<Point x="3142" y="5846"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ja siis, ühel suurel suvepeol nägi
+Diite Roberti. Rahulikult ja kindlalt
+seisis ta seal... ta käsivarrele toetus
+sale, blond daam. Hetke vaatasid nad
+teineteist, hingetult, uskmatult. Ro-
+bert tuli tema juure. Diite vaarus, ta
+pidi toetuma Robertile. See ei olnud
+uni. Robert elas! Nad jalutasid eemale
+nagu kunagi minevikus. ainult nende
+sõnad olid teised.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3731" type="paragraph">
+	<Coords>
+	<Point x="3154" y="5856"/>
+	<Point x="3144" y="5853"/>
+	<Point x="3271" y="5852"/>
+	<Point x="4061" y="5856"/>
+	<Point x="4061" y="6030"/>
+	<Point x="3502" y="5993"/>
+	<Point x="3453" y="6031"/>
+	<Point x="3141" y="6031"/>
+	<Point x="3144" y="5863"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>„Diite, miks ei leidnud ma sind va-
+rem? Nüüd on hilja, liig hilja, et sulle
+öelda, et armastaksin vaid sind terv�
+oma elu!..."</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3870" type="paragraph">
+	<Coords>
+	<Point x="3225" y="6041"/>
+	<Point x="3293" y="6036"/>
+	<Point x="3596" y="6035"/>
+	<Point x="3586" y="6041"/>
+	<Point x="3630" y="6013"/>
+	<Point x="3653" y="6013"/>
+	<Point x="3638" y="6064"/>
+	<Point x="3582" y="6081"/>
+	<Point x="3438" y="6085"/>
+	<Point x="3212" y="6084"/>
+	<Point x="3208" y="6057"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>“Liig hilja...!"</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3890" type="paragraph">
+	<Coords>
+	<Point x="3360" y="6088"/>
+	<Point x="3413" y="6090"/>
+	<Point x="3424" y="6087"/>
+	<Point x="3432" y="6088"/>
+	<Point x="3437" y="6103"/>
+	<Point x="3445" y="6088"/>
+	<Point x="3537" y="6088"/>
+	<Point x="3576" y="6087"/>
+	<Point x="3597" y="6086"/>
+	<Point x="3591" y="6085"/>
+	<Point x="3797" y="6081"/>
+	<Point x="3896" y="6087"/>
+	<Point x="3906" y="6084"/>
+	<Point x="3992" y="6088"/>
+	<Point x="4030" y="6085"/>
+	<Point x="4061" y="6095"/>
+	<Point x="4071" y="6105"/>
+	<Point x="4085" y="6254"/>
+	<Point x="4100" y="6260"/>
+	<Point x="4094" y="6277"/>
+	<Point x="4041" y="6280"/>
+	<Point x="4007" y="6279"/>
+	<Point x="3973" y="6277"/>
+	<Point x="3811" y="6278"/>
+	<Point x="3789" y="6278"/>
+	<Point x="3605" y="6267"/>
+	<Point x="3596" y="6315"/>
+	<Point x="3590" y="6318"/>
+	<Point x="3320" y="6320"/>
+	<Point x="3154" y="6318"/>
+	<Point x="3148" y="6271"/>
+	<Point x="3145" y="6228"/>
+	<Point x="3151" y="6141"/>
+	<Point x="3210" y="6088"/>
+	<Point x="3243" y="6087"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ta sõnad sulasid öötuule kahinaiss�
+puielehis. Ta asetas omad käed kindlalt
+mehe ümber, ulatades oma huuled veel
+viimast kord... ja kadus vaikselt aag�
+uni ööpimedusse ...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4074" type="heading">
+	<Coords>
+	<Point x="646" y="607"/>
+	<Point x="1162" y="604"/>
+	<Point x="1449" y="628"/>
+	<Point x="1692" y="707"/>
+	<Point x="1785" y="767"/>
+	<Point x="1903" y="739"/>
+	<Point x="2007" y="682"/>
+	<Point x="2053" y="607"/>
+	<Point x="2157" y="624"/>
+	<Point x="2178" y="707"/>
+	<Point x="2307" y="710"/>
+	<Point x="3071" y="674"/>
+	<Point x="3228" y="582"/>
+	<Point x="3478" y="599"/>
+	<Point x="3603" y="610"/>
+	<Point x="3821" y="617"/>
+	<Point x="3782" y="914"/>
+	<Point x="3746" y="924"/>
+	<Point x="2032" y="910"/>
+	<Point x="1664" y="914"/>
+	<Point x="571" y="939"/>
+	<Point x="575" y="789"/>
+	<Point x="589" y="657"/>
+	<Point x="599" y="624"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Huvitav shucnaalleht</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r4075" type="handwritten-annotation">
+	<Coords>
+	<Point x="1774" y="152"/>
+	<Point x="1889" y="152"/>
+	<Point x="1889" y="242"/>
+	<Point x="1774" y="242"/></Coords></GraphicRegion>
+	<TextRegion id="r4096" type="header">
+	<Coords>
+	<Point x="3356" y="433"/>
+	<Point x="3545" y="379"/>
+	<Point x="4053" y="420"/>
+	<Point x="4040" y="530"/>
+	<Point x="3479" y="527"/>
+	<Point x="3406" y="506"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HIND 6 SENTI</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4113" type="heading">
+	<Coords>
+	<Point x="304" y="1040"/>
+	<Point x="1392" y="1036"/>
+	<Point x="1411" y="1038"/>
+	<Point x="1483" y="1156"/>
+	<Point x="1556" y="1050"/>
+	<Point x="4048" y="1040"/>
+	<Point x="4096" y="1026"/>
+	<Point x="4100" y="1110"/>
+	<Point x="4030" y="1493"/>
+	<Point x="1286" y="1506"/>
+	<Point x="563" y="1526"/>
+	<Point x="320" y="1526"/>
+	<Point x="304" y="1472"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FILM JA ELU</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4125" type="paragraph">
+	<Coords>
+	<Point x="1762" y="1536"/>
+	<Point x="2586" y="1536"/>
+	<Point x="2586" y="1580"/>
+	<Point x="1762" y="1580"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ILMUB IGAL REEDEL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4146" type="paragraph">
+	<Coords>
+	<Point x="1499" y="1649"/>
+	<Point x="2178" y="1646"/>
+	<Point x="2807" y="1653"/>
+	<Point x="2810" y="1735"/>
+	<Point x="2417" y="1739"/>
+	<Point x="1482" y="1749"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Reedel, 11. jaanuaril 1935. a.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4202" type="footer">
+	<Coords>
+	<Point x="2036" y="6369"/>
+	<Point x="2204" y="6347"/>
+	<Point x="2356" y="6380"/>
+	<Point x="2378" y="6428"/>
+	<Point x="2204" y="6448"/>
+	<Point x="2036" y="6442"/>
+	<Point x="2013" y="6405"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Film ja Elu</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4228">
+	<Coords>
+	<Point x="2476" y="6389"/>
+	<Point x="2571" y="6389"/>
+	<Point x="2571" y="6391"/>
+	<Point x="2671" y="6391"/>
+	<Point x="2671" y="6392"/>
+	<Point x="2709" y="6392"/>
+	<Point x="2709" y="6394"/>
+	<Point x="2708" y="6394"/>
+	<Point x="2708" y="6407"/>
+	<Point x="2438" y="6407"/>
+	<Point x="2438" y="6406"/>
+	<Point x="2436" y="6406"/>
+	<Point x="2436" y="6390"/>
+	<Point x="2476" y="6390"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r4229">
+	<Coords>
+	<Point x="1833" y="6390"/>
+	<Point x="1833" y="6391"/>
+	<Point x="1969" y="6391"/>
+	<Point x="1969" y="6394"/>
+	<Point x="1976" y="6394"/>
+	<Point x="1976" y="6399"/>
+	<Point x="1833" y="6399"/>
+	<Point x="1833" y="6398"/>
+	<Point x="1703" y="6398"/>
+	<Point x="1703" y="6391"/>
+	<Point x="1777" y="6391"/>
+	<Point x="1777" y="6390"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r4230">
+	<Coords>
+	<Point x="1899" y="6401"/>
+	<Point x="1921" y="6401"/>
+	<Point x="1921" y="6402"/>
+	<Point x="1978" y="6402"/>
+	<Point x="1978" y="6410"/>
+	<Point x="1713" y="6410"/>
+	<Point x="1713" y="6402"/>
+	<Point x="1899" y="6402"/></Coords></SeparatorRegion>
+	<GraphicRegion id="r57" type="handwritten-annotation">
+	<Coords>
+	<Point x="336" y="130"/>
+	<Point x="143" y="190"/>
+	<Point x="116" y="296"/>
+	<Point x="70" y="386"/>
+	<Point x="133" y="436"/>
+	<Point x="136" y="466"/>
+	<Point x="366" y="443"/>
+	<Point x="700" y="440"/>
+	<Point x="1116" y="446"/>
+	<Point x="1223" y="430"/>
+	<Point x="1310" y="420"/>
+	<Point x="1500" y="334"/>
+	<Point x="1562" y="216"/>
+	<Point x="1223" y="130"/>
+	<Point x="1189" y="52"/>
+	<Point x="547" y="79"/></Coords></GraphicRegion>
+	<GraphicRegion id="r4083" type="handwritten-annotation">
+	<Coords>
+	<Point x="2568" y="240"/>
+	<Point x="2571" y="224"/>
+	<Point x="2621" y="222"/>
+	<Point x="3036" y="240"/>
+	<Point x="3046" y="320"/>
+	<Point x="3041" y="352"/>
+	<Point x="2684" y="364"/>
+	<Point x="2537" y="330"/>
+	<Point x="2534" y="278"/></Coords></GraphicRegion>
+	<TextRegion id="r40" type="paragraph">
+	<Coords>
+	<Point x="3453" y="1664"/>
+	<Point x="3453" y="1750"/>
+	<Point x="4075" y="1750"/>
+	<Point x="4075" y="1664"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>III aastakäik.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r41" type="paragraph">
+	<Coords>
+	<Point x="275" y="1650"/>
+	<Point x="274" y="1740"/>
+	<Point x="557" y="1750"/>
+	<Point x="557" y="1650"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nr. 1.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r42" type="handwritten-annotation">
+	<Coords>
+	<Point x="1592" y="935"/>
+	<Point x="1592" y="1021"/>
+	<Point x="2014" y="1021"/>
+	<Point x="2014" y="935"/></Coords></GraphicRegion>
+	<GraphicRegion id="r43" type="handwritten-annotation">
+	<Coords>
+	<Point x="428" y="878"/>
+	<Point x="428" y="975"/>
+	<Point x="521" y="975"/>
+	<Point x="521" y="878"/></Coords></GraphicRegion>
+	<SeparatorRegion id="r53">
+	<Coords>
+	<Point x="393" y="1763"/>
+	<Point x="393" y="1764"/>
+	<Point x="493" y="1764"/>
+	<Point x="493" y="1765"/>
+	<Point x="593" y="1765"/>
+	<Point x="593" y="1766"/>
+	<Point x="693" y="1766"/>
+	<Point x="693" y="1767"/>
+	<Point x="794" y="1767"/>
+	<Point x="794" y="1768"/>
+	<Point x="894" y="1768"/>
+	<Point x="894" y="1769"/>
+	<Point x="994" y="1769"/>
+	<Point x="994" y="1770"/>
+	<Point x="1094" y="1770"/>
+	<Point x="1094" y="1771"/>
+	<Point x="1194" y="1771"/>
+	<Point x="1194" y="1772"/>
+	<Point x="1295" y="1772"/>
+	<Point x="1295" y="1773"/>
+	<Point x="1395" y="1773"/>
+	<Point x="1395" y="1774"/>
+	<Point x="1495" y="1774"/>
+	<Point x="1495" y="1775"/>
+	<Point x="1595" y="1775"/>
+	<Point x="1595" y="1776"/>
+	<Point x="2482" y="1776"/>
+	<Point x="2482" y="1775"/>
+	<Point x="3268" y="1775"/>
+	<Point x="3268" y="1774"/>
+	<Point x="4056" y="1774"/>
+	<Point x="4056" y="1803"/>
+	<Point x="3913" y="1803"/>
+	<Point x="3913" y="1804"/>
+	<Point x="3721" y="1804"/>
+	<Point x="3721" y="1805"/>
+	<Point x="3529" y="1805"/>
+	<Point x="3529" y="1806"/>
+	<Point x="3337" y="1806"/>
+	<Point x="3337" y="1807"/>
+	<Point x="3145" y="1807"/>
+	<Point x="3145" y="1808"/>
+	<Point x="2954" y="1808"/>
+	<Point x="2954" y="1809"/>
+	<Point x="2762" y="1809"/>
+	<Point x="2762" y="1810"/>
+	<Point x="2570" y="1810"/>
+	<Point x="2570" y="1811"/>
+	<Point x="2378" y="1811"/>
+	<Point x="2378" y="1812"/>
+	<Point x="2186" y="1812"/>
+	<Point x="2186" y="1813"/>
+	<Point x="1995" y="1813"/>
+	<Point x="1995" y="1814"/>
+	<Point x="1803" y="1814"/>
+	<Point x="1803" y="1815"/>
+	<Point x="1611" y="1815"/>
+	<Point x="1611" y="1816"/>
+	<Point x="1419" y="1816"/>
+	<Point x="1419" y="1817"/>
+	<Point x="1227" y="1817"/>
+	<Point x="1227" y="1818"/>
+	<Point x="1036" y="1818"/>
+	<Point x="1036" y="1819"/>
+	<Point x="844" y="1819"/>
+	<Point x="844" y="1820"/>
+	<Point x="652" y="1820"/>
+	<Point x="652" y="1821"/>
+	<Point x="460" y="1821"/>
+	<Point x="460" y="1822"/>
+	<Point x="285" y="1822"/>
+	<Point x="285" y="1812"/>
+	<Point x="286" y="1812"/>
+	<Point x="286" y="1805"/>
+	<Point x="287" y="1805"/>
+	<Point x="287" y="1798"/>
+	<Point x="288" y="1798"/>
+	<Point x="288" y="1791"/>
+	<Point x="289" y="1791"/>
+	<Point x="289" y="1784"/>
+	<Point x="290" y="1784"/>
+	<Point x="290" y="1777"/>
+	<Point x="291" y="1777"/>
+	<Point x="291" y="1770"/>
+	<Point x="292" y="1770"/>
+	<Point x="292" y="1763"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r58">
+	<Coords>
+	<Point x="4056" y="1805"/>
+	<Point x="4056" y="1817"/>
+	<Point x="4057" y="1817"/>
+	<Point x="4057" y="1861"/>
+	<Point x="4058" y="1861"/>
+	<Point x="4058" y="1904"/>
+	<Point x="4059" y="1904"/>
+	<Point x="4059" y="1906"/>
+	<Point x="3577" y="1906"/>
+	<Point x="3577" y="1907"/>
+	<Point x="3026" y="1907"/>
+	<Point x="3026" y="1908"/>
+	<Point x="2474" y="1908"/>
+	<Point x="2474" y="1909"/>
+	<Point x="1923" y="1909"/>
+	<Point x="1923" y="1910"/>
+	<Point x="1371" y="1910"/>
+	<Point x="1371" y="1911"/>
+	<Point x="820" y="1911"/>
+	<Point x="820" y="1912"/>
+	<Point x="285" y="1912"/>
+	<Point x="285" y="1824"/>
+	<Point x="462" y="1824"/>
+	<Point x="462" y="1823"/>
+	<Point x="654" y="1823"/>
+	<Point x="654" y="1822"/>
+	<Point x="846" y="1822"/>
+	<Point x="846" y="1821"/>
+	<Point x="1038" y="1821"/>
+	<Point x="1038" y="1820"/>
+	<Point x="1229" y="1820"/>
+	<Point x="1229" y="1819"/>
+	<Point x="1421" y="1819"/>
+	<Point x="1421" y="1818"/>
+	<Point x="1613" y="1818"/>
+	<Point x="1613" y="1817"/>
+	<Point x="1805" y="1817"/>
+	<Point x="1805" y="1816"/>
+	<Point x="1997" y="1816"/>
+	<Point x="1997" y="1815"/>
+	<Point x="2188" y="1815"/>
+	<Point x="2188" y="1814"/>
+	<Point x="2380" y="1814"/>
+	<Point x="2380" y="1813"/>
+	<Point x="2572" y="1813"/>
+	<Point x="2572" y="1812"/>
+	<Point x="2764" y="1812"/>
+	<Point x="2764" y="1811"/>
+	<Point x="2956" y="1811"/>
+	<Point x="2956" y="1810"/>
+	<Point x="3147" y="1810"/>
+	<Point x="3147" y="1809"/>
+	<Point x="3339" y="1809"/>
+	<Point x="3339" y="1808"/>
+	<Point x="3531" y="1808"/>
+	<Point x="3531" y="1807"/>
+	<Point x="3723" y="1807"/>
+	<Point x="3723" y="1806"/>
+	<Point x="3915" y="1806"/>
+	<Point x="3915" y="1805"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r60">
+	<Coords>
+	<Point x="4059" y="1908"/>
+	<Point x="4059" y="1948"/>
+	<Point x="285" y="1948"/>
+	<Point x="285" y="1914"/>
+	<Point x="822" y="1914"/>
+	<Point x="822" y="1913"/>
+	<Point x="1373" y="1913"/>
+	<Point x="1373" y="1912"/>
+	<Point x="1925" y="1912"/>
+	<Point x="1925" y="1911"/>
+	<Point x="2476" y="1911"/>
+	<Point x="2476" y="1910"/>
+	<Point x="3028" y="1910"/>
+	<Point x="3028" y="1909"/>
+	<Point x="3579" y="1909"/>
+	<Point x="3579" y="1908"/></Coords></SeparatorRegion></Page></PcGts>

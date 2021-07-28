@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd" pcGtsId="pc-00762378">
+	<Metadata>
+	<Creator>FineReader Engine 10</Creator>
+	<Created>2013-10-15T15:18:35</Created>
+	<LastChange>2014-07-03T08:27:43</LastChange>
+	<Comments>Recognition and export settings:
+
+  Recognition language(s): Polish
+  Font class: normal
+  Orig-outlines: false
+  Orig-text: false
+  Orig-drop-caps: false
+  Reading order: false
+    Exclude: [default]
+  Layers: false
+  To remove: background-images
+
+Conversion and export:
+
+  Ignored 1 regions that have no coordinates (ghost regions)
+</Comments></Metadata>
+	<Page imageFilename="00762378.tif" imageWidth="2457" imageHeight="3208">
+	<ReadingOrder>
+	<UnorderedGroup id="ro357564684568544579089">
+	<OrderedGroup id="r43">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r14" index="1"/>
+	<RegionRefIndexed regionRef="r76" index="2"/>
+	<RegionRefIndexed regionRef="r59" index="3"/>
+	<RegionRefIndexed regionRef="r111" index="4"/></OrderedGroup>
+	<OrderedGroup id="r44">
+	<RegionRefIndexed regionRef="r118" index="0"/>
+	<RegionRefIndexed regionRef="r174" index="1"/>
+	<RegionRefIndexed regionRef="r347" index="2"/>
+	<RegionRefIndexed regionRef="r469" index="3"/>
+	<RegionRefIndexed regionRef="r532" index="4"/>
+	<RegionRefIndexed regionRef="r655" index="5"/>
+	<RegionRefIndexed regionRef="r60" index="6"/>
+	<RegionRefIndexed regionRef="r966" index="7"/>
+	<RegionRefIndexed regionRef="r1542" index="8"/>
+	<RegionRefIndexed regionRef="r63" index="9"/>
+	<RegionRefIndexed regionRef="r1660" index="10"/>
+	<RegionRefIndexed regionRef="r1796" index="11"/>
+	<RegionRefIndexed regionRef="r64" index="12"/>
+	<RegionRefIndexed regionRef="r2887" index="13"/>
+	<RegionRefIndexed regionRef="r3015" index="14"/>
+	<RegionRefIndexed regionRef="r3728" index="15"/>
+	<RegionRefIndexed regionRef="r3850" index="16"/>
+	<RegionRefIndexed regionRef="r3979" index="17"/></OrderedGroup>
+	<OrderedGroup id="r45">
+	<RegionRefIndexed regionRef="r1857" index="0"/>
+	<RegionRefIndexed regionRef="r1876" index="1"/>
+	<RegionRefIndexed regionRef="r62" index="2"/>
+	<RegionRefIndexed regionRef="r2116" index="3"/>
+	<RegionRefIndexed regionRef="r2207" index="4"/>
+	<RegionRefIndexed regionRef="r2378" index="5"/>
+	<RegionRefIndexed regionRef="r2444" index="6"/>
+	<RegionRefIndexed regionRef="r61" index="7"/>
+	<RegionRefIndexed regionRef="r2811" index="8"/></OrderedGroup></UnorderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords points="297,395 573,375 849,401 1888,376 1912,587 1117,605 644,613 288,616 286,423"/>
+	<TextEquiv>
+	<Unicode>MÓJ GŁOSIK</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="heading">
+	<Coords points="486,633 659,632 969,631 1701,618 1712,623 1714,661 955,676 698,683 490,681 483,677"/>
+	<TextEquiv>
+	<Unicode>DODATEK TYGODNLOWY „GŁOSU PORANNEGO" DLA NASZEJ DZIATWY</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r76" type="paragraph">
+	<Coords points="301,745 433,741 460,745 460,792 424,796 296,797 298,745"/>
+	<TextEquiv>
+	<Unicode>Nr. 36</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r111" type="paragraph">
+	<Coords points="1762,712 1884,707 1904,710 1908,716 1908,760 1774,764 1760,764"/>
+	<TextEquiv>
+	<Unicode>Rok X</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r118" type="heading">
+	<Coords points="485,892 1032,879 1441,868 1728,872 1736,1012 1650,1017 1494,1023 1305,1025 1095,1029 984,1035 488,1044 483,954"/>
+	<TextEquiv>
+	<Unicode>MORSKI SEN</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r174" type="paragraph">
+	<Coords points="424,1059 456,1061 848,1050 853,1060 854,1210 670,1218 566,1224 431,1226 390,1224 386,1209 383,1145 388,1098 412,1088 414,1070"/>
+	<TextEquiv>
+	<Unicode>W niebie płyną fale blasku, w
+morzu płyną blaski fal; dobrze
+leżeć jest na piasku i marząco pa
+trzeć w dal. Piękne morza są ko-
+lory, srebro piany, piasku miedź..</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r469" type="paragraph">
+	<Coords points="781,1440 816,1432 846,1411 863,1380 738,1377 614,1381 540,1384 429,1386 426,1392 430,1414 393,1424 395,1442 403,1449 418,1444 458,1442 498,1446 552,1448 580,1446 590,1442 609,1438 657,1439 693,1440 703,1441 719,1433 755,1434"/>
+	<TextEquiv>
+	<Unicode>Tak rozkosznie, sennie marzy
+uczeń klasy pierwszej — Ryś.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r532" type="paragraph">
+	<Coords points="428,1470 425,1450 438,1445 574,1453 588,1445 594,1450 613,1444 689,1446 694,1442 704,1446 713,1442 753,1441 768,1448 780,1443 789,1441 860,1444 864,1530 809,1535 774,1536 764,1539 675,1538 658,1566 644,1567 472,1572 456,1581 419,1573 400,1577 397,1486 430,1483"/>
+	<TextEquiv>
+	<Unicode>Tańc�ą wokół blaski chyże, co
+raz bardziej cięży skroń. Wtym
+do Rysia ktoś się zbliża i powia-
+da grzecznie doń:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r655" type="paragraph">
+	<Coords points="460,1591 471,1588 611,1587 850,1579 867,1583 868,1800 808,1803 770,1813 768,1836 721,1842 414,1844 405,1842 402,1702 401,1633 433,1602"/>
+	<TextEquiv>
+	<Unicode>— Jestem Rybek, morski rad-
+ca, jam podróżnik, sportsman—
+zuch! Król Wieloryb, pan mój,
+władca już sędziwy, lubi ruch,
+łecz, że mu — przy tuszy — szko
+dzi, nas zawezwał przed swój
+tron i obiecał wynagrodzić za
+zwiedzenie obcych stron.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r966" type="paragraph">
+	<Coords points="408,1953 447,1940 495,1937 572,1941 853,1933 876,1936 881,1976 882,2103 887,2480 861,2486 836,2483 692,2487 684,2518 463,2524 459,2522 446,2523 416,2521 413,2482 416,2399 413,2303 408,2183 407,2084"/>
+	<TextEquiv>
+	<Unicode>Setki ryb po morzach lata i do
+kładnie zwiedza świat. Jam w
+Kairze był, w Japonii, w Gibral-
+tarze-m spędził noc, w Honolulu,
+na Cejlonie — wszędziem cu-
+dów widział moc. W. Sydney-m
+był, na Labradorze, na Alasce, w
+portach stu, w Dovrze, w Chile,
+w Singaporze — i przybyłem
+wreszcie tu. Znam Newfound-
+land i Sardynię, mapę świata tnę,
+jak tort, lecz krzyknąłem, wi-
+dząc Gdynię: — Mam nagrodę!
+Cóż za port!... Lecz mi nie dał
+król nagrody: — Kłamiesz! Pla-
+misz rybią cześć! Byłem — mówi
+— tam za młodu, znam tę Gdy-
+nię! — mała wieś!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1542" type="paragraph">
+	<Coords points="422,2530 796,2524 886,2521 888,2567 890,2578 884,2588 751,2590 590,2588 460,2595 421,2593 417,2575"/>
+	<TextEquiv>
+	<Unicode>Proszę pwnal Ciągła zwada dziś
+zagraża morza dnu; czy też pan,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1796" type="paragraph">
+	<Coords points="1333,1294 1348,1304 1356,1317 1352,1354 1342,1355 1328,1355 1313,1352 1217,1354 1210,1358 1203,1354 1198,1354 1061,1356 988,1359 898,1360 888,1349 924,1300 1067,1298 1184,1295"/>
+	<TextEquiv>
+	<Unicode>Widzi Ryś: na skalnym tronie,
+w diamentów zdobnym skry,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1857" type="heading">
+	<Coords points="983,1418 1071,1423 1175,1420 1264,1411 1272,1415 1278,1455 1267,1469 998,1472 976,1469"/>
+	<TextEquiv>
+	<Unicode>List z wakacji</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1876" type="paragraph">
+	<Coords points="925,1477 1276,1473 1290,1475 1286,1527 1367,1609 1370,1661 1295,1671 1304,1721 1298,1728 1062,1729 1049,1734 1034,1729 974,1729 971,1605 919,1606 915,1519 920,1481"/>
+	<TextEquiv>
+	<Unicode>Droga mama! Jest tu cudnie!.
+Tak się cieszę wałą kochaną,
+że jak wyjdę z domu rano,
+to nie wracani, aż w południe!
+Jest tu śmieszny pies brodaty,
+rwie się „Nierusz"! Jest i kotek;
+ma leb czarny, oczy złote
+i na grzbiecie czarne łaty.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2116" type="paragraph">
+	<Coords points="932,1768 989,1773 1034,1772 1301,1765 1367,1768 1373,1782 1360,1812 1238,1827 1195,1830 1199,1856 1090,1862 1016,1862 976,1868 952,1869 932,1863 929,1778"/>
+	<TextEquiv>
+	<Unicode>Wczoraj włazłem na szczyt drzewa
+i — niech mama się nie gniewa —
+żywieą się pokielłem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2207" type="paragraph">
+	<Coords points="979,1906 981,1871 992,1869 1173,1862 1186,1864 1270,1864 1337,1860 1369,1864 1371,1880 1364,1922 1365,1945 1356,1957 1308,1962 1299,2029 1228,2055 991,2058 936,2055 937,2000 983,1978"/>
+	<TextEquiv>
+	<Unicode>Ręce — głustwo! Lecz ubranie...
+bluzka — plama kolo plamy!
+Nie wiedzlałem, proszę mamy,
+że się taka szkoda stanie!
+Wezoraj stłukłem dwa talerze,
+nlosąc kampot do altany!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2378" type="paragraph">
+	<Coords points="939,2061 1338,2060 1351,2063 1353,2080 1319,2096 1309,2111 1271,2119 936,2123 936,2089"/>
+	<TextEquiv>
+	<Unicode>Chciałbym wledzieć, proszę mamy,
+jak się plamy a jagód pierze?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2444" type="paragraph">
+	<Coords points="987,2164 989,2128 1024,2128 1183,2125 1341,2119 1351,2115 1360,2118 1366,2126 1369,2169 1348,2256 1349,2314 1348,2358 1353,2402 1385,2421 1387,2427 1385,2472 1376,2473 1325,2470 1320,2445 1077,2443 1004,2449 996,2448 984,2409 993,2389 942,2382 938,2261 988,2252 988,2206"/>
+	<TextEquiv>
+	<Unicode>Napisz, mame, jak się ezujesż,
+czy przywicziesx spodnie białe
+i czy jabłka niedojrzałe
+szkodzą, tak, że się choruje?
+Grable — świetne! Już grabiłem
+siano razem z Mateuszem,
+który — o tym donłeść muszę —
+rzekt, że mam niedżwiedzią silę
+Teraz troszkę zjem konfitur,
+(wszak odmawiać. to niegrzecz-
+nie!)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2811" type="paragraph">
+	<Coords points="1167,2550 1238,2547 1305,2547 1319,2545 1322,2550 1324,2569 1192,2572 1184,2579 1173,2571 1161,2574 1162,2561 1161,2554"/>
+	<TextEquiv>
+	<Unicode>Synek Wituś.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3015" type="paragraph">
+	<Coords points="1401,1308 1430,1291 1785,1284 1843,1283 1868,1291 1874,1972 1874,1969 1769,1974 1583,1974 1583,2000 1541,2010 1405,2006 1386,1340"/>
+	<TextEquiv>
+	<Unicode>Śmiały Ryś na muszli usiadł
+(wokół ryb się zebrał tłum); du-
+mą pierś uniosła mu się, — naj-
+piękniejszą z wszystkich dum.
+Ujął wątek opowieści, jak mary-
+narz — łodzi ster: oto baśń o
+młodym mieście, ulubieńcu pol-
+skich serc. Że to była mała wio-
+ska i piaszczystej ziemi szmat; i
+że port w tym piasku rozkwitł,
+jak wspaniały, dumny kwiat! Że
+na miejscu chat rybackich nagle,
+wnet (tak bywa w snach!) stoją
+wille, istne cacka, i — co krok —
+olbrzymi gmach. że — zaledwie
+rozpoczęty — port potężny wy-
+rósł już! Wypłynęły zeń okręty
+na obszary wielkich mórz; że,
+gdziekolwiek fal potęgą woła
+morza władczy zew — polska
+mowa dzisiaj sięga i bandery pol
+skiej wiew!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3850" type="paragraph">
+	<Coords points="1436,2200 1443,2162 1842,2153 1874,2164 1886,2202 1873,2262 1804,2262 1781,2294 1676,2296 1434,2301 1417,2297 1406,2273 1411,2199"/>
+	<TextEquiv>
+	<Unicode>Szumi woda, piasek chrzęści...
+Usiadł Ryś, sen z oczu starł, pa-
+trzy; w zwartej trzyma pięści
+spory kamyk, niby skarb!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3979" type="paragraph">
+	<Coords points="1421,2313 1764,2306 1882,2313 1889,2532 1718,2543 1598,2540 1591,2573 1418,2576 1415,2547 1415,2450 1412,2365"/>
+	<TextEquiv>
+	<Unicode>— Ha — powiada Rysiek —
+trudno! Szybko ten mi klejnot
+znikł! Lecz przygodę miałem
+cudną, jakiej nie miał chyba
+nikt. I dlatego też zachowam na
+pamiątkę kamyk ten: miałem
+piękny, kolorowy i prawdziwie
+morski sen!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="paragraph">
+	<Coords points="831,739 926,747 1376,739 1373,773 831,787"/>
+	<TextEquiv>
+	<Unicode>Łódż, dnia 1 września 1939 r.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" type="paragraph">
+	<Coords points="439,1870 496,1865 688,1860 866,1859 873,1867 873,1880 826,1916 713,1924 412,1928 405,1925 408,1907"/>
+	<TextEquiv>
+	<Unicode>— Nowin — mówi — chcę ze
+świate! Siedzę tu od tylu lat...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r61" type="paragraph">
+	<Coords points="998,2488 1386,2477 1393,2507 1185,2511 1182,2538 1177,2543 999,2544 995,2533"/>
+	<TextEquiv>
+	<Unicode>więc już kończę! Najserdceznle!
+śeiskam mamę</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r62" type="paragraph">
+	<Coords points="930,1741 1077,1739 1251,1733 1275,1736 1281,1755 1112,1760 989,1767 930,1764 929,1758"/>
+	<TextEquiv>
+	<Unicode>Rozrywki mam bardze miłe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r63" type="paragraph">
+	<Coords points="891,1051 883,1061 886,1112 907,1116 968,1115 1081,1108 1102,1108 1107,1077 1197,1078 1349,1073 1348,1052 1347,1040 1265,1041 1231,1047 1203,1045"/>
+	<TextEquiv>
+	<Unicode>naoczny świadek, nie potwierdził
+by mych słów?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r64" type="paragraph">
+	<Coords points="1378,1058 1375,1106 1848,1106 1848,1030 1713,1022 1523,1028 1438,1027 1377,1036"/>
+	<TextEquiv>
+	<Unicode>król Wieloryb siadł w koronie
+w otoczeniu wszelkich rył.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r56">
+	<Coords points="290,721 296,703 737,696 1314,684 1901,673 1909,676 1909,689 1903,693 1303,702 661,712 623,716"/></SeparatorRegion>
+	<GraphicRegion id="r57">
+	<Coords points="297,851 298,829 516,825 881,813 1443,800 1907,793 1907,815 1443,826 886,837 509,846"/></GraphicRegion>
+	<GraphicRegion id="r58">
+	<Coords points="299,861 304,1065 315,1330 324,1630 332,1906 335,2127 340,2357 341,2570 346,2633 369,2635 328,860"/></GraphicRegion>
+	<GraphicRegion id="r65">
+	<Coords points="349,2643 387,2642 426,2639 750,2628 1207,2624 1324,2620 1540,2614 1966,2614 1963,2637 1323,2644 1174,2649 755,2653 427,2661 349,2669"/></GraphicRegion>
+	<GraphicRegion id="r66">
+	<Coords points="1883,824 1918,1766 1940,2605 1964,2610 1967,2598 1966,2584 1961,2481 1955,2332 1953,2120 1948,1967 1944,1857 1938,1613 1931,1452 1927,1290 1923,1142 1918,990 1914,919 1911,825"/></GraphicRegion>
+	<TextRegion id="r2887" type="paragraph">
+	<Coords points="1388,1116 1779,1111 1864,1118 1862,1236 1665,1249 1553,1250 1459,1252 1447,1282 1382,1283 1379,1196"/>
+	<TextEquiv>
+	<Unicode>— Witam! — mówi. — Morze
+zna cię: zna polaków — dzielny
+ród! Teraz — pono — Gdynię
+macie, to — podobno — miasto-
+cud.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3728" type="paragraph">
+	<Coords points="1428,2015 1830,2012 1873,2016 1881,2087 1867,2104 1831,2117 1788,2144 1573,2147 1408,2149 1407,2063"/>
+	<TextEquiv>
+	<Unicode>Rybi król potrząsnął berłem:
+— Więc ci, chłopcze, Boże
+szczęść! — i Rysiowi wręczył per
+łę taką dużą, jak ta pięść!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1660" type="paragraph">
+	<Coords points="911,1146 915,1137 941,1122 1262,1120 1347,1124 1350,1164 1349,1190 1350,1243 1113,1254 989,1254 988,1282 922,1290 890,1288 887,1216 887,1190 888,1165"/>
+	<TextEquiv>
+	<Unicode>— Cóż, — rzekł Ryś (niepew-
+nie raczej) —chętnie służę... Daj
+mi dłoń! — Ryś i Rybek razem
+skaczą w morskie fale — w wod-
+ną toń.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r347" type="paragraph">
+	<Coords points="427,1249 466,1231 541,1233 832,1227 855,1230 858,1322 635,1329 636,1353 624,1356 485,1367 393,1364 389,1279 418,1251"/>
+	<TextEquiv>
+	<Unicode>— Zeby jeszcze tak wieloryb,
+ostatecznie — niechby śledżl Że-
+by, leżąc tak na plaży, grubą ry-
+bę złapać dziś!...</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r69">
+	<Coords points="1353,1356 1353,1362 1313,1363 1142,1365 1079,1367 1028,1368 947,1372 934,1371 896,1372 895,1364 940,1363 987,1363 1034,1361 1080,1360 1127,1360 1174,1359 1206,1359 1220,1358 1264,1357"/></SeparatorRegion>
+	<SeparatorRegion id="r71">
+	<Coords points="1353,1367 1353,1383 1308,1383 1262,1384 1216,1385 1171,1386 1125,1387 1079,1388 1033,1389 1006,1390 979,1391 951,1391 924,1393 895,1392 894,1376 924,1376 937,1375 949,1375 1039,1373"/></SeparatorRegion></Page></PcGts>

@@ -1,0 +1,2346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00675231">
+	<Metadata>
+	<Creator>FineReader Engine 10</Creator>
+	<Created>2013-10-15T11:36:29</Created>
+	<LastChange>2014-01-22T08:52:16</LastChange>
+	<Comments>Recognition and export settings:
+
+  Recognition language(s): Estonian
+  Font class: normal
+  Orig-outlines: false
+  Orig-text: false
+  Orig-drop-caps: false
+  Reading order: false
+    Exclude: [default]
+  Layers: false
+  To remove: background-images
+
+Conversion and export:
+
+  Removed 5 background images
+</Comments></Metadata>
+	<Page imageFilename="00675231.tif" imageWidth="4193" imageHeight="6554">
+	<ReadingOrder>
+	<UnorderedGroup id="ro357564684568544579089">
+	<OrderedGroup id="r76">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r37" index="1"/>
+	<RegionRefIndexed regionRef="r103" index="2"/>
+	<RegionRefIndexed regionRef="r805" index="3"/>
+	<RegionRefIndexed regionRef="r989" index="4"/>
+	<RegionRefIndexed regionRef="r1543" index="5"/>
+	<RegionRefIndexed regionRef="r2012" index="6"/>
+	<RegionRefIndexed regionRef="r2026" index="7"/>
+	<RegionRefIndexed regionRef="r2382" index="8"/>
+	<RegionRefIndexed regionRef="r2792" index="9"/>
+	<RegionRefIndexed regionRef="r3208" index="10"/>
+	<RegionRefIndexed regionRef="r61" index="11"/>
+	<RegionRefIndexed regionRef="r71" index="12"/>
+	<RegionRefIndexed regionRef="r69" index="13"/>
+	<RegionRefIndexed regionRef="r2824" index="14"/>
+	<RegionRefIndexed regionRef="r2942" index="15"/>
+	<RegionRefIndexed regionRef="r3187" index="16"/>
+	<RegionRefIndexed regionRef="r3598" index="17"/>
+	<RegionRefIndexed regionRef="r3642" index="18"/>
+	<RegionRefIndexed regionRef="r3665" index="19"/>
+	<RegionRefIndexed regionRef="r3820" index="20"/>
+	<RegionRefIndexed regionRef="r4263" index="21"/></OrderedGroup>
+	<OrderedGroup id="r77">
+	<RegionRefIndexed regionRef="r4373" index="0"/>
+	<RegionRefIndexed regionRef="r4388" index="1"/>
+	<RegionRefIndexed regionRef="r4430" index="2"/>
+	<RegionRefIndexed regionRef="r4578" index="3"/>
+	<RegionRefIndexed regionRef="r4809" index="4"/>
+	<RegionRefIndexed regionRef="r5353" index="5"/>
+	<RegionRefIndexed regionRef="r5805" index="6"/>
+	<RegionRefIndexed regionRef="r6421" index="7"/>
+	<RegionRefIndexed regionRef="r6848" index="8"/>
+	<RegionRefIndexed regionRef="r7087" index="9"/></OrderedGroup></UnorderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="208" y="345"/>
+	<Point x="3961" y="346"/>
+	<Point x="3961" y="619"/>
+	<Point x="3823" y="623"/>
+	<Point x="3639" y="623"/>
+	<Point x="3449" y="622"/>
+	<Point x="3260" y="623"/>
+	<Point x="2307" y="623"/>
+	<Point x="1939" y="622"/>
+	<Point x="1460" y="621"/>
+	<Point x="1064" y="626"/>
+	<Point x="938" y="620"/>
+	<Point x="927" y="626"/>
+	<Point x="677" y="624"/>
+	<Point x="531" y="624"/>
+	<Point x="511" y="626"/>
+	<Point x="412" y="622"/>
+	<Point x="290" y="619"/>
+	<Point x="201" y="621"/>
+	<Point x="203" y="427"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>NAISEIE TAHAB OLLA ILUS</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r25">
+	<Coords>
+	<Point x="231" y="4034"/>
+	<Point x="383" y="4049"/>
+	<Point x="493" y="4050"/>
+	<Point x="529" y="4050"/>
+	<Point x="537" y="4049"/>
+	<Point x="652" y="4049"/>
+	<Point x="920" y="4050"/>
+	<Point x="965" y="4049"/>
+	<Point x="1009" y="4048"/>
+	<Point x="1166" y="4049"/>
+	<Point x="1193" y="4049"/>
+	<Point x="1201" y="4048"/>
+	<Point x="1206" y="4048"/>
+	<Point x="1232" y="4051"/>
+	<Point x="1317" y="4049"/>
+	<Point x="1450" y="4051"/>
+	<Point x="1695" y="4052"/>
+	<Point x="1766" y="4052"/>
+	<Point x="1805" y="4053"/>
+	<Point x="1942" y="4052"/>
+	<Point x="1966" y="4054"/>
+	<Point x="1966" y="4093"/>
+	<Point x="1965" y="4196"/>
+	<Point x="1966" y="4205"/>
+	<Point x="1965" y="4327"/>
+	<Point x="1963" y="4400"/>
+	<Point x="1963" y="4637"/>
+	<Point x="1964" y="4679"/>
+	<Point x="1963" y="5150"/>
+	<Point x="1960" y="5245"/>
+	<Point x="1960" y="5416"/>
+	<Point x="1959" y="5528"/>
+	<Point x="1959" y="5634"/>
+	<Point x="1958" y="5759"/>
+	<Point x="1959" y="6173"/>
+	<Point x="1763" y="6172"/>
+	<Point x="1684" y="6170"/>
+	<Point x="1470" y="6171"/>
+	<Point x="1167" y="6171"/>
+	<Point x="929" y="6169"/>
+	<Point x="830" y="6172"/>
+	<Point x="806" y="6170"/>
+	<Point x="702" y="6172"/>
+	<Point x="633" y="6173"/>
+	<Point x="542" y="6172"/>
+	<Point x="418" y="6172"/>
+	<Point x="334" y="6169"/>
+	<Point x="248" y="6170"/>
+	<Point x="248" y="6066"/>
+	<Point x="247" y="6014"/>
+	<Point x="247" y="5917"/>
+	<Point x="250" y="5815"/>
+	<Point x="249" y="5740"/>
+	<Point x="250" y="5702"/>
+	<Point x="249" y="5615"/>
+	<Point x="248" y="5592"/>
+	<Point x="249" y="5510"/>
+	<Point x="248" y="5396"/>
+	<Point x="247" y="5292"/>
+	<Point x="246" y="5217"/>
+	<Point x="246" y="5141"/>
+	<Point x="245" y="5110"/>
+	<Point x="245" y="5042"/>
+	<Point x="244" y="4964"/>
+	<Point x="244" y="4841"/>
+	<Point x="245" y="4787"/>
+	<Point x="245" y="4733"/>
+	<Point x="246" y="4677"/>
+	<Point x="246" y="4568"/>
+	<Point x="245" y="4490"/>
+	<Point x="246" y="4423"/>
+	<Point x="247" y="4346"/>
+	<Point x="248" y="4308"/>
+	<Point x="247" y="4270"/>
+	<Point x="248" y="4171"/></Coords></ImageRegion>
+	<TextRegion id="r103" type="paragraph">
+	<Coords>
+	<Point x="199" y="1208"/>
+	<Point x="630" y="1208"/>
+	<Point x="811" y="1207"/>
+	<Point x="1011" y="1206"/>
+	<Point x="1141" y="1206"/>
+	<Point x="1143" y="1339"/>
+	<Point x="1144" y="1484"/>
+	<Point x="1143" y="2010"/>
+	<Point x="1124" y="2016"/>
+	<Point x="1113" y="2013"/>
+	<Point x="980" y="2017"/>
+	<Point x="939" y="2017"/>
+	<Point x="901" y="2015"/>
+	<Point x="760" y="2008"/>
+	<Point x="755" y="2017"/>
+	<Point x="623" y="2013"/>
+	<Point x="583" y="2017"/>
+	<Point x="469" y="2015"/>
+	<Point x="460" y="2015"/>
+	<Point x="448" y="2017"/>
+	<Point x="415" y="2013"/>
+	<Point x="391" y="2014"/>
+	<Point x="378" y="2012"/>
+	<Point x="358" y="2017"/>
+	<Point x="345" y="2017"/>
+	<Point x="326" y="2012"/>
+	<Point x="203" y="2012"/>
+	<Point x="199" y="1788"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sa oled ilusaim naine!" seda tahak-
+sid kõik naised kuulda enese kohta.
+Vähesed aga esitavad omale küsimuse:
+„Kuidas ma saan ilusaks ?" On juba kord
+nii, et selleks ei ole üldist retsepti. Mis
+ühele on õige, on teisele vale. Naisele
+aga, kes ilus tahab olla, maksab loo-
+sung: Igaüks peab omi originaalseid joo-
+ni väljaarendama täiusliku ilu suunas
+niipalju, kui see võimalik. Kahtlemata
+loob mood teatud „moetiiüpe", mis ta-
+valiselt kuulutatakse ka „ilutüüpideks",
+ent tõelise iluga on neil enamjuhtudel
+vähe ühist, õieti seisabki ju inimeste
+erinevuses ning mitmekesiduses huvita-
+vus. On juba kord nii, et on pakse, sa-
+ledaid, tugevaid, nõrku, noori ja vanu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r805" type="paragraph">
+	<Coords>
+	<Point x="204" y="2019"/>
+	<Point x="570" y="2019"/>
+	<Point x="1129" y="2020"/>
+	<Point x="1130" y="2245"/>
+	<Point x="657" y="2246"/>
+	<Point x="419" y="2247"/>
+	<Point x="413" y="2253"/>
+	<Point x="370" y="2253"/>
+	<Point x="364" y="2252"/>
+	<Point x="356" y="2247"/>
+	<Point x="304" y="2247"/>
+	<Point x="203" y="2246"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Trööstiks olgu öeldud: Inetus on
+haigus, ehk positiivselt öeldes — ilu on
+tervis. Ja siin eksitakse juba varases
+nooruses. Tuleb vältida kõike, mis pole
+tervisega kooskõlas!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r989" type="paragraph">
+	<Coords>
+	<Point x="201" y="2250"/>
+	<Point x="331" y="2250"/>
+	<Point x="359" y="2259"/>
+	<Point x="422" y="2257"/>
+	<Point x="428" y="2251"/>
+	<Point x="442" y="2251"/>
+	<Point x="463" y="2253"/>
+	<Point x="674" y="2251"/>
+	<Point x="712" y="2249"/>
+	<Point x="977" y="2250"/>
+	<Point x="1125" y="2250"/>
+	<Point x="1127" y="2439"/>
+	<Point x="1129" y="2674"/>
+	<Point x="1129" y="2902"/>
+	<Point x="1052" y="2903"/>
+	<Point x="779" y="2900"/>
+	<Point x="386" y="2901"/>
+	<Point x="200" y="2901"/>
+	<Point x="203" y="2868"/>
+	<Point x="204" y="2841"/>
+	<Point x="199" y="2794"/>
+	<Point x="199" y="2641"/>
+	<Point x="201" y="2500"/>
+	<Point x="204" y="2453"/>
+	<Point x="200" y="2425"/>
+	<Point x="202" y="2367"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kuna inetus on haigus, — siis peab
+ta ka olema arstitav. Tänapäeval lei-
+dub inimese juures vähe häireid, mille
+puhul meie ütleme, et see on paranda-
+matu. Ka kosmeetilisel alal, mida ars-
+titeadus veel mitte kaua tagasi ei
+tunnustanud, on viimasel ajal teh-
+tud suuri edusamme. Nii näiteks
+üleliigne rasvumine, milline varem oli
+tavaliseks nähteks, tuleb tänapäeval
+harva ette, sest iga naine teab ehk võib
+õppida, kuidas ta peab end toitma, kui-
+das elama, et üleligset rasvumist takis-
+tada. Sama maksab ka naharavi kohta.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1543" type="paragraph">
+	<Coords>
+	<Point x="204" y="2905"/>
+	<Point x="402" y="2904"/>
+	<Point x="454" y="2906"/>
+	<Point x="486" y="2905"/>
+	<Point x="627" y="2904"/>
+	<Point x="1137" y="2906"/>
+	<Point x="1138" y="2986"/>
+	<Point x="1138" y="3464"/>
+	<Point x="725" y="3466"/>
+	<Point x="525" y="3465"/>
+	<Point x="203" y="3466"/>
+	<Point x="204" y="3407"/>
+	<Point x="205" y="3279"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ent inetus pole mitte tingitud üksi
+kehalisest haigusest, vaid ka hingeli-
+sest olukorrast. Keha ja vaim on lahu-
+tamatud. Hea tuju teeb ilusaks. Kes
+end väliselt hooletusse jätab, ei ole ka
+seesmiselt hoolitsetud. Kes oskab oma
+välimust viia harmoonilisse kooskõlla
+oma sisemusega, on oma iluküsimuse
+suures ulatuses lahendanud. Teame, et
+valitseb veel suur teadmatus ning eba-
+kindlus selle üle, millised iludusvead sel
+moel kõrvaldatavad on.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2012" type="heading">
+	<Coords>
+	<Point x="518" y="3499"/>
+	<Point x="825" y="3499"/>
+	<Point x="825" y="3544"/>
+	<Point x="518" y="3544"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ILUS RIND.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2026" type="paragraph">
+	<Coords>
+	<Point x="205" y="3559"/>
+	<Point x="294" y="3558"/>
+	<Point x="343" y="3558"/>
+	<Point x="679" y="3557"/>
+	<Point x="776" y="3557"/>
+	<Point x="1032" y="3560"/>
+	<Point x="1137" y="3559"/>
+	<Point x="1137" y="3604"/>
+	<Point x="1136" y="3722"/>
+	<Point x="1137" y="3890"/>
+	<Point x="1137" y="3994"/>
+	<Point x="857" y="3993"/>
+	<Point x="842" y="3994"/>
+	<Point x="836" y="3994"/>
+	<Point x="753" y="3993"/>
+	<Point x="707" y="3995"/>
+	<Point x="363" y="3995"/>
+	<Point x="332" y="3993"/>
+	<Point x="204" y="3995"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Suurimaks kosmeetiliseks mureks on
+rindade vormimuutused, mida toovad
+kaasa aastad, haigused ja perekond,
+mille all naine sageli kannatab palju.
+Kartus — keha katmatult näidata spordi
+ja suplemise juures, mõjub naise enese-
+tundele halvasti. Rinnad teevad oma
+arengu jooksul läbi mitu muutust. Kor-
+seti kandmine aitab muidugi osaliselt</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2792" type="heading">
+	<Coords>
+	<Point x="1385" y="3583"/>
+	<Point x="1618" y="3581"/>
+	<Point x="1797" y="3580"/>
+	<Point x="1808" y="3579"/>
+	<Point x="1813" y="3644"/>
+	<Point x="1503" y="3648"/>
+	<Point x="1400" y="3645"/>
+	<Point x="1383" y="3633"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>* HARJUTUSED.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2824" type="paragraph">
+	<Coords>
+	<Point x="2180" y="3170"/>
+	<Point x="2335" y="3163"/>
+	<Point x="2591" y="3162"/>
+	<Point x="2762" y="3161"/>
+	<Point x="2917" y="3161"/>
+	<Point x="3036" y="3159"/>
+	<Point x="3036" y="3339"/>
+	<Point x="2385" y="3348"/>
+	<Point x="2366" y="3350"/>
+	<Point x="2284" y="3350"/>
+	<Point x="2180" y="3349"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>iväed horisontaalselt kõrvale tõs-
+tetud, painutatakse rinnale kokku
+ja viiakse uuesti endisesse asen-
+dusse.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2942" type="paragraph">
+	<Coords>
+	<Point x="2105" y="3354"/>
+	<Point x="2383" y="3353"/>
+	<Point x="2391" y="3353"/>
+	<Point x="2680" y="3352"/>
+	<Point x="2892" y="3350"/>
+	<Point x="3030" y="3347"/>
+	<Point x="3031" y="3536"/>
+	<Point x="3031" y="3634"/>
+	<Point x="2951" y="3638"/>
+	<Point x="2784" y="3640"/>
+	<Point x="2627" y="3641"/>
+	<Point x="2436" y="3642"/>
+	<Point x="2295" y="3643"/>
+	<Point x="2104" y="3641"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Massaashi pole soovitav omal teha,
+sest see nõuab asjatundlikku ja vilunud
+masseerijat. Vastasel korral võib posi-
+tiivsete tulemuste asemel saavutada ai-
+nult halba. Erilist hoolt tuleb oma rin-
+dade eest kanda raske jalgsuse ajal.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3187" type="heading">
+	<Coords>
+	<Point x="2259" y="3681"/>
+	<Point x="2479" y="3681"/>
+	<Point x="2654" y="3679"/>
+	<Point x="2878" y="3679"/>
+	<Point x="2879" y="3726"/>
+	<Point x="2625" y="3725"/>
+	<Point x="2418" y="3726"/>
+	<Point x="2276" y="3725"/>
+	<Point x="2261" y="3723"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VÄHEARENENUD RIND,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3208" type="paragraph">
+	<Coords>
+	<Point x="1234" y="3665"/>
+	<Point x="1313" y="3664"/>
+	<Point x="1473" y="3668"/>
+	<Point x="1573" y="3666"/>
+	<Point x="1724" y="3664"/>
+	<Point x="2079" y="3666"/>
+	<Point x="2082" y="3708"/>
+	<Point x="1993" y="3706"/>
+	<Point x="1884" y="3707"/>
+	<Point x="1734" y="3707"/>
+	<Point x="1726" y="3708"/>
+	<Point x="1720" y="3712"/>
+	<Point x="1709" y="3714"/>
+	<Point x="1698" y="3707"/>
+	<Point x="1629" y="3707"/>
+	<Point x="1482" y="3708"/>
+	<Point x="1233" y="3709"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>1. Käte kõrvalt üles ja alla tõstmine.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3642" type="heading">
+	<Coords>
+	<Point x="2243" y="4070"/>
+	<Point x="2378" y="4070"/>
+	<Point x="2503" y="4068"/>
+	<Point x="2687" y="4067"/>
+	<Point x="2891" y="4067"/>
+	<Point x="2892" y="4117"/>
+	<Point x="2687" y="4117"/>
+	<Point x="2507" y="4115"/>
+	<Point x="2501" y="4114"/>
+	<Point x="2398" y="4115"/>
+	<Point x="2243" y="4113"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>RINNA OPERATSIOONID.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3665" type="paragraph">
+	<Coords>
+	<Point x="2106" y="4138"/>
+	<Point x="2203" y="4137"/>
+	<Point x="2488" y="4136"/>
+	<Point x="2694" y="4137"/>
+	<Point x="2721" y="4136"/>
+	<Point x="2843" y="4137"/>
+	<Point x="2979" y="4137"/>
+	<Point x="3003" y="4136"/>
+	<Point x="3030" y="4140"/>
+	<Point x="3030" y="4231"/>
+	<Point x="3029" y="4332"/>
+	<Point x="2826" y="4333"/>
+	<Point x="2488" y="4333"/>
+	<Point x="2138" y="4331"/>
+	<Point x="2106" y="4327"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Põhjalikum abinõu rindadele oma
+õige asendi andmiseks on operatiivne
+ravimeetod. Tänapäeval on terve rida
+operatsiooniviise, ent olgu mainitud, et</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3820" type="paragraph">
+	<Coords>
+	<Point x="3471" y="3144"/>
+	<Point x="3952" y="3144"/>
+	<Point x="3977" y="3145"/>
+	<Point x="3977" y="4089"/>
+	<Point x="3717" y="4090"/>
+	<Point x="3467" y="4090"/>
+	<Point x="3468" y="4055"/>
+	<Point x="3468" y="3946"/>
+	<Point x="3469" y="3839"/>
+	<Point x="3469" y="3470"/>
+	<Point x="3470" y="3338"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>igaüks neist on raa-
+ke. Kui selleks pa-
+ratamatu vajadus on,
+tuleb pöörata arsti
+poole. Rahvas on le-
+vinud selletaolistest
+operatsioonidest vale
+arusaamine. Kujuta-
+takse seda omale vä-
+ga lihtsalt ette. Ei
+teata, et järele jääb
+suur arm ning sa-
+geli käib sellega
+kaasas mõneajaline
+töövõimetus. Kuid
+kõigest hoolimata —
+asjatundliku arsti
+poolt ettevõetud, an-
+nab see küllalt ra-
+huldavaid tulemusi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4263" type="paragraph">
+	<Coords>
+	<Point x="3470" y="4093"/>
+	<Point x="3790" y="4095"/>
+	<Point x="3977" y="4091"/>
+	<Point x="3980" y="4254"/>
+	<Point x="3981" y="4328"/>
+	<Point x="3862" y="4330"/>
+	<Point x="3710" y="4331"/>
+	<Point x="3592" y="4330"/>
+	<Point x="3472" y="4330"/>
+	<Point x="3467" y="4252"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Järgmises numb-
+ris puudutame lähe-
+malt naharavi, häire-
+te põhjusi ning tõhu-
+said ravimeetode.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4373" type="heading">
+	<Coords>
+	<Point x="2113" y="4396"/>
+	<Point x="2712" y="4396"/>
+	<Point x="2711" y="4450"/>
+	<Point x="2493" y="4450"/>
+	<Point x="2112" y="4449"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>G. Helbemäe.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4388" type="heading">
+	<Coords>
+	<Point x="2294" y="4499"/>
+	<Point x="2596" y="4498"/>
+	<Point x="2892" y="4498"/>
+	<Point x="3783" y="4506"/>
+	<Point x="3784" y="4587"/>
+	<Point x="2902" y="4587"/>
+	<Point x="2294" y="4583"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kuulsus ja armastus.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4411" type="caption">
+	<Coords>
+	<Point x="878" y="6229"/>
+	<Point x="1287" y="6229"/>
+	<Point x="1288" y="6286"/>
+	<Point x="1238" y="6285"/>
+	<Point x="1216" y="6285"/>
+	<Point x="1207" y="6284"/>
+	<Point x="1088" y="6285"/>
+	<Point x="1069" y="6284"/>
+	<Point x="879" y="6285"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>j om 11 OrawIonU</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4430" type="paragraph">
+	<Coords>
+	<Point x="2901" y="4620"/>
+	<Point x="2920" y="4620"/>
+	<Point x="2920" y="4621"/>
+	<Point x="2921" y="4621"/>
+	<Point x="2921" y="4629"/>
+	<Point x="2980" y="4629"/>
+	<Point x="2980" y="4630"/>
+	<Point x="2981" y="4630"/>
+	<Point x="2981" y="4631"/>
+	<Point x="2995" y="4631"/>
+	<Point x="2995" y="4632"/>
+	<Point x="2997" y="4632"/>
+	<Point x="2997" y="4634"/>
+	<Point x="3006" y="4634"/>
+	<Point x="3006" y="4635"/>
+	<Point x="3007" y="4635"/>
+	<Point x="3007" y="4638"/>
+	<Point x="3008" y="4638"/>
+	<Point x="3008" y="4645"/>
+	<Point x="3017" y="4645"/>
+	<Point x="3017" y="4646"/>
+	<Point x="3019" y="4646"/>
+	<Point x="3019" y="4648"/>
+	<Point x="3020" y="4648"/>
+	<Point x="3020" y="4650"/>
+	<Point x="3021" y="4650"/>
+	<Point x="3021" y="4742"/>
+	<Point x="3020" y="4742"/>
+	<Point x="3020" y="4743"/>
+	<Point x="3019" y="4743"/>
+	<Point x="3019" y="4744"/>
+	<Point x="3018" y="4744"/>
+	<Point x="3018" y="4745"/>
+	<Point x="3017" y="4745"/>
+	<Point x="3017" y="4746"/>
+	<Point x="3015" y="4746"/>
+	<Point x="3015" y="4747"/>
+	<Point x="2977" y="4747"/>
+	<Point x="2977" y="4750"/>
+	<Point x="2976" y="4750"/>
+	<Point x="2976" y="4753"/>
+	<Point x="2974" y="4753"/>
+	<Point x="2974" y="4754"/>
+	<Point x="2969" y="4754"/>
+	<Point x="2969" y="4755"/>
+	<Point x="2956" y="4755"/>
+	<Point x="2956" y="4754"/>
+	<Point x="2955" y="4754"/>
+	<Point x="2955" y="4753"/>
+	<Point x="2953" y="4753"/>
+	<Point x="2953" y="4751"/>
+	<Point x="2952" y="4751"/>
+	<Point x="2952" y="4749"/>
+	<Point x="2824" y="4749"/>
+	<Point x="2824" y="4750"/>
+	<Point x="2753" y="4750"/>
+	<Point x="2753" y="4752"/>
+	<Point x="2752" y="4752"/>
+	<Point x="2752" y="4754"/>
+	<Point x="2750" y="4754"/>
+	<Point x="2750" y="4755"/>
+	<Point x="2749" y="4755"/>
+	<Point x="2749" y="4756"/>
+	<Point x="2741" y="4756"/>
+	<Point x="2741" y="4757"/>
+	<Point x="2686" y="4757"/>
+	<Point x="2686" y="4794"/>
+	<Point x="2685" y="4794"/>
+	<Point x="2685" y="4796"/>
+	<Point x="2645" y="4796"/>
+	<Point x="2645" y="4799"/>
+	<Point x="2644" y="4799"/>
+	<Point x="2644" y="4801"/>
+	<Point x="2643" y="4801"/>
+	<Point x="2643" y="4802"/>
+	<Point x="2642" y="4802"/>
+	<Point x="2642" y="4803"/>
+	<Point x="2638" y="4803"/>
+	<Point x="2638" y="4804"/>
+	<Point x="2626" y="4804"/>
+	<Point x="2626" y="4803"/>
+	<Point x="2623" y="4803"/>
+	<Point x="2623" y="4802"/>
+	<Point x="2622" y="4802"/>
+	<Point x="2622" y="4801"/>
+	<Point x="2621" y="4801"/>
+	<Point x="2621" y="4797"/>
+	<Point x="2507" y="4797"/>
+	<Point x="2507" y="4802"/>
+	<Point x="2506" y="4802"/>
+	<Point x="2506" y="4803"/>
+	<Point x="2505" y="4803"/>
+	<Point x="2505" y="4804"/>
+	<Point x="2500" y="4804"/>
+	<Point x="2500" y="4805"/>
+	<Point x="2488" y="4805"/>
+	<Point x="2488" y="4804"/>
+	<Point x="2486" y="4804"/>
+	<Point x="2486" y="4803"/>
+	<Point x="2485" y="4803"/>
+	<Point x="2485" y="4802"/>
+	<Point x="2484" y="4802"/>
+	<Point x="2484" y="4798"/>
+	<Point x="2354" y="4798"/>
+	<Point x="2354" y="4799"/>
+	<Point x="2153" y="4799"/>
+	<Point x="2153" y="4800"/>
+	<Point x="2149" y="4800"/>
+	<Point x="2149" y="4799"/>
+	<Point x="2114" y="4799"/>
+	<Point x="2114" y="4798"/>
+	<Point x="2113" y="4798"/>
+	<Point x="2113" y="4779"/>
+	<Point x="2112" y="4779"/>
+	<Point x="2112" y="4749"/>
+	<Point x="2111" y="4749"/>
+	<Point x="2111" y="4747"/>
+	<Point x="2110" y="4747"/>
+	<Point x="2110" y="4736"/>
+	<Point x="2111" y="4736"/>
+	<Point x="2111" y="4689"/>
+	<Point x="2112" y="4689"/>
+	<Point x="2112" y="4686"/>
+	<Point x="2113" y="4686"/>
+	<Point x="2113" y="4685"/>
+	<Point x="2137" y="4685"/>
+	<Point x="2137" y="4684"/>
+	<Point x="2184" y="4684"/>
+	<Point x="2184" y="4626"/>
+	<Point x="2185" y="4626"/>
+	<Point x="2185" y="4625"/>
+	<Point x="2220" y="4625"/>
+	<Point x="2220" y="4626"/>
+	<Point x="2331" y="4626"/>
+	<Point x="2331" y="4625"/>
+	<Point x="2332" y="4625"/>
+	<Point x="2332" y="4624"/>
+	<Point x="2402" y="4624"/>
+	<Point x="2402" y="4625"/>
+	<Point x="2504" y="4625"/>
+	<Point x="2504" y="4624"/>
+	<Point x="2505" y="4624"/>
+	<Point x="2505" y="4623"/>
+	<Point x="2698" y="4623"/>
+	<Point x="2698" y="4622"/>
+	<Point x="2763" y="4622"/>
+	<Point x="2763" y="4623"/>
+	<Point x="2764" y="4623"/>
+	<Point x="2764" y="4631"/>
+	<Point x="2874" y="4631"/>
+	<Point x="2874" y="4623"/>
+	<Point x="2875" y="4623"/>
+	<Point x="2875" y="4622"/>
+	<Point x="2876" y="4622"/>
+	<Point x="2876" y="4621"/>
+	<Point x="2901" y="4621"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Minu kirjutuslaual seisab väikene,
+savist nukukene: ta kujutleb rokokoo-
+daami, kes on riietatud kogu tolleaegse
+raffineeritud elegantsiga.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4578" type="paragraph">
+	<Coords>
+	<Point x="3009" y="4804"/>
+	<Point x="3015" y="4804"/>
+	<Point x="3015" y="4805"/>
+	<Point x="3016" y="4805"/>
+	<Point x="3016" y="4806"/>
+	<Point x="3017" y="4806"/>
+	<Point x="3017" y="4834"/>
+	<Point x="3018" y="4834"/>
+	<Point x="3018" y="4835"/>
+	<Point x="3019" y="4835"/>
+	<Point x="3019" y="4876"/>
+	<Point x="3020" y="4876"/>
+	<Point x="3020" y="5014"/>
+	<Point x="3019" y="5014"/>
+	<Point x="3019" y="5015"/>
+	<Point x="3018" y="5015"/>
+	<Point x="3018" y="5016"/>
+	<Point x="3003" y="5016"/>
+	<Point x="3003" y="5023"/>
+	<Point x="3002" y="5023"/>
+	<Point x="3002" y="5024"/>
+	<Point x="3000" y="5024"/>
+	<Point x="3000" y="5025"/>
+	<Point x="2881" y="5025"/>
+	<Point x="2881" y="5026"/>
+	<Point x="2819" y="5026"/>
+	<Point x="2819" y="5027"/>
+	<Point x="2794" y="5027"/>
+	<Point x="2794" y="5031"/>
+	<Point x="2793" y="5031"/>
+	<Point x="2793" y="5032"/>
+	<Point x="2792" y="5032"/>
+	<Point x="2792" y="5033"/>
+	<Point x="2790" y="5033"/>
+	<Point x="2790" y="5034"/>
+	<Point x="2787" y="5034"/>
+	<Point x="2787" y="5035"/>
+	<Point x="2701" y="5035"/>
+	<Point x="2701" y="5071"/>
+	<Point x="2700" y="5071"/>
+	<Point x="2700" y="5072"/>
+	<Point x="2699" y="5072"/>
+	<Point x="2699" y="5073"/>
+	<Point x="2674" y="5073"/>
+	<Point x="2674" y="5074"/>
+	<Point x="2658" y="5074"/>
+	<Point x="2658" y="5078"/>
+	<Point x="2657" y="5078"/>
+	<Point x="2657" y="5079"/>
+	<Point x="2656" y="5079"/>
+	<Point x="2656" y="5080"/>
+	<Point x="2653" y="5080"/>
+	<Point x="2653" y="5081"/>
+	<Point x="2647" y="5081"/>
+	<Point x="2647" y="5082"/>
+	<Point x="2645" y="5082"/>
+	<Point x="2645" y="5081"/>
+	<Point x="2638" y="5081"/>
+	<Point x="2638" y="5080"/>
+	<Point x="2636" y="5080"/>
+	<Point x="2636" y="5079"/>
+	<Point x="2635" y="5079"/>
+	<Point x="2635" y="5078"/>
+	<Point x="2634" y="5078"/>
+	<Point x="2634" y="5077"/>
+	<Point x="2633" y="5077"/>
+	<Point x="2633" y="5075"/>
+	<Point x="2446" y="5075"/>
+	<Point x="2446" y="5076"/>
+	<Point x="2350" y="5076"/>
+	<Point x="2350" y="5077"/>
+	<Point x="2237" y="5077"/>
+	<Point x="2237" y="5078"/>
+	<Point x="2169" y="5078"/>
+	<Point x="2169" y="5079"/>
+	<Point x="2141" y="5079"/>
+	<Point x="2141" y="5078"/>
+	<Point x="2113" y="5078"/>
+	<Point x="2113" y="5077"/>
+	<Point x="2112" y="5077"/>
+	<Point x="2112" y="5023"/>
+	<Point x="2111" y="5023"/>
+	<Point x="2111" y="4962"/>
+	<Point x="2112" y="4962"/>
+	<Point x="2112" y="4871"/>
+	<Point x="2113" y="4871"/>
+	<Point x="2113" y="4862"/>
+	<Point x="2114" y="4862"/>
+	<Point x="2114" y="4860"/>
+	<Point x="2116" y="4860"/>
+	<Point x="2116" y="4859"/>
+	<Point x="2131" y="4859"/>
+	<Point x="2131" y="4858"/>
+	<Point x="2185" y="4858"/>
+	<Point x="2185" y="4813"/>
+	<Point x="2196" y="4813"/>
+	<Point x="2196" y="4812"/>
+	<Point x="2316" y="4812"/>
+	<Point x="2316" y="4811"/>
+	<Point x="2317" y="4811"/>
+	<Point x="2317" y="4810"/>
+	<Point x="2321" y="4810"/>
+	<Point x="2321" y="4811"/>
+	<Point x="2323" y="4811"/>
+	<Point x="2323" y="4816"/>
+	<Point x="2324" y="4816"/>
+	<Point x="2324" y="4822"/>
+	<Point x="2444" y="4822"/>
+	<Point x="2444" y="4821"/>
+	<Point x="2461" y="4821"/>
+	<Point x="2461" y="4820"/>
+	<Point x="2462" y="4820"/>
+	<Point x="2462" y="4818"/>
+	<Point x="2463" y="4818"/>
+	<Point x="2463" y="4815"/>
+	<Point x="2464" y="4815"/>
+	<Point x="2464" y="4814"/>
+	<Point x="2507" y="4814"/>
+	<Point x="2507" y="4813"/>
+	<Point x="2508" y="4813"/>
+	<Point x="2508" y="4812"/>
+	<Point x="2510" y="4812"/>
+	<Point x="2510" y="4814"/>
+	<Point x="2511" y="4814"/>
+	<Point x="2511" y="4819"/>
+	<Point x="2512" y="4819"/>
+	<Point x="2512" y="4820"/>
+	<Point x="2647" y="4820"/>
+	<Point x="2647" y="4819"/>
+	<Point x="2648" y="4819"/>
+	<Point x="2648" y="4817"/>
+	<Point x="2649" y="4817"/>
+	<Point x="2649" y="4815"/>
+	<Point x="2650" y="4815"/>
+	<Point x="2650" y="4812"/>
+	<Point x="2651" y="4812"/>
+	<Point x="2651" y="4811"/>
+	<Point x="2743" y="4811"/>
+	<Point x="2743" y="4808"/>
+	<Point x="2745" y="4808"/>
+	<Point x="2745" y="4807"/>
+	<Point x="2945" y="4807"/>
+	<Point x="2945" y="4806"/>
+	<Point x="3008" y="4806"/>
+	<Point x="3008" y="4805"/>
+	<Point x="3009" y="4805"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Paljude aastate eest sellised nukud
+ilmusid müügile meie linnas. Närudes
+poisikesed niüütasid neid turul, tänavail
+ning teatrite uste taga. Ja inimesed
+ostsid neid nukke, sest nendega ühendu-
+ses kõneldi imelikku lugu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4809" type="paragraph">
+	<Coords>
+	<Point x="2894" y="5083"/>
+	<Point x="2897" y="5083"/>
+	<Point x="2897" y="5084"/>
+	<Point x="2943" y="5084"/>
+	<Point x="2943" y="5085"/>
+	<Point x="2944" y="5085"/>
+	<Point x="2944" y="5094"/>
+	<Point x="2997" y="5094"/>
+	<Point x="2997" y="5095"/>
+	<Point x="2999" y="5095"/>
+	<Point x="2999" y="5096"/>
+	<Point x="3000" y="5096"/>
+	<Point x="3000" y="5097"/>
+	<Point x="3001" y="5097"/>
+	<Point x="3001" y="5098"/>
+	<Point x="3002" y="5098"/>
+	<Point x="3002" y="5101"/>
+	<Point x="3020" y="5101"/>
+	<Point x="3020" y="5102"/>
+	<Point x="3021" y="5102"/>
+	<Point x="3021" y="5155"/>
+	<Point x="3020" y="5155"/>
+	<Point x="3020" y="5200"/>
+	<Point x="3019" y="5200"/>
+	<Point x="3019" y="5248"/>
+	<Point x="3018" y="5248"/>
+	<Point x="3018" y="5476"/>
+	<Point x="3019" y="5476"/>
+	<Point x="3019" y="5526"/>
+	<Point x="3020" y="5526"/>
+	<Point x="3020" y="5568"/>
+	<Point x="3021" y="5568"/>
+	<Point x="3021" y="5673"/>
+	<Point x="3020" y="5673"/>
+	<Point x="3020" y="5674"/>
+	<Point x="3019" y="5674"/>
+	<Point x="3019" y="5676"/>
+	<Point x="3017" y="5676"/>
+	<Point x="3017" y="5677"/>
+	<Point x="2870" y="5677"/>
+	<Point x="2870" y="5682"/>
+	<Point x="2869" y="5682"/>
+	<Point x="2869" y="5683"/>
+	<Point x="2866" y="5683"/>
+	<Point x="2866" y="5684"/>
+	<Point x="2863" y="5684"/>
+	<Point x="2863" y="5685"/>
+	<Point x="2850" y="5685"/>
+	<Point x="2850" y="5684"/>
+	<Point x="2848" y="5684"/>
+	<Point x="2848" y="5683"/>
+	<Point x="2847" y="5683"/>
+	<Point x="2847" y="5681"/>
+	<Point x="2846" y="5681"/>
+	<Point x="2846" y="5676"/>
+	<Point x="2682" y="5676"/>
+	<Point x="2682" y="5677"/>
+	<Point x="2534" y="5677"/>
+	<Point x="2534" y="5678"/>
+	<Point x="2489" y="5678"/>
+	<Point x="2489" y="5679"/>
+	<Point x="2487" y="5679"/>
+	<Point x="2487" y="5680"/>
+	<Point x="2423" y="5680"/>
+	<Point x="2423" y="5724"/>
+	<Point x="2422" y="5724"/>
+	<Point x="2422" y="5725"/>
+	<Point x="2421" y="5725"/>
+	<Point x="2421" y="5726"/>
+	<Point x="2274" y="5726"/>
+	<Point x="2274" y="5727"/>
+	<Point x="2272" y="5727"/>
+	<Point x="2272" y="5728"/>
+	<Point x="2257" y="5728"/>
+	<Point x="2257" y="5727"/>
+	<Point x="2255" y="5727"/>
+	<Point x="2255" y="5726"/>
+	<Point x="2155" y="5726"/>
+	<Point x="2155" y="5725"/>
+	<Point x="2116" y="5725"/>
+	<Point x="2116" y="5724"/>
+	<Point x="2115" y="5724"/>
+	<Point x="2115" y="5723"/>
+	<Point x="2113" y="5723"/>
+	<Point x="2113" y="5722"/>
+	<Point x="2112" y="5722"/>
+	<Point x="2112" y="5720"/>
+	<Point x="2111" y="5720"/>
+	<Point x="2111" y="5705"/>
+	<Point x="2108" y="5705"/>
+	<Point x="2108" y="5702"/>
+	<Point x="2109" y="5702"/>
+	<Point x="2109" y="5584"/>
+	<Point x="2108" y="5584"/>
+	<Point x="2108" y="5538"/>
+	<Point x="2109" y="5538"/>
+	<Point x="2109" y="5345"/>
+	<Point x="2108" y="5345"/>
+	<Point x="2108" y="5342"/>
+	<Point x="2109" y="5342"/>
+	<Point x="2109" y="5214"/>
+	<Point x="2110" y="5214"/>
+	<Point x="2110" y="5213"/>
+	<Point x="2111" y="5213"/>
+	<Point x="2111" y="5173"/>
+	<Point x="2112" y="5173"/>
+	<Point x="2112" y="5171"/>
+	<Point x="2113" y="5171"/>
+	<Point x="2113" y="5166"/>
+	<Point x="2114" y="5166"/>
+	<Point x="2114" y="5152"/>
+	<Point x="2115" y="5152"/>
+	<Point x="2115" y="5151"/>
+	<Point x="2116" y="5151"/>
+	<Point x="2116" y="5150"/>
+	<Point x="2119" y="5150"/>
+	<Point x="2119" y="5149"/>
+	<Point x="2123" y="5149"/>
+	<Point x="2123" y="5148"/>
+	<Point x="2143" y="5148"/>
+	<Point x="2143" y="5140"/>
+	<Point x="2144" y="5140"/>
+	<Point x="2144" y="5138"/>
+	<Point x="2185" y="5138"/>
+	<Point x="2185" y="5091"/>
+	<Point x="2186" y="5091"/>
+	<Point x="2186" y="5090"/>
+	<Point x="2212" y="5090"/>
+	<Point x="2212" y="5089"/>
+	<Point x="2342" y="5089"/>
+	<Point x="2342" y="5090"/>
+	<Point x="2344" y="5090"/>
+	<Point x="2344" y="5091"/>
+	<Point x="2493" y="5091"/>
+	<Point x="2493" y="5089"/>
+	<Point x="2494" y="5089"/>
+	<Point x="2494" y="5088"/>
+	<Point x="2516" y="5088"/>
+	<Point x="2516" y="5087"/>
+	<Point x="2520" y="5087"/>
+	<Point x="2520" y="5086"/>
+	<Point x="2523" y="5086"/>
+	<Point x="2523" y="5087"/>
+	<Point x="2640" y="5087"/>
+	<Point x="2640" y="5088"/>
+	<Point x="2641" y="5088"/>
+	<Point x="2641" y="5090"/>
+	<Point x="2642" y="5090"/>
+	<Point x="2642" y="5096"/>
+	<Point x="2757" y="5096"/>
+	<Point x="2757" y="5086"/>
+	<Point x="2758" y="5086"/>
+	<Point x="2758" y="5085"/>
+	<Point x="2761" y="5085"/>
+	<Point x="2761" y="5084"/>
+	<Point x="2765" y="5084"/>
+	<Point x="2765" y="5085"/>
+	<Point x="2892" y="5085"/>
+	<Point x="2892" y="5084"/>
+	<Point x="2894" y="5084"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kõneldi, et neid nukke valmistab kee-
+gi kuulus kunstnik. See olnud armu-
+nud kellegisse näitlejannasse, kes ala-
+tasa vibinud võõrusetendustel. Kunst-
+nik saatnud teda linnast linna. Kuid
+— nagu seda juhtub sageli elus — näit-
+lejannale kunstnik suurt ei meeldinud.
+Talle tegi vaid nalja viimase suur kiin-
+dumine temasse. Peagi tüdines aga näit-
+lejanna mängust kunstnikuga. Pärast
+armukadedusstseeni, mille kunstnik talle
+põhjendatult teinud, ütJes näitlejanna
+talle näkku oma arvamuse ning sõitis
+üksinda edasi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5353" type="paragraph">
+	<Coords>
+	<Point x="2752" y="5733"/>
+	<Point x="2753" y="5733"/>
+	<Point x="2753" y="5734"/>
+	<Point x="2792" y="5734"/>
+	<Point x="2792" y="5735"/>
+	<Point x="2793" y="5735"/>
+	<Point x="2793" y="5737"/>
+	<Point x="2794" y="5737"/>
+	<Point x="2794" y="5738"/>
+	<Point x="2849" y="5738"/>
+	<Point x="2849" y="5740"/>
+	<Point x="2980" y="5740"/>
+	<Point x="2980" y="5737"/>
+	<Point x="2981" y="5737"/>
+	<Point x="2981" y="5736"/>
+	<Point x="2982" y="5736"/>
+	<Point x="2982" y="5735"/>
+	<Point x="3000" y="5735"/>
+	<Point x="3000" y="5736"/>
+	<Point x="3001" y="5736"/>
+	<Point x="3001" y="5737"/>
+	<Point x="3002" y="5737"/>
+	<Point x="3002" y="5753"/>
+	<Point x="3020" y="5753"/>
+	<Point x="3020" y="5754"/>
+	<Point x="3022" y="5754"/>
+	<Point x="3022" y="5760"/>
+	<Point x="3021" y="5760"/>
+	<Point x="3021" y="5894"/>
+	<Point x="3022" y="5894"/>
+	<Point x="3022" y="6218"/>
+	<Point x="3023" y="6218"/>
+	<Point x="3023" y="6219"/>
+	<Point x="3024" y="6219"/>
+	<Point x="3024" y="6223"/>
+	<Point x="3023" y="6223"/>
+	<Point x="3023" y="6225"/>
+	<Point x="3022" y="6225"/>
+	<Point x="3022" y="6226"/>
+	<Point x="3007" y="6226"/>
+	<Point x="3007" y="6231"/>
+	<Point x="3006" y="6231"/>
+	<Point x="3006" y="6232"/>
+	<Point x="3005" y="6232"/>
+	<Point x="3005" y="6233"/>
+	<Point x="2992" y="6233"/>
+	<Point x="2992" y="6234"/>
+	<Point x="2854" y="6234"/>
+	<Point x="2854" y="6235"/>
+	<Point x="2743" y="6235"/>
+	<Point x="2743" y="6236"/>
+	<Point x="2668" y="6236"/>
+	<Point x="2668" y="6237"/>
+	<Point x="2667" y="6237"/>
+	<Point x="2667" y="6239"/>
+	<Point x="2666" y="6239"/>
+	<Point x="2666" y="6240"/>
+	<Point x="2665" y="6240"/>
+	<Point x="2665" y="6241"/>
+	<Point x="2664" y="6241"/>
+	<Point x="2664" y="6242"/>
+	<Point x="2661" y="6242"/>
+	<Point x="2661" y="6241"/>
+	<Point x="2658" y="6241"/>
+	<Point x="2658" y="6240"/>
+	<Point x="2657" y="6240"/>
+	<Point x="2657" y="6239"/>
+	<Point x="2656" y="6239"/>
+	<Point x="2656" y="6234"/>
+	<Point x="2552" y="6234"/>
+	<Point x="2552" y="6233"/>
+	<Point x="2396" y="6233"/>
+	<Point x="2396" y="6234"/>
+	<Point x="2395" y="6234"/>
+	<Point x="2395" y="6236"/>
+	<Point x="2394" y="6236"/>
+	<Point x="2394" y="6238"/>
+	<Point x="2393" y="6238"/>
+	<Point x="2393" y="6239"/>
+	<Point x="2391" y="6239"/>
+	<Point x="2391" y="6240"/>
+	<Point x="2386" y="6240"/>
+	<Point x="2386" y="6241"/>
+	<Point x="2378" y="6241"/>
+	<Point x="2378" y="6240"/>
+	<Point x="2375" y="6240"/>
+	<Point x="2375" y="6239"/>
+	<Point x="2373" y="6239"/>
+	<Point x="2373" y="6238"/>
+	<Point x="2372" y="6238"/>
+	<Point x="2372" y="6236"/>
+	<Point x="2371" y="6236"/>
+	<Point x="2371" y="6233"/>
+	<Point x="2249" y="6233"/>
+	<Point x="2249" y="6278"/>
+	<Point x="2248" y="6278"/>
+	<Point x="2248" y="6280"/>
+	<Point x="2247" y="6280"/>
+	<Point x="2247" y="6281"/>
+	<Point x="2244" y="6281"/>
+	<Point x="2244" y="6280"/>
+	<Point x="2186" y="6280"/>
+	<Point x="2186" y="6279"/>
+	<Point x="2143" y="6279"/>
+	<Point x="2143" y="6278"/>
+	<Point x="2114" y="6278"/>
+	<Point x="2114" y="6277"/>
+	<Point x="2111" y="6277"/>
+	<Point x="2111" y="6249"/>
+	<Point x="2110" y="6249"/>
+	<Point x="2110" y="6248"/>
+	<Point x="2109" y="6248"/>
+	<Point x="2109" y="6246"/>
+	<Point x="2110" y="6246"/>
+	<Point x="2110" y="6123"/>
+	<Point x="2109" y="6123"/>
+	<Point x="2109" y="6122"/>
+	<Point x="2108" y="6122"/>
+	<Point x="2108" y="6118"/>
+	<Point x="2109" y="6118"/>
+	<Point x="2109" y="6034"/>
+	<Point x="2110" y="6034"/>
+	<Point x="2110" y="5925"/>
+	<Point x="2109" y="5925"/>
+	<Point x="2109" y="5924"/>
+	<Point x="2108" y="5924"/>
+	<Point x="2108" y="5922"/>
+	<Point x="2110" y="5922"/>
+	<Point x="2110" y="5815"/>
+	<Point x="2109" y="5815"/>
+	<Point x="2109" y="5796"/>
+	<Point x="2108" y="5796"/>
+	<Point x="2108" y="5795"/>
+	<Point x="2109" y="5795"/>
+	<Point x="2109" y="5794"/>
+	<Point x="2113" y="5794"/>
+	<Point x="2113" y="5793"/>
+	<Point x="2183" y="5793"/>
+	<Point x="2183" y="5738"/>
+	<Point x="2204" y="5738"/>
+	<Point x="2204" y="5739"/>
+	<Point x="2208" y="5739"/>
+	<Point x="2208" y="5740"/>
+	<Point x="2264" y="5740"/>
+	<Point x="2264" y="5741"/>
+	<Point x="2265" y="5741"/>
+	<Point x="2265" y="5747"/>
+	<Point x="2369" y="5747"/>
+	<Point x="2369" y="5737"/>
+	<Point x="2412" y="5737"/>
+	<Point x="2412" y="5738"/>
+	<Point x="2414" y="5738"/>
+	<Point x="2414" y="5739"/>
+	<Point x="2556" y="5739"/>
+	<Point x="2556" y="5738"/>
+	<Point x="2557" y="5738"/>
+	<Point x="2557" y="5736"/>
+	<Point x="2559" y="5736"/>
+	<Point x="2559" y="5735"/>
+	<Point x="2575" y="5735"/>
+	<Point x="2575" y="5736"/>
+	<Point x="2576" y="5736"/>
+	<Point x="2576" y="5738"/>
+	<Point x="2689" y="5738"/>
+	<Point x="2689" y="5736"/>
+	<Point x="2690" y="5736"/>
+	<Point x="2690" y="5735"/>
+	<Point x="2692" y="5735"/>
+	<Point x="2692" y="5734"/>
+	<Point x="2752" y="5734"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Pettunud kunstnik otsis lohutust vii-
+nast. Aga kui tal enam midagi polnud
+maha juua, tidi talle idee: Valmistada
+savist nukukesi. Ja mudeliks — mude-
+liks ta kasutas näitlejannat selles osas,
+millist see oli mänginud nende lahkumis-
+õhtul: pikantset inadame Pompaduuri
+rokoko-tualetis. Nagu Dante Beatrice
+teinud surematuks sonettide kaudu, nii
+tahtis nüüd ka kunstnik oma armastada
+säilitada igaveseks ajaks savinuku-
+kestes.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5805" type="paragraph">
+	<Coords>
+	<Point x="3046" y="4617"/>
+	<Point x="3320" y="4617"/>
+	<Point x="3977" y="4618"/>
+	<Point x="3978" y="4765"/>
+	<Point x="3977" y="4786"/>
+	<Point x="3978" y="5033"/>
+	<Point x="3977" y="5041"/>
+	<Point x="3977" y="5069"/>
+	<Point x="3978" y="5194"/>
+	<Point x="3977" y="5319"/>
+	<Point x="3905" y="5320"/>
+	<Point x="3674" y="5320"/>
+	<Point x="3522" y="5319"/>
+	<Point x="3332" y="5318"/>
+	<Point x="3159" y="5319"/>
+	<Point x="3042" y="5315"/>
+	<Point x="3043" y="5234"/>
+	<Point x="3043" y="5182"/>
+	<Point x="3044" y="5106"/>
+	<Point x="3045" y="5028"/>
+	<Point x="3046" y="4851"/>
+	<Point x="3044" y="4808"/>
+	<Point x="3048" y="4773"/>
+	<Point x="3045" y="4705"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Nii juhtus, et peagi ej olnud ühtki
+maja, kus poleks leidunud väikeseid sa-
+vinukke, ega teatud jutustada nende
+imeväärset sünnilugu, õhtuti, kui mus-
+ta riietatud härrad ilusate naiste saatel
+väljusid teatritest ja nägid külmast lõ-
+disevaid poisse savinukukestega, nad
+ostsid meeleldi ühe neist oma daamile,
+ega unustanud seejuures küsimast: Tun-
+nete nende nukkude sünnilugu; Ja daam
+— olgugi, et ta seda juba mitmel korral
+oli kuulnud — raputas eitavalt pead, et
+selle aja sees kui härra talle lugu jmtus-
+tas, unistada sellest, kui kaunis see võib
+olla nii armastatud saada . . .</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6421" type="paragraph">
+	<Coords>
+	<Point x="3041" y="5339"/>
+	<Point x="3978" y="5338"/>
+	<Point x="3979" y="5463"/>
+	<Point x="3979" y="5592"/>
+	<Point x="3977" y="5722"/>
+	<Point x="3975" y="5850"/>
+	<Point x="3659" y="5854"/>
+	<Point x="3500" y="5854"/>
+	<Point x="3346" y="5853"/>
+	<Point x="3040" y="5851"/>
+	<Point x="3041" y="5816"/>
+	<Point x="3041" y="5735"/>
+	<Point x="3040" y="5659"/>
+	<Point x="3041" y="5550"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Aga siis ilmus kohalikus lehes kir-
+jutil, mis paljastas tõelise nukkude val-
+mistaja. See oli keegi vana meremees,
+kes luuvalu pärast enam polnud kõlvu-
+line laevale. Omanud nooruses model-
+leerimisannet, ta hakkas nalja pärast
+valmistama savist nukke. Pompadouri
+pildi ta oli leidnud kunagi välismaiselt
+sigarikarbilt. Ta naeris südamlikult,
+kui kuulis, milline imelugu tema nukku-
+de kohta on liikvel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6848" type="paragraph">
+	<Coords>
+	<Point x="3045" y="5872"/>
+	<Point x="3047" y="5869"/>
+	<Point x="3181" y="5869"/>
+	<Point x="3408" y="5870"/>
+	<Point x="3777" y="5872"/>
+	<Point x="3855" y="5873"/>
+	<Point x="3942" y="5872"/>
+	<Point x="3977" y="5872"/>
+	<Point x="3977" y="5945"/>
+	<Point x="3976" y="6045"/>
+	<Point x="3976" y="6146"/>
+	<Point x="3882" y="6147"/>
+	<Point x="3671" y="6146"/>
+	<Point x="3661" y="6148"/>
+	<Point x="3636" y="6147"/>
+	<Point x="3630" y="6154"/>
+	<Point x="3044" y="6151"/>
+	<Point x="3042" y="6080"/>
+	<Point x="3042" y="5969"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Ta poleks kindlasti naernud, kui ta
+oleks teadnud, et tema jutt on savinukv-
+keste luigelauluks. Imelik — keegi oi
+ostnud neid enam. Vaikides möödusid
+teatrist väljuvad härrad daamide saatel
+savinukke müüdavatest poisikestest.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7087" type="paragraph">
+	<Coords>
+	<Point x="3049" y="6153"/>
+	<Point x="3643" y="6158"/>
+	<Point x="3679" y="6151"/>
+	<Point x="3834" y="6152"/>
+	<Point x="3981" y="6152"/>
+	<Point x="3980" y="6297"/>
+	<Point x="3048" y="6295"/>
+	<Point x="3048" y="6230"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Koos armastusega, mis nukke oli
+ümbritsenud iinevõluga. oli kustunud ka
+nende kuulsus!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7184" type="page-number">
+	<Coords>
+	<Point x="3959" y="6339"/>
+	<Point x="3961" y="6339"/>
+	<Point x="3961" y="6340"/>
+	<Point x="3962" y="6340"/>
+	<Point x="3962" y="6341"/>
+	<Point x="3965" y="6341"/>
+	<Point x="3965" y="6342"/>
+	<Point x="3967" y="6342"/>
+	<Point x="3967" y="6343"/>
+	<Point x="3968" y="6343"/>
+	<Point x="3968" y="6344"/>
+	<Point x="3969" y="6344"/>
+	<Point x="3969" y="6346"/>
+	<Point x="3970" y="6346"/>
+	<Point x="3970" y="6347"/>
+	<Point x="3971" y="6347"/>
+	<Point x="3971" y="6350"/>
+	<Point x="3972" y="6350"/>
+	<Point x="3972" y="6368"/>
+	<Point x="3973" y="6368"/>
+	<Point x="3973" y="6374"/>
+	<Point x="3972" y="6374"/>
+	<Point x="3972" y="6376"/>
+	<Point x="3971" y="6376"/>
+	<Point x="3971" y="6378"/>
+	<Point x="3970" y="6378"/>
+	<Point x="3970" y="6380"/>
+	<Point x="3969" y="6380"/>
+	<Point x="3969" y="6381"/>
+	<Point x="3968" y="6381"/>
+	<Point x="3968" y="6386"/>
+	<Point x="3967" y="6386"/>
+	<Point x="3967" y="6388"/>
+	<Point x="3965" y="6388"/>
+	<Point x="3965" y="6389"/>
+	<Point x="3964" y="6389"/>
+	<Point x="3964" y="6390"/>
+	<Point x="3955" y="6390"/>
+	<Point x="3955" y="6389"/>
+	<Point x="3954" y="6389"/>
+	<Point x="3954" y="6387"/>
+	<Point x="3953" y="6387"/>
+	<Point x="3953" y="6384"/>
+	<Point x="3950" y="6384"/>
+	<Point x="3950" y="6383"/>
+	<Point x="3949" y="6383"/>
+	<Point x="3949" y="6380"/>
+	<Point x="3947" y="6380"/>
+	<Point x="3947" y="6379"/>
+	<Point x="3946" y="6379"/>
+	<Point x="3946" y="6377"/>
+	<Point x="3945" y="6377"/>
+	<Point x="3945" y="6375"/>
+	<Point x="3944" y="6375"/>
+	<Point x="3944" y="6346"/>
+	<Point x="3945" y="6346"/>
+	<Point x="3945" y="6344"/>
+	<Point x="3946" y="6344"/>
+	<Point x="3946" y="6343"/>
+	<Point x="3948" y="6343"/>
+	<Point x="3948" y="6342"/>
+	<Point x="3951" y="6342"/>
+	<Point x="3951" y="6341"/>
+	<Point x="3954" y="6341"/>
+	<Point x="3954" y="6340"/>
+	<Point x="3959" y="6340"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>$</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7190">
+	<Coords>
+	<Point x="3579" y="688"/>
+	<Point x="3953" y="688"/>
+	<Point x="3953" y="707"/>
+	<Point x="3744" y="707"/>
+	<Point x="3744" y="706"/>
+	<Point x="3548" y="706"/>
+	<Point x="3548" y="709"/>
+	<Point x="2961" y="709"/>
+	<Point x="2961" y="710"/>
+	<Point x="2682" y="710"/>
+	<Point x="2682" y="714"/>
+	<Point x="2447" y="714"/>
+	<Point x="2447" y="717"/>
+	<Point x="2309" y="717"/>
+	<Point x="2309" y="719"/>
+	<Point x="2111" y="719"/>
+	<Point x="2111" y="721"/>
+	<Point x="993" y="721"/>
+	<Point x="993" y="720"/>
+	<Point x="985" y="720"/>
+	<Point x="985" y="704"/>
+	<Point x="993" y="704"/>
+	<Point x="993" y="701"/>
+	<Point x="2111" y="701"/>
+	<Point x="2111" y="700"/>
+	<Point x="2309" y="700"/>
+	<Point x="2309" y="698"/>
+	<Point x="2447" y="698"/>
+	<Point x="2447" y="694"/>
+	<Point x="2687" y="694"/>
+	<Point x="2687" y="692"/>
+	<Point x="2961" y="692"/>
+	<Point x="2961" y="690"/>
+	<Point x="3548" y="690"/>
+	<Point x="3548" y="689"/>
+	<Point x="3579" y="689"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r7191">
+	<Coords>
+	<Point x="434" y="699"/>
+	<Point x="434" y="702"/>
+	<Point x="982" y="702"/>
+	<Point x="982" y="720"/>
+	<Point x="434" y="720"/>
+	<Point x="434" y="718"/>
+	<Point x="211" y="718"/>
+	<Point x="211" y="699"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r7196">
+	<Coords>
+	<Point x="2710" y="4455"/>
+	<Point x="2710" y="4466"/>
+	<Point x="2636" y="4466"/>
+	<Point x="2636" y="4469"/>
+	<Point x="2115" y="4469"/>
+	<Point x="2115" y="4456"/>
+	<Point x="2636" y="4456"/>
+	<Point x="2636" y="4455"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r7202">
+	<Coords>
+	<Point x="1512" y="1151"/>
+	<Point x="1551" y="1151"/>
+	<Point x="1551" y="1860"/>
+	<Point x="1547" y="2738"/>
+	<Point x="1517" y="2740"/>
+	<Point x="1512" y="1860"/></Coords></SeparatorRegion>
+	<TextRegion id="r2382" type="paragraph">
+	<Coords>
+	<Point x="1168" y="2931"/>
+	<Point x="1449" y="2934"/>
+	<Point x="1526" y="2933"/>
+	<Point x="1880" y="2934"/>
+	<Point x="1877" y="3161"/>
+	<Point x="1886" y="3261"/>
+	<Point x="2098" y="3265"/>
+	<Point x="2095" y="3561"/>
+	<Point x="1165" y="3567"/>
+	<Point x="1153" y="3568"/>
+	<Point x="1149" y="2931"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>küsimust lahendada, kuid mit-
+te täielikult, sest see on kunst-
+lik abinõu, kuigi ta on häda-
+vajalik õige rinnavormi säili-
+tamiseks. Rindade õiget vor-
+mimuutust põhjustab sageli
+ka liig äkiline ras-
+vumine ehk jälle liig
+kõhnumine. Vormimuutuse vastu
+mõjub hästi massaash ja võimlemine,
+mille läbi rinna musklid muutuvad tu-
+gevamaks, ning suudavad uuesti rindu
+hoida omas õiges asendis.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r59" type="footer">
+	<Coords>
+	<Point x="1873" y="6320"/>
+	<Point x="1873" y="6392"/>
+	<Point x="1963" y="6395"/>
+	<Point x="2034" y="6394"/>
+	<Point x="2118" y="6396"/>
+	<Point x="2260" y="6392"/>
+	<Point x="2259" y="6317"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>FILM JA ELU</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r37" type="heading">
+	<Coords>
+	<Point x="2160" y="807"/>
+	<Point x="2160" y="818"/>
+	<Point x="2161" y="818"/>
+	<Point x="2161" y="829"/>
+	<Point x="2162" y="829"/>
+	<Point x="2162" y="840"/>
+	<Point x="2163" y="840"/>
+	<Point x="2163" y="851"/>
+	<Point x="2164" y="851"/>
+	<Point x="2164" y="862"/>
+	<Point x="2165" y="862"/>
+	<Point x="2165" y="873"/>
+	<Point x="2166" y="873"/>
+	<Point x="2166" y="884"/>
+	<Point x="2167" y="884"/>
+	<Point x="2167" y="895"/>
+	<Point x="2168" y="895"/>
+	<Point x="2168" y="906"/>
+	<Point x="2169" y="906"/>
+	<Point x="2169" y="917"/>
+	<Point x="2170" y="917"/>
+	<Point x="2170" y="926"/>
+	<Point x="2171" y="926"/>
+	<Point x="2171" y="927"/>
+	<Point x="2170" y="927"/>
+	<Point x="2170" y="926"/>
+	<Point x="2102" y="926"/>
+	<Point x="2102" y="925"/>
+	<Point x="2033" y="925"/>
+	<Point x="2033" y="924"/>
+	<Point x="1964" y="924"/>
+	<Point x="1964" y="923"/>
+	<Point x="1895" y="923"/>
+	<Point x="1895" y="922"/>
+	<Point x="1756" y="922"/>
+	<Point x="1756" y="927"/>
+	<Point x="1755" y="927"/>
+	<Point x="1755" y="933"/>
+	<Point x="1754" y="933"/>
+	<Point x="1754" y="939"/>
+	<Point x="1753" y="939"/>
+	<Point x="1753" y="945"/>
+	<Point x="1752" y="945"/>
+	<Point x="1752" y="951"/>
+	<Point x="1751" y="951"/>
+	<Point x="1751" y="957"/>
+	<Point x="1750" y="957"/>
+	<Point x="1750" y="963"/>
+	<Point x="1749" y="963"/>
+	<Point x="1749" y="969"/>
+	<Point x="1748" y="969"/>
+	<Point x="1748" y="974"/>
+	<Point x="1747" y="974"/>
+	<Point x="1747" y="980"/>
+	<Point x="1746" y="980"/>
+	<Point x="1746" y="986"/>
+	<Point x="1745" y="986"/>
+	<Point x="1745" y="992"/>
+	<Point x="1744" y="992"/>
+	<Point x="1744" y="998"/>
+	<Point x="1743" y="998"/>
+	<Point x="1743" y="1004"/>
+	<Point x="1742" y="1004"/>
+	<Point x="1742" y="1010"/>
+	<Point x="1741" y="1010"/>
+	<Point x="1741" y="1016"/>
+	<Point x="1740" y="1016"/>
+	<Point x="1740" y="1022"/>
+	<Point x="1739" y="1022"/>
+	<Point x="1739" y="1027"/>
+	<Point x="1739" y="1026"/>
+	<Point x="1488" y="1026"/>
+	<Point x="1488" y="1047"/>
+	<Point x="1487" y="1047"/>
+	<Point x="1510" y="1124"/>
+	<Point x="1487" y="1138"/>
+	<Point x="1461" y="1138"/>
+	<Point x="1461" y="1139"/>
+	<Point x="1436" y="1139"/>
+	<Point x="1436" y="1140"/>
+	<Point x="1411" y="1140"/>
+	<Point x="1411" y="1141"/>
+	<Point x="1386" y="1141"/>
+	<Point x="1386" y="1142"/>
+	<Point x="1361" y="1142"/>
+	<Point x="1361" y="1143"/>
+	<Point x="1336" y="1143"/>
+	<Point x="1336" y="1144"/>
+	<Point x="1204" y="1144"/>
+	<Point x="1204" y="1143"/>
+	<Point x="891" y="1143"/>
+	<Point x="891" y="1144"/>
+	<Point x="707" y="1144"/>
+	<Point x="707" y="1143"/>
+	<Point x="550" y="1143"/>
+	<Point x="550" y="1142"/>
+	<Point x="343" y="1142"/>
+	<Point x="343" y="1141"/>
+	<Point x="340" y="1141"/>
+	<Point x="340" y="1140"/>
+	<Point x="245" y="1140"/>
+	<Point x="245" y="1139"/>
+	<Point x="223" y="1139"/>
+	<Point x="223" y="1138"/>
+	<Point x="201" y="1138"/>
+	<Point x="201" y="1052"/>
+	<Point x="200" y="1052"/>
+	<Point x="203" y="1052"/>
+	<Point x="203" y="882"/>
+	<Point x="202" y="882"/>
+	<Point x="202" y="811"/>
+	<Point x="201" y="811"/>
+	<Point x="260" y="811"/>
+	<Point x="260" y="810"/>
+	<Point x="783" y="810"/>
+	<Point x="783" y="809"/>
+	<Point x="1055" y="809"/>
+	<Point x="1055" y="808"/>
+	<Point x="2160" y="808"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ILU PEITUB ORIGINAALSUSES
+ILU ON TERVIS —
+INETUS ON HAIGUS</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r60">
+	<Coords>
+	<Point x="1829" y="1205"/>
+	<Point x="1613" y="1624"/>
+	<Point x="1617" y="1982"/>
+	<Point x="1614" y="2062"/>
+	<Point x="1644" y="2221"/>
+	<Point x="1670" y="2317"/>
+	<Point x="1635" y="2358"/>
+	<Point x="1847" y="2782"/>
+	<Point x="2072" y="2969"/>
+	<Point x="1963" y="3066"/>
+	<Point x="1893" y="3164"/>
+	<Point x="1889" y="3211"/>
+	<Point x="1905" y="3254"/>
+	<Point x="2105" y="3239"/>
+	<Point x="2125" y="3188"/>
+	<Point x="2183" y="3123"/>
+	<Point x="2198" y="3163"/>
+	<Point x="2263" y="3155"/>
+	<Point x="2294" y="3145"/>
+	<Point x="2976" y="3140"/>
+	<Point x="3054" y="3123"/>
+	<Point x="3128" y="4028"/>
+	<Point x="3158" y="4258"/>
+	<Point x="3388" y="4352"/>
+	<Point x="3340" y="3047"/>
+	<Point x="3841" y="2782"/>
+	<Point x="4023" y="2188"/>
+	<Point x="4082" y="1627"/>
+	<Point x="3624" y="1013"/>
+	<Point x="3182" y="782"/>
+	<Point x="2836" y="751"/>
+	<Point x="2787" y="753"/>
+	<Point x="2773" y="755"/>
+	<Point x="2523" y="770"/>
+	<Point x="2317" y="858"/>
+	<Point x="1870" y="1100"/></Coords></ImageRegion>
+	<SeparatorRegion id="r7188">
+	<Coords>
+	<Point x="3683" y="660"/>
+	<Point x="3936" y="660"/>
+	<Point x="3936" y="661"/>
+	<Point x="3952" y="661"/>
+	<Point x="3952" y="679"/>
+	<Point x="3936" y="679"/>
+	<Point x="3936" y="678"/>
+	<Point x="3857" y="678"/>
+	<Point x="3857" y="677"/>
+	<Point x="3832" y="677"/>
+	<Point x="3832" y="676"/>
+	<Point x="3657" y="676"/>
+	<Point x="3657" y="677"/>
+	<Point x="3501" y="677"/>
+	<Point x="3501" y="680"/>
+	<Point x="2857" y="680"/>
+	<Point x="2857" y="681"/>
+	<Point x="2723" y="681"/>
+	<Point x="2723" y="682"/>
+	<Point x="2554" y="682"/>
+	<Point x="2554" y="683"/>
+	<Point x="2447" y="683"/>
+	<Point x="2447" y="686"/>
+	<Point x="2399" y="686"/>
+	<Point x="2399" y="689"/>
+	<Point x="2216" y="689"/>
+	<Point x="2216" y="690"/>
+	<Point x="2100" y="690"/>
+	<Point x="2100" y="693"/>
+	<Point x="1053" y="693"/>
+	<Point x="1053" y="691"/>
+	<Point x="467" y="691"/>
+	<Point x="467" y="688"/>
+	<Point x="429" y="688"/>
+	<Point x="429" y="687"/>
+	<Point x="211" y="687"/>
+	<Point x="211" y="669"/>
+	<Point x="429" y="669"/>
+	<Point x="429" y="673"/>
+	<Point x="1047" y="673"/>
+	<Point x="1047" y="674"/>
+	<Point x="2100" y="674"/>
+	<Point x="2100" y="673"/>
+	<Point x="2216" y="673"/>
+	<Point x="2216" y="670"/>
+	<Point x="2399" y="670"/>
+	<Point x="2399" y="669"/>
+	<Point x="2447" y="669"/>
+	<Point x="2447" y="671"/>
+	<Point x="2554" y="671"/>
+	<Point x="2554" y="667"/>
+	<Point x="2622" y="667"/>
+	<Point x="2622" y="666"/>
+	<Point x="2711" y="666"/>
+	<Point x="2711" y="665"/>
+	<Point x="2857" y="665"/>
+	<Point x="2857" y="664"/>
+	<Point x="2954" y="664"/>
+	<Point x="2954" y="663"/>
+	<Point x="3503" y="663"/>
+	<Point x="3503" y="661"/>
+	<Point x="3683" y="661"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r7192">
+	<Coords>
+	<Point x="3538" y="716"/>
+	<Point x="3953" y="716"/>
+	<Point x="3953" y="735"/>
+	<Point x="3929" y="735"/>
+	<Point x="3929" y="736"/>
+	<Point x="3914" y="736"/>
+	<Point x="3914" y="735"/>
+	<Point x="3538" y="735"/>
+	<Point x="3538" y="736"/>
+	<Point x="3050" y="736"/>
+	<Point x="3050" y="737"/>
+	<Point x="3034" y="737"/>
+	<Point x="3034" y="736"/>
+	<Point x="2997" y="736"/>
+	<Point x="2997" y="735"/>
+	<Point x="2990" y="735"/>
+	<Point x="2990" y="734"/>
+	<Point x="2971" y="734"/>
+	<Point x="2971" y="732"/>
+	<Point x="2814" y="732"/>
+	<Point x="2814" y="733"/>
+	<Point x="2787" y="733"/>
+	<Point x="2787" y="740"/>
+	<Point x="2531" y="740"/>
+	<Point x="2531" y="743"/>
+	<Point x="2479" y="743"/>
+	<Point x="2479" y="746"/>
+	<Point x="2258" y="746"/>
+	<Point x="2258" y="748"/>
+	<Point x="1912" y="748"/>
+	<Point x="1912" y="751"/>
+	<Point x="1393" y="751"/>
+	<Point x="1393" y="750"/>
+	<Point x="411" y="750"/>
+	<Point x="411" y="747"/>
+	<Point x="218" y="747"/>
+	<Point x="218" y="744"/>
+	<Point x="214" y="744"/>
+	<Point x="214" y="743"/>
+	<Point x="213" y="743"/>
+	<Point x="213" y="738"/>
+	<Point x="210" y="738"/>
+	<Point x="210" y="728"/>
+	<Point x="411" y="728"/>
+	<Point x="411" y="731"/>
+	<Point x="1393" y="731"/>
+	<Point x="1393" y="732"/>
+	<Point x="1912" y="732"/>
+	<Point x="1912" y="730"/>
+	<Point x="2258" y="730"/>
+	<Point x="2258" y="727"/>
+	<Point x="2479" y="727"/>
+	<Point x="2479" y="725"/>
+	<Point x="2556" y="725"/>
+	<Point x="2556" y="724"/>
+	<Point x="2561" y="724"/>
+	<Point x="2561" y="722"/>
+	<Point x="2787" y="722"/>
+	<Point x="2787" y="721"/>
+	<Point x="2887" y="721"/>
+	<Point x="2887" y="720"/>
+	<Point x="3050" y="720"/>
+	<Point x="3050" y="718"/>
+	<Point x="3538" y="718"/></Coords></SeparatorRegion>
+	<TextRegion id="r61" type="paragraph">
+	<Coords>
+	<Point x="2002" y="3711"/>
+	<Point x="2002" y="3712"/>
+	<Point x="2077" y="3712"/>
+	<Point x="2077" y="3713"/>
+	<Point x="2106" y="3713"/>
+	<Point x="2106" y="3714"/>
+	<Point x="2105" y="3714"/>
+	<Point x="2105" y="3728"/>
+	<Point x="2104" y="3728"/>
+	<Point x="2104" y="3742"/>
+	<Point x="2103" y="3742"/>
+	<Point x="2103" y="3756"/>
+	<Point x="2102" y="3756"/>
+	<Point x="2102" y="3770"/>
+	<Point x="2101" y="3770"/>
+	<Point x="2101" y="3785"/>
+	<Point x="2100" y="3785"/>
+	<Point x="2100" y="3799"/>
+	<Point x="2099" y="3799"/>
+	<Point x="2099" y="3813"/>
+	<Point x="2098" y="3813"/>
+	<Point x="2098" y="3827"/>
+	<Point x="2097" y="3827"/>
+	<Point x="2097" y="3841"/>
+	<Point x="2096" y="3841"/>
+	<Point x="2096" y="3846"/>
+	<Point x="2064" y="3846"/>
+	<Point x="2064" y="3845"/>
+	<Point x="2029" y="3845"/>
+	<Point x="2029" y="3844"/>
+	<Point x="1994" y="3844"/>
+	<Point x="1994" y="3843"/>
+	<Point x="1959" y="3843"/>
+	<Point x="1959" y="3842"/>
+	<Point x="1924" y="3842"/>
+	<Point x="1924" y="3841"/>
+	<Point x="1889" y="3841"/>
+	<Point x="1889" y="3840"/>
+	<Point x="1854" y="3840"/>
+	<Point x="1854" y="3839"/>
+	<Point x="1796" y="3839"/>
+	<Point x="1796" y="3840"/>
+	<Point x="1773" y="3840"/>
+	<Point x="1773" y="3841"/>
+	<Point x="1750" y="3841"/>
+	<Point x="1750" y="3842"/>
+	<Point x="1727" y="3842"/>
+	<Point x="1727" y="3843"/>
+	<Point x="1704" y="3843"/>
+	<Point x="1704" y="3844"/>
+	<Point x="1681" y="3844"/>
+	<Point x="1681" y="3845"/>
+	<Point x="1658" y="3845"/>
+	<Point x="1658" y="3846"/>
+	<Point x="1636" y="3846"/>
+	<Point x="1636" y="3847"/>
+	<Point x="1636" y="3846"/>
+	<Point x="1582" y="3846"/>
+	<Point x="1582" y="3848"/>
+	<Point x="1581" y="3848"/>
+	<Point x="1581" y="3849"/>
+	<Point x="1580" y="3849"/>
+	<Point x="1580" y="3851"/>
+	<Point x="1579" y="3851"/>
+	<Point x="1579" y="3852"/>
+	<Point x="1579" y="3851"/>
+	<Point x="1552" y="3851"/>
+	<Point x="1552" y="3850"/>
+	<Point x="1526" y="3850"/>
+	<Point x="1526" y="3849"/>
+	<Point x="1500" y="3849"/>
+	<Point x="1500" y="3848"/>
+	<Point x="1474" y="3848"/>
+	<Point x="1474" y="3847"/>
+	<Point x="1363" y="3847"/>
+	<Point x="1363" y="3848"/>
+	<Point x="1348" y="3848"/>
+	<Point x="1348" y="3849"/>
+	<Point x="1332" y="3849"/>
+	<Point x="1332" y="3850"/>
+	<Point x="1317" y="3850"/>
+	<Point x="1317" y="3851"/>
+	<Point x="1293" y="3851"/>
+	<Point x="1293" y="3850"/>
+	<Point x="1277" y="3850"/>
+	<Point x="1277" y="3849"/>
+	<Point x="1262" y="3849"/>
+	<Point x="1262" y="3848"/>
+	<Point x="1247" y="3848"/>
+	<Point x="1247" y="3847"/>
+	<Point x="1232" y="3847"/>
+	<Point x="1232" y="3712"/>
+	<Point x="1674" y="3712"/>
+	<Point x="1674" y="3713"/>
+	<Point x="1677" y="3713"/>
+	<Point x="1677" y="3714"/>
+	<Point x="1679" y="3714"/>
+	<Point x="1679" y="3715"/>
+	<Point x="1681" y="3715"/>
+	<Point x="1681" y="3716"/>
+	<Point x="1683" y="3716"/>
+	<Point x="1683" y="3717"/>
+	<Point x="1685" y="3717"/>
+	<Point x="1685" y="3718"/>
+	<Point x="1687" y="3718"/>
+	<Point x="1687" y="3719"/>
+	<Point x="1706" y="3719"/>
+	<Point x="1706" y="3720"/>
+	<Point x="1727" y="3720"/>
+	<Point x="1727" y="3719"/>
+	<Point x="1730" y="3719"/>
+	<Point x="1730" y="3718"/>
+	<Point x="1733" y="3718"/>
+	<Point x="1733" y="3717"/>
+	<Point x="1736" y="3717"/>
+	<Point x="1736" y="3716"/>
+	<Point x="1739" y="3716"/>
+	<Point x="1739" y="3715"/>
+	<Point x="1742" y="3715"/>
+	<Point x="1742" y="3714"/>
+	<Point x="1745" y="3714"/>
+	<Point x="1745" y="3713"/>
+	<Point x="1748" y="3713"/>
+	<Point x="1748" y="3712"/>
+	<Point x="1751" y="3712"/>
+	<Point x="1751" y="3711"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>2. Käed sirutatakse horisontaalselt
+kõrvale ja pööratakse ühes keha-
+ga edasi-tagasi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r69" type="paragraph">
+	<Coords>
+	<Point x="2095" y="3894"/>
+	<Point x="2095" y="3957"/>
+	<Point x="2021" y="3957"/>
+	<Point x="2021" y="3958"/>
+	<Point x="1947" y="3958"/>
+	<Point x="1947" y="3959"/>
+	<Point x="1947" y="3958"/>
+	<Point x="1853" y="3958"/>
+	<Point x="1853" y="3957"/>
+	<Point x="1844" y="3957"/>
+	<Point x="1844" y="3956"/>
+	<Point x="1780" y="3956"/>
+	<Point x="1780" y="3957"/>
+	<Point x="1725" y="3957"/>
+	<Point x="1725" y="3958"/>
+	<Point x="1669" y="3958"/>
+	<Point x="1669" y="3959"/>
+	<Point x="1614" y="3959"/>
+	<Point x="1614" y="3960"/>
+	<Point x="1614" y="3959"/>
+	<Point x="1600" y="3959"/>
+	<Point x="1600" y="3958"/>
+	<Point x="1586" y="3958"/>
+	<Point x="1586" y="3957"/>
+	<Point x="1573" y="3957"/>
+	<Point x="1573" y="3956"/>
+	<Point x="1559" y="3956"/>
+	<Point x="1559" y="3955"/>
+	<Point x="1545" y="3955"/>
+	<Point x="1545" y="3954"/>
+	<Point x="1532" y="3954"/>
+	<Point x="1532" y="3953"/>
+	<Point x="1518" y="3953"/>
+	<Point x="1518" y="3952"/>
+	<Point x="1504" y="3952"/>
+	<Point x="1504" y="3951"/>
+	<Point x="1490" y="3951"/>
+	<Point x="1490" y="3953"/>
+	<Point x="1489" y="3953"/>
+	<Point x="1489" y="3955"/>
+	<Point x="1488" y="3955"/>
+	<Point x="1488" y="3957"/>
+	<Point x="1487" y="3957"/>
+	<Point x="1487" y="3958"/>
+	<Point x="1486" y="3958"/>
+	<Point x="1486" y="3960"/>
+	<Point x="1485" y="3960"/>
+	<Point x="1485" y="3962"/>
+	<Point x="1484" y="3962"/>
+	<Point x="1484" y="3963"/>
+	<Point x="1483" y="3963"/>
+	<Point x="1483" y="3965"/>
+	<Point x="1482" y="3965"/>
+	<Point x="1482" y="3967"/>
+	<Point x="1481" y="3967"/>
+	<Point x="1481" y="3969"/>
+	<Point x="1480" y="3969"/>
+	<Point x="1480" y="3970"/>
+	<Point x="1479" y="3970"/>
+	<Point x="1479" y="3972"/>
+	<Point x="1478" y="3972"/>
+	<Point x="1478" y="3974"/>
+	<Point x="1477" y="3974"/>
+	<Point x="1477" y="3975"/>
+	<Point x="1476" y="3975"/>
+	<Point x="1476" y="3977"/>
+	<Point x="1475" y="3977"/>
+	<Point x="1475" y="3979"/>
+	<Point x="1474" y="3979"/>
+	<Point x="1474" y="3981"/>
+	<Point x="1473" y="3981"/>
+	<Point x="1473" y="3982"/>
+	<Point x="1472" y="3982"/>
+	<Point x="1472" y="3984"/>
+	<Point x="1471" y="3984"/>
+	<Point x="1471" y="3986"/>
+	<Point x="1470" y="3986"/>
+	<Point x="1470" y="3987"/>
+	<Point x="1404" y="3987"/>
+	<Point x="1404" y="3988"/>
+	<Point x="1338" y="3988"/>
+	<Point x="1338" y="3989"/>
+	<Point x="1338" y="3988"/>
+	<Point x="1281" y="3988"/>
+	<Point x="1281" y="3987"/>
+	<Point x="1225" y="3987"/>
+	<Point x="1225" y="3898"/>
+	<Point x="1245" y="3898"/>
+	<Point x="1245" y="3899"/>
+	<Point x="1352" y="3899"/>
+	<Point x="1352" y="3900"/>
+	<Point x="1362" y="3900"/>
+	<Point x="1362" y="3901"/>
+	<Point x="1371" y="3901"/>
+	<Point x="1371" y="3902"/>
+	<Point x="1380" y="3902"/>
+	<Point x="1380" y="3903"/>
+	<Point x="1390" y="3903"/>
+	<Point x="1390" y="3904"/>
+	<Point x="1399" y="3904"/>
+	<Point x="1399" y="3905"/>
+	<Point x="1408" y="3905"/>
+	<Point x="1408" y="3906"/>
+	<Point x="1431" y="3906"/>
+	<Point x="1431" y="3905"/>
+	<Point x="1444" y="3905"/>
+	<Point x="1444" y="3904"/>
+	<Point x="1458" y="3904"/>
+	<Point x="1458" y="3903"/>
+	<Point x="1471" y="3903"/>
+	<Point x="1471" y="3902"/>
+	<Point x="1484" y="3902"/>
+	<Point x="1484" y="3901"/>
+	<Point x="1498" y="3901"/>
+	<Point x="1498" y="3900"/>
+	<Point x="1511" y="3900"/>
+	<Point x="1511" y="3899"/>
+	<Point x="1524" y="3899"/>
+	<Point x="1524" y="3898"/>
+	<Point x="1572" y="3898"/>
+	<Point x="1572" y="3897"/>
+	<Point x="1619" y="3897"/>
+	<Point x="1619" y="3896"/>
+	<Point x="1619" y="3897"/>
+	<Point x="1739" y="3897"/>
+	<Point x="1739" y="3898"/>
+	<Point x="1909" y="3898"/>
+	<Point x="1909" y="3897"/>
+	<Point x="1960" y="3897"/>
+	<Point x="1960" y="3896"/>
+	<Point x="2011" y="3896"/>
+	<Point x="2011" y="3895"/>
+	<Point x="2062" y="3895"/>
+	<Point x="2062" y="3894"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>4. Kätega ringid igas võimalikus
+suunas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3598" type="paragraph">
+	<Coords>
+	<Point x="2108" y="3713"/>
+	<Point x="2152" y="3713"/>
+	<Point x="2152" y="3714"/>
+	<Point x="2227" y="3714"/>
+	<Point x="2227" y="3715"/>
+	<Point x="2230" y="3715"/>
+	<Point x="2230" y="3716"/>
+	<Point x="2233" y="3716"/>
+	<Point x="2233" y="3717"/>
+	<Point x="2235" y="3717"/>
+	<Point x="2235" y="3718"/>
+	<Point x="2238" y="3718"/>
+	<Point x="2238" y="3719"/>
+	<Point x="2241" y="3719"/>
+	<Point x="2241" y="3720"/>
+	<Point x="2243" y="3720"/>
+	<Point x="2243" y="3721"/>
+	<Point x="2246" y="3721"/>
+	<Point x="2246" y="3722"/>
+	<Point x="2249" y="3722"/>
+	<Point x="2249" y="3723"/>
+	<Point x="2251" y="3723"/>
+	<Point x="2251" y="3724"/>
+	<Point x="2254" y="3724"/>
+	<Point x="2254" y="3725"/>
+	<Point x="2257" y="3725"/>
+	<Point x="2257" y="3726"/>
+	<Point x="2259" y="3726"/>
+	<Point x="2259" y="3727"/>
+	<Point x="2262" y="3727"/>
+	<Point x="2262" y="3728"/>
+	<Point x="2265" y="3728"/>
+	<Point x="2265" y="3729"/>
+	<Point x="2267" y="3729"/>
+	<Point x="2267" y="3730"/>
+	<Point x="2270" y="3730"/>
+	<Point x="2270" y="3731"/>
+	<Point x="2649" y="3731"/>
+	<Point x="2649" y="3732"/>
+	<Point x="2725" y="3732"/>
+	<Point x="2725" y="3733"/>
+	<Point x="2800" y="3733"/>
+	<Point x="2800" y="3734"/>
+	<Point x="2882" y="3734"/>
+	<Point x="2882" y="3735"/>
+	<Point x="2963" y="3735"/>
+	<Point x="2963" y="3736"/>
+	<Point x="3031" y="3736"/>
+	<Point x="3031" y="3837"/>
+	<Point x="3026" y="3837"/>
+	<Point x="3026" y="3986"/>
+	<Point x="3027" y="3986"/>
+	<Point x="2975" y="3986"/>
+	<Point x="2975" y="3987"/>
+	<Point x="2966" y="3987"/>
+	<Point x="2966" y="4033"/>
+	<Point x="2863" y="4033"/>
+	<Point x="2863" y="4034"/>
+	<Point x="2761" y="4034"/>
+	<Point x="2761" y="4035"/>
+	<Point x="2659" y="4035"/>
+	<Point x="2659" y="4036"/>
+	<Point x="2557" y="4036"/>
+	<Point x="2557" y="4037"/>
+	<Point x="2455" y="4037"/>
+	<Point x="2455" y="4038"/>
+	<Point x="2353" y="4038"/>
+	<Point x="2353" y="4039"/>
+	<Point x="2251" y="4039"/>
+	<Point x="2251" y="4040"/>
+	<Point x="2251" y="4039"/>
+	<Point x="2210" y="4039"/>
+	<Point x="2210" y="4038"/>
+	<Point x="2169" y="4038"/>
+	<Point x="2169" y="4037"/>
+	<Point x="2128" y="4037"/>
+	<Point x="2128" y="4036"/>
+	<Point x="2087" y="4036"/>
+	<Point x="2087" y="4035"/>
+	<Point x="2047" y="4035"/>
+	<Point x="2047" y="3987"/>
+	<Point x="2046" y="3987"/>
+	<Point x="2097" y="3987"/>
+	<Point x="2097" y="3894"/>
+	<Point x="2098" y="3894"/>
+	<Point x="2098" y="3843"/>
+	<Point x="2099" y="3843"/>
+	<Point x="2099" y="3829"/>
+	<Point x="2100" y="3829"/>
+	<Point x="2100" y="3815"/>
+	<Point x="2101" y="3815"/>
+	<Point x="2101" y="3801"/>
+	<Point x="2102" y="3801"/>
+	<Point x="2102" y="3787"/>
+	<Point x="2103" y="3787"/>
+	<Point x="2103" y="3772"/>
+	<Point x="2104" y="3772"/>
+	<Point x="2104" y="3758"/>
+	<Point x="2105" y="3758"/>
+	<Point x="2105" y="3744"/>
+	<Point x="2106" y="3744"/>
+	<Point x="2106" y="3730"/>
+	<Point x="2107" y="3730"/>
+	<Point x="2107" y="3716"/>
+	<Point x="2108" y="3716"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Vähearenenud rinda ei ole võimalik
+parandada ülalmainitud viisidel. Siin
+on põhjuseks vähearenenud näärmed ja
+siin soovitatakse tarvitada vastavaid
+näärme preparaate. Tungivalt tuleb aga
+hoiduda parafiini naha alla pritsimisest!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r71" type="paragraph">
+	<Coords>
+	<Point x="1755" y="3852"/>
+	<Point x="1755" y="3859"/>
+	<Point x="1756" y="3859"/>
+	<Point x="1756" y="3874"/>
+	<Point x="1757" y="3874"/>
+	<Point x="1757" y="3890"/>
+	<Point x="1758" y="3890"/>
+	<Point x="1758" y="3892"/>
+	<Point x="1732" y="3892"/>
+	<Point x="1732" y="3893"/>
+	<Point x="1552" y="3893"/>
+	<Point x="1552" y="3894"/>
+	<Point x="1527" y="3894"/>
+	<Point x="1527" y="3895"/>
+	<Point x="1502" y="3895"/>
+	<Point x="1502" y="3896"/>
+	<Point x="1477" y="3896"/>
+	<Point x="1477" y="3897"/>
+	<Point x="1477" y="3896"/>
+	<Point x="1462" y="3896"/>
+	<Point x="1462" y="3895"/>
+	<Point x="1447" y="3895"/>
+	<Point x="1447" y="3894"/>
+	<Point x="1429" y="3894"/>
+	<Point x="1429" y="3895"/>
+	<Point x="1426" y="3895"/>
+	<Point x="1426" y="3896"/>
+	<Point x="1423" y="3896"/>
+	<Point x="1423" y="3897"/>
+	<Point x="1420" y="3897"/>
+	<Point x="1420" y="3898"/>
+	<Point x="1417" y="3898"/>
+	<Point x="1417" y="3899"/>
+	<Point x="1414" y="3899"/>
+	<Point x="1414" y="3900"/>
+	<Point x="1414" y="3899"/>
+	<Point x="1403" y="3899"/>
+	<Point x="1403" y="3898"/>
+	<Point x="1393" y="3898"/>
+	<Point x="1393" y="3897"/>
+	<Point x="1383" y="3897"/>
+	<Point x="1383" y="3896"/>
+	<Point x="1372" y="3896"/>
+	<Point x="1372" y="3895"/>
+	<Point x="1362" y="3895"/>
+	<Point x="1362" y="3894"/>
+	<Point x="1352" y="3894"/>
+	<Point x="1352" y="3893"/>
+	<Point x="1228" y="3893"/>
+	<Point x="1228" y="3854"/>
+	<Point x="1227" y="3854"/>
+	<Point x="1233" y="3854"/>
+	<Point x="1233" y="3853"/>
+	<Point x="1411" y="3853"/>
+	<Point x="1411" y="3854"/>
+	<Point x="1419" y="3854"/>
+	<Point x="1419" y="3855"/>
+	<Point x="1427" y="3855"/>
+	<Point x="1427" y="3856"/>
+	<Point x="1434" y="3856"/>
+	<Point x="1434" y="3857"/>
+	<Point x="1442" y="3857"/>
+	<Point x="1442" y="3858"/>
+	<Point x="1450" y="3858"/>
+	<Point x="1450" y="3859"/>
+	<Point x="1462" y="3859"/>
+	<Point x="1462" y="3858"/>
+	<Point x="1466" y="3858"/>
+	<Point x="1466" y="3857"/>
+	<Point x="1470" y="3857"/>
+	<Point x="1470" y="3856"/>
+	<Point x="1474" y="3856"/>
+	<Point x="1474" y="3855"/>
+	<Point x="1478" y="3855"/>
+	<Point x="1478" y="3854"/>
+	<Point x="1478" y="3855"/>
+	<Point x="1534" y="3855"/>
+	<Point x="1534" y="3854"/>
+	<Point x="1551" y="3854"/>
+	<Point x="1551" y="3853"/>
+	<Point x="1551" y="3854"/>
+	<Point x="1593" y="3854"/>
+	<Point x="1593" y="3853"/>
+	<Point x="1621" y="3853"/>
+	<Point x="1621" y="3852"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>3. Kätega tõuked ette.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r74">
+	<Coords>
+	<Point x="1600" y="6331"/>
+	<Point x="1600" y="6375"/>
+	<Point x="1834" y="6375"/>
+	<Point x="1834" y="6331"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r75">
+	<Coords>
+	<Point x="2310" y="6341"/>
+	<Point x="2310" y="6379"/>
+	<Point x="2537" y="6379"/>
+	<Point x="2537" y="6341"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r7200">
+	<Coords>
+	<Point x="1452" y="1149"/>
+	<Point x="1492" y="1149"/>
+	<Point x="1492" y="1902"/>
+	<Point x="1490" y="1902"/>
+	<Point x="1490" y="2734"/>
+	<Point x="1491" y="2734"/>
+	<Point x="1454" y="2734"/>
+	<Point x="1454" y="2220"/>
+	<Point x="1455" y="2220"/>
+	<Point x="1455" y="2118"/>
+	<Point x="1456" y="2118"/>
+	<Point x="1456" y="2016"/>
+	<Point x="1457" y="2016"/>
+	<Point x="1457" y="1902"/>
+	<Point x="1456" y="1902"/>
+	<Point x="1456" y="1807"/>
+	<Point x="1452" y="1807"/></Coords></SeparatorRegion></Page></PcGts>

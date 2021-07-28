@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00674522">
+	<Metadata>
+	<Creator>FineReader Engine 10</Creator>
+	<Created>2013-10-14T22:00:27</Created>
+	<LastChange>2014-01-22T09:30:25</LastChange>
+	<Comments>Recognition and export settings:
+
+  Recognition language(s): Swedish
+  Font class: auto
+  Orig-outlines: false
+  Orig-text: false
+  Orig-drop-caps: false
+  Reading order: false
+    Exclude: [default]
+  Layers: false
+  To remove: background-images
+
+Conversion and export:
+
+</Comments></Metadata>
+	<Page imageFilename="00674522.tif" imageWidth="3248" imageHeight="5150">
+	<ReadingOrder>
+	<UnorderedGroup id="ro357564684568544579089">
+	<OrderedGroup id="r43">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r176" index="1"/>
+	<RegionRefIndexed regionRef="r509" index="2"/>
+	<RegionRefIndexed regionRef="r527" index="3"/>
+	<RegionRefIndexed regionRef="r594" index="4"/>
+	<RegionRefIndexed regionRef="r1244" index="5"/>
+	<RegionRefIndexed regionRef="r1931" index="6"/>
+	<RegionRefIndexed regionRef="r1973" index="7"/>
+	<RegionRefIndexed regionRef="r2787" index="8"/>
+	<RegionRefIndexed regionRef="r2945" index="9"/>
+	<RegionRefIndexed regionRef="r3525" index="10"/>
+	<RegionRefIndexed regionRef="r3757" index="11"/>
+	<RegionRefIndexed regionRef="r4426" index="12"/>
+	<RegionRefIndexed regionRef="r5078" index="13"/>
+	<RegionRefIndexed regionRef="r5089" index="14"/>
+	<RegionRefIndexed regionRef="r5408" index="15"/></OrderedGroup>
+	<OrderedGroup id="r44">
+	<RegionRefIndexed regionRef="r5623" index="0"/>
+	<RegionRefIndexed regionRef="r5631" index="1"/>
+	<RegionRefIndexed regionRef="r5707" index="2"/>
+	<RegionRefIndexed regionRef="r5839" index="3"/>
+	<RegionRefIndexed regionRef="r6127" index="4"/>
+	<RegionRefIndexed regionRef="r6260" index="5"/>
+	<RegionRefIndexed regionRef="r6621" index="6"/>
+	<RegionRefIndexed regionRef="r6709" index="7"/>
+	<RegionRefIndexed regionRef="r6751" index="8"/>
+	<RegionRefIndexed regionRef="r6855" index="9"/>
+	<RegionRefIndexed regionRef="r7069" index="10"/>
+	<RegionRefIndexed regionRef="r7439" index="11"/>
+	<RegionRefIndexed regionRef="r7661" index="12"/>
+	<RegionRefIndexed regionRef="r7810" index="13"/>
+	<RegionRefIndexed regionRef="r8315" index="14"/>
+	<RegionRefIndexed regionRef="r8584" index="15"/>
+	<RegionRefIndexed regionRef="r8887" index="16"/></OrderedGroup>
+	<OrderedGroup id="r45">
+	<RegionRefIndexed regionRef="r9676" index="0"/>
+	<RegionRefIndexed regionRef="r9705" index="1"/>
+	<RegionRefIndexed regionRef="r9732" index="2"/></OrderedGroup></UnorderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="page-number">
+	<Coords>
+	<Point x="1652" y="83"/>
+	<Point x="1695" y="88"/>
+	<Point x="1747" y="118"/>
+	<Point x="1705" y="155"/>
+	<Point x="1645" y="135"/>
+	<Point x="1628" y="122"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>414</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords>
+	<Point x="129" y="211"/>
+	<Point x="1087" y="211"/>
+	<Point x="1100" y="309"/>
+	<Point x="1095" y="379"/>
+	<Point x="1084" y="430"/>
+	<Point x="904" y="433"/>
+	<Point x="780" y="432"/>
+	<Point x="727" y="441"/>
+	<Point x="700" y="433"/>
+	<Point x="505" y="434"/>
+	<Point x="456" y="444"/>
+	<Point x="129" y="443"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>verkliga aſsigter, men ﬂere af hans vän-
+ner försäkrade oss ännu i går, att ingen-
+ting syntes dem mera oſörenligt med ge-
+neralens åsigter, än detta projekt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r176" type="paragraph">
+	<Coords>
+	<Point x="126" y="456"/>
+	<Point x="1036" y="443"/>
+	<Point x="1094" y="447"/>
+	<Point x="1107" y="624"/>
+	<Point x="1098" y="684"/>
+	<Point x="1100" y="770"/>
+	<Point x="1092" y="901"/>
+	<Point x="452" y="916"/>
+	<Point x="394" y="911"/>
+	<Point x="215" y="909"/>
+	<Point x="122" y="917"/>
+	<Point x="116" y="860"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Det skulle fagna oss om de utspridda
+ryktena icke egde någon grund, och att ge-
+neralens afresa icke stode i sammanhang
+med de senaste tilldragelserna på Sicilien,
+och med de nyaste underrättelserna deri-
+från, enligt hvilka resningen börjar bliſva
+allmän och med hvarje dag antaga allt all-
+varsammare karakter."</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r509" type="heading">
+	<Coords>
+	<Point x="374" y="925"/>
+	<Point x="486" y="927"/>
+	<Point x="835" y="933"/>
+	<Point x="854" y="972"/>
+	<Point x="852" y="972"/>
+	<Point x="815" y="979"/>
+	<Point x="760" y="977"/>
+	<Point x="720" y="979"/>
+	<Point x="660" y="978"/>
+	<Point x="368" y="975"/>
+	<Point x="358" y="951"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Storbritannien.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r527" type="paragraph">
+	<Coords>
+	<Point x="121" y="990"/>
+	<Point x="347" y="984"/>
+	<Point x="1088" y="990"/>
+	<Point x="1094" y="1052"/>
+	<Point x="885" y="1080"/>
+	<Point x="765" y="1085"/>
+	<Point x="734" y="1097"/>
+	<Point x="719" y="1103"/>
+	<Point x="548" y="1087"/>
+	<Point x="163" y="1095"/>
+	<Point x="121" y="1101"/>
+	<Point x="108" y="1067"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Från London skriſves den 14 april till
+Journal de S:t P.bourg:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r594" type="paragraph">
+	<Coords>
+	<Point x="119" y="1107"/>
+	<Point x="230" y="1100"/>
+	<Point x="727" y="1109"/>
+	<Point x="1104" y="1109"/>
+	<Point x="1089" y="1654"/>
+	<Point x="1098" y="1902"/>
+	<Point x="1085" y="1950"/>
+	<Point x="822" y="1972"/>
+	<Point x="340" y="1989"/>
+	<Point x="119" y="1988"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>"I afvaktan på att parlamentets återbe-
+gynnande arbeten skola gifva någon verk-
+samhet åt det politiska lifvet hos oss, som
+för det närvarande tyckes nästan utslock-
+nadt, fortsätta tidningarne sina artiklar om
+utrikes politiken. Allt ſortfarande är det
+konungen af Neapel, som är föremål ſör
+de flestes polemik Upproret i Palermo
+och Messina är ett allt ſör godt tillſälle, för
+att våra Cassandror i stort format skulle
+neka sig tillfredsställelsen att säga: "vi haf-
+va ju förespått det!" och det ännu kärleks-
+fullare nöjet att för en nära framtid göra
+förutsägelser, ja tillochmed önskningar af
+ännu dystrare art.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1244" type="paragraph">
+	<Coords>
+	<Point x="111" y="1993"/>
+	<Point x="1096" y="1993"/>
+	<Point x="1081" y="2876"/>
+	<Point x="992" y="2880"/>
+	<Point x="111" y="2883"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Times uppmanar imellertid neapolitanar-
+ne till lugn, dock icke i lojal mening. Tvärt-
+om "fruktar" han, att deras förbittring icke
+tillåter dem att begagna eller invänta ett
+gynnande tillfälle; han "fruktar" att upp-
+rorsförsöken kunna misslyckas, att "Sicilia-
+narne, ledda snarare af sin förtviﬂan än af
+klokhet, blott ſörvärra sin belägenhet i stäl-
+let för att förbättra den." I sin ifver för
+revolutionens sak och i sin harm öfver miss-
+lyckandet både i Palermo och Messina, går
+Times ända derhän, att han säger, "att det
+icke vore förvånande om neapolitanska re-
+geringen framkallat ett uppror i otid, för
+att gäcka de revolutionäras förhoppningar.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1931" type="paragraph">
+	<Coords>
+	<Point x="168" y="2889"/>
+	<Point x="545" y="2887"/>
+	<Point x="963" y="2887"/>
+	<Point x="1052" y="2885"/>
+	<Point x="1072" y="2896"/>
+	<Point x="1086" y="2910"/>
+	<Point x="1076" y="2937"/>
+	<Point x="853" y="2939"/>
+	<Point x="168" y="2937"/>
+	<Point x="159" y="2905"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Times' artikel slutar med följande ord:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1973" type="paragraph">
+	<Coords>
+	<Point x="117" y="2944"/>
+	<Point x="1092" y="2944"/>
+	<Point x="1092" y="4003"/>
+	<Point x="117" y="4003"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>"Krutledningen är anlagd (af hvem ?") och
+det behöfves blott en gnista för att tända
+elden i hela södra Italien. Konungariket
+Neapel har fått ett farligt grannskap i påf-
+vens revolterade provinser, och de fall, då
+uppresningar segrat, äro allt för många och
+väl kända, att icke verkan deraf skulle lå-
+ta känna sig i Neapel, i trots af den sorg-
+fällighet, hvarmed man söker att hålla nea-
+politanarne afskiljda från beröring med ut-
+landet. Samma intresse, samma känslor
+skola förena italienska folket från Alperna
+till Messina-sundet, och så framt icke ut-
+ländskt inytande hindrande mellankommer,
+skall konungen af Neapel snart blifva i till-
+fälle att skörda frukterna af sin politik och
+erfara till hvilken grad de throner äro fa-
+sta, hvilka hvila på ſolkens elände."</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2787" type="paragraph">
+	<Coords>
+	<Point x="529" y="4007"/>
+	<Point x="938" y="4008"/>
+	<Point x="1091" y="4023"/>
+	<Point x="1092" y="4132"/>
+	<Point x="1089" y="4175"/>
+	<Point x="910" y="4183"/>
+	<Point x="717" y="4232"/>
+	<Point x="570" y="4237"/>
+	<Point x="472" y="4245"/>
+	<Point x="251" y="4247"/>
+	<Point x="128" y="4243"/>
+	<Point x="108" y="4219"/>
+	<Point x="114" y="4093"/>
+	<Point x="168" y="4017"/>
+	<Point x="188" y="4010"/>
+	<Point x="291" y="4011"/>
+	<Point x="299" y="4010"/>
+	<Point x="317" y="4010"/>
+	<Point x="447" y="4008"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Man kan icke just öppnare predika upp-
+ror. Och England ﬁnner sig så förnärmadt
+af att man anklagar det för att uppmuntra
+de upproriske på Sicilien!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2945" type="paragraph">
+	<Coords>
+	<Point x="121" y="4251"/>
+	<Point x="971" y="4246"/>
+	<Point x="1091" y="4251"/>
+	<Point x="1094" y="4952"/>
+	<Point x="1091" y="5001"/>
+	<Point x="908" y="5006"/>
+	<Point x="121" y="5001"/>
+	<Point x="116" y="4432"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>— Sedan någon tid har en egen sorts pre-
+dikningar börjat hållas i London. Jag vill
+icke tala endast om dem, som hållas på
+theatrarne, på värdshusen och i fria luften.
+Det är fråga om särskilda predikningar för
+en särskild klass i samhället, oeh hvars
+medlemmar inbjudas direkte och erhålla in-
+träde vid förevisande af en ticket (biljett).
+Dessa predikningar hållas hos restauratö-
+rerna, och hafva till föremål hämmandet at
+ett socialt ondt a social evil. Detta sociala
+onda är detsamma som Parent Duchȃtelet
+med sådan möda studerade i Paris, det som</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3525" type="paragraph">
+	<Coords>
+	<Point x="1320" y="203"/>
+	<Point x="2109" y="210"/>
+	<Point x="2113" y="480"/>
+	<Point x="2109" y="550"/>
+	<Point x="1291" y="558"/>
+	<Point x="1165" y="555"/>
+	<Point x="1146" y="550"/>
+	<Point x="1137" y="234"/>
+	<Point x="1142" y="191"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>befolkar Strand, Regentstreet och Haymar-
+ket med dessa ändlösa rader af tysta, natt-
+liga skuggor, sminkade och leende, bleka
+och utmärglade spökbilder, ﬂyktiga skug-
+gor, som här nere genomgå utsväfningens
+skärseld.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3757" type="paragraph">
+	<Coords>
+	<Point x="1140" y="567"/>
+	<Point x="1236" y="567"/>
+	<Point x="1839" y="566"/>
+	<Point x="2099" y="570"/>
+	<Point x="2115" y="607"/>
+	<Point x="2112" y="1449"/>
+	<Point x="1961" y="1474"/>
+	<Point x="1170" y="1502"/>
+	<Point x="1128" y="1486"/>
+	<Point x="1139" y="1330"/>
+	<Point x="1140" y="1186"/>
+	<Point x="1141" y="1031"/>
+	<Point x="1141" y="847"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Kapellanen i Tonbridge, hr Henry Mad-
+gin har företagit sig att omvända dessa ga-
+tornas Magdalenor. Han uppsöker dem i
+deras gömställen och förer dem till sina
+predikostunder medelst lockelsen af en kopp
+thé, en grogg eller en bakelse. Jag bivi-
+stade i lördags en af hans predikostunder
+uti S:t James' restauration vid Regent-Street.
+Församlingen var talrik; åtminstone 300
+qvinnor voro närvarande. Men anblicken
+af dem var icke synnerligen uppbygglig; de
+hade kommit i stor toilett, från Haymar-
+kets lejoninna med sina juveler och kasch-
+mirshawlar, till den olyckliga från East-
+End, insvept i en kappa, som liknade spin-
+delväf.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4426" type="paragraph">
+	<Coords>
+	<Point x="1141" y="1517"/>
+	<Point x="1234" y="1512"/>
+	<Point x="2107" y="1517"/>
+	<Point x="2107" y="2392"/>
+	<Point x="1436" y="2399"/>
+	<Point x="1137" y="2397"/>
+	<Point x="1136" y="2383"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Det är förnämligast bland dessa senare,
+hvilka ﬁnna lasten mindre vinstgifvande,
+som hr Madgins ovanliga och rörande fö-
+retag vinner någon framgång. Jag vågar
+icke säga, om ångern har större del i de-
+ras omvändelse, än hoppet om ett bättre
+öde; hr Madgin gör sig utan tvifvel ingen
+illusion i detta hänseende. Han bistods i
+sina förmaningar af hr Goodhart från Chel-
+sea. Denna senare har något af pater Bri-
+daines i sitt språk, och om han återför de
+vilsegångna ſåre�., så sker det sannerligen
+icke på öſvertygelsens väg, utan genom
+vrede och skam. "Men hvad gör det, sä-
+ger hr Madgin, blott de blifva återförde!"</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5078" type="heading">
+	<Coords>
+	<Point x="1499" y="2407"/>
+	<Point x="1511" y="2402"/>
+	<Point x="1627" y="2404"/>
+	<Point x="1718" y="2408"/>
+	<Point x="1724" y="2445"/>
+	<Point x="1703" y="2449"/>
+	<Point x="1652" y="2449"/>
+	<Point x="1519" y="2452"/>
+	<Point x="1495" y="2445"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Italien.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5089" type="paragraph">
+	<Coords>
+	<Point x="1136" y="2464"/>
+	<Point x="1225" y="2459"/>
+	<Point x="1964" y="2456"/>
+	<Point x="2099" y="2464"/>
+	<Point x="2103" y="2884"/>
+	<Point x="2063" y="2905"/>
+	<Point x="1283" y="2918"/>
+	<Point x="1140" y="2924"/>
+	<Point x="1131" y="2917"/>
+	<Point x="1131" y="2836"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Turin. 14 april. I går ankom till Genua
+den hedersvärja, som romarena erbjudit ko-
+nung Victor Emanuel till gåfva. Den är
+utmärkt smakfullt arbetad af den berömda
+Castellani. På fästet är graveradt: Rom
+till Victor Emanuel II 1859; på klingan stå
+orden: Den italienska sjelſständighetens ſörste
+soldat.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5408" type="paragraph">
+	<Coords>
+	<Point x="1141" y="2938"/>
+	<Point x="1222" y="2933"/>
+	<Point x="2027" y="2931"/>
+	<Point x="2083" y="2931"/>
+	<Point x="2101" y="2938"/>
+	<Point x="2101" y="3225"/>
+	<Point x="1141" y="3225"/>
+	<Point x="1135" y="3106"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Värdet af denna gåfva är öfver 2000 scudi,
+som samlats genom subskription, i hvilken
+14,000 romare deltagit. En gåfva af sam-
+ma värde och med likadan inskrift skall
+öfverlemnas åt kejsar Napoleon III.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5623" type="heading">
+	<Coords>
+	<Point x="1612" y="3316"/>
+	<Point x="1668" y="3321"/>
+	<Point x="1692" y="3323"/>
+	<Point x="1704" y="3327"/>
+	<Point x="1715" y="3366"/>
+	<Point x="1695" y="3386"/>
+	<Point x="1629" y="3383"/>
+	<Point x="1528" y="3374"/>
+	<Point x="1530" y="3314"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>P. S.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5631" type="paragraph">
+	<Coords>
+	<Point x="1148" y="3412"/>
+	<Point x="1208" y="3402"/>
+	<Point x="1368" y="3405"/>
+	<Point x="2072" y="3409"/>
+	<Point x="2100" y="3412"/>
+	<Point x="2100" y="3519"/>
+	<Point x="1527" y="3522"/>
+	<Point x="1148" y="3519"/>
+	<Point x="1142" y="3487"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Journal de S:t Pétersbourg, medde-
+lar följande telegraſunderrättelser:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5707" type="paragraph">
+	<Coords>
+	<Point x="1235" y="3527"/>
+	<Point x="1964" y="3525"/>
+	<Point x="2105" y="3531"/>
+	<Point x="2105" y="3692"/>
+	<Point x="1566" y="3695"/>
+	<Point x="1149" y="3692"/>
+	<Point x="1144" y="3680"/>
+	<Point x="1143" y="3530"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Wien, 24 april. Man säger att aﬂidne ﬁ-
+nansministern baron von Bruck eſtertrades
+af hr von Plenner, medlem af riksrådet.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5839" type="paragraph">
+	<Coords>
+	<Point x="1146" y="3709"/>
+	<Point x="1211" y="3703"/>
+	<Point x="1395" y="3705"/>
+	<Point x="1775" y="3706"/>
+	<Point x="2106" y="3709"/>
+	<Point x="2111" y="4007"/>
+	<Point x="2106" y="4102"/>
+	<Point x="1164" y="4107"/>
+	<Point x="1140" y="4104"/>
+	<Point x="1141" y="4067"/>
+	<Point x="1141" y="3789"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>London, 24 april. Enligt Oſſice Reuter kom-
+mer konſerensen att hållas i Paris. Frank-
+rike invänder ej emot att Schweiz der re-
+presenteras, med vilkor att Piemont också
+blir det. Makterna skola representeras aſ
+sina ambassadörer eller befullmäktigade mi-
+nistrar i Paris.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6127" type="paragraph">
+	<Coords>
+	<Point x="1139" y="4116"/>
+	<Point x="2119" y="4116"/>
+	<Point x="2119" y="4294"/>
+	<Point x="1139" y="4294"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>På Fiankrikcs inrådan har konungen af
+Piemont för ögonblicket ifstått ifrån försla-
+get att antaga titel af konung af Italien.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6260" type="paragraph">
+	<Coords>
+	<Point x="1143" y="4304"/>
+	<Point x="1190" y="4299"/>
+	<Point x="1329" y="4300"/>
+	<Point x="1933" y="4298"/>
+	<Point x="2107" y="4304"/>
+	<Point x="2112" y="4344"/>
+	<Point x="2111" y="4786"/>
+	<Point x="1877" y="4800"/>
+	<Point x="1662" y="4807"/>
+	<Point x="1238" y="4822"/>
+	<Point x="1143" y="4819"/>
+	<Point x="1138" y="4431"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Iſrån Canton heter det af den 14 mars,
+att den insurrektionela rörelsen tilltar i Ki-
+na och att Japans ställning blir sämre.
+Fremlingarna hysa stor fruktan. Tvenne
+holländske kaptener hafva blifvit mördade.
+Från Schanghae skrifves af den 8, att fyra
+fartyg som gå uppſör floden Pe-Tscheli
+medſöra ett ultimatum till kinesiska rege-
+ringen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6621" type="paragraph">
+	<Coords>
+	<Point x="1151" y="4830"/>
+	<Point x="1190" y="4828"/>
+	<Point x="1643" y="4824"/>
+	<Point x="2101" y="4830"/>
+	<Point x="2108" y="4884"/>
+	<Point x="2101" y="4939"/>
+	<Point x="1151" y="4939"/>
+	<Point x="1147" y="4921"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Man skrifver från Calcutta aſ den 23 mars,
+att ryktet gick om oroligheter i Kabul.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6709" type="paragraph">
+	<Coords>
+	<Point x="1202" y="4951"/>
+	<Point x="1214" y="4945"/>
+	<Point x="1303" y="4944"/>
+	<Point x="2098" y="4951"/>
+	<Point x="2102" y="4983"/>
+	<Point x="2098" y="4999"/>
+	<Point x="1456" y="5004"/>
+	<Point x="1231" y="4998"/>
+	<Point x="1195" y="4988"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Paris, 25 april. En depesch från Cham-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6751" type="paragraph">
+	<Coords>
+	<Point x="3111" y="208"/>
+	<Point x="3131" y="212"/>
+	<Point x="3134" y="284"/>
+	<Point x="3130" y="344"/>
+	<Point x="2628" y="358"/>
+	<Point x="2378" y="388"/>
+	<Point x="2170" y="386"/>
+	<Point x="2163" y="327"/>
+	<Point x="2166" y="197"/>
+	<Point x="2370" y="206"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>bery af den 24 uppger voteringens resul-
+tat till 45,340 ja, 210 nej och 750, som af-
+hållit sig.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6855" type="paragraph">
+	<Coords>
+	<Point x="2171" y="395"/>
+	<Point x="3088" y="388"/>
+	<Point x="3145" y="390"/>
+	<Point x="3132" y="552"/>
+	<Point x="3129" y="688"/>
+	<Point x="2494" y="690"/>
+	<Point x="2413" y="690"/>
+	<Point x="2171" y="688"/>
+	<Point x="2163" y="627"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>En depesch från Neapel aſ den 21 april
+säger, att underrättelsen om en insurrektion
+i Trapani och i andra städer på Sicilien icke
+bekräftats, men att insurgenterna fortfaran-
+de förföljas på landsbygden.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7069" type="paragraph">
+	<Coords>
+	<Point x="2161" y="692"/>
+	<Point x="3144" y="692"/>
+	<Point x="3144" y="1223"/>
+	<Point x="2161" y="1223"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>London, 25. Frankrike har förelagt mak-
+terna programmet till den förestående kon-
+ferensen. Frankrike anser, att konferen-
+sens arbete bör inskränkas till en gransk-
+ning af art. 92 i slutakten i Wien rörande
+Chablais och Faucigny. Frankrike tilläg-
+ger, att det är beredt att fullgöra samma
+servituter, som genom denna artikel blefvo
+Piemont ålagda.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7439" type="paragraph">
+	<Coords>
+	<Point x="2167" y="1232"/>
+	<Point x="2350" y="1227"/>
+	<Point x="3024" y="1228"/>
+	<Point x="3129" y="1232"/>
+	<Point x="3136" y="1266"/>
+	<Point x="3129" y="1518"/>
+	<Point x="2363" y="1520"/>
+	<Point x="2173" y="1519"/>
+	<Point x="2161" y="1509"/>
+	<Point x="2163" y="1352"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I fall att makterna anse dessa servituter
+böra undergå modiﬁkationer, skall Frank-
+rike gå in på en kombination, som icke in-
+nebär en rubbning af förvärfvade rättighe-
+ter och ej eller en styckning af Savojen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7661" type="paragraph">
+	<Coords>
+	<Point x="2153" y="1523"/>
+	<Point x="3127" y="1523"/>
+	<Point x="3130" y="1744"/>
+	<Point x="3027" y="1750"/>
+	<Point x="2760" y="1749"/>
+	<Point x="2436" y="1754"/>
+	<Point x="2293" y="1755"/>
+	<Point x="2153" y="1763"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>London, 20 april. Baron Manderström,
+Sveriges utrikesminister besvarar i en de-
+pesch af den 27 mars hr Thouvenels de-
+pesch af den 13 mars.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7810" type="paragraph">
+	<Coords>
+	<Point x="2152" y="1768"/>
+	<Point x="2209" y="1763"/>
+	<Point x="2350" y="1759"/>
+	<Point x="3088" y="1756"/>
+	<Point x="3124" y="1762"/>
+	<Point x="3129" y="1807"/>
+	<Point x="3128" y="2427"/>
+	<Point x="2429" y="2456"/>
+	<Point x="2143" y="2454"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Baron Manderström hänvisar till franska
+regeringens högtidliga förklaringar, och hvil-
+ka äro stridande mot idéerna af områdes-
+förstoring, af nationaliteternas åperopande
+och af naturliga gränser. Han reserverar
+sig uttryckligen mot dessa principer, hvil-
+kas tillämpning ej kan rättfärdigas genom
+exceptionella omständigheter. Slutligen
+framhåller han enträget Schweiz' reklama-
+tioner, grundade på existerande traktater
+till förmån för de savojiska distrikternas
+neutralisation.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8315" type="paragraph">
+	<Coords>
+	<Point x="2153" y="2471"/>
+	<Point x="3013" y="2458"/>
+	<Point x="3098" y="2457"/>
+	<Point x="3123" y="2481"/>
+	<Point x="3116" y="2818"/>
+	<Point x="2794" y="2819"/>
+	<Point x="2723" y="2820"/>
+	<Point x="2537" y="2821"/>
+	<Point x="2166" y="2823"/>
+	<Point x="2153" y="2818"/>
+	<Point x="2145" y="2659"/>
+	<Point x="2144" y="2540"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>London, 27 april. Man påstår, att Öster-
+rike sedan februari månad föreslår Preus-
+sen en österrikisk-preussisk allians, grun-
+dad på ömsesidig garanti af de båda sta-
+ternas områden. Hittills har Preussen ej
+gått in på att åt Österrike garantera Venetien.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8584" type="paragraph">
+	<Coords>
+	<Point x="2157" y="2830"/>
+	<Point x="2204" y="2827"/>
+	<Point x="2296" y="2827"/>
+	<Point x="2847" y="2826"/>
+	<Point x="3117" y="2830"/>
+	<Point x="3123" y="2883"/>
+	<Point x="3117" y="3235"/>
+	<Point x="3021" y="3237"/>
+	<Point x="2692" y="3236"/>
+	<Point x="2157" y="3235"/>
+	<Point x="2152" y="2917"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Neapel, 26 april. Hopar af insurgenter
+församlade sig, förföljda af den beväpnade
+styrkan, i Carini, der de af de kungliga
+trupperna omringades och efter envist mot-
+stånd nedgjordes. De återstående under-
+kastade sig. Ordningen är återställd på
+Sicilien, och Neapel är fullkomligt lugnt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8887" type="paragraph">
+	<Coords>
+	<Point x="2163" y="3246"/>
+	<Point x="2228" y="3242"/>
+	<Point x="2690" y="3242"/>
+	<Point x="3019" y="3243"/>
+	<Point x="3122" y="3246"/>
+	<Point x="3125" y="3993"/>
+	<Point x="3122" y="4347"/>
+	<Point x="2253" y="4358"/>
+	<Point x="2163" y="4347"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Wien, 27 april. Finansministern baron
+Bruck har sjelf tagit lifvet af sig genom
+att afskära halsådrarna samt pulsådrorna
+på händerna. Enligt Wiener Zeitung lä-
+rer baronen hafva varit inblandad i Eynat
+tens aﬂär. Den 20 april blef baron Bruck
+kallad till vittne i målet, och då det var att
+förutse, det han skulle komma att ytterli-
+gare konfronteras med åtskilliga vittnen
+och anklagade, erhöll han en enskild biljet
+från kejsaren, hvari han skrifver: "På er
+begäran, försätter jag er i provisorisk non-
+activité, och uppdrar interimsledningen af
+ﬁnansministerium åt herr Plenner." Denna
+skrifvelse ankom till baron Bruck den 22
+om aftonen. Den 23 på morgonen fanns
+baron Bruck i sin säng badande i blod.
+Den 25 egde den legala undersökningen
+rum.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9676" type="heading">
+	<Coords>
+	<Point x="2208" y="4463"/>
+	<Point x="3112" y="4469"/>
+	<Point x="3117" y="4506"/>
+	<Point x="3112" y="4533"/>
+	<Point x="3003" y="4537"/>
+	<Point x="2167" y="4533"/>
+	<Point x="2155" y="4462"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>När bränsle börjar tryta.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9705" type="paragraph">
+	<Coords>
+	<Point x="2433" y="4575"/>
+	<Point x="2849" y="4575"/>
+	<Point x="2849" y="4641"/>
+	<Point x="2433" y="4641"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>(Forts. fr. föreg. n:o.)</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9732" type="paragraph">
+	<Coords>
+	<Point x="2158" y="4660"/>
+	<Point x="2211" y="4655"/>
+	<Point x="3110" y="4660"/>
+	<Point x="3118" y="4691"/>
+	<Point x="3116" y="5011"/>
+	<Point x="3104" y="5022"/>
+	<Point x="3078" y="5021"/>
+	<Point x="2330" y="5012"/>
+	<Point x="2158" y="5010"/>
+	<Point x="2149" y="4955"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Råtorfven är den sedan urminnes tider
+bekanta landtmannavaran, som, när lyx ej
+kommer i fråga, utgör hvardagsbränsle på
+slättbygden i Skåne, på danska öarne, i
+Jutland, och på hela den vida kärrsträcka,
+som långsåt Nordsjön bildar vestkusterna</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r9988">
+	<Coords>
+	<Point x="1145" y="3265"/>
+	<Point x="2098" y="3265"/>
+	<Point x="2098" y="3287"/>
+	<Point x="1145" y="3287"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r9989">
+	<Coords>
+	<Point x="2170" y="4388"/>
+	<Point x="2194" y="4385"/>
+	<Point x="3080" y="4388"/>
+	<Point x="3099" y="4387"/>
+	<Point x="3114" y="4403"/>
+	<Point x="3098" y="4421"/>
+	<Point x="3005" y="4418"/>
+	<Point x="2909" y="4420"/>
+	<Point x="2772" y="4420"/>
+	<Point x="2700" y="4421"/>
+	<Point x="2565" y="4416"/>
+	<Point x="2474" y="4413"/>
+	<Point x="2227" y="4409"/>
+	<Point x="2170" y="4406"/>
+	<Point x="2162" y="4395"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r9992">
+	<Coords>
+	<Point x="1115" y="157"/>
+	<Point x="1127" y="157"/>
+	<Point x="1131" y="356"/>
+	<Point x="1131" y="609"/>
+	<Point x="1125" y="1277"/>
+	<Point x="1117" y="2541"/>
+	<Point x="1122" y="4554"/>
+	<Point x="1127" y="4919"/>
+	<Point x="1111" y="4919"/>
+	<Point x="1105" y="4797"/>
+	<Point x="1104" y="4540"/>
+	<Point x="1107" y="3399"/>
+	<Point x="1101" y="2540"/>
+	<Point x="1110" y="1153"/>
+	<Point x="1116" y="625"/>
+	<Point x="1115" y="496"/>
+	<Point x="1115" y="380"/>
+	<Point x="1117" y="287"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r9995">
+	<Coords>
+	<Point x="2144" y="202"/>
+	<Point x="2145" y="1224"/>
+	<Point x="2139" y="1695"/>
+	<Point x="2134" y="2010"/>
+	<Point x="2125" y="2346"/>
+	<Point x="2124" y="2414"/>
+	<Point x="2135" y="3024"/>
+	<Point x="2135" y="3440"/>
+	<Point x="2140" y="4330"/>
+	<Point x="2138" y="4497"/>
+	<Point x="2135" y="4894"/>
+	<Point x="2136" y="4999"/>
+	<Point x="2115" y="4998"/>
+	<Point x="2123" y="4324"/>
+	<Point x="2121" y="3574"/>
+	<Point x="2118" y="3022"/>
+	<Point x="2110" y="2486"/>
+	<Point x="2111" y="2267"/>
+	<Point x="2113" y="2083"/>
+	<Point x="2120" y="1706"/>
+	<Point x="2125" y="391"/>
+	<Point x="2129" y="207"/></Coords></SeparatorRegion></Page></PcGts>

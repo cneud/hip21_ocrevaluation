@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd" pcGtsId="pc-00762251">
+	<Metadata>
+	<Creator>FineReader Engine 10</Creator>
+	<Created>2013-10-14T22:45:57</Created>
+	<LastChange>2014-07-03T08:23:19</LastChange>
+	<Comments>Recognition and export settings:
+
+  Recognition language(s): Polish
+  Font class: normal
+  Orig-outlines: false
+  Orig-text: false
+  Orig-drop-caps: false
+  Reading order: false
+    Exclude: [default]
+  Layers: false
+  To remove: background-images
+
+Conversion and export:
+
+  Ignored 2 regions that have no coordinates (ghost regions)
+</Comments></Metadata>
+	<Page imageFilename="00762251.tif" imageWidth="3875" imageHeight="5689">
+	<ReadingOrder>
+	<UnorderedGroup id="ro357564684568544579089">
+	<UnorderedGroup id="r87">
+	<RegionRef regionRef="r27"/>
+	<RegionRef regionRef="r115"/>
+	<RegionRef regionRef="r44"/>
+	<RegionRef regionRef="r116"/>
+	<RegionRef regionRef="r71"/>
+	<RegionRef regionRef="r117"/>
+	<RegionRef regionRef="r114"/></UnorderedGroup>
+	<OrderedGroup id="r89">
+	<RegionRefIndexed regionRef="r119" index="0"/>
+	<RegionRefIndexed regionRef="r82" index="1"/>
+	<RegionRefIndexed regionRef="r86" index="2"/>
+	<RegionRefIndexed regionRef="r88" index="3"/>
+	<RegionRefIndexed regionRef="r120" index="4"/>
+	<RegionRefIndexed regionRef="r1313" index="5"/>
+	<RegionRefIndexed regionRef="r1442" index="6"/>
+	<RegionRefIndexed regionRef="r1611" index="7"/>
+	<RegionRefIndexed regionRef="r1813" index="8"/>
+	<RegionRefIndexed regionRef="r121" index="9"/>
+	<RegionRefIndexed regionRef="r2063" index="10"/></OrderedGroup>
+	<OrderedGroup id="r90">
+	<RegionRefIndexed regionRef="r122" index="0"/>
+	<RegionRefIndexed regionRef="r2478" index="1"/>
+	<RegionRefIndexed regionRef="r2984" index="2"/>
+	<RegionRefIndexed regionRef="r3375" index="3"/>
+	<RegionRefIndexed regionRef="r5779" index="4"/>
+	<RegionRefIndexed regionRef="r5902" index="5"/>
+	<RegionRefIndexed regionRef="r6031" index="6"/>
+	<RegionRefIndexed regionRef="r6054" index="7"/></OrderedGroup>
+	<OrderedGroup id="r91">
+	<RegionRefIndexed regionRef="r6546" index="0"/>
+	<RegionRefIndexed regionRef="r6571" index="1"/>
+	<RegionRefIndexed regionRef="r6887" index="2"/>
+	<RegionRefIndexed regionRef="r7119" index="3"/></OrderedGroup>
+	<OrderedGroup id="r92">
+	<RegionRefIndexed regionRef="r7440" index="0"/>
+	<RegionRefIndexed regionRef="r7455" index="1"/>
+	<RegionRefIndexed regionRef="r7814" index="2"/>
+	<RegionRefIndexed regionRef="r8122" index="3"/></OrderedGroup>
+	<OrderedGroup id="r93">
+	<RegionRefIndexed regionRef="r123" index="0"/>
+	<RegionRefIndexed regionRef="r128" index="1"/>
+	<RegionRefIndexed regionRef="r130" index="2"/>
+	<RegionRefIndexed regionRef="r133" index="3"/>
+	<RegionRefIndexed regionRef="r3825" index="4"/>
+	<RegionRefIndexed regionRef="r134" index="5"/>
+	<RegionRefIndexed regionRef="r4104" index="6"/>
+	<RegionRefIndexed regionRef="r4209" index="7"/>
+	<RegionRefIndexed regionRef="r4272" index="8"/>
+	<RegionRefIndexed regionRef="r4300" index="9"/>
+	<RegionRefIndexed regionRef="r4318" index="10"/>
+	<RegionRefIndexed regionRef="r4359" index="11"/>
+	<RegionRefIndexed regionRef="r4388" index="12"/>
+	<RegionRefIndexed regionRef="r4447" index="13"/>
+	<RegionRefIndexed regionRef="r4478" index="14"/>
+	<RegionRefIndexed regionRef="r4490" index="15"/>
+	<RegionRefIndexed regionRef="r4504" index="16"/>
+	<RegionRefIndexed regionRef="r4670" index="17"/>
+	<RegionRefIndexed regionRef="r4970" index="18"/>
+	<RegionRefIndexed regionRef="r5100" index="19"/></OrderedGroup></UnorderedGroup></ReadingOrder>
+	<TextRegion id="r27" type="heading">
+	<Coords points="202,446 238,438 463,442 810,446 823,537 801,555 643,575 199,553 184,477"/>
+	<TextEquiv>
+	<Unicode>Cena 10 ģr.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r44" type="paragraph">
+	<Coords points="2896,434 2920,433 3213,426 3469,430 3523,520 3507,537 3484,538 3446,538 3372,560 2892,545 2879,478"/>
+	<TextEquiv>
+	<Unicode>Cena 10 ģr.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r71" type="paragraph">
+	<Coords points="194,1133 425,1135 468,1142 476,1203 468,1214 465,1220 192,1222 188,1176"/>
+	<TextEquiv>
+	<Unicode>Rok I.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r114" type="paragraph">
+	<Coords points="3288,1130 3476,1121 3508,1130 3510,1147 3515,1163 3530,1189 3518,1207 3373,1212 3306,1215 3284,1203 3279,1170"/>
+	<TextEquiv>
+	<Unicode>Nr. I.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1313" type="paragraph">
+	<Coords points="982,2611 1000,2625 1003,2640 1005,2678 980,2685 967,2681 972,2717 947,2719 917,2718 917,2719 673,2719 673,2720 671,2720 671,2719 555,2719 555,2720 525,2720 525,2721 476,2721 476,2722 475,2722 475,2723 460,2723 460,2724 404,2724 404,2725 403,2725 403,2726 399,2726 399,2722 247,2722 247,2723 233,2723 233,2722 228,2722 228,2721 203,2722 200,2722 193,2703 195,2623 196,2614 291,2614 373,2613 436,2616 438,2613 575,2613 671,2616 799,2611 922,2612"/>
+	<TextEquiv>
+	<Unicode>A więc Fslądz biskup Rospond, Kapitała
+z ks. inf. Podwinem na czele, księża pro-
+boszczowie, zgromadzenia zakonne. i t. d.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1442" type="paragraph">
+	<Coords points="671,2722 677,2723 889,2723 975,2724 975,2732 992,2732 992,2733 996,2733 996,2734 997,2734 997,2736 998,2736 998,2745 1001,2745 1001,2768 1002,2768 1002,2858 1001,2858 1001,2859 999,2859 999,2860 983,2860 983,2861 980,2861 980,2863 979,2863 979,2864 975,2864 975,2863 933,2863 933,2862 931,2862 931,2860 771,2860 771,2861 770,2861 770,2862 665,2862 665,2864 663,2864 663,2865 659,2865 659,2866 658,2866 658,2864 656,2864 656,2862 547,2862 547,2865 546,2865 546,2866 544,2866 542,2864 423,2861 423,2862 298,2862 298,2864 295,2864 295,2865 294,2865 294,2867 286,2867 286,2868 283,2868 283,2866 198,2867 191,2864 191,2861 193,2852 194,2776 194,2770 232,2769 228,2753 229,2725 381,2725 399,2727 399,2731 397,2735 448,2725 515,2732 515,2725 517,2723 519,2725 559,2725 559,2731 665,2731 666,2724"/>
+	<TextEquiv>
+	<Unicode>Pozostali również przedstawiciele świata
+nauki. Nazwiska wielu z nich czytelnicy
+znajdą wśród podpisów pod odezwą zawią-
+zanego Komitetu pomocy ofiarom wojny.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1611" type="paragraph">
+	<Coords points="357,2865 358,2865 362,2866 362,2868 478,2867 481,2867 482,2869 482,2875 595,2875 595,2867 603,2867 603,2868 730,2868 730,2867 734,2867 734,2869 735,2869 735,2871 776,2871 776,2872 777,2872 777,2873 915,2873 915,2866 916,2866 916,2865 923,2865 923,2866 925,2866 925,2868 927,2868 927,2869 928,2869 928,2872 929,2872 929,2874 999,2874 999,2875 1000,2875 1000,2909 1002,2909 1002,2911 1003,2911 1003,2912 1002,2912 1002,2961 1001,2961 1001,2992 1000,2992 1000,2993 988,2993 988,3000 933,3000 933,3001 890,3001 890,3005 887,3005 887,3006 810,3006 810,3036 809,3036 809,3037 807,3037 807,3038 759,3038 759,3041 752,3041 752,3042 750,3042 750,3041 585,3041 585,3042 583,3042 583,3043 580,3043 580,3042 578,3042 578,3041 577,3041 577,3039 392,3039 392,3040 388,3040 388,3042 385,3042 385,3043 383,3043 383,3041 382,3041 382,3040 287,3042 231,3040 231,3041 230,3041 230,3040 197,3044 193,3035 194,2953 194,2903 202,2900 228,2899 228,2896 231,2868 236,2869 249,2869 249,2867 282,2867 282,2869 287,2869 287,2868 295,2868 295,2866"/>
+	<TextEquiv>
+	<Unicode>Wypadki wojenne, które się rozegrały w
+Krakowie, rozprzęgły życie społeczne w
+naszem mieście. Każdy dom stanowi dla
+siebie jakby odrębny świat. To się powin-
+no skończyć. Musimy się skupić.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1813" type="paragraph">
+	<Coords points="965,3035 995,3050 1006,3063 992,3077 965,3073 908,3113 896,3111 853,3116 793,3116 725,3117 713,3116 526,3109 526,3111 525,3111 525,3112 524,3112 524,3113 523,3113 523,3114 517,3114 517,3113 516,3113 516,3110 413,3110 413,3113 412,3113 412,3115 402,3115 402,3114 307,3116 195,3114 194,3097 197,3084 233,3085 220,3062 233,3047 240,3047 240,3046 251,3046 251,3047 255,3047 255,3048 256,3048 256,3049 257,3049 257,3050 259,3050 259,3052 260,3052 260,3054 397,3054 397,3046 398,3046 398,3045 434,3045 434,3044 579,3044 579,3043 579,3044 584,3044 584,3043 586,3043 586,3042 586,3044 707,3044 707,3043 809,3043 809,3042 886,3035"/>
+	<TextEquiv>
+	<Unicode>Dwa są dziś ośrodki, około których win-
+no się skupiać życie naszego miasta:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2063" type="paragraph">
+	<Coords points="230,3398 226,3388 235,3369 278,3363 401,3368 893,3363 980,3361 1002,3368 1006,3395 996,3407 790,3414 712,3415 703,3440 199,3444 194,3431 199,3408 224,3410"/>
+	<TextEquiv>
+	<Unicode>Obydwa te czynniki działają w najściślej-
+szem z sobą porozumieniu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2360" type="caption">
+	<Coords points="1525,3537 1525,3509 1584,3507 1930,3505 2182,3505 2207,3529 2260,3551 2272,3565 2269,3587 2227,3588 1518,3597 1464,3587 1457,3566 1469,3543"/>
+	<TextEquiv>
+	<Unicode>Kslążę Metropolita Adam Sapleha
+objął prezesurę Komitetu Obywatelskiego.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2478" type="paragraph">
+	<Coords points="222,3800 225,3762 1007,3756 1012,4392 837,4416 769,4402 728,4445 196,4452 183,4452 183,3828 190,3813"/>
+	<TextEquiv>
+	<Unicode>W dniu 4 bm. zebrało się w Pałacu
+Biskupim na zaproszenie Ks. Metropo-
+lity grono wybitnych osobistości mia-
+sta dla naradzenia się nad sposobami
+ulżenia doli ludności, dotkniętej klęską
+wojny. Na posiedzeniu 4 bm. o godz.
+12 postanowiono stworzyć Obywatel-
+ski Komitet Pomocy. Na następnem
+posiedzeniu tegoż dnia o godz. 7 wie-
+czorem nastąpiło ukonstytuowanie się
+Komitetu, uchwalenie odezwy do oby-
+wateli i ustalenie kilku sekcyj, które
+przy Komitecie powstają.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2984" type="paragraph">
+	<Coords points="228,4496 233,4464 253,4455 1010,4455 1013,4976 495,4984 368,4977 353,5023 201,5023 194,4908 188,4520 213,4495"/>
+	<TextEquiv>
+	<Unicode>Prezesurę Obywatelskiego Komitetu
+Pomocy objął Książę Metropolita Sa-
+pieha, który też osobiście przewodni-
+dniczy posiedzeniom i kieruje pracami.
+Wiceprezesem jest prof. Kutrzeba.
+Prezesurę Komitetu Wykonawczego
+objął prof. U. J., dr L. Piotrowicz,
+funkcje skarbnika p. R. Jędrzejowski
+dyr. Banku Związku Spółek Zarobko-
+wych, a sekretarjat ks. dyr. G. Lubo-
+wiecki.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3375" type="paragraph">
+	<Coords points="210,5034 1014,5034 1014,5340 209,5352 198,5146"/>
+	<TextEquiv>
+	<Unicode>Komitet powołał do życia następu-
+jące sekcje: propagandowo-prasową,
+charytatywną, finansową i gospodar-
+czą. Nadto postanowiono zorganizo-
+wać Straż Obwatelską dla pracy w
+zak�sie bezpieczeństwa publicznego.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3825" type="paragraph">
+	<Coords points="2744,1901 2759,1884 2752,1860 2765,1844 2888,1844 2950,1854 3022,1843 3402,1842 3494,1834 3536,1849 3542,1870 3542,2153 3367,2158 3342,2203 2886,2216 2722,2210 2720,1904"/>
+	<TextEquiv>
+	<Unicode>Prosimy gorąco wszystkich obywa-
+tell, by w zrozumieniu powagi chwili
+popierali każdy wedle swoje możności
+prace Komitetu. Apelujemy równocze-
+śnie o poparcie akcji Straży Obywatel-
+skiej, mającej czuwać nad bezpieczeń-
+stwem publicznem w mieście.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4104" type="paragraph">
+	<Coords points="2806,2314 3360,2314 3537,2321 3546,2408 3536,2426 3509,2419 3324,2427 3336,2462 3319,2474 3038,2476 2740,2472 2721,2457 2728,2420 2722,2367 2761,2370 2760,2310"/>
+	<TextEquiv>
+	<Unicode>Z wiarą w Opatrzność podajmy so-
+bie dłonie do wspólnej pracy w Imią
+miłości bliźniego i Ojczyzny.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4209" type="paragraph">
+	<Coords points="2767,2508 2818,2501 3381,2500 3471,2512 3476,2536 3471,2626 3425,2632 3058,2634 2802,2624 2776,2572"/>
+	<TextEquiv>
+	<Unicode>W Krakowie, 5 września 1939 r.
+Komitet Obywatelski Pomocy:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4272" type="paragraph">
+	<Coords points="2837,2647 3384,2647 3424,2654 3424,2697 2845,2697 2842,2681"/>
+	<TextEquiv>
+	<Unicode>Książę Arcybiskup Sapieha</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4300" type="paragraph">
+	<Coords points="2993,2707 3289,2707 3289,2742 2994,2748 2987,2733"/>
+	<TextEquiv>
+	<Unicode>przewodniczący,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4318" type="paragraph">
+	<Coords points="2730,2763 3443,2758 3518,2761 3538,2767 3538,2813 2734,2813 2728,2780"/>
+	<TextEquiv>
+	<Unicode>Prof. dr Stan. Kutrzeba, prezes Ak. U.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4359" type="paragraph">
+	<Coords points="2882,2823 3395,2823 3395,2860 2882,2860"/>
+	<TextEquiv>
+	<Unicode>zastępca przewodniczącego,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4388" type="paragraph">
+	<Coords points="2771,2868 3470,2866 3496,2876 3502,2915 3372,2917 3345,2964 3331,2968 2962,2966 2950,2959 2940,2925 2854,2919 2835,2926 2812,2923 2769,2912"/>
+	<TextEquiv>
+	<Unicode>Dr Ludwik Piotrowicz, prof. U. J.
+sekretarz generalny,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4447" type="paragraph">
+	<Coords points="2816,2974 3432,2976 3452,2978 3458,2998 3451,3026 2862,3030 2821,3026 2810,2996"/>
+	<TextEquiv>
+	<Unicode>Dyrektor Rudolf Jędrzejowski</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4478" type="paragraph">
+	<Coords points="3053,3034 3226,3034 3232,3061 3226,3071 3218,3077 3048,3073 3046,3058"/>
+	<TextEquiv>
+	<Unicode>skarbnik,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4490" type="heading">
+	<Coords points="2979,3094 3007,3092 3244,3092 3272,3096 3293,3099 3300,3118 3290,3135 3255,3136 2988,3134 2979,3124"/>
+	<TextEquiv>
+	<Unicode>CZŁONKOWIE:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4504" type="paragraph">
+	<Coords points="2852,3145 2908,3148 3189,3147 3301,3148 3409,3147 3512,3149 3541,3157 3542,3162 3543,3162 3543,3164 3544,3164 3544,3285 3545,3285 3545,3290 3544,3290 3544,3292 3543,3292 3543,3293 3538,3293 3538,3292 3537,3292 3537,3290 3403,3290 3403,3289 3155,3289 3155,3290 3154,3290 3154,3292 3151,3292 3151,3293 3149,3293 3149,3294 3148,3294 3148,3290 2963,3290 2963,3294 2936,3294 2925,3298 2924,3292 2920,3288 2822,3289 2822,3288 2733,3288 2729,3216 2729,3185 2753,3178 2772,3188 2762,3157 2773,3146"/>
+	<TextEquiv>
+	<Unicode>Inż. Władysław Bieniarz, Dr Wincenty
+Bogdanowski, ławnik miejski, Dr Ignacy
+Chrzanowski, prof. U. J., Dr Stanisław
+Estreicher, prof. U. J., Dr Emil Godlewski,</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4670" type="paragraph">
+	<Coords points="2800,3292 2909,3292 2918,3294 2926,3305 2951,3296 2968,3295 2973,3295 3214,3296 3214,3295 3220,3295 3220,3296 3360,3296 3360,3297 3383,3297 3383,3298 3439,3298 3439,3305 3545,3305 3545,3323 3546,3323 3546,3352 3545,3352 3545,3454 3546,3454 3546,3536 3545,3536 3545,3537 3519,3537 3519,3538 3430,3538 3430,3537 3303,3537 3303,3538 3302,3538 3302,3539 3301,3539 3301,3540 3300,3540 3300,3541 3299,3541 3299,3542 3296,3542 3296,3538 3104,3538 3104,3541 3103,3541 3103,3542 3064,3542 3064,3537 2731,3538 2731,3496 2730,3443 2730,3312 2731,3302 2733,3300"/>
+	<TextEquiv>
+	<Unicode>prof. U. J., Eugenjusz Jakubowski, starszy.
+Krak. Kongr. Kup., Hanna Kaplicka, Zy-
+gmunt Klemensiewicz, dyr. Ubezp. Śpoł.,
+Dr Stanisław Klimecki, wiceprez. m. Kra-
+kowa, Jadwiga Konopczyńska, Dr Włady-
+sław Konopczyński, prof. U. J., Dr Kazi-
+mierz Kostanecki, prof. U. J., Dr Tadeusz</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4970" type="paragraph">
+	<Coords points="2901,3543 2907,3542 3010,3546 3010,3545 3011,3545 3011,3544 3013,3544 3013,3543 3226,3543 3226,3544 3227,3544 3227,3545 3286,3545 3286,3548 3287,3548 3287,3549 3288,3549 3288,3553 3404,3551 3473,3553 3469,3542 3526,3543 3537,3542 3539,3560 3551,3562 3551,3642 3546,3645 3541,3647 3394,3645 3394,3646 3393,3646 3392,3647 3392,3648 3391,3648 3391,3649 3389,3651 3386,3651 3382,3647 3384,3645 3233,3645 3232,3646 3233,3650 3221,3648 3144,3645 3129,3629 3123,3649 2986,3644 2986,3643 2854,3644 2853,3646 2852,3651 2736,3643 2731,3644 2731,3607 2734,3555 2733,3546 2737,3542 2760,3541"/>
+	<TextEquiv>
+	<Unicode>Kowalski, prof. U. J., sekretarz gen. Pol.
+Akademji Umiejętności, Dr Edward Ku-
+balski, Stefan Kuhn, wiceprez. Izby Handl.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5100" type="paragraph">
+	<Coords points="2732,3647 2743,3647 2748,3649 2758,3649 2761,3654 2888,3657 2892,3647 2906,3648 2973,3648 2987,3647 2986,3655 3115,3651 3121,3651 3151,3647 3233,3653 3254,3647 3337,3648 3343,3649 3372,3650 3383,3658 3398,3647 3422,3650 3422,3651 3467,3648 3466,3658 3544,3654 3549,3666 3550,3699 3551,3832 3548,4060 3550,4105 3550,4201 3546,4215 3353,4210 3293,4209 3148,4213 3141,4215 3105,4213 2743,4211 2732,4208 2731,4164 2731,3861 2732,3796 2731,3652"/>
+	<TextEquiv>
+	<Unicode>Przem., Dr Zygmunt Lasocki, Dr Tadeusz
+Lehr-Spławiński, rektor U. J., Ks. dyrektor
+Edward Lubowiecki, Róża Łubieńska, Dr
+Franciszek Macharski, Dr Tadeusz Miksie-
+wicz, adwokat, Dr Ludwik Ocetkiewicz,
+adwokat, Dr Aleksander Oszacki, prof.
+U. J., Ks. Dr Jan Piwowarczyk, Stanisław
+Plappert, wicedyr. Ubezp. Społ., Franci-
+szek Potocki, b. dyr. dep. Min. W. R. i 0. P.,
+Zofja Rogozińska, Dr Feliks Rogoziński,
+prof. U. J., Rudolf Rosiński, Ks. Biskup
+Stanisław Rospond, Dr Józef Skąpski,
+adwokat. Dr Tadeusz Surzycki, radny,
+miejski, Dr Władysław Szafer, prof. U. J.,
+Jan Szwaja, dyrektor K. K. O. pow. krak.
+Czesław Żułkiewicz, prezes Okr. P. C. K.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5779" type="paragraph">
+	<Coords points="1062,4426 1072,4423 1093,4372 1247,4372 1850,4379 1852,4469 1850,4532 1470,4545 1292,4530 1298,4570 1285,4576 1262,4585 1043,4582 1039,4475 1036,4443 1049,4431"/>
+	<TextEquiv>
+	<Unicode>Komitet pracuje nad umożliwieniem
+miastu powrotu do normalnych wa-
+runków, m. in. by można było otwo-
+rzyć sklepy.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5902" type="paragraph">
+	<Coords points="1043,4591 1103,4591 1312,4587 1822,4591 1850,4591 1855,4731 1830,4745 1577,4748 1317,4744 1316,4785 1229,4795 1043,4784 1036,4745"/>
+	<TextEquiv>
+	<Unicode>Wszystkich chętnych zapraszamy do
+pracy w sekcjach Komitetu. Zgłaszać
+się należy w biurach Magistratu, pa-
+łac Larischa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6031" type="heading">
+	<Coords points="1136,4838 1390,4839 1410,4846 1588,4845 1747,4860 1764,4885 1758,4901 1283,4907 1139,4901 1127,4864"/>
+	<TextEquiv>
+	<Unicode>Sekcja charytatywna.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6054" type="paragraph">
+	<Coords points="1077,4958 1075,4918 1855,4923 1861,5220 1855,5321 1120,5320 1106,5355 1060,5354 1046,5346 1042,5091 1044,4965 1053,4958"/>
+	<TextEquiv>
+	<Unicode>W dniu dzisiejszym ukonstytuowała się
+sekcja charytatywna przy Obywatelskim
+Komitecie Pomocy pod przewodnictwem
+prof. U. J., dr E. Godlewskiego. Sekcja ob
+bradowała w godzinach południowych pod
+przewodnictwem b. min. Lasockiego. Po u-
+konstytuowaniu się, ustalono sposoby roz-
+toczenia opieki nad szpitalami w Krako-
+wie; ta bowiem sprawa wymaga natych-
+miastowego rozwązania. Dziś o godz. 6 wie-
+czorem odbędzie się drugie posiedzenie sek-
+cji.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6546" type="paragraph">
+	<Coords points="1926,4388 1971,4388 1995,4395 2062,4392 2183,4385 2578,4382 2642,4396 2670,4421 2651,4437 2512,4448 1984,4450 1961,4445 1926,4445 1918,4430"/>
+	<TextEquiv>
+	<Unicode>Zgromadzenie na Rynku.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6571" type="paragraph">
+	<Coords points="1887,4467 1930,4462 2671,4461 2700,4467 2703,4625 2700,4715 2486,4720 2399,4718 2297,4716 2267,4742 2250,4749 1887,4749 1882,4559"/>
+	<TextEquiv>
+	<Unicode>Działalność, która będzie organizowała
+życie miasta Krakowa w nowych warun-
+kach, rozpoczęła sie dzisiaj, we wtorek, o
+godz. 9-tej zrana odbyciem na Rynku Gł.
+zgromadzenia, na które prżybyli poważni
+przedstawiciele wszystkich sfer społeczeń-
+stwa krakowskiego i członkowie Obywa-
+telskiego Komitetu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7119" type="paragraph">
+	<Coords points="1922,5108 1913,5059 2475,5059 2701,5067 2702,5317 2671,5320 2555,5310 2546,5349 2492,5355 1891,5349 1887,5224 1890,5102"/>
+	<TextEquiv>
+	<Unicode>Przemówień tych wysłuchały tłumy z
+uwagą i wzruszeniem. Wszystkie przemó-
+wienia wzywały Krakowian do zgromadze-
+nia się około Komitetu i współdziałania
+z nim, wobec naglącej potrzeby skupienia
+sie wszystkich żywiołów pragnących u-
+trzymania porządku i spokoju w mieście
+� wego ładu społecznego.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7440" type="paragraph">
+	<Coords points="2737,4380 3220,4380 3362,4388 3506,4421 3550,4463 3553,4487 3542,4502 3536,4510 2740,4502 2733,4452"/>
+	<TextEquiv>
+	<Unicode>Stan miasta.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7455" type="paragraph">
+	<Coords points="2734,4529 2768,4517 3546,4529 3554,4583 3548,4820 3363,4825 3266,4820 3152,4816 3154,4848 2734,4848 2728,4798 2729,4585"/>
+	<TextEquiv>
+	<Unicode>Wygląd Krakowa zarówno jak stan mia-
+sta, rzecz naturalna zmienia się w osta-
+tnich dniach niemal z godziny na godzinę.
+Jest to wynikiem w pierwszym rzędzie o-
+czywiście zdarzeń wojennych. Jednakże za-
+razem jest to naszą własną sprawą. Zacho-
+wanie się samej ludności Krakowa jest
+drugim równie ważnym czynnikiem, który
+powoduje te zmiany.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7814" type="paragraph">
+	<Coords points="2762,4888 2764,4863 2773,4851 3547,4855 3551,5110 3415,5111 3280,5105 3147,5109 3117,5104 3080,5102 3056,5110 3050,5133 3036,5139 2966,5136 2956,5128 2944,5138 2812,5134 2730,5133 2733,4897"/>
+	<TextEquiv>
+	<Unicode>Co jest wynikiem działań wojennych —
+wiemy. Zniszczone domy uszkodzone świą-
+tynie (kościół św. Florjana — kaplica) itd.
+Ruiny domów, wyrwy na ulicach od
+bomb — mają swoją wymowę. Należy za-
+znaczyć, o czem zresztą wszyscy wiemy, że
+zniszczenie to dotknęło miasto w pobliżu
+stacji kolejowej.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8122" type="paragraph">
+	<Coords points="3545,5138 3545,5360 3516,5363 2756,5349 2743,5348 2731,5330 2733,5235 2735,5177 2747,5176 2766,5168 2764,5156 2767,5138 2778,5136 2842,5138 2934,5146 2941,5146 2950,5135 2960,5147 2967,5145 3040,5144 3126,5136 3320,5133"/>
+	<TextEquiv>
+	<Unicode>Jakie zmiany zaszły z powodu zachowa-
+nia się ludności? Zmiany spowodowane nie-
+potrzebną zupełnie paniką, objawiana przez
+część mieszkańców i wynikające stąd za-
+mieszanie. To zamieszanie musimy opano-
+wać, — opanować wszyscy wspólnym wy-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r115" type="paragraph">
+	<Coords points="885,415 866,476 866,557 890,627 960,669 2138,668 2832,654 2843,627 2814,526 2744,321 2086,349 1395,355 1106,347 946,357"/>
+	<TextEquiv>
+	<Unicode>GAZETA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r116" type="paragraph">
+	<Coords points="193,712 182,730 192,996 192,1017 206,1036 2560,1023 3191,1020 3515,1012 3528,992 3450,703 3238,705 2107,716 1364,716 1201,724 325,710"/>
+	<TextEquiv>
+	<Unicode>KRAKOWSKA</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r117" type="paragraph">
+	<Coords points="1082,1138 1084,1202 1089,1224 1383,1220 1402,1215 1423,1234 1448,1233 1467,1228 1470,1201 1533,1219 2667,1216 2684,1189 2653,1153 2633,1130 2096,1132 1502,1135 1100,1132"/>
+	<TextEquiv>
+	<Unicode>Kraków, wtorek 5 września 1939.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r119" type="paragraph">
+	<Coords points="341,1344 267,1336 237,1355 218,1380 216,1397 212,1424 232,1467 308,1460 852,1484 953,1455 984,1384 975,1353 444,1353"/>
+	<TextEquiv>
+	<Unicode>Od Redakcji!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r120" type="paragraph">
+	<Coords points="265,2510 264,2543 283,2556 445,2552 446,2593 785,2595 807,2591 811,2554 830,2550 853,2556 914,2553 935,2545 922,2512 916,2508 361,2506"/>
+	<TextEquiv>
+	<Unicode>duchowleñstwd z ks. metropolitą
+Sapiehą na czele.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r121" type="paragraph">
+	<Coords points="236,3202 230,3226 256,3231 275,3251 269,3300 310,3311 323,3321 328,3348 401,3353 799,3352 873,3341 877,3313 929,3303 941,3219 971,3210 966,3128 260,3125 245,3166 233,3190"/>
+	<TextEquiv>
+	<Unicode>Prezydjum miasta, którem kleruje
+p. wiceprezydent Kilmecki, I świeżo
+zawiązany Obywatelski Komitet
+Pomocy, na którego czele stanął
+książę metropolita Sapieha.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r122" type="paragraph">
+	<Coords points="366,3633 377,3621 420,3598 743,3610 770,3610 772,3680 822,3678 965,3694 970,3740 239,3749 235,3694 255,3649"/>
+	<TextEquiv>
+	<Unicode>Dzlałalność
+Obyw. komitetu Pomocy.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r123" type="paragraph">
+	<Coords points="1122,1362 1057,1373 1041,1430 1041,1511 1088,1530 1416,1560 1487,1556 1636,1534 1720,1522 1748,1531 2223,1536 2318,1419 2346,1525 2388,1540 2858,1520 3530,1522 3520,1482 3537,1470 3546,1388 3524,1358 3496,1353 3492,1348 3468,1361 3150,1402 2911,1358 2896,1361 2851,1356 2754,1363 2520,1349 2078,1353 2042,1362 2036,1389 1941,1379 1871,1356 1824,1361 1808,1408 1784,1396 1372,1416 1300,1354"/>
+	<TextEquiv>
+	<Unicode>Obywatele Krakowa?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r128" type="paragraph">
+	<Coords points="1081,1584 1037,1639 1034,1692 1034,1740 1058,1746 1818,1751 1845,1741 1847,1645 1845,1609 1835,1587"/>
+	<TextEquiv>
+	<Unicode>Miasto nasze na skutek działan wo-
+Jennych znalazto się w ciężkiej sytua-
+cji. Dla ulżenia doli ludoścl, zwłaszcza</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r130" type="paragraph">
+	<Coords points="1869,1596 1871,1708 1909,1714 2624,1695 2667,1650 2679,1640 2680,1596 2544,1582"/>
+	<TextEquiv>
+	<Unicode>ofiar wojny, powstaje w najśclejszem
+porozumieniu z Prezydjum Miasta</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r132" type="caption">
+	<Coords points="1043,4129 1043,4217 2671,4214 2667,4187 2647,4167 2642,4167 2406,4174 1877,4168 1842,4133 1774,4140 1136,4135"/>
+	<TextEquiv>
+	<Unicode>Prezes P. Akad. Um. prof. dr. S� K�ka.
+zastępca prezesa Komitetu Obywatelsklego. Prezydent miasta dr. Stanisław Klimecki.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r133" type="paragraph">
+	<Coords points="2900,1662 2975,1690 2728,1738 2718,1749 2718,1787 2722,1788 2859,1778 2939,1829 3294,1836 3324,1820 3316,1781 3470,1789 3532,1776 3546,1765 3542,1720 3395,1669 3441,1643 3462,1576 3344,1578 2808,1583 2806,1647"/>
+	<TextEquiv>
+	<Unicode>Obywatelski Komitet
+Pomocy
+z sledzibą w Pałacu Larischa (piac
+WW. Świętych 6).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r134" type="paragraph">
+	<Coords points="2973,2237 2961,2282 2976,2307 3050,2305 3271,2299 3300,2298 3307,2249 3287,2229 3104,2245"/>
+	<TextEquiv>
+	<Unicode>Obywatele!</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r58">
+	<Coords points="205,342 191,364 203,375 813,382 811,349"/></SeparatorRegion>
+	<SeparatorRegion id="r59">
+	<Coords points="196,632 186,653 195,663 811,669 815,676 815,638"/></SeparatorRegion>
+	<SeparatorRegion id="r60">
+	<Coords points="2886,621 2880,638 2886,655 3517,650 3519,621 3504,615"/></SeparatorRegion>
+	<SeparatorRegion id="r61">
+	<Coords points="194,1081 189,1092 197,1104 192,1113 197,1122 207,1118 554,1121 1069,1122 1526,1121 2154,1115 2646,1111 3520,1107 3518,1071 2645,1084 1524,1085 1084,1091"/></SeparatorRegion>
+	<SeparatorRegion id="r62">
+	<Coords points="194,1240 194,1277 320,1280 1339,1275 1993,1274 2840,1272 3500,1267 3524,1261 3510,1227 2861,1235 1384,1243"/></SeparatorRegion>
+	<SeparatorRegion id="r63">
+	<Coords points="1010,1360 1018,4090 1020,4188 1021,5032 1024,5323 1037,5322 1036,5310 1033,5033 1034,4848 1030,4682 1033,3478 1030,3230 1026,3004 1026,2987 1024,2605 1026,1948 1027,1605 1026,1529 1027,1398 1028,1360"/></SeparatorRegion>
+	<SeparatorRegion id="r64">
+	<Coords points="2713,4337 2713,5333 2721,5332 2720,4726 2719,4536 2722,4335"/></SeparatorRegion>
+	<SeparatorRegion id="r65">
+	<Coords points="1864,4333 1865,4348 1864,4461 1871,5306 1877,5308 1876,5000 1875,4727 1873,4587 1873,4445 1874,4357 1875,4332"/></SeparatorRegion>
+	<SeparatorRegion id="r68">
+	<Coords points="1205,4233 1205,4234 1369,4234 1369,4235 1533,4235 1533,4236 1696,4236 1696,4237 1860,4237 1860,4238 3526,4238 3526,4251 2460,4251 2460,4250 1356,4250 1356,4249 1346,4249 1346,4248 1312,4248 1312,4249 1307,4249 1307,4250 1260,4250 1260,4249 1239,4249 1239,4248 1216,4248 1216,4249 1195,4249 1195,4250 1187,4250 1187,4249 1166,4249 1166,4248 1154,4248 1154,4249 1144,4249 1144,4250 1102,4250 1102,4249 1046,4249 1046,4250 1042,4250 1042,4233"/></SeparatorRegion>
+	<SeparatorRegion id="r70">
+	<Coords points="1164,4250 1164,4251 1185,4251 1185,4252 1197,4252 1197,4251 1218,4251 1218,4250 1237,4250 1237,4251 1258,4251 1258,4252 1309,4252 1309,4251 1314,4251 1314,4250 1344,4250 1344,4251 1354,4251 1354,4252 2458,4252 2458,4253 3526,4253 3526,4283 3527,4283 3527,4329 2720,4329 2720,4328 2310,4328 2310,4327 1900,4327 1900,4326 1043,4326 1043,4280 1042,4280 1042,4252 1048,4252 1048,4251 1100,4251 1100,4252 1146,4252 1146,4251 1156,4251 1156,4250"/></SeparatorRegion>
+	<TextRegion id="r6887" type="paragraph">
+	<Coords points="2648,4746 2648,4747 2653,4747 2653,4748 2657,4748 2657,4749 2662,4749 2662,4750 2666,4750 2666,4751 2671,4751 2671,4752 2675,4752 2675,4753 2680,4753 2680,4754 2684,4754 2684,4755 2689,4755 2689,4756 2693,4756 2693,4758 2694,4758 2694,4760 2695,4760 2695,4761 2696,4761 2696,4763 2697,4763 2697,4764 2698,4764 2698,4766 2699,4766 2699,4768 2700,4768 2700,4769 2701,4769 2701,4771 2702,4771 2702,4772 2703,4772 2703,4774 2704,4774 2704,4775 2705,4775 2704,4775 2704,4799 2703,4799 2703,4822 2702,4822 2702,4846 2701,4846 2705,4955 2698,4978 2676,4979 2642,4975 2615,4979 2575,4990 2586,5046 2565,5046 1896,5048 1887,4995 1887,4960 1892,4953 1902,4953 1909,4946 1915,4930 1917,4917 1918,4861 1884,4838 1887,4782 1907,4773 1917,4754 1917,4755 1945,4755 1945,4756 1973,4756 1973,4757 2001,4757 2001,4758 2029,4758 2029,4759 2057,4759 2057,4760 2085,4760 2085,4761 2113,4761 2113,4762 2231,4762 2231,4761 2233,4761 2233,4760 2234,4760 2234,4759 2236,4759 2236,4758 2238,4758 2238,4757 2239,4757 2239,4756 2241,4756 2241,4755 2242,4755 2242,4754 2322,4754 2322,4753 2330,4753 2330,4752 2383,4752 2383,4751 2436,4751 2436,4750 2489,4750 2489,4749 2542,4749 2542,4748 2595,4748 2595,4747 2648,4747"/>
+	<TextEquiv>
+	<Unicode>Wybrano nowy komitet. Do zgromadzo-
+nych Krakowian wygłosili przemówienia:
+Prezydent miasta dr Klimecki,
+Ks. Metropolita Sapieha,
+Prezes Polskiej Akademji Umiejętności
+Dr Kutrzeba i
+Prof. U. J. dr Ludwik Piotrowicz.</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r72">
+	<Coords points="1143,3623 1141,3994 1139,4107 1530,4115 1530,3637 1422,3616 1262,3611"/></ImageRegion>
+	<ImageRegion id="r73">
+	<Coords points="2168,3648 2169,3740 2169,3760 2168,3785 2174,4132 2562,4128 2551,3641"/></ImageRegion>
+	<ImageRegion id="r74">
+	<Coords points="1250,1829 1232,3478 2471,3490 2475,1841"/></ImageRegion>
+	<SeparatorRegion id="r75">
+	<Coords points="1852,1597 1853,1757 1864,1756 1861,1596"/></SeparatorRegion>
+	<SeparatorRegion id="r76">
+	<Coords points="2687,1587 2699,2022 2706,2443 2712,3014 2711,3439 2710,4085 2706,4196 2725,4196 2720,4079 2720,3435 2725,3045 2720,2625 2714,2324 2712,2013 2708,1803 2704,1672 2701,1591"/></SeparatorRegion>
+	<SeparatorRegion id="r79">
+	<Coords points="1007,3469 1007,3483 907,3483 907,3484 802,3484 802,3485 697,3485 697,3486 592,3486 592,3487 487,3487 487,3488 382,3488 382,3489 277,3489 277,3490 189,3490 189,3469"/></SeparatorRegion>
+	<SeparatorRegion id="r81">
+	<Coords points="1007,3485 1007,3563 189,3563 189,3492 279,3492 279,3491 384,3491 384,3490 489,3490 489,3489 594,3489 594,3488 699,3488 699,3487 804,3487 804,3486 909,3486 909,3485"/></SeparatorRegion>
+	<TextRegion id="r82" type="paragraph">
+	<Coords points="283,1483 283,1484 334,1484 334,1485 385,1485 385,1486 436,1486 436,1487 487,1487 487,1488 538,1488 538,1489 589,1489 589,1490 640,1490 640,1491 691,1491 691,1492 742,1492 742,1493 793,1493 793,1494 884,1494 884,1493 923,1493 923,1492 962,1492 962,1491 1002,1491 1002,1500 1003,1500 1003,1510 1004,1510 1004,1520 1005,1520 1005,1530 1006,1530 1006,1786 1005,1786 1008,1923 999,1927 996,1927 977,1932 929,1932 916,1959 844,1958 609,1960 609,1961 600,1961 600,1962 594,1959 591,1959 586,1958 583,1959 575,1957 572,1957 563,1962 487,1963 487,1962 431,1959 424,1962 417,1964 409,1962 404,1962 404,1961 394,1961 394,1960 351,1960 351,1959 330,1959 330,1958 318,1958 318,1959 297,1959 297,1960 289,1960 289,1959 284,1959 284,1958 277,1958 277,1959 267,1959 267,1960 257,1960 257,1961 225,1961 225,1962 215,1962 215,1963 210,1963 210,1964 205,1964 205,1965 200,1965 200,1966 197,1966 197,1965 187,1965 187,1873 188,1873 188,1541 187,1541 187,1536 186,1536 186,1532 185,1532 185,1527 184,1527 184,1522 220,1522 220,1519 221,1519 221,1516 222,1516 222,1513 223,1513 223,1509 224,1509 224,1506 225,1506 225,1503 226,1503 226,1500 227,1500 227,1496 228,1496 228,1493 229,1493 229,1490 230,1490 230,1487 231,1487 231,1483"/>
+	<TextEquiv>
+	<Unicode>Przystepujemy do wydawania dziennika,
+który będzie pismem wspólnem społeczeń-
+podawanie ogółowi mieszkańców Krakowa
+wiadomości, których tak bardzo ogół jest
+spragniony. Pismo to wychodzi na skutek
+wspólnej uchwały Prezydjum miasta i no-
+wo-utworzonego Komitetu Obywateiskie-
+go. Pozostali w Krakowie redaktorzy pism
+miejscowych oddali sie do dyspozycji re-
+dakcji tego pisma — tak samo jak poszcze-
+gólne wydawnictwa oddały do dyspozycji
+jego redakcji swoje środki techniczne.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r86" type="paragraph">
+	<Coords points="975,1959 985,1959 985,1960 995,1960 995,1961 1005,1961 1005,2032 1004,2032 1004,2288 1005,2288 1005,2298 1006,2298 1006,2308 1007,2308 1007,2353 1006,2353 1006,2389 1005,2389 929,2388 765,2387 729,2387 594,2391 521,2388 513,2418 485,2419 481,2418 471,2418 464,2419 369,2423 369,2422 362,2422 362,2421 355,2421 355,2420 341,2420 341,2419 336,2419 336,2418 329,2418 329,2419 324,2419 324,2420 308,2420 308,2421 298,2421 298,2422 288,2422 288,2423 280,2423 280,2422 275,2422 275,2421 270,2421 270,2420 265,2420 265,2419 258,2419 258,2420 248,2420 248,2421 238,2421 238,2422 233,2422 233,2423 228,2423 228,2424 187,2424 187,2423 186,2423 186,2200 188,2200 188,2131 189,2131 189,2062 190,2062 190,1993 195,1993 195,1992 200,1992 200,1991 205,1991 205,1990 210,1990 210,1989 215,1989 215,1988 220,1988 220,1987 224,1987 224,1985 222,1985 222,1984 220,1984 220,1983 219,1983 219,1982 217,1982 217,1981 216,1981 216,1980 214,1980 214,1979 213,1979 213,1978 211,1978 211,1977 210,1977 210,1976 208,1976 208,1975 207,1975 207,1974 205,1974 205,1973 204,1973 204,1972 202,1972 202,1971 201,1971 201,1970 199,1970 199,1969 198,1969 198,1968 195,1968 195,1967 196,1967 196,1968 202,1968 202,1967 207,1967 207,1966 212,1966 212,1965 217,1965 217,1964 227,1964 227,1963 259,1963 259,1962 269,1962 269,1961 279,1961 279,1960 282,1960 282,1961 287,1961 287,1962 299,1962 299,1961 320,1961 320,1960 328,1960 328,1961 349,1961 349,1962 392,1962 392,1963 402,1963 402,1965 405,1965 405,1966 408,1966 408,1967 410,1967 410,1968 413,1968 413,1969 416,1969 416,1970 421,1970 421,1969 424,1969 424,1968 427,1968 427,1967 447,1967 447,1966 466,1966 466,1965 485,1965 485,1964 485,1965 568,1965 568,1966 584,1966 584,1963 585,1963 585,1960 585,1961 590,1961 590,1962 594,1962 594,1963 598,1963 598,1964 602,1964 602,1963 611,1963 611,1962 720,1962 720,1961 828,1961 828,1960 828,1961 973,1961 973,1960 974,1960 974,1959 975,1959 975,1958"/>
+	<TextEquiv>
+	<Unicode>Zadaniem naszem bedzie dawać nie tyl-
+ko wiadomośei o sytuacji ogólnej, które
+przynoszą telegramy i radja, lecz także, a
+może przedewszystkiem dawać obraz sta-
+nu miasta i podawać do wiadomości ogó-
+łu, poszczegóine zarzadzenia władz cywil-
+nych, reprezentowanych obeenie przez pre-
+zydjum miasta, oraz posunięcia, zmierza-
+jące do przywrócenia życiu Krakowa na-
+leżybego toku. W ten sposób pismo będzie
+najlepszym w danych warunkach lączni-
+kiem duchowym i intelektualnym między
+ogólem ludności.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r88" type="paragraph">
+	<Coords points="1005,2424 1004,2424 1000,2438 1004,2460 1003,2460 1003,2461 953,2461 953,2462 903,2462 903,2463 852,2463 852,2464 802,2464 802,2465 752,2465 752,2466 701,2466 701,2467 651,2467 651,2468 589,2468 589,2467 577,2467 577,2466 566,2466 566,2465 554,2465 554,2464 543,2464 543,2463 531,2463 531,2462 519,2462 519,2461 508,2461 508,2460 496,2460 496,2459 485,2459 485,2458 473,2458 473,2457 461,2457 461,2459 460,2459 460,2462 459,2462 459,2465 458,2465 458,2468 457,2468 457,2471 456,2471 456,2474 455,2474 455,2477 454,2477 454,2480 453,2480 453,2483 452,2483 452,2486 451,2486 451,2489 450,2489 450,2490 447,2490 447,2491 444,2491 444,2492 441,2492 441,2493 438,2493 438,2494 434,2494 434,2495 404,2495 404,2496 373,2496 373,2497 343,2497 343,2498 312,2498 312,2499 281,2499 281,2500 251,2500 251,2501 220,2501 220,2502 188,2502 188,2479 187,2479 187,2455 186,2455 227,2455 215,2426 230,2426 230,2425 235,2425 235,2424 240,2424 240,2423 250,2423 250,2422 260,2422 260,2421 263,2421 263,2422 268,2422 268,2423 273,2423 273,2424 278,2424 278,2425 290,2425 290,2424 300,2424 300,2423 310,2423 310,2422 326,2422 326,2421 331,2421 331,2420 334,2420 334,2421 339,2421 339,2422 353,2422 353,2423 360,2423 360,2424 367,2424 367,2425 471,2421 477,2424 477,2423 481,2420 492,2421 492,2420 710,2418 724,2417 912,2416 988,2411"/>
+	<TextEquiv>
+	<Unicode>Przedewszystkiem pozostało na swołch
+posterunkach.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r85" type="handwritten-annotation">
+	<Coords points="182,160 182,326 1117,326 1117,160"/></GraphicRegion>
+	<GraphicRegion id="r94" type="handwritten-annotation">
+	<Coords points="1838,5361 1837,5411 2054,5401 2111,5421 2113,5467 2123,5570 2137,5575 2730,5587 2730,5375 1947,5359"/></GraphicRegion>
+	<GraphicRegion id="r95" type="stamp">
+	<Coords points="1911,5429 1911,5587 2103,5587 2103,5429 2010,5415"/></GraphicRegion></Page></PcGts>

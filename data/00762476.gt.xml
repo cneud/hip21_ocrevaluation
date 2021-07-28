@@ -1,0 +1,1455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd" pcGtsId="pc-00762476">
+	<Metadata>
+	<Creator>FineReader Engine 10</Creator>
+	<Created>2013-10-14T22:53:45</Created>
+	<LastChange>2014-07-03T08:27:39</LastChange>
+	<Comments>Recognition and export settings:
+
+  Recognition language(s): Polish
+  Font class: normal
+  Orig-outlines: false
+  Orig-text: false
+  Orig-drop-caps: false
+  Reading order: false
+    Exclude: [default]
+  Layers: false
+  To remove: background-images
+
+Conversion and export:
+
+  Ignored 1 regions that have no coordinates (ghost regions)
+</Comments></Metadata>
+	<Page imageFilename="00762476.tif" imageWidth="3975" imageHeight="5787">
+	<ReadingOrder>
+	<UnorderedGroup id="ro357564684568544579089">
+	<OrderedGroup id="r315">
+	<RegionRefIndexed regionRef="r83" index="0"/>
+	<RegionRefIndexed regionRef="r389" index="1"/>
+	<RegionRefIndexed regionRef="r419" index="2"/>
+	<RegionRefIndexed regionRef="r627" index="3"/>
+	<RegionRefIndexed regionRef="r648" index="4"/>
+	<RegionRefIndexed regionRef="r1106" index="5"/>
+	<RegionRefIndexed regionRef="r1145" index="6"/>
+	<RegionRefIndexed regionRef="r1561" index="7"/>
+	<RegionRefIndexed regionRef="r1588" index="8"/>
+	<RegionRefIndexed regionRef="r1952" index="9"/>
+	<RegionRefIndexed regionRef="r1975" index="10"/>
+	<RegionRefIndexed regionRef="r2143" index="11"/>
+	<RegionRefIndexed regionRef="r2156" index="12"/>
+	<RegionRefIndexed regionRef="r2349" index="13"/>
+	<RegionRefIndexed regionRef="r2381" index="14"/>
+	<RegionRefIndexed regionRef="r2581" index="15"/></OrderedGroup>
+	<OrderedGroup id="r316">
+	<RegionRefIndexed regionRef="r347" index="0"/>
+	<RegionRefIndexed regionRef="r8316" index="1"/>
+	<RegionRefIndexed regionRef="r8444" index="2"/>
+	<RegionRefIndexed regionRef="r2693" index="3"/>
+	<RegionRefIndexed regionRef="r2810" index="4"/>
+	<RegionRefIndexed regionRef="r2879" index="5"/>
+	<RegionRefIndexed regionRef="r3664" index="6"/>
+	<RegionRefIndexed regionRef="r3522" index="7"/>
+	<RegionRefIndexed regionRef="r341" index="8"/>
+	<RegionRefIndexed regionRef="r4084" index="9"/>
+	<RegionRefIndexed regionRef="r4218" index="10"/>
+	<RegionRefIndexed regionRef="r4290" index="11"/>
+	<RegionRefIndexed regionRef="r4453" index="12"/>
+	<RegionRefIndexed regionRef="r4568" index="13"/>
+	<RegionRefIndexed regionRef="r4702" index="14"/>
+	<RegionRefIndexed regionRef="r6631" index="15"/>
+	<RegionRefIndexed regionRef="r6889" index="16"/>
+	<RegionRefIndexed regionRef="r7036" index="17"/>
+	<RegionRefIndexed regionRef="r351" index="18"/>
+	<RegionRefIndexed regionRef="r7237" index="19"/>
+	<RegionRefIndexed regionRef="r7322" index="20"/>
+	<RegionRefIndexed regionRef="r7519" index="21"/>
+	<RegionRefIndexed regionRef="r350" index="22"/>
+	<RegionRefIndexed regionRef="r7912" index="23"/>
+	<RegionRefIndexed regionRef="r8130" index="24"/>
+	<RegionRefIndexed regionRef="r349" index="25"/>
+	<RegionRefIndexed regionRef="r8596" index="26"/>
+	<RegionRefIndexed regionRef="r8712" index="27"/>
+	<RegionRefIndexed regionRef="r8792" index="28"/>
+	<RegionRefIndexed regionRef="r2983" index="29"/>
+	<RegionRefIndexed regionRef="r3057" index="30"/>
+	<RegionRefIndexed regionRef="r3669" index="31"/>
+	<RegionRefIndexed regionRef="r4971" index="32"/>
+	<RegionRefIndexed regionRef="r5102" index="33"/>
+	<RegionRefIndexed regionRef="r5212" index="34"/>
+	<RegionRefIndexed regionRef="r5430" index="35"/>
+	<RegionRefIndexed regionRef="r5539" index="36"/>
+	<RegionRefIndexed regionRef="r5626" index="37"/>
+	<RegionRefIndexed regionRef="r8899" index="38"/>
+	<RegionRefIndexed regionRef="r8990" index="39"/>
+	<RegionRefIndexed regionRef="r9068" index="40"/>
+	<RegionRefIndexed regionRef="r9272" index="41"/>
+	<RegionRefIndexed regionRef="r9397" index="42"/></OrderedGroup>
+	<OrderedGroup id="r317">
+	<RegionRefIndexed regionRef="r9474" index="0"/>
+	<RegionRefIndexed regionRef="r9486" index="1"/>
+	<RegionRefIndexed regionRef="r9599" index="2"/>
+	<RegionRefIndexed regionRef="r9723" index="3"/>
+	<RegionRefIndexed regionRef="r9856" index="4"/>
+	<RegionRefIndexed regionRef="r10016" index="5"/>
+	<RegionRefIndexed regionRef="r10153" index="6"/>
+	<RegionRefIndexed regionRef="r10280" index="7"/>
+	<RegionRefIndexed regionRef="r10423" index="8"/>
+	<RegionRefIndexed regionRef="r11670" index="9"/>
+	<RegionRefIndexed regionRef="r326" index="10"/>
+	<RegionRefIndexed regionRef="r318" index="11"/>
+	<RegionRefIndexed regionRef="r311" index="12"/>
+	<RegionRefIndexed regionRef="r355" index="13"/>
+	<RegionRefIndexed regionRef="r3417" index="14"/>
+	<RegionRefIndexed regionRef="r5747" index="15"/>
+	<RegionRefIndexed regionRef="r5873" index="16"/>
+	<RegionRefIndexed regionRef="r354" index="17"/>
+	<RegionRefIndexed regionRef="r6200" index="18"/>
+	<RegionRefIndexed regionRef="r6295" index="19"/>
+	<RegionRefIndexed regionRef="r6448" index="20"/>
+	<RegionRefIndexed regionRef="r6537" index="21"/>
+	<RegionRefIndexed regionRef="r10558" index="22"/>
+	<RegionRefIndexed regionRef="r10805" index="23"/>
+	<RegionRefIndexed regionRef="r10902" index="24"/>
+	<RegionRefIndexed regionRef="r10968" index="25"/>
+	<RegionRefIndexed regionRef="r11085" index="26"/>
+	<RegionRefIndexed regionRef="r11160" index="27"/>
+	<RegionRefIndexed regionRef="r11311" index="28"/>
+	<RegionRefIndexed regionRef="r11482" index="29"/>
+	<RegionRefIndexed regionRef="r11793" index="30"/>
+	<RegionRefIndexed regionRef="r11859" index="31"/>
+	<RegionRefIndexed regionRef="r12020" index="32"/>
+	<RegionRefIndexed regionRef="r12113" index="33"/>
+	<RegionRefIndexed regionRef="r12236" index="34"/>
+	<RegionRefIndexed regionRef="r12471" index="35"/>
+	<RegionRefIndexed regionRef="r12557" index="36"/>
+	<RegionRefIndexed regionRef="r13071" index="37"/></OrderedGroup>
+	<OrderedGroup id="r319">
+	<RegionRefIndexed regionRef="r13290" index="0"/>
+	<RegionRefIndexed regionRef="r13311" index="1"/>
+	<RegionRefIndexed regionRef="r13354" index="2"/></OrderedGroup>
+	<OrderedGroup id="r320">
+	<RegionRefIndexed regionRef="r13453" index="0"/>
+	<RegionRefIndexed regionRef="r13463" index="1"/>
+	<RegionRefIndexed regionRef="r13586" index="2"/>
+	<RegionRefIndexed regionRef="r13681" index="3"/>
+	<RegionRefIndexed regionRef="r13762" index="4"/>
+	<RegionRefIndexed regionRef="r13932" index="5"/>
+	<RegionRefIndexed regionRef="r14105" index="6"/>
+	<RegionRefIndexed regionRef="r14323" index="7"/>
+	<RegionRefIndexed regionRef="r14385" index="8"/>
+	<RegionRefIndexed regionRef="r14535" index="9"/>
+	<RegionRefIndexed regionRef="r14557" index="10"/>
+	<RegionRefIndexed regionRef="r14759" index="11"/>
+	<RegionRefIndexed regionRef="r14976" index="12"/>
+	<RegionRefIndexed regionRef="r15016" index="13"/>
+	<RegionRefIndexed regionRef="r15112" index="14"/>
+	<RegionRefIndexed regionRef="r340" index="15"/>
+	<RegionRefIndexed regionRef="r15396" index="16"/>
+	<RegionRefIndexed regionRef="r348" index="17"/>
+	<RegionRefIndexed regionRef="r15771" index="18"/>
+	<RegionRefIndexed regionRef="r15933" index="19"/>
+	<RegionRefIndexed regionRef="r16135" index="20"/>
+	<RegionRefIndexed regionRef="r16257" index="21"/>
+	<RegionRefIndexed regionRef="r16337" index="22"/>
+	<RegionRefIndexed regionRef="r338" index="23"/>
+	<RegionRefIndexed regionRef="r16634" index="24"/>
+	<RegionRefIndexed regionRef="r16722" index="25"/>
+	<RegionRefIndexed regionRef="r16774" index="26"/>
+	<RegionRefIndexed regionRef="r16901" index="27"/>
+	<RegionRefIndexed regionRef="r17043" index="28"/>
+	<RegionRefIndexed regionRef="r17064" index="29"/>
+	<RegionRefIndexed regionRef="r17141" index="30"/>
+	<RegionRefIndexed regionRef="r17261" index="31"/>
+	<RegionRefIndexed regionRef="r17398" index="32"/>
+	<RegionRefIndexed regionRef="r17634" index="33"/>
+	<RegionRefIndexed regionRef="r17698" index="34"/>
+	<RegionRefIndexed regionRef="r17736" index="35"/>
+	<RegionRefIndexed regionRef="r17769" index="36"/>
+	<RegionRefIndexed regionRef="r18003" index="37"/>
+	<RegionRefIndexed regionRef="r18065" index="38"/>
+	<RegionRefIndexed regionRef="r353" index="39"/>
+	<RegionRefIndexed regionRef="r18300" index="40"/>
+	<RegionRefIndexed regionRef="r18372" index="41"/>
+	<RegionRefIndexed regionRef="r18584" index="42"/>
+	<RegionRefIndexed regionRef="r18647" index="43"/>
+	<RegionRefIndexed regionRef="r18849" index="44"/>
+	<RegionRefIndexed regionRef="r18889" index="45"/>
+	<RegionRefIndexed regionRef="r18917" index="46"/>
+	<RegionRefIndexed regionRef="r19020" index="47"/>
+	<RegionRefIndexed regionRef="r19086" index="48"/>
+	<RegionRefIndexed regionRef="r342" index="49"/>
+	<RegionRefIndexed regionRef="r19223" index="50"/>
+	<RegionRefIndexed regionRef="r19305" index="51"/>
+	<RegionRefIndexed regionRef="r19432" index="52"/>
+	<RegionRefIndexed regionRef="r19574" index="53"/>
+	<RegionRefIndexed regionRef="r19603" index="54"/>
+	<RegionRefIndexed regionRef="r19676" index="55"/>
+	<RegionRefIndexed regionRef="r19853" index="56"/></OrderedGroup></UnorderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="header">
+	<Coords points="1182,388 2809,388 2810,422 1182,425"/>
+	<TextEquiv>
+	<Unicode>„ILUSTROWANY KURYER CODZIENNY" Nr. 249, Poniedziałek, 18 Września 1939.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r83" type="paragraph">
+	<Coords points="283,472 465,464 1100,472 1102,602 1100,718 283,718"/>
+	<TextEquiv>
+	<Unicode>waną wodą. zostawiając 2 cm. wolnej prze-
+strzeni. Słoik szczelnie zamknąć i gotować
+w aparacie lub w sianie 1/2 godz. Wyjąć
+za paratu gdy przystygnie. Na drugi i
+trzeci daień gotowanie powtórzyć, inaczej
+groszek się zepsuje. Zamiast słoików moż-
+na użyć butelek z szerokiemi szyjkami.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r389" type="heading">
+	<Coords points="434,747 953,747 961,783 434,781"/>
+	<TextEquiv>
+	<Unicode>II sposób suszenia groszku.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r419" type="paragraph">
+	<Coords points="283,798 352,788 1096,798 1102,859 1096,972 283,972 274,900"/>
+	<TextEquiv>
+	<Unicode>Młody soczysty groszek ułożyć na bla -
+chę wyłożoną papierem i susizyć na pięcu
+lub na słońcu. Gdy dobrze wysuszony, Wsy-
+pać do przewiewnych woreczków (muślin)
+i przechowywać w suchej spiżarni.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r627" type="heading">
+	<Coords points="518,998 868,998 874,1032 518,1030"/>
+	<TextEquiv>
+	<Unicode>Konserwa z fasoli.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r648" type="paragraph">
+	<Coords points="282,1047 345,1037 1096,1047 1105,1266 1096,1426 795,1433 353,1433 282,1426 272,1164"/>
+	<TextEquiv>
+	<Unicode>Fasolkę młodą oborać z włókien, wypłu-
+kać i wrzucić na gotującą wodę. Po 10 mi-
+nutach, gdy na nawpół miękka, wyjąć,
+przelać zimną woda i ułożyć w słoju, do
+3/4 pojemności. Można ją ułożyć w całych
+strąkach lub szatkowaną. Następnie zalać
+zimną przegotowaną soloną wodą i goto-
+wać, w aparacie 1/2 godz., na drugi i trzeci
+dzień gotowanie powtórzyć, jak przy gro-
+szku. Szatkowaną fasolkę można również
+ułożyć do szerokich butelek.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1106" type="heading">
+	<Coords points="359,1446 1026,1450 1029,1497 359,1492 351,1467"/>
+	<TextEquiv>
+	<Unicode>II sposób w formie pikli da mięsa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1145" type="paragraph">
+	<Coords points="282,1509 328,1502 1097,1509 1104,1647 1097,1855 327,1862 282,1855 274,1659"/>
+	<TextEquiv>
+	<Unicode>Obrana początkowaną fasolkę odgotowac
+przez kilka minut w osolonej wodzie, po-
+czem osączyć na sicie. W tym czasie przy-
+gotować syrop: na 1 kg fasoli zagotować
+12 1. octu, 35 dkg cukru, 2 dkg cynamonu,
+parę ziarn godździków, 1 liść bobkowy i do
+gotującego syropu wrzucić odgotowana. fa-
+solkę. Zagotować i gdy miękką złożyć do
+słoja. Ostudzić i zawiązać pergaminowym
+papierem lub celofanem.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1561" type="heading">
+	<Coords points="452,1888 822,1875 918,1888 923,1921 452,1919 446,1904"/>
+	<TextEquiv>
+	<Unicode>2) Konserwa z kalafioru.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1588" type="paragraph">
+	<Coords points="279,1940 358,1933 1097,1940 1106,2072 1097,2252 526,2258 279,2252 273,2139"/>
+	<TextEquiv>
+	<Unicode>Kalafiory na konserwę Wybiera się
+mniejsze, ścisle, białe i zdrowe. Obrane
+wrzucamy do wody z octem, aby wyszły
+liszki. Potem włożyć kalafiory do gotują-
+cej osolomej wody i gotować 10 minut. Na-
+stopnie ptrzelać zimną wodą, ułożyć w słoju
+i dalej postępować identycznie jak z grosz-
+kiem i fasolką W ten sposb konserwujemy
+młodą kalarepkę.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1952" type="heading">
+	<Coords points="484,2278 829,2276 893,2284 897,2321 492,2315"/>
+	<TextEquiv>
+	<Unicode>Konserwa z szczawiu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1975" type="paragraph">
+	<Coords points="283,2335 419,2320 1098,2335 1106,2406 1098,2473 283,2473 272,2395"/>
+	<TextEquiv>
+	<Unicode>Wypłukany szczaw poczatkować na pap-
+kę i rozgotować na wolnym ogniu, wystu-
+dzić, nałożyć do słoików lub butelek i go-
+tować 1/2 godz. w aparacie lub sianie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2143" type="heading">
+	<Coords points="603,2502 765,2495 786,2502 793,2521 786,2533 691,2539 603,2533 595,2507"/>
+	<TextEquiv>
+	<Unicode>II sposób.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2156" type="paragraph">
+	<Coords points="283,2552 589,2544 1105,2544 1101,2683 1098,2725 424,2729 283,2725 274,2617"/>
+	<TextEquiv>
+	<Unicode>Wymyty i dobrze posiekany szczaw ubi-
+jać szczelnie w kamiennym garnku, przesy-
+pującą każdą warstwę solą, jak przy kapu-
+ście, uważając, by na spód i na wierzch dać
+warstwę soli.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2349" type="heading">
+	<Coords points="391,2750 843,2748 990,2754 998,2789 398,2788"/>
+	<TextEquiv>
+	<Unicode>Konserwa z koperku zielonego.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2381" type="paragraph">
+	<Coords points="283,2807 877,2796 1099,2807 1107,2897 1103,2973 627,2976 593,2971 585,2979 573,2978 420,2978 401,2980 391,2980 331,2976 318,2979 318,2974 283,2979 273,2923"/>
+	<TextEquiv>
+	<Unicode>Wybrać młode zielone gałązki koperku,
+wypłukać, osaczyć na sicie, można posie-
+kać lub całe gałązki solić warstwami i ubi-
+jać w kamiennym garnku lub słoju, jak po-
+wyżej omówiony szczaw.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2581" type="paragraph">
+	<Coords points="284,2983 316,2984 325,2979 382,2983 460,2984 475,2979 583,2985 588,2979 1098,2979 1098,3083 283,3083"/>
+	<TextEquiv>
+	<Unicode>II sposób — całe gałązki suszyć na pa-
+pierze w słońcu lub na piecu. Przechowy-
+wać w słoju lub w puszce.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2693" type="paragraph">
+	<Coords points="1136,472 1947,472 1949,561 1427,541 1425,561 1170,562 1137,560 1134,487"/>
+	<TextEquiv>
+	<Unicode>GESIEK, Kitek i Basia wracajcie do Krakowa lu
+taj spokój zupełny. Pieszo lub kolem dniem —
+postój nocami. 6k</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2810" type="paragraph">
+	<Coords points="1134,591 1945,591 1951,646 1134,642"/>
+	<TextEquiv>
+	<Unicode>STEFAN RIESS wracaj do nas swohodnie. — Jaga
+z Rodzicami 13</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2879" type="paragraph">
+	<Coords points="1133,670 1946,672 1946,728 1925,730 1914,730 1137,728 1132,682"/>
+	<TextEquiv>
+	<Unicode>MRÓZ Karol, wracai do owocarni droga wułna od
+6 rąno do 6 wifeczór; błagają Maria i Lala 49</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2983" type="paragraph">
+	<Coords points="1980,474 2792,474 2796,503 2792,530 1980,530 1977,484"/>
+	<TextEquiv>
+	<Unicode>GÓRKOWA Janina z Haneczką Wracajcie zaraz do
+Krakowa, Mietek. 184</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3057" type="paragraph">
+	<Coords points="1979,561 1986,557 2786,559 2793,561 2797,569 2797,687 2793,702 2747,702 2731,680 2273,681 2257,705 2026,706 2028,593 1975,593 1974,572"/>
+	<TextEquiv>
+	<Unicode>WIESIU! Prosimy Cię bardzo, gdziekolwiek jesteś
+wracaj do swego domu. Spokojnie i śmiało. Wy-
+czekujemy Ciecie z dnia na dzień. Czy długo jesz-
+cze czekać będziemy? Wzywa Cię matka, rodzina
+I Twa Iza W. 185</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3417" type="paragraph">
+	<Coords points="2828,584 3207,582 3640,579 3645,622 3640,666 3605,665 3596,639 3027,646 3015,674 2879,675 2879,619 2826,615 2826,605"/>
+	<TextEquiv>
+	<Unicode>INTELIGENTNA poszukuje jakiejkolwiek posady
+do biura lub dzieci. Oferty do I. K. C. Kraków
+pod „8k". 8k</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3522" type="paragraph">
+	<Coords points="1132,751 1943,752 1945,824 1910,826 1277,836 1131,833"/>
+	<TextEquiv>
+	<Unicode>DOBOSZOWIE, Kraków. Asnyka á proszą o wiado-
+mości o córce Wandzie i synu Czesiawie któ
+rzy wyszli z Krakowa 4 bm w kierunku Lwowa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3664" type="paragraph">
+	<Coords points="1915,829 1943,827 1946,851 1914,849"/>
+	<TextEquiv>
+	<Unicode>84</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3669" type="paragraph">
+	<Coords points="1980,735 1993,730 2673,731 2792,735 2797,793 2792,820 1980,820 1975,745"/>
+	<TextEquiv>
+	<Unicode>WŁODZSU I ROMEROWIE z Libiąża, wracajcie, dro-
+ga wolna od 6 rano do 6 wieczór. Wasna Dyrek-
+cją urzęduje. — Hela. 187</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4084" type="paragraph">
+	<Coords points="1131,1059 1947,1058 1950,1120 1945,1137 1136,1137"/>
+	<TextEquiv>
+	<Unicode>MARIA Gabrysiowa, Kraków, Słoneczna 15, prosi
+o wiadomość o mężu Stanisławie. Wyszedł z Kra
+kowa niedzielę 3 września w nocy. 89</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4218" type="paragraph">
+	<Coords points="1128,1161 1137,1160 1912,1158 1945,1162 1947,1209 1945,1215 1335,1219 1181,1218 1132,1215"/>
+	<TextEquiv>
+	<Unicode>SASKI Jan z Krakowa — wracaj do domu spokoj-
+nie. Żona Janina. 135</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4290" type="paragraph">
+	<Coords points="1131,1244 1750,1243 1945,1245 1947,1328 1945,1351 1183,1351 1181,1277 1133,1276 1132,1262 1135,1254"/>
+	<TextEquiv>
+	<Unicode>MIECZYSŁAW NOWICKI, stud. A. H. w Krakowie,
+o Jakiekolwiek wiadomości o nim prosi zrozpa
+czona matka Natalia Nowicka, Kraków, ul. Sie-
+miradzkiego 13. 102</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4453" type="paragraph">
+	<Coords points="1129,1372 1950,1370 1951,1452 1166,1452 1137,1450"/>
+	<TextEquiv>
+	<Unicode>INŻ. Stanisław Till pozostały w Krakowie, zdrów
+zupełnie, prosi żonę, p Margit Tillową o wiado-
+mości. 54</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4568" type="paragraph">
+	<Coords points="1131,1476 1951,1472 1951,1555 1133,1558"/>
+	<TextEquiv>
+	<Unicode>ŚNIEGOWSKI Wincenty, wracaj do domu spokoj-
+nie, jesteśmy zdrowi, droga wolna od godz. 6
+rano do 6 wieczór. Ojciec i siostra. 64</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4702" type="paragraph">
+	<Coords points="1139,1578 1948,1578 1956,1661 1948,1761 1187,1763 1194,1612 1134,1611 1133,1591"/>
+	<TextEquiv>
+	<Unicode>BOJDA Zygmunt (Zbyszek i Danusią źdrowe) po-
+szukuje żony MARJI BÓJDOWEJ, brunetki,
+lat 33. Zaginęła 8/IX 1939 koło Radomyśla, w
+drodze z Dąbrowy do Mielca. Ktoby o niej coś
+wiedział, proszę donieść mężowi: Zygmunt Bojda,
+Kraków, Piłsudskiego 20. 9k</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4971" type="paragraph">
+	<Coords points="1976,846 1987,845 2794,846 2794,929 2761,934 2750,927 2742,908 2198,908 2197,933 2104,934 2026,933 2026,880 1972,879 1971,858"/>
+	<TextEquiv>
+	<Unicode>JULUŚ Leszczyński i Zdzich Z. wracajcie do Krakowa.
+Droga od 6 rano do 6 wieczór wolna. Zrozpaczo-
+na matka. 193</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5102" type="paragraph">
+	<Coords points="1983,962 2794,962 2800,1009 2794,1037 2747,1036 2736,1015 2221,1020 2213,1042 2159,1042 1983,1037"/>
+	<TextEquiv>
+	<Unicode>ZDZISIA Warmuza wzywają rodzice o szybki po-
+wrót. Droga do Krakowa wolna od 5 rano do
+18 wieczór. 160</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5212" type="paragraph">
+	<Coords points="1983,1062 2795,1062 2800,1113 2795,1192 2021,1194 2027,1099 1982,1094 1978,1079"/>
+	<TextEquiv>
+	<Unicode>ZYGMUNT Gątkiewicz, Franciszek; Olszowski, Jan
+Chacieja — wyszli 5 września rano z ul. Flo-
+riańskiej 45 — ktokolwiek wiedziałby coś o nich,
+proszony o danie wiadomości rodzinom, Floriań-
+ska 45, Kraków. 170</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5430" type="paragraph">
+	<Coords points="1981,1215 2386,1214 2795,1219 2800,1253 2795,1296 1985,1296"/>
+	<TextEquiv>
+	<Unicode>KOGWOWSE, Kraków, ul. Długa 32, proszą o wia-
+domość o swym synu Aleksandrze, prof. Uniw.
+Jagiell. 173</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5539" type="paragraph">
+	<Coords points="1982,1318 2797,1316 2795,1371 2465,1374 1984,1371"/>
+	<TextEquiv>
+	<Unicode>SAPEROWIE dajcie znak życia przez powracających
+do Krakowa, Heli lub Jance. 175</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5626" type="paragraph">
+	<Coords points="1986,1397 2787,1392 2795,1397 2801,1420 2795,1476 2747,1471 2735,1454 2256,1453 2253,1472 1986,1476"/>
+	<TextEquiv>
+	<Unicode>FRYDA, Olek. Stasiu dajcie znać gdzie jesteście i
+wracajcie od 6 rano do 6 wieczór. Kraków, ul.
+Syrokomli. 22. 178</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5747" type="paragraph">
+	<Coords points="2831,696 3638,693 3641,696 3646,726 3641,778 3598,778 3596,753 3226,756 3218,777 2880,780 2880,738 2831,736"/>
+	<TextEquiv>
+	<Unicode>ABSOLWENTKA Szkoły Handlowej szuka jakiej-
+kolwiek pracy w biurze lub sklepie. Zgłoszenia:
+IKC., pod „Nr. 134". 154</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6200" type="paragraph">
+	<Coords points="2834,1054 3236,1058 3647,1052 3643,1110 2909,1114 2834,1110 2832,1079"/>
+	<TextEquiv>
+	<Unicode>KUCHARKA, gospodyni poszukuje pracy, zna swój
+fach doskonale. IKC., Kraków, „Nr. 146". 146</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6448" type="paragraph">
+	<Coords points="2828,1277 3643,1272 3647,1308 3643,1334 3598,1331 3071,1337 2829,1334 2828,1295"/>
+	<TextEquiv>
+	<Unicode>ZASTRZYKI dożylne domięśniowe wykonuje absol-
+went medycyny, plac Matejki 10/19. 163</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6537" type="paragraph">
+	<Coords points="2831,1360 3645,1360 3643,1419 3600,1411 3594,1388 3393,1392 3398,1417 3388,1417 2883,1423 2875,1394 2829,1391 2828,1372"/>
+	<TextEquiv>
+	<Unicode>NIEMKA rodowita udziela lekcji niemieckiego, dzie-
+ciom dorosłym. Mazowiecka 8/15. 164</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6631" type="paragraph">
+	<Coords points="1133,1788 1874,1784 1955,1784 1955,1967 1187,1969 1189,1820 1134,1823"/>
+	<TextEquiv>
+	<Unicode>PROSZĘ gorąco każdego, kto może mi udzielić ja-
+kichś informacyj o losach Doktóra Nybleńskiego,
+prymarjusza Szpitala Miejskiego w Sosnowcu,
+o skömunikowanie się pod adresem: Halina
+Brzezińska, Kraków, Aleja Słowackiego. 10. —
+m. 1. 152</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6889" type="paragraph">
+	<Coords points="1142,1995 1948,1996 1952,2056 1948,2085 1214,2087 1140,2085 1136,2004"/>
+	<TextEquiv>
+	<Unicode>DODA Pirożyńska, Wola Justowska, zdrowa z sy-
+nem i rodziną, prosi gorąco o wiadomość o Bolku
+i o rodzinie prof. W. Jarosza z Tarnowa. 151</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7036" type="paragraph">
+	<Coords points="1128,2114 1944,2109 1950,2121 1949,2177 1945,2201 1161,2204 1176,2146 1133,2143"/>
+	<TextEquiv>
+	<Unicode>RYSIA Sikorska, Andrzej i Jasia wracajcie nawet
+pieszo. Od 6 rano do 6 wieczór droga wolna i
+spokój w Krakowie, — Stefan. 156</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7237" type="paragraph">
+	<Coords points="1131,2312 1933,2310 1945,2313 1949,2331 1945,2370 1313,2374 1134,2370"/>
+	<TextEquiv>
+	<Unicode>KAZAŃSKA Elżbieta donosi Kochanemu Jasiowi, że
+Lunia, Adaś są zdrowi w domu. 161</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7322" type="paragraph">
+	<Coords points="1129,2404 1919,2402 1946,2406 1952,2455 1946,2523 1946,2548 1178,2527 1180,2441 1130,2443"/>
+	<TextEquiv>
+	<Unicode>JÓZIA Skąpskiego, Andrzejka Miączyńskiego, Jasia
+Lisowskiego wzywają rodzice o bezwarunkowy
+szybki powrót do Krakowa najętą furmanką. Dro-
+ga wolna do Krakowa od 6 rano do 6 wieczór.
+3k</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7519" type="paragraph">
+	<Coords points="1136,2577 1921,2575 1946,2579 1956,2671 1946,2738 1182,2739 1183,2611 1141,2612 1136,2605"/>
+	<TextEquiv>
+	<Unicode>IGNACY Łopatowski, Włodzimierz Łopatowski, Mie-
+czysław Szczęśniak, wracajcie jak najprędzej,
+niema żadnego niebezpieczeństwa, wejście do
+miasta od 6 rano do 18.30 wieczór. Proszę do-
+brych ludzi o podanie dalej, Teofila Łopatow-
+ska. Podgórze, Kolejowa 6. 198</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7912" type="paragraph">
+	<Coords points="1139,2863 1149,2860 1156,2863 1946,2863 1952,2900 1947,2993 1183,2999 1182,2898 1136,2877"/>
+	<TextEquiv>
+	<Unicode>POSZUKUJE matka córki swej, która wyszła z Ba-
+towic z sanatorjum dnia 7 bm. Wyśoka, przy-
+stojna, w różowej sukience. Zgłoszenia proszę po-
+dać do p. Warczewskiej, Kraków, ul. Smoleńsk
+13, Ł. Łowadzka. 201</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8130" type="paragraph">
+	<Coords points="1140,3028 1888,3024 1947,3028 1951,3058 1947,3110 1896,3108 1884,3083 1319,3088 1322,3107 1140,3110 1133,3042"/>
+	<TextEquiv>
+	<Unicode>KICIUNIU! proszę daj znać o sobie — jestem zdro-
+wa, wkrótce wracam z Krakowa do rodziny. —
+Bąezek. 157</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8316" type="paragraph">
+	<Coords points="288,3267 1101,3268 1100,3339 1097,3348 289,3348"/>
+	<TextEquiv>
+	<Unicode>KURKIEWICZ Jan i Zofia, — Passakas Lesław i
+Janina — dajcie znak życia przez wracających
+uchodźców. Kraków, Wygoda 9. 19</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8444" type="paragraph">
+	<Coords points="285,3370 1097,3370 1097,3461 431,3463 285,3461 282,3383"/>
+	<TextEquiv>
+	<Unicode>DANUSIA Wojnar, uczennica liceum wyszła samo-
+tna 4 września przez Prądnik. O wiadomość pro-
+szą zrozpaczeni Rodzice. Kraków, Pędzichów 18.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8590" type="caption">
+	<Coords points="1052,3464 1098,3463 1098,3484 1052,3485"/>
+	<TextEquiv>
+	<Unicode>165</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8596" type="paragraph">
+	<Coords points="1138,3209 1754,3208 1946,3209 1946,3290 1896,3286 1886,3267 1498,3266 1496,3291 1187,3292 1188,3247 1135,3245 1134,3219"/>
+	<TextEquiv>
+	<Unicode>HELENA Lipska w Krakowie zawiadamia syna
+Andrzeja i Schwertnerów, iż jest w domu. Wzy-
+wa ich do powrotu. 149</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8712" type="paragraph">
+	<Coords points="1137,3313 1867,3309 1946,3313 1950,3351 1946,3367 1899,3363 1885,3337 1542,3346 1540,3367 1137,3367 1131,3331"/>
+	<TextEquiv>
+	<Unicode>NEID Frania zawiadamia rodziców, że jest w Kra-
+kowie, Krasickiego 22. 148</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8792" type="paragraph">
+	<Coords points="1135,3390 1739,3387 1946,3390 1949,3425 1946,3476 1890,3476 1863,3450 1281,3455 1272,3482 1135,3476 1130,3403"/>
+	<TextEquiv>
+	<Unicode>FREDEK Reich, gdziekolwiek jesteś daj o sobie
+znać. U nas spokój, wracaj natychmiast. Ro-
+dzice. 177</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8899" type="paragraph">
+	<Coords points="1987,1501 1997,1498 2720,1497 2796,1501 2802,1532 2796,1554 2097,1557 1987,1554 1980,1517"/>
+	<TextEquiv>
+	<Unicode>INEK, Hela, Jurek, wracajcie swobodnie, jesteśmy
+wszyscy razem w Krakowie — Tuśka. 195</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8990" type="paragraph">
+	<Coords points="1986,1578 2008,1576 2783,1573 2797,1578 2801,1600 2797,1628 2067,1630 1986,1628 1982,1588"/>
+	<TextEquiv>
+	<Unicode>BOLEK P. ewakuowany 3/IX. wracaj natychmiast
+do domu. Doda z Jasiem. 182</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9272" type="paragraph">
+	<Coords points="1981,1807 2769,1807 2796,1810 2804,1855 2796,1888 2752,1889 2744,1888 2745,1866 2444,1865 2443,1889 2025,1890 2031,1840 1987,1841"/>
+	<TextEquiv>
+	<Unicode>ROSSHANDLER Dawid z Krakowa, o jakiekolwiek
+wiadomości o nim prosi powracających — żona
+Kraków, Zyblikiewicza 16. 191</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9397" type="TOC-entry">
+	<Coords points="1983,1912 2797,1912 2802,1957 2796,1965 2748,1962 2743,1943 2365,1941 2358,1962 1987,1965"/>
+	<TextEquiv>
+	<Unicode>BRONIU, Józiu, Matylda wracajcie, droga wolna.
+Ciolkowscy, Kraków. 194</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9474" type="heading">
+	<Coords points="2610,2077 2151,2077 2154,2014 2192,2016 2405,2014 2587,2020 2640,2027 2630,2069"/>
+	<TextEquiv>
+	<Unicode>Różne</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9486" type="paragraph">
+	<Coords points="1982,2127 2670,2124 2797,2130 2801,2170 2797,2209 1987,2209"/>
+	<TextEquiv>
+	<Unicode>KAMIENICE — wille — parcele — Kupuje —
+Sprzedaje — Władzimierz Huk „INFORMATOR"
+Kraków. Pijarska 19. 37</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9599" type="paragraph">
+	<Coords points="1983,2233 1990,2228 2195,2230 2744,2228 2796,2233 2802,2282 2796,2312 2737,2305 2741,2286 2387,2289 2403,2309 2018,2313 2024,2262 1979,2258 1978,2245"/>
+	<TextEquiv>
+	<Unicode>W PRYW. Szkole Powszechnej i Gimnazjum Kra-
+wiecklem im. św Andrzeja (Grodzka 54) rożpo-
+czeła się nauka 12 bm. 108</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9723" type="paragraph">
+	<Coords points="1979,2331 2731,2331 2795,2335 2802,2388 2795,2423 1983,2423"/>
+	<TextEquiv>
+	<Unicode>KUPIECKA SZKOŁA roczna — Kursy Handlowe —
+Maszynopisma, prof. Nycza. Kraków, Senacka 6—
+rozpoczynają naukę wtorek 9 rano. 136</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9856" type="paragraph">
+	<Coords points="1980,2445 2796,2446 2803,2498 2796,2561 2748,2562 2736,2537 2136,2541 2127,2563 2027,2563 2031,2483 1984,2484"/>
+	<TextEquiv>
+	<Unicode>UNIEWAŻNIAM zgubioną książeczke wojskową —
+wydaną przez 26 pp. oraz legitymację nr. 150, wy-
+daną przez P. K. U. Nowy Sącż, Stanisław Kan-
+tarek. 134</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10016" type="paragraph">
+	<Coords points="1982,2590 2768,2588 2795,2593 2800,2632 2795,2673 2023,2675 2026,2624"/>
+	<TextEquiv>
+	<Unicode>ZAWIADAMIAMY, że Czytelnia Naukowa, ul. św.
+Jana 8. jest otwarta od czwartku 7 września br
+w godzinach od 9 do 1 i od 3—5-tej 109</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10153" type="paragraph">
+	<Coords points="1981,2696 2530,2692 2796,2696 2796,2781 2026,2784 2030,2727 1984,2726 1977,2701"/>
+	<TextEquiv>
+	<Unicode>TELEGRAM. Kawiarnia Obywatelska wydaje nor-
+malnie obiady, śniadania, kolacje — ceny niskie.
+Kraków, ul. Sławkowska 9. 137</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10423" type="paragraph">
+	<Coords points="1986,2949 2779,2944 2796,2949 2803,2982 2796,3028 2737,3023 2737,3005 2563,3007 2565,3028 1986,3028 1980,2967"/>
+	<TextEquiv>
+	<Unicode>EMERYTOWANY urzędnik sądowy, lat 53, przyjmie
+jakąkolwiek pracę, zaopiekuje się nieruchomo-
+ściami. IKC., Kraków, „Nr. 196". 196</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10558" type="paragraph">
+	<Coords points="2833,1445 3615,1442 3646,1445 3652,1527 3646,1591 3070,1593 2872,1596 2875,1481 2833,1478 2829,1456"/>
+	<TextEquiv>
+	<Unicode>WŁAŚCICIELE kamienic! Podwyższę dochody, obni-
+żę wydatki, gdy obejmę, administrację kamieni-
+cy Magister Praw i Absolwent W. S. H. Dziesię-
+cioletnia praktyka. Pierwszorzędne referencje. Ła-
+skawe zgłoszenia: I. K. C. „Nr. 166". 166</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10805" type="paragraph">
+	<Coords points="2836,1624 3589,1615 3647,1618 3650,1661 3647,1681 2880,1681 2877,1652 2831,1652 2831,1624"/>
+	<TextEquiv>
+	<Unicode>MASZYNISTKA rutynowana poszukuje jakiejkoi-
+wiek posady. Wiadomość: Helclów 5 m. 1. 176</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10902" type="paragraph">
+	<Coords points="2834,1704 2843,1704 3520,1701 3644,1701 3648,1737 3646,1765 3598,1763 3600,1734 3100,1738 3092,1764 2884,1764 2872,1739 2832,1738 2830,1719"/>
+	<TextEquiv>
+	<Unicode>PRZYJMĘ zaraz pomocnika szewskiego. Kraków
+Pułaskiego 2. 183</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10968" type="paragraph">
+	<Coords points="2834,1789 3647,1785 3649,1860 3647,1878 3598,1875 3595,1846 3061,1855 3054,1878 2882,1880 2884,1823 2831,1824 2830,1797"/>
+	<TextEquiv>
+	<Unicode>PANNA z szyciem poszukuje posady do dzieci lub
+jakąkolwiek pracę — zgłoszenia: Kraków I. K. C.
+„Nr. 185". 185</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11085" type="paragraph">
+	<Coords points="2827,1905 2856,1905 3648,1901 3648,1962 3601,1959 3594,1930 3199,1937 3187,1961 2884,1962 2875,1932 2866,1932 2831,1931"/>
+	<TextEquiv>
+	<Unicode>FRYZJER męski szuka posady. Zgłoszenia do IKC.
+Kraków, „Nr. 188". 188</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11160" type="paragraph">
+	<Coords points="2836,1988 3632,1984 3647,1988 3647,2097 3600,2093 3591,2069 3043,2075 3041,2095 3036,2099 2877,2100 2879,2023 2832,2027 2830,2000"/>
+	<TextEquiv>
+	<Unicode>DYREKCJA PRYW, KOED, SZKOŁY POWSZECH-
+NEJ „NASZA SZKOŁA", Kraków, ul. szujskiego
+1, przyjmuje wpisy i udziela informacyj w godz.
+11—13-tej. 159</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11311" type="paragraph">
+	<Coords points="2840,2120 3651,2113 3647,2226 3601,2221 3596,2197 3136,2207 3118,2231 2883,2227 2881,2150 2836,2150 2829,2136 2834,2124"/>
+	<TextEquiv>
+	<Unicode>MAGISTER praw i absolwent W. S. H., dziesięcio-
+letnia praktyka handlowa i administracyjna, po-
+szukuje pracy. Łaskawe zgłoszenia IKC, Kra-
+ków, „Nr. 167". 167</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11482" type="paragraph">
+	<Coords points="2834,2248 3575,2245 3647,2248 3651,2296 3647,2355 3599,2349 3591,2328 3436,2330 3435,2352 2880,2359 2880,2290 2834,2283 2828,2265"/>
+	<TextEquiv>
+	<Unicode>OGRODNIK kwiaciarz, warzywnik, sadownik; pierw-
+szorzędna siła, lat 30, samotny, energiczny, do-
+brze polecony, przyjmie posadę zaraz, lub póź-
+niej. — IKC., Kraków, „Nr. 168". 168</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11670" type="paragraph">
+	<Coords points="1985,3053 2786,3047 2796,3053 2803,3089 2796,3134 2744,3131 2744,3107 2300,3109 2288,3133 2030,3133 2031,3083 1984,3081 1980,3065"/>
+	<TextEquiv>
+	<Unicode>WYCHOWAWCZYNI niemowląt kursu kliniki prof.
+Jonschera prosi o jakieś zajęcie. Zgł.. IKC., Kra-
+ków, „Nr. 197". 197</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11793" type="paragraph">
+	<Coords points="2836,2379 3618,2370 3646,2373 3652,2424 3284,2432 2836,2432 2829,2396"/>
+	<TextEquiv>
+	<Unicode>ZAKŁAD DENTYSTYCZNY E. JACHIMOWICZ,
+PODWALE 2, ORDYNUJE. 169</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r11859" type="paragraph">
+	<Coords points="2837,2456 3646,2452 3647,2556 3595,2557 3586,2534 3095,2542 3082,2558 2880,2565 2880,2485 2832,2484 2831,2478"/>
+	<TextEquiv>
+	<Unicode>AKADEMICZKA poszukuje lekcji w zakresie szkól
+średnich i powszechnych, ewentualnie posady
+wychowawczyni. Zgłoszenia: IKC., Wielopole 1,
+pod Nr. 171. 171</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12020" type="paragraph">
+	<Coords points="2828,2584 3602,2579 3645,2582 3651,2610 3647,2632 3603,2632 3597,2609 3447,2611 3442,2637 2884,2643 2876,2613 2831,2618"/>
+	<TextEquiv>
+	<Unicode>CHOLEWKI wszelkiego rodzaju wykonuje solidnie
+pracownia, ul. Floriańska 5, parter. 172</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12113" type="paragraph">
+	<Coords points="2833,2660 3659,2658 3654,2736 3599,2736 3592,2710 3225,2715 3220,2742 2833,2748"/>
+	<TextEquiv>
+	<Unicode>JĘZYKA niemieckiego udziela pani, uniwersyteckie
+wykształcenie. Zgłoszenia: Rynek Kleparski 4.
+m. 15, godz. 3—4-tej. 174</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12236" type="paragraph">
+	<Coords points="2835,2767 3577,2759 3646,2763 3646,2896 3602,2890 3590,2864 3329,2872 3336,2892 2906,2899 2876,2896 2881,2800 2831,2795 2829,2778"/>
+	<TextEquiv>
+	<Unicode>OTWARCIE Z. O. Z. na ul. Zwierzynieckiej Nr. 42.
+Od dnia 17. IX. 1939 r. zostanie otwarte Ambu-
+latorjum codziennie z wyjątkiem niedzieli i świąt
+od godziny 15—17, pod tymczasowem kierowni-
+otwem lek. wet. Jana Krilla. 186</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12471" type="paragraph">
+	<Coords points="2839,2921 3557,2915 3647,2917 3648,2972 2836,2976 2830,2938"/>
+	<TextEquiv>
+	<Unicode>PIEI.ĘSNIARKA szuka pracy, rohi zastrzyki. —
+Wiadomość: STAROWIŚLNA 49, m. 3. 181</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r12557" type="paragraph">
+	<Coords points="2835,3000 3646,2996 3647,3045 2834,3057 2828,3019"/>
+	<TextEquiv>
+	<Unicode>ZDOLNY malarz szyldowy, lat 32 — poszukuje pra-
+cy. — Zgłoszenia: IKC., Kraków, „Nr. 189". 189</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13071" type="paragraph">
+	<Coords points="2843,3080 3517,3073 3647,3075 3658,3147 3647,3204 3597,3205 3585,3181 3054,3190 3044,3216 2876,3219 2876,3113 2834,3111 2830,3091"/>
+	<TextEquiv>
+	<Unicode>INT., starsza, lecz zdrowa i kobieta pracy (zna szy-
+cie), przez zawieruchę woj. wytrącona z równo-
+wagi życiowej i rzucona na pastwę losu, błaga
+o iakąkoiwiek pracę. Zgłoszenia: IKC., Kraków,
+„Nr. 192". 192</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13290" type="heading">
+	<Coords points="2928,3312 3488,3308 3509,3312 3511,3346 3510,3355 3182,3366 2928,3364 2921,3344"/>
+	<TextEquiv>
+	<Unicode>CO GRAJĄ W KINACH.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13311" type="paragraph">
+	<Coords points="2859,3378 3457,3375 3492,3378 3494,3402 3483,3402 3477,3404 3219,3409 3210,3407 3135,3406 3125,3411 2859,3411 2854,3407"/>
+	<TextEquiv>
+	<Unicode>Atlantic: „Książątko" (Łubieńska, Bodo).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13354" type="paragraph">
+	<Coords points="2859,3415 3117,3413 3486,3407 3492,3407 3499,3404 3644,3407 3644,3471 2874,3478 2857,3471 2853,3443"/>
+	<TextEquiv>
+	<Unicode>Apollo: „Trzech Muszkieterów" (Bracia Ritz).
+Wanda: „Prof. Wilczur" (Stępowski, Barszczewska).</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13453" type="paragraph">
+	<Coords points="334,3619 431,3620 582,3647 987,3634 1073,3674 1098,3780 590,3787 322,3780 305,3672 309,3640"/>
+	<TextEquiv>
+	<Unicode>na granicy.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13463" type="paragraph">
+	<Coords points="282,3838 1106,3838 1102,3871 1103,3942 911,3944 902,3946 897,3945 808,3945 638,3946 625,3949 619,3947 550,3947 517,3948 353,3946 313,3948 282,3950"/>
+	<TextEquiv>
+	<Unicode>Obaj byli w cywilnych garniturach. Ka-
+rol Wister wiedział już jednak, że są wyż-
+szymi funkcjonarjuszami śledczymi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13586" type="paragraph">
+	<Coords points="287,3958 314,3956 324,3949 612,3953 615,3951 645,3950 652,3948 1105,3946 1105,4011 946,4015 551,4022 475,4019 475,4045 461,4047 277,4049"/>
+	<TextEquiv>
+	<Unicode>Siędząc przy stoliku w małej restaura-
+cyjce kolejowej, przysłuchiwali się ich
+rozmowie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13681" type="paragraph">
+	<Coords points="290,4062 304,4053 326,4051 390,4052 448,4052 605,4047 1061,4045 1101,4049 1103,4072 1101,4120 288,4120 283,4108"/>
+	<TextEquiv>
+	<Unicode>Mówili półgłosem, ale Wister miał do-
+skonały słuch i nie uronił ani słowa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13762" type="paragraph">
+	<Coords points="317,4164 322,4127 1074,4124 1103,4125 1110,4223 1100,4229 1021,4232 1018,4266 286,4267 282,4206 287,4166"/>
+	<TextEquiv>
+	<Unicode>Rozmawiali o jednym z urzędników cel-
+nych, Wiktorze Kallinie, pełniącym swe
+funkcje na granicy. Kallin był to wysoki,
+chudy mężczyzna o ziemistej twarzy.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13932" type="paragraph">
+	<Coords points="285,4275 1102,4275 1103,4404 1060,4408 738,4408 723,4412 719,4408 564,4411 562,4408 413,4409 359,4410 323,4414 294,4415 283,4415"/>
+	<TextEquiv>
+	<Unicode>Wister w ostatnich dniach nieraz przy-
+glądał mu się. Krążył ciągle dokoła po-
+szczególnych punktów granicznych, nie mo-
+gąç w żaden sposób wydostać się z kraju.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14105" type="paragraph">
+	<Coords points="289,4427 379,4411 454,4412 731,4416 754,4413 821,4410 1058,4409 1101,4411 1105,4577 1007,4577 960,4580 843,4579 806,4580 782,4582 717,4583 713,4579 672,4580 524,4585 481,4585 474,4582 279,4583 281,4464"/>
+	<TextEquiv>
+	<Unicode>— Nigdy nie. przypuszczałem, że Kallin
+jest aferzystą — mówił jeden z funkcjona-
+rjuszów, śledczych. Jak się okazuje, sprze-
+niewierzył kilkanaście tysięcy. Wszyst-
+kie dowody przemawiają przeciwko niemu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14323" type="paragraph">
+	<Coords points="277,4590 372,4586 390,4584 415,4586 419,4591 1105,4580 1105,4613 1079,4615 691,4618 670,4653 576,4652 570,4653 566,4652 558,4651 547,4651 464,4655 280,4651"/>
+	<TextEquiv>
+	<Unicode>— Dlaczego go jeszcze nie aresztowa-
+no? — spytał drugi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14385" type="paragraph">
+	<Coords points="272,4658 371,4658 372,4655 455,4657 563,4655 575,4658 605,4657 676,4654 693,4652 1104,4641 1104,4753 729,4785 582,4788 502,4792 496,4791 470,4790 456,4792 450,4792 415,4793 411,4790 329,4790 282,4793"/>
+	<TextEquiv>
+	<Unicode>— Dlatego, żc władze jeszcze nie ukoń-
+czyły dochodzenia i nie chcą go płoszyć.
+Kallin od trzech dni znajduje sie pod ob-
+serwacją agentów.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14535" type="paragraph">
+	<Coords points="309,4803 365,4798 388,4793 413,4795 492,4792 545,4799 574,4792 701,4789 704,4821 468,4825 436,4828 426,4825 316,4824"/>
+	<TextEquiv>
+	<Unicode>— A jeśli ucieknie?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14557" type="paragraph">
+	<Coords points="281,4856 298,4838 367,4836 374,4827 419,4827 438,4833 480,4827 1105,4820 1107,4959 827,4959 822,4990 815,4992 795,4995 789,4993 776,4992 323,4997 310,4999 282,5001 283,4983"/>
+	<TextEquiv>
+	<Unicode>— To niemożliwe. Zresztą Kallin z pe-
+wnością nie wie, że władze ujawniły afe-
+re. Wydaje mu się, że jest w dalszym ciągu
+zupełnie bezpieczny. Przypuszczam, że już
+jutro zostanie aresztowany.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14759" type="paragraph">
+	<Coords points="313,5020 313,5005 380,4999 500,4999 511,4998 586,4997 782,4995 804,5000 814,4995 1110,4989 1113,5131 1031,5130 1023,5165 672,5162 554,5165 552,5166 315,5170 282,5171 286,5142 280,5045"/>
+	<TextEquiv>
+	<Unicode>— Nie żal mi go zupełnie. Koledzy ni-
+gdy go nie lubili. Był zamknięty w sobie
+i ponury. Ciekaw jestem, co uczynił z tymi
+pieniędzmi. Przecież nigdy nie wyjeżdżał,
+nic bawił się, nie chodził, do knajp...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14976" type="paragraph">
+	<Coords points="322,5172 543,5169 556,5171 649,5167 669,5172 674,5169 779,5166 792,5169 837,5165 865,5171 882,5165 889,5167 892,5173 937,5174 979,5167 994,5166 995,5177 1065,5164 1085,5163 1102,5173 1104,5206 324,5206"/>
+	<TextEquiv>
+	<Unicode>W tej chwili jeden z funkcjonarjuszów</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15016" type="paragraph">
+	<Coords points="1133,3609 1955,3609 1949,3689 1326,3689 1327,3721 1315,3724 1202,3724 1183,3718 1169,3725 1133,3726"/>
+	<TextEquiv>
+	<Unicode>śledczych odwrócił głowę i spojrzał ńa
+Wistera. Wister spuścił wzrok i sięgnął
+po gazetę.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15112" type="paragraph">
+	<Coords points="1131,3730 1175,3728 1178,3724 1194,3726 1214,3727 1316,3726 1333,3722 1953,3715 1952,3790 1320,3793 1320,3817 1298,3827 1294,3823 1215,3829 1213,3824 1136,3828"/>
+	<TextEquiv>
+	<Unicode>Po chwili przywołał kelnera i zapłacił
+za herbatę. Postanowił opuścić restaurację
+kolejową.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15396" type="paragraph">
+	<Coords points="1135,4100 1708,4096 1937,4098 1944,4094 1956,4100 1955,4202 1852,4201 1840,4233 1830,4233 1820,4227 1726,4230 1715,4235 1667,4234 1661,4232 1627,4231 1463,4234 1439,4235 1425,4237 1423,4232 1357,4233 1217,4240 1213,4235 1184,4235 1175,4239 1135,4239"/>
+	<TextEquiv>
+	<Unicode>Przed ucieczką zaopatrzył się w paszport
+na fałszywe nazwisko. Sądził, że wyszuka
+jakiegoś przemytnika, który zgodzi się go
+przeprowadzić przez zieloną granicę.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15771" type="paragraph">
+	<Coords points="1134,4419 1178,4410 1350,4414 1353,4409 1383,4408 1389,4413 1445,4409 1453,4406 1597,4405 1612,4407 1636,4405 1959,4399 1959,4506 1766,4511 1754,4526 1749,4540 1598,4542 1564,4543 1561,4538 1520,4541 1301,4546 1199,4547 1190,4542 1134,4547"/>
+	<TextEquiv>
+	<Unicode>Wister włóczył się więc po osadach po-
+granicznych, od czasu do czasu zjawiał się
+nawet na granicznej stacji kolejowej, nie
+mogąc powziąć żadnej decyzji.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r15933" type="paragraph">
+	<Coords points="1131,4552 1167,4551 1176,4547 1193,4546 1202,4550 1557,4543 1560,4545 1641,4544 1671,4543 1955,4538 1957,4678 1590,4683 1586,4712 1495,4711 1175,4714 1160,4719 1132,4718"/>
+	<TextEquiv>
+	<Unicode>Teraz wreszcie wydostanie się z kraju.
+Oczywiście, jeśli go będzie rewidował Kał-
+łin. Jeśli Kallin nawet znajdzie przy nim
+pieniądze, nie skonfiskuje mu ich. Należy
+tylko działać odważnie.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16135" type="paragraph">
+	<Coords points="1134,4722 1168,4721 1179,4717 1386,4714 1665,4713 1957,4710 1955,4772 1764,4813 1618,4814 1485,4814 1459,4816 1441,4819 1438,4814 1290,4814 1275,4818 1254,4820 1249,4815 1136,4817"/>
+	<TextEquiv>
+	<Unicode>Wister wsiadł do pociągu. Już po trzy-
+dziestu minutach znalazł się na stacji gra-
+nicznej. Tu odbywała się rewizja</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16257" type="paragraph">
+	<Coords points="1127,4832 1168,4829 1169,4820 1233,4820 1247,4825 1300,4824 1321,4817 1425,4817 1436,4826 1469,4826 1492,4816 1620,4817 1743,4817 1782,4814 1955,4810 1955,4843 1841,4845 1838,4882 1498,4881 1481,4883 1471,4888 1464,4884 1134,4885"/>
+	<TextEquiv>
+	<Unicode>W przedziale znajdowało się osiem osób.
+Wister starał się zachować spokój.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16337" type="paragraph">
+	<Coords points="1130,4897 1166,4897 1179,4888 1460,4888 1473,4894 1479,4886 1560,4884 1705,4884 1853,4888 1959,4876 1959,4984 1650,4992 1649,5012 1639,5018 1623,5018 1610,5025 1603,5017 1527,5023 1417,5022 1394,5024 1392,5020 1307,5022 1304,5026 1301,5023 1285,5026 1275,5022 1245,5021 1232,5023 1196,5024 1188,5025 1132,5026"/>
+	<TextEquiv>
+	<Unicode>Gdy zjawili się funkcjonariusze policyj-
+ni wyjął swój dowód osobisty. Wiedział,
+że iest doskonałe podrobiony i nie obawiał
+się z tego względu policji.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16634" type="paragraph">
+	<Coords points="1136,5133 1172,5132 1176,5128 1314,5129 1361,5125 1389,5128 1571,5124 1624,5132 1663,5128 1672,5123 1710,5123 1713,5128 1784,5122 1956,5116 1958,5190 1138,5200"/>
+	<TextEquiv>
+	<Unicode>Teraz miała nastąpić rewizja celna. któ-
+rej Wister takb ardzo się obawiał. Otwo-</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16722" type="paragraph">
+	<Coords points="1986,3622 2702,3616 2797,3620 2798,3656 2075,3657 2078,3688 1987,3687 1982,3667"/>
+	<TextEquiv>
+	<Unicode>rzył drewi praedziału i wyszedł na kory-
+tarz.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16774" type="paragraph">
+	<Coords points="1992,3691 2716,3682 2776,3682 2798,3688 2803,3722 2800,3782 2644,3784 2591,3788 2572,3786 2448,3787 2434,3788 2311,3790 1986,3792 1981,3758"/>
+	<TextEquiv>
+	<Unicode>Chciał zobaczyć, czy Kallin skieruje się
+do jego przedziału. Gdyby miał się zjawić
+inny urzędnik, Wister musiałby uciec.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r16901" type="paragraph">
+	<Coords points="1982,3799 2026,3794 2218,3792 2293,3798 2379,3791 2452,3789 2624,3793 2656,3787 2770,3785 2798,3787 2806,3889 2396,3894 2239,3895 2239,3921 2105,3927 1987,3928 1982,3897"/>
+	<TextEquiv>
+	<Unicode>Poszczęściło mu się. Po paru chwilach
+zobaczył Kallina. Celnik szedł sam. Otwo-
+rzył drzwi przedziału i obwieścił tubal-
+nym głosem:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17043" type="paragraph">
+	<Coords points="2024,3929 2276,3927 2294,3924 2347,3926 2350,3956 2203,3958 2185,3961 2013,3954"/>
+	<TextEquiv>
+	<Unicode>— Rewizja celna.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17064" type="paragraph">
+	<Coords points="1990,3963 2028,3958 2181,3967 2195,3963 2368,3959 2788,3950 2797,3956 2801,4015 2632,4019 2423,4024 2264,4024 2156,4025 2137,4029 2133,4026 2030,4027 2015,4030 1986,4031 1981,4019"/>
+	<TextEquiv>
+	<Unicode>Wister postanowił, przeczekać wszystkich
+podróżnych. Pragnął być ostatni.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17141" type="paragraph">
+	<Coords points="1981,4042 1993,4045 2029,4029 2103,4029 2132,4031 2174,4028 2512,4025 2630,4023 2666,4026 2700,4020 2808,4019 2802,4077 2796,4092 2658,4094 2658,4123 1987,4127 1981,4093"/>
+	<TextEquiv>
+	<Unicode>Gdyby Kallin odnalazł pieniądze, które
+ukrył w podwójnym dnie malej walizeczki,
+rozmówi sie z uim w cztery oczy.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17261" type="paragraph">
+	<Coords points="1989,4136 2739,4130 2764,4123 2799,4130 2804,4177 2799,4239 2133,4243 2144,4271 1988,4272 1981,4207"/>
+	<TextEquiv>
+	<Unicode>Kallin przystąpił do swych czynności,
+Wister z trudnością panował nad soba.
+Gdy przyszła kolej na niego, otworzył sam
+walizkę.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17398" type="paragraph">
+	<Coords points="1987,4275 2512,4270 2800,4275 2802,4438 2414,4447 2422,4475 2311,4476 2088,4481 2058,4478 1987,4483"/>
+	<TextEquiv>
+	<Unicode>Kallin zmierzył go szybkiem spojrze-
+niem. Nie wytrzymał jego wzroku. To go
+właśnie zgubiło. Musiał się wydąć podej-
+rzany, gdyż Kallin znacznie dłużej badał
+jego walizkę, niż inne, a choć nie znalazł
+pieniędzy, powiedział:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17634" type="paragraph">
+	<Coords points="1985,4494 2064,4492 2078,4482 2142,4485 2285,4479 2434,4478 2466,4472 2765,4471 2800,4477 2804,4506 2331,4514 2334,4542 2321,4544 2316,4549 2305,4544 2252,4544 2071,4545 2045,4550 1989,4549 1980,4544"/>
+	<TextEquiv>
+	<Unicode>— Pan pozwoli do osobistej rewizji. Pro-
+szę zabrać walizę.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17698" type="paragraph">
+	<Coords points="2027,4554 2070,4553 2076,4546 2230,4552 2251,4547 2257,4552 2336,4551 2345,4544 2647,4535 2709,4545 2719,4567 2709,4581 2630,4574 2386,4574 2197,4581 2192,4575 2024,4581 2020,4573"/>
+	<TextEquiv>
+	<Unicode>— Dlaczego? — odezwał się Wister.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17736" type="paragraph">
+	<Coords points="2022,4587 2301,4580 2324,4581 2358,4585 2376,4582 2518,4578 2605,4577 2607,4607 2579,4607 2566,4611 2422,4612 2408,4610 2382,4605 2351,4610 2204,4610 2191,4613 2180,4616 2025,4610 2018,4605"/>
+	<TextEquiv>
+	<Unicode>— Pan pozwoli... — powtórzył.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r17769" type="paragraph">
+	<Coords points="1989,4609 2010,4615 2079,4615 2143,4619 2194,4618 2200,4614 2357,4614 2370,4611 2403,4615 2541,4615 2614,4609 2661,4609 2775,4603 2800,4609 2806,4660 2804,4750 2800,4779 2351,4790 2320,4814 1989,4814 1982,4783 1983,4700"/>
+	<TextEquiv>
+	<Unicode>Wister zdawał sobie sprawę, że w wiel-
+kiej hali dworcowej, w której dokonywano
+rewizji osobistej, nie będzie mógł się roz-
+mówić z Kallinem. Dlatego też, gdy cel-
+nik go wyprowadził z przedziału, szepnął
+doń w korytarzu:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18003" type="paragraph">
+	<Coords points="1988,4817 2265,4817 2724,4804 2802,4812 2802,4845 2291,4877 1990,4884 1984,4863"/>
+	<TextEquiv>
+	<Unicode>— Chcę pana ostrzec... Panu grozi nie-
+bezpieczeństwo...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18065" type="paragraph">
+	<Coords points="1987,4893 2061,4893 2086,4884 2290,4880 2557,4871 2800,4881 2806,4890 2800,4919 2073,4951 1984,4947"/>
+	<TextEquiv>
+	<Unicode>— Jakie niebezpieczeństwo? — zmar-
+szczył brwi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18300" type="paragraph">
+	<Coords points="2006,5119 2280,5118 2301,5121 2309,5116 2380,5111 2745,5106 2801,5111 2806,5134 2802,5182 2009,5185"/>
+	<TextEquiv>
+	<Unicode>Kalin przystanął i patrzył nań uważnie.
+— Co pan wygaduje? — mruknął.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18372" type="paragraph">
+	<Coords points="2834,3607 2937,3610 3223,3607 3347,3607 3378,3604 3616,3601 3645,3607 3658,3658 3648,3767 3552,3772 3545,3777 3445,3778 3405,3775 3397,3777 3361,3776 3258,3776 3241,3778 3218,3778 3211,3780 3066,3781 2899,3779 2857,3781 2849,3784 2834,3784 2830,3779 2826,3725"/>
+	<TextEquiv>
+	<Unicode>— Przysięgam, że mówię prawdę. — Mam
+przy sobie trzydzieści tysięcy. — Dam pa-
+nu dziesięć. Uciekniemy razem zagranicę.
+Przecież pan także nie może zostać w kra-
+ju. Jutro wpadnie pan w ręce policji.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18584" type="paragraph">
+	<Coords points="2833,3787 2914,3789 2929,3781 3006,3781 3083,3785 3210,3784 3250,3782 3261,3778 3269,3782 3320,3778 3413,3778 3537,3781 3568,3775 3645,3773 3649,3785 3643,3811 3181,3814 3182,3839 3177,3843 3137,3845 3024,3845 2998,3850 2977,3846 2946,3845 2832,3848"/>
+	<TextEquiv>
+	<Unicode>— Gdzie pan ma pieniądze? — patrzyi
+nań wciąż Kallin.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18647" type="paragraph">
+	<Coords points="2833,3854 2917,3853 2925,3848 2963,3849 2975,3849 2987,3853 3034,3852 3040,3847 3376,3845 3474,3834 3624,3835 3647,3845 3657,3900 3647,3980 3332,3980 3311,4008 3175,4013 3138,4013 3099,4016 3094,4012 3021,4011 3003,4014 2987,4017 2982,4011 2885,4013 2875,4017 2869,4020 2835,4018 2831,3975"/>
+	<TextEquiv>
+	<Unicode>— Nie wierzy mi pan? — uśmiechnał się
+sztucznie. W walizce. Zaraz się z panem
+podzielę. Trzeba się szybko decydęwac. Po-
+ciąg zaraz odjedzie. Jeśli nie uciekniemy,
+będziemy obaj zgubieni.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18849" type="paragraph">
+	<Coords points="2869,4024 2876,4018 2965,4015 2998,4021 3028,4018 3038,4015 3061,4020 3125,4017 3135,4015 3213,4015 3467,4010 3591,4008 3646,4012 3649,4035 3646,4049 3454,4042 3189,4048 3180,4044 3108,4044 3094,4049 3088,4045 2871,4046"/>
+	<TextEquiv>
+	<Unicode>Kallin chwycił go gwałtownie za rękę.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18889" type="paragraph">
+	<Coords points="2867,4058 2910,4057 2922,4049 3079,4053 3420,4044 3426,4077 3062,4078 3050,4083 3039,4083 3036,4078 2898,4079 2872,4082"/>
+	<TextEquiv>
+	<Unicode>— Proszę za mną— zawołał.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r18917" type="paragraph">
+	<Coords points="2836,4113 2863,4089 3408,4079 3622,4076 3648,4080 3653,4154 3647,4149 3150,4146 3146,4176 3068,4181 3029,4183 3022,4179 2873,4186 2838,4184 2831,4158"/>
+	<TextEquiv>
+	<Unicode>— Ciszej... — Spojrzał nań z przeraże-
+niem Wister. — Dlaczego pan krzyczy...;
+Zgadza się pan?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19020" type="paragraph">
+	<Coords points="2864,4215 2871,4192 3048,4185 3059,4183 3065,4185 3099,4181 3647,4180 3649,4216 3262,4214 3278,4238 3233,4243 3112,4245 3083,4250 3073,4246 2971,4250 2950,4253 2942,4248 2838,4251 2835,4240 2834,4226"/>
+	<TextEquiv>
+	<Unicode>— Prędzej. Prószę za mną — zawołał je-
+szcze głośniej celnik.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19086" type="paragraph">
+	<Coords points="2828,4262 2870,4252 2935,4251 2949,4256 2975,4251 3044,4250 3099,4254 3124,4249 3190,4247 3637,4241 3648,4246 3650,4311 3126,4316 3123,4347 3011,4348 2911,4355 2886,4342 2870,4354 2838,4352"/>
+	<TextEquiv>
+	<Unicode>Z najbliższych przedziałów wysunęło się
+kilku pasażerów. Wisterowi spływał zim-
+ny pot z czoła.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19305" type="paragraph">
+	<Coords points="2839,4556 3052,4556 3054,4553 3117,4555 3243,4550 3287,4547 3466,4547 3468,4551 3501,4546 3651,4547 3657,4617 3511,4649 3487,4645 3309,4647 3263,4651 3261,4647 3203,4649 3189,4648 3078,4656 2910,4650 2881,4654 2874,4651 2838,4654"/>
+	<TextEquiv>
+	<Unicode>Na peronie przywołał jeszcze jednego u-
+rzędnika. Zjawił się również policjant. Wi-
+ster wiedział już, że jest zgubiony.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19432" type="paragraph">
+	<Coords points="2833,4665 2873,4656 2932,4655 2979,4660 3070,4659 3204,4651 3220,4658 3297,4650 3441,4650 3488,4647 3510,4652 3545,4645 3639,4646 3650,4649 3655,4748 3042,4753 2838,4786"/>
+	<TextEquiv>
+	<Unicode>Skierowano go do wielkiej hali. Kalliu
+jeszcze raz począł badać walizę i oczywi-
+ście tym razem znalazł pieniądze oraz ko-
+sztowności.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19574" type="paragraph">
+	<Coords points="2873,4787 3385,4787 3392,4813 3355,4818 3354,4813 2873,4818"/>
+	<TextEquiv>
+	<Unicode>Wister został aresztowany.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19603" type="paragraph">
+	<Coords points="2851,4821 3306,4816 3348,4816 3350,4822 3372,4820 3375,4817 3457,4817 3501,4813 3650,4817 3652,4829 3650,4843 3453,4849 3433,4886 2841,4888 2832,4876"/>
+	<TextEquiv>
+	<Unicode>Jak się okazało, Kallin nie miał na su-
+mieniu żadnego przestępstwa.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19676" type="paragraph">
+	<Coords points="2838,4892 3652,4892 3657,5026 2941,5035 2943,5056 2929,5062 2838,5062 2833,4975"/>
+	<TextEquiv>
+	<Unicode>Władze, prowadząc dalsze śledztwo, na-
+zajutrz wykryły, że winowajcą był inny
+urzędnik celny, choć początkowo wszelkie
+okoliczności przemawiały przeciwko Kalli-
+nowi.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19853" type="paragraph">
+	<Coords points="2839,5067 3611,5062 3650,5067 3655,5103 2928,5113 2923,5139 2839,5139 2832,5130"/>
+	<TextEquiv>
+	<Unicode>Właściwego sprawcę osadzono w więzie-
+niu.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19907" type="footer">
+	<Coords points="821,5279 1111,5272 3100,5250 3102,5294 3060,5300 2684,5300 2176,5303 796,5321 728,5313 728,5276"/>
+	<TextEquiv>
+	<Unicode>Naczslny rodaktor w zastąpstwiedwis; Ludwik Szczepański. — Ska Wydawinicza „I. K. C." — Zakłady grafiezne „I. K. C.".</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r20031">
+	<Coords points="2764,546 2791,546 2791,549 2783,549 2783,550 2642,550 2642,551 2097,551 2097,552 1984,552 1984,549 2097,549 2097,548 2402,548 2402,547 2764,547"/></SeparatorRegion>
+	<SeparatorRegion id="r20032">
+	<Coords points="3613,566 3639,566 3639,572 3529,572 3529,573 3426,573 3426,574 3352,574 3352,575 3258,575 3258,576 3139,576 3139,577 2984,577 2984,578 2873,578 2873,579 2835,579 2835,574 2984,574 2984,573 3139,573 3139,572 3258,572 3258,571 3352,571 3352,570 3426,570 3426,569 3474,569 3474,568 3529,568 3529,567 3613,567"/></SeparatorRegion>
+	<SeparatorRegion id="r20033">
+	<Coords points="1171,576 1300,576 1300,577 1364,577 1364,578 1578,578 1578,581 1171,581"/></SeparatorRegion>
+	<SeparatorRegion id="r20034">
+	<Coords points="1746,576 1942,576 1942,580 1746,580"/></SeparatorRegion>
+	<SeparatorRegion id="r20035">
+	<Coords points="1600,577 1708,577 1708,580 1600,580"/></SeparatorRegion>
+	<SeparatorRegion id="r20047">
+	<Coords points="1155,870 1155,864 1152,864 1946,862 1945,871 1767,869 1623,869 1395,872"/></SeparatorRegion>
+	<SeparatorRegion id="r20049">
+	<Coords points="2835,938 2858,940 3646,935 3639,944 3247,944 2835,950"/></SeparatorRegion>
+	<SeparatorRegion id="r20051">
+	<Coords points="1135,1054 1138,1044 1943,1045 1943,1049 1653,1049"/></SeparatorRegion>
+	<SeparatorRegion id="r20054">
+	<Coords points="3621,1117 3641,1115 3641,1122 3591,1122 3591,1123 3509,1123 3509,1124 3431,1124 3431,1125 3222,1126 3135,1126 3135,1123 3231,1120 3431,1120 3509,1119 3591,1118"/></SeparatorRegion>
+	<SeparatorRegion id="r20055">
+	<Coords points="3134,1123 3134,1128 3025,1129 2843,1129 2843,1125 3025,1124"/></SeparatorRegion>
+	<SeparatorRegion id="r20056">
+	<Coords points="1133,1145 1205,1145 1908,1143 1941,1144 1940,1155 1133,1155"/></SeparatorRegion>
+	<SeparatorRegion id="r20057">
+	<Coords points="2388,1204 2399,1204 2399,1205 2515,1205 2515,1204 2796,1204 2796,1206 2645,1206 2645,1207 2515,1207 2515,1208 2388,1208 2388,1209 2202,1209 2202,1210 2056,1210 1987,1211 1985,1202 2202,1206 2202,1205 2388,1205"/></SeparatorRegion>
+	<SeparatorRegion id="r20058">
+	<Coords points="1785,1227 1833,1226 1926,1227 1943,1228 1943,1236 1846,1238 1202,1239 1135,1238 1135,1231 1204,1232"/></SeparatorRegion>
+	<SeparatorRegion id="r20060">
+	<Coords points="3642,1260 3642,1265 3555,1265 3555,1266 3418,1266 3418,1268 3256,1268 3256,1264 3418,1264 3418,1263 3466,1263 3466,1262 3555,1262 3555,1261 3625,1261 3625,1260"/></SeparatorRegion>
+	<SeparatorRegion id="r20061">
+	<Coords points="3224,1264 3239,1264 3239,1268 3191,1268 3191,1269 3019,1269 3019,1270 3002,1270 3002,1271 2834,1271 2834,1268 2881,1268 2881,1267 3022,1267 3022,1266 3191,1266 3191,1265 3224,1265"/></SeparatorRegion>
+	<SeparatorRegion id="r20062">
+	<Coords points="2836,1344 3645,1344 3646,1350 2837,1353"/></SeparatorRegion>
+	<SeparatorRegion id="r20069">
+	<Coords points="1137,1463 1222,1463 1472,1462 1747,1459 1941,1457 1941,1467 1475,1469 1292,1470 1138,1470"/></SeparatorRegion>
+	<SeparatorRegion id="r20072">
+	<Coords points="1340,1564 1800,1562 1944,1560 1948,1569 1827,1569 1625,1571 1358,1571 1343,1573"/></SeparatorRegion>
+	<SeparatorRegion id="r20073">
+	<Coords points="1135,1566 1336,1564 1336,1572 1140,1572"/></SeparatorRegion>
+	<SeparatorRegion id="r20074">
+	<Coords points="2831,1610 2843,1608 3642,1602 3642,1612 3092,1612 2840,1616"/></SeparatorRegion>
+	<SeparatorRegion id="r20075">
+	<Coords points="2832,1695 2844,1691 2848,1693 3645,1688 3645,1695 3267,1695 2839,1701"/></SeparatorRegion>
+	<SeparatorRegion id="r20076">
+	<Coords points="1634,1773 1936,1768 1934,1778 1582,1781 1424,1782 1139,1783 1140,1770 1486,1772 1599,1772 1634,1775"/></SeparatorRegion>
+	<SeparatorRegion id="r20077">
+	<Coords points="3646,1773 3646,1777 3637,1777 3637,1778 3590,1778 3590,1779 3518,1779 3518,1775 3590,1775 3590,1774 3637,1774 3637,1773"/></SeparatorRegion>
+	<SeparatorRegion id="r20078">
+	<Coords points="3355,1776 3490,1776 3490,1780 3351,1780 3351,1781 3253,1781 3253,1782 3188,1782 3188,1783 3121,1783 3121,1784 2947,1784 2947,1785 2891,1785 2891,1786 2836,1786 2836,1781 2981,1781 2981,1780 3121,1780 3121,1779 3188,1779 3188,1778 3355,1778"/></SeparatorRegion>
+	<SeparatorRegion id="r20080">
+	<Coords points="2003,1796 2799,1794 2797,1800 2783,1801 2003,1801"/></SeparatorRegion>
+	<SeparatorRegion id="r20081">
+	<Coords points="3538,1889 3646,1889 3646,1893 3543,1893 3543,1894 3462,1894 3462,1895 3336,1895 3336,1896 3209,1896 3209,1897 3052,1897 3052,1894 3209,1894 3209,1893 3256,1893 3256,1892 3339,1892 3339,1891 3462,1891 3462,1890 3538,1890"/></SeparatorRegion>
+	<SeparatorRegion id="r20085">
+	<Coords points="2714,1989 2714,2007 2693,2005 2426,2005 2426,2007 2061,2007 2061,1992 2426,1992 2426,1991"/></SeparatorRegion>
+	<SeparatorRegion id="r20086">
+	<Coords points="2714,2088 2714,2103 2607,2103 2607,2105 2061,2105 2061,2089 2607,2089 2607,2088"/></SeparatorRegion>
+	<SeparatorRegion id="r20087">
+	<Coords points="1939,2094 1942,2103 1891,2106 1623,2106 1482,2107 1140,2109 1141,2099 1217,2100 1352,2099 1515,2098 1819,2094"/></SeparatorRegion>
+	<SeparatorRegion id="r20088">
+	<Coords points="3599,2102 3644,2102 3644,2106 3599,2106 3599,2107 3515,2107 3515,2109 3250,2109 3250,2110 3175,2110 3175,2112 2936,2112 2936,2113 2835,2113 2835,2110 2911,2110 2911,2109 2981,2109 2981,2108 3175,2108 3175,2107 3257,2107 3257,2104 3518,2104 3518,2103 3599,2103"/></SeparatorRegion>
+	<SeparatorRegion id="r20089">
+	<Coords points="1942,2209 1941,2217 1893,2218 1883,2218 1883,2217 1822,2217 1816,2209 1893,2213 1893,2212"/></SeparatorRegion>
+	<SeparatorRegion id="r20090">
+	<Coords points="1691,2214 1806,2214 1806,2219 1407,2221 1407,2220 1345,2220 1345,2219 1336,2220 1332,2221 1282,2222 1136,2221 1136,2213 1470,2215 1691,2215"/></SeparatorRegion>
+	<SeparatorRegion id="r20092">
+	<Coords points="2509,2217 2794,2217 2794,2222 2509,2222 2509,2223 2372,2223 2372,2224 2072,2224 2072,2225 1988,2225 1988,2220 2372,2220 2372,2219 2430,2219 2430,2218 2509,2218"/></SeparatorRegion>
+	<SeparatorRegion id="r20093">
+	<Coords points="3605,2232 3646,2232 3646,2236 3605,2236 3605,2238 3444,2238 3444,2239 3252,2239 3252,2240 3216,2240 3216,2241 2996,2241 2996,2238 3065,2238 3065,2237 3228,2237 3228,2236 3255,2236 3255,2235 3444,2235 3444,2234 3496,2234 3496,2233 3605,2233"/></SeparatorRegion>
+	<SeparatorRegion id="r20094">
+	<Coords points="2834,2239 2995,2238 2994,2243 2834,2243"/></SeparatorRegion>
+	<SeparatorRegion id="r20095">
+	<Coords points="1838,2298 1940,2298 1940,2302 1826,2302 1826,2303 1698,2303 1698,2304 1515,2304 1515,2305 1356,2305 1139,2308 1139,2298 1515,2302 1515,2301 1641,2301 1641,2300 1838,2300"/></SeparatorRegion>
+	<SeparatorRegion id="r20096">
+	<Coords points="2703,2320 2788,2320 2788,2324 2703,2324 2703,2325 2482,2325 2482,2326 2264,2326 2264,2327 1988,2327 1988,2323 2268,2323 2268,2322 2482,2322 2482,2321 2703,2321"/></SeparatorRegion>
+	<SeparatorRegion id="r20097">
+	<Coords points="3645,2361 3645,2364 3576,2364 3576,2365 3476,2365 3476,2366 3339,2366 3339,2363 3476,2363 3476,2362 3576,2362 3576,2361"/></SeparatorRegion>
+	<SeparatorRegion id="r20098">
+	<Coords points="3000,2364 3317,2364 3317,2370 3000,2370"/></SeparatorRegion>
+	<SeparatorRegion id="r20099">
+	<Coords points="2833,2367 2985,2367 2985,2371 2833,2371"/></SeparatorRegion>
+	<SeparatorRegion id="r20100">
+	<Coords points="1559,2382 1944,2382 1944,2388 1547,2388 1547,2389 1474,2389 1474,2390 1217,2391 1138,2391 1138,2388 1220,2386 1477,2386 1477,2385"/></SeparatorRegion>
+	<SeparatorRegion id="r20101">
+	<Coords points="2793,2434 2793,2439 2474,2439 2474,2440 2148,2440 2148,2442 1988,2442 1988,2437 2197,2437 2197,2436 2474,2436 2474,2435 2745,2435 2745,2434"/></SeparatorRegion>
+	<SeparatorRegion id="r20102">
+	<Coords points="3599,2439 3645,2439 3645,2442 3599,2442 3599,2444 3345,2444 3345,2441 3486,2441 3486,2440 3599,2440"/></SeparatorRegion>
+	<SeparatorRegion id="r20103">
+	<Coords points="2835,2441 3331,2442 3331,2449 2834,2450"/></SeparatorRegion>
+	<SeparatorRegion id="r20104">
+	<Coords points="1769,2565 1938,2565 1938,2568 1769,2568 1769,2569 1623,2569 1623,2570 1552,2570 1552,2567 1628,2567 1628,2566 1769,2566"/></SeparatorRegion>
+	<SeparatorRegion id="r20105">
+	<Coords points="1435,2567 1538,2567 1538,2571 1432,2571 1432,2572 1341,2572 1341,2573 1139,2573 1139,2570 1219,2570 1219,2569 1341,2569 1341,2568 1435,2568"/></SeparatorRegion>
+	<SeparatorRegion id="r20106">
+	<Coords points="2834,2572 3651,2566 3638,2572 2835,2578"/></SeparatorRegion>
+	<SeparatorRegion id="r20107">
+	<Coords points="2794,2577 2794,2582 2514,2582 2514,2583 2318,2583 2318,2584 2148,2584 2148,2585 1986,2585 1986,2581 2148,2581 2148,2580 2318,2580 2318,2578 2744,2578 2744,2577"/></SeparatorRegion>
+	<SeparatorRegion id="r20108">
+	<Coords points="3636,2645 3642,2644 3645,2649 3544,2649 3544,2650 3322,2650 3322,2652 3056,2652 3056,2649 3322,2649 3322,2648 3429,2648 3429,2647 3544,2647 3544,2646 3636,2646"/></SeparatorRegion>
+	<SeparatorRegion id="r20109">
+	<Coords points="3042,2651 3042,2654 2975,2654 2975,2655 2929,2655 2929,2656 2834,2656 2834,2653 2929,2653 2929,2652 2975,2652 2975,2651"/></SeparatorRegion>
+	<SeparatorRegion id="r20110">
+	<Coords points="2666,2680 2793,2680 2793,2685 2511,2685 2511,2687 2129,2687 2129,2683 2511,2683 2511,2682 2666,2682"/></SeparatorRegion>
+	<SeparatorRegion id="r20111">
+	<Coords points="1987,2685 2082,2685 2082,2688 1987,2688"/></SeparatorRegion>
+	<SeparatorRegion id="r20112">
+	<Coords points="1937,2745 1937,2748 1898,2748 1898,2749 1761,2749 1731,2751 1732,2745 1739,2744 1761,2746 1895,2746 1895,2745"/></SeparatorRegion>
+	<SeparatorRegion id="r20113">
+	<Coords points="1526,2747 1728,2747 1728,2750 1526,2750"/></SeparatorRegion>
+	<SeparatorRegion id="r20114">
+	<Coords points="3581,2748 3645,2748 3645,2752 3581,2752 3581,2753 3464,2753 3464,2754 3360,2754 3360,2755 3191,2755 3191,2756 3100,2756 3100,2757 3013,2757 3013,2754 3100,2754 3100,2753 3191,2753 3191,2752 3258,2752 3258,2751 3360,2751 3360,2750 3464,2750 3464,2749 3581,2749"/></SeparatorRegion>
+	<SeparatorRegion id="r20115">
+	<Coords points="1149,2750 1522,2747 1523,2752 1396,2752 1146,2755"/></SeparatorRegion>
+	<SeparatorRegion id="r20116">
+	<Coords points="3003,2755 3003,2758 2915,2758 2915,2760 2835,2760 2835,2756 2965,2756 2965,2755"/></SeparatorRegion>
+	<SeparatorRegion id="r20117">
+	<Coords points="2792,2796 2792,2801 2623,2801 2623,2802 2268,2802 2268,2803 2071,2803 2071,2799 2268,2799 2268,2798 2623,2798 2623,2796"/></SeparatorRegion>
+	<SeparatorRegion id="r20120">
+	<Coords points="3642,2904 3642,2908 3490,2908 3490,2909 3324,2909 3324,2910 3258,2910 2863,2917 2856,2908 3324,2906 3343,2903 3490,2905 3490,2904"/></SeparatorRegion>
+	<SeparatorRegion id="r20121">
+	<Coords points="2683,2925 2754,2925 2754,2927 2778,2927 2778,2928 2754,2928 2754,2929 2683,2929 2683,2930 2504,2930 2504,2931 2289,2931 2289,2932 2114,2932 2114,2933 2014,2933 2014,2932 1988,2932 1988,2930 2014,2930 2014,2929 2292,2929 2292,2927 2504,2927 2504,2926 2683,2926"/></SeparatorRegion>
+	<SeparatorRegion id="r20124">
+	<Coords points="1871,3003 1944,3003 1944,3006 1868,3006 1868,3008 1780,3008 1780,3009 1442,3010 1137,3013 1137,3007 1612,3006 1612,3005 1780,3005 1780,3004 1871,3004"/></SeparatorRegion>
+	<SeparatorRegion id="r20125">
+	<Coords points="2122,3037 2794,3037 2794,3044 2122,3044"/></SeparatorRegion>
+	<SeparatorRegion id="r20126">
+	<Coords points="1988,3041 2108,3041 2108,3045 1988,3045"/></SeparatorRegion>
+	<SeparatorRegion id="r20127">
+	<Coords points="3272,3060 3583,3060 3583,3066 3259,3066 3259,3067 3202,3067 3202,3068 3089,3068 3089,3069 3026,3069 3026,3066 3092,3066 3092,3065 3202,3065 3202,3064 3272,3064"/></SeparatorRegion>
+	<SeparatorRegion id="r20128">
+	<Coords points="2975,3069 3015,3069 3015,3072 2975,3072 2975,3073 2880,3073 2880,3074 2846,3074 2833,3075 2829,3070 2886,3071 2886,3070 2975,3070"/></SeparatorRegion>
+	<SeparatorRegion id="r20129">
+	<Coords points="1562,3118 1874,3112 1941,3114 1943,3120 1694,3121 1623,3121 1623,3122 1509,3122 1509,3123 1437,3123 1137,3126 1132,3118 1509,3120 1509,3119 1562,3119"/></SeparatorRegion>
+	<SeparatorRegion id="r20130">
+	<Coords points="1099,3123 1100,3137 634,3138 634,3140 287,3140 287,3125 634,3125 634,3123"/></SeparatorRegion>
+	<SeparatorRegion id="r20131">
+	<Coords points="2254,3141 2794,3141 2794,3147 2254,3147"/></SeparatorRegion>
+	<SeparatorRegion id="r20132">
+	<Coords points="1994,3144 2192,3144 2192,3148 1994,3148"/></SeparatorRegion>
+	<SeparatorRegion id="r20133">
+	<Coords points="1733,3195 1944,3192 1944,3198 1733,3198"/></SeparatorRegion>
+	<SeparatorRegion id="r20134">
+	<Coords points="1534,3196 1729,3195 1729,3200 1534,3200"/></SeparatorRegion>
+	<SeparatorRegion id="r20135">
+	<Coords points="1146,3199 1147,3197 1510,3195 1520,3201 1425,3202 1268,3202 1145,3206"/></SeparatorRegion>
+	<SeparatorRegion id="r20136">
+	<Coords points="650,3222 1095,3222 1095,3236 650,3236 650,3238 285,3237 285,3223 650,3223"/></SeparatorRegion>
+	<SeparatorRegion id="r20137">
+	<Coords points="1990,3243 2792,3243 2792,3252 1990,3252"/></SeparatorRegion>
+	<SeparatorRegion id="r20138">
+	<Coords points="1894,3297 1944,3297 1944,3301 1772,3301 1772,3302 1660,3302 1660,3303 1531,3303 1531,3304 1469,3304 1469,3305 1346,3307 1139,3308 1145,3300 1415,3299 1469,3301 1534,3301 1561,3296 1596,3300 1596,3299 1732,3299 1732,3298 1894,3298"/></SeparatorRegion>
+	<SeparatorRegion id="r20139">
+	<Coords points="288,3357 957,3356 1097,3354 1096,3365 289,3364"/></SeparatorRegion>
+	<SeparatorRegion id="r20140">
+	<Coords points="1987,3362 2793,3362 2793,3370 1987,3370"/></SeparatorRegion>
+	<SeparatorRegion id="r20141">
+	<Coords points="1734,3376 1769,3373 1943,3371 1944,3377 1944,3378 1904,3378 1904,3379 1758,3379 1758,3380 1734,3380 1734,3381 1538,3381 1140,3386 1136,3377 1624,3378 1624,3377 1734,3377"/></SeparatorRegion>
+	<SeparatorRegion id="r20143">
+	<Coords points="3640,3495 3640,3514 3589,3514 3589,3515 3538,3515 3538,3519 3313,3519 3313,3521 3197,3521 3197,3524 3000,3524 3000,3525 2950,3525 2950,3528 2462,3528 2462,3531 1511,3531 1511,3534 1165,3534 1165,3514 1511,3514 1511,3510 2462,3510 2462,3507 2950,3507 2950,3506 3000,3506 3000,3503 3197,3503 3197,3501 3313,3501 3313,3497 3538,3497 3538,3496 3589,3496 3589,3495"/></SeparatorRegion>
+	<SeparatorRegion id="r20144">
+	<Coords points="1158,3517 1158,3537 853,3537 288,3540 288,3519 853,3517"/></SeparatorRegion>
+	<SeparatorRegion id="r20145">
+	<Coords points="3562,3530 3647,3527 3651,3548 3636,3551 3562,3551 3562,3554 3330,3554 3330,3556 3214,3556 3214,3559 3056,3559 3056,3560 2989,3560 2989,3563 2247,3563 2247,3564 2230,3564 2208,3565 2206,3544 2348,3546 2348,3542 2989,3542 2989,3541 3056,3541 3056,3538 3214,3538 3214,3536 3330,3536 3330,3532 3562,3532"/></SeparatorRegion>
+	<SeparatorRegion id="r20146">
+	<Coords points="1635,3546 2203,3546 2203,3565 1635,3565"/></SeparatorRegion>
+	<SeparatorRegion id="r20147">
+	<Coords points="1552,3547 1558,3547 1558,3548 1585,3548 1628,3543 1628,3568 1597,3566 1481,3566 1481,3567 1424,3567 1424,3569 1280,3569 1280,3568 1273,3568 1263,3570 1235,3569 1245,3558 1251,3549 1265,3548 1276,3550 1295,3550 1295,3549 1485,3549 1485,3548 1552,3548"/></SeparatorRegion>
+	<SeparatorRegion id="r20148">
+	<Coords points="958,3553 1250,3548 1233,3569 1166,3570 1129,3571 1018,3571 1018,3572 958,3572 958,3575 291,3575 291,3554 958,3554"/></SeparatorRegion>
+	<SeparatorRegion id="r20149">
+	<Coords points="765,3798 765,3804 690,3804 690,3805 628,3805 628,3799 736,3799 736,3798"/></SeparatorRegion>
+	<SeparatorRegion id="r20150">
+	<Coords points="3170,5152 3256,5133 3321,5152 3321,5158 3252,5170 3170,5158"/></SeparatorRegion>
+	<SeparatorRegion id="r20151">
+	<Coords points="3651,5221 3651,5235 3466,5235 3466,5236 3403,5236 3403,5237 3181,5237 3181,5240 3070,5240 3070,5227 3181,5227 3181,5224 3403,5224 3403,5223 3466,5223 3466,5221"/></SeparatorRegion>
+	<SeparatorRegion id="r20152">
+	<Coords points="3067,5229 3067,5240 3018,5240 3018,5243 2749,5243 2749,5245 2570,5245 2570,5248 2365,5248 2365,5249 2218,5249 2218,5252 2053,5252 2053,5253 2022,5253 2022,5252 2021,5252 2021,5251 2020,5251 2020,5250 2019,5250 2019,5249 2017,5249 2017,5241 2053,5241 2053,5239 2218,5239 2218,5237 2365,5237 2365,5235 2570,5235 2570,5233 2749,5233 2749,5230 3018,5230 3018,5229"/></SeparatorRegion>
+	<SeparatorRegion id="r20153">
+	<Coords points="2011,5242 2011,5255 1819,5255 1819,5257 1690,5257 1690,5259 1518,5259 1518,5261 1360,5261 1360,5263 1199,5263 1199,5265 1015,5265 1015,5267 804,5267 804,5254 1015,5254 1015,5252 1199,5250 1360,5250 1360,5248 1518,5248 1518,5246 1690,5246 1690,5244 1819,5244 1819,5242"/></SeparatorRegion>
+	<SeparatorRegion id="r20154">
+	<Coords points="740,5253 800,5256 800,5268 709,5268 709,5270 597,5270 597,5271 475,5271 475,5274 294,5274 294,5273 292,5273 292,5272 290,5272 290,5263 294,5263 294,5260 481,5260 481,5259 597,5259 597,5257 725,5257"/></SeparatorRegion>
+	<SeparatorRegion id="r20164">
+	<Coords points="1962,494 1966,494 1966,687 1962,687"/></SeparatorRegion>
+	<SeparatorRegion id="r20165">
+	<Coords points="1967,866 1967,984 1966,984 1966,1172 1967,1172 1967,1179 1966,1179 1966,1283 1962,1283 1962,1100 1963,1100 1963,866"/></SeparatorRegion>
+	<SeparatorRegion id="r20166">
+	<Coords points="1968,1951 1968,2198 1967,2198 1967,2466 1968,2466 1968,2531 1967,2531 1967,2554 1968,2554 1968,3092 1967,3092 1967,3126 1968,3129 1968,3406 1967,3406 1967,3410 1968,3410 1968,3417 1967,3417 1967,3421 1968,3421 1968,3506 1963,3506 1963,3406 1964,3406 1964,3092 1965,3092 1965,3033 1964,3030 1964,2613 1963,2613 1963,2466 1962,2466 1962,2195 1963,2195 1963,2124 1964,2124 1964,1987 1965,1987 1965,1951"/></SeparatorRegion>
+	<SeparatorRegion id="r20167">
+	<Coords points="1963,723 1966,723 1966,850 1963,850"/></SeparatorRegion>
+	<SeparatorRegion id="r20168">
+	<Coords points="1967,1359 1967,1668 1965,1668 1965,1633 1963,1624 1963,1477 1964,1477 1964,1359"/></SeparatorRegion>
+	<SeparatorRegion id="r20169">
+	<Coords points="1968,1701 1968,1761 1967,1761 1967,1765 1968,1765 1968,1858 1966,1858 1966,1884 1965,1884 1965,1858 1964,1858 1964,1761 1965,1761 1965,1701"/></SeparatorRegion>
+	<SeparatorRegion id="r20170">
+	<Coords points="1970,3568 1970,3744 1971,3749 1971,4129 1972,4129 1972,4138 1971,4138 1971,4210 1972,4210 1972,4427 1973,4436 1973,4694 1972,4697 1972,4701 1974,4701 1974,5172 1969,5172 1969,4697 1968,4694 1968,4504 1969,4504 1969,4436 1968,4427 1968,4210 1967,4210 1967,4143 1968,4143 1968,4051 1967,4049 1967,3943 1966,3943 1966,3568"/></SeparatorRegion>
+	<SeparatorRegion id="r20171">
+	<Coords points="2814,513 2814,539 2813,539 2813,547 2814,547 2814,722 2817,733 2817,1341 2811,1341 2811,582 2810,582 2810,551 2811,551 2811,548 2810,548 2810,538 2811,538 2811,513"/></SeparatorRegion>
+	<SeparatorRegion id="r20172">
+	<Coords points="2820,3571 2820,3603 2819,3603 2819,3730 2818,3730 2818,3905 2819,3905 2819,4097 2820,4097 2820,4136 2818,4136 2818,4149 2819,4152 2819,4203 2821,4206 2821,4397 2817,4397 2817,4136 2816,4136 2816,4097 2815,4097 2815,3905 2814,3905 2814,3730 2813,3730 2813,3603 2812,3603 2812,3571"/></SeparatorRegion>
+	<SeparatorRegion id="r20173">
+	<Coords points="2818,2013 2818,2148 2817,2148 2817,2246 2816,2246 2816,2295 2817,2295 2817,2604 2818,2651 2812,2650 2813,2295 2814,2295 2814,2246 2813,2246 2813,2148 2814,2148 2814,2013"/></SeparatorRegion>
+	<SeparatorRegion id="r20174">
+	<Coords points="2813,2665 2817,2665 2817,3028 2812,3028"/></SeparatorRegion>
+	<SeparatorRegion id="r20175">
+	<Coords points="2817,3317 2817,3452 2818,3452 2818,3463 2817,3463 2817,3473 2818,3473 2818,3493 2814,3493 2814,3479 2813,3479 2813,3357 2814,3357 2814,3317"/></SeparatorRegion>
+	<SeparatorRegion id="r20176">
+	<Coords points="2814,1366 2818,1366 2818,1456 2822,1619 2819,1649 2813,1653"/></SeparatorRegion>
+	<SeparatorRegion id="r20177">
+	<Coords points="2814,3036 2817,3036 2817,3148 2819,3311 2813,3313"/></SeparatorRegion>
+	<SeparatorRegion id="r20178">
+	<Coords points="2815,1657 2818,1657 2818,2008 2813,2009"/></SeparatorRegion>
+	<SeparatorRegion id="r20179">
+	<Coords points="2821,4526 2821,4729 2822,4729 2822,4743 2821,4743 2821,4763 2822,4763 2822,4825 2821,4825 2821,4829 2822,4829 2822,4982 2823,4994 2823,5139 2825,5176 2818,5182 2818,4994 2817,4982 2817,4823 2818,4823 2818,4820 2817,4820 2817,4806 2818,4806 2818,4803 2817,4803 2817,4794 2818,4794 2818,4763 2817,4763 2817,4743 2818,4743 2818,4610 2817,4606 2817,4526"/></SeparatorRegion>
+	<SeparatorRegion id="r20180">
+	<Coords points="1100,3139 1100,3218 1086,3217 1087,3142 1087,3139"/></SeparatorRegion>
+	<TextRegion id="r338" type="paragraph">
+	<Coords points="1136,5036 1167,5037 1171,5027 1244,5026 1251,5024 1275,5027 1284,5029 1299,5024 1307,5030 1379,5029 1400,5026 1553,5024 1560,5022 1584,5023 1605,5022 1611,5028 1634,5020 1957,5013 1958,5113 1730,5123 1689,5120 1650,5123 1421,5123 1136,5125"/>
+	<TextEquiv>
+	<Unicode>Funkcjonarjusze policyjni rzucili okiem
+na fotografję, obejrzeli wizy i zwrócili mu
+dokument. Po chwili opuścili przedział.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r340" type="paragraph">
+	<Coords points="1140,3836 1952,3817 1954,4061 1863,4063 1302,4069 1295,4097 1133,4098"/>
+	<TextEquiv>
+	<Unicode>Rozmowa, którą podsłuchał, nasunęła mu
+nowy plan działania. Tym razem z pewno-
+ścią przedostanie się przez granicę.
+Przed dziesięciu dniami Wister uciekł ze
+stolicy. Skradł swemu pracodawcy, wła-
+ściciełowi sklepu jubilerskiego, trzydzieści
+tysięcy złotych. Prócz tego tego kilka drogich
+kamieni.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r341" type="paragraph">
+	<Coords points="1128,876 1957,876 1957,1039 1177,1037 1178,911 1134,905 1129,900"/>
+	<TextEquiv>
+	<Unicode>ANTONI Kosmyra i Wiesław Kotowski, uczeń gimna
+zjalny — zaginęli Proszę wszystkich, którzy ich
+widzieli, o wiadomość, lub w razie spotkania ich
+o skierowanie do domu. Wejście do miasta od
+godz. 6 rano do 6 tej wieczór — Kosmyrowa
+Kraków, Ujejskiego Nr. 4, m. 9. 87</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r19223" type="paragraph">
+	<Coords points="2867,4487 3649,4483 3651,4541 3484,4544 3471,4548 3469,4542 3247,4546 3157,4550 3116,4553 3080,4552 3061,4550 2841,4555 2834,4527"/>
+	<TextEquiv>
+	<Unicode>Nie zdążył jednak się odezwać. Kallin
+wyprowadził go brutalnie z korytarza.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r342" type="paragraph">
+	<Coords points="2837,4357 2830,4478 2841,4485 3666,4478 3666,4351 3557,4335 3280,4339 2998,4359 2973,4353 2903,4357 2889,4350 2881,4351 2867,4358"/>
+	<TextEquiv>
+	<Unicode>Co się nagle stało Kallininowi? Czyżby
+nie zgadzał się na jego propozycję? Doda
+mu jeszcze pięć tysięcy i jeden z drogich
+kamieni, które równiez ukrył w wałizce.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r346" type="page-number">
+	<Coords points="325,385 329,413 347,414 356,400 348,374"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r347" type="paragraph">
+	<Coords points="330,3150 330,3215 1070,3215 1070,3150 760,3144"/>
+	<TextEquiv>
+	<Unicode>Poszukiwanie się wzaiemne</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r348" type="paragraph">
+	<Coords points="1133,4249 1172,4247 1182,4238 1208,4238 1219,4242 1294,4238 1383,4237 1527,4239 1537,4236 1602,4235 1724,4238 1728,4238 1737,4243 1758,4232 1823,4239 1879,4233 1886,4230 1954,4230 1957,4373 1637,4372 1632,4401 1459,4404 1449,4405 1439,4408 1433,4406 1293,4409 1252,4406 1235,4408 1205,4408 1204,4405 1177,4405 1168,4410 1135,4411"/>
+	<TextEquiv>
+	<Unicode>Okazało się inaczej. Przemytnicy; z któ-
+rymi wszedł w kontakt, oświadczyli mu, że
+obecnie wszystkie punkty graniczne są pil-
+nie strzeżone i żaden z nich nie chciał się
+podjąć go przeprowadzić.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r349" type="paragraph">
+	<Coords points="1131,3130 1957,3130 1957,3189 1131,3189"/>
+	<TextEquiv>
+	<Unicode>BRONISŁAWA Kurczówna. wracaj, mama i wszy-
+scy w Krakowie — Tosiek. 158</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r350" type="paragraph">
+	<Coords points="1131,2758 1131,2840 1955,2840 1955,2758 1176,2763"/>
+	<TextEquiv>
+	<Unicode>WALDMANN Aleksander, Kraków, ul. Rakowicka
+11a. zawiadamia Rodziców, że jest w domu. —
+Wszystko w porządku. 199</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r351" type="paragraph">
+	<Coords points="1132,2225 1315,2229 1957,2226 1957,2290 1126,2290"/>
+	<TextEquiv>
+	<Unicode>JADWIGA i Wilek dajcie znak życia rodzicom w
+Krakowie. Olga. 155</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r353" type="paragraph">
+	<Coords points="1984,4955 1984,5115 2193,5113 2281,5114 2289,5117 2306,5113 2349,5110 2354,5081 2801,5081 2812,5074 2813,4949 2781,4936"/>
+	<TextEquiv>
+	<Unicode>Podsłuchałem rozmowę dwóch urzęd-
+ników śledczych — odparł mu szeptem. —
+Mówili o panu. Pan ma być jutro areszto-
+wany. Za nadużycia. Władze posiadają
+wszelkie dowody...</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r354" type="paragraph">
+	<Coords points="2830,955 3597,950 3650,952 3647,1029 3602,1030 3589,1008 3162,1012 3155,1035 2883,1036 2885,990 2832,993"/>
+	<TextEquiv>
+	<Unicode>LEKCJI jężyka niemieckiego oraz. konwersacji u-
+dzielam. Wiadomość': Potockiego 13/I. p., m. 3.
+między 2—4 pop. 147</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r355" type="paragraph">
+	<Coords points="2821,467 2821,504 2877,504 2876,558 2906,562 3646,552 3644,466"/>
+	<TextEquiv>
+	<Unicode>STENOTYPISTKA polsko-niemiecka, maszyna, bu-
+chąlterja stenografja, szuka posady biurowej.
+Zgłoszenia: I. K. C. Kraków „7k". 7k</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r323">
+	<Coords points="284,3142 284,3221 302,3220 301,3142"/></SeparatorRegion>
+	<SeparatorRegion id="r324">
+	<Coords points="305,423 304,439 398,441 606,444 1166,448 1681,450 2069,447 2347,447 2705,445 2800,445 2981,442 3636,437 3640,423 3640,416 3313,422 3045,424 2816,428 962,430 402,427"/></SeparatorRegion>
+	<SeparatorRegion id="r327">
+	<Coords points="1122,459 1122,520 1120,665 1119,830 1119,1733 1120,2221 1120,2717 1121,2963 1120,3204 1119,3455 1121,3506 1113,3508 1115,3396 1114,3204 1114,2962 1112,2721 1113,1688 1113,459"/></SeparatorRegion>
+	<SeparatorRegion id="r329">
+	<Coords points="1124,3577 1123,3844 1124,4285 1124,4443 1125,4714 1125,5014 1128,5184 1117,5186 1117,4720 1116,4570 1118,4163 1117,3852 1118,3839 1115,3578 1118,3576"/></SeparatorRegion>
+	<SeparatorRegion id="r20036">
+	<Coords points="1138,657 1167,658 1763,657 1935,657 1935,664 1760,667 1366,665 1137,664"/></SeparatorRegion>
+	<SeparatorRegion id="r313">
+	<Coords points="1138,734 1136,745 1939,744 1940,736 1912,734 1575,735 1406,734 1172,735"/></SeparatorRegion>
+	<SeparatorRegion id="r20064">
+	<Coords points="1134,1358 1942,1356 1942,1366 1211,1367 1134,1366"/></SeparatorRegion>
+	<SeparatorRegion id="r20082">
+	<Coords points="1528,1982 1685,1981 1930,1975 1930,1987 1528,1989 1147,1989 1146,1982"/></SeparatorRegion>
+	<SeparatorRegion id="r306">
+	<Coords points="1137,2850 1137,2856 1140,2859 1179,2858 1930,2853 1944,2856 1944,2850 1929,2846 1182,2850 1162,2850 1155,2851"/></SeparatorRegion>
+	<TextRegion id="r326" type="paragraph">
+	<Coords points="1982,3153 1983,3153 1983,3154 2254,3154 2254,3155 2526,3155 2526,3156 2797,3156 2797,3239 2797,3238 2781,3238 2781,3237 2765,3237 2765,3236 2749,3236 2749,3230 2748,3230 2748,3225 2747,3225 2747,3220 2746,3220 2746,3215 2745,3215 2745,3211 2592,3211 2592,3212 2516,3212 2516,3213 2441,3213 2441,3214 2440,3214 2440,3238 2440,3237 2234,3237 2234,3236 2028,3236 2028,3187 2007,3187 2007,3186 1983,3186 1983,3154 1982,3154"/>
+	<TextEquiv>
+	<Unicode>SŁUŻĄCA lub dochodząca do samotnej osoby, na
+skromnych warunkach poszukiwana. Zgłoszenia:
+IKC., Kraków, „Nr. 202". 202
+SŁUŻĄCA lub dochodząca do samotnej osoby, na
+skromnych warunkach poszukiwana. Zgłoszenia:
+IKC., Kraków, „Nr. 202". 202</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r318" type="paragraph">
+	<Coords points="1988,3259 2799,3259 2799,3351 2752,3351 2752,3348 2751,3348 2751,3345 2750,3345 2750,3342 2749,3342 2749,3339 2748,3339 2748,3336 2747,3336 2747,3333 2746,3333 2746,3330 2745,3330 2745,3327 2744,3327 2744,3324 2743,3324 2743,3323 2552,3323 2552,3324 2457,3324 2457,3325 2456,3325 2456,3328 2455,3328 2455,3330 2454,3330 2454,3332 2453,3332 2453,3334 2452,3334 2452,3336 2451,3336 2451,3339 2450,3339 2450,3341 2449,3341 2449,3343 2448,3343 2448,3345 2447,3345 2447,3347 2446,3347 2446,3349 2363,3349 2363,3350 2281,3350 2281,3351 2199,3351 2199,3352 2117,3352 2117,3353 2036,3353 2036,3354 2035,3354 2035,3294 1987,3294 1987,3289 1986,3289 1986,3284 1985,3284 1985,3279 1984,3279 1984,3275 1983,3275 1984,3275 1984,3271 1985,3271 1985,3268 1986,3268 1986,3265 1987,3265 1987,3262 1988,3262"/>
+	<TextEquiv>
+	<Unicode>MASZYNA do szycia damska i krawiecka Singera
+tanio sprzedam. Kraków, ul. Krótka 10, m. 1,
+przecznica ul. św. Filipa. 153
+MASZYNA do szycia damska i krawiecka Singera
+tanio sprzedam. Kraków, ul. Krótka 10, m. 1,
+przecznica ul. św. Filipa. 153</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r311" type="paragraph">
+	<Coords points="1987,3378 2795,3378 2795,3387 2796,3387 2796,3395 2797,3395 2797,3403 2798,3403 2798,3411 2799,3411 2799,3419 2800,3419 2800,3427 2801,3427 2801,3435 2802,3435 2802,3443 2803,3443 2802,3443 2802,3449 2801,3449 2801,3454 2800,3454 2800,3459 2799,3459 2799,3464 2798,3464 2798,3470 2797,3470 2797,3475 2796,3475 2796,3480 2795,3480 2795,3485 2795,3484 2758,3484 2758,3477 2757,3477 2757,3470 2756,3470 2756,3463 2755,3463 2755,3457 2640,3457 2640,3458 2526,3458 2526,3459 2412,3459 2412,3460 2298,3460 2298,3461 2184,3461 2184,3462 2183,3462 2183,3473 2182,3473 2182,3484 2130,3484 2130,3485 2078,3485 2078,3486 2028,3486 2028,3487 2027,3487 2027,3410 2008,3410 2008,3409 1983,3409 1983,3389 1982,3389 1983,3389 1983,3386 1984,3386 1984,3384 1985,3384 1985,3382 1986,3382 1986,3380 1987,3380"/>
+	<TextEquiv>
+	<Unicode>KUCHMISTRZ rutynowany, lat 30, posiukuje pracy
+do hotelu, sanatorjum, kasyna lub szpitalu. Ła-
+skawa zgłoszenia: IKC., Kraków, Wielopòle 1,
+„Nr. 94". 94
+KUCHMISTRZ rutynowany, lat 30, posiukuje pracy
+do hotelu, sanatorjum, kasyna lub szpitalu. Ła-
+skawa zgłoszenia: IKC., Kraków, Wielopòle 1,
+„Nr. 94". 94</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10280" type="paragraph">
+	<Coords points="2696,2809 2696,2810 2730,2810 2730,2811 2764,2811 2764,2812 2797,2812 2797,2885 2796,2885 2796,2911 2762,2911 2762,2891 2389,2891 2389,2892 2031,2892 2031,2893 2030,2893 2030,2843 1981,2843 1981,2834 1980,2834 1980,2825 1979,2825 1980,2825 1980,2823 1981,2823 1981,2821 1982,2821 1982,2819 1983,2819 1983,2817 1984,2817 1984,2815 1985,2815 1985,2813 1986,2813 1986,2812 2666,2812 2666,2811 2681,2811 2681,2810 2696,2810"/>
+	<TextEquiv>
+	<Unicode>WSZELKIE interesy handlowe — przmyełowe —
+muchamia — finansuje— biuro Włodzimierza
+Huka „INFORMATOR" — Kraków, Pijarska 19.
+36</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5873" type="paragraph">
+	<Coords points="2833,800 3642,800 3644,926 3598,923 3598,906 2876,909 2883,832 2834,832 2830,816"/>
+	<TextEquiv>
+	<Unicode>REJENT Dr. Rotter i Gałek w Krakowie, Straszew-
+skięgo 12, wzywa dzieci do nątychmiastowego
+powrotu do domu. Ktokolwiek wiedzałby o miej-
+scu pobytu ich — proszą rodzice o wiadomość.
+150</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6295" type="paragraph">
+	<Coords points="2831,1134 3548,1130 3644,1134 3645,1176 3644,1226 3646,1237 3642,1244 3601,1242 3598,1242 3600,1220 2876,1222 2874,1164 2832,1165 2827,1144"/>
+	<TextEquiv>
+	<Unicode>SIURALISTKA wszechstronna znajomość niemiec-
+kiego przyjmie każdą pracę, także ekspedientki,
+kelnerki. Zgłoszenia: I. K. C. Kraków Nr. 162.
+162</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r20122">
+	<Coords points="2836,2986 3640,2979 3640,2988 3255,2992 2831,2996"/></SeparatorRegion>
+	<SeparatorRegion id="r331">
+	<Coords points="2838,1976 2838,1980 2834,1983 2978,1984 3229,1982 3645,1976 3646,1970 3200,1976"/></SeparatorRegion>
+	<SeparatorRegion id="r20066">
+	<Coords points="3575,1429 3645,1426 3645,1432 3575,1432 3575,1433 3356,1437 3040,1439 2938,1439 2832,1442 2834,1435 2964,1436 3131,1433 3486,1430 3575,1430"/></SeparatorRegion>
+	<SeparatorRegion id="r296">
+	<Coords points="1982,715 1982,727 2783,727 2783,715"/></SeparatorRegion>
+	<SeparatorRegion id="r20044">
+	<Coords points="1979,832 2790,833 2790,838 2000,838 1983,840"/></SeparatorRegion>
+	<SeparatorRegion id="r297">
+	<Coords points="1990,948 1990,953 2799,953 2799,948"/></SeparatorRegion>
+	<SeparatorRegion id="r298">
+	<Coords points="1984,1047 1984,1054 2794,1054 2794,1047"/></SeparatorRegion>
+	<SeparatorRegion id="r300">
+	<Coords points="1983,1382 1983,1386 2802,1386 2802,1382"/></SeparatorRegion>
+	<SeparatorRegion id="r301">
+	<Coords points="1986,1304 1986,1312 2795,1312 2795,1304"/></SeparatorRegion>
+	<SeparatorRegion id="r302">
+	<Coords points="1988,1486 1988,1490 2792,1490 2792,1486"/></SeparatorRegion>
+	<SeparatorRegion id="r303">
+	<Coords points="1984,1563 1984,1568 2797,1568 2797,1563"/></SeparatorRegion>
+	<SeparatorRegion id="r304">
+	<Coords points="2796,1638 2796,1650 1981,1650 1981,1638"/></SeparatorRegion>
+	<SeparatorRegion id="r305">
+	<Coords points="1988,1900 1988,1905 2786,1905 2786,1900"/></SeparatorRegion>
+	<SeparatorRegion id="r308">
+	<Coords points="2838,683 2838,686 3644,686 3644,683 3640,677"/></SeparatorRegion>
+	<SeparatorRegion id="r309">
+	<Coords points="3635,783 3635,795 2829,795 2830,788"/></SeparatorRegion>
+	<SeparatorRegion id="r310">
+	<Coords points="2834,1050 2832,1045 3647,1037 3647,1045"/></SeparatorRegion>
+	<SeparatorRegion id="r312">
+	<Coords points="1982,1989 1982,2103 2057,2103 2057,1989"/></SeparatorRegion>
+	<SeparatorRegion id="r314">
+	<Coords points="2717,1989 2717,2105 2800,2105 2800,1989"/></SeparatorRegion>
+	<TextRegion id="r9068" type="paragraph">
+	<Coords points="1986,1654 2797,1654 2797,1670 2798,1670 2798,1685 2799,1685 2799,1700 2800,1700 2800,1715 2801,1715 2801,1730 2802,1730 2801,1730 2801,1777 2799,1777 2799,1778 2798,1778 2798,1779 2797,1779 2797,1780 2796,1780 2796,1781 2780,1781 2780,1782 2764,1782 2764,1783 2750,1783 2750,1784 2749,1784 2749,1763 2034,1763 2034,1749 2033,1749 2033,1735 2032,1735 2032,1721 2031,1721 2031,1707 2030,1707 2030,1694 2029,1694 2029,1693 2013,1693 2013,1692 1998,1692 1998,1691 1983,1691 1983,1665 1982,1665 1983,1665 1983,1662 1984,1662 1984,1659 1985,1659 1985,1656 1986,1656"/>
+	<TextEquiv>
+	<Unicode>WOJTASOWIE, rodzice córki Marii (Isi), lub krew-
+ni rodziny Wojtasów uprasza o zapodanie adre-
+su: Eugeniusz Mandera, Kraków, ul. Kopernika,
+Szpital św. Łazarza, Oddział O (nowy pawilon).
+190</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r322" type="other">
+	<Coords points="2835,3232 3226,3225 3658,3223 3658,3276 3385,3287 2833,3305 2830,3239"/></GraphicRegion></Page></PcGts>

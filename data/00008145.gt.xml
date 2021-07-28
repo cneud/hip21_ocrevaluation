@@ -1,0 +1,2730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00008145">
+	<Metadata>
+	<Creator>ABBYY FineReader Engine 9.0</Creator>
+	<Created>2010-12-08T21:16:25</Created>
+	<LastChange>2011-09-09T10:46:47</LastChange></Metadata>
+	<Page imageFilename="00008145.tif" imageWidth="3488" imageHeight="4640">
+	<ReadingOrder>
+	<UnorderedGroup id="ro357564684568544579089">
+	<OrderedGroup id="r384">
+	<RegionRefIndexed regionRef="r89" index="0"/>
+	<RegionRefIndexed regionRef="r93" index="1"/>
+	<RegionRefIndexed regionRef="r97" index="2"/>
+	<RegionRefIndexed regionRef="r101" index="3"/>
+	<RegionRefIndexed regionRef="r105" index="4"/>
+	<RegionRefIndexed regionRef="r109" index="5"/>
+	<RegionRefIndexed regionRef="r113" index="6"/>
+	<RegionRefIndexed regionRef="r117" index="7"/>
+	<RegionRefIndexed regionRef="r131" index="8"/>
+	<RegionRefIndexed regionRef="r133" index="9"/>
+	<RegionRefIndexed regionRef="r137" index="10"/>
+	<RegionRefIndexed regionRef="r139" index="11"/>
+	<RegionRefIndexed regionRef="r151" index="12"/>
+	<RegionRefIndexed regionRef="r153" index="13"/>
+	<RegionRefIndexed regionRef="r167" index="14"/>
+	<RegionRefIndexed regionRef="r169" index="15"/>
+	<RegionRefIndexed regionRef="r173" index="16"/>
+	<RegionRefIndexed regionRef="r177" index="17"/>
+	<RegionRefIndexed regionRef="r191" index="18"/>
+	<RegionRefIndexed regionRef="r193" index="19"/>
+	<RegionRefIndexed regionRef="r197" index="20"/>
+	<RegionRefIndexed regionRef="r211" index="21"/>
+	<RegionRefIndexed regionRef="r213" index="22"/>
+	<RegionRefIndexed regionRef="r227" index="23"/>
+	<RegionRefIndexed regionRef="r229" index="24"/>
+	<RegionRefIndexed regionRef="r233" index="25"/>
+	<RegionRefIndexed regionRef="r247" index="26"/>
+	<RegionRefIndexed regionRef="r249" index="27"/>
+	<RegionRefIndexed regionRef="r263" index="28"/>
+	<RegionRefIndexed regionRef="r255" index="29"/>
+	<RegionRefIndexed regionRef="r265" index="30"/></OrderedGroup>
+	<OrderedGroup id="r385">
+	<RegionRefIndexed regionRef="r299" index="0"/>
+	<RegionRefIndexed regionRef="r301" index="1"/>
+	<RegionRefIndexed regionRef="r315" index="2"/>
+	<RegionRefIndexed regionRef="r317" index="3"/>
+	<RegionRefIndexed regionRef="r321" index="4"/>
+	<RegionRefIndexed regionRef="r335" index="5"/>
+	<RegionRefIndexed regionRef="r337" index="6"/>
+	<RegionRefIndexed regionRef="r349" index="7"/></OrderedGroup>
+	<OrderedGroup id="r55">
+	<RegionRefIndexed regionRef="r365" index="0"/>
+	<RegionRefIndexed regionRef="r369" index="1"/>
+	<RegionRefIndexed regionRef="r373" index="2"/>
+	<RegionRefIndexed regionRef="r377" index="3"/>
+	<RegionRefIndexed regionRef="r381" index="4"/></OrderedGroup></UnorderedGroup></ReadingOrder>
+	<TextRegion id="r59" type="page-number">
+	<Coords>
+	<Point x="584" y="240"/>
+	<Point x="584" y="303"/>
+	<Point x="693" y="303"/>
+	<Point x="693" y="240"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>582</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r60" type="header">
+	<Coords>
+	<Point x="1435" y="266"/>
+	<Point x="1434" y="333"/>
+	<Point x="2096" y="348"/>
+	<Point x="2093" y="280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE EXAMINER.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r61" type="header">
+	<Coords>
+	<Point x="2671" y="289"/>
+	<Point x="2678" y="355"/>
+	<Point x="2907" y="355"/>
+	<Point x="2907" y="289"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>[Sept. 13,</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r62">
+	<Coords>
+	<Point x="594" y="314"/>
+	<Point x="731" y="313"/>
+	<Point x="884" y="318"/>
+	<Point x="1408" y="340"/>
+	<Point x="1798" y="352"/>
+	<Point x="2085" y="355"/>
+	<Point x="2137" y="350"/>
+	<Point x="2275" y="348"/>
+	<Point x="2578" y="348"/>
+	<Point x="2677" y="358"/>
+	<Point x="2812" y="358"/>
+	<Point x="2919" y="361"/>
+	<Point x="2920" y="391"/>
+	<Point x="2851" y="390"/>
+	<Point x="2744" y="386"/>
+	<Point x="2501" y="382"/>
+	<Point x="2281" y="385"/>
+	<Point x="1955" y="385"/>
+	<Point x="1592" y="377"/>
+	<Point x="1211" y="367"/>
+	<Point x="794" y="348"/>
+	<Point x="590" y="340"/>
+	<Point x="593" y="312"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r73">
+	<Coords>
+	<Point x="1388" y="383"/>
+	<Point x="1388" y="750"/>
+	<Point x="1387" y="750"/>
+	<Point x="1387" y="1133"/>
+	<Point x="1386" y="1133"/>
+	<Point x="1386" y="1232"/>
+	<Point x="1385" y="1232"/>
+	<Point x="1385" y="1330"/>
+	<Point x="1384" y="1330"/>
+	<Point x="1384" y="1823"/>
+	<Point x="1383" y="1823"/>
+	<Point x="1383" y="2033"/>
+	<Point x="1382" y="2033"/>
+	<Point x="1382" y="2314"/>
+	<Point x="1381" y="2314"/>
+	<Point x="1381" y="2456"/>
+	<Point x="1380" y="2456"/>
+	<Point x="1380" y="2738"/>
+	<Point x="1381" y="2738"/>
+	<Point x="1381" y="3018"/>
+	<Point x="1382" y="3018"/>
+	<Point x="1382" y="3155"/>
+	<Point x="1381" y="3155"/>
+	<Point x="1381" y="3294"/>
+	<Point x="1380" y="3294"/>
+	<Point x="1380" y="3366"/>
+	<Point x="1379" y="3366"/>
+	<Point x="1379" y="3437"/>
+	<Point x="1378" y="3437"/>
+	<Point x="1378" y="3718"/>
+	<Point x="1377" y="3718"/>
+	<Point x="1377" y="3862"/>
+	<Point x="1378" y="3862"/>
+	<Point x="1378" y="3999"/>
+	<Point x="1377" y="3999"/>
+	<Point x="1377" y="4248"/>
+	<Point x="1370" y="4248"/>
+	<Point x="1370" y="3851"/>
+	<Point x="1369" y="3851"/>
+	<Point x="1369" y="3704"/>
+	<Point x="1370" y="3704"/>
+	<Point x="1370" y="3425"/>
+	<Point x="1371" y="3425"/>
+	<Point x="1371" y="3296"/>
+	<Point x="1372" y="3296"/>
+	<Point x="1372" y="3003"/>
+	<Point x="1373" y="3003"/>
+	<Point x="1373" y="2726"/>
+	<Point x="1372" y="2726"/>
+	<Point x="1372" y="2593"/>
+	<Point x="1373" y="2593"/>
+	<Point x="1373" y="2456"/>
+	<Point x="1374" y="2456"/>
+	<Point x="1374" y="2044"/>
+	<Point x="1375" y="2044"/>
+	<Point x="1375" y="1975"/>
+	<Point x="1376" y="1975"/>
+	<Point x="1376" y="1798"/>
+	<Point x="1377" y="1798"/>
+	<Point x="1377" y="1620"/>
+	<Point x="1378" y="1620"/>
+	<Point x="1378" y="1201"/>
+	<Point x="1379" y="1201"/>
+	<Point x="1379" y="1061"/>
+	<Point x="1380" y="1061"/>
+	<Point x="1380" y="383"/></Coords></SeparatorRegion>
+	<SeparatorRegion id="r85">
+	<Coords>
+	<Point x="2164" y="395"/>
+	<Point x="2164" y="469"/>
+	<Point x="2165" y="469"/>
+	<Point x="2165" y="890"/>
+	<Point x="2164" y="890"/>
+	<Point x="2164" y="1033"/>
+	<Point x="2165" y="1033"/>
+	<Point x="2165" y="1240"/>
+	<Point x="2164" y="1240"/>
+	<Point x="2164" y="1308"/>
+	<Point x="2163" y="1308"/>
+	<Point x="2163" y="1682"/>
+	<Point x="2162" y="1682"/>
+	<Point x="2162" y="1775"/>
+	<Point x="2161" y="1775"/>
+	<Point x="2161" y="1868"/>
+	<Point x="2160" y="1868"/>
+	<Point x="2160" y="2149"/>
+	<Point x="2161" y="2149"/>
+	<Point x="2161" y="2286"/>
+	<Point x="2160" y="2286"/>
+	<Point x="2160" y="2427"/>
+	<Point x="2161" y="2427"/>
+	<Point x="2161" y="2566"/>
+	<Point x="2162" y="2566"/>
+	<Point x="2162" y="2633"/>
+	<Point x="2161" y="2633"/>
+	<Point x="2161" y="2702"/>
+	<Point x="2160" y="2702"/>
+	<Point x="2160" y="2749"/>
+	<Point x="2159" y="2749"/>
+	<Point x="2159" y="2796"/>
+	<Point x="2158" y="2796"/>
+	<Point x="2158" y="2842"/>
+	<Point x="2157" y="2842"/>
+	<Point x="2157" y="2982"/>
+	<Point x="2158" y="2982"/>
+	<Point x="2158" y="3400"/>
+	<Point x="2157" y="3400"/>
+	<Point x="2157" y="3470"/>
+	<Point x="2156" y="3470"/>
+	<Point x="2156" y="3539"/>
+	<Point x="2155" y="3539"/>
+	<Point x="2155" y="3746"/>
+	<Point x="2154" y="3746"/>
+	<Point x="2154" y="3953"/>
+	<Point x="2153" y="3953"/>
+	<Point x="2153" y="4095"/>
+	<Point x="2152" y="4095"/>
+	<Point x="2152" y="4236"/>
+	<Point x="2151" y="4236"/>
+	<Point x="2151" y="4249"/>
+	<Point x="2143" y="4249"/>
+	<Point x="2143" y="4214"/>
+	<Point x="2144" y="4214"/>
+	<Point x="2144" y="4074"/>
+	<Point x="2145" y="4074"/>
+	<Point x="2145" y="3795"/>
+	<Point x="2146" y="3795"/>
+	<Point x="2146" y="3608"/>
+	<Point x="2147" y="3608"/>
+	<Point x="2147" y="3539"/>
+	<Point x="2148" y="3539"/>
+	<Point x="2148" y="3471"/>
+	<Point x="2149" y="3471"/>
+	<Point x="2149" y="3213"/>
+	<Point x="2148" y="3213"/>
+	<Point x="2148" y="3094"/>
+	<Point x="2149" y="3094"/>
+	<Point x="2149" y="2955"/>
+	<Point x="2150" y="2955"/>
+	<Point x="2150" y="2805"/>
+	<Point x="2149" y="2805"/>
+	<Point x="2149" y="2752"/>
+	<Point x="2150" y="2752"/>
+	<Point x="2150" y="2731"/>
+	<Point x="2151" y="2731"/>
+	<Point x="2151" y="2710"/>
+	<Point x="2152" y="2710"/>
+	<Point x="2152" y="2688"/>
+	<Point x="2153" y="2688"/>
+	<Point x="2153" y="2405"/>
+	<Point x="2152" y="2405"/>
+	<Point x="2152" y="2268"/>
+	<Point x="2153" y="2268"/>
+	<Point x="2153" y="1987"/>
+	<Point x="2152" y="1987"/>
+	<Point x="2152" y="1849"/>
+	<Point x="2153" y="1849"/>
+	<Point x="2153" y="1778"/>
+	<Point x="2154" y="1778"/>
+	<Point x="2154" y="1707"/>
+	<Point x="2155" y="1707"/>
+	<Point x="2155" y="1617"/>
+	<Point x="2156" y="1617"/>
+	<Point x="2156" y="1527"/>
+	<Point x="2157" y="1527"/>
+	<Point x="2157" y="1155"/>
+	<Point x="2158" y="1155"/>
+	<Point x="2158" y="966"/>
+	<Point x="2157" y="966"/>
+	<Point x="2157" y="946"/>
+	<Point x="2158" y="946"/>
+	<Point x="2158" y="876"/>
+	<Point x="2159" y="876"/>
+	<Point x="2159" y="742"/>
+	<Point x="2158" y="742"/>
+	<Point x="2158" y="478"/>
+	<Point x="2157" y="478"/>
+	<Point x="2157" y="395"/></Coords></SeparatorRegion>
+	<TextRegion id="r89" type="paragraph">
+	<Coords>
+	<Point x="589" y="355"/>
+	<Point x="589" y="356"/>
+	<Point x="611" y="356"/>
+	<Point x="611" y="357"/>
+	<Point x="636" y="357"/>
+	<Point x="636" y="358"/>
+	<Point x="661" y="358"/>
+	<Point x="661" y="359"/>
+	<Point x="686" y="359"/>
+	<Point x="686" y="360"/>
+	<Point x="711" y="360"/>
+	<Point x="711" y="361"/>
+	<Point x="736" y="361"/>
+	<Point x="736" y="362"/>
+	<Point x="761" y="362"/>
+	<Point x="761" y="363"/>
+	<Point x="786" y="363"/>
+	<Point x="786" y="364"/>
+	<Point x="811" y="364"/>
+	<Point x="811" y="365"/>
+	<Point x="836" y="365"/>
+	<Point x="836" y="366"/>
+	<Point x="861" y="366"/>
+	<Point x="861" y="367"/>
+	<Point x="885" y="367"/>
+	<Point x="885" y="368"/>
+	<Point x="910" y="368"/>
+	<Point x="910" y="369"/>
+	<Point x="935" y="369"/>
+	<Point x="935" y="370"/>
+	<Point x="960" y="370"/>
+	<Point x="960" y="371"/>
+	<Point x="985" y="371"/>
+	<Point x="985" y="372"/>
+	<Point x="1010" y="372"/>
+	<Point x="1010" y="373"/>
+	<Point x="1035" y="373"/>
+	<Point x="1035" y="374"/>
+	<Point x="1060" y="374"/>
+	<Point x="1060" y="375"/>
+	<Point x="1085" y="375"/>
+	<Point x="1085" y="376"/>
+	<Point x="1110" y="376"/>
+	<Point x="1110" y="377"/>
+	<Point x="1135" y="377"/>
+	<Point x="1135" y="378"/>
+	<Point x="1160" y="378"/>
+	<Point x="1160" y="379"/>
+	<Point x="1210" y="379"/>
+	<Point x="1210" y="380"/>
+	<Point x="1261" y="380"/>
+	<Point x="1261" y="381"/>
+	<Point x="1311" y="381"/>
+	<Point x="1311" y="382"/>
+	<Point x="1362" y="382"/>
+	<Point x="1362" y="383"/>
+	<Point x="1378" y="383"/>
+	<Point x="1378" y="689"/>
+	<Point x="1320" y="689"/>
+	<Point x="1320" y="688"/>
+	<Point x="1274" y="688"/>
+	<Point x="1274" y="687"/>
+	<Point x="1227" y="687"/>
+	<Point x="1227" y="686"/>
+	<Point x="1181" y="686"/>
+	<Point x="1181" y="685"/>
+	<Point x="1134" y="685"/>
+	<Point x="1134" y="684"/>
+	<Point x="1088" y="684"/>
+	<Point x="1088" y="683"/>
+	<Point x="904" y="683"/>
+	<Point x="904" y="682"/>
+	<Point x="885" y="682"/>
+	<Point x="885" y="681"/>
+	<Point x="865" y="681"/>
+	<Point x="865" y="680"/>
+	<Point x="846" y="680"/>
+	<Point x="846" y="679"/>
+	<Point x="798" y="679"/>
+	<Point x="798" y="678"/>
+	<Point x="795" y="678"/>
+	<Point x="795" y="677"/>
+	<Point x="791" y="677"/>
+	<Point x="791" y="676"/>
+	<Point x="788" y="676"/>
+	<Point x="788" y="675"/>
+	<Point x="784" y="675"/>
+	<Point x="784" y="674"/>
+	<Point x="742" y="674"/>
+	<Point x="742" y="673"/>
+	<Point x="700" y="673"/>
+	<Point x="700" y="672"/>
+	<Point x="658" y="672"/>
+	<Point x="658" y="671"/>
+	<Point x="616" y="671"/>
+	<Point x="616" y="670"/>
+	<Point x="590" y="670"/>
+	<Point x="590" y="585"/>
+	<Point x="589" y="585"/>
+	<Point x="589" y="356"/>
+	<Point x="588" y="356"/>
+	<Point x="588" y="355"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>collisions had occurred between the Chasseurs of the Bat‑
+talion of the Guard and the journeymen shoemakers in
+that city. The soldiers had drawn their swords on the
+mob, and seriously wounded several persons. The police
+at length, assisted by the military succeeded in restoring
+order. A report having gone abroad that the other
+trades were about to come to the assistance of the jour‑
+neymen shoemakers, the soldiers had been ordered to re‑
+main in their quarters, to be in readiness in case of need.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r93" type="paragraph">
+	<Coords>
+	<Point x="614" y="672"/>
+	<Point x="614" y="673"/>
+	<Point x="656" y="673"/>
+	<Point x="656" y="674"/>
+	<Point x="698" y="674"/>
+	<Point x="698" y="675"/>
+	<Point x="740" y="675"/>
+	<Point x="740" y="676"/>
+	<Point x="782" y="676"/>
+	<Point x="782" y="677"/>
+	<Point x="786" y="677"/>
+	<Point x="786" y="678"/>
+	<Point x="789" y="678"/>
+	<Point x="789" y="679"/>
+	<Point x="793" y="679"/>
+	<Point x="793" y="680"/>
+	<Point x="796" y="680"/>
+	<Point x="796" y="681"/>
+	<Point x="844" y="681"/>
+	<Point x="844" y="682"/>
+	<Point x="863" y="682"/>
+	<Point x="863" y="683"/>
+	<Point x="883" y="683"/>
+	<Point x="883" y="684"/>
+	<Point x="902" y="684"/>
+	<Point x="902" y="685"/>
+	<Point x="1086" y="685"/>
+	<Point x="1086" y="686"/>
+	<Point x="1132" y="686"/>
+	<Point x="1132" y="687"/>
+	<Point x="1179" y="687"/>
+	<Point x="1179" y="688"/>
+	<Point x="1225" y="688"/>
+	<Point x="1225" y="689"/>
+	<Point x="1272" y="689"/>
+	<Point x="1272" y="690"/>
+	<Point x="1318" y="690"/>
+	<Point x="1318" y="691"/>
+	<Point x="1378" y="691"/>
+	<Point x="1378" y="1059"/>
+	<Point x="1377" y="1059"/>
+	<Point x="1377" y="1199"/>
+	<Point x="1375" y="1199"/>
+	<Point x="1375" y="1593"/>
+	<Point x="1354" y="1593"/>
+	<Point x="1354" y="1594"/>
+	<Point x="1284" y="1594"/>
+	<Point x="1284" y="1595"/>
+	<Point x="1213" y="1595"/>
+	<Point x="1213" y="1596"/>
+	<Point x="1143" y="1596"/>
+	<Point x="1143" y="1597"/>
+	<Point x="1072" y="1597"/>
+	<Point x="1072" y="1598"/>
+	<Point x="970" y="1598"/>
+	<Point x="970" y="1599"/>
+	<Point x="870" y="1599"/>
+	<Point x="870" y="1598"/>
+	<Point x="869" y="1598"/>
+	<Point x="869" y="1595"/>
+	<Point x="868" y="1595"/>
+	<Point x="868" y="1592"/>
+	<Point x="631" y="1592"/>
+	<Point x="631" y="1593"/>
+	<Point x="629" y="1593"/>
+	<Point x="629" y="1594"/>
+	<Point x="626" y="1594"/>
+	<Point x="626" y="1595"/>
+	<Point x="624" y="1595"/>
+	<Point x="624" y="1596"/>
+	<Point x="621" y="1596"/>
+	<Point x="621" y="1597"/>
+	<Point x="593" y="1597"/>
+	<Point x="593" y="1278"/>
+	<Point x="592" y="1278"/>
+	<Point x="592" y="1047"/>
+	<Point x="591" y="1047"/>
+	<Point x="591" y="816"/>
+	<Point x="590" y="816"/>
+	<Point x="590" y="672"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE LATE DISTURBANCE AT LEIPSIG.—By accounts
+from Leipsig of the 1st inst. we learn that the town en‑
+joyed tranquillity in appearance, but there was consider‑
+able agitation in the public mind. Some apprehensions
+existed that disturbances might break out on the 4th of
+September, the anniversary of the festival of the consti‑
+tution. The commission of inquiry was pursuing its re‑
+searches, but it is not yet known who gave orders to the
+troops to ﬁre on the people. The report of the Commis‑
+sion is looked for with some impatience. The circular of
+the Minister of the Interior, on popular assemblies, has
+excited much discontent. It was at Stolzenfels that the
+King of Prussia agreed with the German Princes, on the
+representations of Prince Metternich, that energetic mea‑
+sures ought to be taken against innovators and political
+assemblies, as tolerating them longer might be attended
+with dangerous consequences. The anniversary fête of
+the constitution was celebrated on the 4th inst. with great
+rejoicing. Large bodies of men and women passed
+through the streets as early as ﬁve in the morning, sing‑
+ing patriotic songs. Later in the day there were public
+services in the churches, after which the Communal
+Guards assembled on the Rossplatz, and went through a
+series of evolutions. They afterwards ﬁled oﬀ in front of
+the Hotel de Ville, on the balcony of which the autho‑
+rities showed themselves. Everything passed oﬀ with
+great calmness and propriety.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r97" type="paragraph">
+	<Coords>
+	<Point x="866" y="1594"/>
+	<Point x="866" y="1597"/>
+	<Point x="867" y="1597"/>
+	<Point x="867" y="1600"/>
+	<Point x="868" y="1600"/>
+	<Point x="868" y="1601"/>
+	<Point x="972" y="1601"/>
+	<Point x="972" y="1600"/>
+	<Point x="1074" y="1600"/>
+	<Point x="1074" y="1599"/>
+	<Point x="1145" y="1599"/>
+	<Point x="1145" y="1598"/>
+	<Point x="1215" y="1598"/>
+	<Point x="1215" y="1597"/>
+	<Point x="1286" y="1597"/>
+	<Point x="1286" y="1596"/>
+	<Point x="1356" y="1596"/>
+	<Point x="1356" y="1595"/>
+	<Point x="1375" y="1595"/>
+	<Point x="1375" y="1691"/>
+	<Point x="1123" y="1691"/>
+	<Point x="1123" y="1692"/>
+	<Point x="1122" y="1692"/>
+	<Point x="1122" y="1693"/>
+	<Point x="1121" y="1693"/>
+	<Point x="1121" y="1694"/>
+	<Point x="1119" y="1694"/>
+	<Point x="1119" y="1695"/>
+	<Point x="1118" y="1695"/>
+	<Point x="1118" y="1696"/>
+	<Point x="1117" y="1696"/>
+	<Point x="1117" y="1697"/>
+	<Point x="1115" y="1697"/>
+	<Point x="1115" y="1698"/>
+	<Point x="1114" y="1698"/>
+	<Point x="1114" y="1699"/>
+	<Point x="914" y="1699"/>
+	<Point x="914" y="1698"/>
+	<Point x="912" y="1698"/>
+	<Point x="912" y="1697"/>
+	<Point x="910" y="1697"/>
+	<Point x="910" y="1696"/>
+	<Point x="908" y="1696"/>
+	<Point x="908" y="1695"/>
+	<Point x="847" y="1695"/>
+	<Point x="847" y="1696"/>
+	<Point x="845" y="1696"/>
+	<Point x="845" y="1697"/>
+	<Point x="843" y="1697"/>
+	<Point x="843" y="1698"/>
+	<Point x="841" y="1698"/>
+	<Point x="841" y="1699"/>
+	<Point x="829" y="1699"/>
+	<Point x="829" y="1698"/>
+	<Point x="828" y="1698"/>
+	<Point x="828" y="1697"/>
+	<Point x="826" y="1697"/>
+	<Point x="826" y="1696"/>
+	<Point x="655" y="1696"/>
+	<Point x="655" y="1695"/>
+	<Point x="654" y="1695"/>
+	<Point x="654" y="1694"/>
+	<Point x="652" y="1694"/>
+	<Point x="652" y="1693"/>
+	<Point x="651" y="1693"/>
+	<Point x="651" y="1692"/>
+	<Point x="649" y="1692"/>
+	<Point x="649" y="1691"/>
+	<Point x="594" y="1691"/>
+	<Point x="594" y="1625"/>
+	<Point x="593" y="1625"/>
+	<Point x="593" y="1599"/>
+	<Point x="623" y="1599"/>
+	<Point x="623" y="1598"/>
+	<Point x="626" y="1598"/>
+	<Point x="626" y="1597"/>
+	<Point x="628" y="1597"/>
+	<Point x="628" y="1596"/>
+	<Point x="631" y="1596"/>
+	<Point x="631" y="1595"/>
+	<Point x="633" y="1595"/>
+	<Point x="633" y="1594"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>GOOD NEWS FOR THE BOHEMIAN JEWS.—A letter
+from Vienna states that it is in contemplation to reduce
+the personal tax paid by the Jews in Bohemia.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r101" type="paragraph">
+	<Coords>
+	<Point x="647" y="1693"/>
+	<Point x="647" y="1694"/>
+	<Point x="649" y="1694"/>
+	<Point x="649" y="1695"/>
+	<Point x="650" y="1695"/>
+	<Point x="650" y="1696"/>
+	<Point x="652" y="1696"/>
+	<Point x="652" y="1697"/>
+	<Point x="653" y="1697"/>
+	<Point x="653" y="1698"/>
+	<Point x="824" y="1698"/>
+	<Point x="824" y="1699"/>
+	<Point x="826" y="1699"/>
+	<Point x="826" y="1700"/>
+	<Point x="827" y="1700"/>
+	<Point x="827" y="1701"/>
+	<Point x="843" y="1701"/>
+	<Point x="843" y="1700"/>
+	<Point x="845" y="1700"/>
+	<Point x="845" y="1699"/>
+	<Point x="847" y="1699"/>
+	<Point x="847" y="1698"/>
+	<Point x="849" y="1698"/>
+	<Point x="849" y="1697"/>
+	<Point x="906" y="1697"/>
+	<Point x="906" y="1698"/>
+	<Point x="908" y="1698"/>
+	<Point x="908" y="1699"/>
+	<Point x="910" y="1699"/>
+	<Point x="910" y="1700"/>
+	<Point x="912" y="1700"/>
+	<Point x="912" y="1701"/>
+	<Point x="1116" y="1701"/>
+	<Point x="1116" y="1700"/>
+	<Point x="1117" y="1700"/>
+	<Point x="1117" y="1699"/>
+	<Point x="1119" y="1699"/>
+	<Point x="1119" y="1698"/>
+	<Point x="1120" y="1698"/>
+	<Point x="1120" y="1697"/>
+	<Point x="1121" y="1697"/>
+	<Point x="1121" y="1696"/>
+	<Point x="1123" y="1696"/>
+	<Point x="1123" y="1695"/>
+	<Point x="1124" y="1695"/>
+	<Point x="1124" y="1694"/>
+	<Point x="1125" y="1694"/>
+	<Point x="1125" y="1693"/>
+	<Point x="1375" y="1693"/>
+	<Point x="1375" y="1796"/>
+	<Point x="1374" y="1796"/>
+	<Point x="1374" y="1973"/>
+	<Point x="1373" y="1973"/>
+	<Point x="1373" y="2042"/>
+	<Point x="1371" y="2042"/>
+	<Point x="1371" y="2086"/>
+	<Point x="1286" y="2086"/>
+	<Point x="1286" y="2087"/>
+	<Point x="1285" y="2087"/>
+	<Point x="1285" y="2088"/>
+	<Point x="1283" y="2088"/>
+	<Point x="1283" y="2089"/>
+	<Point x="1281" y="2089"/>
+	<Point x="1281" y="2090"/>
+	<Point x="1279" y="2090"/>
+	<Point x="1279" y="2091"/>
+	<Point x="1277" y="2091"/>
+	<Point x="1277" y="2092"/>
+	<Point x="1270" y="2092"/>
+	<Point x="1270" y="2091"/>
+	<Point x="1269" y="2091"/>
+	<Point x="1269" y="2090"/>
+	<Point x="1268" y="2090"/>
+	<Point x="1268" y="2089"/>
+	<Point x="1267" y="2089"/>
+	<Point x="1267" y="2088"/>
+	<Point x="1065" y="2088"/>
+	<Point x="1065" y="2089"/>
+	<Point x="1064" y="2089"/>
+	<Point x="1064" y="2090"/>
+	<Point x="1063" y="2090"/>
+	<Point x="1063" y="2091"/>
+	<Point x="1062" y="2091"/>
+	<Point x="1062" y="2092"/>
+	<Point x="1061" y="2092"/>
+	<Point x="1061" y="2093"/>
+	<Point x="1060" y="2093"/>
+	<Point x="1060" y="2094"/>
+	<Point x="594" y="2094"/>
+	<Point x="594" y="1693"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DISGRACEFUL PROCEEDING AT COLOGNE. — The
+'German Journal of Frankfort' publishes a letter from Co‑
+logne, of the 3rd inst., stating that some turbulent persons
+had got up a meeting there on the 2nd, for the purpose of
+passing a resolution not to accept the present of 3,500
+thalers (about 560l.), made by Queen Victoria towards
+the works of the cathedral, and requesting her to give it
+to the poor Irish or the Anglican church. A commissary
+of police, accompanied by some gendarmes, however, en‑
+tered the place of meeting, and ordered the persons pre‑
+sent to disperse before any resolution was come to on the
+subject under discussion. The injunction was obeyed.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r105" type="paragraph">
+	<Coords>
+	<Point x="1371" y="2088"/>
+	<Point x="1371" y="2351"/>
+	<Point x="1041" y="2351"/>
+	<Point x="1041" y="2352"/>
+	<Point x="1040" y="2352"/>
+	<Point x="1040" y="2353"/>
+	<Point x="1039" y="2353"/>
+	<Point x="1039" y="2354"/>
+	<Point x="1038" y="2354"/>
+	<Point x="1038" y="2355"/>
+	<Point x="1037" y="2355"/>
+	<Point x="1037" y="2356"/>
+	<Point x="1036" y="2356"/>
+	<Point x="1036" y="2357"/>
+	<Point x="1035" y="2357"/>
+	<Point x="1035" y="2358"/>
+	<Point x="1034" y="2358"/>
+	<Point x="1034" y="2359"/>
+	<Point x="851" y="2359"/>
+	<Point x="851" y="2358"/>
+	<Point x="848" y="2358"/>
+	<Point x="848" y="2357"/>
+	<Point x="705" y="2357"/>
+	<Point x="705" y="2358"/>
+	<Point x="704" y="2358"/>
+	<Point x="704" y="2359"/>
+	<Point x="702" y="2359"/>
+	<Point x="702" y="2360"/>
+	<Point x="701" y="2360"/>
+	<Point x="701" y="2361"/>
+	<Point x="699" y="2361"/>
+	<Point x="699" y="2362"/>
+	<Point x="660" y="2362"/>
+	<Point x="660" y="2361"/>
+	<Point x="659" y="2361"/>
+	<Point x="659" y="2360"/>
+	<Point x="658" y="2360"/>
+	<Point x="658" y="2359"/>
+	<Point x="656" y="2359"/>
+	<Point x="656" y="2358"/>
+	<Point x="655" y="2358"/>
+	<Point x="655" y="2357"/>
+	<Point x="594" y="2357"/>
+	<Point x="594" y="2096"/>
+	<Point x="1062" y="2096"/>
+	<Point x="1062" y="2095"/>
+	<Point x="1063" y="2095"/>
+	<Point x="1063" y="2094"/>
+	<Point x="1064" y="2094"/>
+	<Point x="1064" y="2093"/>
+	<Point x="1065" y="2093"/>
+	<Point x="1065" y="2092"/>
+	<Point x="1066" y="2092"/>
+	<Point x="1066" y="2091"/>
+	<Point x="1067" y="2091"/>
+	<Point x="1067" y="2090"/>
+	<Point x="1265" y="2090"/>
+	<Point x="1265" y="2091"/>
+	<Point x="1266" y="2091"/>
+	<Point x="1266" y="2092"/>
+	<Point x="1267" y="2092"/>
+	<Point x="1267" y="2093"/>
+	<Point x="1268" y="2093"/>
+	<Point x="1268" y="2094"/>
+	<Point x="1279" y="2094"/>
+	<Point x="1279" y="2093"/>
+	<Point x="1281" y="2093"/>
+	<Point x="1281" y="2092"/>
+	<Point x="1283" y="2092"/>
+	<Point x="1283" y="2091"/>
+	<Point x="1285" y="2091"/>
+	<Point x="1285" y="2090"/>
+	<Point x="1287" y="2090"/>
+	<Point x="1287" y="2089"/>
+	<Point x="1288" y="2089"/>
+	<Point x="1288" y="2088"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>STRANGE DISTURBANCE AT HEIDELBERG. — The
+'Manheim Gazette' states that, in the afternoon of Au‑
+gust 29, the public tranquillity was disturbed in a strange
+way at Heidelberg. Some individuals suddenly collected
+on the Ludwigs Platz, and, placing themselves near the
+Museum, ﬁred several shots. They then withdrew as
+quickly as they had come, and when the police arrived
+every one had disappeared.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r109" type="paragraph">
+	<Coords>
+	<Point x="1371" y="2353"/>
+	<Point x="1371" y="2552"/>
+	<Point x="1216" y="2552"/>
+	<Point x="1216" y="2553"/>
+	<Point x="1215" y="2553"/>
+	<Point x="1215" y="2554"/>
+	<Point x="1213" y="2554"/>
+	<Point x="1213" y="2555"/>
+	<Point x="1212" y="2555"/>
+	<Point x="1212" y="2556"/>
+	<Point x="1210" y="2556"/>
+	<Point x="1210" y="2557"/>
+	<Point x="593" y="2557"/>
+	<Point x="593" y="2536"/>
+	<Point x="594" y="2536"/>
+	<Point x="594" y="2359"/>
+	<Point x="653" y="2359"/>
+	<Point x="653" y="2360"/>
+	<Point x="654" y="2360"/>
+	<Point x="654" y="2361"/>
+	<Point x="656" y="2361"/>
+	<Point x="656" y="2362"/>
+	<Point x="657" y="2362"/>
+	<Point x="657" y="2363"/>
+	<Point x="658" y="2363"/>
+	<Point x="658" y="2364"/>
+	<Point x="701" y="2364"/>
+	<Point x="701" y="2363"/>
+	<Point x="703" y="2363"/>
+	<Point x="703" y="2362"/>
+	<Point x="704" y="2362"/>
+	<Point x="704" y="2361"/>
+	<Point x="706" y="2361"/>
+	<Point x="706" y="2360"/>
+	<Point x="707" y="2360"/>
+	<Point x="707" y="2359"/>
+	<Point x="846" y="2359"/>
+	<Point x="846" y="2360"/>
+	<Point x="849" y="2360"/>
+	<Point x="849" y="2361"/>
+	<Point x="1036" y="2361"/>
+	<Point x="1036" y="2360"/>
+	<Point x="1037" y="2360"/>
+	<Point x="1037" y="2359"/>
+	<Point x="1038" y="2359"/>
+	<Point x="1038" y="2358"/>
+	<Point x="1039" y="2358"/>
+	<Point x="1039" y="2357"/>
+	<Point x="1040" y="2357"/>
+	<Point x="1040" y="2356"/>
+	<Point x="1041" y="2356"/>
+	<Point x="1041" y="2355"/>
+	<Point x="1042" y="2355"/>
+	<Point x="1042" y="2354"/>
+	<Point x="1043" y="2354"/>
+	<Point x="1043" y="2353"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE RELIGIOUS REFORM IN PRUSSIA.—By a Minis‑
+terial order Czerski is prohibited from preaching any
+more in the city of Posen. The President of the Police
+proceeded to meet him, and prevent his arrival at Posen,
+whither he was called by a very pressing invitation of the
+Catholic Christians.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r113" type="paragraph">
+	<Coords>
+	<Point x="1371" y="2554"/>
+	<Point x="1371" y="2591"/>
+	<Point x="1370" y="2591"/>
+	<Point x="1370" y="2728"/>
+	<Point x="1371" y="2728"/>
+	<Point x="1371" y="2915"/>
+	<Point x="1212" y="2915"/>
+	<Point x="1212" y="2916"/>
+	<Point x="947" y="2916"/>
+	<Point x="947" y="2917"/>
+	<Point x="944" y="2917"/>
+	<Point x="944" y="2918"/>
+	<Point x="941" y="2918"/>
+	<Point x="941" y="2919"/>
+	<Point x="938" y="2919"/>
+	<Point x="938" y="2920"/>
+	<Point x="916" y="2920"/>
+	<Point x="916" y="2919"/>
+	<Point x="913" y="2919"/>
+	<Point x="913" y="2918"/>
+	<Point x="908" y="2918"/>
+	<Point x="908" y="2919"/>
+	<Point x="792" y="2919"/>
+	<Point x="792" y="2920"/>
+	<Point x="791" y="2920"/>
+	<Point x="791" y="2921"/>
+	<Point x="790" y="2921"/>
+	<Point x="790" y="2922"/>
+	<Point x="789" y="2922"/>
+	<Point x="789" y="2923"/>
+	<Point x="788" y="2923"/>
+	<Point x="788" y="2924"/>
+	<Point x="787" y="2924"/>
+	<Point x="787" y="2925"/>
+	<Point x="746" y="2925"/>
+	<Point x="746" y="2924"/>
+	<Point x="745" y="2924"/>
+	<Point x="745" y="2923"/>
+	<Point x="743" y="2923"/>
+	<Point x="743" y="2922"/>
+	<Point x="591" y="2922"/>
+	<Point x="591" y="2813"/>
+	<Point x="592" y="2813"/>
+	<Point x="592" y="2675"/>
+	<Point x="593" y="2675"/>
+	<Point x="593" y="2559"/>
+	<Point x="1212" y="2559"/>
+	<Point x="1212" y="2558"/>
+	<Point x="1214" y="2558"/>
+	<Point x="1214" y="2557"/>
+	<Point x="1215" y="2557"/>
+	<Point x="1215" y="2556"/>
+	<Point x="1217" y="2556"/>
+	<Point x="1217" y="2555"/>
+	<Point x="1218" y="2555"/>
+	<Point x="1218" y="2554"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATTEMPT TO ASSASSINATE THE KING OF WURTEM‑
+BURG.—A letter from Friburg of the 5th, in the ' Frank‑
+furter Journal,' states that two shots were ﬁred at Meran,
+in the Tyrol, at the King of Wurtemburg, but fortunately
+without hitting him. The 'Carlsruhe Gazette' makes
+mention of a report of the same kind. The Jesuits are
+considered, it says, as the authors of this attack, in con‑
+sequence of the King having spoken, when in Switzer‑
+land, openly against the inﬂuence of that society. His
+language to Siegwart Muller, the head of the Jesuit party
+at Lucerne, produced a great sensation.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r117" type="paragraph">
+	<Coords>
+	<Point x="1371" y="2917"/>
+	<Point x="1371" y="3001"/>
+	<Point x="1370" y="3001"/>
+	<Point x="1370" y="3277"/>
+	<Point x="1111" y="3277"/>
+	<Point x="1111" y="3278"/>
+	<Point x="917" y="3278"/>
+	<Point x="917" y="3279"/>
+	<Point x="858" y="3279"/>
+	<Point x="858" y="3280"/>
+	<Point x="591" y="3280"/>
+	<Point x="591" y="3096"/>
+	<Point x="590" y="3096"/>
+	<Point x="590" y="2952"/>
+	<Point x="591" y="2952"/>
+	<Point x="591" y="2924"/>
+	<Point x="741" y="2924"/>
+	<Point x="741" y="2925"/>
+	<Point x="743" y="2925"/>
+	<Point x="743" y="2926"/>
+	<Point x="744" y="2926"/>
+	<Point x="744" y="2927"/>
+	<Point x="789" y="2927"/>
+	<Point x="789" y="2926"/>
+	<Point x="790" y="2926"/>
+	<Point x="790" y="2925"/>
+	<Point x="791" y="2925"/>
+	<Point x="791" y="2924"/>
+	<Point x="792" y="2924"/>
+	<Point x="792" y="2923"/>
+	<Point x="793" y="2923"/>
+	<Point x="793" y="2922"/>
+	<Point x="794" y="2922"/>
+	<Point x="794" y="2921"/>
+	<Point x="910" y="2921"/>
+	<Point x="910" y="2920"/>
+	<Point x="911" y="2920"/>
+	<Point x="911" y="2921"/>
+	<Point x="914" y="2921"/>
+	<Point x="914" y="2922"/>
+	<Point x="940" y="2922"/>
+	<Point x="940" y="2921"/>
+	<Point x="943" y="2921"/>
+	<Point x="943" y="2920"/>
+	<Point x="946" y="2920"/>
+	<Point x="946" y="2919"/>
+	<Point x="949" y="2919"/>
+	<Point x="949" y="2918"/>
+	<Point x="1214" y="2918"/>
+	<Point x="1214" y="2917"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE NEW CATHOLIC CHURCH OF GERMANY.—De‑
+putations of the leaders of Central and South Germany,
+together with the clergymen, assembled on the 1st of
+September at Oppenheim for deliberation. According to
+report the resolution was unanimously adopted, to attend
+the synod at Stuttgard, which is ﬁxed for the 15th instant,
+by deputations. Ronge is to be there, and on his return
+will visit Frankfort, and perform divine service with the
+Catholic dissenters. Frankfort is to receive in a short
+time visits from several of the clergymen who have con‑
+formed to the new sect.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r131" type="heading">
+	<Coords>
+	<Point x="1038" y="3280"/>
+	<Point x="1038" y="3310"/>
+	<Point x="927" y="3310"/>
+	<Point x="927" y="3280"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>SPAIN.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r133" type="paragraph">
+	<Coords>
+	<Point x="1369" y="3310"/>
+	<Point x="1369" y="3423"/>
+	<Point x="1368" y="3423"/>
+	<Point x="1368" y="3702"/>
+	<Point x="1367" y="3702"/>
+	<Point x="1367" y="3853"/>
+	<Point x="1368" y="3853"/>
+	<Point x="1368" y="3927"/>
+	<Point x="1018" y="3927"/>
+	<Point x="1018" y="3928"/>
+	<Point x="1015" y="3928"/>
+	<Point x="1015" y="3929"/>
+	<Point x="1011" y="3929"/>
+	<Point x="1011" y="3930"/>
+	<Point x="1008" y="3930"/>
+	<Point x="1008" y="3931"/>
+	<Point x="594" y="3931"/>
+	<Point x="594" y="3902"/>
+	<Point x="593" y="3902"/>
+	<Point x="593" y="3847"/>
+	<Point x="592" y="3847"/>
+	<Point x="592" y="3793"/>
+	<Point x="591" y="3793"/>
+	<Point x="591" y="3319"/>
+	<Point x="900" y="3319"/>
+	<Point x="900" y="3318"/>
+	<Point x="902" y="3318"/>
+	<Point x="902" y="3317"/>
+	<Point x="903" y="3317"/>
+	<Point x="903" y="3316"/>
+	<Point x="905" y="3316"/>
+	<Point x="905" y="3315"/>
+	<Point x="906" y="3315"/>
+	<Point x="906" y="3314"/>
+	<Point x="908" y="3314"/>
+	<Point x="908" y="3313"/>
+	<Point x="909" y="3313"/>
+	<Point x="909" y="3312"/>
+	<Point x="1100" y="3312"/>
+	<Point x="1100" y="3311"/>
+	<Point x="1333" y="3311"/>
+	<Point x="1333" y="3310"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>MARRIAGE OF THE QUEEN OF SPAIN.—The 'Memo‑
+rial Bordelais' has the following :—"The Queen will re‑
+turn to Madrid on the 14th of September, and the Cortes
+are to be convoked for the 10th of October. It seems
+certain that Queen Isabella will marry Prince Leopold
+Francis Julius of Saxe Coburg, born 31st January, 1824,
+younger brother of King Ferdinand of Portugal and cousin
+to the husband of the Queen of England. France, it
+appears, will consent to this marriage provided the sister
+of the Queen marries the Duke de Montpensier, and all
+Europe is agreeable to an arrangement so long desired
+by Queen Victoria and Prince Albert. It is said that the
+King of the Belgians has worked hard to secure this re‑
+sult. Our Ambassador at London, the Duke de Soto‑
+mayor (Spanish Ambassador), appears to have contributed
+his part to the same end. He has defeated the combina‑
+tions of the partisans of the Comte de Trapani and the
+Comte de Montemolin (Prince of Asturias), who presented
+themselves at ﬁrst with some chance of success."</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r137" type="paragraph">
+	<Coords>
+	<Point x="1368" y="3929"/>
+	<Point x="1368" y="4058"/>
+	<Point x="1276" y="4058"/>
+	<Point x="1276" y="4057"/>
+	<Point x="1059" y="4057"/>
+	<Point x="1059" y="4058"/>
+	<Point x="1058" y="4058"/>
+	<Point x="1058" y="4059"/>
+	<Point x="1057" y="4059"/>
+	<Point x="1057" y="4060"/>
+	<Point x="1056" y="4060"/>
+	<Point x="1056" y="4061"/>
+	<Point x="1055" y="4061"/>
+	<Point x="1055" y="4062"/>
+	<Point x="1054" y="4062"/>
+	<Point x="1054" y="4063"/>
+	<Point x="596" y="4063"/>
+	<Point x="596" y="4012"/>
+	<Point x="595" y="4012"/>
+	<Point x="595" y="3957"/>
+	<Point x="594" y="3957"/>
+	<Point x="594" y="3933"/>
+	<Point x="1010" y="3933"/>
+	<Point x="1010" y="3932"/>
+	<Point x="1013" y="3932"/>
+	<Point x="1013" y="3931"/>
+	<Point x="1017" y="3931"/>
+	<Point x="1017" y="3930"/>
+	<Point x="1020" y="3930"/>
+	<Point x="1020" y="3929"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DEATH OF BALMASEDA.—One of the most distin‑
+guished Generals of Don Carlos, Balmaseda, died a few
+days ago at Chagny, in France, where he had ﬁxed his
+residence for some time past.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r139" type="paragraph">
+	<Coords>
+	<Point x="1274" y="4059"/>
+	<Point x="1274" y="4060"/>
+	<Point x="1368" y="4060"/>
+	<Point x="1368" y="4286"/>
+	<Point x="1368" y="4285"/>
+	<Point x="594" y="4285"/>
+	<Point x="595" y="4285"/>
+	<Point x="595" y="4176"/>
+	<Point x="596" y="4176"/>
+	<Point x="596" y="4065"/>
+	<Point x="1056" y="4065"/>
+	<Point x="1056" y="4064"/>
+	<Point x="1057" y="4064"/>
+	<Point x="1057" y="4063"/>
+	<Point x="1058" y="4063"/>
+	<Point x="1058" y="4062"/>
+	<Point x="1059" y="4062"/>
+	<Point x="1059" y="4061"/>
+	<Point x="1060" y="4061"/>
+	<Point x="1060" y="4060"/>
+	<Point x="1061" y="4060"/>
+	<Point x="1061" y="4059"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>ATTEMPTED INSURRECTION IN MADRID.—The 'Jour‑
+nal des Debats' published on Wednesday the following
+telegraphic despatch, dated Madrid, midnight, on the
+5th instant :—"An attempt at insurrection was made this
+evening at ten o'clock, but was promptly repressed by
+the troops. Only one oﬃcer was killed."</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r151" type="heading">
+	<Coords>
+	<Point x="1716" y="389"/>
+	<Point x="1716" y="390"/>
+	<Point x="1767" y="390"/>
+	<Point x="1767" y="391"/>
+	<Point x="1817" y="391"/>
+	<Point x="1817" y="392"/>
+	<Point x="1868" y="392"/>
+	<Point x="1868" y="427"/>
+	<Point x="1809" y="427"/>
+	<Point x="1809" y="426"/>
+	<Point x="1745" y="426"/>
+	<Point x="1745" y="425"/>
+	<Point x="1681" y="425"/>
+	<Point x="1681" y="424"/>
+	<Point x="1679" y="424"/>
+	<Point x="1679" y="389"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PORTUGAL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r153" type="paragraph">
+	<Coords>
+	<Point x="1603" y="423"/>
+	<Point x="1603" y="424"/>
+	<Point x="1628" y="424"/>
+	<Point x="1628" y="425"/>
+	<Point x="1654" y="425"/>
+	<Point x="1654" y="426"/>
+	<Point x="1679" y="426"/>
+	<Point x="1679" y="427"/>
+	<Point x="1743" y="427"/>
+	<Point x="1743" y="428"/>
+	<Point x="1807" y="428"/>
+	<Point x="1807" y="429"/>
+	<Point x="1871" y="429"/>
+	<Point x="1871" y="430"/>
+	<Point x="2155" y="430"/>
+	<Point x="2155" y="480"/>
+	<Point x="2156" y="480"/>
+	<Point x="2156" y="744"/>
+	<Point x="2157" y="744"/>
+	<Point x="2157" y="874"/>
+	<Point x="2156" y="874"/>
+	<Point x="2156" y="933"/>
+	<Point x="1965" y="933"/>
+	<Point x="1965" y="932"/>
+	<Point x="1389" y="932"/>
+	<Point x="1389" y="752"/>
+	<Point x="1390" y="752"/>
+	<Point x="1390" y="423"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE MINISTERIAL SUCCESSES.—We have Lisbon dates
+to the 1st inst. The manager of the late elections, Senor
+José Cabral, was banqueted in Oporto, in honour of the
+success of his measures, and made an exposition of his
+political sentiments. The Queen has been advised to
+conﬁrm the late expression of the nation's will in favour
+of the Ministry, by going on a visit to her Minister, An‑
+tonio Cabral, to his castle at Thomar. The Count Tojal
+had gone to Oporto professedly to inspect the Customs
+and to make some ﬁscal arrangements ; the real object of
+this visit was said to be money arrangements with the
+capitalists of that city, those of Lisbon having made con‐
+ditions for a respite from loans for some months. The
+elections had drained the treasury. Another such victory,
+it is to be feared, would be fatal to the foreign creditors.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r167" type="heading">
+	<Coords>
+	<Point x="1836" y="934"/>
+	<Point x="1836" y="968"/>
+	<Point x="1705" y="968"/>
+	<Point x="1705" y="934"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>RUSSIA.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r169" type="paragraph">
+	<Coords>
+	<Point x="2152" y="968"/>
+	<Point x="2156" y="970"/>
+	<Point x="2156" y="975"/>
+	<Point x="2157" y="975"/>
+	<Point x="2156" y="975"/>
+	<Point x="2156" y="1020"/>
+	<Point x="2157" y="1020"/>
+	<Point x="2156" y="1020"/>
+	<Point x="2156" y="1153"/>
+	<Point x="2155" y="1153"/>
+	<Point x="2155" y="1199"/>
+	<Point x="1807" y="1199"/>
+	<Point x="1807" y="1200"/>
+	<Point x="1803" y="1200"/>
+	<Point x="1803" y="1201"/>
+	<Point x="1798" y="1201"/>
+	<Point x="1798" y="1202"/>
+	<Point x="1794" y="1202"/>
+	<Point x="1794" y="1203"/>
+	<Point x="1789" y="1203"/>
+	<Point x="1789" y="1204"/>
+	<Point x="1769" y="1204"/>
+	<Point x="1769" y="1203"/>
+	<Point x="1768" y="1203"/>
+	<Point x="1768" y="1202"/>
+	<Point x="1767" y="1202"/>
+	<Point x="1767" y="1201"/>
+	<Point x="1631" y="1201"/>
+	<Point x="1631" y="1202"/>
+	<Point x="1630" y="1202"/>
+	<Point x="1630" y="1203"/>
+	<Point x="1629" y="1203"/>
+	<Point x="1629" y="1204"/>
+	<Point x="1628" y="1204"/>
+	<Point x="1628" y="1205"/>
+	<Point x="1627" y="1205"/>
+	<Point x="1627" y="1206"/>
+	<Point x="1544" y="1206"/>
+	<Point x="1544" y="1205"/>
+	<Point x="1542" y="1205"/>
+	<Point x="1542" y="1204"/>
+	<Point x="1540" y="1204"/>
+	<Point x="1540" y="1203"/>
+	<Point x="1538" y="1203"/>
+	<Point x="1538" y="1202"/>
+	<Point x="1536" y="1202"/>
+	<Point x="1536" y="1201"/>
+	<Point x="1534" y="1201"/>
+	<Point x="1534" y="1200"/>
+	<Point x="1388" y="1200"/>
+	<Point x="1388" y="1135"/>
+	<Point x="1389" y="1135"/>
+	<Point x="1389" y="970"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>A HINT SOON TAKEN.—Letters from Taganrog, of
+Aug. 10, announce that Prince Woronzoﬀ, after his expedi‑
+tion on Dargo, had resolved to adopt the new warfare à la
+Pelissier—that of burning the forests which serve as shel‑
+ter to the Circassians. Upwards of ﬁfty waggons, laden
+with turpentine, resin, and other inﬂammable matters,
+had left Taganrog for Stavropol.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r173" type="paragraph">
+	<Coords>
+	<Point x="2155" y="1201"/>
+	<Point x="2155" y="1525"/>
+	<Point x="2154" y="1525"/>
+	<Point x="2154" y="1530"/>
+	<Point x="1945" y="1530"/>
+	<Point x="1945" y="1531"/>
+	<Point x="1679" y="1531"/>
+	<Point x="1679" y="1532"/>
+	<Point x="1676" y="1532"/>
+	<Point x="1676" y="1533"/>
+	<Point x="1673" y="1533"/>
+	<Point x="1673" y="1534"/>
+	<Point x="1670" y="1534"/>
+	<Point x="1670" y="1535"/>
+	<Point x="1667" y="1535"/>
+	<Point x="1667" y="1536"/>
+	<Point x="1664" y="1536"/>
+	<Point x="1664" y="1537"/>
+	<Point x="1624" y="1537"/>
+	<Point x="1624" y="1536"/>
+	<Point x="1623" y="1536"/>
+	<Point x="1623" y="1535"/>
+	<Point x="1622" y="1535"/>
+	<Point x="1622" y="1534"/>
+	<Point x="1621" y="1534"/>
+	<Point x="1621" y="1533"/>
+	<Point x="1386" y="1533"/>
+	<Point x="1386" y="1332"/>
+	<Point x="1387" y="1332"/>
+	<Point x="1387" y="1234"/>
+	<Point x="1388" y="1234"/>
+	<Point x="1388" y="1202"/>
+	<Point x="1532" y="1202"/>
+	<Point x="1532" y="1203"/>
+	<Point x="1534" y="1203"/>
+	<Point x="1534" y="1204"/>
+	<Point x="1536" y="1204"/>
+	<Point x="1536" y="1205"/>
+	<Point x="1538" y="1205"/>
+	<Point x="1538" y="1206"/>
+	<Point x="1540" y="1206"/>
+	<Point x="1540" y="1207"/>
+	<Point x="1542" y="1207"/>
+	<Point x="1542" y="1208"/>
+	<Point x="1629" y="1208"/>
+	<Point x="1629" y="1207"/>
+	<Point x="1630" y="1207"/>
+	<Point x="1630" y="1206"/>
+	<Point x="1631" y="1206"/>
+	<Point x="1631" y="1205"/>
+	<Point x="1632" y="1205"/>
+	<Point x="1632" y="1204"/>
+	<Point x="1633" y="1204"/>
+	<Point x="1633" y="1203"/>
+	<Point x="1765" y="1203"/>
+	<Point x="1765" y="1204"/>
+	<Point x="1766" y="1204"/>
+	<Point x="1766" y="1205"/>
+	<Point x="1767" y="1205"/>
+	<Point x="1767" y="1206"/>
+	<Point x="1791" y="1206"/>
+	<Point x="1791" y="1205"/>
+	<Point x="1796" y="1205"/>
+	<Point x="1796" y="1204"/>
+	<Point x="1800" y="1204"/>
+	<Point x="1800" y="1203"/>
+	<Point x="1805" y="1203"/>
+	<Point x="1805" y="1202"/>
+	<Point x="1809" y="1202"/>
+	<Point x="1809" y="1201"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE RUSSIAN NAVY.—The 'Cologne Gazette' con‑
+tains an article declaring that Russia is busy summer and
+winter in her dockyards at St Petersburg, and that she
+has lately introduced Paixhan's mortars into her navy.
+She possesses in the Baltic at present, 1 ship of 120 guns,
+3 of 110, 15 of 84, 12 of 74, 30 of 64 to 44, and 120 of
+less power, amongst which are steamers armed for war.
+In the Black Sea she has 2 ships of 120 guns, 2 of 110,
+12 of 84, 8 of 74, 8 of 60, 10 of 44 ; and 100 smaller
+vessels in the Caspian and White Seas.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r177" type="paragraph">
+	<Coords>
+	<Point x="2154" y="1532"/>
+	<Point x="2154" y="1615"/>
+	<Point x="2153" y="1615"/>
+	<Point x="2153" y="1705"/>
+	<Point x="2152" y="1705"/>
+	<Point x="2152" y="1776"/>
+	<Point x="2151" y="1776"/>
+	<Point x="2151" y="1804"/>
+	<Point x="1655" y="1804"/>
+	<Point x="1655" y="1803"/>
+	<Point x="1653" y="1803"/>
+	<Point x="1653" y="1802"/>
+	<Point x="1651" y="1802"/>
+	<Point x="1651" y="1801"/>
+	<Point x="1386" y="1801"/>
+	<Point x="1386" y="1535"/>
+	<Point x="1619" y="1535"/>
+	<Point x="1619" y="1536"/>
+	<Point x="1620" y="1536"/>
+	<Point x="1620" y="1537"/>
+	<Point x="1621" y="1537"/>
+	<Point x="1621" y="1538"/>
+	<Point x="1622" y="1538"/>
+	<Point x="1622" y="1539"/>
+	<Point x="1666" y="1539"/>
+	<Point x="1666" y="1538"/>
+	<Point x="1669" y="1538"/>
+	<Point x="1669" y="1537"/>
+	<Point x="1672" y="1537"/>
+	<Point x="1672" y="1536"/>
+	<Point x="1675" y="1536"/>
+	<Point x="1675" y="1535"/>
+	<Point x="1678" y="1535"/>
+	<Point x="1678" y="1534"/>
+	<Point x="1681" y="1534"/>
+	<Point x="1681" y="1533"/>
+	<Point x="1947" y="1533"/>
+	<Point x="1947" y="1532"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>PARDON FOR THE POLES.—Letters from Warsaw of
+the 22nd ult. announce that the Emperor had issued a
+decree granting a general pardon, and restoring to their
+property, which had been conﬁscated, the following Polish
+emigrants :—Prince Gabriel Mirski, Stanislas Chaynaki,
+S. Kasperski, A. Koyanowski, the Brothers Mikalowski,
+K. Nidecki, J. Protowski, P. Winekierski, Z. Wisniewski,
+L. Hoffmani, Z. Uzynski.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r191" type="heading">
+	<Coords>
+	<Point x="1891" y="1806"/>
+	<Point x="1891" y="1839"/>
+	<Point x="1654" y="1839"/>
+	<Point x="1654" y="1806"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>WEST INDIES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r193" type="paragraph">
+	<Coords>
+	<Point x="2151" y="1836"/>
+	<Point x="2151" y="1847"/>
+	<Point x="2150" y="1847"/>
+	<Point x="2150" y="1989"/>
+	<Point x="2151" y="1989"/>
+	<Point x="2151" y="2266"/>
+	<Point x="2150" y="2266"/>
+	<Point x="2150" y="2407"/>
+	<Point x="2151" y="2407"/>
+	<Point x="2151" y="2561"/>
+	<Point x="2060" y="2561"/>
+	<Point x="2060" y="2562"/>
+	<Point x="1608" y="2562"/>
+	<Point x="1608" y="2563"/>
+	<Point x="1607" y="2563"/>
+	<Point x="1607" y="2564"/>
+	<Point x="1606" y="2564"/>
+	<Point x="1606" y="2565"/>
+	<Point x="1605" y="2565"/>
+	<Point x="1605" y="2566"/>
+	<Point x="1604" y="2566"/>
+	<Point x="1604" y="2567"/>
+	<Point x="1603" y="2567"/>
+	<Point x="1603" y="2568"/>
+	<Point x="1602" y="2568"/>
+	<Point x="1602" y="2569"/>
+	<Point x="1601" y="2569"/>
+	<Point x="1601" y="2570"/>
+	<Point x="1572" y="2570"/>
+	<Point x="1572" y="2569"/>
+	<Point x="1571" y="2569"/>
+	<Point x="1571" y="2568"/>
+	<Point x="1569" y="2568"/>
+	<Point x="1569" y="2567"/>
+	<Point x="1568" y="2567"/>
+	<Point x="1568" y="2566"/>
+	<Point x="1566" y="2566"/>
+	<Point x="1566" y="2565"/>
+	<Point x="1383" y="2565"/>
+	<Point x="1383" y="2316"/>
+	<Point x="1384" y="2316"/>
+	<Point x="1384" y="2035"/>
+	<Point x="1385" y="2035"/>
+	<Point x="1385" y="1841"/>
+	<Point x="1928" y="1841"/>
+	<Point x="1928" y="1840"/>
+	<Point x="1929" y="1840"/>
+	<Point x="1929" y="1839"/>
+	<Point x="1930" y="1839"/>
+	<Point x="1930" y="1838"/>
+	<Point x="1931" y="1838"/>
+	<Point x="1931" y="1837"/>
+	<Point x="1932" y="1837"/>
+	<Point x="1932" y="1836"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>JAMAICA.—The last accounts from the West Indies
+state that the railway from Kingston to Port Royal was
+fully expected to be opened on the 1st of October. Not
+one of the English labourers had died, which was attri‑
+buted to their abstaining entirely from drinking rum.
+The weather at Jamaica had been exceedingly dry and
+warm generally throughout the island, and the heat at
+Kingston very severe. The accounts from the agricul‑
+tural districts continue satisfactory with regard to the
+soil, but great complaints are made of the total cessation
+of labour, in consequence of the labouring population de‑
+voting part of an expected three weeks of indolence to
+the anniversary of freedom—a serious aﬀair to those
+parishes in which the present year's crop had been re‑
+tarded by the dampness of the earlier portion of the sugar
+crop. Notwithstanding these disadvantages the crop for
+the present year even considerably exceeds the average of
+late years. These holidays, which commenced on the
+1st of August, had, as far as they had gone, proceeded
+without disturbance, and it was expected would be gene‑
+rally indulged in nearly the whole time, in no cases less
+than seven days.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r197" type="paragraph">
+	<Coords>
+	<Point x="2151" y="2563"/>
+	<Point x="2151" y="2686"/>
+	<Point x="2150" y="2686"/>
+	<Point x="2150" y="2708"/>
+	<Point x="2149" y="2708"/>
+	<Point x="2149" y="2729"/>
+	<Point x="2148" y="2729"/>
+	<Point x="2148" y="2750"/>
+	<Point x="2147" y="2750"/>
+	<Point x="2147" y="2807"/>
+	<Point x="2148" y="2807"/>
+	<Point x="2148" y="2953"/>
+	<Point x="2147" y="2953"/>
+	<Point x="2147" y="3062"/>
+	<Point x="1384" y="3062"/>
+	<Point x="1384" y="3016"/>
+	<Point x="1383" y="3016"/>
+	<Point x="1383" y="2736"/>
+	<Point x="1382" y="2736"/>
+	<Point x="1383" y="2736"/>
+	<Point x="1383" y="2567"/>
+	<Point x="1564" y="2567"/>
+	<Point x="1564" y="2568"/>
+	<Point x="1566" y="2568"/>
+	<Point x="1566" y="2569"/>
+	<Point x="1567" y="2569"/>
+	<Point x="1567" y="2570"/>
+	<Point x="1569" y="2570"/>
+	<Point x="1569" y="2571"/>
+	<Point x="1570" y="2571"/>
+	<Point x="1570" y="2572"/>
+	<Point x="1603" y="2572"/>
+	<Point x="1603" y="2571"/>
+	<Point x="1604" y="2571"/>
+	<Point x="1604" y="2570"/>
+	<Point x="1605" y="2570"/>
+	<Point x="1605" y="2569"/>
+	<Point x="1606" y="2569"/>
+	<Point x="1606" y="2568"/>
+	<Point x="1607" y="2568"/>
+	<Point x="1607" y="2567"/>
+	<Point x="1608" y="2567"/>
+	<Point x="1608" y="2566"/>
+	<Point x="1609" y="2566"/>
+	<Point x="1609" y="2565"/>
+	<Point x="1610" y="2565"/>
+	<Point x="1610" y="2564"/>
+	<Point x="2062" y="2564"/>
+	<Point x="2062" y="2563"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>AFFAIRS OF HAYTI.—Port‐au‐Prince papers to the
+3rd of July speak of an engagement having taken place
+at Cachiman between the insurgents, numbering 1,500
+men, and two detachments of Government troops, num‑
+bering in the whole only 600 men. The attack lasted
+four hours, and ended in the total rout of the insurgent
+body, leaving a considerable number of dead bodies on
+the ﬁeld of battle. The Government troops, on their
+part, suﬀered a loss of 4 killed and 26 wounded. A de‑
+cree, under date of the 10th of July, pronounces perpe‑
+tual banishment from Hayti of the following individuals,
+stated to have taken part with Gen. Herard in his late
+attempt to invade the Republic, viz. :—Rinchere, Leo
+Herard, Tullus Herard, Merveilleux Herard, Saint Cyr
+Bourjolly, Joseph Racolier, Favard, Vilmenay, and Roy.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r211" type="heading">
+	<Coords>
+	<Point x="1852" y="3064"/>
+	<Point x="1852" y="3097"/>
+	<Point x="1679" y="3097"/>
+	<Point x="1679" y="3064"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HOLLAND.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r213" type="paragraph">
+	<Coords>
+	<Point x="2146" y="3099"/>
+	<Point x="2146" y="3215"/>
+	<Point x="2147" y="3215"/>
+	<Point x="2147" y="3240"/>
+	<Point x="1383" y="3240"/>
+	<Point x="1383" y="3157"/>
+	<Point x="1384" y="3157"/>
+	<Point x="1384" y="3104"/>
+	<Point x="1672" y="3104"/>
+	<Point x="1672" y="3103"/>
+	<Point x="1674" y="3103"/>
+	<Point x="1674" y="3102"/>
+	<Point x="1676" y="3102"/>
+	<Point x="1676" y="3101"/>
+	<Point x="1678" y="3101"/>
+	<Point x="1678" y="3100"/>
+	<Point x="1680" y="3100"/>
+	<Point x="1680" y="3099"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>OPENING OF THE NEW EXCHANGE AT AMSTERDAM.—The ceremony of opening the New Exchange in this
+city was to take place with great solemnity on Wednesday
+last. The King and Princes were to be present.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r227" type="heading">
+	<Coords>
+	<Point x="1848" y="3242"/>
+	<Point x="1848" y="3279"/>
+	<Point x="1687" y="3279"/>
+	<Point x="1687" y="3242"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TURKEY.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r229" type="paragraph">
+	<Coords>
+	<Point x="2147" y="3278"/>
+	<Point x="2147" y="3469"/>
+	<Point x="2145" y="3469"/>
+	<Point x="2145" y="3655"/>
+	<Point x="2144" y="3655"/>
+	<Point x="2144" y="3737"/>
+	<Point x="1687" y="3737"/>
+	<Point x="1687" y="3736"/>
+	<Point x="1624" y="3736"/>
+	<Point x="1624" y="3737"/>
+	<Point x="1622" y="3737"/>
+	<Point x="1622" y="3738"/>
+	<Point x="1619" y="3738"/>
+	<Point x="1619" y="3739"/>
+	<Point x="1616" y="3739"/>
+	<Point x="1616" y="3740"/>
+	<Point x="1614" y="3740"/>
+	<Point x="1614" y="3741"/>
+	<Point x="1611" y="3741"/>
+	<Point x="1611" y="3742"/>
+	<Point x="1593" y="3742"/>
+	<Point x="1593" y="3741"/>
+	<Point x="1589" y="3741"/>
+	<Point x="1589" y="3740"/>
+	<Point x="1585" y="3740"/>
+	<Point x="1585" y="3739"/>
+	<Point x="1580" y="3739"/>
+	<Point x="1580" y="3738"/>
+	<Point x="1576" y="3738"/>
+	<Point x="1576" y="3737"/>
+	<Point x="1572" y="3737"/>
+	<Point x="1572" y="3736"/>
+	<Point x="1379" y="3736"/>
+	<Point x="1379" y="3720"/>
+	<Point x="1380" y="3720"/>
+	<Point x="1380" y="3439"/>
+	<Point x="1381" y="3439"/>
+	<Point x="1381" y="3368"/>
+	<Point x="1382" y="3368"/>
+	<Point x="1382" y="3296"/>
+	<Point x="1383" y="3296"/>
+	<Point x="1383" y="3281"/>
+	<Point x="1861" y="3281"/>
+	<Point x="1861" y="3280"/>
+	<Point x="1984" y="3280"/>
+	<Point x="1984" y="3279"/>
+	<Point x="2107" y="3279"/>
+	<Point x="2107" y="3278"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DISTURBED STATE OR THE EMPIRE.—The whole
+Pachalik of Bagdad is in alarm. Redschid Pacha, the
+governor of that province, a fanatic Turk, well known for
+having taken by storm the holy city of Kerbela, has ex‑
+pelled Achmed Pacha, the hereditary governor of Suli‑
+manie, from his post, after a desperate action, he having
+caused a messenger to have his head cut oﬀ, whom Reds‑
+chid had sent to summon him to appear in person before
+the governor. Redschid, indeed, appointed a brother of
+Achmed in his room, but in vain. Arabia is likewise in
+a complete state of rebellion. The state of Albania and
+Bosnia is not much better. The orders of the Porte are
+scarcely attended to in these provinces, and the new sys‑
+tem of recruiting cannot be carried into eﬀect there.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r233" type="paragraph">
+	<Coords>
+	<Point x="1570" y="3738"/>
+	<Point x="1570" y="3739"/>
+	<Point x="1574" y="3739"/>
+	<Point x="1574" y="3740"/>
+	<Point x="1578" y="3740"/>
+	<Point x="1578" y="3741"/>
+	<Point x="1583" y="3741"/>
+	<Point x="1583" y="3742"/>
+	<Point x="1587" y="3742"/>
+	<Point x="1587" y="3743"/>
+	<Point x="1591" y="3743"/>
+	<Point x="1591" y="3744"/>
+	<Point x="1613" y="3744"/>
+	<Point x="1613" y="3743"/>
+	<Point x="1616" y="3743"/>
+	<Point x="1616" y="3742"/>
+	<Point x="1618" y="3742"/>
+	<Point x="1618" y="3741"/>
+	<Point x="1621" y="3741"/>
+	<Point x="1621" y="3740"/>
+	<Point x="1624" y="3740"/>
+	<Point x="1624" y="3739"/>
+	<Point x="1626" y="3739"/>
+	<Point x="1626" y="3738"/>
+	<Point x="1685" y="3738"/>
+	<Point x="1685" y="3739"/>
+	<Point x="2144" y="3739"/>
+	<Point x="2144" y="3793"/>
+	<Point x="2143" y="3793"/>
+	<Point x="2143" y="3839"/>
+	<Point x="1379" y="3839"/>
+	<Point x="1379" y="3738"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Sulina mouth of the Danube has been so choked
+up with sand, during the whole summer, that no mer‑
+chantman has been able to enter.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r247" type="heading">
+	<Coords>
+	<Point x="1830" y="3841"/>
+	<Point x="1830" y="3880"/>
+	<Point x="1694" y="3880"/>
+	<Point x="1694" y="3841"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>BRAZIL.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r249" type="paragraph">
+	<Coords>
+	<Point x="2143" y="3882"/>
+	<Point x="2143" y="4054"/>
+	<Point x="1744" y="4054"/>
+	<Point x="1744" y="4053"/>
+	<Point x="1743" y="4053"/>
+	<Point x="1743" y="4052"/>
+	<Point x="1742" y="4052"/>
+	<Point x="1742" y="4051"/>
+	<Point x="1741" y="4051"/>
+	<Point x="1741" y="4050"/>
+	<Point x="1740" y="4050"/>
+	<Point x="1740" y="4049"/>
+	<Point x="1739" y="4049"/>
+	<Point x="1739" y="4048"/>
+	<Point x="1738" y="4048"/>
+	<Point x="1738" y="4046"/>
+	<Point x="1379" y="4046"/>
+	<Point x="1379" y="4001"/>
+	<Point x="1380" y="4001"/>
+	<Point x="1380" y="3882"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE TREATY WITH ENGLAND.—Accounts from Rio
+to the 7th of July have been received by way of France.
+They contradict the report that the previous packet had
+brought home a treaty between the Brazilian and Eng‑
+lish Governments—'Liverpool Times.'</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r255" type="paragraph">
+	<Coords>
+	<Point x="2142" y="4091"/>
+	<Point x="2142" y="4212"/>
+	<Point x="2141" y="4212"/>
+	<Point x="2141" y="4286"/>
+	<Point x="1379" y="4286"/>
+	<Point x="1379" y="4091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>WRETCHED CONDITION OF THE COLONY.—The fol‑
+lowing is an extract from a letter dated Hobart Town,
+April 30th, 1845 :—"Robbery, violence, and indolence,
+stalk through the land ; that portion of the free labourers
+who had the means to leave have already done so, those</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r263" type="heading">
+	<Coords>
+	<Point x="1736" y="4048"/>
+	<Point x="1736" y="4050"/>
+	<Point x="1737" y="4050"/>
+	<Point x="1737" y="4051"/>
+	<Point x="1738" y="4051"/>
+	<Point x="1738" y="4052"/>
+	<Point x="1739" y="4052"/>
+	<Point x="1739" y="4053"/>
+	<Point x="1740" y="4053"/>
+	<Point x="1740" y="4054"/>
+	<Point x="1741" y="4054"/>
+	<Point x="1741" y="4055"/>
+	<Point x="1742" y="4055"/>
+	<Point x="1742" y="4056"/>
+	<Point x="1941" y="4056"/>
+	<Point x="1941" y="4089"/>
+	<Point x="1579" y="4089"/>
+	<Point x="1579" y="4048"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>VAN DIEMAN'S LAND.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r265" type="paragraph">
+	<Coords>
+	<Point x="2170" y="395"/>
+	<Point x="2170" y="396"/>
+	<Point x="2295" y="396"/>
+	<Point x="2295" y="397"/>
+	<Point x="2421" y="397"/>
+	<Point x="2421" y="398"/>
+	<Point x="2547" y="398"/>
+	<Point x="2547" y="399"/>
+	<Point x="2672" y="399"/>
+	<Point x="2672" y="400"/>
+	<Point x="2798" y="400"/>
+	<Point x="2798" y="401"/>
+	<Point x="2924" y="401"/>
+	<Point x="2924" y="402"/>
+	<Point x="2925" y="402"/>
+	<Point x="2925" y="857"/>
+	<Point x="2167" y="857"/>
+	<Point x="2167" y="467"/>
+	<Point x="2166" y="467"/>
+	<Point x="2166" y="395"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>who cannot get away are obliged to compete with the
+convicts, and thus earn a miserable subsistence in this
+devoted and degraded colony. Insolvencies are now be‑
+come so numerous that they pass unnoticed. Cargo after
+cargo arrives, and as the idea of credit has become absurd,
+they are sold for immediate cash at a ruinous sacriﬁce to
+the London merchant. Money we have none to send you
+home, and must claim your further indulgence : all our
+misery has been caused by Lord Stanley's absurd policy ;
+we were happy, prosperous, and ﬂourishing, before he
+inundated us with an overwhelming ﬂood of crime ; and
+nothing but a speedy alteration of the convict system can
+relieve us. All our hopes, therefore, rest on our petition
+to Parliament."</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r283">
+	<Coords>
+	<Point x="2628" y="867"/>
+	<Point x="2628" y="876"/>
+	<Point x="2606" y="876"/>
+	<Point x="2606" y="875"/>
+	<Point x="2470" y="875"/>
+	<Point x="2470" y="867"/></Coords></SeparatorRegion>
+	<TextRegion id="r299" type="heading">
+	<Coords>
+	<Point x="2706" y="892"/>
+	<Point x="2706" y="927"/>
+	<Point x="2403" y="927"/>
+	<Point x="2403" y="892"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>UNITED STATES.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r301" type="paragraph">
+	<Coords>
+	<Point x="2925" y="929"/>
+	<Point x="2925" y="956"/>
+	<Point x="2926" y="956"/>
+	<Point x="2926" y="1066"/>
+	<Point x="2167" y="1066"/>
+	<Point x="2167" y="1031"/>
+	<Point x="2166" y="1031"/>
+	<Point x="2166" y="929"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>We have received a letter on the subject of Texas and
+Mexico, which, without desiring here to express an opi‑
+nion on the argument it contains, seems to us written in
+a spirit not undeserving of attention.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r315" type="heading">
+	<Coords>
+	<Point x="2792" y="1068"/>
+	<Point x="2792" y="1098"/>
+	<Point x="2302" y="1098"/>
+	<Point x="2302" y="1068"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>TO THE EDITOR OF THE EXAMINER.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r317" type="paragraph">
+	<Coords>
+	<Point x="2926" y="1100"/>
+	<Point x="2926" y="1511"/>
+	<Point x="2927" y="1511"/>
+	<Point x="2927" y="2066"/>
+	<Point x="2928" y="2066"/>
+	<Point x="2928" y="2200"/>
+	<Point x="2829" y="2200"/>
+	<Point x="2829" y="2201"/>
+	<Point x="2728" y="2201"/>
+	<Point x="2728" y="2202"/>
+	<Point x="2520" y="2202"/>
+	<Point x="2520" y="2203"/>
+	<Point x="2519" y="2203"/>
+	<Point x="2519" y="2204"/>
+	<Point x="2517" y="2204"/>
+	<Point x="2517" y="2205"/>
+	<Point x="2257" y="2205"/>
+	<Point x="2257" y="2206"/>
+	<Point x="2256" y="2206"/>
+	<Point x="2256" y="2207"/>
+	<Point x="2255" y="2207"/>
+	<Point x="2255" y="2209"/>
+	<Point x="2254" y="2209"/>
+	<Point x="2254" y="2210"/>
+	<Point x="2253" y="2210"/>
+	<Point x="2253" y="2211"/>
+	<Point x="2252" y="2211"/>
+	<Point x="2252" y="2212"/>
+	<Point x="2237" y="2212"/>
+	<Point x="2237" y="2211"/>
+	<Point x="2236" y="2211"/>
+	<Point x="2236" y="2209"/>
+	<Point x="2235" y="2209"/>
+	<Point x="2235" y="2207"/>
+	<Point x="2234" y="2207"/>
+	<Point x="2234" y="2205"/>
+	<Point x="2163" y="2205"/>
+	<Point x="2163" y="2147"/>
+	<Point x="2162" y="2147"/>
+	<Point x="2162" y="1870"/>
+	<Point x="2163" y="1870"/>
+	<Point x="2163" y="1777"/>
+	<Point x="2164" y="1777"/>
+	<Point x="2164" y="1684"/>
+	<Point x="2165" y="1684"/>
+	<Point x="2165" y="1310"/>
+	<Point x="2166" y="1310"/>
+	<Point x="2166" y="1242"/>
+	<Point x="2167" y="1242"/>
+	<Point x="2167" y="1100"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Sir,—I am surprised to observe that the unreasonable
+tone generally adopted by the journals in this country, in
+relation to the annexation of Texas, has called forth no re‑
+mark on the part of unprejudiced and discerning English‑
+men. Annexation is generally pronounced to be a great
+injury inﬂicted by the United States Government on Mexico,
+and just cause for a declaration of war by the latter : indeed
+it is frequently stigmatised as robbery on the part of the
+United States, and an insult to the civilized world. Observe :
+all these hard names are lavished upon the act of annexa‑
+tion, not upon the acknowledgment of the independence of
+Texas as a State, in the ﬁrst instance, or the conclusion of
+treaties of commerce with her ; nor yet upon the emigra‑
+tion of armed Americans into Texas during her struggle for
+independence. Whatever wrong may have been committed
+then, and I think it was a great wrong, although one which
+the Government of the United States would have found it
+almost impossible to prevent, little was said about it on this
+side of the water. A few individuals raised their voices to
+denounce it, but Governments soon got reconciled to a
+wrong which they thought they could turn to their own
+proﬁt ; treaties were made with these very American emi‑
+grants ; loans of money granted ; and the young Republic
+was fast rising into favour with European Governments,
+when it was suddenly discovered that these people had
+more sympathy with their ﬁrst cousins in the States than
+with their tenth cousins in England, and were actually
+thinking of joining the Union. Negotiations and manœu‑
+vres were now resorted to, to prevent this act of a people
+acknowledged by England to be free ; and, these nogotiations
+failing, the British press opens an attack, from one end of
+the kingdom to the other, upon the Americans and Texans,
+and for what ? Not for having broken any compact with
+England, or done her any wrong ; not for having made a
+very foolish arrangement as far as their own interest is
+concerned, about which much might justly be said ; but for
+having cheated and robbed Mexico.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r321" type="paragraph">
+	<Coords>
+	<Point x="2928" y="2202"/>
+	<Point x="2928" y="2467"/>
+	<Point x="2890" y="2467"/>
+	<Point x="2890" y="2468"/>
+	<Point x="2801" y="2468"/>
+	<Point x="2801" y="2469"/>
+	<Point x="2712" y="2469"/>
+	<Point x="2712" y="2470"/>
+	<Point x="2432" y="2470"/>
+	<Point x="2432" y="2471"/>
+	<Point x="2430" y="2471"/>
+	<Point x="2430" y="2472"/>
+	<Point x="2428" y="2472"/>
+	<Point x="2428" y="2473"/>
+	<Point x="2426" y="2473"/>
+	<Point x="2426" y="2474"/>
+	<Point x="2424" y="2474"/>
+	<Point x="2424" y="2475"/>
+	<Point x="2422" y="2475"/>
+	<Point x="2422" y="2476"/>
+	<Point x="2420" y="2476"/>
+	<Point x="2420" y="2477"/>
+	<Point x="2418" y="2477"/>
+	<Point x="2418" y="2478"/>
+	<Point x="2416" y="2478"/>
+	<Point x="2416" y="2479"/>
+	<Point x="2414" y="2479"/>
+	<Point x="2414" y="2480"/>
+	<Point x="2392" y="2480"/>
+	<Point x="2392" y="2479"/>
+	<Point x="2391" y="2479"/>
+	<Point x="2391" y="2478"/>
+	<Point x="2390" y="2478"/>
+	<Point x="2390" y="2477"/>
+	<Point x="2388" y="2477"/>
+	<Point x="2388" y="2476"/>
+	<Point x="2387" y="2476"/>
+	<Point x="2387" y="2475"/>
+	<Point x="2299" y="2475"/>
+	<Point x="2299" y="2476"/>
+	<Point x="2290" y="2476"/>
+	<Point x="2290" y="2477"/>
+	<Point x="2280" y="2477"/>
+	<Point x="2279" y="2479"/>
+	<Point x="2247" y="2479"/>
+	<Point x="2245" y="2477"/>
+	<Point x="2245" y="2476"/>
+	<Point x="2163" y="2476"/>
+	<Point x="2163" y="2425"/>
+	<Point x="2162" y="2425"/>
+	<Point x="2162" y="2288"/>
+	<Point x="2163" y="2288"/>
+	<Point x="2163" y="2207"/>
+	<Point x="2232" y="2207"/>
+	<Point x="2232" y="2209"/>
+	<Point x="2233" y="2209"/>
+	<Point x="2233" y="2211"/>
+	<Point x="2234" y="2211"/>
+	<Point x="2234" y="2213"/>
+	<Point x="2235" y="2213"/>
+	<Point x="2235" y="2214"/>
+	<Point x="2254" y="2214"/>
+	<Point x="2254" y="2213"/>
+	<Point x="2255" y="2213"/>
+	<Point x="2255" y="2212"/>
+	<Point x="2256" y="2212"/>
+	<Point x="2256" y="2211"/>
+	<Point x="2257" y="2211"/>
+	<Point x="2257" y="2209"/>
+	<Point x="2258" y="2209"/>
+	<Point x="2258" y="2208"/>
+	<Point x="2259" y="2208"/>
+	<Point x="2259" y="2207"/>
+	<Point x="2519" y="2207"/>
+	<Point x="2519" y="2206"/>
+	<Point x="2521" y="2206"/>
+	<Point x="2521" y="2205"/>
+	<Point x="2522" y="2205"/>
+	<Point x="2522" y="2204"/>
+	<Point x="2730" y="2204"/>
+	<Point x="2730" y="2203"/>
+	<Point x="2831" y="2203"/>
+	<Point x="2831" y="2202"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>The Texans, with whom England was hand and glove,
+are suddenly discovered to be rebels, and the Americans
+invaders and robbers, for treating with them upon more
+favourable terms than Englrnd could do. I saw it gravely
+questioned the other day, even in your paper, "whether
+England would give up her claim on Texas as part of
+Mexico, for the debt due by Mexico to England ?" and
+this after acknowledging the independance of Texas and
+loaning her money !</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r335" type="paragraph">
+	<Coords>
+	<Point x="2910" y="2469"/>
+	<Point x="2910" y="2497"/>
+	<Point x="2788" y="2497"/>
+	<Point x="2788" y="2498"/>
+	<Point x="2787" y="2498"/>
+	<Point x="2787" y="2499"/>
+	<Point x="2786" y="2499"/>
+	<Point x="2786" y="2500"/>
+	<Point x="2785" y="2500"/>
+	<Point x="2785" y="2501"/>
+	<Point x="2783" y="2501"/>
+	<Point x="2783" y="2502"/>
+	<Point x="2782" y="2502"/>
+	<Point x="2782" y="2503"/>
+	<Point x="2781" y="2503"/>
+	<Point x="2781" y="2504"/>
+	<Point x="2774" y="2504"/>
+	<Point x="2774" y="2503"/>
+	<Point x="2773" y="2503"/>
+	<Point x="2773" y="2502"/>
+	<Point x="2771" y="2502"/>
+	<Point x="2771" y="2501"/>
+	<Point x="2769" y="2501"/>
+	<Point x="2769" y="2500"/>
+	<Point x="2629" y="2500"/>
+	<Point x="2629" y="2501"/>
+	<Point x="2628" y="2501"/>
+	<Point x="2628" y="2502"/>
+	<Point x="2627" y="2502"/>
+	<Point x="2627" y="2504"/>
+	<Point x="2626" y="2504"/>
+	<Point x="2626" y="2505"/>
+	<Point x="2625" y="2505"/>
+	<Point x="2625" y="2506"/>
+	<Point x="2618" y="2506"/>
+	<Point x="2618" y="2505"/>
+	<Point x="2616" y="2505"/>
+	<Point x="2616" y="2504"/>
+	<Point x="2613" y="2504"/>
+	<Point x="2613" y="2503"/>
+	<Point x="2553" y="2503"/>
+	<Point x="2553" y="2504"/>
+	<Point x="2359" y="2504"/>
+	<Point x="2359" y="2505"/>
+	<Point x="2358" y="2505"/>
+	<Point x="2358" y="2506"/>
+	<Point x="2357" y="2506"/>
+	<Point x="2357" y="2507"/>
+	<Point x="2356" y="2507"/>
+	<Point x="2356" y="2509"/>
+	<Point x="2355" y="2509"/>
+	<Point x="2355" y="2510"/>
+	<Point x="2354" y="2510"/>
+	<Point x="2354" y="2511"/>
+	<Point x="2353" y="2511"/>
+	<Point x="2353" y="2512"/>
+	<Point x="2265" y="2512"/>
+	<Point x="2265" y="2511"/>
+	<Point x="2264" y="2511"/>
+	<Point x="2264" y="2510"/>
+	<Point x="2263" y="2510"/>
+	<Point x="2263" y="2509"/>
+	<Point x="2262" y="2509"/>
+	<Point x="2262" y="2508"/>
+	<Point x="2260" y="2508"/>
+	<Point x="2260" y="2507"/>
+	<Point x="2259" y="2507"/>
+	<Point x="2259" y="2506"/>
+	<Point x="2258" y="2506"/>
+	<Point x="2258" y="2505"/>
+	<Point x="2196" y="2505"/>
+	<Point x="2196" y="2478"/>
+	<Point x="2243" y="2478"/>
+	<Point x="2243" y="2479"/>
+	<Point x="2245" y="2479"/>
+	<Point x="2245" y="2480"/>
+	<Point x="2282" y="2480"/>
+	<Point x="2282" y="2479"/>
+	<Point x="2292" y="2479"/>
+	<Point x="2292" y="2478"/>
+	<Point x="2301" y="2478"/>
+	<Point x="2301" y="2477"/>
+	<Point x="2385" y="2477"/>
+	<Point x="2385" y="2478"/>
+	<Point x="2386" y="2478"/>
+	<Point x="2386" y="2479"/>
+	<Point x="2388" y="2479"/>
+	<Point x="2388" y="2480"/>
+	<Point x="2389" y="2480"/>
+	<Point x="2389" y="2481"/>
+	<Point x="2390" y="2481"/>
+	<Point x="2390" y="2482"/>
+	<Point x="2416" y="2482"/>
+	<Point x="2416" y="2481"/>
+	<Point x="2418" y="2481"/>
+	<Point x="2418" y="2480"/>
+	<Point x="2420" y="2480"/>
+	<Point x="2420" y="2479"/>
+	<Point x="2422" y="2479"/>
+	<Point x="2422" y="2478"/>
+	<Point x="2424" y="2478"/>
+	<Point x="2424" y="2477"/>
+	<Point x="2426" y="2477"/>
+	<Point x="2426" y="2476"/>
+	<Point x="2428" y="2476"/>
+	<Point x="2428" y="2475"/>
+	<Point x="2430" y="2475"/>
+	<Point x="2430" y="2474"/>
+	<Point x="2432" y="2474"/>
+	<Point x="2432" y="2473"/>
+	<Point x="2434" y="2473"/>
+	<Point x="2434" y="2472"/>
+	<Point x="2714" y="2472"/>
+	<Point x="2714" y="2471"/>
+	<Point x="2803" y="2471"/>
+	<Point x="2803" y="2470"/>
+	<Point x="2892" y="2470"/>
+	<Point x="2892" y="2469"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Really this seems to be either very dull or very insincere.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r337" type="paragraph">
+	<Coords>
+	<Point x="2928" y="2499"/>
+	<Point x="2928" y="2621"/>
+	<Point x="2929" y="2621"/>
+	<Point x="2929" y="2947"/>
+	<Point x="2910" y="2947"/>
+	<Point x="2910" y="2948"/>
+	<Point x="2624" y="2948"/>
+	<Point x="2624" y="2949"/>
+	<Point x="2623" y="2949"/>
+	<Point x="2623" y="2950"/>
+	<Point x="2622" y="2950"/>
+	<Point x="2622" y="2951"/>
+	<Point x="2621" y="2951"/>
+	<Point x="2621" y="2952"/>
+	<Point x="2620" y="2952"/>
+	<Point x="2620" y="2953"/>
+	<Point x="2619" y="2953"/>
+	<Point x="2619" y="2954"/>
+	<Point x="2618" y="2954"/>
+	<Point x="2618" y="2955"/>
+	<Point x="2617" y="2955"/>
+	<Point x="2617" y="2956"/>
+	<Point x="2492" y="2956"/>
+	<Point x="2492" y="2955"/>
+	<Point x="2491" y="2955"/>
+	<Point x="2491" y="2954"/>
+	<Point x="2490" y="2954"/>
+	<Point x="2490" y="2952"/>
+	<Point x="2489" y="2952"/>
+	<Point x="2489" y="2950"/>
+	<Point x="2488" y="2950"/>
+	<Point x="2488" y="2949"/>
+	<Point x="2427" y="2949"/>
+	<Point x="2427" y="2950"/>
+	<Point x="2422" y="2950"/>
+	<Point x="2422" y="2951"/>
+	<Point x="2416" y="2951"/>
+	<Point x="2416" y="2952"/>
+	<Point x="2410" y="2952"/>
+	<Point x="2410" y="2953"/>
+	<Point x="2399" y="2954"/>
+	<Point x="2386" y="2953"/>
+	<Point x="2382" y="2953"/>
+	<Point x="2382" y="2952"/>
+	<Point x="2379" y="2952"/>
+	<Point x="2379" y="2951"/>
+	<Point x="2294" y="2951"/>
+	<Point x="2294" y="2952"/>
+	<Point x="2293" y="2952"/>
+	<Point x="2293" y="2953"/>
+	<Point x="2291" y="2953"/>
+	<Point x="2291" y="2954"/>
+	<Point x="2289" y="2954"/>
+	<Point x="2289" y="2955"/>
+	<Point x="2287" y="2955"/>
+	<Point x="2287" y="2956"/>
+	<Point x="2285" y="2956"/>
+	<Point x="2285" y="2957"/>
+	<Point x="2284" y="2957"/>
+	<Point x="2284" y="2958"/>
+	<Point x="2282" y="2958"/>
+	<Point x="2282" y="2959"/>
+	<Point x="2280" y="2959"/>
+	<Point x="2280" y="2960"/>
+	<Point x="2278" y="2960"/>
+	<Point x="2278" y="2961"/>
+	<Point x="2159" y="2961"/>
+	<Point x="2159" y="2844"/>
+	<Point x="2160" y="2844"/>
+	<Point x="2160" y="2798"/>
+	<Point x="2161" y="2798"/>
+	<Point x="2161" y="2751"/>
+	<Point x="2162" y="2751"/>
+	<Point x="2162" y="2704"/>
+	<Point x="2163" y="2704"/>
+	<Point x="2163" y="2635"/>
+	<Point x="2164" y="2635"/>
+	<Point x="2164" y="2564"/>
+	<Point x="2163" y="2564"/>
+	<Point x="2163" y="2507"/>
+	<Point x="2256" y="2507"/>
+	<Point x="2256" y="2508"/>
+	<Point x="2257" y="2508"/>
+	<Point x="2257" y="2509"/>
+	<Point x="2258" y="2509"/>
+	<Point x="2258" y="2510"/>
+	<Point x="2260" y="2510"/>
+	<Point x="2260" y="2511"/>
+	<Point x="2261" y="2511"/>
+	<Point x="2261" y="2512"/>
+	<Point x="2262" y="2512"/>
+	<Point x="2262" y="2513"/>
+	<Point x="2263" y="2513"/>
+	<Point x="2263" y="2514"/>
+	<Point x="2355" y="2514"/>
+	<Point x="2355" y="2513"/>
+	<Point x="2356" y="2513"/>
+	<Point x="2356" y="2512"/>
+	<Point x="2357" y="2512"/>
+	<Point x="2357" y="2511"/>
+	<Point x="2358" y="2511"/>
+	<Point x="2358" y="2509"/>
+	<Point x="2359" y="2509"/>
+	<Point x="2359" y="2508"/>
+	<Point x="2360" y="2508"/>
+	<Point x="2360" y="2507"/>
+	<Point x="2361" y="2507"/>
+	<Point x="2361" y="2506"/>
+	<Point x="2555" y="2506"/>
+	<Point x="2555" y="2505"/>
+	<Point x="2611" y="2505"/>
+	<Point x="2611" y="2506"/>
+	<Point x="2614" y="2506"/>
+	<Point x="2614" y="2507"/>
+	<Point x="2616" y="2507"/>
+	<Point x="2616" y="2508"/>
+	<Point x="2627" y="2508"/>
+	<Point x="2627" y="2507"/>
+	<Point x="2628" y="2507"/>
+	<Point x="2628" y="2506"/>
+	<Point x="2629" y="2506"/>
+	<Point x="2629" y="2504"/>
+	<Point x="2630" y="2504"/>
+	<Point x="2630" y="2503"/>
+	<Point x="2631" y="2503"/>
+	<Point x="2631" y="2502"/>
+	<Point x="2767" y="2502"/>
+	<Point x="2767" y="2503"/>
+	<Point x="2769" y="2503"/>
+	<Point x="2769" y="2504"/>
+	<Point x="2771" y="2504"/>
+	<Point x="2771" y="2505"/>
+	<Point x="2772" y="2505"/>
+	<Point x="2772" y="2506"/>
+	<Point x="2783" y="2506"/>
+	<Point x="2783" y="2505"/>
+	<Point x="2784" y="2505"/>
+	<Point x="2784" y="2504"/>
+	<Point x="2785" y="2504"/>
+	<Point x="2785" y="2503"/>
+	<Point x="2787" y="2503"/>
+	<Point x="2787" y="2502"/>
+	<Point x="2788" y="2502"/>
+	<Point x="2788" y="2501"/>
+	<Point x="2789" y="2501"/>
+	<Point x="2789" y="2500"/>
+	<Point x="2790" y="2500"/>
+	<Point x="2790" y="2499"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I am one of those Americans who consider the act of
+annexation as a very improper one on the part of the Go‑
+vernment of the United States, for various reasons, moral
+and political. I object to it because it may prolong the
+existence of slavery ; because it increases our territory, al‑
+ready too large ; and especially, because it has been brought
+about by means which I consider unconstitutional ; but
+what is all this to Mexico ? If she wished to quarrel with
+us, it should have been when our Government acknow‑
+ledged the national existence of Texas. The Texans, being
+once established as an independent nation, have certainly a
+right to negotiate, as well with America as with England ;
+and the Americans have a right to negotiate with them,
+without being branded as robbers for being able to conclude
+a treaty which England happens to be averse to.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r349" type="paragraph">
+	<Coords>
+	<Point x="2891" y="2950"/>
+	<Point x="2891" y="3009"/>
+	<Point x="2824" y="3009"/>
+	<Point x="2824" y="3010"/>
+	<Point x="2752" y="3010"/>
+	<Point x="2752" y="3011"/>
+	<Point x="2679" y="3011"/>
+	<Point x="2679" y="3012"/>
+	<Point x="2606" y="3012"/>
+	<Point x="2606" y="3013"/>
+	<Point x="2484" y="3013"/>
+	<Point x="2484" y="3014"/>
+	<Point x="2401" y="3014"/>
+	<Point x="2401" y="3015"/>
+	<Point x="2318" y="3015"/>
+	<Point x="2318" y="3016"/>
+	<Point x="2297" y="3016"/>
+	<Point x="2297" y="2953"/>
+	<Point x="2377" y="2953"/>
+	<Point x="2377" y="2954"/>
+	<Point x="2380" y="2954"/>
+	<Point x="2380" y="2955"/>
+	<Point x="2386" y="2955"/>
+	<Point x="2386" y="2954"/>
+	<Point x="2386" y="2955"/>
+	<Point x="2412" y="2955"/>
+	<Point x="2412" y="2954"/>
+	<Point x="2418" y="2954"/>
+	<Point x="2418" y="2953"/>
+	<Point x="2424" y="2953"/>
+	<Point x="2424" y="2952"/>
+	<Point x="2429" y="2952"/>
+	<Point x="2429" y="2951"/>
+	<Point x="2486" y="2951"/>
+	<Point x="2486" y="2952"/>
+	<Point x="2487" y="2952"/>
+	<Point x="2487" y="2954"/>
+	<Point x="2488" y="2954"/>
+	<Point x="2488" y="2956"/>
+	<Point x="2489" y="2956"/>
+	<Point x="2489" y="2957"/>
+	<Point x="2490" y="2957"/>
+	<Point x="2490" y="2958"/>
+	<Point x="2619" y="2958"/>
+	<Point x="2619" y="2957"/>
+	<Point x="2620" y="2957"/>
+	<Point x="2620" y="2956"/>
+	<Point x="2621" y="2956"/>
+	<Point x="2621" y="2955"/>
+	<Point x="2622" y="2955"/>
+	<Point x="2622" y="2954"/>
+	<Point x="2623" y="2954"/>
+	<Point x="2623" y="2953"/>
+	<Point x="2624" y="2953"/>
+	<Point x="2624" y="2952"/>
+	<Point x="2625" y="2952"/>
+	<Point x="2625" y="2951"/>
+	<Point x="2626" y="2951"/>
+	<Point x="2626" y="2950"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>I remain, Sir, your very obedient servant,
+AN AMERICAN.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r353">
+	<Coords>
+	<Point x="2929" y="3010"/>
+	<Point x="2929" y="3036"/>
+	<Point x="2901" y="3036"/>
+	<Point x="2901" y="3037"/>
+	<Point x="2834" y="3037"/>
+	<Point x="2834" y="3038"/>
+	<Point x="2756" y="3038"/>
+	<Point x="2756" y="3039"/>
+	<Point x="2677" y="3039"/>
+	<Point x="2677" y="3040"/>
+	<Point x="2598" y="3040"/>
+	<Point x="2598" y="3041"/>
+	<Point x="2519" y="3041"/>
+	<Point x="2519" y="3042"/>
+	<Point x="2440" y="3042"/>
+	<Point x="2440" y="3043"/>
+	<Point x="2296" y="3043"/>
+	<Point x="2296" y="3044"/>
+	<Point x="2160" y="3044"/>
+	<Point x="2160" y="3019"/>
+	<Point x="2237" y="3019"/>
+	<Point x="2237" y="3018"/>
+	<Point x="2320" y="3018"/>
+	<Point x="2320" y="3017"/>
+	<Point x="2403" y="3017"/>
+	<Point x="2403" y="3016"/>
+	<Point x="2486" y="3016"/>
+	<Point x="2486" y="3015"/>
+	<Point x="2608" y="3015"/>
+	<Point x="2608" y="3014"/>
+	<Point x="2681" y="3014"/>
+	<Point x="2681" y="3013"/>
+	<Point x="2754" y="3013"/>
+	<Point x="2754" y="3012"/>
+	<Point x="2826" y="3012"/>
+	<Point x="2826" y="3011"/>
+	<Point x="2899" y="3011"/>
+	<Point x="2899" y="3010"/></Coords></SeparatorRegion>
+	<TextRegion id="r365" type="heading">
+	<Coords>
+	<Point x="2793" y="3040"/>
+	<Point x="2793" y="3089"/>
+	<Point x="2291" y="3089"/>
+	<Point x="2291" y="3046"/>
+	<Point x="2298" y="3046"/>
+	<Point x="2298" y="3045"/>
+	<Point x="2442" y="3045"/>
+	<Point x="2442" y="3044"/>
+	<Point x="2521" y="3044"/>
+	<Point x="2521" y="3043"/>
+	<Point x="2600" y="3043"/>
+	<Point x="2600" y="3042"/>
+	<Point x="2679" y="3042"/>
+	<Point x="2679" y="3041"/>
+	<Point x="2758" y="3041"/>
+	<Point x="2758" y="3040"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>COURT AND ARISTOCRACY.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r369" type="paragraph">
+	<Coords>
+	<Point x="2929" y="3091"/>
+	<Point x="2929" y="3176"/>
+	<Point x="2930" y="3176"/>
+	<Point x="2930" y="3353"/>
+	<Point x="2816" y="3353"/>
+	<Point x="2816" y="3354"/>
+	<Point x="2814" y="3354"/>
+	<Point x="2814" y="3355"/>
+	<Point x="2812" y="3355"/>
+	<Point x="2812" y="3356"/>
+	<Point x="2810" y="3356"/>
+	<Point x="2810" y="3357"/>
+	<Point x="2808" y="3357"/>
+	<Point x="2808" y="3358"/>
+	<Point x="2801" y="3358"/>
+	<Point x="2801" y="3357"/>
+	<Point x="2800" y="3357"/>
+	<Point x="2800" y="3356"/>
+	<Point x="2799" y="3356"/>
+	<Point x="2799" y="3355"/>
+	<Point x="2511" y="3355"/>
+	<Point x="2511" y="3356"/>
+	<Point x="2510" y="3356"/>
+	<Point x="2510" y="3357"/>
+	<Point x="2508" y="3357"/>
+	<Point x="2508" y="3358"/>
+	<Point x="2506" y="3358"/>
+	<Point x="2506" y="3359"/>
+	<Point x="2504" y="3359"/>
+	<Point x="2504" y="3360"/>
+	<Point x="2502" y="3360"/>
+	<Point x="2502" y="3361"/>
+	<Point x="2417" y="3361"/>
+	<Point x="2417" y="3360"/>
+	<Point x="2408" y="3360"/>
+	<Point x="2408" y="3359"/>
+	<Point x="2396" y="3359"/>
+	<Point x="2396" y="3360"/>
+	<Point x="2331" y="3360"/>
+	<Point x="2331" y="3361"/>
+	<Point x="2265" y="3361"/>
+	<Point x="2265" y="3362"/>
+	<Point x="2258" y="3362"/>
+	<Point x="2258" y="3363"/>
+	<Point x="2251" y="3363"/>
+	<Point x="2251" y="3364"/>
+	<Point x="2243" y="3364"/>
+	<Point x="2243" y="3365"/>
+	<Point x="2236" y="3365"/>
+	<Point x="2236" y="3366"/>
+	<Point x="2228" y="3366"/>
+	<Point x="2228" y="3367"/>
+	<Point x="2192" y="3367"/>
+	<Point x="2160" y="3368"/>
+	<Point x="2160" y="3091"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>HER MAJESTY.—The Court are not expected to arrive
+at the Castle until the end of the month. Friday, the
+26th instant, is at present named for the departure of her
+Majesty from Osborne house. The 'John o'Groat Jour‑
+nal' says—"We believe it is now generally understood
+that it is the intention of our Most Gracious Sovereign to
+pay a visit to Dunrobin Castle so soon as the extensive
+improvements now going on shall have been completed.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r373" type="paragraph">
+	<Coords>
+	<Point x="2930" y="3355"/>
+	<Point x="2930" y="3731"/>
+	<Point x="2931" y="3731"/>
+	<Point x="2931" y="3754"/>
+	<Point x="2589" y="3754"/>
+	<Point x="2589" y="3755"/>
+	<Point x="2582" y="3755"/>
+	<Point x="2582" y="3756"/>
+	<Point x="2575" y="3756"/>
+	<Point x="2575" y="3757"/>
+	<Point x="2568" y="3757"/>
+	<Point x="2568" y="3758"/>
+	<Point x="2563" y="3758"/>
+	<Point x="2563" y="3757"/>
+	<Point x="2383" y="3757"/>
+	<Point x="2383" y="3758"/>
+	<Point x="2156" y="3758"/>
+	<Point x="2156" y="3748"/>
+	<Point x="2157" y="3748"/>
+	<Point x="2157" y="3541"/>
+	<Point x="2158" y="3541"/>
+	<Point x="2158" y="3472"/>
+	<Point x="2159" y="3472"/>
+	<Point x="2159" y="3402"/>
+	<Point x="2160" y="3402"/>
+	<Point x="2160" y="3370"/>
+	<Point x="2180" y="3370"/>
+	<Point x="2180" y="3369"/>
+	<Point x="2199" y="3369"/>
+	<Point x="2199" y="3368"/>
+	<Point x="2238" y="3368"/>
+	<Point x="2238" y="3367"/>
+	<Point x="2245" y="3367"/>
+	<Point x="2245" y="3366"/>
+	<Point x="2253" y="3366"/>
+	<Point x="2253" y="3365"/>
+	<Point x="2260" y="3365"/>
+	<Point x="2260" y="3364"/>
+	<Point x="2267" y="3364"/>
+	<Point x="2267" y="3363"/>
+	<Point x="2333" y="3363"/>
+	<Point x="2333" y="3362"/>
+	<Point x="2398" y="3362"/>
+	<Point x="2398" y="3361"/>
+	<Point x="2406" y="3361"/>
+	<Point x="2406" y="3362"/>
+	<Point x="2415" y="3362"/>
+	<Point x="2415" y="3363"/>
+	<Point x="2504" y="3363"/>
+	<Point x="2504" y="3362"/>
+	<Point x="2506" y="3362"/>
+	<Point x="2506" y="3361"/>
+	<Point x="2508" y="3361"/>
+	<Point x="2508" y="3360"/>
+	<Point x="2510" y="3360"/>
+	<Point x="2510" y="3359"/>
+	<Point x="2512" y="3359"/>
+	<Point x="2512" y="3358"/>
+	<Point x="2513" y="3358"/>
+	<Point x="2513" y="3357"/>
+	<Point x="2797" y="3357"/>
+	<Point x="2797" y="3358"/>
+	<Point x="2798" y="3358"/>
+	<Point x="2798" y="3359"/>
+	<Point x="2799" y="3359"/>
+	<Point x="2799" y="3360"/>
+	<Point x="2810" y="3360"/>
+	<Point x="2810" y="3359"/>
+	<Point x="2812" y="3359"/>
+	<Point x="2812" y="3358"/>
+	<Point x="2814" y="3358"/>
+	<Point x="2814" y="3357"/>
+	<Point x="2816" y="3357"/>
+	<Point x="2816" y="3356"/>
+	<Point x="2818" y="3356"/>
+	<Point x="2818" y="3355"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>THE ROYAL FAMILY.—The Queen Dowager will leave
+Bushy Park for Witley on Tuesday next. It is expected
+that her Majesty's illustrious relatives, the Duchess Ida
+of Saxe Weimar, with the Princesses Anne and Amelia,
+will accompany her Majesty. Earl Howe will be in at‑
+tendance on the Court. The Duchess of Kent left Gotha
+on the 8th inst., for Frankfort, where she will stay three
+days, and then proceed to Brussels. The Duke of Cam‑
+bridge, who is travelling under the title of the Earl of
+Culloden, arrived on Sunday night at Cologne. He pro‑
+ceeded next day to the Palace of Rumpenheim, on the
+road from Frankfort to Wurtzburg.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r377" type="paragraph">
+	<Coords>
+	<Point x="2931" y="3756"/>
+	<Point x="2931" y="4180"/>
+	<Point x="2847" y="4180"/>
+	<Point x="2847" y="4181"/>
+	<Point x="2831" y="4181"/>
+	<Point x="2831" y="4182"/>
+	<Point x="2814" y="4182"/>
+	<Point x="2814" y="4183"/>
+	<Point x="2797" y="4183"/>
+	<Point x="2797" y="4184"/>
+	<Point x="2780" y="4184"/>
+	<Point x="2780" y="4185"/>
+	<Point x="2763" y="4185"/>
+	<Point x="2763" y="4186"/>
+	<Point x="2746" y="4186"/>
+	<Point x="2746" y="4187"/>
+	<Point x="2729" y="4187"/>
+	<Point x="2729" y="4188"/>
+	<Point x="2712" y="4188"/>
+	<Point x="2712" y="4189"/>
+	<Point x="2675" y="4189"/>
+	<Point x="2675" y="4190"/>
+	<Point x="2154" y="4190"/>
+	<Point x="2154" y="4097"/>
+	<Point x="2155" y="4097"/>
+	<Point x="2155" y="3955"/>
+	<Point x="2156" y="3955"/>
+	<Point x="2156" y="3760"/>
+	<Point x="2385" y="3760"/>
+	<Point x="2385" y="3759"/>
+	<Point x="2561" y="3759"/>
+	<Point x="2561" y="3760"/>
+	<Point x="2570" y="3760"/>
+	<Point x="2570" y="3759"/>
+	<Point x="2577" y="3759"/>
+	<Point x="2577" y="3758"/>
+	<Point x="2584" y="3758"/>
+	<Point x="2584" y="3757"/>
+	<Point x="2591" y="3757"/>
+	<Point x="2591" y="3756"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>WILL OF MRS. LAWRENCE.—The legacies bequeathed
+by this esteemed lady to private friends, and to religious
+and charitable institutions, are very numerous, and
+amount to 145,000l., all clear of the duty, which is di‑
+rected to be paid by the residuary legatee (Earl de Grey).
+Among the legacies are 5,000l. to the Ripon Diocesan
+Church Building Society ; 1,000l. to each of the following
+institutions : — the Leeds Inﬁrmary, York County Hos‑
+pital, Harrogate Hospital, Ripon Dispensary, and Middle‑
+sex Hospital ; and 20,000l. to each of the two executors,
+Bowdler, and the Vice‐Chancellor, Sir L. Shadwell. We
+have previously stated the disposition of the landed
+estates.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r381" type="paragraph">
+	<Coords>
+	<Point x="2909" y="4182"/>
+	<Point x="2909" y="4286"/>
+	<Point x="2153" y="4286"/>
+	<Point x="2153" y="4238"/>
+	<Point x="2154" y="4238"/>
+	<Point x="2154" y="4192"/>
+	<Point x="2677" y="4192"/>
+	<Point x="2677" y="4191"/>
+	<Point x="2714" y="4191"/>
+	<Point x="2714" y="4190"/>
+	<Point x="2731" y="4190"/>
+	<Point x="2731" y="4189"/>
+	<Point x="2748" y="4189"/>
+	<Point x="2748" y="4188"/>
+	<Point x="2765" y="4188"/>
+	<Point x="2765" y="4187"/>
+	<Point x="2782" y="4187"/>
+	<Point x="2782" y="4186"/>
+	<Point x="2799" y="4186"/>
+	<Point x="2799" y="4185"/>
+	<Point x="2816" y="4185"/>
+	<Point x="2816" y="4184"/>
+	<Point x="2833" y="4184"/>
+	<Point x="2833" y="4183"/>
+	<Point x="2849" y="4183"/>
+	<Point x="2849" y="4182"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>DEATH OF THE DEAN OF CLOYNE.—The Very Rev
+Thomas John Burgh, Dean of Cloyne, died at Oldtown,</Unicode></TextEquiv></TextRegion></Page></PcGts>

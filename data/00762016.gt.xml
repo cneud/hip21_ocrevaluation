@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19 http://schema.primaresearch.org/PAGE/gts/pagecontent/2010-03-19/pagecontent.xsd" pcGtsId="pc-00762016">
+	<Metadata>
+	<Creator>FineReader Engine 10</Creator>
+	<Created>2013-10-15T14:47:26</Created>
+	<LastChange>2014-01-23T19:32:59</LastChange>
+	<Comments>Recognition and export settings:
+
+  Recognition language(s): Polish
+  Font class: normal
+  Orig-outlines: false
+  Orig-text: false
+  Orig-drop-caps: false
+  Reading order: false
+    Exclude: [default]
+  Layers: false
+  To remove: background-images
+
+Conversion and export:
+
+  Removed 1 background images
+</Comments></Metadata>
+	<Page imageFilename="00762016.tif" imageWidth="1974" imageHeight="2844">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<OrderedGroupIndexed id="r7" index="0">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r351" index="2"/></OrderedGroupIndexed></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="heading">
+	<Coords>
+	<Point x="232" y="192"/>
+	<Point x="1720" y="192"/>
+	<Point x="1720" y="488"/>
+	<Point x="232" y="488"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>KOMUNIKAT</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r351" type="paragraph">
+	<Coords>
+	<Point x="233" y="1571"/>
+	<Point x="1724" y="1571"/>
+	<Point x="1724" y="2563"/>
+	<Point x="233" y="2563"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Zadaniem tych komitetów prócz opieki nad
+żołnierzami, nad rodzinami żołnierzy i nad ofia-
+rami wojny jest także gromadzenie środków pie-
+niężnych, zasobów żywnościowych, odzieży, opału
+itp. Szczegółowe informacje w tej sprawie udzie-
+lq Zarzqdy Miejskie i Gminne. Od szerszego
+ogółu społeczeństwa wymaga się, aby akcjq tq
+jaknajwięcej się zainteresowało i moralnie i ma-
+terialnie jq wspierało.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords>
+	<Point x="219" y="641"/>
+	<Point x="1720" y="641"/>
+	<Point x="1720" y="1545"/>
+	<Point x="219" y="1545"/></Coords>
+	<TextEquiv>
+	<PlainText></PlainText>
+	<Unicode>Została ogłoszona powszechna mobilizacja.
+Powoduje ona odejście do szeregów armii czynnej
+wielu ojców rodzin lub synów jedynych żywicieli
+rodzin. Aby rodziny te nie zostały bez opieki,
+aby mogły znaleźć pomoc i poradę, zostanq na te-
+renie każdego miasta i w siedzibach zarzadów
+gminnych zorganizowane Komitety Pomocy Spo-
+łecznej.</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r4" type="handwritten-annotation">
+	<Coords>
+	<Point x="52" y="84"/>
+	<Point x="52" y="170"/>
+	<Point x="668" y="170"/>
+	<Point x="668" y="84"/></Coords></GraphicRegion>
+	<SeparatorRegion id="r5">
+	<Coords>
+	<Point x="225" y="512"/>
+	<Point x="225" y="595"/>
+	<Point x="1723" y="595"/>
+	<Point x="1723" y="512"/></Coords></SeparatorRegion></Page></PcGts>
