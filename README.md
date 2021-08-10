@@ -39,6 +39,7 @@ booktitle = {Proceedings of the 6th International Workshop on Historical Documen
              Processing (HIP'21), Lausanne, Switzerland, September 6, 2021},
 publisher = {{ACM}},
 year      = {2021},
-url       = {https://dl.acm.org/conference/hip/proceedings}
+url       = {https://dl.acm.org/conference/hip/proceedings},
+doi       = {10.1145/3476887.3476888}
 }
 ```
