@@ -1,43 +1,25 @@
+from pathlib import Path
 from json import load
 from re import search
+
 from click import argument, group, option
-from .utils import get_csv_reader, get_csv_writer
 
-languages = ['deu', 'eng', 'fra', 'est', 'fin', 'lav', 'nld', 'pol', 'swe']
+from .constants import ENGINES, DATASETS, ENP_IDS
+from .utils import get_csv_reader, get_csv_writer, classify_filename
+from .evaldb import EvalDB
 
-with open('enp_ids_triple_checked_and_valid.txt', 'r', encoding='utf-8') as f:
-    ENP_IDS = f.read()
-
-with open('enp_deu.ids', 'r', encoding='utf-8') as f:
-    ENP_DEU_IDS = f.read()
-
-def classify_filename(fname):
-    ret = {}
-    ret['prima_id'] = search(r'([0-9]{8})', fname).group(1)
-    is_gt4hist = 'gt4hist' in fname or 'g4hist' in fname
-    if not is_gt4hist:
-        try:
-            lang = next(lang for lang in languages if f'.{lang}' in fname)
-        except Exception as e:
-            print(fname)
-            raise e
-        ret['language'] = lang
-    ret['dataset'] = 'impact' if 'impact' in fname else 'enp'
-    if ret['dataset'] == 'enp' and not is_gt4hist and ret['prima_id'] not in ENP_IDS:
-        print("Prima ID not in enp_map: %s" % ret)
-        return
-    elif ret['dataset'] == 'enp' and 'language' in ret and ret['language'] == 'deu' and ret['prima_id'] not in ENP_DEU_IDS:
-        print("Prima ID not in enp_deu.ids: %s" % ret)
-        return
-    ret['dataset'] += '-'
-    ret['dataset'] += 'gt4hist' if is_gt4hist else 'lang'
-    return ret
 
 @group()
 def cli():
     pass
 
-@cli.command('ocreval-cer')
+@cli.group('parse')
+def cli_parse():
+    """
+    Parse the evaluation results into consistent CSV
+    """
+
+@cli_parse.command('ocrevalCER')
 @argument('out_filename')
 @argument('report_filenames', nargs=-1)
 def parse_ocreval_cer(out_filename, report_filenames):
@@ -56,7 +38,7 @@ def parse_ocreval_cer(out_filename, report_filenames):
                 row['CER'] = row['chars_wrong'] / max(row['chars_total'], 1)
                 writer.writerow(row)
 
-@cli.command('ocreval-wer')
+@cli_parse.command('ocrevalWER')
 @argument('out_filename')
 @argument('report_filenames', nargs=-1)
 def parse_ocreval_wer(out_filename, report_filenames):
@@ -75,7 +57,7 @@ def parse_ocreval_wer(out_filename, report_filenames):
                 row['WER'] = row['words_wrong'] / max(row['words_total'], 1)
                 writer.writerow(row)
 
-@cli.command('dinglehopper')
+@cli_parse.command('dinglehopper')
 @argument('out_filename')
 @argument('report_filenames', nargs=-1)
 def parse_dinglehopper_json(out_filename, report_filenames):
@@ -95,12 +77,12 @@ def parse_dinglehopper_json(out_filename, report_filenames):
                 row['chars_total'] = report['n_characters']
                 writer.writerow(row)
 
-@cli.command('ocrevaluation')
+@cli_parse.command('ocrevalUAtion')
 @argument('out_filename')
 @argument('report_filenames', nargs=-1)
 def parse_ocrevalUAtion(out_filename, report_filenames):
     with get_csv_writer(out_filename) as writer:
-        for n, report_filename in enumerate(report_filenames):
+        for _, report_filename in enumerate(report_filenames):
             row = classify_filename(report_filename)
             if not row:
                 continue
@@ -114,7 +96,7 @@ def parse_ocrevalUAtion(out_filename, report_filenames):
                         row['BOW'] = float(line[36:-6].replace(',', '.')) / 100
                 writer.writerow(row)
 
-@cli.command('ocrconf')
+@cli_parse.command('conf')
 @argument('out_filename')
 @argument('report_filenames', nargs=-1)
 def parse_ocrconf(out_filename, report_filenames):
@@ -128,7 +110,7 @@ def parse_ocrconf(out_filename, report_filenames):
                 row['conf'] = 1 - (float(text[text.rindex(' '):]) / 100)
                 writer.writerow(row)
 
-@cli.command('layouteval')
+@cli_parse.command('LayoutEval')
 @argument('out_filename')
 @argument('report_filenames', nargs=-1)
 def parse_layouteval(out_filename, report_filenames):
@@ -145,7 +127,6 @@ def parse_layouteval(out_filename, report_filenames):
                     if row_in[row_in_column] == '0':
                         print("Suspiciously, successRate is zero, skipping %s" % row_in['Ground-Truth'])
                         continue
-                    # TODO choose the right values
                     row_out_column = 'prima_layout1' if row_in['Profile'] == 'OCRScenario.evx' else \
                                      'prima_layout2' if row_in['Profile'] == 'PageAnalysis.evx' else \
                                      'prima_layout3' if row_in['Profile'] == 'Segmentation.evx' else \
@@ -160,7 +141,7 @@ def parse_layouteval(out_filename, report_filenames):
                         continue
                     writer.writerow(row_out)
 
-@cli.command('texteval')
+@cli_parse.command('texteval')
 @argument('out_filename')
 @option('--first-only', is_flag=True, default=False)
 @option('--dataset-prefix', default='impact')
@@ -187,6 +168,37 @@ def parse_texteval(out_filename, first_only, dataset_prefix, measure, report_fil
                     writer.writerow(row_out)
                     if first_only:
                         break
+
+@cli.command('list')
+@argument('dataset')
+@argument('engine')
+def cli_list(dataset, engine):
+    """
+    List results from ENGINE in DATASET
+    """
+    if dataset not in DATASETS:
+        raise ValueError("Dataset ust be one of %s" % DATASETS)
+    if engine not in ENGINES:
+        raise ValueError('ENGINE must be one of %s' % ENGINES)
+
+    with get_csv_reader('primaID.csv') as reader:
+        ids = [r['primaID'] for r in reader if r['dataset'] == dataset]
+        for f in Path('data').iterdir():
+            id_, rest = f.name.split('.', 1)
+            if id_ not in ids:
+                continue
+            if '.%s.' % engine not in rest:
+                continue
+            print(f)
+
+@cli.command('join')
+@option('--csv/--excel', default=False, help='Output one CSV per dataset instead of excel')
+@argument('fname')
+def merge_csv(csv, fname):
+    evaldb = EvalDB()
+    evaldb.populate()
+    getattr(evaldb, 'to_csv' if csv else 'to_excel')(fname)
+
 
 if __name__ == "__main__":
     cli()
