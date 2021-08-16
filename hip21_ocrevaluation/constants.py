@@ -1,6 +1,6 @@
 DATASETS = ['enp', 'impact']
 
-ENGINES = ['dinglehopper', 'ocrevalCER', 'ocrevalUAtion', 'ocrevalWER', 'primaWER', 'primaCER', 'primaBoW']
+ENGINES = ['conf', 'dinglehopper', 'ocrevalCER', 'ocrevalUAtion', 'ocrevalWER', 'primaWER', 'primaCER', 'primaBoW', 'primaFCER']
 
 LANGUAGES = ['deu', 'eng', 'fra', 'est', 'fin', 'lav', 'nld', 'pol', 'swe']
 
@@ -53,7 +53,7 @@ TEMP_FIELDNAMES = [
     'CER',
     'FCER',
     'WER',
-    'BOW',
+    'BoW',
     'conf',
     'words_total',
     'words_wrong',

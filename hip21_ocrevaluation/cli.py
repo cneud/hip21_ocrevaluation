@@ -93,7 +93,7 @@ def parse_ocrevalUAtion(out_filename, report_filenames):
                     elif '<td>CER</td>' in line:
                         row['CER'] = float(line[16:-6].replace(',', '.')) / 100
                     elif '<td>WER (order independent)</td>' in line:
-                        row['BOW'] = float(line[36:-6].replace(',', '.')) / 100
+                        row['BoW'] = float(line[36:-6].replace(',', '.')) / 100
                 writer.writerow(row)
 
 @cli_parse.command('conf')
@@ -149,7 +149,7 @@ def parse_layouteval(out_filename, report_filenames):
 @argument('report_filenames', nargs=-1)
 def parse_texteval(out_filename, first_only, dataset_prefix, measure, report_filenames):
     row_measure = 'wordAccuracy' if measure == 'WER' else \
-                  'characterAccuracy' if measure == 'CER' else \
+                  'characterAccuracy' if measure.endswith('CER') else \
                   'wordIndexMissErrorRate'
     with get_csv_writer(out_filename) as writer:
         for report_filename in report_filenames:
@@ -163,7 +163,7 @@ def parse_texteval(out_filename, first_only, dataset_prefix, measure, report_fil
                     if row_out['dataset'] == 'enp-lang' and row_out['prima_id'] not in ENP_IDS:
                         print("Prima ID not in enp_map: %s" % row_out)
                         break
-                    if measure != 'BOW':
+                    if measure != 'BoW':
                         row_out[measure] = 1 - row_out[measure]
                     writer.writerow(row_out)
                     if first_only:
@@ -177,9 +177,9 @@ def cli_list(dataset, engine):
     List results from ENGINE in DATASET
     """
     if dataset not in DATASETS:
-        raise ValueError("Dataset ust be one of %s" % DATASETS)
+        raise ValueError('Dataset "%s" ust be one of %s' % (dataset, DATASETS))
     if engine not in ENGINES:
-        raise ValueError('ENGINE must be one of %s' % ENGINES)
+        raise ValueError('ENGINE "%s" must be one of %s' % (engine, ENGINES))
 
     with get_csv_reader('primaID.csv') as reader:
         ids = [r['primaID'] for r in reader if r['dataset'] == dataset]
