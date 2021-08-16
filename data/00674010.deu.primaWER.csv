@@ -1,0 +1,2 @@
+groundTruth,result,wordsInGroundTruthExclStopWords,wordsInResultExclStopWords,wordAccuracyExclStopWords,wordsInGroundTruth,wordsInResult,wordAccuracy
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674010.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674010-00229492.deu.xml.txt,"1011","1013","0.5153313550939663","1011","1013","0.5153313550939663"

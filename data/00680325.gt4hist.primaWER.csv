@@ -1,0 +1,2 @@
+groundTruth,result,wordsInGroundTruthExclStopWords,wordsInResultExclStopWords,wordAccuracyExclStopWords,wordsInGroundTruth,wordsInResult,wordAccuracy
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00680325.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00680325-00232138.gt4hist.xml.txt,"1308","1315","0.16666666666666666","1308","1315","0.16666666666666666"

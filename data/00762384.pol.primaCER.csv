@@ -1,0 +1,1247 @@
+groundTruth,result,charsInGroundTruth,charsInResult,characterAccuracy,LCSCharStats Ground Truth Item,LCSCharStats Ground Truth Unicode,LCSCharStats OCR Result Item,LCSCharStats OCR Result Unicode,LCSCharStats OCR Error,LCSCharStats Count
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,"13724","14519","0.33605362867968525","ywatelskie stanowisko b. pracowników miejskich","0079,0077,0061,0074,0065,006c,0073,006b,0069,0065,0020,0073,0074,0061,006e,006f,0077,0069,0073,006b,006f,0020,0062,002e,0020,0070,0072,0061,0063,006f,0077,006e,0069,006b,00f3,0077,0020,006d,0069,0065,006a,0073,006b,0069,0063,0068","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+zażył truciznę i został przewieziony do","000a,007a,0061,017c,0079,0142,0020,0074,0072,0075,0063,0069,007a,006e,0119,0020,0069,0020,007a,006f,0073,0074,0061,0142,0020,0070,0072,007a,0065,0077,0069,0065,007a,0069,006f,006e,0079,0020,0064,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+proc.) 81 (w proc.), 5 i pół proc. listy","000a,0070,0072,006f,0063,002e,0029,0020,0038,0031,0020,0028,0077,0020,0070,0072,006f,0063,002e,0029,002c,0020,0035,0020,0069,0020,0070,00f3,0142,0020,0070,0072,006f,0063,002e,0020,006c,0069,0073,0074,0079","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+stę 47-letniego Ignacego Paskę (Napiór","000a,0073,0074,0119,0020,0034,0037,002d,006c,0065,0074,006e,0069,0065,0067,006f,0020,0049,0067,006e,0061,0063,0065,0067,006f,0020,0050,0061,0073,006b,0119,0020,0028,004e,0061,0070,0069,00f3,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+rzeźnickiego przy ul. Piotrkowskiej 117","000a,0072,007a,0065,017a,006e,0069,0063,006b,0069,0065,0067,006f,0020,0070,0072,007a,0079,0020,0075,006c,002e,0020,0050,0069,006f,0074,0072,006b,006f,0077,0073,006b,0069,0065,006a,0020,0031,0031,0037","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+wersyjna 63 (setki) 62, 4 proc. dolaro-","000a,0077,0065,0072,0073,0079,006a,006e,0061,0020,0036,0033,0020,0028,0073,0065,0074,006b,0069,0029,0020,0036,0032,002c,0020,0034,0020,0070,0072,006f,0063,002e,0020,0064,006f,006c,0061,0072,006f,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+ku 57 (drobne) 58, 5 proc. listy zastaw-","000a,006b,0075,0020,0035,0037,0020,0028,0064,0072,006f,0062,006e,0065,0029,0020,0035,0038,002c,0020,0035,0020,0070,0072,006f,0063,002e,0020,006c,0069,0073,0074,0079,0020,007a,0061,0073,0074,0061,0077,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+ny przez auto 17-letni Stanisław Bed-","000a,006e,0079,0020,0070,0072,007a,0065,007a,0020,0061,0075,0074,006f,0020,0031,0037,002d,006c,0065,0074,006e,0069,0020,0053,0074,0061,006e,0069,0073,0142,0061,0077,0020,0042,0065,0064,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+nów targnął się na życie kupiec 46-let","000a,006e,00f3,0077,0020,0074,0061,0072,0067,006e,0105,0142,0020,0073,0069,0119,0020,006e,0061,0020,017c,0079,0063,0069,0065,0020,006b,0075,0070,0069,0065,0063,0020,0034,0036,002d,006c,0065,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+napadnięty na ulicy i ciężko poraniony","000a,006e,0061,0070,0061,0064,006e,0069,0119,0074,0079,0020,006e,0061,0020,0075,006c,0069,0063,0079,0020,0069,0020,0063,0069,0119,017c,006b,006f,0020,0070,006f,0072,0061,006e,0069,006f,006e,0079","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+lekceważące wyrażenie się o władzach","000a,006c,0065,006b,0063,0065,0077,0061,017c,0105,0063,0065,0020,0077,0079,0072,0061,017c,0065,006e,0069,0065,0020,0073,0069,0119,0020,006f,0020,0077,0142,0061,0064,007a,0061,0063,0068","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+centowa inwestycyjna I em. 70, 3 proc.","000a,0063,0065,006e,0074,006f,0077,0061,0020,0069,006e,0077,0065,0073,0074,0079,0063,0079,006a,006e,0061,0020,0049,0020,0065,006d,002e,0020,0037,0030,002c,0020,0033,0020,0070,0072,006f,0063,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+wa 35,25, 5 proc. kolejowa 61 (drobne)","000a,0077,0061,0020,0033,0035,002c,0032,0035,002c,0020,0035,0020,0070,0072,006f,0063,002e,0020,006b,006f,006c,0065,006a,006f,0077,0061,0020,0036,0031,0020,0028,0064,0072,006f,0062,006e,0065,0029","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+niej 8 i 7 proc.) 81, 6 proc. obligacje","000a,006e,0069,0065,006a,0020,0038,0020,0069,0020,0037,0020,0070,0072,006f,0063,002e,0029,0020,0038,0031,002c,0020,0036,0020,0070,0072,006f,0063,002e,0020,006f,0062,006c,0069,0067,0061,0063,006a,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+ne m. Łodzi z 1933 roku 51,50 — 51,75","000a,006e,0065,0020,006d,002e,0020,0141,006f,0064,007a,0069,0020,007a,0020,0031,0039,0033,0033,0020,0072,006f,006b,0075,0020,0035,0031,002c,0035,0030,0020,2014,0020,0035,0031,002c,0037,0035","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Na ul. Piotrkowskiej zos","000a,004e,0061,0020,0075,006c,002e,0020,0050,0069,006f,0074,0072,006b,006f,0077,0073,006b,0069,0065,006a,0020,007a,006f,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+narski (Ruda Pabianicka, Łąkowa 84),","000a,006e,0061,0072,0073,006b,0069,0020,0028,0052,0075,0064,0061,0020,0050,0061,0062,0069,0061,006e,0069,0063,006b,0061,002c,0020,0141,0105,006b,006f,0077,0061,0020,0038,0034,0029,002c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Kościuszki został przygnieciony wozem","000a,004b,006f,015b,0063,0069,0075,0073,007a,006b,0069,0020,007a,006f,0073,0074,0061,0142,0020,0070,0072,007a,0079,0067,006e,0069,0065,0063,0069,006f,006e,0079,0020,0077,006f,007a,0065,006d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," Leor (Śródmiejska 74), który","0020,004c,0065,006f,0072,0020,0028,015a,0072,00f3,0064,006d,0069,0065,006a,0073,006b,0061,0020,0037,0034,0029,002c,0020,006b,0074,00f3,0072,0079","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Eliasz Elbaum (Kilińskiego 7) został","000a,0045,006c,0069,0061,0073,007a,0020,0045,006c,0062,0061,0075,006d,0020,0028,004b,0069,006c,0069,0144,0073,006b,0069,0065,0067,006f,0020,0037,0029,0020,007a,006f,0073,0074,0061,0142","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+nickiej w czasie pracy został porażony","000a,006e,0069,0063,006b,0069,0065,006a,0020,0077,0020,0063,007a,0061,0073,0069,0065,0020,0070,0072,0061,0063,0079,0020,007a,006f,0073,0074,0061,0142,0020,0070,006f,0072,0061,017c,006f,006e,0079","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," tygodnie bezwzględnego aresztu, za","0020,0074,0079,0067,006f,0064,006e,0069,0065,0020,0062,0065,007a,0077,007a,0067,006c,0119,0064,006e,0065,0067,006f,0020,0061,0072,0065,0073,007a,0074,0075,002c,0020,007a,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+dopuścił się inkryminowanego mu czy-","000a,0064,006f,0070,0075,015b,0063,0069,0142,0020,0073,0069,0119,0020,0069,006e,006b,0072,0079,006d,0069,006e,006f,0077,0061,006e,0065,0067,006f,0020,006d,0075,0020,0063,007a,0079,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+4 i pół proc. wewnętrzna 60,50, 3 pro","000a,0034,0020,0069,0020,0070,00f3,0142,0020,0070,0072,006f,0063,002e,0020,0077,0065,0077,006e,0119,0074,0072,007a,006e,0061,0020,0036,0030,002c,0035,0030,002c,0020,0033,0020,0070,0072,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+inwestycyjna II em. 69, 5 proc. kon.","000a,0069,006e,0077,0065,0073,0074,0079,0063,0079,006a,006e,0061,0020,0049,0049,0020,0065,006d,002e,0020,0036,0039,002c,0020,0035,0020,0070,0072,006f,0063,002e,0020,006b,006f,006e,002e"," 
+inwestycyjna II em. 69, 5 proc. kon. ","0020,000a,0069,006e,0077,0065,0073,0074,0079,0063,0079,006a,006e,0061,0020,0049,0049,0020,0065,006d,002e,0020,0036,0039,002c,0020,0035,0020,0070,0072,006f,0063,002e,0020,006b,006f,006e,002e,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"",""," ","0020","false detection","137"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+5 i pół proc. listy zastawne i obliga-","000a,0035,0020,0069,0020,0070,00f3,0142,0020,0070,0072,006f,0063,002e,0020,006c,0069,0073,0074,0079,0020,007a,0061,0073,0074,0061,0077,006e,0065,0020,0069,0020,006f,0062,006c,0069,0067,0061,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+zastawne Państw. Banku Rolnego (daw","000a,007a,0061,0073,0074,0061,0077,006e,0065,0020,0050,0061,0144,0073,0074,0077,002e,0020,0042,0061,006e,006b,0075,0020,0052,006f,006c,006e,0065,0067,006f,0020,0028,0064,0061,0077"," 
+zastawne Państw. Banku Rolnego (daw ","0020,000a,007a,0061,0073,0074,0061,0077,006e,0065,0020,0050,0061,0144,0073,0074,0077,002e,0020,0042,0061,006e,006b,0075,0020,0052,006f,006c,006e,0065,0067,006f,0020,0028,0064,0061,0077,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+4 i pół proc. listy zastawne ziemskie","000a,0034,0020,0069,0020,0070,00f3,0142,0020,0070,0072,006f,0063,002e,0020,006c,0069,0073,0074,0079,0020,007a,0061,0073,0074,0061,0077,006e,0065,0020,007a,0069,0065,006d,0073,006b,0069,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+AKCJE","000a,0041,004b,0043,004a,0045","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"Nr. 24","004e,0072,002e,0020,0032,0034","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ał najecha","0061,0142,0020,006e,0061,006a,0065,0063,0068,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+który doznał złamania podstawy czasz","000a,006b,0074,00f3,0072,0079,0020,0064,006f,007a,006e,0061,0142,0020,007a,0142,0061,006d,0061,006e,0069,0061,0020,0070,006f,0064,0073,0074,0061,0077,0079,0020,0063,007a,0061,0073,007a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Podejrzane o wściekliznę psy pogry-","000a,0050,006f,0064,0065,006a,0072,007a,0061,006e,0065,0020,006f,0020,0077,015b,0063,0069,0065,006b,006c,0069,007a,006e,0119,0020,0070,0073,0079,0020,0070,006f,0067,0072,0079,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," ulegając zgnieceniu klatki piersio-","0020,0075,006c,0065,0067,0061,006a,0105,0063,0020,007a,0067,006e,0069,0065,0063,0065,006e,0069,0075,0020,006b,006c,0061,0074,006b,0069,0020,0070,0069,0065,0072,0073,0069,006f,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+ni Izrae","000a,006e,0069,0020,0049,007a,0072,0061,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Przy ul. Wolborskiej 42 wynikła bój","000a,0050,0072,007a,0079,0020,0075,006c,002e,0020,0057,006f,006c,0062,006f,0072,0073,006b,0069,0065,006a,0020,0034,0032,0020,0077,0079,006e,0069,006b,0142,0061,0020,0062,00f3,006a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+W Pierwszej Polskiej Fabryce i Wy-","000a,0057,0020,0050,0069,0065,0072,0077,0073,007a,0065,006a,0020,0050,006f,006c,0073,006b,0069,0065,006a,0020,0046,0061,0062,0072,0079,0063,0065,0020,0069,0020,0057,0079,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Dylewicz (Łódź, Karpia 28), którego w","000a,0044,0079,006c,0065,0077,0069,0063,007a,0020,0028,0141,00f3,0064,017a,002c,0020,004b,0061,0072,0070,0069,0061,0020,0032,0038,0029,002c,0020,006b,0074,00f3,0072,0065,0067,006f,0020,0077","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Wilhelma Szmidta (Rzgowska 16) na","000a,0057,0069,006c,0068,0065,006c,006d,0061,0020,0053,007a,006d,0069,0064,0074,0061,0020,0028,0052,007a,0067,006f,0077,0073,006b,0061,0020,0031,0036,0029,0020,006e,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," Należy zaznaczyć, iż Szmidt","0020,004e,0061,006c,0065,017c,0079,0020,007a,0061,007a,006e,0061,0063,007a,0079,0107,002c,0020,0069,017c,0020,0053,007a,006d,0069,0064,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+nu w czasie kopania rowów przeciwlot","000a,006e,0075,0020,0077,0020,0063,007a,0061,0073,0069,0065,0020,006b,006f,0070,0061,006e,0069,0061,0020,0072,006f,0077,00f3,0077,0020,0070,0072,007a,0065,0063,0069,0077,006c,006f,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+cenia się po 40 latach do wierzycie-","000a,0063,0065,006e,0069,0061,0020,0073,0069,0119,0020,0070,006f,0020,0034,0030,0020,006c,0061,0074,0061,0063,0068,0020,0064,006f,0020,0077,0069,0065,0072,007a,0079,0063,0069,0065,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+59, 4 proc. konsolidacyjna 61","000a,0035,0039,002c,0020,0034,0020,0070,0072,006f,0063,002e,0020,006b,006f,006e,0073,006f,006c,0069,0064,0061,0063,0079,006a,006e,0061,0020,0036,0031","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+cje komunalne BGK. (dawniej 8 i 7","000a,0063,006a,0065,0020,006b,006f,006d,0075,006e,0061,006c,006e,0065,0020,0042,0047,004b,002e,0020,0028,0064,0061,0077,006e,0069,0065,006a,0020,0038,0020,0069,0020,0037"," 
+cje komunalne BGK. (dawniej 8 i 7 ","0020,000a,0063,006a,0065,0020,006b,006f,006d,0075,006e,0061,006c,006e,0065,0020,0042,0047,004b,002e,0020,0028,0064,0061,0077,006e,0069,0065,006a,0020,0038,0020,0069,0020,0037,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+bankowe BGK. III em. 97.","000a,0062,0061,006e,006b,006f,0077,0065,0020,0042,0047,004b,002e,0020,0049,0049,0049,0020,0065,006d,002e,0020,0039,0037,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+seria V 52,75 — 51,75, 4 i pół proc","000a,0073,0065,0072,0069,0061,0020,0056,0020,0035,0032,002c,0037,0035,0020,2014,0020,0035,0031,002c,0037,0035,002c,0020,0034,0020,0069,0020,0070,00f3,0142,0020,0070,0072,006f,0063","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"danie","0064,0061,006e,0069,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","
+kinnnaniń C pi 
+SE j 
+=- r 
+- z 
+AEPŁ ! TE RĘŚ NG 
+E RĘ PT EEE e 
+","000a,006b,0069,006e,006e,006e,0061,006e,0069,0144,0020,0043,0020,0070,0069,0020,000a,0053,0045,0020,006a,0020,000a,003d,002d,0020,0072,0020,000a,002d,0020,007a,0020,000a,0020,0020,000a,0041,0045,0050,0141,0020,0021,0020,0054,0045,0020,0052,0118,015a,0020,004e,0047,0020,000a,0045,0020,0052,0118,0020,0050,0054,0020,0045,0045,0045,0020,0065,0020,000a","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"2","0032","9 
+Wczoraj _ 
+w Lodzi... 
+Na tle rozstroju nerwowego, wystrza 
+łem z rewolweru w skroń odebrał so- 
+bie życie 24-letni Zygmunt Piotrowski 
+(Kaufmana 26), ","0039,0020,000a,0020,0020,000a,0057,0063,007a,006f,0072,0061,006a,0020,005f,0020,000a,0077,0020,004c,006f,0064,007a,0069,002e,002e,002e,0020,000a,004e,0061,0020,0074,006c,0065,0020,0072,006f,007a,0073,0074,0072,006f,006a,0075,0020,006e,0065,0072,0077,006f,0077,0065,0067,006f,002c,0020,0077,0079,0073,0074,0072,007a,0061,0020,000a,0142,0065,006d,0020,007a,0020,0072,0065,0077,006f,006c,0077,0065,0072,0075,0020,0077,0020,0073,006b,0072,006f,0144,0020,006f,0064,0065,0062,0072,0061,0142,0020,0073,006f,002d,0020,000a,0062,0069,0065,0020,017c,0079,0063,0069,0065,0020,0032,0034,002d,006c,0065,0074,006e,0069,0020,005a,0079,0067,006d,0075,006e,0074,0020,0050,0069,006f,0074,0072,006f,0077,0073,006b,0069,0020,000a,0028,004b,0061,0075,0066,006d,0061,006e,0061,0020,0032,0036,0029,002c,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"t","0074","ł","0142","misrecognised","6"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Przy zbiegu ulic Piotrkowskiej i E-","000a,0050,0072,007a,0079,0020,007a,0062,0069,0065,0067,0075,0020,0075,006c,0069,0063,0020,0050,0069,006f,0074,0072,006b,006f,0077,0073,006b,0069,0065,006a,0020,0069,0020,0045,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+kowskiego), który odniósł ","000a,006b,006f,0077,0073,006b,0069,0065,0067,006f,0029,002c,0020,006b,0074,00f3,0072,0079,0020,006f,0064,006e,0069,00f3,0073,0142,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Przy zbiegu ulic Zamenhofa i Al.","000a,0050,0072,007a,0079,0020,007a,0062,0069,0065,0067,0075,0020,0075,006c,0069,0063,0020,005a,0061,006d,0065,006e,0068,006f,0066,0061,0020,0069,0020,0041,006c,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+do muru Kazimierz Misiak (Łęczycka","000a,0064,006f,0020,006d,0075,0072,0075,0020,004b,0061,007a,0069,006d,0069,0065,0072,007a,0020,004d,0069,0073,0069,0061,006b,0020,0028,0141,0119,0063,007a,0079,0063,006b,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Przy zbiegu ulic Gdańskiej i Legio-","000a,0050,0072,007a,0079,0020,007a,0062,0069,0065,0067,0075,0020,0075,006c,0069,0063,0020,0047,0064,0061,0144,0073,006b,0069,0065,006a,0020,0069,0020,004c,0065,0067,0069,006f,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"l","006c","ł","0142","misrecognised","5"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+szpital","000a,0073,007a,0070,0069,0074,0061,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+jąc ciężkim poparzeniom twarzy.","000a,006a,0105,0063,0020,0063,0069,0119,017c,006b,0069,006d,0020,0070,006f,0070,0061,0072,007a,0065,006e,0069,006f,006d,0020,0074,0077,0061,0072,007a,0079,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+łomem żelaznym.","000a,0142,006f,006d,0065,006d,0020,017c,0065,006c,0061,007a,006e,0079,006d,002e"," 
+łomem żelaznym. ","0020,000a,0142,006f,006d,0065,006d,0020,017c,0065,006c,0061,007a,006e,0079,006d,002e,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+kończalni Jedwabiu w Rudzie Pabia-","000a,006b,006f,0144,0063,007a,0061,006c,006e,0069,0020,004a,0065,0064,0077,0061,0062,0069,0075,0020,0077,0020,0052,0075,0064,007a,0069,0065,0020,0050,0061,0062,0069,0061,002d"," 
+kończalni Jedwabiu w Rudzie Pabia- ","0020,000a,006b,006f,0144,0063,007a,0061,006c,006e,0069,0020,004a,0065,0064,0077,0061,0062,0069,0075,0020,0077,0020,0052,0075,0064,007a,0069,0065,0020,0050,0061,0062,0069,0061,002d,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+prądem elektrycznym 53-letni Paweł","000a,0070,0072,0105,0064,0065,006d,0020,0065,006c,0065,006b,0074,0072,0079,0063,007a,006e,0079,006d,0020,0035,0033,002d,006c,0065,0074,006e,0069,0020,0050,0061,0077,0065,0142"," 
+prądem elektrycznym 53-letni Paweł ","0020,000a,0070,0072,0105,0064,0065,006d,0020,0065,006c,0065,006b,0074,0072,0079,0063,007a,006e,0079,006d,0020,0035,0033,002d,006c,0065,0074,006e,0069,0020,0050,0061,0077,0065,0142,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+stanie ciężkim odwieziono do szpi","000a,0073,0074,0061,006e,0069,0065,0020,0063,0069,0119,017c,006b,0069,006d,0020,006f,0064,0077,0069,0065,007a,0069,006f,006e,006f,0020,0064,006f,0020,0073,007a,0070,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ranie za mięso cen wyższych,","0072,0061,006e,0069,0065,0020,007a,0061,0020,006d,0069,0119,0073,006f,0020,0063,0065,006e,0020,0077,0079,017c,0073,007a,0079,0063,0068,002c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+","000a","","","none","11"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+polskich","000a,0070,006f,006c,0073,006b,0069,0063,0068","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+niczych, do której to pracy sam się","000a,006e,0069,0063,007a,0079,0063,0068,002c,0020,0064,006f,0020,006b,0074,00f3,0072,0065,006a,0020,0074,006f,0020,0070,0072,0061,0063,0079,0020,0073,0061,006d,0020,0073,0069,0119","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+stowarzyszenia do bezpłatnej i bez-","000a,0073,0074,006f,0077,0061,0072,007a,0079,0073,007a,0065,006e,0069,0061,0020,0064,006f,0020,0062,0065,007a,0070,0142,0061,0074,006e,0065,006a,0020,0069,0020,0062,0065,007a,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+li z prośbą o zawarcie z nim układu,","000a,006c,0069,0020,007a,0020,0070,0072,006f,015b,0062,0105,0020,006f,0020,007a,0061,0077,0061,0072,0063,0069,0065,0020,007a,0020,006e,0069,006d,0020,0075,006b,0142,0061,0064,0075,002c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"25 (setki)","0032,0035,0020,0028,0073,0065,0074,006b,0069,0029","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," ","0020","","","none","13"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+zastawne ziemskie seria VI 40, 5 ","000a,007a,0061,0073,0074,0061,0077,006e,0065,0020,007a,0069,0065,006d,0073,006b,0069,0065,0020,0073,0065,0072,0069,0061,0020,0056,0049,0020,0034,0030,002c,0020,0035,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ego ","0065,0067,006f,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ar","0061,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," i wstrząsu mózgu.","0020,0069,0020,0077,0073,0074,0072,007a,0105,0073,0075,0020,006d,00f3,007a,0067,0075,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+milii samochód najechał na rowerzy-","000a,006d,0069,006c,0069,0069,0020,0073,0061,006d,006f,0063,0068,00f3,0064,0020,006e,0061,006a,0065,0063,0068,0061,0142,0020,006e,0061,0020,0072,006f,0077,0065,0072,007a,0079,002d"," 
+milii samochód najechał na rowerzy- ","0020,000a,006d,0069,006c,0069,0069,0020,0073,0061,006d,006f,0063,0068,00f3,0064,0020,006e,0061,006a,0065,0063,0068,0061,0142,0020,006e,0061,0020,0072,006f,0077,0065,0072,007a,0079,002d,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+żenia czaszki i nóg.","000a,017c,0065,006e,0069,0061,0020,0063,007a,0061,0073,007a,006b,0069,0020,0069,0020,006e,00f3,0067,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Zylberberga (Legionów 42).","000a,005a,0079,006c,0062,0065,0072,0062,0065,0072,0067,0061,0020,0028,004c,0065,0067,0069,006f,006e,00f3,0077,0020,0034,0032,0029,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+36)","000a,0033,0036,0029","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+wej.","000a,0077,0065,006a,002e"," 
+wej. 
+Iłrzy zbiegu ulic Andrzeja i Gdań- 
+skiej został najechany przez aufo 22- 
+letni Józef Łaski (Bystrycka 59). ","0020,000a,0077,0065,006a,002e,0020,000a,0049,0142,0072,007a,0079,0020,007a,0062,0069,0065,0067,0075,0020,0075,006c,0069,0063,0020,0041,006e,0064,0072,007a,0065,006a,0061,0020,0069,0020,0047,0064,0061,0144,002d,0020,000a,0073,006b,0069,0065,006a,0020,007a,006f,0073,0074,0061,0142,0020,006e,0061,006a,0065,0063,0068,0061,006e,0079,0020,0070,0072,007a,0065,007a,0020,0061,0075,0066,006f,0020,0032,0032,002d,0020,000a,006c,0065,0074,006e,0069,0020,004a,00f3,007a,0065,0066,0020,0141,0061,0073,006b,0069,0020,0028,0042,0079,0073,0074,0072,0079,0063,006b,0061,0020,0035,0039,0029,002e,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"a.","0061,002e","ła. ","0142,0061,002e,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+stała pobita i oblana wrzą","000a,0073,0074,0061,0142,0061,0020,0070,006f,0062,0069,0074,0061,0020,0069,0020,006f,0062,006c,0061,006e,0061,0020,0077,0072,007a,0105","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"cza, właściciela sklepu","0063,007a,0061,002c,0020,0077,0142,0061,015b,0063,0069,0063,0069,0065,006c,0061,0020,0073,006b,006c,0065,0070,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ezwzględnego aresztu","0065,007a,0077,007a,0067,006c,0119,0064,006e,0065,0067,006f,0020,0061,0072,0065,0073,007a,0074,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+aniżeli przewiduje cennik.","000a,0061,006e,0069,017c,0065,006c,0069,0020,0070,0072,007a,0065,0077,0069,0064,0075,006a,0065,0020,0063,0065,006e,006e,0069,006b,002e"," 
+aniżeli przewiduje cennik. ","0020,000a,0061,006e,0069,017c,0065,006c,0069,0020,0070,0072,007a,0065,0077,0069,0064,0075,006a,0065,0020,0063,0065,006e,006e,0069,006b,002e,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"2","0032","5","0035","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,".","002e",",","002c","misrecognised","4"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+aresztu, za samowolne podwyższanie","000a,0061,0072,0065,0073,007a,0074,0075,002c,0020,007a,0061,0020,0073,0061,006d,006f,0077,006f,006c,006e,0065,0020,0070,006f,0064,0077,0079,017c,0073,007a,0061,006e,0069,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+skiego w Łodzi pismo treści nastę-","000a,0073,006b,0069,0065,0067,006f,0020,0077,0020,0141,006f,0064,007a,0069,0020,0070,0069,0073,006d,006f,0020,0074,0072,0065,015b,0063,0069,0020,006e,0061,0073,0074,0119,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+nia listy członków, którzy zgłasza-","000a,006e,0069,0061,0020,006c,0069,0073,0074,0079,0020,0063,007a,0142,006f,006e,006b,00f3,0077,002c,0020,006b,0074,00f3,0072,007a,0079,0020,007a,0067,0142,0061,0073,007a,0061,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+który umożliwiłby dalsze prowadze","000a,006b,0074,00f3,0072,0079,0020,0075,006d,006f,017c,006c,0069,0077,0069,0142,0062,0079,0020,0064,0061,006c,0073,007a,0065,0020,0070,0072,006f,0077,0061,0064,007a,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+60","000a,0036,0030","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Bank","000a,0042,0061,006e,006b","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"Polski 102, Warsz. Tow. Fabr.
+Cukru 34. Warsz. Tow. Kop. Węgla 28
+— 28,50, Lilpop 78 — 79, Norblin 92,
+Starachowice 40 — 40.50, Haberbusch
+52,50 — 53.
+GIEŁDA ZBOŻOWA
+P. K. O. w Palestynie
+wypłaca wkłady
+W dniu wczorajszym ponow-
+nie otwarto banki w Palestynie,
+które były zaniknięte przez trzy
+dni.
+Banki większe, jak Barclay.
+Bank P. K. O. i Anglo-Palestine
+Bank wypłacają zgłaszającym
+się dowolne kwoty, banki mniej-
+sze — tylko do 15 proc. depozy-
+tów.
+Rynki bawełny
+czekają na decyzje
+Pomimo niewyjaśnionej sytuacji mię
+dzynarodowej, giełdy bawełniane rea-
+gują bardzo słabo, czego najlepszym
+dowodem jest fakt, że tendencja na
+rynkach surowej bawełny notowana
+jest pod znakiem całkowicie utrzyma-
+nym z odcieniem niejednolitym.
+Sytuacja ta notowana jest zarówno
+na giełdzie w Nowym Jorku, jak i na
+giełdach angielskich, w LiverpooIu, o-
+raz na giełdzie egipskiej w Aleksandrii.
+1. IX. — GŁOS PORANNY — 1939.
+Dr. L. SZYFMAN
+Sąd starościński skazał:
+Wiadomości handlowe
+Bank Polski zwiększy kredyty
+Z sądu handlowego
+7
+Bruksela 92.10 — 92,32 — 91,88. Ber
+lin —, Gdańsk 100,25 — 99,75, Amster-
+dam 288,00 — 288,71 — 287,29, Kopen
+haga —, Londyn 23,10 — 23,17 — 23,03
+Nowy Jork — 5,33 i pięć ósmych —
+5,31 i jedna ósma, Nowy Jork kabel
+5,32 i pół — 5,33 i trzy czwarte —
+5,31 i jedna czwarta, Oslo 121,82 —
+121,18, Paryż 13,30 — 13,34 — 13,26,
+Sztokholm 128,30 — 128,62 — 127,98,
+Zurych 120,60 — 120,96 — 120,30, Hel-
+sinki 10,93 — 10,87.
+Na tle rozstroju nerwowego, wystrza
+łem z rewolweru w skroń odebrał so-
+bie życie 24-letni Zygmunt Piotrowski
+(Kaufmana 26).
+MŁODE
+SERCA
+Przy zbiegu ulic Andrzeja i Gdań-
+skiej został najechany przez auto 22-
+letni Józef Łaski (Bystrycka 59).
+W kolonii Olechów, gm. Wiskitno,
+pow. łódzkiego wybuchł pożar w zagro
+dzie Rudolfa Morgentalera. Zagroda
+spłonęła doszczętnie. Straty wynoszą
+5000 zł. Wdrożone dochodzenie ustali-
+ło, że pożar powstał wskutek podpale-
+nia. Istnieje podejrzenie, że podpale-
+nia dokonał sam Morgentaler, by uzy-
+skać wysoką premię asekuracyjną. Wy
+niki śledztwa nie mogą być narazie u-
+jawnione.
+Pracownicy firmy „Polesie"
+zł. 39.50, Komendant bloku nr. 704
+zł. 5.—.
+Ponieważ za układem wypowie-
+działo się 108 wierzycieli, reprezen-
+tujących zł. 226,618 na ogólną ilość
+143 wierzycieli — 282,808
+zł., czyli wymagana przez prawo
+większość, układ uznano za przyję-
+ty i przedstawiony sądowi do za-
+twierdzenia.
+Żyto 13.00 — 13.50
+Owies I gat. 14.50 — 15.00
+Owies II gat. 13.75 — 14.25
+Pszenica 21.50 — 22.00
+Pszenica zbier. 21.00 — 21.50
+Mąka pszenna 30% 41.00 — 42.00
+35% 40.00 — 41.00
+50% 36.00 — 37.00
+65% 35.00 — 36.00
+raz. 95% 28.25 — 29.25
+Mąka pszenna II g. 31.50 — 32.50
+35—65% 30.50 — 31.50
+50—65% 24.50 — 25.50
+60—65% 22.70 — 23.50
+III gai. 21.50 — 22.50
+Mąka żytnia 30% 25.75 — 26.25
+Mąka żytnia 55% 22.75 — 23.25
+Groch Victoria 37.00 — 40.00
+Mąka ziemniaczana
+superior 42.00 — 44.00
+Otręby pszenne gr. 9.25 — 9.50
+Otręby psz. śr. 9.00 — 9.25
+Otręby żytnie 8.75 — 9.00
+Siemie lniane 42.50 — 43.00
+Rzepak ozimy 50.50 — 51.50
+Rzepak jary 46.00 — 47.00
+Gryka 24.50 25.00
+Tendencja spokojna
+Ogólny obrót: 967 tonn.
+GIEŁDA ŁÓDZKA
+Zdaniem sfer zainteresowanych, wię-
+kszych wahań należy oczekiwać w
+chwili poważniejszych rozstrzygnięć
+sytuacji międzynarodowej.
+NOTOWANIA BAWEŁNY
+Wskutek zaburzeń atmosferycznych
+notowań bawełny wczoraj nie otrzyma
+liśmy.
+Kombatanci zajęli się
+nej. powzięto uchwałę w spra-
+wie wszczęcia i prowadzenia
+akcji, zmierzającej do zabezpie
+czenia rodzin rezerwistów, po-
+wołanych do wojska. Odnośne
+instrukcje zostały wydane po-
+szczególnym związkom. Akcja
+Po omówieniu sytuacji ogól-
+W Domu - Pomniku im Mar-
+szałka Piłsudskiego odbyło się
+pod przewodnictwem senatora
+Fichny zebranie przedstawicie-
+li organizacji zrzeszonychw Fe-
+deracji PZOO.
+Wczoraj
+w Łodzi...
+CASINO Dziś powtórzenie
+P. 4. 6. 8. 10
+Dziś
+powtórzenie
+premiery!
+PAULETTE GODDARD
+JANET GAYNOR
+DOUGLAS FAIRBANKS jr.
+Ceny miejsc
+na wszystkie
+seanse — od
+Ceny miejsc 109
+na wszystkie
+seanse — od
+Sfery gospodarcze polskie z
+prawdziwym uznaniem przyjęły
+ogłoszenie przepisów przejścio-
+wych naszej instytucji emisyjnej.
+Z przepisów tych wynika bo-
+wiem, iż nasz bank emisyjny
+weźmie znacznie większy niż do-
+tychczas udział w finansowaniu
+obrotów gospodarczych, co wpły
+nie dodatnio na kształtowanie
+się koniunktury.
+Ogłoszenie przepisów przej-
+ściowych naszej placówki emisyj
+nej oraz podjęcie przez nią roz-
+Dalsza zwyżka na giełdzie
+w przebojowym filmie
+przed przetrzymywaniem należności powołanych
+rezerwistów
+Na wczorajszym zebraniu giełdo-
+wym w Łodzi notowano:
+trans, sprzedaż kupno
+Dolarówka 35.50
+Inw. I em. 70.00
+Inw. II em. 69.00
+Konsol. 61.00
+Wewn. 60.50
+Bank Polski 102.50 102.00
+Tendencja wyczekująca.","0050,006f,006c,0073,006b,0069,0020,0031,0030,0032,002c,0020,0057,0061,0072,0073,007a,002e,0020,0054,006f,0077,002e,0020,0046,0061,0062,0072,002e,000a,0043,0075,006b,0072,0075,0020,0033,0034,002e,0020,0057,0061,0072,0073,007a,002e,0020,0054,006f,0077,002e,0020,004b,006f,0070,002e,0020,0057,0119,0067,006c,0061,0020,0032,0038,000a,2014,0020,0032,0038,002c,0035,0030,002c,0020,004c,0069,006c,0070,006f,0070,0020,0037,0038,0020,2014,0020,0037,0039,002c,0020,004e,006f,0072,0062,006c,0069,006e,0020,0039,0032,002c,000a,0053,0074,0061,0072,0061,0063,0068,006f,0077,0069,0063,0065,0020,0034,0030,0020,2014,0020,0034,0030,002e,0035,0030,002c,0020,0048,0061,0062,0065,0072,0062,0075,0073,0063,0068,000a,0035,0032,002c,0035,0030,0020,2014,0020,0035,0033,002e,000a,0047,0049,0045,0141,0044,0041,0020,005a,0042,004f,017b,004f,0057,0041,000a,0050,002e,0020,004b,002e,0020,004f,002e,0020,0077,0020,0050,0061,006c,0065,0073,0074,0079,006e,0069,0065,000a,0077,0079,0070,0142,0061,0063,0061,0020,0077,006b,0142,0061,0064,0079,000a,0057,0020,0064,006e,0069,0075,0020,0077,0063,007a,006f,0072,0061,006a,0073,007a,0079,006d,0020,0070,006f,006e,006f,0077,002d,000a,006e,0069,0065,0020,006f,0074,0077,0061,0072,0074,006f,0020,0062,0061,006e,006b,0069,0020,0077,0020,0050,0061,006c,0065,0073,0074,0079,006e,0069,0065,002c,000a,006b,0074,00f3,0072,0065,0020,0062,0079,0142,0079,0020,007a,0061,006e,0069,006b,006e,0069,0119,0074,0065,0020,0070,0072,007a,0065,007a,0020,0074,0072,007a,0079,000a,0064,006e,0069,002e,000a,0042,0061,006e,006b,0069,0020,0077,0069,0119,006b,0073,007a,0065,002c,0020,006a,0061,006b,0020,0042,0061,0072,0063,006c,0061,0079,002e,000a,0042,0061,006e,006b,0020,0050,002e,0020,004b,002e,0020,004f,002e,0020,0069,0020,0041,006e,0067,006c,006f,002d,0050,0061,006c,0065,0073,0074,0069,006e,0065,000a,0042,0061,006e,006b,0020,0077,0079,0070,0142,0061,0063,0061,006a,0105,0020,007a,0067,0142,0061,0073,007a,0061,006a,0105,0063,0079,006d,000a,0073,0069,0119,0020,0064,006f,0077,006f,006c,006e,0065,0020,006b,0077,006f,0074,0079,002c,0020,0062,0061,006e,006b,0069,0020,006d,006e,0069,0065,006a,002d,000a,0073,007a,0065,0020,2014,0020,0074,0079,006c,006b,006f,0020,0064,006f,0020,0031,0035,0020,0070,0072,006f,0063,002e,0020,0064,0065,0070,006f,007a,0079,002d,000a,0074,00f3,0077,002e,000a,0052,0079,006e,006b,0069,0020,0062,0061,0077,0065,0142,006e,0079,000a,0063,007a,0065,006b,0061,006a,0105,0020,006e,0061,0020,0064,0065,0063,0079,007a,006a,0065,000a,0050,006f,006d,0069,006d,006f,0020,006e,0069,0065,0077,0079,006a,0061,015b,006e,0069,006f,006e,0065,006a,0020,0073,0079,0074,0075,0061,0063,006a,0069,0020,006d,0069,0119,000a,0064,007a,0079,006e,0061,0072,006f,0064,006f,0077,0065,006a,002c,0020,0067,0069,0065,0142,0064,0079,0020,0062,0061,0077,0065,0142,006e,0069,0061,006e,0065,0020,0072,0065,0061,002d,000a,0067,0075,006a,0105,0020,0062,0061,0072,0064,007a,006f,0020,0073,0142,0061,0062,006f,002c,0020,0063,007a,0065,0067,006f,0020,006e,0061,006a,006c,0065,0070,0073,007a,0079,006d,000a,0064,006f,0077,006f,0064,0065,006d,0020,006a,0065,0073,0074,0020,0066,0061,006b,0074,002c,0020,017c,0065,0020,0074,0065,006e,0064,0065,006e,0063,006a,0061,0020,006e,0061,000a,0072,0079,006e,006b,0061,0063,0068,0020,0073,0075,0072,006f,0077,0065,006a,0020,0062,0061,0077,0065,0142,006e,0079,0020,006e,006f,0074,006f,0077,0061,006e,0061,000a,006a,0065,0073,0074,0020,0070,006f,0064,0020,007a,006e,0061,006b,0069,0065,006d,0020,0063,0061,0142,006b,006f,0077,0069,0063,0069,0065,0020,0075,0074,0072,007a,0079,006d,0061,002d,000a,006e,0079,006d,0020,007a,0020,006f,0064,0063,0069,0065,006e,0069,0065,006d,0020,006e,0069,0065,006a,0065,0064,006e,006f,006c,0069,0074,0079,006d,002e,000a,0053,0079,0074,0075,0061,0063,006a,0061,0020,0074,0061,0020,006e,006f,0074,006f,0077,0061,006e,0061,0020,006a,0065,0073,0074,0020,007a,0061,0072,00f3,0077,006e,006f,000a,006e,0061,0020,0067,0069,0065,0142,0064,007a,0069,0065,0020,0077,0020,004e,006f,0077,0079,006d,0020,004a,006f,0072,006b,0075,002c,0020,006a,0061,006b,0020,0069,0020,006e,0061,000a,0067,0069,0065,0142,0064,0061,0063,0068,0020,0061,006e,0067,0069,0065,006c,0073,006b,0069,0063,0068,002c,0020,0077,0020,004c,0069,0076,0065,0072,0070,006f,006f,0049,0075,002c,0020,006f,002d,000a,0072,0061,007a,0020,006e,0061,0020,0067,0069,0065,0142,0064,007a,0069,0065,0020,0065,0067,0069,0070,0073,006b,0069,0065,006a,0020,0077,0020,0041,006c,0065,006b,0073,0061,006e,0064,0072,0069,0069,002e,000a,0031,002e,0020,0049,0058,002e,0020,2014,0020,0047,0141,004f,0053,0020,0050,004f,0052,0041,004e,004e,0059,0020,2014,0020,0031,0039,0033,0039,002e,000a,0044,0072,002e,0020,004c,002e,0020,0053,005a,0059,0046,004d,0041,004e,000a,0053,0105,0064,0020,0073,0074,0061,0072,006f,015b,0063,0069,0144,0073,006b,0069,0020,0073,006b,0061,007a,0061,0142,003a,000a,0057,0069,0061,0064,006f,006d,006f,015b,0063,0069,0020,0068,0061,006e,0064,006c,006f,0077,0065,000a,0042,0061,006e,006b,0020,0050,006f,006c,0073,006b,0069,0020,007a,0077,0069,0119,006b,0073,007a,0079,0020,006b,0072,0065,0064,0079,0074,0079,000a,005a,0020,0073,0105,0064,0075,0020,0068,0061,006e,0064,006c,006f,0077,0065,0067,006f,000a,0037,000a,0042,0072,0075,006b,0073,0065,006c,0061,0020,0039,0032,002e,0031,0030,0020,2014,0020,0039,0032,002c,0033,0032,0020,2014,0020,0039,0031,002c,0038,0038,002e,0020,0042,0065,0072,000a,006c,0069,006e,0020,2014,002c,0020,0047,0064,0061,0144,0073,006b,0020,0031,0030,0030,002c,0032,0035,0020,2014,0020,0039,0039,002c,0037,0035,002c,0020,0041,006d,0073,0074,0065,0072,002d,000a,0064,0061,006d,0020,0032,0038,0038,002c,0030,0030,0020,2014,0020,0032,0038,0038,002c,0037,0031,0020,2014,0020,0032,0038,0037,002c,0032,0039,002c,0020,004b,006f,0070,0065,006e,000a,0068,0061,0067,0061,0020,2014,002c,0020,004c,006f,006e,0064,0079,006e,0020,0032,0033,002c,0031,0030,0020,2014,0020,0032,0033,002c,0031,0037,0020,2014,0020,0032,0033,002c,0030,0033,000a,004e,006f,0077,0079,0020,004a,006f,0072,006b,0020,2014,0020,0035,002c,0033,0033,0020,0069,0020,0070,0069,0119,0107,0020,00f3,0073,006d,0079,0063,0068,0020,2014,000a,0035,002c,0033,0031,0020,0069,0020,006a,0065,0064,006e,0061,0020,00f3,0073,006d,0061,002c,0020,004e,006f,0077,0079,0020,004a,006f,0072,006b,0020,006b,0061,0062,0065,006c,000a,0035,002c,0033,0032,0020,0069,0020,0070,00f3,0142,0020,2014,0020,0035,002c,0033,0033,0020,0069,0020,0074,0072,007a,0079,0020,0063,007a,0077,0061,0072,0074,0065,0020,2014,000a,0035,002c,0033,0031,0020,0069,0020,006a,0065,0064,006e,0061,0020,0063,007a,0077,0061,0072,0074,0061,002c,0020,004f,0073,006c,006f,0020,0031,0032,0031,002c,0038,0032,0020,2014,000a,0031,0032,0031,002c,0031,0038,002c,0020,0050,0061,0072,0079,017c,0020,0031,0033,002c,0033,0030,0020,2014,0020,0031,0033,002c,0033,0034,0020,2014,0020,0031,0033,002c,0032,0036,002c,000a,0053,007a,0074,006f,006b,0068,006f,006c,006d,0020,0031,0032,0038,002c,0033,0030,0020,2014,0020,0031,0032,0038,002c,0036,0032,0020,2014,0020,0031,0032,0037,002c,0039,0038,002c,000a,005a,0075,0072,0079,0063,0068,0020,0031,0032,0030,002c,0036,0030,0020,2014,0020,0031,0032,0030,002c,0039,0036,0020,2014,0020,0031,0032,0030,002c,0033,0030,002c,0020,0048,0065,006c,002d,000a,0073,0069,006e,006b,0069,0020,0031,0030,002c,0039,0033,0020,2014,0020,0031,0030,002c,0038,0037,002e,000a,004e,0061,0020,0074,006c,0065,0020,0072,006f,007a,0073,0074,0072,006f,006a,0075,0020,006e,0065,0072,0077,006f,0077,0065,0067,006f,002c,0020,0077,0079,0073,0074,0072,007a,0061,000a,0142,0065,006d,0020,007a,0020,0072,0065,0077,006f,006c,0077,0065,0072,0075,0020,0077,0020,0073,006b,0072,006f,0144,0020,006f,0064,0065,0062,0072,0061,0142,0020,0073,006f,002d,000a,0062,0069,0065,0020,017c,0079,0063,0069,0065,0020,0032,0034,002d,006c,0065,0074,006e,0069,0020,005a,0079,0067,006d,0075,006e,0074,0020,0050,0069,006f,0074,0072,006f,0077,0073,006b,0069,000a,0028,004b,0061,0075,0066,006d,0061,006e,0061,0020,0032,0036,0029,002e,000a,004d,0141,004f,0044,0045,000a,0053,0045,0052,0043,0041,000a,0050,0072,007a,0079,0020,007a,0062,0069,0065,0067,0075,0020,0075,006c,0069,0063,0020,0041,006e,0064,0072,007a,0065,006a,0061,0020,0069,0020,0047,0064,0061,0144,002d,000a,0073,006b,0069,0065,006a,0020,007a,006f,0073,0074,0061,0142,0020,006e,0061,006a,0065,0063,0068,0061,006e,0079,0020,0070,0072,007a,0065,007a,0020,0061,0075,0074,006f,0020,0032,0032,002d,000a,006c,0065,0074,006e,0069,0020,004a,00f3,007a,0065,0066,0020,0141,0061,0073,006b,0069,0020,0028,0042,0079,0073,0074,0072,0079,0063,006b,0061,0020,0035,0039,0029,002e,000a,0057,0020,006b,006f,006c,006f,006e,0069,0069,0020,004f,006c,0065,0063,0068,00f3,0077,002c,0020,0067,006d,002e,0020,0057,0069,0073,006b,0069,0074,006e,006f,002c,000a,0070,006f,0077,002e,0020,0142,00f3,0064,007a,006b,0069,0065,0067,006f,0020,0077,0079,0062,0075,0063,0068,0142,0020,0070,006f,017c,0061,0072,0020,0077,0020,007a,0061,0067,0072,006f,000a,0064,007a,0069,0065,0020,0052,0075,0064,006f,006c,0066,0061,0020,004d,006f,0072,0067,0065,006e,0074,0061,006c,0065,0072,0061,002e,0020,005a,0061,0067,0072,006f,0064,0061,000a,0073,0070,0142,006f,006e,0119,0142,0061,0020,0064,006f,0073,007a,0063,007a,0119,0074,006e,0069,0065,002e,0020,0053,0074,0072,0061,0074,0079,0020,0077,0079,006e,006f,0073,007a,0105,000a,0035,0030,0030,0030,0020,007a,0142,002e,0020,0057,0064,0072,006f,017c,006f,006e,0065,0020,0064,006f,0063,0068,006f,0064,007a,0065,006e,0069,0065,0020,0075,0073,0074,0061,006c,0069,002d,000a,0142,006f,002c,0020,017c,0065,0020,0070,006f,017c,0061,0072,0020,0070,006f,0077,0073,0074,0061,0142,0020,0077,0073,006b,0075,0074,0065,006b,0020,0070,006f,0064,0070,0061,006c,0065,002d,000a,006e,0069,0061,002e,0020,0049,0073,0074,006e,0069,0065,006a,0065,0020,0070,006f,0064,0065,006a,0072,007a,0065,006e,0069,0065,002c,0020,017c,0065,0020,0070,006f,0064,0070,0061,006c,0065,002d,000a,006e,0069,0061,0020,0064,006f,006b,006f,006e,0061,0142,0020,0073,0061,006d,0020,004d,006f,0072,0067,0065,006e,0074,0061,006c,0065,0072,002c,0020,0062,0079,0020,0075,007a,0079,002d,000a,0073,006b,0061,0107,0020,0077,0079,0073,006f,006b,0105,0020,0070,0072,0065,006d,0069,0119,0020,0061,0073,0065,006b,0075,0072,0061,0063,0079,006a,006e,0105,002e,0020,0057,0079,000a,006e,0069,006b,0069,0020,015b,006c,0065,0064,007a,0074,0077,0061,0020,006e,0069,0065,0020,006d,006f,0067,0105,0020,0062,0079,0107,0020,006e,0061,0072,0061,007a,0069,0065,0020,0075,002d,000a,006a,0061,0077,006e,0069,006f,006e,0065,002e,000a,0050,0072,0061,0063,006f,0077,006e,0069,0063,0079,0020,0066,0069,0072,006d,0079,0020,201e,0050,006f,006c,0065,0073,0069,0065,0022,000a,007a,0142,002e,0020,0033,0039,002e,0035,0030,002c,0020,004b,006f,006d,0065,006e,0064,0061,006e,0074,0020,0062,006c,006f,006b,0075,0020,006e,0072,002e,0020,0037,0030,0034,000a,007a,0142,002e,0020,0035,002e,2014,002e,000a,0050,006f,006e,0069,0065,0077,0061,017c,0020,007a,0061,0020,0075,006b,0142,0061,0064,0065,006d,0020,0077,0079,0070,006f,0077,0069,0065,002d,000a,0064,007a,0069,0061,0142,006f,0020,0073,0069,0119,0020,0031,0030,0038,0020,0077,0069,0065,0072,007a,0079,0063,0069,0065,006c,0069,002c,0020,0072,0065,0070,0072,0065,007a,0065,006e,002d,000a,0074,0075,006a,0105,0063,0079,0063,0068,0020,007a,0142,002e,0020,0032,0032,0036,002c,0036,0031,0038,0020,006e,0061,0020,006f,0067,00f3,006c,006e,0105,0020,0069,006c,006f,015b,0107,000a,0031,0034,0033,0020,0077,0069,0065,0072,007a,0079,0063,0069,0065,006c,0069,0020,2014,0020,0032,0038,0032,002c,0038,0030,0038,000a,007a,0142,002e,002c,0020,0063,007a,0079,006c,0069,0020,0077,0079,006d,0061,0067,0061,006e,0061,0020,0070,0072,007a,0065,007a,0020,0070,0072,0061,0077,006f,000a,0077,0069,0119,006b,0073,007a,006f,015b,0107,002c,0020,0075,006b,0142,0061,0064,0020,0075,007a,006e,0061,006e,006f,0020,007a,0061,0020,0070,0072,007a,0079,006a,0119,002d,000a,0074,0079,0020,0069,0020,0070,0072,007a,0065,0064,0073,0074,0061,0077,0069,006f,006e,0079,0020,0073,0105,0064,006f,0077,0069,0020,0064,006f,0020,007a,0061,002d,000a,0074,0077,0069,0065,0072,0064,007a,0065,006e,0069,0061,002e,000a,017b,0079,0074,006f,0020,0031,0033,002e,0030,0030,0020,2014,0020,0031,0033,002e,0035,0030,000a,004f,0077,0069,0065,0073,0020,0049,0020,0067,0061,0074,002e,0020,0031,0034,002e,0035,0030,0020,2014,0020,0031,0035,002e,0030,0030,000a,004f,0077,0069,0065,0073,0020,0049,0049,0020,0067,0061,0074,002e,0020,0031,0033,002e,0037,0035,0020,2014,0020,0031,0034,002e,0032,0035,000a,0050,0073,007a,0065,006e,0069,0063,0061,0020,0032,0031,002e,0035,0030,0020,2014,0020,0032,0032,002e,0030,0030,000a,0050,0073,007a,0065,006e,0069,0063,0061,0020,007a,0062,0069,0065,0072,002e,0020,0032,0031,002e,0030,0030,0020,2014,0020,0032,0031,002e,0035,0030,000a,004d,0105,006b,0061,0020,0070,0073,007a,0065,006e,006e,0061,0020,0033,0030,0025,0020,0034,0031,002e,0030,0030,0020,2014,0020,0034,0032,002e,0030,0030,000a,0033,0035,0025,0020,0034,0030,002e,0030,0030,0020,2014,0020,0034,0031,002e,0030,0030,000a,0035,0030,0025,0020,0033,0036,002e,0030,0030,0020,2014,0020,0033,0037,002e,0030,0030,000a,0036,0035,0025,0020,0033,0035,002e,0030,0030,0020,2014,0020,0033,0036,002e,0030,0030,000a,0072,0061,007a,002e,0020,0039,0035,0025,0020,0032,0038,002e,0032,0035,0020,2014,0020,0032,0039,002e,0032,0035,000a,004d,0105,006b,0061,0020,0070,0073,007a,0065,006e,006e,0061,0020,0049,0049,0020,0067,002e,0020,0033,0031,002e,0035,0030,0020,2014,0020,0033,0032,002e,0035,0030,000a,0033,0035,2014,0036,0035,0025,0020,0033,0030,002e,0035,0030,0020,2014,0020,0033,0031,002e,0035,0030,000a,0035,0030,2014,0036,0035,0025,0020,0032,0034,002e,0035,0030,0020,2014,0020,0032,0035,002e,0035,0030,000a,0036,0030,2014,0036,0035,0025,0020,0032,0032,002e,0037,0030,0020,2014,0020,0032,0033,002e,0035,0030,000a,0049,0049,0049,0020,0067,0061,0069,002e,0020,0032,0031,002e,0035,0030,0020,2014,0020,0032,0032,002e,0035,0030,000a,004d,0105,006b,0061,0020,017c,0079,0074,006e,0069,0061,0020,0033,0030,0025,0020,0032,0035,002e,0037,0035,0020,2014,0020,0032,0036,002e,0032,0035,000a,004d,0105,006b,0061,0020,017c,0079,0074,006e,0069,0061,0020,0035,0035,0025,0020,0032,0032,002e,0037,0035,0020,2014,0020,0032,0033,002e,0032,0035,000a,0047,0072,006f,0063,0068,0020,0056,0069,0063,0074,006f,0072,0069,0061,0020,0033,0037,002e,0030,0030,0020,2014,0020,0034,0030,002e,0030,0030,000a,004d,0105,006b,0061,0020,007a,0069,0065,006d,006e,0069,0061,0063,007a,0061,006e,0061,000a,0073,0075,0070,0065,0072,0069,006f,0072,0020,0034,0032,002e,0030,0030,0020,2014,0020,0034,0034,002e,0030,0030,000a,004f,0074,0072,0119,0062,0079,0020,0070,0073,007a,0065,006e,006e,0065,0020,0067,0072,002e,0020,0039,002e,0032,0035,0020,2014,0020,0039,002e,0035,0030,000a,004f,0074,0072,0119,0062,0079,0020,0070,0073,007a,002e,0020,015b,0072,002e,0020,0039,002e,0030,0030,0020,2014,0020,0039,002e,0032,0035,000a,004f,0074,0072,0119,0062,0079,0020,017c,0079,0074,006e,0069,0065,0020,0038,002e,0037,0035,0020,2014,0020,0039,002e,0030,0030,000a,0053,0069,0065,006d,0069,0065,0020,006c,006e,0069,0061,006e,0065,0020,0034,0032,002e,0035,0030,0020,2014,0020,0034,0033,002e,0030,0030,000a,0052,007a,0065,0070,0061,006b,0020,006f,007a,0069,006d,0079,0020,0035,0030,002e,0035,0030,0020,2014,0020,0035,0031,002e,0035,0030,000a,0052,007a,0065,0070,0061,006b,0020,006a,0061,0072,0079,0020,0034,0036,002e,0030,0030,0020,2014,0020,0034,0037,002e,0030,0030,000a,0047,0072,0079,006b,0061,0020,0032,0034,002e,0035,0030,0020,0032,0035,002e,0030,0030,000a,0054,0065,006e,0064,0065,006e,0063,006a,0061,0020,0073,0070,006f,006b,006f,006a,006e,0061,000a,004f,0067,00f3,006c,006e,0079,0020,006f,0062,0072,00f3,0074,003a,0020,0039,0036,0037,0020,0074,006f,006e,006e,002e,000a,0047,0049,0045,0141,0044,0041,0020,0141,00d3,0044,005a,004b,0041,000a,005a,0064,0061,006e,0069,0065,006d,0020,0073,0066,0065,0072,0020,007a,0061,0069,006e,0074,0065,0072,0065,0073,006f,0077,0061,006e,0079,0063,0068,002c,0020,0077,0069,0119,002d,000a,006b,0073,007a,0079,0063,0068,0020,0077,0061,0068,0061,0144,0020,006e,0061,006c,0065,017c,0079,0020,006f,0063,007a,0065,006b,0069,0077,0061,0107,0020,0077,000a,0063,0068,0077,0069,006c,0069,0020,0070,006f,0077,0061,017c,006e,0069,0065,006a,0073,007a,0079,0063,0068,0020,0072,006f,007a,0073,0074,0072,007a,0079,0067,006e,0069,0119,0107,000a,0073,0079,0074,0075,0061,0063,006a,0069,0020,006d,0069,0119,0064,007a,0079,006e,0061,0072,006f,0064,006f,0077,0065,006a,002e,000a,004e,004f,0054,004f,0057,0041,004e,0049,0041,0020,0042,0041,0057,0045,0141,004e,0059,000a,0057,0073,006b,0075,0074,0065,006b,0020,007a,0061,0062,0075,0072,007a,0065,0144,0020,0061,0074,006d,006f,0073,0066,0065,0072,0079,0063,007a,006e,0079,0063,0068,000a,006e,006f,0074,006f,0077,0061,0144,0020,0062,0061,0077,0065,0142,006e,0079,0020,0077,0063,007a,006f,0072,0061,006a,0020,006e,0069,0065,0020,006f,0074,0072,007a,0079,006d,0061,000a,006c,0069,015b,006d,0079,002e,000a,004b,006f,006d,0062,0061,0074,0061,006e,0063,0069,0020,007a,0061,006a,0119,006c,0069,0020,0073,0069,0119,000a,006e,0065,006a,002e,0020,0070,006f,0077,007a,0069,0119,0074,006f,0020,0075,0063,0068,0077,0061,0142,0119,0020,0077,0020,0073,0070,0072,0061,002d,000a,0077,0069,0065,0020,0077,0073,007a,0063,007a,0119,0063,0069,0061,0020,0069,0020,0070,0072,006f,0077,0061,0064,007a,0065,006e,0069,0061,000a,0061,006b,0063,006a,0069,002c,0020,007a,006d,0069,0065,0072,007a,0061,006a,0105,0063,0065,006a,0020,0064,006f,0020,007a,0061,0062,0065,007a,0070,0069,0065,000a,0063,007a,0065,006e,0069,0061,0020,0072,006f,0064,007a,0069,006e,0020,0072,0065,007a,0065,0072,0077,0069,0073,0074,00f3,0077,002c,0020,0070,006f,002d,000a,0077,006f,0142,0061,006e,0079,0063,0068,0020,0064,006f,0020,0077,006f,006a,0073,006b,0061,002e,0020,004f,0064,006e,006f,015b,006e,0065,000a,0069,006e,0073,0074,0072,0075,006b,0063,006a,0065,0020,007a,006f,0073,0074,0061,0142,0079,0020,0077,0079,0064,0061,006e,0065,0020,0070,006f,002d,000a,0073,007a,0063,007a,0065,0067,00f3,006c,006e,0079,006d,0020,007a,0077,0069,0105,007a,006b,006f,006d,002e,0020,0041,006b,0063,006a,0061,000a,0050,006f,0020,006f,006d,00f3,0077,0069,0065,006e,0069,0075,0020,0073,0079,0074,0075,0061,0063,006a,0069,0020,006f,0067,00f3,006c,002d,000a,0057,0020,0044,006f,006d,0075,0020,002d,0020,0050,006f,006d,006e,0069,006b,0075,0020,0069,006d,0020,004d,0061,0072,002d,000a,0073,007a,0061,0142,006b,0061,0020,0050,0069,0142,0073,0075,0064,0073,006b,0069,0065,0067,006f,0020,006f,0064,0062,0079,0142,006f,0020,0073,0069,0119,000a,0070,006f,0064,0020,0070,0072,007a,0065,0077,006f,0064,006e,0069,0063,0074,0077,0065,006d,0020,0073,0065,006e,0061,0074,006f,0072,0061,000a,0046,0069,0063,0068,006e,0079,0020,007a,0065,0062,0072,0061,006e,0069,0065,0020,0070,0072,007a,0065,0064,0073,0074,0061,0077,0069,0063,0069,0065,002d,000a,006c,0069,0020,006f,0072,0067,0061,006e,0069,007a,0061,0063,006a,0069,0020,007a,0072,007a,0065,0073,007a,006f,006e,0079,0063,0068,0077,0020,0046,0065,002d,000a,0064,0065,0072,0061,0063,006a,0069,0020,0050,005a,004f,004f,002e,000a,0057,0063,007a,006f,0072,0061,006a,000a,0077,0020,0141,006f,0064,007a,0069,002e,002e,002e,000a,0043,0041,0053,0049,004e,004f,0020,0044,007a,0069,015b,0020,0070,006f,0077,0074,00f3,0072,007a,0065,006e,0069,0065,000a,0050,002e,0020,0034,002e,0020,0036,002e,0020,0038,002e,0020,0031,0030,000a,0044,007a,0069,015b,000a,0070,006f,0077,0074,00f3,0072,007a,0065,006e,0069,0065,000a,0070,0072,0065,006d,0069,0065,0072,0079,0021,000a,0050,0041,0055,004c,0045,0054,0054,0045,0020,0047,004f,0044,0044,0041,0052,0044,000a,004a,0041,004e,0045,0054,0020,0047,0041,0059,004e,004f,0052,000a,0044,004f,0055,0047,004c,0041,0053,0020,0046,0041,0049,0052,0042,0041,004e,004b,0053,0020,006a,0072,002e,000a,0043,0065,006e,0079,0020,006d,0069,0065,006a,0073,0063,000a,006e,0061,0020,0077,0073,007a,0079,0073,0074,006b,0069,0065,000a,0073,0065,0061,006e,0073,0065,0020,2014,0020,006f,0064,000a,0043,0065,006e,0079,0020,006d,0069,0065,006a,0073,0063,0020,0031,0030,0039,000a,006e,0061,0020,0077,0073,007a,0079,0073,0074,006b,0069,0065,000a,0073,0065,0061,006e,0073,0065,0020,2014,0020,006f,0064,000a,0053,0066,0065,0072,0079,0020,0067,006f,0073,0070,006f,0064,0061,0072,0063,007a,0065,0020,0070,006f,006c,0073,006b,0069,0065,0020,007a,000a,0070,0072,0061,0077,0064,007a,0069,0077,0079,006d,0020,0075,007a,006e,0061,006e,0069,0065,006d,0020,0070,0072,007a,0079,006a,0119,0142,0079,000a,006f,0067,0142,006f,0073,007a,0065,006e,0069,0065,0020,0070,0072,007a,0065,0070,0069,0073,00f3,0077,0020,0070,0072,007a,0065,006a,015b,0063,0069,006f,002d,000a,0077,0079,0063,0068,0020,006e,0061,0073,007a,0065,006a,0020,0069,006e,0073,0074,0079,0074,0075,0063,006a,0069,0020,0065,006d,0069,0073,0079,006a,006e,0065,006a,002e,000a,005a,0020,0070,0072,007a,0065,0070,0069,0073,00f3,0077,0020,0074,0079,0063,0068,0020,0077,0079,006e,0069,006b,0061,0020,0062,006f,002d,000a,0077,0069,0065,006d,002c,0020,0069,017c,0020,006e,0061,0073,007a,0020,0062,0061,006e,006b,0020,0065,006d,0069,0073,0079,006a,006e,0079,000a,0077,0065,017a,006d,0069,0065,0020,007a,006e,0061,0063,007a,006e,0069,0065,0020,0077,0069,0119,006b,0073,007a,0079,0020,006e,0069,017c,0020,0064,006f,002d,000a,0074,0079,0063,0068,0063,007a,0061,0073,0020,0075,0064,007a,0069,0061,0142,0020,0077,0020,0066,0069,006e,0061,006e,0073,006f,0077,0061,006e,0069,0075,000a,006f,0062,0072,006f,0074,00f3,0077,0020,0067,006f,0073,0070,006f,0064,0061,0072,0063,007a,0079,0063,0068,002c,0020,0063,006f,0020,0077,0070,0142,0079,000a,006e,0069,0065,0020,0064,006f,0064,0061,0074,006e,0069,006f,0020,006e,0061,0020,006b,0073,007a,0074,0061,0142,0074,006f,0077,0061,006e,0069,0065,000a,0073,0069,0119,0020,006b,006f,006e,0069,0075,006e,006b,0074,0075,0072,0079,002e,000a,004f,0067,0142,006f,0073,007a,0065,006e,0069,0065,0020,0070,0072,007a,0065,0070,0069,0073,00f3,0077,0020,0070,0072,007a,0065,006a,002d,000a,015b,0063,0069,006f,0077,0079,0063,0068,0020,006e,0061,0073,007a,0065,006a,0020,0070,006c,0061,0063,00f3,0077,006b,0069,0020,0065,006d,0069,0073,0079,006a,000a,006e,0065,006a,0020,006f,0072,0061,007a,0020,0070,006f,0064,006a,0119,0063,0069,0065,0020,0070,0072,007a,0065,007a,0020,006e,0069,0105,0020,0072,006f,007a,002d,000a,0044,0061,006c,0073,007a,0061,0020,007a,0077,0079,017c,006b,0061,0020,006e,0061,0020,0067,0069,0065,0142,0064,007a,0069,0065,000a,0077,0020,0070,0072,007a,0065,0062,006f,006a,006f,0077,0079,006d,0020,0066,0069,006c,006d,0069,0065,000a,0070,0072,007a,0065,0064,0020,0070,0072,007a,0065,0074,0072,007a,0079,006d,0079,0077,0061,006e,0069,0065,006d,0020,006e,0061,006c,0065,017c,006e,006f,015b,0063,0069,0020,0070,006f,0077,006f,0142,0061,006e,0079,0063,0068,000a,0072,0065,007a,0065,0072,0077,0069,0073,0074,00f3,0077,000a,004e,0061,0020,0077,0063,007a,006f,0072,0061,006a,0073,007a,0079,006d,0020,007a,0065,0062,0072,0061,006e,0069,0075,0020,0067,0069,0065,0142,0064,006f,002d,000a,0077,0079,006d,0020,0077,0020,0141,006f,0064,007a,0069,0020,006e,006f,0074,006f,0077,0061,006e,006f,003a,000a,0074,0072,0061,006e,0073,002c,0020,0073,0070,0072,007a,0065,0064,0061,017c,0020,006b,0075,0070,006e,006f,000a,0044,006f,006c,0061,0072,00f3,0077,006b,0061,0020,0033,0035,002e,0035,0030,000a,0049,006e,0077,002e,0020,0049,0020,0065,006d,002e,0020,0037,0030,002e,0030,0030,000a,0049,006e,0077,002e,0020,0049,0049,0020,0065,006d,002e,0020,0036,0039,002e,0030,0030,000a,004b,006f,006e,0073,006f,006c,002e,0020,0036,0031,002e,0030,0030,000a,0057,0065,0077,006e,002e,0020,0036,0030,002e,0035,0030,000a,0042,0061,006e,006b,0020,0050,006f,006c,0073,006b,0069,0020,0031,0030,0032,002e,0035,0030,0020,0031,0030,0032,002e,0030,0030,000a,0054,0065,006e,0064,0065,006e,0063,006a,0061,0020,0077,0079,0063,007a,0065,006b,0075,006a,0105,0063,0061,002e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"awne poznańskiego ziemstwa","0061,0077,006e,0065,0020,0070,006f,007a,006e,0061,0144,0073,006b,0069,0065,0067,006f,0020,007a,0069,0065,006d,0073,0074,0077,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," m. Warszawy z 1933 ro","0020,006d,002e,0020,0057,0061,0072,0073,007a,0061,0077,0079,0020,007a,0020,0031,0039,0033,0033,0020,0072,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Do","000a,0044,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"yn","0079,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ow","006f,0077","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+k","000a,006b","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ężkie obra-","0119,017c,006b,0069,0065,0020,006f,0062,0072,0061,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"",""," .. ","0020,002e,002e,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ua (Śródmiejska 52), ","0075,0061,0020,0028,015a,0072,00f3,0064,006d,0069,0065,006a,0073,006b,0061,0020,0035,0032,0029,002c,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,",","002c",".","002e","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+ka sąsiedzka. 40-le","000a,006b,0061,0020,0073,0105,0073,0069,0065,0064,007a,006b,0061,002e,0020,0034,0030,002d,006c,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"kiem, ulega","006b,0069,0065,006d,002c,0020,0075,006c,0065,0067,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+województwa łódzkiego","000a,0077,006f,006a,0065,0077,00f3,0064,007a,0074,0077,0061,0020,0142,00f3,0064,007a,006b,0069,0065,0067,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+na 4 tygodnie ","000a,006e,0061,0020,0034,0020,0074,0079,0067,006f,0064,006e,0069,0065,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+za pobi","000a,007a,0061,0020,0070,006f,0062,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Gustawa Aleksandra Jastera na 300","000a,0047,0075,0073,0074,0061,0077,0061,0020,0041,006c,0065,006b,0073,0061,006e,0064,0072,0061,0020,004a,0061,0073,0074,0065,0072,0061,0020,006e,0061,0020,0033,0030,0030","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+wicielami 17 organizacji kupiec","000a,0077,0069,0063,0069,0065,006c,0061,006d,0069,0020,0031,0037,0020,006f,0072,0067,0061,006e,0069,007a,0061,0063,006a,0069,0020,006b,0075,0070,0069,0065,0063","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+nego oraz wdów i sierot po nich w","000a,006e,0065,0067,006f,0020,006f,0072,0061,007a,0020,0077,0064,00f3,0077,0020,0069,0020,0073,0069,0065,0072,006f,0074,0020,0070,006f,0020,006e,0069,0063,0068,0020,0077","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+obecnej chwili znajduje się oraz z","000a,006f,0062,0065,0063,006e,0065,006a,0020,0063,0068,0077,0069,006c,0069,0020,007a,006e,0061,006a,0064,0075,006a,0065,0020,0073,0069,0119,0020,006f,0072,0061,007a,0020,007a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+jednocześnie uprzejmie komunikuje-","000a,006a,0065,0064,006e,006f,0063,007a,0065,015b,006e,0069,0065,0020,0075,0070,0072,007a,0065,006a,006d,0069,0065,0020,006b,006f,006d,0075,006e,0069,006b,0075,006a,0065,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+się z zobowiązań i zmusiło do zwró-","000a,0073,0069,0119,0020,007a,0020,007a,006f,0062,006f,0077,0069,0105,007a,0061,0144,0020,0069,0020,007a,006d,0075,0073,0069,0142,006f,0020,0064,006f,0020,007a,0077,0072,00f3,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+kosztów i proc. z rozłożeniem tak","000a,006b,006f,0073,007a,0074,00f3,0077,0020,0069,0020,0070,0072,006f,0063,002e,0020,007a,0020,0072,006f,007a,0142,006f,017c,0065,006e,0069,0065,006d,0020,0074,0061,006b","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"50.","0035,0030,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"y zas","0079,0020,007a,0061,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," 49, 4 proc. listy","0020,0034,0039,002c,0020,0034,0020,0070,0072,006f,0063,002e,0020,006c,0069,0073,0074,0079","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+listy zastawne","000a,006c,0069,0073,0074,0079,0020,007a,0061,0073,0074,0061,0077,006e,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"",""," 
+Bank Polski 102, Warsz. Tow. Fabr. 
+Cukru 34. Warsz. Tow. Kop. Węgla 28 
+- 28,50, Lilpop 78 — 79, Norblin 92, 
+Starachowice 40 — 40.50, Haberbusch 
+5250 — 53. 
+GIEŁDA ŁÓDZKA 
+Na wczorajszym zebraniu 
+wym w Łodzi nołowano: 
+trans. sprzedaż kupno ","0020,000a,0042,0061,006e,006b,0020,0050,006f,006c,0073,006b,0069,0020,0031,0030,0032,002c,0020,0057,0061,0072,0073,007a,002e,0020,0054,006f,0077,002e,0020,0046,0061,0062,0072,002e,0020,000a,0043,0075,006b,0072,0075,0020,0033,0034,002e,0020,0057,0061,0072,0073,007a,002e,0020,0054,006f,0077,002e,0020,004b,006f,0070,002e,0020,0057,0119,0067,006c,0061,0020,0032,0038,0020,000a,002d,0020,0032,0038,002c,0035,0030,002c,0020,004c,0069,006c,0070,006f,0070,0020,0037,0038,0020,2014,0020,0037,0039,002c,0020,004e,006f,0072,0062,006c,0069,006e,0020,0039,0032,002c,0020,000a,0053,0074,0061,0072,0061,0063,0068,006f,0077,0069,0063,0065,0020,0034,0030,0020,2014,0020,0034,0030,002e,0035,0030,002c,0020,0048,0061,0062,0065,0072,0062,0075,0073,0063,0068,0020,000a,0035,0032,0035,0030,0020,2014,0020,0035,0033,002e,0020,000a,0047,0049,0045,0141,0044,0041,0020,0141,00d3,0044,005a,004b,0041,0020,000a,004e,0061,0020,0077,0063,007a,006f,0072,0061,006a,0073,007a,0079,006d,0020,007a,0065,0062,0072,0061,006e,0069,0075,0020,000a,0077,0079,006d,0020,0077,0020,0141,006f,0064,007a,0069,0020,006e,006f,0142,006f,0077,0061,006e,006f,003a,0020,000a,0074,0072,0061,006e,0073,002e,0020,0073,0070,0072,007a,0065,0064,0061,017c,0020,006b,0075,0070,006e,006f,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," ha","0020,0068,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"w","0077","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"po","0070,006f","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","m","006d","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"f","0066","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ut","0075,0074","od","006f,0064","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"i","0069","t","0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ci","0063,0069","el","0065,006c","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+zły: W. Landa","000a,007a,0142,0079,003a,0020,0057,002e,0020,004c,0061,006e,0064,0061"," 
+zły: W. Landan","0020,000a,007a,0142,0079,003a,0020,0057,002e,0020,004c,0061,006e,0064,0061,006e","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,".","002e","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"nia Frania Bryś zo-","006e,0069,0061,0020,0046,0072,0061,006e,0069,0061,0020,0042,0072,0079,015b,0020,007a,006f,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"t","0074","i","0069","misrecognised","3"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Kronika reporterska","000a,004b,0072,006f,006e,0069,006b,0061,0020,0072,0065,0070,006f,0072,0074,0065,0072,0073,006b,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+I. Ząbkow","000a,0049,002e,0020,005a,0105,0062,006b,006f,0077","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"b","0062","h","0068","misrecognised","4"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"e","0065","c","0063","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"zgłosił na Plac Leonhardta.","007a,0067,0142,006f,0073,0069,0142,0020,006e,0061,0020,0050,006c,0061,0063,0020,004c,0065,006f,006e,0068,0061,0072,0064,0074,0061,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," zamianą na 4 tygodnie","0020,007a,0061,006d,0069,0061,006e,0105,0020,006e,0061,0020,0034,0020,0074,0079,0067,006f,0064,006e,0069,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ezimiennie na uchodźców zł. 5","0065,007a,0069,006d,0069,0065,006e,006e,0069,0065,0020,006e,0061,0020,0075,0063,0068,006f,0064,017a,0063,00f3,0077,0020,007a,0142,002e,0020,0035","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+zacja Łodzi jest wystarczająca,","000a,007a,0061,0063,006a,0061,0020,0141,006f,0064,007a,0069,0020,006a,0065,0073,0074,0020,0077,0079,0073,0074,0061,0072,0063,007a,0061,006a,0105,0063,0061,002c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+pracowników samorządu terytorial","000a,0070,0072,0061,0063,006f,0077,006e,0069,006b,00f3,0077,0020,0073,0061,006d,006f,0072,007a,0105,0064,0075,0020,0074,0065,0072,0079,0074,006f,0072,0069,0061,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Łodzi nadesłało do zarządu miej-","000a,0141,006f,0064,007a,0069,0020,006e,0061,0064,0065,0073,0142,0061,0142,006f,0020,0064,006f,0020,007a,0061,0072,007a,0105,0064,0075,0020,006d,0069,0065,006a,002d"," 
+Łodzi nadesłało do zarządu miej- ","0020,000a,0141,006f,0064,007a,0069,0020,006e,0061,0064,0065,0073,0142,0061,0142,006f,0020,0064,006f,0020,007a,0061,0072,007a,0105,0064,0075,0020,006d,0069,0065,006a,002d,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+w jakiej Naród i Państwo nasze w","000a,0077,0020,006a,0061,006b,0069,0065,006a,0020,004e,0061,0072,00f3,0064,0020,0069,0020,0050,0061,0144,0073,0074,0077,006f,0020,006e,0061,0073,007a,0065,0020,0077","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+uwagi na zwiększoną pracę samo-","000a,0075,0077,0061,0067,0069,0020,006e,0061,0020,007a,0077,0069,0119,006b,0073,007a,006f,006e,0105,0020,0070,0072,0061,0063,0119,0020,0073,0061,006d,006f,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+miejskim w miarę sił fizycznych i","000a,006d,0069,0065,006a,0073,006b,0069,006d,0020,0077,0020,006d,0069,0061,0072,0119,0020,0073,0069,0142,0020,0066,0069,007a,0079,0063,007a,006e,0079,0063,0068,0020,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"e przystąpiliśmy do sporządza-","0065,0020,0070,0072,007a,0079,0073,0074,0105,0070,0069,006c,0069,015b,006d,0079,0020,0064,006f,0020,0073,0070,006f,0072,007a,0105,0064,007a,0061,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+ziach wytwórczości bardziej wyszu-","000a,007a,0069,0061,0063,0068,0020,0077,0079,0074,0077,00f3,0072,0063,007a,006f,015b,0063,0069,0020,0062,0061,0072,0064,007a,0069,0065,006a,0020,0077,0079,0073,007a,0075,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Na spłatę należności wierzycieli","000a,004e,0061,0020,0073,0070,0142,0061,0074,0119,0020,006e,0061,006c,0065,017c,006e,006f,015b,0063,0069,0020,0077,0069,0065,0072,007a,0079,0063,0069,0065,006c,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+raty; I płatna po 9 miesiącach od","000a,0072,0061,0074,0079,003b,0020,0049,0020,0070,0142,0061,0074,006e,0061,0020,0070,006f,0020,0039,0020,006d,0069,0065,0073,0069,0105,0063,0061,0063,0068,0020,006f,0064","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," li-","0020,006c,0069,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"owego seria „L","006f,0077,0065,0067,006f,0020,0073,0065,0072,0069,0061,0020,201e,004c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"proc.","0070,0072,006f,0063,002e","-proc. ","002d,0070,0072,006f,0063,002e,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","",".","002e","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," s","0020,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"d","0064","","","none","3"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","najlepszym 
+do","006e,0061,006a,006c,0065,0070,0073,007a,0079,006d,0020,000a,0064,006f","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"pł","0070,0142","odem jest fakt, że tendencja na 
+r","006f,0064,0065,006d,0020,006a,0065,0073,0074,0020,0066,0061,006b,0074,002c,0020,017c,0065,0020,0074,0065,006e,0064,0065,006e,0063,006a,0061,0020,006e,0061,0020,000a,0072","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ł","0142","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","d znakiem całkowicie utrzyma- 
+di o ooh 4 Aaa 
+nym z odeieniem niejednolitym. 
+Syłuacja ta notowana jest zarówno 
+na giełdzie w Nowym Jorku, jak i na 
+282,808 | giełdach angielskich, w Liverpoolu, a- 
+PFrawo * raz na giełdzie egipskiej w Aleksandrii, 
+Z","0064,0020,007a,006e,0061,006b,0069,0065,006d,0020,0063,0061,0142,006b,006f,0077,0069,0063,0069,0065,0020,0075,0074,0072,007a,0079,006d,0061,002d,0020,000a,0020,0020,000a,0020,0020,000a,0064,0069,0020,006f,0020,006f,006f,0068,0020,0034,0020,0041,0061,0061,0020,000a,006e,0079,006d,0020,007a,0020,006f,0064,0065,0069,0065,006e,0069,0065,006d,0020,006e,0069,0065,006a,0065,0064,006e,006f,006c,0069,0074,0079,006d,002e,0020,000a,0053,0079,0142,0075,0061,0063,006a,0061,0020,0074,0061,0020,006e,006f,0074,006f,0077,0061,006e,0061,0020,006a,0065,0073,0074,0020,007a,0061,0072,00f3,0077,006e,006f,0020,000a,006e,0061,0020,0067,0069,0065,0142,0064,007a,0069,0065,0020,0077,0020,004e,006f,0077,0079,006d,0020,004a,006f,0072,006b,0075,002c,0020,006a,0061,006b,0020,0069,0020,006e,0061,0020,000a,0032,0038,0032,002c,0038,0030,0038,0020,007c,0020,0067,0069,0065,0142,0064,0061,0063,0068,0020,0061,006e,0067,0069,0065,006c,0073,006b,0069,0063,0068,002c,0020,0077,0020,004c,0069,0076,0065,0072,0070,006f,006f,006c,0075,002c,0020,0061,002d,0020,000a,0050,0046,0072,0061,0077,006f,0020,002a,0020,0072,0061,007a,0020,006e,0061,0020,0067,0069,0065,0142,0064,007a,0069,0065,0020,0065,0067,0069,0070,0073,006b,0069,0065,006a,0020,0077,0020,0041,006c,0065,006b,0073,0061,006e,0064,0072,0069,0069,002c,0020,000a,005a","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","s","0073","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"i","0069","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"icza","0069,0063,007a,0061","ej.","0065,006a,002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"L","004c","Ł","0141","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"l","006c","t","0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"a.","0061,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"rzenie","0072,007a,0065,006e,0069,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"l","006c","i","0069","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+","000a"," 
+-","0020,000a,002d","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+zł. grzywny ","000a,007a,0142,002e,0020,0067,0072,007a,0079,0077,006e,0079,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+cen za wyroby masarskie","000a,0063,0065,006e,0020,007a,0061,0020,0077,0079,0072,006f,0062,0079,0020,006d,0061,0073,0061,0072,0073,006b,0069,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+ła się konferencja z przeds","000a,0142,0061,0020,0073,0069,0119,0020,006b,006f,006e,0066,0065,0072,0065,006e,0063,006a,0061,0020,007a,0020,0070,0072,007a,0065,0064,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+padku nie zgodzą się na jaką-","000a,0070,0061,0064,006b,0075,0020,006e,0069,0065,0020,007a,0067,006f,0064,007a,0105,0020,0073,0069,0119,0020,006e,0061,0020,006a,0061,006b,0105,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+ferencji, ludność m. Łodzi nie","000a,0066,0065,0072,0065,006e,0063,006a,0069,002c,0020,006c,0075,0064,006e,006f,015b,0107,0020,006d,002e,0020,0141,006f,0064,007a,0069,0020,006e,0069,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Stowarzyszenie emerytowanych","000a,0053,0074,006f,0077,0061,0072,007a,0079,0073,007a,0065,006e,0069,0065,0020,0065,006d,0065,0072,0079,0074,006f,0077,0061,006e,0079,0063,0068"," 
+Stowarzyszenie emerytowanych ","0020,000a,0053,0074,006f,0077,0061,0072,007a,0079,0073,007a,0065,006e,0069,0065,0020,0065,006d,0065,0072,0079,0074,006f,0077,0061,006e,0079,0063,0068,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"-","002d","›' ","203a,0027,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," związku z poważną sytuacją,","0020,007a,0077,0069,0105,007a,006b,0075,0020,007a,0020,0070,006f,0077,0061,017c,006e,0105,0020,0073,0079,0074,0075,0061,0063,006a,0105,002c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+interesownej pracy w zarządzie","000a,0069,006e,0074,0065,0072,0065,0073,006f,0077,006e,0065,006a,0020,0070,0072,0061,0063,0079,0020,0077,0020,007a,0061,0072,007a,0105,0064,007a,0069,0065"," 
+interesownej pracy w zarządzie ","0020,000a,0069,006e,0074,0065,0072,0065,0073,006f,0077,006e,0065,006a,0020,0070,0072,0061,0063,0079,0020,0077,0020,007a,0061,0072,007a,0105,0064,007a,0069,0065,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+możliwości poszczególnych człon-","000a,006d,006f,017c,006c,0069,0077,006f,015b,0063,0069,0020,0070,006f,0073,007a,0063,007a,0065,0067,00f3,006c,006e,0079,0063,0068,0020,0063,007a,0142,006f,006e,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+my, ","000a,006d,0079,002c,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+ją gotowość dania swej bezpłatnej","000a,006a,0105,0020,0067,006f,0074,006f,0077,006f,015b,0107,0020,0064,0061,006e,0069,0061,0020,0073,0077,0065,006a,0020,0062,0065,007a,0070,0142,0061,0074,006e,0065,006a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+kanej i luksusowej, uniemożliwia","000a,006b,0061,006e,0065,006a,0020,0069,0020,006c,0075,006b,0073,0075,0073,006f,0077,0065,006a,002c,0020,0075,006e,0069,0065,006d,006f,017c,006c,0069,0077,0069,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Bilans na 26 sierpnia zamknięto","000a,0042,0069,006c,0061,006e,0073,0020,006e,0061,0020,0032,0036,0020,0073,0069,0065,0072,0070,006e,0069,0061,0020,007a,0061,006d,006b,006e,0069,0119,0074,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+firma proponuje zredukowaną sumę","000a,0066,0069,0072,006d,0061,0020,0070,0072,006f,0070,006f,006e,0075,006a,0065,0020,007a,0072,0065,0064,0075,006b,006f,0077,0061,006e,0105,0020,0073,0075,006d,0119","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+zredukowanych sum na 4 równe","000a,007a,0072,0065,0064,0075,006b,006f,0077,0061,006e,0079,0063,0068,0020,0073,0075,006d,0020,006e,0061,0020,0034,0020,0072,00f3,0077,006e,0065"," 
+zredukowanych sum na 4 równe ","0020,000a,007a,0072,0065,0064,0075,006b,006f,0077,0061,006e,0079,0063,0068,0020,0073,0075,006d,0020,006e,0061,0020,0034,0020,0072,00f3,0077,006e,0065,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+stępne w kolejnych 6-ciomiesięcz-","000a,0073,0074,0119,0070,006e,0065,0020,0077,0020,006b,006f,006c,0065,006a,006e,0079,0063,0068,0020,0036,002d,0063,0069,006f,006d,0069,0065,0073,0069,0119,0063,007a,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+s","000a,0073","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+kredy","000a,006b,0072,0065,0064,0079","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,""","0022","*","002a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","larówka 35.50 
+Inw. I em. 70.00 
+Inw. II em. 69.00 
+Konsol. 61.00 
+Wewn, 60.50 * 
+Bank Polski 102.50 
+Tendencja wyczekująca. 
+GIEŁDA ZBOŻOWA 
+giełdo- 
+102.00 
+Żyto 13.00 — 13.50 
+Owies I gat. 14.50 — 15.00 
+Owies II gat. 13.753 — 14.35 
+Pszenica 21.50 — 22.00 
+Pszenica zbier. 21.00 — 2150 
+Mąka pszenna 309% 41.00 - 42.00 
+35% 40.00 — 41.00 
+509% 36.00 — 37.00 
+. 65% 35.00 — 36.00 
+raz. 95% 28.25 — 29.25 
+Mąka pszenna II g. 31.50 — 32.50 
+35—85% 30.50 — 31.50 
+50—65% 24.50 — 25.50 
+60-—65% 22.70 — 23.50 
+TIT gat. 21.50 — 22.30 
+Mąka żytnia 30% 25.75 — 96.%5 
+Mąka żytnia 55% 22.75 — 23.35 
+Groch Victoria 37.00 — 40.00 
+Mąka ziemniaczana 
+superior 42.00 — 41.00 
+Otręby pszenne gr. 925 —- 9.50 
+Otręby psz. śr. 92.00 — 925, 
+Otręby żytnie 875 — 9.00 ' 
+Siemie Iniane 43.50 — 43.00 
+Rzepak ozimy 30.50 —-- 51:50 
+Rzepak jary 46.00 — 47.00 
+Gryka 24.50 — 25.00 
+Tendencja","006c,0061,0072,00f3,0077,006b,0061,0020,0033,0035,002e,0035,0030,0020,000a,0049,006e,0077,002e,0020,0049,0020,0065,006d,002e,0020,0037,0030,002e,0030,0030,0020,000a,0049,006e,0077,002e,0020,0049,0049,0020,0065,006d,002e,0020,0036,0039,002e,0030,0030,0020,000a,004b,006f,006e,0073,006f,006c,002e,0020,0036,0031,002e,0030,0030,0020,000a,0057,0065,0077,006e,002c,0020,0036,0030,002e,0035,0030,0020,002a,0020,000a,0042,0061,006e,006b,0020,0050,006f,006c,0073,006b,0069,0020,0031,0030,0032,002e,0035,0030,0020,000a,0054,0065,006e,0064,0065,006e,0063,006a,0061,0020,0077,0079,0063,007a,0065,006b,0075,006a,0105,0063,0061,002e,0020,000a,0047,0049,0045,0141,0044,0041,0020,005a,0042,004f,017b,004f,0057,0041,0020,000a,0067,0069,0065,0142,0064,006f,002d,0020,000a,0031,0030,0032,002e,0030,0030,0020,000a,017b,0079,0074,006f,0020,0031,0033,002e,0030,0030,0020,2014,0020,0031,0033,002e,0035,0030,0020,000a,004f,0077,0069,0065,0073,0020,0049,0020,0067,0061,0074,002e,0020,0031,0034,002e,0035,0030,0020,2014,0020,0031,0035,002e,0030,0030,0020,000a,004f,0077,0069,0065,0073,0020,0049,0049,0020,0067,0061,0074,002e,0020,0031,0033,002e,0037,0035,0033,0020,2014,0020,0031,0034,002e,0033,0035,0020,000a,0050,0073,007a,0065,006e,0069,0063,0061,0020,0032,0031,002e,0035,0030,0020,2014,0020,0032,0032,002e,0030,0030,0020,000a,0050,0073,007a,0065,006e,0069,0063,0061,0020,007a,0062,0069,0065,0072,002e,0020,0032,0031,002e,0030,0030,0020,2014,0020,0032,0031,0035,0030,0020,000a,004d,0105,006b,0061,0020,0070,0073,007a,0065,006e,006e,0061,0020,0033,0030,0039,0025,0020,0034,0031,002e,0030,0030,0020,002d,0020,0034,0032,002e,0030,0030,0020,000a,0033,0035,0025,0020,0034,0030,002e,0030,0030,0020,2014,0020,0034,0031,002e,0030,0030,0020,000a,0035,0030,0039,0025,0020,0033,0036,002e,0030,0030,0020,2014,0020,0033,0037,002e,0030,0030,0020,000a,002e,0020,0036,0035,0025,0020,0033,0035,002e,0030,0030,0020,2014,0020,0033,0036,002e,0030,0030,0020,000a,0072,0061,007a,002e,0020,0039,0035,0025,0020,0032,0038,002e,0032,0035,0020,2014,0020,0032,0039,002e,0032,0035,0020,000a,004d,0105,006b,0061,0020,0070,0073,007a,0065,006e,006e,0061,0020,0049,0049,0020,0067,002e,0020,0033,0031,002e,0035,0030,0020,2014,0020,0033,0032,002e,0035,0030,0020,000a,0033,0035,2014,0038,0035,0025,0020,0033,0030,002e,0035,0030,0020,2014,0020,0033,0031,002e,0035,0030,0020,000a,0035,0030,2014,0036,0035,0025,0020,0032,0034,002e,0035,0030,0020,2014,0020,0032,0035,002e,0035,0030,0020,000a,0036,0030,002d,2014,0036,0035,0025,0020,0032,0032,002e,0037,0030,0020,2014,0020,0032,0033,002e,0035,0030,0020,000a,0054,0049,0054,0020,0067,0061,0074,002e,0020,0032,0031,002e,0035,0030,0020,2014,0020,0032,0032,002e,0033,0030,0020,000a,004d,0105,006b,0061,0020,017c,0079,0074,006e,0069,0061,0020,0033,0030,0025,0020,0032,0035,002e,0037,0035,0020,2014,0020,0039,0036,002e,0025,0035,0020,000a,004d,0105,006b,0061,0020,017c,0079,0074,006e,0069,0061,0020,0035,0035,0025,0020,0032,0032,002e,0037,0035,0020,2014,0020,0032,0033,002e,0033,0035,0020,000a,0047,0072,006f,0063,0068,0020,0056,0069,0063,0074,006f,0072,0069,0061,0020,0033,0037,002e,0030,0030,0020,2014,0020,0034,0030,002e,0030,0030,0020,000a,004d,0105,006b,0061,0020,007a,0069,0065,006d,006e,0069,0061,0063,007a,0061,006e,0061,0020,000a,0073,0075,0070,0065,0072,0069,006f,0072,0020,0034,0032,002e,0030,0030,0020,2014,0020,0034,0031,002e,0030,0030,0020,000a,004f,0074,0072,0119,0062,0079,0020,0070,0073,007a,0065,006e,006e,0065,0020,0067,0072,002e,0020,0039,0032,0035,0020,2014,002d,0020,0039,002e,0035,0030,0020,000a,004f,0074,0072,0119,0062,0079,0020,0070,0073,007a,002e,0020,015b,0072,002e,0020,0039,0032,002e,0030,0030,0020,2014,0020,0039,0032,0035,002c,0020,000a,004f,0074,0072,0119,0062,0079,0020,017c,0079,0074,006e,0069,0065,0020,0038,0037,0035,0020,2014,0020,0039,002e,0030,0030,0020,0027,0020,000a,0053,0069,0065,006d,0069,0065,0020,0049,006e,0069,0061,006e,0065,0020,0034,0033,002e,0035,0030,0020,2014,0020,0034,0033,002e,0030,0030,0020,000a,0052,007a,0065,0070,0061,006b,0020,006f,007a,0069,006d,0079,0020,0033,0030,002e,0035,0030,0020,2014,002d,002d,0020,0035,0031,003a,0035,0030,0020,000a,0052,007a,0065,0070,0061,006b,0020,006a,0061,0072,0079,0020,0034,0036,002e,0030,0030,0020,2014,0020,0034,0037,002e,0030,0030,0020,000a,0047,0072,0079,006b,0061,0020,0032,0034,002e,0035,0030,0020,2014,0020,0032,0035,002e,0030,0030,0020,000a,0054,0065,006e,0064,0065,006e,0063,006a,0061","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ą","0105","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"n","006e","r","0072","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"o","006f","","","none","4"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ę","0119","kach surowej bawe","006b,0061,0063,0068,0020,0073,0075,0072,006f,0077,0065,006a,0020,0062,0061,0077,0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","er za","0065,0072,0020,007a,0061","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"r","0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"6).","0036,0029,002e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","000c","d AAA, 
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"a","0061","","","none","7"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"za","007a,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"nie ","006e,0069,0065,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"z","007a","»","00bb","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+złożone w administracji","000a,007a,0142,006f,017c,006f,006e,0065,0020,0077,0020,0061,0064,006d,0069,006e,0069,0073,0074,0072,0061,0063,006a,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+W zarządzie miejskim od","000a,0057,0020,007a,0061,0072,007a,0105,0064,007a,0069,0065,0020,006d,0069,0065,006a,0073,006b,0069,006d,0020,006f,0064","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"a-","0061,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+aprowizacji. Wiceprezydent ","000a,0061,0070,0072,006f,0077,0069,007a,0061,0063,006a,0069,002e,0020,0057,0069,0063,0065,0070,0072,0065,007a,0079,0064,0065,006e,0074,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+towych i detalicznych oświad-","000a,0074,006f,0077,0079,0063,0068,0020,0069,0020,0064,0065,0074,0061,006c,0069,0063,007a,006e,0079,0063,0068,0020,006f,015b,0077,0069,0061,0064,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+dla których mogła by ona nie-","000a,0064,006c,0061,0020,006b,0074,00f3,0072,0079,0063,0068,0020,006d,006f,0067,0142,0061,0020,0062,0079,0020,006f,006e,0061,0020,006e,0069,0065,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+lepszą odpowiedzią tym, którzy","000a,006c,0065,0070,0073,007a,0105,0020,006f,0064,0070,006f,0077,0069,0065,0064,007a,0069,0105,0020,0074,0079,006d,002c,0020,006b,0074,00f3,0072,007a,0079","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+pującej:","000a,0070,0075,006a,0105,0063,0065,006a,003a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+rządu,","000a,0072,007a,0105,0064,0075,002c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"zarząd zgodnie z uchwałą,
+powziętą na posiedzeniu w dniu 29
+b. m., zgłasza gotowość członków","007a,0061,0072,007a,0105,0064,0020,007a,0067,006f,0064,006e,0069,0065,0020,007a,0020,0075,0063,0068,0077,0061,0142,0105,002c,000a,0070,006f,0077,007a,0069,0119,0074,0105,0020,006e,0061,0020,0070,006f,0073,0069,0065,0064,007a,0065,006e,0069,0075,0020,0077,0020,0064,006e,0069,0075,0020,0032,0039,000a,0062,002e,0020,006d,002e,002c,0020,007a,0067,0142,0061,0073,007a,0061,0020,0067,006f,0074,006f,0077,006f,015b,0107,0020,0063,007a,0142,006f,006e,006b,00f3,0077","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Podając powyższe do wiadomości,","000a,0050,006f,0064,0061,006a,0105,0063,0020,0070,006f,0077,0079,017c,0073,007a,0065,0020,0064,006f,0020,0077,0069,0061,0064,006f,006d,006f,015b,0063,0069,002c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ż","017c","Ż","017b","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","",": ","003a,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+bia i sprzedaje konfekcję męską w","000a,0062,0069,0061,0020,0069,0020,0073,0070,0072,007a,0065,0064,0061,006a,0065,0020,006b,006f,006e,0066,0065,006b,0063,006a,0119,0020,006d,0119,0073,006b,0105,0020,0077","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Ewigkeitowi dalsze wywiązywanie","000a,0045,0077,0069,0067,006b,0065,0069,0074,006f,0077,0069,0020,0064,0061,006c,0073,007a,0065,0020,0077,0079,0077,0069,0105,007a,0079,0077,0061,006e,0069,0065"," 
+Ewigkeitowi dalsze wywiązywanie ","0020,000a,0045,0077,0069,0067,006b,0065,0069,0074,006f,0077,0069,0020,0064,0061,006c,0073,007a,0065,0020,0077,0079,0077,0069,0105,007a,0079,0077,0061,006e,0069,0065,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+nie przedsiębiorstwa.","000a,006e,0069,0065,0020,0070,0072,007a,0065,0064,0073,0069,0119,0062,0069,006f,0072,0073,0074,0077,0061,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+w stanie czynnym sumą zł. 40,55","000a,0077,0020,0073,0074,0061,006e,0069,0065,0020,0063,007a,0079,006e,006e,0079,006d,0020,0073,0075,006d,0105,0020,007a,0142,002e,0020,0034,0030,002c,0035,0035","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"",""," 
+oi d in dh sR cn A AE A m Jii ","0020,000a,0020,0020,000a,006f,0069,0020,0064,0020,0069,006e,0020,0064,0068,0020,0073,0052,0020,0063,006e,0020,0041,0020,0041,0045,0020,0041,0020,006d,0020,004a,0069,0069,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+długów do wysokości 50 proc. ich","000a,0064,0142,0075,0067,00f3,0077,0020,0064,006f,0020,0077,0079,0073,006f,006b,006f,015b,0063,0069,0020,0035,0030,0020,0070,0072,006f,0063,002e,0020,0069,0063,0068","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+uprawomocnienia s","000a,0075,0070,0072,0061,0077,006f,006d,006f,0063,006e,0069,0065,006e,0069,0061,0020,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+(Piotrkowska 59), korzystającej z","000a,0028,0050,0069,006f,0074,0072,006b,006f,0077,0073,006b,0061,0020,0035,0039,0029,002c,0020,006b,006f,0072,007a,0079,0073,0074,0061,006a,0105,0063,0065,006a,0020,007a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","pokojna 
+Ogólny obrót: 967 tomn. 
+NOTOWANIA BAWEŁNY 
+Wskutek zaburzeń atmosferycznych 
+notowań bawełny wczoraj nie otrzyma 
+liśmy. 
+P. K. O. w Palestynie 
+wypłaca wkłady 
+W. dniu wczorajszym ponow- 
+nie otwarfo banki w Palestynie, 
+które były zaniknięte przez trzy 
+dni. 
+Banki większe, jak Barclay. 
+Bank P. K. O. i Angio-Palestine 
+|Bank wypłacaj","0070,006f,006b,006f,006a,006e,0061,0020,000a,004f,0067,00f3,006c,006e,0079,0020,006f,0062,0072,00f3,0074,003a,0020,0039,0036,0037,0020,0074,006f,006d,006e,002e,0020,000a,004e,004f,0054,004f,0057,0041,004e,0049,0041,0020,0042,0041,0057,0045,0141,004e,0059,0020,000a,0057,0073,006b,0075,0074,0065,006b,0020,007a,0061,0062,0075,0072,007a,0065,0144,0020,0061,0074,006d,006f,0073,0066,0065,0072,0079,0063,007a,006e,0079,0063,0068,0020,000a,006e,006f,0074,006f,0077,0061,0144,0020,0062,0061,0077,0065,0142,006e,0079,0020,0077,0063,007a,006f,0072,0061,006a,0020,006e,0069,0065,0020,006f,0074,0072,007a,0079,006d,0061,0020,000a,006c,0069,015b,006d,0079,002e,0020,000a,0050,002e,0020,004b,002e,0020,004f,002e,0020,0077,0020,0050,0061,006c,0065,0073,0074,0079,006e,0069,0065,0020,000a,0077,0079,0070,0142,0061,0063,0061,0020,0077,006b,0142,0061,0064,0079,0020,000a,0057,002e,0020,0064,006e,0069,0075,0020,0077,0063,007a,006f,0072,0061,006a,0073,007a,0079,006d,0020,0070,006f,006e,006f,0077,002d,0020,000a,006e,0069,0065,0020,006f,0074,0077,0061,0072,0066,006f,0020,0062,0061,006e,006b,0069,0020,0077,0020,0050,0061,006c,0065,0073,0074,0079,006e,0069,0065,002c,0020,000a,006b,0074,00f3,0072,0065,0020,0062,0079,0142,0079,0020,007a,0061,006e,0069,006b,006e,0069,0119,0074,0065,0020,0070,0072,007a,0065,007a,0020,0074,0072,007a,0079,0020,000a,0064,006e,0069,002e,0020,000a,0042,0061,006e,006b,0069,0020,0077,0069,0119,006b,0073,007a,0065,002c,0020,006a,0061,006b,0020,0042,0061,0072,0063,006c,0061,0079,002e,0020,000a,0042,0061,006e,006b,0020,0050,002e,0020,004b,002e,0020,004f,002e,0020,0069,0020,0041,006e,0067,0069,006f,002d,0050,0061,006c,0065,0073,0074,0069,006e,0065,0020,000a,007c,0042,0061,006e,006b,0020,0077,0079,0070,0142,0061,0063,0061,006a","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"l","006c","z","007a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"w","0077"," słabo, cz","0020,0073,0142,0061,0062,006f,002c,0020,0063,007a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","ny n","006e,0079,0020,006e","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+","000a","towana 
+jest ","0074,006f,0077,0061,006e,0061,0020,000a,006a,0065,0073,0074,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","nte","006e,0074,0065","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"m","006d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+","000a"," 
+W kolonii Ołechów, gm. Wiskitno, 
+pow. łódzkiego wybuchł pożar w ","0020,000a,0057,0020,006b,006f,006c,006f,006e,0069,0069,0020,004f,0142,0065,0063,0068,00f3,0077,002c,0020,0067,006d,002e,0020,0057,0069,0073,006b,0069,0074,006e,006f,002c,0020,000a,0070,006f,0077,002e,0020,0142,00f3,0064,007a,006b,0069,0065,0067,006f,0020,0077,0079,0062,0075,0063,0068,0142,0020,0070,006f,017c,0061,0072,0020,0077,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"at","0061,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," do","0020,0064,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ie u","0069,0065,0020,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Ofiary","000a,004f,0066,0069,0061,0072,0079","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+„Głosu Porannego"","000a,201e,0047,0142,006f,0073,0075,0020,0050,006f,0072,0061,006e,006e,0065,0067,006f,0022","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," na FON zł 5.","0020,006e,0061,0020,0046,004f,004e,0020,007a,0142,0020,0035,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"y-","0079,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"h i zawodowych w sprawie","0068,0020,0069,0020,007a,0061,0077,006f,0064,006f,0077,0079,0063,0068,0020,0077,0020,0073,0070,0072,0061,0077,0069,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+nym, że władze w żadnym wy-","000a,006e,0079,006d,002c,0020,017c,0065,0020,0077,0142,0061,0064,007a,0065,0020,0077,0020,017c,0061,0064,006e,0079,006d,0020,0077,0079,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+kolwiek zwyżkę cen i nie do-","000a,006b,006f,006c,0077,0069,0065,006b,0020,007a,0077,0079,017c,006b,0119,0020,0063,0065,006e,0020,0069,0020,006e,0069,0065,0020,0064,006f,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+czyli ze swej strony, ","000a,0063,007a,0079,006c,0069,0020,007a,0065,0020,0073,0077,0065,006a,0020,0073,0074,0072,006f,006e,0079,002c,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+że nie ma żadnych powodów,","000a,017c,0065,0020,006e,0069,0065,0020,006d,0061,0020,017c,0061,0064,006e,0079,0063,0068,0020,0070,006f,0077,006f,0064,00f3,0077,002c"," 
+że nie ma żadnych powodów, ","0020,000a,017c,0065,0020,006e,0069,0065,0020,006d,0061,0020,017c,0061,0064,006e,0079,0063,0068,0020,0070,006f,0077,006f,0064,00f3,0077,002c,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Jak wynika z przebiegu kon-","000a,004a,0061,006b,0020,0077,0079,006e,0069,006b,0061,0020,007a,0020,0070,0072,007a,0065,0062,0069,0065,0067,0075,0020,006b,006f,006e,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+w tych trudnych dla nas chwi-","000a,0077,0020,0074,0079,0063,0068,0020,0074,0072,0075,0064,006e,0079,0063,0068,0020,0064,006c,0061,0020,006e,0061,0073,0020,0063,0068,0077,0069,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+miasta, aby móc w tej gorączce","000a,006d,0069,0061,0073,0074,0061,002c,0020,0061,0062,0079,0020,006d,00f3,0063,0020,0077,0020,0074,0065,006a,0020,0067,006f,0072,0105,0063,007a,0063,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+„W","000a,201e,0057"," , 
+„W.","0020,002c,0020,000a,201e,0057,002e","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+ków stowarzyszenia.","000a,006b,00f3,0077,0020,0073,0074,006f,0077,0061,0072,007a,0079,0073,007a,0065,006e,0069,0061,002e"," 
+ków stowarzyszenia. ","0020,000a,006b,00f3,0077,0020,0073,0074,006f,0077,0061,0072,007a,0079,0073,007a,0065,006e,0069,0061,002e,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+również przyczynić się do stosun","000a,0072,00f3,0077,006e,0069,0065,017c,0020,0070,0072,007a,0079,0063,007a,0079,006e,0069,0107,0020,0073,0069,0119,0020,0064,006f,0020,0073,0074,006f,0073,0075,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+kapitale i osobistej pracy Szmula","000a,006b,0061,0070,0069,0074,0061,006c,0065,0020,0069,0020,006f,0073,006f,0062,0069,0073,0074,0065,006a,0020,0070,0072,0061,0063,0079,0020,0053,007a,006d,0075,006c,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"-","002d",". ","002e,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"",""," 
+własnym 
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+nominalnej wysokości, t. j. bez","000a,006e,006f,006d,0069,006e,0061,006c,006e,0065,006a,0020,0077,0079,0073,006f,006b,006f,015b,0063,0069,002c,0020,0074,002e,0020,006a,002e,0020,0062,0065,007a"," 
+nominalnej wysokości, t. j. bez ","0020,000a,006e,006f,006d,0069,006e,0061,006c,006e,0065,006a,0020,0077,0079,0073,006f,006b,006f,015b,0063,0069,002c,0020,0074,002e,0020,006a,002e,0020,0062,0065,007a,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"du, na-","0064,0075,002c,0020,006e,0061,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+twierdzenie układu firmy","000a,0074,0077,0069,0065,0072,0064,007a,0065,006e,0069,0065,0020,0075,006b,0142,0061,0064,0075,0020,0066,0069,0072,006d,0079","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+otwarcia postępowania układowego.","000a,006f,0074,0077,0061,0072,0063,0069,0061,0020,0070,006f,0073,0074,0119,0070,006f,0077,0061,006e,0069,0061,0020,0075,006b,0142,0061,0064,006f,0077,0065,0067,006f,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"",""," zgłaszającym 
+się ","0020,007a,0067,0142,0061,0073,007a,0061,006a,0105,0063,0079,006d,0020,000a,0073,0069,0119,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"u","0075","owolne kwoty, banki mniej- 
+sze — tylko do 15 proc. depozy- 
+tów. '* 
+Rynki bawełny 
+czekają na decyzje 
+Pomimo niewyjaśnionej sytuacji mię 
+dzynarodowej, giełdy bawełniane rea- 
+gują","006f,0077,006f,006c,006e,0065,0020,006b,0077,006f,0074,0079,002c,0020,0062,0061,006e,006b,0069,0020,006d,006e,0069,0065,006a,002d,0020,000a,0073,007a,0065,0020,2014,0020,0074,0079,006c,006b,006f,0020,0064,006f,0020,0031,0035,0020,0070,0072,006f,0063,002e,0020,0064,0065,0070,006f,007a,0079,002d,0020,000a,0074,00f3,0077,002e,0020,0027,002a,0020,000a,0052,0079,006e,006b,0069,0020,0062,0061,0077,0065,0142,006e,0079,0020,000a,0063,007a,0065,006b,0061,006a,0105,0020,006e,0061,0020,0064,0065,0063,0079,007a,006a,0065,0020,000a,0050,006f,006d,0069,006d,006f,0020,006e,0069,0065,0077,0079,006a,0061,015b,006e,0069,006f,006e,0065,006a,0020,0073,0079,0074,0075,0061,0063,006a,0069,0020,006d,0069,0119,0020,000a,0064,007a,0079,006e,0061,0072,006f,0064,006f,0077,0065,006a,002c,0020,0067,0069,0065,0142,0064,0079,0020,0062,0061,0077,0065,0142,006e,0069,0061,006e,0065,0020,0072,0065,0061,002d,0020,000a,0067,0075,006a,0105","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","esowanych, wię- 
+kszych wahań należy oczekiwać w 
+chwili poważniejszych rosstrzygnięć 
+syłuacji ","0065,0073,006f,0077,0061,006e,0079,0063,0068,002c,0020,0077,0069,0119,002d,0020,000a,006b,0073,007a,0079,0063,0068,0020,0077,0061,0068,0061,0144,0020,006e,0061,006c,0065,017c,0079,0020,006f,0063,007a,0065,006b,0069,0077,0061,0107,0020,0077,0020,000a,0063,0068,0077,0069,006c,0069,0020,0070,006f,0077,0061,017c,006e,0069,0065,006a,0073,007a,0079,0063,0068,0020,0072,006f,0073,0073,0074,0072,007a,0079,0067,006e,0069,0119,0107,0020,000a,0073,0079,0142,0075,0061,0063,006a,0069,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"y","0079","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","y wynoszą 
+5000 zł. Wdrożone dochodzenie ustali- 
+ło, że pożar powstał wskutłek podnale- 
+nia. Istnieje podej","0079,0020,0077,0079,006e,006f,0073,007a,0105,0020,000a,0035,0030,0030,0030,0020,007a,0142,002e,0020,0057,0064,0072,006f,017c,006f,006e,0065,0020,0064,006f,0063,0068,006f,0064,007a,0065,006e,0069,0065,0020,0075,0073,0074,0061,006c,0069,002d,0020,000a,0142,006f,002c,0020,017c,0065,0020,0070,006f,017c,0061,0072,0020,0070,006f,0077,0073,0074,0061,0142,0020,0077,0073,006b,0075,0074,0142,0065,006b,0020,0070,006f,0064,006e,0061,006c,0065,002d,0020,000a,006e,0069,0061,002e,0020,0049,0073,0074,006e,0069,0065,006a,0065,0020,0070,006f,0064,0065,006a","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"od","006f,0064","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ska","0073,006b,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," n","0020,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ał","0061,0142","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," (","0020,0028","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Na FON:","000a,004e,0061,0020,0046,004f,004e,003a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+ki","000a,006b,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+WALCZAK oświadczył zebr","000a,0057,0041,004c,0043,005a,0041,004b,0020,006f,015b,0077,0069,0061,0064,0063,007a,0079,0142,0020,007a,0065,0062,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+zakłóceń w aprowidowaniu mia","000a,007a,0061,006b,0142,00f3,0063,0065,0144,0020,0077,0020,0061,0070,0072,006f,0077,0069,0064,006f,0077,0061,006e,0069,0075,0020,006d,0069,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"e aprowi-","0065,0020,0061,0070,0072,006f,0077,0069,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+domagać.","000a,0064,006f,006d,0061,0067,0061,0107,002e"," 
+domagać. x ","0020,000a,0064,006f,006d,0061,0067,0061,0107,002e,0020,0078,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+ma powodu do jakiegokolwiek","000a,006d,0061,0020,0070,006f,0077,006f,0064,0075,0020,0064,006f,0020,006a,0061,006b,0069,0065,0067,006f,006b,006f,006c,0077,0069,0065,006b","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+stopniowe uzupełnianie swoich","000a,0073,0074,006f,0070,006e,0069,006f,0077,0065,0020,0075,007a,0075,0070,0065,0142,006e,0069,0061,006e,0069,0065,0020,0073,0077,006f,0069,0063,0068","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+dążą do wytworzenia paniczne-","000a,0064,0105,017c,0105,0020,0064,006f,0020,0077,0079,0074,0077,006f,0072,007a,0065,006e,0069,0061,0020,0070,0061,006e,0069,0063,007a,006e,0065,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+ców należności za pracę zwłasz","000a,0063,00f3,0077,0020,006e,0061,006c,0065,017c,006e,006f,015b,0063,0069,0020,007a,0061,0020,0070,0072,0061,0063,0119,0020,007a,0077,0142,0061,0073,007a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+szerzonej działalności kredyto-","000a,0073,007a,0065,0072,007a,006f,006e,0065,006a,0020,0064,007a,0069,0061,0142,0061,006c,006e,006f,015b,0063,0069,0020,006b,0072,0065,0064,0079,0074,006f,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+zwyżkę, gdyż rynek nasz cechuje","000a,007a,0077,0079,017c,006b,0119,002c,0020,0067,0064,0079,017c,0020,0072,0079,006e,0065,006b,0020,006e,0061,0073,007a,0020,0063,0065,0063,0068,0075,006a,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Przedsiębiorstwo prowadzone jest","000a,0050,0072,007a,0065,0064,0073,0069,0119,0062,0069,006f,0072,0073,0074,0077,006f,0020,0070,0072,006f,0077,0061,0064,007a,006f,006e,0065,0020,006a,0065,0073,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Ewigkeita — rzemieślnika i kupca.","000a,0045,0077,0069,0067,006b,0065,0069,0074,0061,0020,2014,0020,0072,007a,0065,006d,0069,0065,015b,006c,006e,0069,006b,0061,0020,0069,0020,006b,0075,0070,0063,0061,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"0","0030","9","0039","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ę uk","0119,0020,0075,006b","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Sąd handlowy rozpozn","000a,0053,0105,0064,0020,0068,0061,006e,0064,006c,006f,0077,0079,0020,0072,006f,007a,0070,006f,007a,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+„ABRAM MORDKA GRAJWER,","000a,201e,0041,0042,0052,0041,004d,0020,004d,004f,0052,0044,004b,0041,0020,0047,0052,0041,004a,0057,0045,0052,002c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+odsetek i kosztów w 4 równych ra-","000a,006f,0064,0073,0065,0074,0065,006b,0020,0069,0020,006b,006f,0073,007a,0074,00f3,0077,0020,0077,0020,0034,0020,0072,00f3,0077,006e,0079,0063,0068,0020,0072,0061,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","iędz","0069,0119,0064,007a","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+„MAGAZYN 1 ZAKŁAD KRA-
+WIECKI SZMUL EWIGKEIT"
+(N","000a,201e,004d,0041,0047,0041,005a,0059,004e,0020,0031,0020,005a,0041,004b,0141,0041,0044,0020,004b,0052,0041,002d,000a,0057,0049,0045,0043,004b,0049,0020,0053,005a,004d,0055,004c,0020,0045,0057,0049,0047,004b,0045,0049,0054,0022,000a,0028,004e","n","006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","gr","0067,0072","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"p","0070"," 
+dzie Rudolfa Morgentałera. Zagroda 
+spłonęła doszczętnie. Str","0020,000a,0064,007a,0069,0065,0020,0052,0075,0064,006f,006c,0066,0061,0020,004d,006f,0072,0067,0065,006e,0074,0061,0142,0065,0072,0061,002e,0020,005a,0061,0067,0072,006f,0064,0061,0020,000a,0073,0070,0142,006f,006e,0119,0142,0061,0020,0064,006f,0073,007a,0063,007a,0119,0074,006e,0069,0065,002e,0020,0053,0074,0072","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ni","006e,0069","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"się","0073,0069,0119","mogą być","006d,006f,0067,0105,0020,0062,0079,0107","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ra","0072,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"c","0063","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"I)","0049,0029","h ","0068,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"B","0042","R","0052","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,".","002e",", ","002c,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"i","0069","1","0031","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"—.","2014,002e","-—. ","002d,2014,002e,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"",""," 
+Pracownicy firmy „Paolesie” 
+zł. 30.50, Komendant bloku nr. 704 
+zł. 5 — 
+Rozkaz do milicii 
+Niniejszym wzywa się wszystkich za 
+rejestrowanych członków b. milicji o- 
+hywatełskiej do stawienia się dziś, w 
+piątek, dnia 1 września, na godz. 18 
+na terytorium II oddziału straży ognio 
+wej przy ulicy 11 Listopada 4, celem 
+ostemplowania wydanych opasek. 
+Komitet organizacyjny członków 
+b. Milicji Obywatelskiej m. Łodzi 
+z roku 1914. 
+Dziś 
+ę powfsinenie 
+P. 4. 6. 8. 10 premiery ! 
+PAULETTE GODDARD 
+JANET GAYNOR 
+DOUGLAS FAIRBANKS jr. 
+w przebojowym filmie 
+Ceny miejsc 
+na wszystkie 
+seanse — od 
+z yenagm 
+n ziom, kształtując 
+obrotów gospodarczych, co wpły 
+|'ściowych naszej placówki emisyj 
+? .nej oraz podjęcie przez nią roz- 
+* 
+Rp nyryo w 
+RA PYr ypraNE 
+1. IX. — GŁOS PORANNY — 1939. 
+zaopatrzeniem 
+W Domu - Pomniku im Mar- 
+szałka Piłsudskiego odbyło 'się' 
+pod przewodniciwem senatora j 
+Fichny , zebranie przedstawicie-' 
+li organizacji zrzeszonychw Fe- 
+'deracji PZOO. 
+Po omówieniu sytuacji ogól- 
+F 
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"c","0063","e","0065","misrecognised","3"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"A.","0041,002e","'A. ","0027,0041,002e,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"a-","0061,002d","ąa- ","0105,0061,002d,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+puszczą do najsłabszyc","000a,0070,0075,0073,007a,0063,007a,0105,0020,0064,006f,0020,006e,0061,006a,0073,0142,0061,0062,0073,007a,0079,0063","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+sta. Wobec opornych stosować","000a,0073,0074,0061,002e,0020,0057,006f,0062,0065,0063,0020,006f,0070,006f,0072,006e,0079,0063,0068,0020,0073,0074,006f,0073,006f,0077,0061,0107","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"z","007a","Ż","017b","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"i. Spokojna postawa ludności","0069,002e,0020,0053,0070,006f,006b,006f,006a,006e,0061,0020,0070,006f,0073,0074,0061,0077,0061,0020,006c,0075,0064,006e,006f,015b,0063,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+lach w zaprowiantowan","000a,006c,0061,0063,0068,0020,0077,0020,007a,0061,0070,0072,006f,0077,0069,0061,006e,0074,006f,0077,0061,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+zapasów żelaznych ","000a,007a,0061,0070,0061,0073,00f3,0077,0020,017c,0065,006c,0061,007a,006e,0079,0063,0068,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+powrócił","000a,0070,006f,0077,0072,00f3,0063,0069,0142"," 
+L 
+powrócił 
+"yyniny 
+Dal 
+W naszym wczorajszym spra- 
+wozdaniu giełdowym, zwróciliś- 
+my uwagę na niezwykłe ożywie- 
+„ale, zaobserwowane na giełdzie. 
+Według wiadomości, jakie na 
+deszły wczoraj z zagranicy, oka- 
+zuje się, iż również giełda lon- 
+dyńska zareagowała na rozgry- 
+wające się wypadki — zwyżko- 
+wo. Reakcja największej giełdy 
+świata -- zdaniem kół facho- 
+wych — wypływa z dwu przy- 
+czyn: 1) Londyn wierzy w poko- 
+jowe rozwiązanie konfliktu oraz 
+2) wskutek porzucenia interwen 
+cji kursu funta ze strony fundu- 
+szu wyrównawczego i podniesie- 
+nia stopy procentowej, spekula- 
+cja zrezygnowała z gry na zniż- 
+l_:ę funta, a kapitały nie uciekają 
+już zagranicę. 
+Kursy minimalne na papiery 
+państwowe, wyznaczone przez 
+rząd angielski, okazały się wczo- 
+raj za niskie. Wszystkie papiery 
+znacznie przekroczyły ten po- 
+się w grani- 
+cach mniej więcej zadawalają- 
+cych. , 
+Sfery .gospodarcze polskie z 
+prawdziwym uznaniem przyjęły 
+ogłoszenie przepisów przejścio- 
+wych naszej instytucji emisyjnej. 
+Z przepisów tych wynika bo- 
+wiem, iż nasz bank emisyjny 
+weźmie znacznie większy niż do- 
+tychczas udział w finansowaniu 
+nie dodatnio na kształtowanie 
+się Kkoniunktury. ' 
+Ogłoszenie przepisów przej- 
+Wiadomości hancdlowe 
+sza zwyżk 
+Elarakx FPPolsici zwieększy 
+rodzin rezerwistów, zaciągniętych 
+nej. powzięło uchwaię w spra- 
+wię wszczęcia i prowadzenia 
+akcji, zmierzającej do zabezpie 
+czenia rodzin rezerwistów, po- 
+wołanych do wojska. Odnośnc 
+instrukcje zostały wydane po- 
+szczególnym związkom. Akcja 
+fiiasio jesi i kędzie normalnie ","0020,000a,004c,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,0020,000a,0020,0020,0020,000a,0020,0020,000a,0070,006f,0077,0072,00f3,0063,0069,0142,0020,000a,0022,0079,0079,006e,0069,006e,0079,0020,000a,0044,0061,006c,0020,000a,0020,0020,000a,0020,0020,000a,0057,0020,006e,0061,0073,007a,0079,006d,0020,0077,0063,007a,006f,0072,0061,006a,0073,007a,0079,006d,0020,0073,0070,0072,0061,002d,0020,000a,0077,006f,007a,0064,0061,006e,0069,0075,0020,0067,0069,0065,0142,0064,006f,0077,0079,006d,002c,0020,007a,0077,0072,00f3,0063,0069,006c,0069,015b,002d,0020,000a,006d,0079,0020,0075,0077,0061,0067,0119,0020,006e,0061,0020,006e,0069,0065,007a,0077,0079,006b,0142,0065,0020,006f,017c,0079,0077,0069,0065,002d,0020,000a,201e,0061,006c,0065,002c,0020,007a,0061,006f,0062,0073,0065,0072,0077,006f,0077,0061,006e,0065,0020,006e,0061,0020,0067,0069,0065,0142,0064,007a,0069,0065,002e,0020,000a,0057,0065,0064,0142,0075,0067,0020,0077,0069,0061,0064,006f,006d,006f,015b,0063,0069,002c,0020,006a,0061,006b,0069,0065,0020,006e,0061,0020,000a,0064,0065,0073,007a,0142,0079,0020,0077,0063,007a,006f,0072,0061,006a,0020,007a,0020,007a,0061,0067,0072,0061,006e,0069,0063,0079,002c,0020,006f,006b,0061,002d,0020,000a,007a,0075,006a,0065,0020,0073,0069,0119,002c,0020,0069,017c,0020,0072,00f3,0077,006e,0069,0065,017c,0020,0067,0069,0065,0142,0064,0061,0020,006c,006f,006e,002d,0020,000a,0064,0079,0144,0073,006b,0061,0020,007a,0061,0072,0065,0061,0067,006f,0077,0061,0142,0061,0020,006e,0061,0020,0072,006f,007a,0067,0072,0079,002d,0020,000a,0077,0061,006a,0105,0063,0065,0020,0073,0069,0119,0020,0077,0079,0070,0061,0064,006b,0069,0020,2014,0020,007a,0077,0079,017c,006b,006f,002d,0020,000a,0077,006f,002e,0020,0052,0065,0061,006b,0063,006a,0061,0020,006e,0061,006a,0077,0069,0119,006b,0073,007a,0065,006a,0020,0067,0069,0065,0142,0064,0079,0020,000a,015b,0077,0069,0061,0074,0061,0020,002d,002d,0020,007a,0064,0061,006e,0069,0065,006d,0020,006b,00f3,0142,0020,0066,0061,0063,0068,006f,002d,0020,000a,0077,0079,0063,0068,0020,2014,0020,0077,0079,0070,0142,0079,0077,0061,0020,007a,0020,0064,0077,0075,0020,0070,0072,007a,0079,002d,0020,000a,0063,007a,0079,006e,003a,0020,0031,0029,0020,004c,006f,006e,0064,0079,006e,0020,0077,0069,0065,0072,007a,0079,0020,0077,0020,0070,006f,006b,006f,002d,0020,000a,006a,006f,0077,0065,0020,0072,006f,007a,0077,0069,0105,007a,0061,006e,0069,0065,0020,006b,006f,006e,0066,006c,0069,006b,0074,0075,0020,006f,0072,0061,007a,0020,000a,0032,0029,0020,0077,0073,006b,0075,0074,0065,006b,0020,0070,006f,0072,007a,0075,0063,0065,006e,0069,0061,0020,0069,006e,0074,0065,0072,0077,0065,006e,0020,000a,0063,006a,0069,0020,006b,0075,0072,0073,0075,0020,0066,0075,006e,0074,0061,0020,007a,0065,0020,0073,0074,0072,006f,006e,0079,0020,0066,0075,006e,0064,0075,002d,0020,000a,0073,007a,0075,0020,0077,0079,0072,00f3,0077,006e,0061,0077,0063,007a,0065,0067,006f,0020,0069,0020,0070,006f,0064,006e,0069,0065,0073,0069,0065,002d,0020,000a,006e,0069,0061,0020,0073,0074,006f,0070,0079,0020,0070,0072,006f,0063,0065,006e,0074,006f,0077,0065,006a,002c,0020,0073,0070,0065,006b,0075,006c,0061,002d,0020,000a,0063,006a,0061,0020,007a,0072,0065,007a,0079,0067,006e,006f,0077,0061,0142,0061,0020,007a,0020,0067,0072,0079,0020,006e,0061,0020,007a,006e,0069,017c,002d,0020,000a,006c,005f,003a,0119,0020,0066,0075,006e,0074,0061,002c,0020,0061,0020,006b,0061,0070,0069,0074,0061,0142,0079,0020,006e,0069,0065,0020,0075,0063,0069,0065,006b,0061,006a,0105,0020,000a,006a,0075,017c,0020,007a,0061,0067,0072,0061,006e,0069,0063,0119,002e,0020,000a,004b,0075,0072,0073,0079,0020,006d,0069,006e,0069,006d,0061,006c,006e,0065,0020,006e,0061,0020,0070,0061,0070,0069,0065,0072,0079,0020,000a,0070,0061,0144,0073,0074,0077,006f,0077,0065,002c,0020,0077,0079,007a,006e,0061,0063,007a,006f,006e,0065,0020,0070,0072,007a,0065,007a,0020,000a,0072,007a,0105,0064,0020,0061,006e,0067,0069,0065,006c,0073,006b,0069,002c,0020,006f,006b,0061,007a,0061,0142,0079,0020,0073,0069,0119,0020,0077,0063,007a,006f,002d,0020,000a,0072,0061,006a,0020,007a,0061,0020,006e,0069,0073,006b,0069,0065,002e,0020,0057,0073,007a,0079,0073,0074,006b,0069,0065,0020,0070,0061,0070,0069,0065,0072,0079,0020,000a,007a,006e,0061,0063,007a,006e,0069,0065,0020,0070,0072,007a,0065,006b,0072,006f,0063,007a,0079,0142,0079,0020,0074,0065,006e,0020,0070,006f,002d,0020,000a,0073,0069,0119,0020,0077,0020,0067,0072,0061,006e,0069,002d,0020,000a,0063,0061,0063,0068,0020,006d,006e,0069,0065,006a,0020,0077,0069,0119,0063,0065,006a,0020,007a,0061,0064,0061,0077,0061,006c,0061,006a,0105,002d,0020,000a,0063,0079,0063,0068,002e,0020,002c,0020,000a,0053,0066,0065,0072,0079,0020,002e,0067,006f,0073,0070,006f,0064,0061,0072,0063,007a,0065,0020,0070,006f,006c,0073,006b,0069,0065,0020,007a,0020,000a,0070,0072,0061,0077,0064,007a,0069,0077,0079,006d,0020,0075,007a,006e,0061,006e,0069,0065,006d,0020,0070,0072,007a,0079,006a,0119,0142,0079,0020,000a,006f,0067,0142,006f,0073,007a,0065,006e,0069,0065,0020,0070,0072,007a,0065,0070,0069,0073,00f3,0077,0020,0070,0072,007a,0065,006a,015b,0063,0069,006f,002d,0020,000a,0077,0079,0063,0068,0020,006e,0061,0073,007a,0065,006a,0020,0069,006e,0073,0074,0079,0074,0075,0063,006a,0069,0020,0065,006d,0069,0073,0079,006a,006e,0065,006a,002e,0020,000a,005a,0020,0070,0072,007a,0065,0070,0069,0073,00f3,0077,0020,0074,0079,0063,0068,0020,0077,0079,006e,0069,006b,0061,0020,0062,006f,002d,0020,000a,0077,0069,0065,006d,002c,0020,0069,017c,0020,006e,0061,0073,007a,0020,0062,0061,006e,006b,0020,0065,006d,0069,0073,0079,006a,006e,0079,0020,000a,0077,0065,017a,006d,0069,0065,0020,007a,006e,0061,0063,007a,006e,0069,0065,0020,0077,0069,0119,006b,0073,007a,0079,0020,006e,0069,017c,0020,0064,006f,002d,0020,000a,0074,0079,0063,0068,0063,007a,0061,0073,0020,0075,0064,007a,0069,0061,0142,0020,0077,0020,0066,0069,006e,0061,006e,0073,006f,0077,0061,006e,0069,0075,0020,000a,006e,0069,0065,0020,0064,006f,0064,0061,0074,006e,0069,006f,0020,006e,0061,0020,006b,0073,007a,0074,0061,0142,0074,006f,0077,0061,006e,0069,0065,0020,000a,0073,0069,0119,0020,004b,006b,006f,006e,0069,0075,006e,006b,0074,0075,0072,0079,002e,0020,0027,0020,000a,004f,0067,0142,006f,0073,007a,0065,006e,0069,0065,0020,0070,0072,007a,0065,0070,0069,0073,00f3,0077,0020,0070,0072,007a,0065,006a,002d,0020,000a,0020,0020,000a,0057,0069,0061,0064,006f,006d,006f,015b,0063,0069,0020,0068,0061,006e,0063,0064,006c,006f,0077,0065,0020,000a,0073,007a,0061,0020,007a,0077,0079,017c,006b,0020,000a,0045,006c,0061,0072,0061,006b,0078,0020,0046,0050,0050,006f,006c,0073,0069,0063,0069,0020,007a,0077,0069,0065,0119,006b,0073,007a,0079,0020,000a,0072,006f,0064,007a,0069,006e,0020,0072,0065,007a,0065,0072,0077,0069,0073,0074,00f3,0077,002c,0020,007a,0061,0063,0069,0105,0067,006e,0069,0119,0074,0079,0063,0068,0020,000a,006e,0065,006a,002e,0020,0070,006f,0077,007a,0069,0119,0142,006f,0020,0075,0063,0068,0077,0061,0069,0119,0020,0077,0020,0073,0070,0072,0061,002d,0020,000a,0077,0069,0119,0020,0077,0073,007a,0063,007a,0119,0063,0069,0061,0020,0069,0020,0070,0072,006f,0077,0061,0064,007a,0065,006e,0069,0061,0020,000a,0061,006b,0063,006a,0069,002c,0020,007a,006d,0069,0065,0072,007a,0061,006a,0105,0063,0065,006a,0020,0064,006f,0020,007a,0061,0062,0065,007a,0070,0069,0065,0020,000a,0063,007a,0065,006e,0069,0061,0020,0072,006f,0064,007a,0069,006e,0020,0072,0065,007a,0065,0072,0077,0069,0073,0074,00f3,0077,002c,0020,0070,006f,002d,0020,000a,0077,006f,0142,0061,006e,0079,0063,0068,0020,0064,006f,0020,0077,006f,006a,0073,006b,0061,002e,0020,004f,0064,006e,006f,015b,006e,0063,0020,000a,0069,006e,0073,0074,0072,0075,006b,0063,006a,0065,0020,007a,006f,0073,0074,0061,0142,0079,0020,0077,0079,0064,0061,006e,0065,0020,0070,006f,002d,0020,000a,0073,007a,0063,007a,0065,0067,00f3,006c,006e,0079,006d,0020,007a,0077,0069,0105,007a,006b,006f,006d,002e,0020,0041,006b,0063,006a,0061,0020,000a,0020,0020,000a,0066,0069,0069,0061,0073,0069,006f,0020,006a,0065,0073,0069,0020,0069,0020,006b,0119,0064,007a,0069,0065,0020,006e,006f,0072,006d,0061,006c,006e,0069,0065,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+go wykupywania środków żyw-","000a,0067,006f,0020,0077,0079,006b,0075,0070,0079,0077,0061,006e,0069,0061,0020,015b,0072,006f,0064,006b,00f3,0077,0020,017c,0079,0077,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+podnosić ceny, ukrywać środki","000a,0070,006f,0064,006e,006f,0073,0069,0107,0020,0063,0065,006e,0079,002c,0020,0075,006b,0072,0079,0077,0061,0107,0020,015b,0072,006f,0064,006b,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+presyjne i karne w razie zgło-","000a,0070,0072,0065,0073,0079,006a,006e,0065,0020,0069,0020,006b,0061,0072,006e,0065,0020,0077,0020,0072,0061,007a,0069,0065,0020,007a,0067,0142,006f,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"pracy.","0070,0072,0061,0063,0079,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+wej przed ultimo miesięca, może","000a,0077,0065,006a,0020,0070,0072,007a,0065,0064,0020,0075,006c,0074,0069,006d,006f,0020,006d,0069,0065,0073,0069,0119,0063,0061,002c,0020,006d,006f,017c,0065"," 
+wej przed ultimo miesięca, może ","0020,000a,0077,0065,006a,0020,0070,0072,007a,0065,0064,0020,0075,006c,0074,0069,006d,006f,0020,006d,0069,0065,0073,0069,0119,0063,0061,002c,0020,006d,006f,017c,0065,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+kowo pomyślnego bilansu tegoż.","000a,006b,006f,0077,006f,0020,0070,006f,006d,0079,015b,006c,006e,0065,0067,006f,0020,0062,0069,006c,0061,006e,0073,0075,0020,0074,0065,0067,006f,017c,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Firma istniej blisko 40 ","000a,0046,0069,0072,006d,0061,0020,0069,0073,0074,006e,0069,0065,006a,0020,0062,006c,0069,0073,006b,006f,0020,0034,0030,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"epszych i luksusowych gatunkach.","0065,0070,0073,007a,0079,0063,0068,0020,0069,0020,006c,0075,006b,0073,0075,0073,006f,0077,0079,0063,0068,0020,0067,0061,0074,0075,006e,006b,0061,0063,0068,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+w dużych rozmiarach, oparte na","000a,0077,0020,0064,0075,017c,0079,0063,0068,0020,0072,006f,007a,006d,0069,0061,0072,0061,0063,0068,002c,0020,006f,0070,0061,0072,0074,0065,0020,006e,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+tego przedsiębiorstwa niewypłaca","000a,0074,0065,0067,006f,0020,0070,0072,007a,0065,0064,0073,0069,0119,0062,0069,006f,0072,0073,0074,0077,0061,0020,006e,0069,0065,0077,0079,0070,0142,0061,0063,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"i","0069","g","0067","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ł?a","0142,003f,0061","Ji","004a,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+nych odstępach.","000a,006e,0079,0063,0068,0020,006f,0064,0073,0074,0119,0070,0061,0063,0068,002e"," 
+nych odstępach. 
+* ","0020,000a,006e,0079,0063,0068,0020,006f,0064,0073,0074,0119,0070,0061,0063,0068,002e,0020,000a,002a,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"awał za-","0061,0077,0061,0142,0020,007a,0061,002d","iawał za- ","0069,0061,0077,0061,0142,0020,007a,0061,002d,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+WYRÓB TOWARÓW BAWEŁ-","000a,0057,0059,0052,00d3,0042,0020,0054,004f,0057,0041,0052,00d3,0057,0020,0042,0041,0057,0045,0141,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"przywilejowanych w 40 proc. bez","0070,0072,007a,0079,0077,0069,006c,0065,006a,006f,0077,0061,006e,0079,0063,0068,0020,0077,0020,0034,0030,0020,0070,0072,006f,0063,002e,0020,0062,0065,007a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+wizowo - walutowej w Warszawie no","000a,0077,0069,007a,006f,0077,006f,0020,002d,0020,0077,0061,006c,0075,0074,006f,0077,0065,006a,0020,0077,0020,0057,0061,0072,0073,007a,0061,0077,0069,0065,0020,006e,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"m","006d",",","002c","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"r","0072","że p","017c,0065,0020,0070","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ętych","0119,0074,0079,0063,0068","a","0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","konał","006b,006f,006e,0061,0142","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","ć wysoką premię asekuracyjną. Wy ","0107,0020,0077,0079,0073,006f,006b,0105,0020,0070,0072,0065,006d,0069,0119,0020,0061,0073,0065,006b,0075,0072,0061,0063,0079,006a,006e,0105,002e,0020,0057,0079,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"z","007a","","","none","3"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","",". 
+jawnione. 
+Sąd staroś","002e,0020,000a,006a,0061,0077,006e,0069,006f,006e,0065,002e,0020,000a,0053,0105,0064,0020,0073,0074,0061,0072,006f,015b","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"hw","0068,0077","iński 
+skaz","0069,0144,0073,006b,0069,0020,000a,0073,006b,0061,007a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"y.
+Niema","0079,002e,000a,004e,0069,0065,006d,0061",":","003a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"powodu do obaw
+Miasto jesi i będzie normalnie aprowidowane","0070,006f,0077,006f,0064,0075,0020,0064,006f,0020,006f,0062,0061,0077,000a,004d,0069,0061,0073,0074,006f,0020,006a,0065,0073,0069,0020,0069,0020,0062,0119,0064,007a,0069,0065,0020,006e,006f,0072,006d,0061,006c,006e,0069,0065,0020,0061,0070,0072,006f,0077,0069,0064,006f,0077,0061,006e,0065","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"awet","0061,0077,0065,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Przedstawiciele kupców-hur-","000a,0050,0072,007a,0065,0064,0073,0074,0061,0077,0069,0063,0069,0065,006c,0065,0020,006b,0075,0070,0063,00f3,0077,002d,0068,0075,0072,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"znego nabywania żywnoś-","007a,006e,0065,0067,006f,0020,006e,0061,0062,0079,0077,0061,006e,0069,0061,0020,017c,0079,0077,006e,006f,015b,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"u się,","0075,0020,0073,0069,0119,002c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"dzie naj-","0064,007a,0069,0065,0020,006e,0061,006a,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+ności przez ","000a,006e,006f,015b,0063,0069,0020,0070,0072,007a,0065,007a,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+trzymywania przez pracodaw-","000a,0074,0072,007a,0079,006d,0079,0077,0061,006e,0069,0061,0020,0070,0072,007a,0065,007a,0020,0070,0072,0061,0063,006f,0064,0061,0077,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+nych do pełnienia służby woj-","000a,006e,0079,0063,0068,0020,0064,006f,0020,0070,0065,0142,006e,0069,0065,006e,0069,0061,0020,0073,0142,0075,017c,0062,0079,0020,0077,006f,006a,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+du na konieczność zaopatrzenia","000a,0064,0075,0020,006e,0061,0020,006b,006f,006e,0069,0065,0063,007a,006e,006f,015b,0107,0020,007a,0061,006f,0070,0061,0074,0072,007a,0065,006e,0069,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+","000a"," 
+rządu, zarząd zgodnie z uchwałą, | ","0020,000a,0072,007a,0105,0064,0075,002c,0020,007a,0061,0072,007a,0105,0064,0020,007a,0067,006f,0064,006e,0069,0065,0020,007a,0020,0075,0063,0068,0077,0061,0142,0105,002c,0020,007c,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," na p","0020,006e,0061,0020,0070","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+dla papierów wartościowych by-","000a,0064,006c,0061,0020,0070,0061,0070,0069,0065,0072,00f3,0077,0020,0077,0061,0072,0074,006f,015b,0063,0069,006f,0077,0079,0063,0068,0020,0062,0079,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+wyjątkowa ostrożność.","000a,0077,0079,006a,0105,0074,006b,006f,0077,0061,0020,006f,0073,0074,0072,006f,017c,006e,006f,015b,0107,002e"," 
+wyjątkowa ostrożność. 
+— —E O ĘP O" 
+d Sszcieu hnamdiowecgo 
+Do sądu handlowego wpłynęło 
+podanie firmy 
+„MAGAZYN I ZAKŁAD KRA- 
+WIECKI SZMUL EWIGKEJT” 
+(Narutowicza 6). ","0020,000a,0077,0079,006a,0105,0074,006b,006f,0077,0061,0020,006f,0073,0074,0072,006f,017c,006e,006f,015b,0107,002e,0020,000a,2014,0020,2014,0045,0020,004f,0020,0118,0050,0020,004f,0022,0020,000a,0064,0020,0053,0073,007a,0063,0069,0065,0075,0020,0068,006e,0061,006d,0064,0069,006f,0077,0065,0063,0067,006f,0020,000a,0044,006f,0020,0073,0105,0064,0075,0020,0068,0061,006e,0064,006c,006f,0077,0065,0067,006f,0020,0077,0070,0142,0079,006e,0119,0142,006f,0020,000a,0070,006f,0064,0061,006e,0069,0065,0020,0066,0069,0072,006d,0079,0020,000a,201e,004d,0041,0047,0041,005a,0059,004e,0020,0049,0020,005a,0041,004b,0141,0041,0044,0020,004b,0052,0041,002d,0020,000a,0057,0049,0045,0043,004b,0049,0020,0053,005a,004d,0055,004c,0020,0045,0057,0049,0047,004b,0045,004a,0054,201d,0020,000a,0028,004e,0061,0072,0075,0074,006f,0077,0069,0063,007a,0061,0020,0036,0029,002e,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"at, wyra-","0061,0074,002c,0020,0077,0079,0072,0061,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+zdrowych podstawach, ","000a,007a,0064,0072,006f,0077,0079,0063,0068,0020,0070,006f,0064,0073,0074,0061,0077,0061,0063,0068,002c,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Stosunkowo duża, jak na rodzaj","000a,0053,0074,006f,0073,0075,006e,006b,006f,0077,006f,0020,0064,0075,017c,0061,002c,0020,006a,0061,006b,0020,006e,0061,0020,0072,006f,0064,007a,0061,006a"," 
+Stosunkowo duża, jak na rodzaj ","0020,000a,0053,0074,006f,0073,0075,006e,006b,006f,0077,006f,0020,0064,0075,017c,0061,002c,0020,006a,0061,006b,0020,006e,0061,0020,0072,006f,0064,007a,0061,006a,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+tuacją gospodarczą, dającą się w","000a,0074,0075,0061,0063,006a,0105,0020,0067,006f,0073,0070,006f,0064,0061,0072,0063,007a,0105,002c,0020,0064,0061,006a,0105,0063,0105,0020,0073,0069,0119,0020,0077","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+NIANYCH","000a,004e,0049,0041,004e,0059,0043,0048","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Na zebraniu wierzycieli firmy","000a,004e,0061,0020,007a,0065,0062,0072,0061,006e,0069,0075,0020,0077,0069,0065,0072,007a,0079,0063,0069,0065,006c,0069,0020,0066,0069,0072,006d,0079","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ędzie w 6 miesięcy po zatwierdze-","0119,0064,007a,0069,0065,0020,0077,0020,0036,0020,006d,0069,0065,0073,0069,0119,0063,0079,0020,0070,006f,0020,007a,0061,0074,0077,0069,0065,0072,0064,007a,0065,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+wano następujące kursy:","000a,0077,0061,006e,006f,0020,006e,0061,0073,0074,0119,0070,0075,006a,0105,0063,0065,0020,006b,0075,0072,0073,0079,003a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"zin","007a,0069,006e","pale-","0070,0061,006c,0065,002d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"rezerwistów, zaciąg","0072,0065,007a,0065,0072,0077,0069,0073,0074,00f3,0077,002c,0020,007a,0061,0063,0069,0105,0067","
+","000a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"w","0077","sam M","0073,0061,006d,0020,004d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"j","006a","rgentaler, by uzy- 
+","0072,0067,0065,006e,0074,0061,006c,0065,0072,002c,0020,0062,0079,0020,0075,007a,0079,002d,0020,000a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ro","0072,006f","niki śled","006e,0069,006b,0069,0020,015b,006c,0065,0064","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"pocz","0070,006f,0063,007a","twa ","0074,0077,0061,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ieb","0069,0065,0062","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"wem.
+W ścisłym związku z tym od
+było się wczo","0077,0065,006d,002e,000a,0057,0020,015b,0063,0069,0073,0142,0079,006d,0020,007a,0077,0069,0105,007a,006b,0075,0020,007a,0020,0074,0079,006d,0020,006f,0064,000a,0062,0079,0142,006f,0020,0073,0069,0119,0020,0077,0063,007a,006f","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"j ","006a,0020","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ebranie w zw
+żydów uczestników walk o nie-
+podległość Polski, które po-
+wzięło odpowiedn","0065,0062,0072,0061,006e,0069,0065,0020,0077,0020,007a,0077,000a,017c,0079,0064,00f3,0077,0020,0075,0063,007a,0065,0073,0074,006e,0069,006b,00f3,0077,0020,0077,0061,006c,006b,0020,006f,0020,006e,0069,0065,002d,000a,0070,006f,0064,006c,0065,0067,0142,006f,015b,0107,0020,0050,006f,006c,0073,006b,0069,002c,0020,006b,0074,00f3,0072,0065,0020,0070,006f,002d,000a,0077,007a,0069,0119,0142,006f,0020,006f,0064,0070,006f,0077,0069,0065,0064,006e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+będą najsurowsze sankcje","000a,0062,0119,0064,0105,0020,006e,0061,006a,0073,0075,0072,006f,0077,0073,007a,0065,0020,0073,0061,006e,006b,0063,006a,0065"," 
+będą najsurowsze sankcje. ","0020,000a,0062,0119,0064,0105,0020,006e,0061,006a,0073,0075,0072,006f,0077,0073,007a,0065,0020,0073,0061,006e,006b,0063,006a,0065,002e,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+pani","000a,0070,0061,006e,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"bę","0062,0119","he","0068,0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"",""," 
+ludność .naszego | żywności itp. ","0020,000a,006c,0075,0064,006e,006f,015b,0107,0020,002e,006e,0061,0073,007a,0065,0067,006f,0020,007c,0020,017c,0079,0077,006e,006f,015b,0063,0069,0020,0069,0074,0070,002e,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ość ","006f,015b,0107,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Wobec mnożących się w o-","000a,0057,006f,0062,0065,0063,0020,006d,006e,006f,017c,0105,0063,0079,0063,0068,0020,0073,0069,0119,0020,0077,0020,006f,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+ników i pracowników powoła-","000a,006e,0069,006b,00f3,0077,0020,0069,0020,0070,0072,0061,0063,006f,0077,006e,0069,006b,00f3,0077,0020,0070,006f,0077,006f,0142,0061,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+skowej, władze ostrzegają, że","000a,0073,006b,006f,0077,0065,006a,002c,0020,0077,0142,0061,0064,007a,0065,0020,006f,0073,0074,0072,007a,0065,0067,0061,006a,0105,002c,0020,017c,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+szenia odnośnych zażaleń.","000a,0073,007a,0065,006e,0069,0061,0020,006f,0064,006e,006f,015b,006e,0079,0063,0068,0020,007a,0061,017c,0061,006c,0065,0144,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+się pracowników i icn rodzin w","000a,0073,0069,0119,0020,0070,0072,0061,0063,006f,0077,006e,0069,006b,00f3,0077,0020,0069,0020,0069,0063,006e,0020,0072,006f,0064,007a,0069,006e,0020,0077","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"za ","007a,0061,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Na rynku walorów tendencja","000a,004e,0061,0020,0072,0079,006e,006b,0075,0020,0077,0061,006c,006f,0072,00f3,0077,0020,0074,0065,006e,0064,0065,006e,0063,006a,0061"," 
+Na rynku walorów tendencja ","0020,000a,004e,0061,0020,0072,0079,006e,006b,0075,0020,0077,0061,006c,006f,0072,00f3,0077,0020,0074,0065,006e,0064,0065,006e,0063,006a,0061,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+się tendencji należy uważać za","000a,0073,0069,0119,0020,0074,0065,006e,0064,0065,006e,0063,006a,0069,0020,006e,0061,006c,0065,017c,0079,0020,0075,0077,0061,017c,0061,0107,0020,007a,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"własnym","0077,0142,0061,0073,006e,0079,006d","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+ność klientów, nadewszystko zaś","000a,006e,006f,015b,0107,0020,006b,006c,0069,0065,006e,0074,00f3,0077,002c,0020,006e,0061,0064,0065,0077,0073,007a,0079,0073,0074,006b,006f,0020,007a,0061,015b","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+pierwszym rzędzie odczuć w gałę","000a,0070,0069,0065,0072,0077,0073,007a,0079,006d,0020,0072,007a,0119,0064,007a,0069,0065,0020,006f,0064,0063,007a,0075,0107,0020,0077,0020,0067,0061,0142,0119","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,""","0022","” ","201d,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+układowe: spłata wierzyciel","000a,0075,006b,0142,0061,0064,006f,0077,0065,003a,0020,0073,0070,0142,0061,0074,0061,0020,0077,0069,0065,0072,007a,0079,0063,0069,0065,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+tach półrocznych, I ","000a,0074,0061,0063,0068,0020,0070,00f3,0142,0072,006f,0063,007a,006e,0079,0063,0068,002c,0020,0049,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Sąd układ zatwierdził","000a,0053,0105,0064,0020,0075,006b,0142,0061,0064,0020,007a,0061,0074,0077,0069,0065,0072,0064,007a,0069,0142","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"te","0074,0065","ło ","0142,006f,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+PAPIERY PROCENTOWE","000a,0050,0041,0050,0049,0045,0052,0059,0020,0050,0052,004f,0043,0045,004e,0054,004f,0057,0045","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"h","0068","i","0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"n","006e","u","0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"l","006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"n","006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"nspekcja pracy os","006e,0073,0070,0065,006b,0063,006a,0061,0020,0070,0072,0061,0063,0079,0020,006f,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," dniach wypadków za-","0020,0064,006e,0069,0061,0063,0068,0020,0077,0079,0070,0061,0064,006b,00f3,0077,0020,007a,0061,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," należności za pracę robot-","0020,006e,0061,006c,0065,017c,006e,006f,015b,0063,0069,0020,007a,0061,0020,0070,0072,0061,0063,0119,0020,0072,006f,0062,006f,0074,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+ich rozporządzeniu środki re-","000a,0069,0063,0068,0020,0072,006f,007a,0070,006f,0072,007a,0105,0064,007a,0065,006e,0069,0075,0020,015b,0072,006f,0064,006b,0069,0020,0072,0065,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+W chwili obecnej, ze wz","000a,0057,0020,0063,0068,0077,0069,006c,0069,0020,006f,0062,0065,0063,006e,0065,006a,002c,0020,007a,0065,0020,0077,007a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+sił do pracy i stawienia oporu","000a,0073,0069,0142,0020,0064,006f,0020,0070,0072,0061,0063,0079,0020,0069,0020,0073,0074,0061,0077,0069,0065,006e,0069,0061,0020,006f,0070,006f,0072,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"wz","0077,007a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ie","0069,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ery giełdowe uważają, iż w o-","0065,0072,0079,0020,0067,0069,0065,0142,0064,006f,0077,0065,0020,0075,0077,0061,017c,0061,006a,0105,002c,0020,0069,017c,0020,0077,0020,006f,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"-","002d","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+stałe i gwałtowne kurczenie się","000a,0073,0074,0061,0142,0065,0020,0069,0020,0067,0077,0061,0142,0074,006f,0077,006e,0065,0020,006b,0075,0072,0063,007a,0065,006e,0069,0065,0020,0073,0069,0119","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"-","002d"," ","0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+zgłoszono następujące","000a,007a,0067,0142,006f,0073,007a,006f,006e,006f,0020,006e,0061,0073,0074,0119,0070,0075,006a,0105,0063,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," nieu-","0020,006e,0069,0065,0075,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"rata płatna","0072,0061,0074,0061,0020,0070,0142,0061,0074,006e,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+niu układu.","000a,006e,0069,0075,0020,0075,006b,0142,0061,0064,0075,002e"," 
+niu układu. „ 
+Ponieważ za układem wypowie- 
+działo się 108 wierzycieli, reprezen- 
+lujących zł. 226,618 na ogólną ilość 
+143 wierzycieli 
+zł., czyli wymagana przez 
+większość, układ uznano za przyję- 
+ty i przedstawiony sądowi do za- 
+twierdzenia. ","0020,000a,006e,0069,0075,0020,0075,006b,0142,0061,0064,0075,002e,0020,201e,0020,000a,0050,006f,006e,0069,0065,0077,0061,017c,0020,007a,0061,0020,0075,006b,0142,0061,0064,0065,006d,0020,0077,0079,0070,006f,0077,0069,0065,002d,0020,000a,0064,007a,0069,0061,0142,006f,0020,0073,0069,0119,0020,0031,0030,0038,0020,0077,0069,0065,0072,007a,0079,0063,0069,0065,006c,0069,002c,0020,0072,0065,0070,0072,0065,007a,0065,006e,002d,0020,000a,006c,0075,006a,0105,0063,0079,0063,0068,0020,007a,0142,002e,0020,0032,0032,0036,002c,0036,0031,0038,0020,006e,0061,0020,006f,0067,00f3,006c,006e,0105,0020,0069,006c,006f,015b,0107,0020,000a,0031,0034,0033,0020,0077,0069,0065,0072,007a,0079,0063,0069,0065,006c,0069,0020,000a,007a,0142,002e,002c,0020,0063,007a,0079,006c,0069,0020,0077,0079,006d,0061,0067,0061,006e,0061,0020,0070,0072,007a,0065,007a,0020,000a,0077,0069,0119,006b,0073,007a,006f,015b,0107,002c,0020,0075,006b,0142,0061,0064,0020,0075,007a,006e,0061,006e,006f,0020,007a,0061,0020,0070,0072,007a,0079,006a,0119,002d,0020,000a,0074,0079,0020,0069,0020,0070,0072,007a,0065,0064,0073,0074,0061,0077,0069,006f,006e,0079,0020,0073,0105,0064,006f,0077,0069,0020,0064,006f,0020,007a,0061,002d,0020,000a,0074,0077,0069,0065,0072,0064,007a,0065,006e,0069,0061,002e,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+giełdy warszawskiej","000a,0067,0069,0065,0142,0064,0079,0020,0077,0061,0072,0073,007a,0061,0077,0073,006b,0069,0065,006a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+DEWIZY","000a,0044,0045,0057,0049,005a,0059"," 
+DEWIZY 
+Bruksela 92.10 — 92,39 — 9188, Ber 
+lin —, Gdańsk 100,25 — 99,75, Amster- 
+dam 288,00 — 288,71 — 287,29, Kopen 
+haga —, Londyn 23,10. — 23,17 — 23,03 
+Nowy Jork — 5,33 i pięć ósmych — 
+'3,31 i jedna ósma, Nowy Jork kabel 
+532 i pół — 5,83 i trzy czwarte — 
+5,31 i jedna czwarta, Oslo 121,82 — 
+121,18, Paryż 13,30 — 13,34 — 13,96, 
+Sztokholm 128,30 — 128,62 — 197,98, 
+Zurych 120,60 — 120,96 — 120,30, Hel- 
+sinki 10,93 — 10,87, ","0020,000a,0044,0045,0057,0049,005a,0059,0020,000a,0042,0072,0075,006b,0073,0065,006c,0061,0020,0039,0032,002e,0031,0030,0020,2014,0020,0039,0032,002c,0033,0039,0020,2014,0020,0039,0031,0038,0038,002c,0020,0042,0065,0072,0020,000a,006c,0069,006e,0020,2014,002c,0020,0047,0064,0061,0144,0073,006b,0020,0031,0030,0030,002c,0032,0035,0020,2014,0020,0039,0039,002c,0037,0035,002c,0020,0041,006d,0073,0074,0065,0072,002d,0020,000a,0064,0061,006d,0020,0032,0038,0038,002c,0030,0030,0020,2014,0020,0032,0038,0038,002c,0037,0031,0020,2014,0020,0032,0038,0037,002c,0032,0039,002c,0020,004b,006f,0070,0065,006e,0020,000a,0068,0061,0067,0061,0020,2014,002c,0020,004c,006f,006e,0064,0079,006e,0020,0032,0033,002c,0031,0030,002e,0020,2014,0020,0032,0033,002c,0031,0037,0020,2014,0020,0032,0033,002c,0030,0033,0020,000a,004e,006f,0077,0079,0020,004a,006f,0072,006b,0020,2014,0020,0035,002c,0033,0033,0020,0069,0020,0070,0069,0119,0107,0020,00f3,0073,006d,0079,0063,0068,0020,2014,0020,000a,0027,0033,002c,0033,0031,0020,0069,0020,006a,0065,0064,006e,0061,0020,00f3,0073,006d,0061,002c,0020,004e,006f,0077,0079,0020,004a,006f,0072,006b,0020,006b,0061,0062,0065,006c,0020,000a,0035,0033,0032,0020,0069,0020,0070,00f3,0142,0020,2014,0020,0035,002c,0038,0033,0020,0069,0020,0074,0072,007a,0079,0020,0063,007a,0077,0061,0072,0074,0065,0020,2014,0020,000a,0035,002c,0033,0031,0020,0069,0020,006a,0065,0064,006e,0061,0020,0063,007a,0077,0061,0072,0074,0061,002c,0020,004f,0073,006c,006f,0020,0031,0032,0031,002c,0038,0032,0020,2014,0020,000a,0031,0032,0031,002c,0031,0038,002c,0020,0050,0061,0072,0079,017c,0020,0031,0033,002c,0033,0030,0020,2014,0020,0031,0033,002c,0033,0034,0020,2014,0020,0031,0033,002c,0039,0036,002c,0020,000a,0053,007a,0074,006f,006b,0068,006f,006c,006d,0020,0031,0032,0038,002c,0033,0030,0020,2014,0020,0031,0032,0038,002c,0036,0032,0020,2014,0020,0031,0039,0037,002c,0039,0038,002c,0020,000a,005a,0075,0072,0079,0063,0068,0020,0031,0032,0030,002c,0036,0030,0020,2014,0020,0031,0032,0030,002c,0039,0036,0020,2014,0020,0031,0032,0030,002c,0033,0030,002c,0020,0048,0065,006c,002d,0020,000a,0073,0069,006e,006b,0069,0020,0031,0030,002c,0039,0033,0020,2014,0020,0031,0030,002c,0038,0037,002c,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","
+rozpocznie się niebawem. 
+W ścisłym związka z tyim od 
+było się wczoraj zebranie w zw 
+żydów uczestników wa","000a,0020,0020,000a,0020,0020,0020,0020,0020,000a,0072,006f,007a,0070,006f,0063,007a,006e,0069,0065,0020,0073,0069,0119,0020,006e,0069,0065,0062,0061,0077,0065,006d,002e,0020,000a,0057,0020,015b,0063,0069,0073,0142,0079,006d,0020,007a,0077,0069,0105,007a,006b,0061,0020,007a,0020,0074,0079,0069,006d,0020,006f,0064,0020,000a,0062,0079,0142,006f,0020,0073,0069,0119,0020,0077,0063,007a,006f,0072,0061,006a,0020,007a,0065,0062,0072,0061,006e,0069,0065,0020,0077,0020,007a,0077,0020,000a,017c,0079,0064,00f3,0077,0020,0075,0063,007a,0065,0073,0074,006e,0069,006b,00f3,0077,0020,0077,0061","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","Polski, klóre po- 
+wzięło odpowied","0050,006f,006c,0073,006b,0069,002c,0020,006b,006c,00f3,0072,0065,0020,0070,006f,002d,0020,000a,0077,007a,0069,0119,0142,006f,0020,006f,0064,0070,006f,0077,0069,0065,0064","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"rzeg","0072,007a,0065,0067","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+cza","000a,0063,007a,0061"," 
+cza'","0020,000a,0063,007a,0061,0027","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+zastosują wszelkie będące w","000a,007a,0061,0073,0074,006f,0073,0075,006a,0105,0020,0077,0073,007a,0065,006c,006b,0069,0065,0020,0062,0119,0064,0105,0063,0065,0020,0077"," 
+zastosują wszelkie będące w ","0020,000a,007a,0061,0073,0074,006f,0073,0075,006a,0105,0020,0077,0073,007a,0065,006c,006b,0069,0065,0020,0062,0119,0064,0105,0063,0065,0020,0077,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"",""," 
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"gl","0067,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+niezbędne artykuły żywnościo-","000a,006e,0069,0065,007a,0062,0119,0064,006e,0065,0020,0061,0072,0074,0079,006b,0075,0142,0079,0020,017c,0079,0077,006e,006f,015b,0063,0069,006f,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+pracowniczych, muszą być ści-","000a,0070,0072,0061,0063,006f,0077,006e,0069,0063,007a,0079,0063,0068,002c,0020,006d,0075,0073,007a,0105,0020,0062,0079,0107,0020,015b,0063,0069,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"Z pro","005a,0020,0070,0072,006f","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"zycji tej oczywiście za-
+rząd miejski skorzysta.
+Rozkaz do milicji
+Niniejszym ","007a,0079,0063,006a,0069,0020,0074,0065,006a,0020,006f,0063,007a,0079,0077,0069,015b,0063,0069,0065,0020,007a,0061,002d,000a,0072,007a,0105,0064,0020,006d,0069,0065,006a,0073,006b,0069,0020,0073,006b,006f,0072,007a,0079,0073,0074,0061,002e,000a,0052,006f,007a,006b,0061,007a,0020,0064,006f,0020,006d,0069,006c,0069,0063,006a,0069,000a,004e,0069,006e,0069,0065,006a,0073,007a,0079,006d,0020","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ię","0069,0119","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ap","0061,0070","os","006f,0073","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,", ","002c,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"niskie.","006e,0069,0073,006b,0069,0065,002e","gotowość","0067,006f,0074,006f,0077,006f,015b,0107","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+ła wczoraj naogół ","000a,0142,0061,0020,0077,0063,007a,006f,0072,0061,006a,0020,006e,0061,006f,0067,00f3,0142,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+becnych warunkach utrzymanie","000a,0062,0065,0063,006e,0079,0063,0068,0020,0077,0061,0072,0075,006e,006b,0061,0063,0068,0020,0075,0074,0072,007a,0079,006d,0061,006e,0069,0065"," 
+becnych warunkach utrzymanie ","0020,000a,0062,0065,0063,006e,0079,0063,0068,0020,0077,0061,0072,0075,006e,006b,0061,0063,0068,0020,0075,0074,0072,007a,0079,006d,0061,006e,0069,0065,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"l","006c","!","0021","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+obrotów spowodowane ogólną sy-","000a,006f,0062,0072,006f,0074,00f3,0077,0020,0073,0070,006f,0077,006f,0064,006f,0077,0061,006e,0065,0020,006f,0067,00f3,006c,006e,0105,0020,0073,0079,002d"," 
+obrotów spowodowane ogólną sy- ","0020,000a,006f,0062,0072,006f,0074,00f3,0077,0020,0073,0070,006f,0077,006f,0064,006f,0077,0061,006e,0065,0020,006f,0067,00f3,006c,006e,0105,0020,0073,0079,002d,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," propozycje","0020,0070,0072,006f,0070,006f,007a,0079,0063,006a,0065",". propozycje ","002e,0020,0070,0072,006f,0070,006f,007a,0079,0063,006a,0065,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"i","0069","h","0068","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","'","0027","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Urzędowa ceduła","000a,0055,0072,007a,0119,0064,006f,0077,0061,0020,0063,0065,0064,0075,0142,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"braniu giełdy de-","0062,0072,0061,006e,0069,0075,0020,0067,0069,0065,0142,0064,0079,0020,0064,0065,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"u","0075","k o nie- 
+po","006b,0020,006f,0020,006e,0069,0065,002d,0020,000a,0070,006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"n","006e","legł","006c,0065,0067,0142","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","ie uchw","0069,0065,0020,0075,0063,0068,0077","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"szego","0073,007a,0065,0067,006f","ły. 
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"a","0061"," 
+a 
+przed przetrzymywaniem należności powołanych 
+rezerwistów ","0020,000a,0061,0020,000a,0020,0020,000a,0070,0072,007a,0065,0064,0020,0070,0072,007a,0065,0074,0072,007a,0079,006d,0079,0077,0061,006e,0069,0065,006d,0020,006e,0061,006c,0065,017c,006e,006f,015b,0063,0069,0020,0070,006f,0077,006f,0142,0061,006e,0079,0063,0068,0020,000a,0072,0065,007a,0065,0072,0077,0069,0073,0074,00f3,0077,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","ś","015b","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+we, w celu zachowania pełnych","000a,0077,0065,002c,0020,0077,0020,0063,0065,006c,0075,0020,007a,0061,0063,0068,006f,0077,0061,006e,0069,0061,0020,0070,0065,0142,006e,0079,0063,0068"," 
+we, w celu zachowania pełnych ","0020,000a,0077,0065,002c,0020,0077,0020,0063,0065,006c,0075,0020,007a,0061,0063,0068,006f,0077,0061,006e,0069,0061,0020,0070,0065,0142,006e,0079,0063,0068,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," wypadki zatrzymywa-","0020,0077,0079,0070,0061,0064,006b,0069,0020,007a,0061,0074,0072,007a,0079,006d,0079,0077,0061,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+gane w całą surowością prawa.","000a,0067,0061,006e,0065,0020,0077,0020,0063,0061,0142,0105,0020,0073,0075,0072,006f,0077,006f,015b,0063,0069,0105,0020,0070,0072,0061,0077,0061,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ywa s","0079,0077,0061,0020,0073","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"t","0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"Wszystkie","0057,0073,007a,0079,0073,0074,006b,0069,0065","
+","000a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"utrzymana.","0075,0074,0072,007a,0079,006d,0061,006e,0061,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,".","002e",", 
+y o 
+Rynek_pieniężny ","002c,0020,000a,0079,0020,006f,0020,000a,0052,0079,006e,0065,006b,005f,0070,0069,0065,006e,0069,0119,017c,006e,0079,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," wczorajszym z","0020,0077,0063,007a,006f,0072,0061,006a,0073,007a,0079,006d,0020,007a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"żywnośc","017c,0079,0077,006e,006f,015b,0063","  
+","0020,0020,000a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," itp.
+I","0020,0069,0074,0070,002e,000a,0049","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"eb","0065,0062","ch","0063,0068","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ę","0119","e","0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+ewentualnym nie","000a,0065,0077,0065,006e,0074,0075,0061,006c,006e,0079,006d,0020,006e,0069,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+nia należności ro","000a,006e,0069,0061,0020,006e,0061,006c,0065,017c,006e,006f,015b,0063,0069,0020,0072,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Emeryci zast","000a,0045,006d,0065,0072,0079,0063,0069,0020,007a,0061,0073,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,," wszys","0020,0077,0073,007a,0079,0073","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ry","0072,0079","dzeniu w dniu 29 ","0064,007a,0065,006e,0069,0075,0020,0077,0020,0064,006e,0069,0075,0020,0032,0039,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"państwowe","0070,0061,0144,0073,0074,0077,006f,0077,0065","b. m.","0062,002e,0020,006d,002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"wy","0077,0079","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"p","0070"," 
+<","0020,000a,003c","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","
+Z propozycji tej oczywiście za- 
+członków | rząd miejski skorzysta, 
+OO JNL JNNNEY 
+óieldzie 
+Kkredyty 
+","000a,005a,0020,0070,0072,006f,0070,006f,007a,0079,0063,006a,0069,0020,0074,0065,006a,0020,006f,0063,007a,0079,0077,0069,015b,0063,0069,0065,0020,007a,0061,002d,0020,000a,0063,007a,0142,006f,006e,006b,00f3,0077,0020,007c,0020,0072,007a,0105,0064,0020,006d,0069,0065,006a,0073,006b,0069,0020,0073,006b,006f,0072,007a,0079,0073,0074,0061,002c,0020,000a,004f,004f,0020,004a,004e,004c,0020,004a,004e,004e,004e,0045,0059,0020,000a,0020,0020,000a,0020,0020,000a,00f3,0069,0065,006c,0064,007a,0069,0065,0020,000a,004b,006b,0072,0065,0064,0079,0074,0079,0020,000a","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+S","000a,0053","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+N","000a,004e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ezpieczeń-","0065,007a,0070,0069,0065,0063,007a,0065,0144,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"otniczych i","006f,0074,006e,0069,0063,007a,0079,0063,0068,0020,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"powołanych","0070,006f,0077,006f,0142,0061,006e,0079,0063,0068","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"kich za
+rejestrowanych członków b. milicji o-
+bywatelskiej do stawienia się dziś, w
+pi","006b,0069,0063,0068,0020,007a,0061,000a,0072,0065,006a,0065,0073,0074,0072,006f,0077,0061,006e,0079,0063,0068,0020,0063,007a,0142,006f,006e,006b,00f3,0077,0020,0062,002e,0020,006d,0069,006c,0069,0063,006a,0069,0020,006f,002d,000a,0062,0079,0077,0061,0074,0065,006c,0073,006b,0069,0065,006a,0020,0064,006f,0020,0073,0074,0061,0077,0069,0065,006e,0069,0061,0020,0073,0069,0119,0020,0064,007a,0069,015b,002c,0020,0077,000a,0070,0069","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"tek, dnia 1 września, na godz. 18
+na terytorium II oddziału straży ognio
+wej przy ulicy 11 Listopada 4, celem
+ostemplowania wydanych opasek.
+Komitet organizacyjny członków
+b. Milicji Obywatelskiej m. Łodzi
+z roku 1914.
+W naszym wczorajszym spra-
+wozdaniu giełdowym, zwróciliś-
+my uwagę na niezwykłe ożywie-
+nie, zaobserwowane na giełdzie.
+Według wiadomości, jakie na
+deszły wczoraj z zagranicy, oka-
+zuje się, iż również giełda lon-
+dyńska zareagowała na rozgry-
+wające się wypadki — zwyżko-
+we. Reakcja największej giełdy
+świata — zdaniem kół facho-
+wych — wypływa z dwu przy-
+czyn: 1) Londyn wierzy w poko-
+jowe rozwiązanie konfliktu oraz
+2) wskutek porzucenia interwen
+cji kursu funta ze strony fundu-
+szu wyrównawczego i podniesie-
+nia stopy procentowej, spekula-
+cja zrezygnowała z gry na zniż-
+kę funta, a kapitały nie uciekają
+już zagranicę.
+Kursy minimalne","0074,0065,006b,002c,0020,0064,006e,0069,0061,0020,0031,0020,0077,0072,007a,0065,015b,006e,0069,0061,002c,0020,006e,0061,0020,0067,006f,0064,007a,002e,0020,0031,0038,000a,006e,0061,0020,0074,0065,0072,0079,0074,006f,0072,0069,0075,006d,0020,0049,0049,0020,006f,0064,0064,007a,0069,0061,0142,0075,0020,0073,0074,0072,0061,017c,0079,0020,006f,0067,006e,0069,006f,000a,0077,0065,006a,0020,0070,0072,007a,0079,0020,0075,006c,0069,0063,0079,0020,0031,0031,0020,004c,0069,0073,0074,006f,0070,0061,0064,0061,0020,0034,002c,0020,0063,0065,006c,0065,006d,000a,006f,0073,0074,0065,006d,0070,006c,006f,0077,0061,006e,0069,0061,0020,0077,0079,0064,0061,006e,0079,0063,0068,0020,006f,0070,0061,0073,0065,006b,002e,000a,004b,006f,006d,0069,0074,0065,0074,0020,006f,0072,0067,0061,006e,0069,007a,0061,0063,0079,006a,006e,0079,0020,0063,007a,0142,006f,006e,006b,00f3,0077,000a,0062,002e,0020,004d,0069,006c,0069,0063,006a,0069,0020,004f,0062,0079,0077,0061,0074,0065,006c,0073,006b,0069,0065,006a,0020,006d,002e,0020,0141,006f,0064,007a,0069,000a,007a,0020,0072,006f,006b,0075,0020,0031,0039,0031,0034,002e,000a,0057,0020,006e,0061,0073,007a,0079,006d,0020,0077,0063,007a,006f,0072,0061,006a,0073,007a,0079,006d,0020,0073,0070,0072,0061,002d,000a,0077,006f,007a,0064,0061,006e,0069,0075,0020,0067,0069,0065,0142,0064,006f,0077,0079,006d,002c,0020,007a,0077,0072,00f3,0063,0069,006c,0069,015b,002d,000a,006d,0079,0020,0075,0077,0061,0067,0119,0020,006e,0061,0020,006e,0069,0065,007a,0077,0079,006b,0142,0065,0020,006f,017c,0079,0077,0069,0065,002d,000a,006e,0069,0065,002c,0020,007a,0061,006f,0062,0073,0065,0072,0077,006f,0077,0061,006e,0065,0020,006e,0061,0020,0067,0069,0065,0142,0064,007a,0069,0065,002e,000a,0057,0065,0064,0142,0075,0067,0020,0077,0069,0061,0064,006f,006d,006f,015b,0063,0069,002c,0020,006a,0061,006b,0069,0065,0020,006e,0061,000a,0064,0065,0073,007a,0142,0079,0020,0077,0063,007a,006f,0072,0061,006a,0020,007a,0020,007a,0061,0067,0072,0061,006e,0069,0063,0079,002c,0020,006f,006b,0061,002d,000a,007a,0075,006a,0065,0020,0073,0069,0119,002c,0020,0069,017c,0020,0072,00f3,0077,006e,0069,0065,017c,0020,0067,0069,0065,0142,0064,0061,0020,006c,006f,006e,002d,000a,0064,0079,0144,0073,006b,0061,0020,007a,0061,0072,0065,0061,0067,006f,0077,0061,0142,0061,0020,006e,0061,0020,0072,006f,007a,0067,0072,0079,002d,000a,0077,0061,006a,0105,0063,0065,0020,0073,0069,0119,0020,0077,0079,0070,0061,0064,006b,0069,0020,2014,0020,007a,0077,0079,017c,006b,006f,002d,000a,0077,0065,002e,0020,0052,0065,0061,006b,0063,006a,0061,0020,006e,0061,006a,0077,0069,0119,006b,0073,007a,0065,006a,0020,0067,0069,0065,0142,0064,0079,000a,015b,0077,0069,0061,0074,0061,0020,2014,0020,007a,0064,0061,006e,0069,0065,006d,0020,006b,00f3,0142,0020,0066,0061,0063,0068,006f,002d,000a,0077,0079,0063,0068,0020,2014,0020,0077,0079,0070,0142,0079,0077,0061,0020,007a,0020,0064,0077,0075,0020,0070,0072,007a,0079,002d,000a,0063,007a,0079,006e,003a,0020,0031,0029,0020,004c,006f,006e,0064,0079,006e,0020,0077,0069,0065,0072,007a,0079,0020,0077,0020,0070,006f,006b,006f,002d,000a,006a,006f,0077,0065,0020,0072,006f,007a,0077,0069,0105,007a,0061,006e,0069,0065,0020,006b,006f,006e,0066,006c,0069,006b,0074,0075,0020,006f,0072,0061,007a,000a,0032,0029,0020,0077,0073,006b,0075,0074,0065,006b,0020,0070,006f,0072,007a,0075,0063,0065,006e,0069,0061,0020,0069,006e,0074,0065,0072,0077,0065,006e,000a,0063,006a,0069,0020,006b,0075,0072,0073,0075,0020,0066,0075,006e,0074,0061,0020,007a,0065,0020,0073,0074,0072,006f,006e,0079,0020,0066,0075,006e,0064,0075,002d,000a,0073,007a,0075,0020,0077,0079,0072,00f3,0077,006e,0061,0077,0063,007a,0065,0067,006f,0020,0069,0020,0070,006f,0064,006e,0069,0065,0073,0069,0065,002d,000a,006e,0069,0061,0020,0073,0074,006f,0070,0079,0020,0070,0072,006f,0063,0065,006e,0074,006f,0077,0065,006a,002c,0020,0073,0070,0065,006b,0075,006c,0061,002d,000a,0063,006a,0061,0020,007a,0072,0065,007a,0079,0067,006e,006f,0077,0061,0142,0061,0020,007a,0020,0067,0072,0079,0020,006e,0061,0020,007a,006e,0069,017c,002d,000a,006b,0119,0020,0066,0075,006e,0074,0061,002c,0020,0061,0020,006b,0061,0070,0069,0074,0061,0142,0079,0020,006e,0069,0065,0020,0075,0063,0069,0065,006b,0061,006a,0105,000a,006a,0075,017c,0020,007a,0061,0067,0072,0061,006e,0069,0063,0119,002e,000a,004b,0075,0072,0073,0079,0020,006d,0069,006e,0069,006d,0061,006c,006e,0065","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"n","006e","gł","0067,0142","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"s","0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"piery
+zn","0070,0069,0065,0072,0079,000a,007a,006e"," BE","0020,0042,0045","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"f","0066","t","0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"a","0061","ą","0105","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"b","0062","ch","0063,0068","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+stwom,","000a,0073,0074,0077,006f,006d,002c"," 
+stwom,.","0020,000a,0073,0074,0077,006f,006d,002c,002e","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+Rynek","000a,0052,0079,006e,0065,006b","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"pieniężny","0070,0069,0065,006e,0069,0119,017c,006e,0079","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"pią ","0070,0069,0105,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"
+O","000a,004f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"czone przez
+rząd angiel","0063,007a,006f,006e,0065,0020,0070,0072,007a,0065,007a,000a,0072,007a,0105,0064,0020,0061,006e,0067,0069,0065,006c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ki, okazały się wczo-
+raj ","006b,0069,002c,0020,006f,006b,0061,007a,0061,0142,0079,0020,0073,0069,0119,0020,0077,0063,007a,006f,002d,000a,0072,0061,006a,0020","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"cznie","0063,007a,006e,0069,0065","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"przekroczyły ten po-
+ziom, kształtując się w grani-
+cach mniej więcej zadawalają-
+cych.","0070,0072,007a,0065,006b,0072,006f,0063,007a,0079,0142,0079,0020,0074,0065,006e,0020,0070,006f,002d,000a,007a,0069,006f,006d,002c,0020,006b,0073,007a,0074,0061,0142,0074,0075,006a,0105,0063,0020,0073,0069,0119,0020,0077,0020,0067,0072,0061,006e,0069,002d,000a,0063,0061,0063,0068,0020,006d,006e,0069,0065,006a,0020,0077,0069,0119,0063,0065,006a,0020,007a,0061,0064,0061,0077,0061,006c,0061,006a,0105,002d,000a,0063,0079,0063,0068,002e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"ą","0105","an","0061,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"","","n","006e","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00762384-00232803.pol.xml.txt,,,,"b","0062","k","006b","misrecognised","1"

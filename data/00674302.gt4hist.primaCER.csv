@@ -1,0 +1,826 @@
+groundTruth,result,charsInGroundTruth,charsInResult,characterAccuracy,LCSCharStats Ground Truth Item,LCSCharStats Ground Truth Unicode,LCSCharStats OCR Result Item,LCSCharStats OCR Result Unicode,LCSCharStats OCR Error,LCSCharStats Count
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,"4080","3801","0.20441176470588235","osten nach dem Zollans","006f,0073,0074,0065,006e,0020,006e,0061,0063,0068,0020,0064,0065,006d,0020,005a,006f,006c,006c,0061,006e,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Anzeiger für Hamburg","0041,006e,007a,0065,0069,0067,0065,0072,0020,0066,00fc,0072,0020,0048,0061,006d,0062,0075,0072,0067","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"m Zollanschluss 25 ","006d,0020,005a,006f,006c,006c,0061,006e,0073,0063,0068,006c,0075,0073,0073,0020,0032,0035,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+General","000a,0047,0065,006e,0065,0072,0061,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"für Bett- und Leib","0066,00fc,0072,0020,0042,0065,0074,0074,002d,0020,0075,006e,0064,0020,004c,0065,0069,0062","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Abgepasst","0041,0062,0067,0065,0070,0061,0073,0073,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"urg und Umgegend","0075,0072,0067,0020,0075,006e,0064,0020,0055,006d,0067,0065,0067,0065,006e,0064","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+","000a","","","none","32"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"=","003d","⸗","2e17","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"anschluss) im Bes","0061,006e,0073,0063,0068,006c,0075,0073,0073,0029,0020,0069,006d,0020,0042,0065,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"sche das M","0073,0063,0068,0065,0020,0064,0061,0073,0020,004d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"luss 1 M","006c,0075,0073,0073,0020,0031,0020,004d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"n nach d","006e,0020,006e,0061,0063,0068,0020,0064","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," von bestem Buc","0020,0076,006f,006e,0020,0062,0065,0073,0074,0065,006d,0020,0042,0075,0063","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," Eine Partie ","0020,0045,0069,006e,0065,0020,0050,0061,0072,0074,0069,0065,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"160","0031,0036,0030","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Mittwo","004d,0069,0074,0074,0077,006f,f502","  
+  
+  
+4 — ⏑ B — 
+—— 
+  
+  ","0020,0020,000a,0020,0020,000a,0020,0020,000a,0034,0020,2014,0020,23d1,0020,0042,0020,2014,0020,000a,2014,2014,0020,000a,0020,0020,000a,0020,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"rung sind nach","0072,0075,006e,0067,0020,0073,0069,006e,0064,0020,006e,0061,0063,0068","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"edeutend ","0065,0064,0065,0075,0074,0065,006e,0064,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"wä","0077,00e4","vi","0076,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," u. s. ","0020,0075,002e,0020,0073,002e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"en","0065,006e","","","none","4"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"eter me","0065,0074,0065,0072,0020,006d,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," Teppi","0020,0054,0065,0070,0070,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"e","0065","o","006f","misrecognised","20"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ardero","0061,0072,0064,0065,0072,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,". bis 29 M","002e,0020,0062,0069,0073,0020,0032,0039,0020,004d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,". Langsdorf","002e,0020,004c,0061,006e,0067,0073,0064,006f,0072,0066","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"antenpreis, ","0061,006e,0074,0065,006e,0070,0072,0065,0069,0073,002c,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"26. September","0032,0036,002e,0020,0053,0065,0070,0074,0065,006d,0062,0065,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"os. 2 von de","006f,0073,002e,0020,0032,0020,0076,006f,006e,0020,0064,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"abers b","0061,0062,0065,0072,0073,0020,0062","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"en viel","0065,006e,0020,0076,0069,0065,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"45 ","0034,0035,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"v. ","0076,002e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"chluss 25 %
+mehr.
+Teppich-Roll","0063,0068,006c,0075,0073,0073,0020,0032,0035,0020,0025,000a,006d,0065,0068,0072,002e,000a,0054,0065,0070,0070,0069,0063,0068,002d,0052,006f,006c,006c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"waare.
+Kosten nach dem Zollansch","0077,0061,0061,0072,0065,002e,000a,004b,006f,0073,0074,0065,006e,0020,006e,0061,0063,0068,0020,0064,0065,006d,0020,005a,006f,006c,006c,0061,006e,0073,0063,0068","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,". d. ","002e,0020,0064,002e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ntel.","006e,0074,0065,006c,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"e","0065","s","0073","misrecognised","3"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ost","006f,0073,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+H","000a,0048","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+An","000a,0041,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Decken.","0044,0065,0063,006b,0065,006e,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"und Leinen","0075,006e,0064,0020,004c,0065,0069,006e,0065,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"te Feuerl","0074,0065,0020,0046,0065,0075,0065,0072,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ausstrasse ","0061,0075,0073,0073,0074,0072,0061,0073,0073,0065,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ur","0075,0072","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"er 700 Oefe","0065,0072,0020,0037,0030,0030,0020,004f,0065,0066,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Altona.","0041,006c,0074,006f,006e,0061,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"n Senats","006e,0020,0053,0065,006e,0061,0074,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"2 ","0032,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"mnach vor d","006d,006e,0061,0063,0068,0020,0076,006f,0072,0020,0064","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," d","0020,0064","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"n sind.","006e,0020,0073,0069,006e,0064,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"erden.","0065,0072,0064,0065,006e,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"eln nen","0065,006c,006e,0020,006e,0065,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"8 ","0038,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,". G","002e,0020,0047","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"w.
+Tricot-Anzüge.
+für Knaben. Jede Grösse. — Beste
+Waare 5 Mk., 7 Mk. 9 Mk.
+Portièren
+das stùck
+von 4 Mk. bis 45 Mk.
+kosten nach dem zoll-
+Anschluss 2—6 Mk.
+mehr.
+Schwarze
+und farbige
+Seide
+für Costüme
+Gedieg. Qualitäten.
+von M. 1.70—5.50
+das Meter.
+Für 6—8 — 12 Pers.
+1,20 Mk., 1,75, Mk.
+3 Mk., 5 Mk., 60 Mk.
+Für Bett-
+u. Leib-Wäsche
+d. Meter ","0077,002e,000a,0054,0072,0069,0063,006f,0074,002d,0041,006e,007a,00fc,0067,0065,002e,000a,0066,00fc,0072,0020,004b,006e,0061,0062,0065,006e,002e,0020,004a,0065,0064,0065,0020,0047,0072,00f6,0073,0073,0065,002e,0020,2014,0020,0042,0065,0073,0074,0065,000a,0057,0061,0061,0072,0065,0020,0035,0020,004d,006b,002e,002c,0020,0037,0020,004d,006b,002e,0020,0039,0020,004d,006b,002e,000a,0050,006f,0072,0074,0069,00e8,0072,0065,006e,000a,0064,0061,0073,0020,0073,0074,00f9,0063,006b,000a,0076,006f,006e,0020,0034,0020,004d,006b,002e,0020,0062,0069,0073,0020,0034,0035,0020,004d,006b,002e,000a,006b,006f,0073,0074,0065,006e,0020,006e,0061,0063,0068,0020,0064,0065,006d,0020,007a,006f,006c,006c,002d,000a,0041,006e,0073,0063,0068,006c,0075,0073,0073,0020,0032,2014,0036,0020,004d,006b,002e,000a,006d,0065,0068,0072,002e,000a,0053,0063,0068,0077,0061,0072,007a,0065,000a,0075,006e,0064,0020,0066,0061,0072,0062,0069,0067,0065,000a,0053,0065,0069,0064,0065,000a,0066,00fc,0072,0020,0043,006f,0073,0074,00fc,006d,0065,000a,0047,0065,0064,0069,0065,0067,002e,0020,0051,0075,0061,006c,0069,0074,00e4,0074,0065,006e,002e,000a,0076,006f,006e,0020,004d,002e,0020,0031,002e,0037,0030,2014,0035,002e,0035,0030,000a,0064,0061,0073,0020,004d,0065,0074,0065,0072,002e,000a,0046,00fc,0072,0020,0036,2014,0038,0020,2014,0020,0031,0032,0020,0050,0065,0072,0073,002e,000a,0031,002c,0032,0030,0020,004d,006b,002e,002c,0020,0031,002c,0037,0035,002c,0020,004d,006b,002e,000a,0033,0020,004d,006b,002e,002c,0020,0035,0020,004d,006b,002e,002c,0020,0036,0030,0020,004d,006b,002e,000a,0046,00fc,0072,0020,0042,0065,0074,0074,002d,000a,0075,002e,0020,004c,0065,0069,0062,002d,0057,00e4,0073,0063,0068,0065,000a,0064,002e,0020,004d,0065,0074,0065,0072,0020","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"68 Pfg.
+bis 3,20 Mk.
+Handtücher.
+Gesicht- und Ueberhang-
+Handtücher.
+Winter-Mäntel.
+Aus hochmodernen Stoffen.
+Elegante Formen.
+45 Mk., 60 Mk., 75 Mk. u. s. w.
+Engl. Tüll-Gardinen.
+K","0036,0038,0020,0050,0066,0067,002e,000a,0062,0069,0073,0020,0033,002c,0032,0030,0020,004d,006b,002e,000a,0048,0061,006e,0064,0074,00fc,0063,0068,0065,0072,002e,000a,0047,0065,0073,0069,0063,0068,0074,002d,0020,0075,006e,0064,0020,0055,0065,0062,0065,0072,0068,0061,006e,0067,002d,000a,0048,0061,006e,0064,0074,00fc,0063,0068,0065,0072,002e,000a,0057,0069,006e,0074,0065,0072,002d,004d,00e4,006e,0074,0065,006c,002e,000a,0041,0075,0073,0020,0068,006f,0063,0068,006d,006f,0064,0065,0072,006e,0065,006e,0020,0053,0074,006f,0066,0066,0065,006e,002e,000a,0045,006c,0065,0067,0061,006e,0074,0065,0020,0046,006f,0072,006d,0065,006e,002e,000a,0034,0035,0020,004d,006b,002e,002c,0020,0036,0030,0020,004d,006b,002e,002c,0020,0037,0035,0020,004d,006b,002e,0020,0075,002e,0020,0073,002e,0020,0077,002e,000a,0045,006e,0067,006c,002e,0020,0054,00fc,006c,006c,002d,0047,0061,0072,0064,0069,006e,0065,006e,002e,000a,004b","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"0 M","0030,0020,004d","","","none","4"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"M","004d","A","0041","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"egen","0065,0067,0065,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," ","0020","","","none","35"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ch","0063,0068","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"rr","0072,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,".","002e","","","none","10"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"züge","007a,00fc,0067,0065","xuuoo","0078,0075,0075,006f,006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"in","0069,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ss und ","0073,0073,0020,0075,006e,0064,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"leiders","006c,0065,0069,0064,0065,0072,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"achenheim.","0061,0063,0068,0065,006e,0068,0065,0069,006d,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," und pra","0020,0075,006e,0064,0020,0070,0072,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"er gegen ","0065,0072,0020,0067,0065,0067,0065,006e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,", ","002c,0020","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Ausverkau","0041,0075,0073,0076,0065,0072,006b,0061,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"z","007a","en aucht mit N","0065,006e,0020,0061,0075,0063,0068,0074,0020,006d,0069,0074,0020,004e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"te","0074,0065","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"sche Paten","0073,0063,0068,0065,0020,0050,0061,0074,0065,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," in Be","0020,0069,006e,0020,0042,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+","000a"," ","0020","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Nr. 21.","004e,0072,002e,0020,0032,0031,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"nd di","006e,0064,0020,0064,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"P","0050","p","0070","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"nigen an s","006e,0069,0067,0065,006e,0020,0061,006e,0020,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"m ","006d,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"t","0074","","","none","10"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"s ","0073,0020","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," gewes","0020,0067,0065,0077,0065,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+Ansch","000a,0041,006e,0073,0063,0068","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"eue","0065,0075,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+Von ","000a,0056,006f,006e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"n ","006e,0020","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"zeug un","007a,0065,0075,0067,0020,0075,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Pf., ","0050,0066,002e,002c,0020","
+","000a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"M","004d","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," M","0020,004d","","","none","4"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,".,","002e,002c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"k","006b","v. 
+b0 M","0076,002e,0020,000a,0062,0030,0020,004d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"r.","0072,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+Absolut","000a,0041,0062,0073,006f,006c,0075,0074","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"a","0061","","","none","4"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","ens. Handtiehar. 
+Abgotat wasgerdieht. GS","0065,006e,0073,002e,0020,0048,0061,006e,0064,0074,0069,0065,0068,0061,0072,002e,0020,000a,0041,0062,0067,006f,0074,0061,0074,0020,0077,0061,0073,0067,0065,0072,0064,0069,0065,0068,0074,002e,0020,0047,0053","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"e","0065","","","none","22"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"%","0025","oſo ","006f,017f,006f,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"n","006e","","","none","14"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"be","0062,0065","hs","0068,0073","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"",""," 18,60 - 17, 60 Mx. 8,80- 10 0 ","0020,0031,0038,002c,0036,0030,0020,002d,0020,0031,0037,002c,0020,0036,0030,0020,004d,0078,002e,0020,0038,002c,0038,0030,002d,0020,0031,0030,0020,0030,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"s","0073","","","none","4"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"arbig.","0061,0072,0062,0069,0067,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"von ","0076,006f,006e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"to","0074,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"in pass","0069,006e,0020,0070,0061,0073,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"r und bil","0072,0020,0075,006e,0064,0020,0062,0069,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ene","0065,006e,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ti","0074,0069","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"aus i","0061,0075,0073,0020,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"euer ohne","0065,0075,0065,0072,0020,006f,0068,006e,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"f","0066","i","0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"at","0061,0074","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"1","0031","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,", Pantos","002c,0020,0050,0061,006e,0074,006f,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," u","0020,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ol","006f,006c","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"fen.","0066,0065,006e,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ambur","0061,006d,0062,0075,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"icht","0069,0063,0068,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"s Hoh","0073,0020,0048,006f,0068","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"tre","0074,0072,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ver","0076,0065,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"",""," ","0020","false detection","12"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"§ ","00a7,0020","6","0036","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"reit","0072,0065,0069,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"schon bis","0073,0063,0068,006f,006e,0020,0062,0069,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"i","0069","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"z","007a","tæ","0074,00e6","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"indli","0069,006e,0064,006c,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"olg","006f,006c,0067","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"uss ","0075,0073,0073,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"th","0074,0068","in","0069,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"er ","0065,0072,0020","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"",""," 
+  
+  
+  ","0020,000a,0020,0020,000a,0020,0020,000a,0020,0020","false detection","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"d","0064","ch","0063,0068","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"nen ","006e,0065,006e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"inen.","0069,006e,0065,006e,002e","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"e","0065","a","0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"r","0072","","","none","5"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Pf., 65 Pf. bis 1,10 ","0050,0066,002e,002c,0020,0036,0035,0020,0050,0066,002e,0020,0062,0069,0073,0020,0031,002c,0031,0030,0020","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"k.
+H. Budelmann,
+Rathhausmarkt 7,
+Rathhausstr. 22.
+Wegen
+Zoll - Anschlusses
+Kleiderstoffe
+In allen Farben","006b,002e,000a,0048,002e,0020,0042,0075,0064,0065,006c,006d,0061,006e,006e,002c,000a,0052,0061,0074,0068,0068,0061,0075,0073,006d,0061,0072,006b,0074,0020,0037,002c,000a,0052,0061,0074,0068,0068,0061,0075,0073,0073,0074,0072,002e,0020,0032,0032,002e,000a,0057,0065,0067,0065,006e,000a,005a,006f,006c,006c,0020,002d,0020,0041,006e,0073,0063,0068,006c,0075,0073,0073,0065,0073,000a,004b,006c,0065,0069,0064,0065,0072,0073,0074,006f,0066,0066,0065,000a,0049,006e,0020,0061,006c,006c,0065,006e,0020,0046,0061,0072,0062,0065,006e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"estreift und glatt.
+Das","0065,0073,0074,0072,0065,0069,0066,0074,0020,0075,006e,0064,0020,0067,006c,0061,0074,0074,002e,000a,0044,0061,0073","o","006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"k","006b","u. ] g2 Pt","0075,002e,0020,005d,0020,0067,0032,0020,0050,0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"h","0068","n","006e","misrecognised","3"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"-","002d","⸗","2e17","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ä","00e4","aͤ","0061,0364","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"w","0077","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"sserdicht. Schöne Formen.
+von 4 Mk.—35 Mk.
+","0073,0073,0065,0072,0064,0069,0063,0068,0074,002e,0020,0053,0063,0068,00f6,006e,0065,0020,0046,006f,0072,006d,0065,006e,002e,000a,0076,006f,006e,0020,0034,0020,004d,006b,002e,2014,0033,0035,0020,004d,006b,002e,000a","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","öns Form","00f6,006e,0073,0020,0046,006f,0072,006d","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"m","006d","von  . sb . —— osian  unan- 
+Sonſaf ung 98 das Dutzond Das ſtu","0076,006f,006e,0020,0020,002e,0020,0073,0062,0020,002e,0020,2014,2014,0020,006f,0073,0069,0061,006e,0020,0020,0075,006e,0061,006e,002d,0020,000a,0053,006f,006e,017f,0061,0066,0020,0075,006e,0067,0020,0039,0038,0020,0064,0061,0073,0020,0044,0075,0074,007a,006f,006e,0064,0020,0044,0061,0073,0020,017f,0074,0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"-G","002d,0047","b","0062","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"k","006b","","","miss","6"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+45","000a,0034,0035","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Mk., 65 Mk. u. s. w.
+Regenröcke, neue stoffe,
+20 Mk., 80 Mk., 40 Mk.
+Schlaf- und Reise-
+","004d,006b,002e,002c,0020,0036,0035,0020,004d,006b,002e,0020,0075,002e,0020,0073,002e,0020,0077,002e,000a,0052,0065,0067,0065,006e,0072,00f6,0063,006b,0065,002c,0020,006e,0065,0075,0065,0020,0073,0074,006f,0066,0066,0065,002c,000a,0032,0030,0020,004d,006b,002e,002c,0020,0038,0030,0020,004d,006b,002e,002c,0020,0034,0030,0020,004d,006b,002e,000a,0053,0063,0068,006c,0061,0066,002d,0020,0075,006e,0064,0020,0052,0065,0069,0073,0065,002d,000a","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"f","0066","t","0074","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," 12 M","0020,0031,0032,0020,004d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+S","000a,0053","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"C","0043","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","iaf","0069,0061,0066","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"aaren","0061,0061,0072,0065,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"den L","0064,0065,006e,0020,004c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Be","0042,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"epot f","0065,0070,006f,0074,0020,0066","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"se","0073,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"k","006b","t","0074","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"s","0073,f502","ſchf","017f,0063,0068,0066","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,". — ","002e,0020,2014,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"t ","0074,0020","","","none","4"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"F","0046","S","0053","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"tis","0074,0069,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"R","0052","ſt","017f,0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"hh","0068,0068","nn","006e,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","io. Allo — Uuiio ","0069,006f,002e,0020,0041,006c,006c,006f,0020,2014,0020,0055,0075,0069,0069,006f,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," Zoll","0020,005a,006f,006c,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," werden.","0020,0077,0065,0072,0064,0065,006e,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"üg","00fc,eec4,0067","nb","006e,0062","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ri","0072,0069","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"t-Oe","0074,002d,004f,0065","i. Co","0069,002e,0020,0043,006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," in ","0020,0069,006e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"g","0067","s","0073","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"eb!","0065,0062,0021","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," — ","0020,2014,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+Ein","000a,0045,0069,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+b","000a,0062","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ffe","0066,0066,0065","tia","0074,0069,0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"teu","0074,0065,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"uer","0075,0065,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"die","0064,0069,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"aaren, ","0061,0061,0072,0065,006e,002c,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"r (d","0072,0020,0028,0064","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"z","007a","Z","005a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"-","002d","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"I","0049","l","006c","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ch","0063,0068","on","006f,006e","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"is","0069,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"em","0065,006d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"l","006c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"b","0062","h","0068","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"r","0072","t","0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"w","0077","v","0076","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","m","006d","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Tis","0054,0069,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"d","0064","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"eter","0065,0074,0065,0072",".","002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+","000a"," as Pt. 45 Pt., b Pt. bis ","0020,0061,0073,0020,0050,0074,002e,0020,0034,0035,0020,0050,0074,002e,002c,0020,0062,0020,0050,0074,002e,0020,0062,0069,0073,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,",5","002c,0035",".1","002e,0031","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"R","0052","ſi","017f,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","n","006e","false detection","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+K","000a,004b"," R","0020,0052","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"hr","0068,0072"," 
+— 6","0020,000a,2014,0020,0036","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","20, 7,60, 11 Me. 1. 5. L.Bo, 2. ","0032,0030,002c,0020,0037,002c,0036,0030,002c,0020,0031,0031,0020,004d,0065,002e,0020,0031,002e,0020,0035,002e,0020,004c,002e,0042,006f,002c,0020,0032,002e,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"w","0077","46 M. (b  u. . x. m","0034,0036,0020,004d,002e,0020,0028,0062,0020,0020,0075,002e,0020,002e,0020,0078,002e,0020,006d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"i","0069","l","006c","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"., 6","002e,002c,0020,0036","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"k","006b",".","002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"k","006b","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+u","000a,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Mk, 1,70—5,50
+das Meter.
+Reste
+und
+","004d,006b,002c,0020,0031,002c,0037,0030,2014,0035,002c,0035,0030,000a,0064,0061,0073,0020,004d,0065,0074,0065,0072,002e,000a,0052,0065,0073,0074,0065,000a,0075,006e,0064,000a","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"oupons
+von k","006f,0075,0070,006f,006e,0073,000a,0076,006f,006e,0020,006b","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ffe","0066,0066,0065","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+","000a"," 
+—  —  —— ","0020,000a,2014,0020,0020,2014,0020,0020,2014,2014,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"- ","002d,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+","000a"," 
+1 — ","0020,000a,0031,0020,2014,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"en","0065,006e","ou","006f,0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ngen.","006e,0067,0065,006e,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+","000a"," 8 ii Jfm mn 7 — 
+— D Fener⸗ — ","0020,0038,0020,0069,0069,0020,004a,0066,006d,0020,006d,006e,0020,0037,0020,2014,0020,000a,2014,0020,0044,0020,0046,0065,006e,0065,0072,2e17,0020,2014,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"igst","0069,0067,0073,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"r Ham","0072,0020,0048,0061,006d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"an","0061,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"r Su gege","0072,0020,0053,f502,0075,eedc,0020,0067,0065,0067,0065","nco","006e,0063,006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," z","0020,007a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"s","0073","ſ","017f","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"i","0069","","","none","3"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"el","0065,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"F. ","0046,002e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"0","0030"," 555 — — zenn  — 
+— j — Ferdinandſtraße 16","0020,0035,0035,0035,0020,2014,0020,2014,0020,007a,0065,006e,006e,0020,0020,2014,0020,000a,2014,0020,006a,0020,2014,0020,0046,0065,0072,0064,0069,006e,0061,006e,0064,017f,0074,0072,0061,00df,0065,0020,0031,0036","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+","000a"," Fernſprechet 666. 14 dal.une- Ahenunoatet gelangt am moruon in 
+Ta","0020,0046,0065,0072,006e,017f,0070,0072,0065,0063,0068,0065,0074,0020,0036,0036,0036,002e,0020,0031,0034,0020,0064,0061,006c,002e,0075,006e,0065,002d,0020,0041,0068,0065,006e,0075,006e,006f,0061,0074,0065,0074,0020,0067,0065,006c,0061,006e,0067,0074,0020,0061,006d,0020,006d,006f,0072,0075,006f,006e,0020,0069,006e,0020,000a,0054,0061","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"oskop","006f,0073,006b,006f,0070","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"op","006f,0070","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"",""," da","0020,0064,0061","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","r","0072","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","eedc",", abtita","002c,0020,0061,0062,0074,0069,0074,0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"r
+Oper","0072,000a,004f,0070,0065,0072","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"gläser","0067,006c,00e4,0073,0065,0072",",","002c","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"scho","0073,0063,0068,006f","* — —— Lſ","002a,0020,2014,0020,2014,2014,0020,004c,017f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"u","0075","","","none","3"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"für
+Amerikan. Heizanlagen.
+Alleinige Kiederlage der
+Original=Amerik. „Garland" - Stoves
+(nit mit Nürnberg. Fabrikaten zu verwesein).
+Lönholdt'","0066,00fc,0072,000a,0041,006d,0065,0072,0069,006b,0061,006e,002e,0020,0048,0065,0069,007a,0061,006e,006c,0061,0067,0065,006e,002e,000a,0041,006c,006c,0065,0069,006e,0069,0067,0065,0020,004b,0069,0065,0064,0065,0072,006c,0061,0067,0065,0020,0064,0065,0072,000a,004f,0072,0069,0067,0069,006e,0061,006c,003d,0041,006d,0065,0072,0069,006b,002e,0020,201e,0047,0061,0072,006c,0061,006e,0064,0022,0020,002d,0020,0053,0074,006f,0076,0065,0073,000a,0028,006e,0069,f502,0074,0020,006d,0069,0074,0020,004e,00fc,0072,006e,0062,0065,0072,0067,002e,0020,0046,0061,0062,0072,0069,006b,0061,0074,0065,006e,0020,007a,0075,0020,0076,0065,0072,0077,0065,f502,0073,0065,0069,006e,0029,002e,000a,004c,00f6,006e,0068,006f,006c,0064,0074,0027","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"",""," Ki li 7 unter Garanne, Stac à und 3 Mark. ","0020,004b,0069,0020,006c,0069,0020,0037,0020,0075,006e,0074,0065,0072,0020,0047,0061,0072,0061,006e,006e,0065,002c,0020,0053,0074,0061,0063,0020,00e0,0020,0075,006e,0064,0020,0033,0020,004d,0061,0072,006b,002e,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"n","006e","a","0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"H","0048","O","004f","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,". ","002e,0020","","","none","4"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,": ","003a,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"uf ","0075,0066,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"s","0073","a","0061","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"r ","0072,0020","","","none","3"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"je","006a,0065","ls","006c,0073","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," nac","0020,006e,0061,0063","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"nn si","006e,006e,0020,0073,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"he","0068,0065","no","006e,006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"l","006c","t","0074","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"e ","0065,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"t","0074","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"A","0041","K","004b","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ch","0063,0068","en","0065,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","t 
+In allon Farben. Gestreitft un","0074,0020,000a,0049,006e,0020,0061,006c,006c,006f,006e,0020,0046,0061,0072,0062,0065,006e,002e,0020,0047,0065,0073,0074,0072,0065,0069,0074,0066,0074,0020,0075,006e","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"as ","0061,0073,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+","000a"," k 
+Eles anto Lormen- buplc Rollonaare. ","0020,006b,0020,000a,0045,006c,0065,0073,0020,0061,006e,0074,006f,0020,004c,006f,0072,006d,0065,006e,002d,0020,0062,0075,0070,006c,0063,0020,0052,006f,006c,006c,006f,006e,0061,0061,0072,0065,002e,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+32","000a,0033,0032","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Pf., 3","0050,0066,002e,002c,0020,0033","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"50","0035,0030","ĩ8","0129,0038","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Pfg., 1 Mk., 1,50 Mk.,
+2 Mk.","0050,0066,0067,002e,002c,0020,0031,0020,004d,006b,002e,002c,0020,0031,002c,0035,0030,0020,004d,006b,002e,002c,000a,0032,0020,004d,006b,002e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","c. 
+a 
+","0063,002e,0020,000a,0061,0020,000a","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,".","002e"," 
+— 2 e 
+5 — 75 6 ſ ","0020,000a,2014,0020,0032,0020,0065,0020,000a,0035,0020,2014,0020,0037,0035,0020,0036,0020,017f,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"c","0063","","","none","3"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," ","0020","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"W","0057","N","004e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ä","00e4","a","0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Cham","0043,0068,0061,006d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ü","00fc","u","0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"b","0062","d","0064","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+g","000a,0067"," e","0020,0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"os","006f,0073","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ts ","0074,0073,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Versagt","0056,0065,0072,0073,0061,0067,0074","————","2014,2014,2014,2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","f502","ch","0063,0068","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"H","0048","li","006c,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"f!","0066,0021","ill ſ 2. Spe aelhan Iu.. aets ourodos Onartai au Eino nur ","0069,006c,006c,0020,017f,0020,0032,002e,0020,0053,0070,0065,0020,0061,0065,006c,0068,0061,006e,0020,0049,0075,002e,002e,0020,0061,0065,0074,0073,0020,006f,0075,0072,006f,0064,006f,0073,0020,004f,006e,0061,0072,0074,0061,0069,0020,0061,0075,0020,0045,0069,006e,006f,0020,006e,0075,0072,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+Ste","000a,0053,0074,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"e","0065","t","0074","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"c","0063","t","0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," 2","0020,0032","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"nt","006e,0074",". v","002e,0020,0076","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," vo","0020,0076,006f","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," 2Mk.an.
+W. Basilius,
+Optiker,
+Königstr. 245, Altona.
+Vor mangelhasten Naahmungen in hüten !
+Ad","0020,0032,004d,006b,002e,0061,006e,002e,000a,0057,002e,0020,0042,0061,0073,0069,006c,0069,0075,0073,002c,000a,004f,0070,0074,0069,006b,0065,0072,002c,000a,004b,00f6,006e,0069,0067,0073,0074,0072,002e,0020,0032,0034,0035,002c,0020,0041,006c,0074,006f,006e,0061,002e,000a,0056,006f,0072,0020,006d,0061,006e,0067,0065,006c,0068,0061,0073,0074,0065,006e,0020,004e,0061,f502,0061,0068,006d,0075,006e,0067,0065,006e,0020,0069,006e,0020,0068,00fc,0074,0065,006e,0020,0021,000a,0041,0064","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ph L","0070,0068,0020,004c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"dolphi
+Ferdinadstraße 76. Fernspreer 666.
+Erstes Speztalgesäf","0064,006f,006c,0070,0068,0069,000a,0046,0065,0072,0064,0069,006e,0061,0064,0073,0074,0072,0061,00df,0065,0020,0037,0036,002e,0020,0046,0065,0072,006e,0073,0070,0072,0065,f502,0065,0072,0020,0036,0036,0036,002e,000a,0045,0072,0073,0074,0065,0073,0020,0053,0070,0065,007a,0074,0061,006c,0067,0065,0073,f502,00e4,0066","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"U","0055","i3 ius, — uuun. n","0069,0033,0020,0069,0075,0073,002c,0020,2014,0020,0075,0075,0075,006e,002e,0020,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","rr","0072,0072","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ri","0072,0069","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"täglich (wöchentlich sechsmal).
+Abonnement 1 Mark vierteljährlich.
+Die „Berliner Abendpost" ist ohne politischen Partel-
+standpunkt eine Zeitung der Thatsachen und Ereigniese, der
+raschen und sachlichen Ber","0074,00e4,0067,006c,0069,0063,0068,0020,0028,0077,00f6,0063,0068,0065,006e,0074,006c,0069,0063,0068,0020,0073,0065,0063,0068,0073,006d,0061,006c,0029,002e,000a,0041,0062,006f,006e,006e,0065,006d,0065,006e,0074,0020,0031,0020,004d,0061,0072,006b,0020,0076,0069,0065,0072,0074,0065,006c,006a,00e4,0068,0072,006c,0069,0063,0068,002e,000a,0044,0069,0065,0020,201e,0042,0065,0072,006c,0069,006e,0065,0072,0020,0041,0062,0065,006e,0064,0070,006f,0073,0074,0022,0020,0069,0073,0074,0020,006f,0068,006e,0065,0020,0070,006f,006c,0069,0074,0069,0073,0063,0068,0065,006e,0020,0050,0061,0072,0074,0065,006c,002d,000a,0073,0074,0061,006e,0064,0070,0075,006e,006b,0074,0020,0065,0069,006e,0065,0020,005a,0065,0069,0074,0075,006e,0067,0020,0064,0065,0072,0020,0054,0068,0061,0074,0073,0061,0063,0068,0065,006e,0020,0075,006e,0064,0020,0045,0072,0065,0069,0067,006e,0069,0065,0073,0065,002c,0020,0064,0065,0072,000a,0072,0061,0073,0063,0068,0065,006e,0020,0075,006e,0064,0020,0073,0061,0063,0068,006c,0069,0063,0068,0065,006e,0020,0042,0065,0072","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"erstattung","0065,0072,0073,0074,0061,0074,0074,0075,006e,0067"," i ——","0020,0069,0020,2014,2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ss","0073,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"N","004e","H","0048","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","oe","006f,0065","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ac","0061,0063","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"„","201e","  
+— 77 * 7 
+n","0020,0020,000a,2014,0020,0037,0037,0020,002a,0020,0037,0020,000a,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ich","0069,0063,0068","len","006c,0065,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"tig","0074,0069,0067","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"we","0077,0065","nu","006e,0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," g","0020,0067","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"„","201e","n","006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"„f","201e,0066","n","006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,""","0022","“ ","201c,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"",""," glatt. ] fr Enaben. Jedeo Grõass. — Begts 1 ","0020,0067,006c,0061,0074,0074,002e,0020,005d,0020,0066,0072,0020,0045,006e,0061,0062,0065,006e,002e,0020,004a,0065,0064,0065,006f,0020,0047,0072,00f5,0061,0073,0073,002e,0020,2014,0020,0042,0065,0067,0074,0073,0020,0031,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","Ei","0045,0069","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"cha","0063,0068,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ner","006e,0065,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","heint","0068,0065,0069,006e,0074","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Joh","004a,006f,0068","ta","0074,0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","e","0065","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"X","0058","— 
+* ſ","2014,0020,000a,002a,0020,017f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"uer
+dur die
+Imperial = Feuer=
+Lös=Granaten.
+Das","0075,0065,0072,000a,0064,0075,0072,f502,0020,0064,0069,0065,000a,0049,006d,0070,0065,0072,0069,0061,006c,0020,003d,0020,0046,0065,0075,0065,0072,003d,000a,004c,00f6,0073,f502,003d,0047,0072,0061,006e,0061,0074,0065,006e,002e,000a,0044,0061,0073","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"uverläss","0075,0076,0065,0072,006c,00e4,0073,0073","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"gste","0067,0073,0074,0065","z","007a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ös=","00f6,0073,f502,003d","oſch⸗3 ","006f,017f,0063,0068,2e17,0033,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"it","0069,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"nie.","006e,0069,0065,002e","——— — — — ⏑— — — ","2014,2014,2014,0020,2014,0020,2014,0020,2014,0020,23d1,2014,0020,2014,0020,2014,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"",""," — Dis „aori AEend p ","0020,2014,0020,0044,0069,0073,0020,201e,0061,006f,0072,0069,0020,0041,0045,0065,006e,0064,0020,0070,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"b","0062","huft","0068,0075,0066,0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,".","002e"," — ſ ſ ſf n —— enen beef —— — 23 ","0020,2014,0020,017f,0020,017f,0020,017f,0066,0020,006e,0020,2014,2014,0020,0065,006e,0065,006e,0020,0062,0065,0065,0066,0020,2014,2014,0020,2014,0020,0032,0033,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"W","0057","onn","006f,006e,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"g","0067","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,". a","002e,0020,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"re","0072,0065","tt","0074,0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"r","0072","xwech","0078,0077,0065,0063,0068","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Fab","0046,0061,0062","ſelm. i 
+————— ","017f,0065,006c,006d,002e,0020,0069,0020,000a,2014,2014,2014,2014,2014,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+Die","000a,0044,0069,0065","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Tägliche","0054,00e4,0067,006c,0069,0063,0068,0065","⏑","23d1","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Börsen-
+und Handelsberichte.","0042,00f6,0072,0073,0065,006e,002d,000a,0075,006e,0064,0020,0048,0061,006e,0064,0065,006c,0073,0062,0065,0072,0069,0063,0068,0074,0065,002e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Im","0049,006d","⏑","23d1","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"„Bozena","201e,0042,006f,007a,0065,006e,0061","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"reinwollene","0072,0065,0069,006e,0077,006f,006c,006c,0065,006e,0065","— — 
+tu","2014,0020,2014,0020,000a,0074,0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"st","0073,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"N","004e","ti","0074,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"rp","0072,0070","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"au","0061,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Räumu","0052,00e4,0075,006d,0075","  
+       
+    
+        
+      
+    
+    
+      
+    
+      
+    
+            
+  
+So","0020,0020,000a,0020,0020,0020,0020,0020,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,0020,0020,0020,0020,0020,0020,000a,0020,0020,0020,0020,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,0020,0020,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,0020,0020,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,0020,0020,0020,0020,0020,0020,0020,0020,0020,0020,000a,0020,0020,000a,0053,006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"g aller ausländ","0067,0020,0061,006c,006c,0065,0072,0020,0061,0075,0073,006c,00e4,006e,0064","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"chen","0063,0068,0065,006e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Fabrikate,
+sowi","0046,0061,0062,0072,0069,006b,0061,0074,0065,002c,000a,0073,006f,0077,0069"," ","0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"aller","0061,006c,006c,0065,0072","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"derjenigen Waaren, weiche nach erf","0064,0065,0072,006a,0065,006e,0069,0067,0065,006e,0020,0057,0061,0061,0072,0065,006e,002c,0020,0077,0065,0069,0063,0068,0065,0020,006e,0061,0063,0068,0020,0065,0072,0066","D","0044","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"u","0075","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"L","004c","Das M","0044,0061,0073,0020,004d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","ter bo Ptg. I N. b0 Mu., Waaro 6 M. 7 M. 9 Me. biin. 
+2 M. u. . v. fur 6-3 — 12 pers. Fa e 
+Engl. Tüll.barl","0074,0065,0072,0020,0062,006f,0020,0050,0074,0067,002e,0020,0049,0020,004e,002e,0020,0062,0030,0020,004d,0075,002e,002c,0020,0057,0061,0061,0072,006f,0020,0036,0020,004d,002e,0020,0037,0020,004d,002e,0020,0039,0020,004d,0065,002e,0020,0062,0069,0069,006e,002e,0020,000a,0032,0020,004d,002e,0020,0075,002e,0020,002e,0020,0076,002e,0020,0066,0075,0072,0020,0036,002d,0033,0020,2014,0020,0031,0032,0020,0070,0065,0072,0073,002e,0020,0046,0061,0020,0065,0020,000a,0045,006e,0067,006c,002e,0020,0054,00fc,006c,006c,002e,0062,0061,0072,006c","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"",""," ri * ","0020,0072,0069,0020,002a,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"d","0064","oston naen dem Lollansehlu","006f,0073,0074,006f,006e,0020,006e,0061,0065,006e,0020,0064,0065,006d,0020,004c,006f,006c,006c,0061,006e,0073,0065,0068,006c,0075","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"6","0036","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," St","0020,0053,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"k.","006b,002e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"2","0032","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,",","002c"," Bo .. 40 M. bb0 M.","0020,0042,006f,0020,002e,002e,0020,0034,0030,0020,004d,002e,0020,0062,0062,0030,0020,004d,002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"hwarz","0068,0077,0061,0072,007a","i","0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","t U 
+E ","0074,0020,0055,0020,000a,0045,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"nd","006e,0064","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Qualitäten.","0051,0075,0061,006c,0069,0074,00e4,0074,0065,006e,002e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","1 — * ","0031,0020,2014,0020,002a,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"",""," ſ . ","0020,017f,0020,002e,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"-G","002d,0047"," J","0020,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ral","0072,0061,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"isstrasse","0069,0073,0073,0074,0072,0061,0073,0073,0065","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"10, 11.
+Vollkomm","0031,0030,002c,0020,0031,0031,002e,000a,0056,006f,006c,006c,006b,006f,006d,006d","d","0064","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"m","006d","n","006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Gege","0047,0065,0067,0065","— Joh","2014,0020,004a,006f,0068","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"w","0077","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"bere","0062,0065,0072,0065","di","0064,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"",""," esent mo","0020,0065,0073,0065,006e,0074,0020,006d,006f","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Kein","004b,0065,0069,006e","——","2014,2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"di","0064,0069","— lh","2014,0020,006c,0068","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"s","0073","r nang","0072,0020,006e,0061,006e,0067","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"V","0056","— ſbori","2014,0020,017f,0062,006f,0072,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","mon an obor-Quu —— 
+— — u loll. ſammt aust. ald Amerikan. He izanla","006d,006f,006e,0020,0061,006e,0020,006f,0062,006f,0072,002d,0051,0075,0075,0020,2014,2014,0020,000a,2014,0020,2014,0020,0075,0020,006c,006f,006c,006c,002e,0020,017f,0061,006d,006d,0074,0020,0061,0075,0073,0074,002e,0020,0061,006c,0064,0020,0041,006d,0065,0072,0069,006b,0061,006e,002e,0020,0048,0065,0020,0069,007a,0061,006e,006c,0061","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,".","002e","en. Jous mau boi dor Postantali- autgeben-. 4 
+Pur Annoncen:","0065,006e,002e,0020,004a,006f,0075,0073,0020,006d,0061,0075,0020,0062,006f,0069,0020,0064,006f,0072,0020,0050,006f,0073,0074,0061,006e,0074,0061,006c,0069,002d,0020,0061,0075,0074,0067,0065,0062,0065,006e,002d,002e,0020,0034,0020,000a,0050,0075,0072,0020,0041,006e,006e,006f,006e,0063,0065,006e,003a","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ect","0065,0063,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"C","0043","c","0063","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"billigste Tageszeitu","0062,0069,006c,006c,0069,0067,0073,0074,0065,0020,0054,0061,0067,0065,0073,007a,0065,0069,0074,0075","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"g in Deutschland.
+Berliner Abendpost
+erschein","0067,0020,0069,006e,0020,0044,0065,0075,0074,0073,0063,0068,006c,0061,006e,0064,002e,000a,0042,0065,0072,006c,0069,006e,0065,0072,0020,0041,0062,0065,006e,0064,0070,006f,0073,0074,000a,0065,0072,0073,0063,0068,0065,0069,006e","ſ","017f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Feuilleton","0046,0065,0075,0069,006c,006c,0065,0074,006f,006e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"beginnt Anfangs Oktober
+der höchst interessante Roman","0062,0065,0067,0069,006e,006e,0074,0020,0041,006e,0066,0061,006e,0067,0073,0020,004f,006b,0074,006f,0062,0065,0072,000a,0064,0065,0072,0020,0068,00f6,0063,0068,0073,0074,0020,0069,006e,0074,0065,0072,0065,0073,0073,0061,006e,0074,0065,0020,0052,006f,006d,0061,006e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Matuschek"","004d,0061,0074,0075,0073,0063,0068,0065,006b,0022","—","2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"e","0065"," Fn S3. 
+ll. 
+  
+   
+  
+     
+    
+     
+     
+  
+      
+  
+    
+  
+  
+    
+  
+          
+      
+        
+    
+— — ⏑⏑t ů ⏑ U— U—— 
+  
+ —  — 
+   
+       
+1 
+1 
+— — — — — — — — — —  2 — d 
+22. 3 3. 2 ſ 
+an","0020,0046,006e,0020,0053,0033,002e,0020,000a,006c,006c,002e,0020,000a,0020,0020,000a,0020,0020,0020,000a,0020,0020,000a,0020,0020,0020,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,0020,0020,0020,000a,0020,0020,0020,0020,0020,000a,0020,0020,000a,0020,0020,0020,0020,0020,0020,000a,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,000a,0020,0020,0020,0020,0020,0020,0020,0020,0020,0020,000a,0020,0020,0020,0020,0020,0020,000a,0020,0020,0020,0020,0020,0020,0020,0020,000a,0020,0020,0020,0020,000a,2014,0020,2014,0020,23d1,23d1,0074,0020,016f,0020,23d1,0020,0055,2014,0020,0055,2014,2014,0020,000a,0020,0020,000a,0020,2014,0020,0020,2014,0020,000a,0020,0020,0020,000a,0020,0020,0020,0020,0020,0020,0020,000a,0031,0020,000a,0031,0020,000a,2014,0020,2014,0020,2014,0020,2014,0020,2014,0020,2014,0020,2014,0020,2014,0020,2014,0020,2014,0020,0020,0032,0020,2014,0020,0064,0020,000a,0032,0032,002e,0020,0033,0020,0033,002e,0020,0032,0020,017f,0020,000a,0061,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Kleider","004b,006c,0065,0069,0064,0065,0072","co","0063,006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"e.","0065,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"hs","0068,0073","na ","006e,0061,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"flich","0066,006c,0069,0063,0068","men","006d,0065,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ebr","0065,0062,0072","o","006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"nd","006e,0064","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","ts: 
+  
+  
+—  — 8 — —  9 
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+  
+  
+      
+     
+   
+  
+  
+      
+      
+      
+     
+  
+  
+  
+   
+  
+   
+      
+  
+  
+  
+     
+   
+              
+  
+  
+  
+    
+—m  — ⏑ 
+   
+     
+  
+    
+    
+  
+  
+     
+   
+   
+     
+        
+    
+      
+    
+    
+  
+   
+   
+   
+  
+  
+  
+    
+    
+    
+      
+   
+        
+   
+  
+  
+  
+   
+       
+  
+  
+  
+  
+Cl","0074,0073,003a,0020,000a,0020,0020,000a,0020,0020,000a,2014,0020,0020,2014,0020,0038,0020,2014,0020,2014,0020,0020,0039,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,0020,0020,0020,0020,000a,0020,0020,0020,0020,0020,000a,0020,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,0020,0020,0020,0020,000a,0020,0020,0020,0020,0020,0020,000a,0020,0020,0020,0020,0020,0020,000a,0020,0020,0020,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,0020,000a,0020,0020,000a,0020,0020,0020,000a,0020,0020,0020,0020,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,0020,0020,0020,000a,0020,0020,0020,000a,0020,0020,0020,0020,0020,0020,0020,0020,0020,0020,0020,0020,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,0020,0020,000a,2014,006d,0020,0020,2014,0020,23d1,0020,000a,0020,0020,0020,000a,0020,0020,0020,0020,0020,000a,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,0020,0020,0020,000a,0020,0020,0020,000a,0020,0020,0020,000a,0020,0020,0020,0020,0020,000a,0020,0020,0020,0020,0020,0020,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,0020,0020,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,000a,0020,0020,0020,000a,0020,0020,0020,000a,0020,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,0020,0020,0020,0020,000a,0020,0020,0020,000a,0020,0020,0020,0020,0020,0020,0020,0020,000a,0020,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,0020,000a,0020,0020,0020,0020,0020,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,000a,0043,006c","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,":
+","003a,000a","itlerstoiis Tricot.naigs. ","0069,0074,006c,0065,0072,0073,0074,006f,0069,0069,0073,0020,0054,0072,0069,0063,006f,0074,002e,006e,0061,0069,0067,0073,002e,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Dutzend
+","0044,0075,0074,007a,0065,006e,0064,000a","2","0032","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Hal","0048,0061,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,",","002c","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,".5","002e,0035","6","0036","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"5","0035","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"k","006b","u","0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,",","002c",".","002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"5","0035","8","0038","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"farbige
+Seide
+für","0066,0061,0072,0062,0069,0067,0065,000a,0053,0065,0069,0064,0065,000a,0066,00fc,0072","—","2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Costüme.
+Gedieg","0043,006f,0073,0074,00fc,006d,0065,002e,000a,0047,0065,0064,0069,0065,0067","( 9 uß 918 7 ","0028,0020,0039,0020,0075,00df,0020,0039,0031,0038,0020,0037,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"A","0041","5  — J","0035,0020,0020,2014,0020,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"s","0073","n","006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"f","0066","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"s","0073","S","0053","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,," f","0020,0066","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"p","0070"," ","0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"g","0067","qnof. Zu Boiong —  —— ug ouostoss- j","0071,006e,006f,0066,002e,0020,005a,0075,0020,0042,006f,0069,006f,006e,0067,0020,2014,0020,0020,2014,2014,0020,0075,0067,0020,006f,0075,006f,0073,0074,006f,0073,0073,002d,0020,006a","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"-D","002d,0044","d","0064","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"tt","0074,0074"," ","0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"l d","006c,0020,0064","g","0067","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","anniaatraauo Iι ","0061,006e,006e,0069,0061,0061,0074,0072,0061,0061,0075,006f,0020,0049,03b9,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,".
+Prosp","002e,000a,0050,0072,006f,0073,0070"," Uahahmung","0020,0055,0061,0068,0061,0068,006d,0075,006e,0067","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"c","0063","n iu hü","006e,0020,0069,0075,0020,0068,00fc","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","n!","006e,0021","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"rtr","0072,0074,0072","ni","006e,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"o","006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"",""," Etlalaal Antti.„Garland Simnes — — — ","0020,0045,0074,006c,0061,006c,0061,0061,006c,0020,0041,006e,0074,0074,0069,002e,201e,0047,0061,0072,006c,0061,006e,0064,0020,0053,0069,006d,006e,0065,0073,0020,2014,0020,2014,0020,2014,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ausverkauft","0061,0075,0073,0076,0065,0072,006b,0061,0075,0066,0074","3 —","0033,0020,2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"von","0076,006f,006e","— ","2014,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"G","0047",".5 fece","002e,0035,0020,0066,0065,0063,0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"o","006f","tsnocι⏑ :, 
+J utiule cec","0074,0073,006e,006f,0063,03b9,23d1,0020,003a,002c,0020,000a,004a,0020,0075,0074,0069,0075,006c,0065,0020,0063,0065,0063","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","hi","0068,0069","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Herbst-Ausverka","0048,0065,0072,0062,0073,0074,002d,0041,0075,0073,0076,0065,0072,006b,0061","
+7 27744 
+","000a,0037,0020,0032,0037,0037,0034,0034,0020,000a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"off","006f,0066,0066","um","0075,006d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"h","0068","natau","006e,0061,0074,0061,0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"teu","0074,0065,0075","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"„W","201e,0057","Fſ nwM","0046,017f,0020,006e,0077,004d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,",20,","002c,0032,0030,002c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"k","006b","i 
+iinlor- Mantel","0069,0020,000a,0069,0069,006e,006c,006f,0072,002d,0020,004d,0061,006e,0074,0065,006c","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"L","004c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"1","0031","ftenenrgotoi neno Stofto","0066,0074,0065,006e,0065,006e,0072,0067,006f,0074,006f,0069,0020,006e,0065,006e,006f,0020,0053,0074,006f,0066,0074,006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"75","0037,0035"," Vid","0020,0056,0069,0064","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,",","002c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,",","002c"," f ","0020,0066,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"8,5","0038,002c,0035","2","0032","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","hu","0068,0075","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"i","0069","z geg","007a,0020,0067,0065,0067","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"llscha","006c,006c,0073,0063,0068,0061","r — — — 3 — — — — — — —  * 7 
+35 — F","0072,0020,2014,0020,2014,0020,2014,0020,0033,0020,2014,0020,2014,0020,2014,0020,2014,0020,2014,0020,2014,0020,2014,0020,0020,002a,0020,0037,0020,000a,0033,0035,0020,2014,0020,0046","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"t
+Schaumweinfabrik W","0074,000a,0053,0063,0068,0061,0075,006d,0077,0065,0069,006e,0066,0061,0062,0072,0069,006b,0020,0057","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","nmæem. Pr","006e,006d,00e6,0065,006d,002e,0020,0050,0072","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"mwein, Ers","006d,0077,0065,0069,006e,002c,0020,0045,0072,0073","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"z","007a","a","0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"e","0065",", Gono","002c,0020,0047,006f,006e,006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ar","0061,0072"," uq, 1 — — — . i 1 
+s","0020,0075,0071,002c,0020,0031,0020,2014,0020,2014,0020,2014,0020,002e,0020,0069,0020,0031,0020,000a,0073","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,".
+Ste","002e,000a,0053,0074,0065","o","006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"gr","0067,0072","ſſiU dlw 6 ","017f,017f,0069,0055,0020,0064,006c,0077,0020,0036,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"",""," 
+c t o","0020,000a,0063,0020,0074,0020,006f","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ter:","0074,0065,0072,003a"," - i 8 f ","0020,002d,0020,0069,0020,0038,0020,0066,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","— ","2014,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"anschl","0061,006e,0073,0063,0068,006c","e","0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"s","0073","b","0062","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"l","006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"usl","0075,0073,006c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ive","0069,0076,0065","ut","0075,0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"",""," — — —  — ","0020,2014,0020,2014,0020,2014,0020,0020,2014,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"C.","0043,002e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ch","0063,0068","n","006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"„","201e","J ","004a,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"7,50,","0037,002c,0035,0030,002c","cſo","0063,017f,006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"",""," — ","0020,2014,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"b-","0062,002d","h.l","0068,002e,006c","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ür
+Zu beziehen d","00fc,0072,000a,005a,0075,0020,0062,0065,007a,0069,0065,0068,0065,006e,0020,0064","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,".","002e"," 3 808 1 ","0020,0033,0020,0038,0030,0038,0020,0031,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"G","0047","rauat","0072,0061,0075,0061,0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ss","0073,0073","pr","0070,0072","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","i","0069","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"",""," Pi hor","0020,0050,0069,0020,0068,006f,0072","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Fab","0046,0061,0062","E 
+die","0045,0020,000a,0064,0069,0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Deutsch.","0044,0065,0075,0074,0073,0063,0068,002e"," ","0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"",""," F i ","0020,0046,0020,0069,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Lau","004c,0061,0075","— —— UJ 
+— 145 
+— — — — d 
+n 
+","2014,0020,2014,2014,0020,0055,004a,0020,000a,2014,0020,0031,0034,0035,0020,000a,2014,0020,2014,0020,2014,0020,2014,0020,0064,0020,000a,006e,0020,000a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Verord","0056,0065,0072,006f,0072,0064","
+","000a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ung","0075,006e,0067"," ","0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"","","ι","03b9","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"u","0075","i","0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"11","0031,0031","vis","0076,0069,0073","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Da","0044,0061","Au","0041,0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"",""," hochmodernem","0020,0068,006f,0063,0068,006d,006f,0064,0065,0072,006e,0065,006d","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"ück
+1,25, 1,80, 2,50,
+3,50—10 Mk.
+Kü","00fc,0063,006b,000a,0031,002c,0032,0035,002c,0020,0031,002c,0038,0030,002c,0020,0032,002c,0035,0030,002c,000a,0033,002c,0035,0030,2014,0031,0030,0020,004d,006b,002e,000a,004b,00fc","offe","006f,0066,0066,0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"stlie Zähne
+unter Garantie, Stfi 2 und Mark.
+Rich","0073,0074,006c,0069,f502,0065,0020,005a,00e4,0068,006e,0065,000a,0075,006e,0074,0065,0072,0020,0047,0061,0072,0061,006e,0074,0069,0065,002c,0020,0053,0074,0066,0069,eec4,0020,0032,0020,0075,006e,0064,0020,004d,0061,0072,006b,002e,000a,0052,0069,0063,0068","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Paul,","0050,0061,0075,006c,002c","7","0037","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"",""," 5 U 
+4","0020,0035,0020,0055,0020,000a,0034","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"l,","006c,002c","im","0069,006d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"kat","006b,0061,0074","⸗","2e17","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Die","0044,0069,0065","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Mk","004d,006b","8","0038","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"
+13,50—17,5","000a,0031,0033,002c,0035,0030,2014,0031,0037,002c,0035","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Zah","005a,0061,0068","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"h","0068","6","0036","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Wein- und Delicatess-
+Handlungen und das
+","0057,0065,0069,006e,002d,0020,0075,006e,0064,0020,0044,0065,006c,0069,0063,0061,0074,0065,0073,0073,002d,000a,0048,0061,006e,0064,006c,0075,006e,0067,0065,006e,0020,0075,006e,0064,0020,0064,0061,0073,000a","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"sämm","0073,00e4,006d,006d","G. Rooha","0047,002e,0020,0052,006f,006f,0068,0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"l","006c","r","0072","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,",","002c","gun","0067,0075,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"als
+Opern=, Zagd=, Kenn=. u. Keise=Persp","0061,006c,0073,000a,004f,0070,0065,0072,006e,003d,002c,0020,005a,0061,0067,0064,003d,002c,0020,004b,0065,006e,006e,003d,002e,0020,0075,002e,0020,004b,0065,0069,0073,0065,003d,0050,0065,0072,0073,0070","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"„Berliner","201e,0042,0065,0072,006c,0069,006e,0065,0072","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Abendpost" gelangt am Morgen in
+Hamburg zur Ausgabe.
+Abonnements für das Oktober-Quartal zu Eine Mark
+wolle man bei der postanstalt aufgeben.
+Für Annoncen: Zeilenpreis 30 Pf. Berlia, SW., Kochstr. 23.
+Auswärts 42,000 Abonnenten.
+HAMBURG
+J. Braun
+Englishe Planke19-16
+Gegründet1856
+","0041,0062,0065,006e,0064,0070,006f,0073,0074,0022,0020,0067,0065,006c,0061,006e,0067,0074,0020,0061,006d,0020,004d,006f,0072,0067,0065,006e,0020,0069,006e,000a,0048,0061,006d,0062,0075,0072,0067,0020,007a,0075,0072,0020,0041,0075,0073,0067,0061,0062,0065,002e,000a,0041,0062,006f,006e,006e,0065,006d,0065,006e,0074,0073,0020,0066,00fc,0072,0020,0064,0061,0073,0020,004f,006b,0074,006f,0062,0065,0072,002d,0051,0075,0061,0072,0074,0061,006c,0020,007a,0075,0020,0045,0069,006e,0065,0020,004d,0061,0072,006b,000a,0077,006f,006c,006c,0065,0020,006d,0061,006e,0020,0062,0065,0069,0020,0064,0065,0072,0020,0070,006f,0073,0074,0061,006e,0073,0074,0061,006c,0074,0020,0061,0075,0066,0067,0065,0062,0065,006e,002e,000a,0046,00fc,0072,0020,0041,006e,006e,006f,006e,0063,0065,006e,003a,0020,005a,0065,0069,006c,0065,006e,0070,0072,0065,0069,0073,0020,0033,0030,0020,0050,0066,002e,0020,0042,0065,0072,006c,0069,0061,002c,0020,0053,0057,002e,002c,0020,004b,006f,0063,0068,0073,0074,0072,002e,0020,0032,0033,002e,000a,0041,0075,0073,0077,00e4,0072,0074,0073,0020,0034,0032,002c,0030,0030,0030,0020,0041,0062,006f,006e,006e,0065,006e,0074,0065,006e,002e,000a,0048,0041,004d,0042,0055,0052,0047,000a,004a,002e,0020,0042,0072,0061,0075,006e,000a,0045,006e,0067,006c,0069,0073,0068,0065,0020,0050,006c,0061,006e,006b,0065,0031,0039,002d,0031,0036,000a,0047,0065,0067,0072,00fc,006e,0064,0065,0074,0031,0038,0035,0036,000a,000c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"künstl.,","006b,00fc,006e,0073,0074,006c,002e,002c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/00674302.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/enp_missing/ocr_results_cleaned/00674302-00229863.gt4hist.xml.txt,,,,"Vorgf. Bürgerweide 65 I.
+","0056,006f,0072,0067,0066,002e,0020,0042,00fc,0072,0067,0065,0072,0077,0065,0069,0064,0065,0020,0036,0035,0020,0049,002e,000a","","","miss","1"

@@ -1,0 +1,56 @@
+groundTruth,result,charsInGroundTruth,charsInResult,characterAccuracy,LCSCharStats Ground Truth Item,LCSCharStats Ground Truth Unicode,LCSCharStats OCR Result Item,LCSCharStats OCR Result Unicode,LCSCharStats OCR Error,LCSCharStats Count
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,"210","243","0.0","ET REDACTION","0045,0054,0020,0052,0045,0044,0041,0043,0054,0049,004f,004e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"
+BUREAUX","000a,0042,0055,0052,0045,0041,0055,0058","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"INO C","0049,004e,004f,0020,0043","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"
+1880-","000a,0031,0038,0038,0030,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,," ","0020","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"
+DO","000a,0044,004f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"TO","0054,004f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,," ","0020","","","none","6"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"
+PARIS","000a,0050,0041,0052,0049,0053","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"
+","000a","","","none","5"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"M","004d","N","004e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"H","0048","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"LA","004c,0041","
+—","000a,2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"81","0038,0031"," 64 ","0020,0036,0034,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"",""," ","0020","false detection","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"R","0052","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"","","A","0041","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"RIS","0052,0049,0053","Atsr","0041,0074,0073,0072","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"","","œ ","0153,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"CROIX","0043,0052,004f,0049,0058"," — 7 ","0020,2014,0020,0037,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"e","0065","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"","","8, ","0038,002c,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"8,","0038,002c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"Tom","0054,006f,006d","—  — 
+ſ 68 i ſſſ * 
+22 5* 
+3 E 
+—. —1 
+—  — 
+5 8 — 5 z — — — 
+J. —— —— 
+* — — 1 — — — 
+—7 — 
+E 
+2 * 
+","2014,0020,0020,2014,0020,000a,017f,0020,0036,0038,0020,0069,0020,017f,017f,017f,0020,002a,0020,000a,0032,0032,0020,0035,002a,0020,000a,0033,0020,0045,0020,000a,0020,0020,000a,2014,002e,0020,2014,0031,0020,000a,2014,0020,0020,2014,0020,000a,0035,0020,0038,0020,2014,0020,0035,0020,007a,0020,2014,0020,2014,0020,2014,0020,000a,004a,002e,0020,2014,2014,0020,2014,2014,0020,000a,002a,0020,2014,0020,2014,0020,0031,0020,2014,0020,2014,0020,2014,0020,000a,2014,0037,0020,2014,0020,000a,0045,0020,000a,0032,0020,002a,0020,000a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"ecueil","0065,0063,0075,0065,0069,006c","oE","006f,0045","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"Mensuel
+SER
+VIRE.","004d,0065,006e,0073,0075,0065,006c,000a,0053,0045,0052,000a,0056,0049,0052,0045,002e","πσο ι ","03c0,03c3,03bf,0020,03b9,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"RUE","0052,0055,0045","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"","","ua","0075,0061","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"FRANÇOIS","0046,0052,0041,004e,00c7,004f,0049,0053","
+","000a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"I","0049","M","004d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"r","0072","nzuel ß 
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"Ier","0049,0065,0072"," ","0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"Ch?istos:vincit::Chxistos:regnat::Chxistos:Imperat::at?ristos:ab:om?:malo:plebem:svam:defendit","0043,0068,003f,0069,0073,0074,006f,0073,003a,0076,0069,006e,0063,0069,0074,003a,003a,0043,0068,0078,0069,0073,0074,006f,0073,003a,0072,0065,0067,006e,0061,0074,003a,003a,0043,0068,0078,0069,0073,0074,006f,0073,003a,0049,006d,0070,0065,0072,0061,0074,003a,003a,0061,0074,003f,0072,0069,0073,0074,006f,0073,003a,0061,0062,003a,006f,006d,003f,003a,006d,0061,006c,006f,003a,0070,006c,0065,0062,0065,006d,003a,0073,0076,0061,006d,003a,0064,0065,0066,0065,006e,0064,0069,0074","  ","0020,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674887-00230738.gt4hist.xml.txt,,,,"","000c","  

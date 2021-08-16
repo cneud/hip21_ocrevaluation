@@ -1,0 +1,1034 @@
+groundTruth,result,charsInGroundTruth,charsInResult,characterAccuracy,LCSCharStats Ground Truth Item,LCSCharStats Ground Truth Unicode,LCSCharStats OCR Result Item,LCSCharStats OCR Result Unicode,LCSCharStats OCR Error,LCSCharStats Count
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,"9826","10282","0.5306330144514553","
+rahast, ja protsent, ütleb, meil seetõttu","000a,0072,0061,0068,0061,0073,0074,002c,0020,006a,0061,0020,0070,0072,006f,0074,0073,0065,006e,0074,002c,0020,00fc,0074,006c,0065,0062,002c,0020,006d,0065,0069,006c,0020,0073,0065,0065,0074,00f5,0074,0074,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+muretseda ka ühiskondliku kasu eest.","000a,006d,0075,0072,0065,0074,0073,0065,0064,0061,0020,006b,0061,0020,00fc,0068,0069,0073,006b,006f,006e,0064,006c,0069,006b,0075,0020,006b,0061,0073,0075,0020,0065,0065,0073,0074,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"abala tal. juhat. Aug. T","0061,0062,0061,006c,0061,0020,0074,0061,006c,002e,0020,006a,0075,0068,0061,0074,002e,0020,0041,0075,0067,002e,0020,0054","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+Siinsamas on aga lastud lendu loo-","000a,0053,0069,0069,006e,0073,0061,006d,0061,0073,0020,006f,006e,0020,0061,0067,0061,0020,006c,0061,0073,0074,0075,0064,0020,006c,0065,006e,0064,0075,0020,006c,006f,006f,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+juba läks halvaks, sina aga ole hea ","000a,006a,0075,0062,0061,0020,006c,00e4,006b,0073,0020,0068,0061,006c,0076,0061,006b,0073,002c,0020,0073,0069,006e,0061,0020,0061,0067,0061,0020,006f,006c,0065,0020,0068,0065,0061,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ndra 39, tal. tuhat. A","006e,0064,0072,0061,0020,0033,0039,002c,0020,0074,0061,006c,002e,0020,0074,0075,0068,0061,0074,002e,0020,0041","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"Vastutav tolmetaja ","0056,0061,0073,0074,0075,0074,0061,0076,0020,0074,006f,006c,006d,0065,0074,0061,006a,0061,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"s. Kuigi veendusime vastupidises.","0073,002e,0020,004b,0075,0069,0067,0069,0020,0076,0065,0065,006e,0064,0075,0073,0069,006d,0065,0020,0076,0061,0073,0074,0075,0070,0069,0064,0069,0073,0065,0073,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"a rõõmustada ja tantsida kui i","0061,0020,0072,00f5,00f5,006d,0075,0073,0074,0061,0064,0061,0020,006a,0061,0020,0074,0061,006e,0074,0073,0069,0064,0061,0020,006b,0075,0069,0020,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+tõttu halvaks — raiskusid","000a,0074,00f5,0074,0074,0075,0020,0068,0061,006c,0076,0061,006b,0073,0020,2014,0020,0072,0061,0069,0073,006b,0075,0073,0069,0064","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+Daam on naine, kes võib alati naera-","000a,0044,0061,0061,006d,0020,006f,006e,0020,006e,0061,0069,006e,0065,002c,0020,006b,0065,0073,0020,0076,00f5,0069,0062,0020,0061,006c,0061,0074,0069,0020,006e,0061,0065,0072,0061,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"hk on juba liig paks.","0068,006b,0020,006f,006e,0020,006a,0075,0062,0061,0020,006c,0069,0069,0067,0020,0070,0061,006b,0073,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ko. Võhm","006b,006f,002e,0020,0056,00f5,0068,006d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ti Rahvu","0074,0069,0020,0052,0061,0068,0076,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"in a","0069,006e,0020,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+hed, ei ole, teate, midagi jõh","000a,0068,0065,0064,002c,0020,0065,0069,0020,006f,006c,0065,002c,0020,0074,0065,0061,0074,0065,002c,0020,006d,0069,0064,0061,0067,0069,0020,006a,00f5,0068","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"",""," ","0020","false detection","75"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"hetesse sellise t","0068,0065,0074,0065,0073,0073,0065,0020,0073,0065,006c,006c,0069,0073,0065,0020,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"aks. On ju va","0061,006b,0073,002e,0020,004f,006e,0020,006a,0075,0020,0076,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+Aa, tuleb meele, ","000a,0041,0061,002c,0020,0074,0075,006c,0065,0062,0020,006d,0065,0065,006c,0065,002c,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+sellise inetu võrdluse p","000a,0073,0065,006c,006c,0069,0073,0065,0020,0069,006e,0065,0074,0075,0020,0076,00f5,0072,0064,006c,0075,0073,0065,0020,0070","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+eluaegse enesekasvatuse tulemus","000a,0065,006c,0075,0061,0065,0067,0073,0065,0020,0065,006e,0065,0073,0065,006b,0061,0073,0076,0061,0074,0075,0073,0065,0020,0074,0075,006c,0065,006d,0075,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+Daam on intelligentne, suute","000a,0044,0061,0061,006d,0020,006f,006e,0020,0069,006e,0074,0065,006c,006c,0069,0067,0065,006e,0074,006e,0065,002c,0020,0073,0075,0075,0074,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," see pütt i","0020,0073,0065,0065,0020,0070,00fc,0074,0074,0020,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+ei põlga Vanadus 25","000a,0065,0069,0020,0070,00f5,006c,0067,0061,0020,0056,0061,006e,0061,0064,0075,0073,0020,0032,0035","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," Te","0020,0054,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"as, ","0061,0073,002c,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"nd","006e,0064","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ilmi-","0069,006c,006d,0069,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"st ","0073,0074,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," ","0020","","","none","19"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ad ruttavad kuhugi. Us-","0061,0064,0020,0072,0075,0074,0074,0061,0076,0061,0064,0020,006b,0075,0068,0075,0067,0069,002e,0020,0055,0073,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"hevad rikki, on siis","0068,0065,0076,0061,0064,0020,0072,0069,006b,006b,0069,002c,0020,006f,006e,0020,0073,0069,0069,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"oostada, lubage ","006f,006f,0073,0074,0061,0064,0061,002c,0020,006c,0075,0062,0061,0067,0065,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"u egoismiga","0075,0020,0065,0067,006f,0069,0073,006d,0069,0067,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"m muu-","006d,0020,006d,0075,0075,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"odani","006f,0064,0061,006e,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+ratiivis kapsad l","000a,0072,0061,0074,0069,0069,0076,0069,0073,0020,006b,0061,0070,0073,0061,0064,0020,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"andage","0061,006e,0064,0061,0067,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+sellega saab otsest ","000a,0073,0065,006c,006c,0065,0067,0061,0020,0073,0061,0061,0062,0020,006f,0074,0073,0065,0073,0074,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,", et lõhnab, vaid lausa haise","002c,0020,0065,0074,0020,006c,00f5,0068,006e,0061,0062,002c,0020,0076,0061,0069,0064,0020,006c,0061,0075,0073,0061,0020,0068,0061,0069,0073,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+Daam on naine, kes t","000a,0044,0061,0061,006d,0020,006f,006e,0020,006e,0061,0069,006e,0065,002c,0020,006b,0065,0073,0020,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+Daam ei sattu kunagi ","000a,0044,0061,0061,006d,0020,0065,0069,0020,0073,0061,0074,0074,0075,0020,006b,0075,006e,0061,0067,0069,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+likus olukorras suhtuda as","000a,006c,0069,006b,0075,0073,0020,006f,006c,0075,006b,006f,0072,0072,0061,0073,0020,0073,0075,0068,0074,0075,0064,0061,0020,0061,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,", aga tule","002c,0020,0061,0067,0061,0020,0074,0075,006c,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+vedada","000a,0076,0065,0064,0061,0064,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"i leskprouaga,","0069,0020,006c,0065,0073,006b,0070,0072,006f,0075,0061,0067,0061,002c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"soovib tutvust","0073,006f,006f,0076,0069,0062,0020,0074,0075,0074,0076,0075,0073,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,".","002e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"k","006b","c","0063","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"hma-","0068,006d,0061,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"o","006f","","","none","4"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"a","0061","","","none","7"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"li","006c,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"Holly","0048,006f,006c,006c,0079","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"r","0072","","","none","3"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"e","0065","","","none","4"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"la-
+tes","006c,0061,002d,000a,0074,0065,0073","uu","0075,0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"150 s. pea. Vilunud
+tööjõud. Garanteerib töö
+headuse.
+","0031,0035,0030,0020,0073,002e,0020,0070,0065,0061,002e,0020,0056,0069,006c,0075,006e,0075,0064,000a,0074,00f6,00f6,006a,00f5,0075,0064,002e,0020,0047,0061,0072,0061,006e,0074,0065,0065,0072,0069,0062,0020,0074,00f6,00f6,000a,0068,0065,0061,0064,0075,0073,0065,002e,000a,000c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"usagil lendlevad lin-","0075,0073,0061,0067,0069,006c,0020,006c,0065,006e,0064,006c,0065,0076,0061,0064,0020,006c,0069,006e,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+ratiivis. Siis juhtus","000a,0072,0061,0074,0069,0069,0076,0069,0073,002e,0020,0053,0069,0069,0073,0020,006a,0075,0068,0074,0075,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+kui kuumus. Produ","000a,006b,0075,0069,0020,006b,0075,0075,006d,0075,0073,002e,0020,0050,0072,006f,0064,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ooperatiivi","006f,006f,0070,0065,0072,0061,0074,0069,0069,0076,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"okkuhoid. No, ","006f,006b,006b,0075,0068,006f,0069,0064,002e,0020,004e,006f,002c,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ud, suhtuda loo-","0075,0064,002c,0020,0073,0075,0068,0074,0075,0064,0061,0020,006c,006f,006f,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ieli","0069,0065,006c,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+","000a","","","none","26"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"l","006c","i","0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"b soo","0062,0020,0073,006f,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"a, ","0061,002c,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ud","0075,0064","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"uidas meil ","0075,0069,0064,0061,0073,0020,006d,0065,0069,006c,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"id suure kuumuse","0069,0064,0020,0073,0075,0075,0072,0065,0020,006b,0075,0075,006d,0075,0073,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," — va","0020,2014,0020,0076,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"he veel sellest","0068,0065,0020,0076,0065,0065,006c,0020,0073,0065,006c,006c,0065,0073,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+gu selgub, tulevad ","000a,0067,0075,0020,0073,0065,006c,0067,0075,0062,002c,0020,0074,0075,006c,0065,0076,0061,0064,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ütt meil raiskus hiiglasuur.","00fc,0074,0074,0020,006d,0065,0069,006c,0020,0072,0061,0069,0073,006b,0075,0073,0020,0068,0069,0069,0067,006c,0061,0073,0075,0075,0072,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," siis nimetatakse teda daami","0020,0073,0069,0069,0073,0020,006e,0069,006d,0065,0074,0061,0074,0061,006b,0073,0065,0020,0074,0065,0064,0061,0020,0064,0061,0061,006d,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,",","002c",". ","002e,0020","misrecognised","4"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"eiliku arusaamisega.","0065,0069,006c,0069,006b,0075,0020,0061,0072,0075,0073,0061,0061,006d,0069,0073,0065,0067,0061,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+tada kui vajaline.","000a,0074,0061,0064,0061,0020,006b,0075,0069,0020,0076,0061,006a,0061,006c,0069,006e,0065,002e"," 
+tada kui vajaline. 
+— ","0020,000a,0074,0061,0064,0061,0020,006b,0075,0069,0020,0076,0061,006a,0061,006c,0069,006e,0065,002e,0020,000a,2014,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"aunistada ja ","0061,0075,006e,0069,0073,0074,0061,0064,0061,0020,006a,0061,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," va","0020,0076,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"s siiski esimees lausu","0073,0020,0073,0069,0069,0073,006b,0069,0020,0065,0073,0069,006d,0065,0065,0073,0020,006c,0061,0075,0073,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+lange","000a,006c,0061,006e,0067,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"b","0062","h","0068","misrecognised","14"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"kagi ","006b,0061,0067,0069,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," preili v","0020,0070,0072,0065,0069,006c,0069,0020,0076","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"iselt ja keh","0069,0073,0065,006c,0074,0020,006a,0061,0020,006b,0065,0068","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+Kirjad ","000a,004b,0069,0072,006a,0061,0064,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"on t","006f,006e,0020,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"Võ","0056,00f5","vo","0076,006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"K","004b","R","0052","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ekk","0065,006b,006b","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"j","006a","iu be","0069,0075,0020,0062,0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," Ees","0020,0045,0065,0073","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"s","0073","æ","00e6","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"i","0069","","","none","3"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ood","006f,006f,0064","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"E","0045","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"a","0061","n","006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"V","0056","v","0076","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ätte. Aga on hea,","00e4,0074,0074,0065,002e,0020,0041,0067,0061,0020,006f,006e,0020,0068,0065,0061,002c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+nukesed. Putu","000a,006e,0075,006b,0065,0073,0065,0064,002e,0020,0050,0075,0074,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+Muidugi on hea ","000a,004d,0075,0069,0064,0075,0067,0069,0020,006f,006e,0020,0068,0065,0061,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ooperatiivi ","006f,006f,0070,0065,0072,0061,0074,0069,0069,0076,0069,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ramat,","0072,0061,006d,0061,0074,002c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ui produktid l","0075,0069,0020,0070,0072,006f,0064,0075,006b,0074,0069,0064,0020,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ellest ","0065,006c,006c,0065,0073,0074,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"e. Või nagu","0065,002e,0020,0056,00f5,0069,0020,006e,0061,0067,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ung — ","0075,006e,0067,0020,2014,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"uidas ne","0075,0069,0064,0061,0073,0020,006e,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"i või ometi, ","0069,0020,0076,00f5,0069,0020,006f,006d,0065,0074,0069,002c,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+dusn","000a,0064,0075,0073,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ä","00e4","a","0061","misrecognised","9"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"k","006b","le","006c,0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"j","006a","i","0069","misrecognised","12"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+tu","000a,0074,0075"," 
+tuh","0020,000a,0074,0075,0068","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"k","006b","R","0052","misrecognised","24"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"k","006b","lc","006c,0063","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"oope-","006f,006f,0070,0065,002d","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"k","006b","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","",".","002e","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"rast.","0072,0061,0073,0074,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," et ","0020,0065,0074,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"iläinud produ","0069,006c,00e4,0069,006e,0075,0064,0020,0070,0072,006f,0064,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ra vedada. Sul isegi","0072,0061,0020,0076,0065,0064,0061,0064,0061,002e,0020,0053,0075,006c,0020,0069,0073,0065,0067,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"a juure. See on liig!","0061,0020,006a,0075,0075,0072,0065,002e,0020,0053,0065,0065,0020,006f,006e,0020,006c,0069,0069,0067,0021","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"rast lausa kaotas elumõtte.","0072,0061,0073,0074,0020,006c,0061,0075,0073,0061,0020,006b,0061,006f,0074,0061,0073,0020,0065,006c,0075,006d,00f5,0074,0074,0065,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"vast. Lõi kohe jalust maha.","0076,0061,0073,0074,002e,0020,004c,00f5,0069,0020,006b,006f,0068,0065,0020,006a,0061,006c,0075,0073,0074,0020,006d,0061,0068,0061,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+Daam on mõneaast","000a,0044,0061,0061,006d,0020,006f,006e,0020,006d,00f5,006e,0065,0061,0061,0073,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ohustused t","006f,0068,0075,0073,0074,0075,0073,0065,0064,0020,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"",""," 
+4 ","0020,000a,0034,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"tsse.","0074,0073,0073,0065,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"evaseid het","0065,0076,0061,0073,0065,0069,0064,0020,0068,0065,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"s","0073","n","006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ja-","006a,0061,002d","ija- ","0069,006a,0061,002d,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+Nii siis — daam — ","000a,004e,0069,0069,0020,0073,0069,0069,0073,0020,2014,0020,0064,0061,0061,006d,0020,2014,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+— Kuigi, ütle","000a,2014,0020,004b,0075,0069,0067,0069,002c,0020,00fc,0074,006c,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"k","006b","bt","0062,0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ra","0072,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,",","002c",".","002e","misrecognised","12"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"õ","00f5","ö","00f6","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"kohe","006b,006f,0068,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"õ","00f5","ò","00f2","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"es vaim","0065,0073,0020,0076,0061,0069,006d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"odu ja t","006f,0064,0075,0020,006a,0061,0020,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"5 ","0035,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"lt. „T","006c,0074,002e,0020,201e,0054","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," — ","0020,2014,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"res.","0072,0065,0073,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","lcuo ","006c,0063,0075,006f,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"l","006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"k","006b","t","0074","misrecognised","6"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"F","0046","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"üh","00fc,0068","t","0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"g","0067","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"w","0077","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,". ","002e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"e","0065","o","006f","misrecognised","4"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"mann.
+Talliana Eesti Kirjastus-Ühisuse trükikoda, Pikk t. 2. 1935.
+KES ON
+DAAM ?
+Püsiv 8—10 k. H","006d,0061,006e,006e,002e,000a,0054,0061,006c,006c,0069,0061,006e,0061,0020,0045,0065,0073,0074,0069,0020,004b,0069,0072,006a,0061,0073,0074,0075,0073,002d,00dc,0068,0069,0073,0075,0073,0065,0020,0074,0072,00fc,006b,0069,006b,006f,0064,0061,002c,0020,0050,0069,006b,006b,0020,0074,002e,0020,0032,002e,0020,0031,0039,0033,0035,002e,000a,004b,0045,0053,0020,004f,004e,000a,0044,0041,0041,004d,0020,003f,000a,0050,00fc,0073,0069,0076,0020,0038,2014,0031,0030,0020,006b,002e,0020,0048","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"evad. Ja vaata,","0065,0076,0061,0064,002e,0020,004a,0061,0020,0076,0061,0061,0074,0061,002c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"simehed suvel","0073,0069,006d,0065,0068,0065,0064,0020,0073,0075,0076,0065,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," siristavad. ","0020,0073,0069,0072,0069,0073,0074,0061,0076,0061,0064,002e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"s tagasi tö","0073,0020,0074,0061,0067,0061,0073,0069,0020,0074,00f6","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+Nii et ","000a,004e,0069,0069,0020,0065,0074,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"s, seltsime-","0073,002c,0020,0073,0065,006c,0074,0073,0069,006d,0065,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"k","006b","","","miss","7"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"hevad ri","0068,0065,0076,0061,0064,0020,0072,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ah","0061,0068","","","none","3"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"l","006c","t","0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+ole","000a,006f,006c,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"k","006b","L","004c","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+kaks as","000a,006b,0061,006b,0073,0020,0061,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"sida?","0073,0069,0064,0061,003f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"odanik","006f,0064,0061,006e,0069,006b","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ä","00e4","i","0069","misrecognised","3"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"s","0073","a","0061","misrecognised","9"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ä","00e4","u","0075","misrecognised","3"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+Ja v","000a,004a,0061,0020,0076","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"erat","0065,0072,0061,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+sakulusid","000a,0073,0061,006b,0075,006c,0075,0073,0069,0064","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"tid, na-","0074,0069,0064,002c,0020,006e,0061,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+maksa veel oma rah","000a,006d,0061,006b,0073,0061,0020,0076,0065,0065,006c,0020,006f,006d,0061,0020,0072,0061,0068","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+Aga ","000a,0041,0067,0061,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"uuda. Aga kui võtta ","0075,0075,0064,0061,002e,0020,0041,0067,0061,0020,006b,0075,0069,0020,0076,00f5,0074,0074,0061,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+— Mitte, — ütleme, — Ivan ","000a,2014,0020,004d,0069,0074,0074,0065,002c,0020,2014,0020,00fc,0074,006c,0065,006d,0065,002c,0020,2014,0020,0049,0076,0061,006e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"oidusid eemale meie poolt","006f,0069,0064,0075,0073,0069,0064,0020,0065,0065,006d,0061,006c,0065,0020,006d,0065,0069,0065,0020,0070,006f,006f,006c,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," palgata voorimees","0020,0070,0061,006c,0067,0061,0074,0061,0020,0076,006f,006f,0072,0069,006d,0065,0065,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"s.","0073,002e","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"asvatuse ","0061,0073,0076,0061,0074,0075,0073,0065,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"idab ","0069,0064,0061,0062,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"rmu","0072,006d,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"aam o","0061,0061,006d,0020,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+elu argi","000a,0065,006c,0075,0020,0061,0072,0067,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"i.","0069,002e","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+tusega.","000a,0074,0075,0073,0065,0067,0061,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ee on idea","0065,0065,0020,006f,006e,0020,0069,0064,0065,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,":","003a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"u, sõbrad","0075,002c,0020,0073,00f5,0062,0072,0061,0064","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"",""," osn- 
+võtiales, et Teil oleks võimuntus 
+piaseda esimestesse gruppidesss. 
+Registreerimine talituses iga buev 
+1035 11. ni. 
+petus populaarsemate tautsu- 
+õpetajate juhatusel. Teistes lin- 
+nades registreerida end Rohali- 
+kes abitalitustes. 
+Grupi algused teatulbese , ilm 
+ja Eluse. 
+„HllM IA ELU* TAl.IIUS. 
+Lugupeetud lugeia! 
+Kui Tell on erisoove, lLM IA El. U- 
+sisu jne. suntes — teatage! Toimotua 
+puiub jurgmistes numvrites arvestada 
+Roikide soovidega! 
+kolio","0020,006f,0073,006e,002d,0020,000a,0076,00f5,0074,0069,0061,006c,0065,0073,002c,0020,0065,0074,0020,0054,0065,0069,006c,0020,006f,006c,0065,006b,0073,0020,0076,00f5,0069,006d,0075,006e,0074,0075,0073,0020,000a,0070,0069,0061,0073,0065,0064,0061,0020,0065,0073,0069,006d,0065,0073,0074,0065,0073,0073,0065,0020,0067,0072,0075,0070,0070,0069,0064,0065,0073,0073,0073,002e,0020,000a,0052,0065,0067,0069,0073,0074,0072,0065,0065,0072,0069,006d,0069,006e,0065,0020,0074,0061,006c,0069,0074,0075,0073,0065,0073,0020,0069,0067,0061,0020,0062,0075,0065,0076,0020,000a,0031,0030,0033,0035,0020,0031,0031,002e,0020,006e,0069,002e,0020,000a,0070,0065,0074,0075,0073,0020,0070,006f,0070,0075,006c,0061,0061,0072,0073,0065,006d,0061,0074,0065,0020,0074,0061,0075,0074,0073,0075,002d,0020,000a,00f5,0070,0065,0074,0061,006a,0061,0074,0065,0020,006a,0075,0068,0061,0074,0075,0073,0065,006c,002e,0020,0054,0065,0069,0073,0074,0065,0073,0020,006c,0069,006e,002d,0020,000a,006e,0061,0064,0065,0073,0020,0072,0065,0067,0069,0073,0074,0072,0065,0065,0072,0069,0064,0061,0020,0065,006e,0064,0020,0052,006f,0068,0061,006c,0069,002d,0020,000a,006b,0065,0073,0020,0061,0062,0069,0074,0061,006c,0069,0074,0075,0073,0074,0065,0073,002e,0020,000a,0047,0072,0075,0070,0069,0020,0061,006c,0067,0075,0073,0065,0064,0020,0074,0065,0061,0074,0075,006c,0062,0065,0073,0065,0020,002c,0020,0069,006c,006d,0020,000a,006a,0061,0020,0045,006c,0075,0073,0065,002e,0020,000a,201e,0048,006c,006c,004d,0020,0049,0041,0020,0045,004c,0055,002a,0020,0054,0041,006c,002e,0049,0049,0055,0053,002e,0020,000a,0020,0020,000a,004c,0075,0067,0075,0070,0065,0065,0074,0075,0064,0020,006c,0075,0067,0065,0069,0061,0021,0020,000a,004b,0075,0069,0020,0054,0065,006c,006c,0020,006f,006e,0020,0065,0072,0069,0073,006f,006f,0076,0065,002c,0020,006c,004c,004d,0020,0049,0041,0020,0045,006c,002e,0020,0055,002d,0020,000a,0073,0069,0073,0075,0020,006a,006e,0065,002e,0020,0073,0075,006e,0074,0065,0073,0020,2014,0020,0074,0065,0061,0074,0061,0067,0065,0021,0020,0054,006f,0069,006d,006f,0074,0075,0061,0020,000a,0070,0075,0069,0075,0062,0020,006a,0075,0072,0067,006d,0069,0073,0074,0065,0073,0020,006e,0075,006d,0076,0072,0069,0074,0065,0073,0020,0061,0072,0076,0065,0073,0074,0061,0064,0061,0020,000a,0052,006f,0069,006b,0069,0064,0065,0020,0073,006f,006f,0076,0069,0064,0065,0067,0061,0021,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,000a,006b,006f,006c,0069,006f","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"l","006c","ſ","017f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," Omab ","0020,004f,006d,0061,0062,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"d","0064","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"—3","2014,0033","- 8","002d,0020,0038","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,".","002e","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," on e","0020,006f,006e,0020,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"se","0073,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," tu","0020,0074,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"Va","0056,0061","vu","0076,0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"jaa","006a,0061,0061","iuu","0069,0075,0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"n","006e","uiu","0075,0069,0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"“","201c","e","0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","
+Valliaua Feti Nirjastus· Buisuse triibibode, bivch t. 2. 
+1955, 
+Valgaa Vabaduss 45. tal. junat. Arnis Civirahe- 
+S. Sadama 7. juhat. Haruld Sanb 
+H. Klaac (auplua. Vin dri 
+","000a,0056,0061,006c,006c,0069,0061,0075,0061,0020,0046,0065,0074,0069,0020,004e,0069,0072,006a,0061,0073,0074,0075,0073,00b7,0020,0042,0075,0069,0073,0075,0073,0065,0020,0074,0072,0069,0069,0062,0069,0062,006f,0064,0065,002c,0020,0062,0069,0076,0063,0068,0020,0074,002e,0020,0032,002e,0020,000a,0031,0039,0035,0035,002c,0020,000a,0056,0061,006c,0067,0061,0061,0020,0056,0061,0062,0061,0064,0075,0073,0073,0020,0034,0035,002e,0020,0074,0061,006c,002e,0020,006a,0075,006e,0061,0074,002e,0020,0041,0072,006e,0069,0073,0020,0043,0069,0076,0069,0072,0061,0068,0065,002d,0020,000a,0053,002e,0020,0053,0061,0064,0061,006d,0061,0020,0037,002e,0020,006a,0075,0068,0061,0074,002e,0020,0048,0061,0072,0075,006c,0064,0020,0053,0061,006e,0062,0020,000a,0048,002e,0020,004b,006c,0061,0061,0063,0020,0028,0061,0075,0070,006c,0075,0061,002e,0020,0056,0069,006e,0020,0064,0072,0069,0020,000a","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"rad, ongi ","0072,0061,0064,002c,0020,006f,006e,0067,0069,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"sti suvigi jõu","0073,0074,0069,0020,0073,0075,0076,0069,0067,0069,0020,006a,00f5,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+selt","000a,0073,0065,006c,0074"," 
+selt ","0020,000a,0073,0065,006c,0074,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+mus. Siin","000a,006d,0075,0073,002e,0020,0053,0069,0069,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ese","0065,0073,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," sõbrad, su-","0020,0073,00f5,0062,0072,0061,0064,002c,0020,0073,0075,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"uvel","0075,0076,0065,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"asime ","0061,0073,0069,006d,0065,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"aok","0061,006f,006b","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"tid ","0074,0069,0064,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ki.","006b,0069,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"s","0073","g","0067","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"u ","0075,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"k","006b","e","0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"a ","0061,0020","","","none","3"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"kü","006b,00fc","Ru","0052,0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","e","0065","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ä","00e4","aͤ","0061,0364","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"iiv","0069,0069,0076"," iiv ","0020,0069,0069,0076,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," veel li-","0020,0076,0065,0065,006c,0020,006c,0069,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"i. Ri","0069,002e,0020,0052,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","n","006e","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"p","0070","b","0062","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," olla, nii um","0020,006f,006c,006c,0061,002c,0020,006e,0069,0069,0020,0075,006d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," tuleb lõpmata hul","0020,0074,0075,006c,0065,0062,0020,006c,00f5,0070,006d,0061,0074,0061,0020,0068,0075,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"b ja nuusutab.","0062,0020,006a,0061,0020,006e,0075,0075,0073,0075,0074,0061,0062,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"eodo-","0065,006f,0064,006f,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"k, tõesti, peab ütlema","006b,002c,0020,0074,00f5,0065,0073,0074,0069,002c,0020,0070,0065,0061,0062,0020,00fc,0074,006c,0065,006d,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+t","000a,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,". Siiski on kah","002e,0020,0053,0069,0069,0073,006b,0069,0020,006f,006e,0020,006b,0061,0068","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"uhu — linna taha.","0075,0068,0075,0020,2014,0020,006c,0069,006e,006e,0061,0020,0074,0061,0068,0061,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"",""," 
+Daam — see on terve tuum itusaa 
+koores. 
+2 ","0020,000a,0020,0020,000a,0044,0061,0061,006d,0020,2014,0020,0073,0065,0065,0020,006f,006e,0020,0074,0065,0072,0076,0065,0020,0074,0075,0075,006d,0020,0069,0074,0075,0073,0061,0061,0020,000a,006b,006f,006f,0072,0065,0073,002e,0020,000a,0032,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ase ","0061,0073,0065,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"õik ","00f5,0069,006b,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ää","00e4,00e4","au","0061,0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ka","006b,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"lust","006c,0075,0073,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"pä","0070,00e4","hi","0068,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"sse m","0073,0073,0065,0020,006d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"s","0073","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+naine!","000a,006e,0061,0069,006e,0065,0021","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," on k","0020,006f,006e,0020,006b","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"P","0050","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+terv","000a,0074,0065,0072,0076","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"öö","00f6,00f6","òo","00f2,006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"a","0061","u","0075","misrecognised","6"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"öö","00f6,00f6","og","006f,0067","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+sisu","000a,0073,0069,0073,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","— luhnemakusvul. preilido vòi 
+lestede hulgust. es ou 
+Jnöus kohe uhielluma. 
+Ji ECiri. ünes fo o ia eue","2014,0020,006c,0075,0068,006e,0065,006d,0061,006b,0075,0073,0076,0075,006c,002e,0020,0070,0072,0065,0069,006c,0069,0064,006f,0020,0076,00f2,0069,0020,000a,006c,0065,0073,0074,0065,0064,0065,0020,0068,0075,006c,0067,0075,0073,0074,002e,0020,0065,0073,0020,006f,0075,0020,000a,004a,006e,00f6,0075,0073,0020,006b,006f,0068,0065,0020,0075,0068,0069,0065,006c,006c,0075,006d,0061,002e,0020,000a,004a,0069,0020,0045,0043,0069,0072,0069,002e,0020,00fc,006e,0065,0073,0020,0066,006f,0020,006f,0020,0069,0061,0020,0065,0075,0065","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"e ","0065,0020","- 
+ſicield slt. Eesti liõhilas. 
+Jloterii Xr. ccuooo ettendiit. 
+—  JJJJ 
+„PERFEECT-. 
+Tõõ odav — Riire — Rorratik 
+NUNNI. 8 NUNNE L 
+. 2 
+1 Voisslups 
+Ienu sitimpuatne. too kevad- 
+ju iu oto nilol 
+Nurva auma einelaud 
+S.Graiels. 
+iim ja Elus tettimishind portiu austa lr. 2.50. G icuud Er. .40. 
+Aotiida võih ka talituaest. 
+irradi 
+Ootamo, et iriutasite 
+meilo. Xirjad alt. Tartu 
+abĩtalitus, Maudys, „Adyu, 
+„Iullya. 
+Toetust mittovajav noot- 
+mess 
+tutvules 
+meeleldi 17- 23 4. tutarl. 
+hut shra loidmigeks. Lir- 
+iad al. Tartu abital., Nõud- 
+Lã. 
+Baumia Turtust! 
+tena vulimusega Raine 
+noormees, tes teuutsenud 
+frialal ja mòtlel, auuid 
+Tartu asuda, soovib omalo 
+nulassõpra, es aitabs min- 
+git teenistust leida Sobi- 
+vuso Rorral abielu. ir- 
+jad: Rriudneri, Voski p. ag 
+pR. 2. 
+Kena 
+villimusega neiu vdib leida 
+hon Lõrvultoonisiuse. 
+Fotoga varustatud kitiad 
+eosoigustutud. Ririad: Plir- 
+nu, bost. 54 „Sudamoio 
+vodlcii. 
+rilcku, vaid Ruil tuiosti 
+nulsoli xu nalsega 
+soovin abiolluda. Kiri. slt. 
+»Moes ſ Eindel leiba. 
+Hra ja pr. IEGOVA'telo 
+Tartu veeriko. 
+Sudamlik dnnosoov mu- 
+gavaks ia armsoka pere- 
+Ronnaoluks! 
+Perek. „E. E. V. Talinn. 
+Olon valcl harmit 
+titarlaps 
+pisubeso stidamega cinnus, 
+mis igatseb dune ja armas- 
+tust ning pehmeid evad- 
+tuuli. Minu nadr. 46gova 
+postkontor,Ermas. 
+sin sinuta?... Võluv. 
+tütarlahst 
+Kalis, lu lòpmatu lata- 
+rinti, ekbsinud poisut. nao- 
+rupuragrahvi, idudsid vast 
+nFilm ſa elus voerulo. Su- 
+lestags „Ivos ja , Top 48- 
+deva patic. 28. 
+Kurhb!! 
+bole. uhticl, Ros lohataxa, 
+ühtki kes tunneks hingoti- 
+gelt kaasa ia oleka a8braa 
+Calliks... Kus vlibid. ma 
+unistusto kaunim mooa- 
+hing? Cui oled sinagi 
+lurb ja tunned end ue- 
+sinda siis palun nlriuta 
+Aadross: Cirsi 1. pirna 
+»lta 205, „Aggi 21“. 
+— 
+Fli. M ian El. - 
+SOODUSTUSEUPONG Nr. 1. 
+Nung. voimadab tasutu tutvuse- to corteri- ia ias- 
+nudo otsimise- patkumino, niag ostu- ia mungi tuuidtusã. 
+Nuuintuste auatmitet tu el arvostdda iga  i. n. un. 
+—— — ⏑ — ⏑ ¶ — — ⏑ : — ẽ— 2 
+Jrdomu tutarlatise hinco kir- 
+3 kund Er O. 75, 
+l(uuiutuse ninnad kuututuss veerulh snt., tekstis 10 snt. um. Kuulutusi voetalcge 
+1 arrua 1 
+Res Teidt soovibs kirju- 
+tuda bikemale aaledale 
+à0 u. ur. Cirjad sl. abit. 
+Tartu „lbutsuss. 
+takso u 
+ſritiss nπdustusena võib tut vust j 
+(millele tuleb uuce lisada  er t 
+mn nimota jurie torra Fri all k 
+r jüri numbri ali, milloe tottu Tvid 
+Ianud. Teie iuretorra naubeiis tunid irſad- Ees 
+— oiaud rilod ba iuaaotaxs 
+.eout poutmarxe) mia avalda- 
+keltele foie end ttriavahetusel oſeto cιο 
+lkuu Er. 6. 25 
+Tellimisi võtavad vastu leoit R. 
+V. posth","002d,0020,000a,017f,0069,0063,0069,0065,006c,0064,0020,0073,006c,0074,002e,0020,0045,0065,0073,0074,0069,0020,006c,0069,00f5,0068,0069,006c,0061,0073,002e,0020,000a,004a,006c,006f,0074,0065,0072,0069,0069,0020,0058,0072,002e,0020,0063,0063,0075,006f,006f,006f,0020,0065,0074,0074,0065,006e,0064,0069,0069,0074,002e,0020,000a,0020,0020,000a,0020,0020,0020,0020,0020,0020,0020,000a,2014,0020,0020,004a,004a,004a,004a,0020,000a,201e,0050,0045,0052,0046,0045,0045,0043,0054,002d,002e,0020,000a,0054,00f5,00f5,0020,006f,0064,0061,0076,0020,2014,0020,0052,0069,0069,0072,0065,0020,2014,0020,0052,006f,0072,0072,0061,0074,0069,006b,0020,000a,004e,0055,004e,004e,0049,002e,0020,0038,0020,004e,0055,004e,004e,0045,0020,004c,0020,000a,002e,0020,0032,0020,000a,0020,0020,0020,0020,0020,0020,000a,0020,0020,0020,0020,0020,0020,000a,0020,0020,000a,0020,0020,0020,000a,0031,0020,0056,006f,0069,0073,0073,006c,0075,0070,0073,0020,000a,0049,0065,006e,0075,0020,0073,0069,0074,0069,006d,0070,0075,0061,0074,006e,0065,002e,0020,0074,006f,006f,0020,006b,0065,0076,0061,0064,002d,0020,000a,006a,0075,0020,0069,0075,0020,006f,0074,006f,0020,006e,0069,006c,006f,006c,0020,000a,004e,0075,0072,0076,0061,0020,0061,0075,006d,0061,0020,0065,0069,006e,0065,006c,0061,0075,0064,0020,000a,0053,002e,0047,0072,0061,0069,0065,006c,0073,002e,0020,000a,0020,0020,0020,000a,0069,0069,006d,0020,006a,0061,0020,0045,006c,0075,0073,0020,0074,0065,0074,0074,0069,006d,0069,0073,0068,0069,006e,0064,0020,0070,006f,0072,0074,0069,0075,0020,0061,0075,0073,0074,0061,0020,006c,0072,002e,0020,0032,002e,0035,0030,002e,0020,0047,0020,0069,0063,0075,0075,0064,0020,0045,0072,002e,0020,002e,0034,0030,002e,0020,000a,0041,006f,0074,0069,0069,0064,0061,0020,0076,00f5,0069,0068,0020,006b,0061,0020,0074,0061,006c,0069,0074,0075,0061,0065,0073,0074,002e,0020,000a,0069,0072,0072,0061,0064,0069,0020,000a,004f,006f,0074,0061,006d,006f,002c,0020,0065,0074,0020,0069,0072,0069,0075,0074,0061,0073,0069,0074,0065,0020,000a,006d,0065,0069,006c,006f,002e,0020,0058,0069,0072,006a,0061,0064,0020,0061,006c,0074,002e,0020,0054,0061,0072,0074,0075,0020,000a,0061,0062,0129,0074,0061,006c,0069,0074,0075,0073,002c,0020,004d,0061,0075,0064,0079,0073,002c,0020,201e,0041,0064,0079,0075,002c,0020,000a,201e,0049,0075,006c,006c,0079,0061,002e,0020,000a,0020,0020,000a,0054,006f,0065,0074,0075,0073,0074,0020,006d,0069,0074,0074,006f,0076,0061,006a,0061,0076,0020,006e,006f,006f,0074,002d,0020,000a,006d,0065,0073,0073,0020,000a,0074,0075,0074,0076,0075,006c,0065,0073,0020,000a,006d,0065,0065,006c,0065,006c,0064,0069,0020,0031,0037,002d,0020,0032,0033,0020,0034,002e,0020,0074,0075,0074,0061,0072,006c,002e,0020,000a,0068,0075,0074,0020,0073,0068,0072,0061,0020,006c,006f,0069,0064,006d,0069,0067,0065,006b,0073,002e,0020,004c,0069,0072,002d,0020,000a,0069,0061,0064,0020,0061,006c,002e,0020,0054,0061,0072,0074,0075,0020,0061,0062,0069,0074,0061,006c,002e,002c,0020,004e,00f5,0075,0064,002d,0020,000a,004c,00e3,002e,0020,000a,0020,0020,000a,0042,0061,0075,006d,0069,0061,0020,0054,0075,0072,0074,0075,0073,0074,0021,0020,000a,0074,0065,006e,0061,0020,0076,0075,006c,0069,006d,0075,0073,0065,0067,0061,0020,0052,0061,0069,006e,0065,0020,000a,006e,006f,006f,0072,006d,0065,0065,0073,002c,0020,0074,0065,0073,0020,0074,0065,0075,0075,0074,0073,0065,006e,0075,0064,0020,000a,0066,0072,0069,0061,006c,0061,006c,0020,006a,0061,0020,006d,00f2,0074,006c,0065,006c,002c,0020,0061,0075,0075,0069,0064,0020,000a,0054,0061,0072,0074,0075,0020,0061,0073,0075,0064,0061,002c,0020,0073,006f,006f,0076,0069,0062,0020,006f,006d,0061,006c,006f,0020,000a,006e,0075,006c,0061,0073,0073,00f5,0070,0072,0061,002c,0020,0065,0073,0020,0061,0069,0074,0061,0062,0073,0020,006d,0069,006e,002d,0020,000a,0067,0069,0074,0020,0074,0065,0065,006e,0069,0073,0074,0075,0073,0074,0020,006c,0065,0069,0064,0061,0020,0053,006f,0062,0069,002d,0020,000a,0076,0075,0073,006f,0020,0052,006f,0072,0072,0061,006c,0020,0061,0062,0069,0065,006c,0075,002e,0020,0069,0072,002d,0020,000a,006a,0061,0064,003a,0020,0052,0072,0069,0075,0064,006e,0065,0072,0069,002c,0020,0056,006f,0073,006b,0069,0020,0070,002e,0020,0061,0067,0020,000a,0070,0052,002e,0020,0032,002e,0020,000a,004b,0065,006e,0061,0020,000a,0076,0069,006c,006c,0069,006d,0075,0073,0065,0067,0061,0020,006e,0065,0069,0075,0020,0076,0064,0069,0062,0020,006c,0065,0069,0064,0061,0020,000a,0068,006f,006e,0020,004c,00f5,0072,0076,0075,006c,0074,006f,006f,006e,0069,0073,0069,0075,0073,0065,002e,0020,000a,0046,006f,0074,006f,0067,0061,0020,0076,0061,0072,0075,0073,0074,0061,0074,0075,0064,0020,006b,0069,0074,0069,0061,0064,0020,000a,0065,006f,0073,006f,0069,0067,0075,0073,0074,0075,0074,0075,0064,002e,0020,0052,0069,0072,0069,0061,0064,003a,0020,0050,006c,0069,0072,002d,0020,000a,006e,0075,002c,0020,0062,006f,0073,0074,002e,0020,0035,0034,0020,201e,0053,0075,0064,0061,006d,006f,0069,006f,0020,000a,0076,006f,0064,006c,0063,0069,0069,002e,0020,000a,0072,0069,006c,0063,006b,0075,002c,0020,0076,0061,0069,0064,0020,0052,0075,0069,006c,0020,0074,0075,0069,006f,0073,0074,0069,0020,000a,006e,0075,006c,0073,006f,006c,0069,0020,0078,0075,0020,006e,0061,006c,0073,0065,0067,0061,0020,000a,0073,006f,006f,0076,0069,006e,0020,0061,0062,0069,006f,006c,006c,0075,0064,0061,002e,0020,004b,0069,0072,0069,002e,0020,0073,006c,0074,002e,0020,000a,00bb,004d,006f,0065,0073,0020,017f,0020,0045,0069,006e,0064,0065,006c,0020,006c,0065,0069,0062,0061,002e,0020,000a,0020,0020,000a,0048,0072,0061,0020,006a,0061,0020,0070,0072,002e,0020,0049,0045,0047,004f,0056,0041,0027,0074,0065,006c,006f,0020,000a,0054,0061,0072,0074,0075,0020,0076,0065,0065,0072,0069,006b,006f,002e,0020,000a,0053,0075,0064,0061,006d,006c,0069,006b,0020,0064,006e,006e,006f,0073,006f,006f,0076,0020,006d,0075,002d,0020,000a,0067,0061,0076,0061,006b,0073,0020,0069,0061,0020,0061,0072,006d,0073,006f,006b,0061,0020,0070,0065,0072,0065,002d,0020,000a,0052,006f,006e,006e,0061,006f,006c,0075,006b,0073,0021,0020,000a,0050,0065,0072,0065,006b,002e,0020,201e,0045,002e,0020,0045,002e,0020,0056,002e,0020,0054,0061,006c,0069,006e,006e,002e,0020,000a,0020,0020,000a,004f,006c,006f,006e,0020,0076,0061,006c,0063,006c,0020,0068,0061,0072,006d,0069,0074,0020,000a,0074,0069,0074,0061,0072,006c,0061,0070,0073,0020,000a,0070,0069,0073,0075,0062,0065,0073,006f,0020,0073,0074,0069,0064,0061,006d,0065,0067,0061,0020,0063,0069,006e,006e,0075,0073,002c,0020,000a,006d,0069,0073,0020,0069,0067,0061,0074,0073,0065,0062,0020,0064,0075,006e,0065,0020,006a,0061,0020,0061,0072,006d,0061,0073,002d,0020,000a,0074,0075,0073,0074,0020,006e,0069,006e,0067,0020,0070,0065,0068,006d,0065,0069,0064,0020,0065,0076,0061,0064,002d,0020,000a,0074,0075,0075,006c,0069,002e,0020,004d,0069,006e,0075,0020,006e,0061,0064,0072,002e,0020,0034,0036,0067,006f,0076,0061,0020,000a,0070,006f,0073,0074,006b,006f,006e,0074,006f,0072,002c,0045,0072,006d,0061,0073,002e,0020,000a,0020,0020,000a,0073,0069,006e,0020,0073,0069,006e,0075,0074,0061,003f,002e,002e,002e,0020,0056,00f5,006c,0075,0076,002e,0020,000a,0074,00fc,0074,0061,0072,006c,0061,0068,0073,0074,0020,000a,004b,0061,006c,0069,0073,002c,0020,006c,0075,0020,006c,00f2,0070,006d,0061,0074,0075,0020,006c,0061,0074,0061,002d,0020,000a,0072,0069,006e,0074,0069,002c,0020,0065,006b,0062,0073,0069,006e,0075,0064,0020,0070,006f,0069,0073,0075,0074,002e,0020,006e,0061,006f,002d,0020,000a,0072,0075,0070,0075,0072,0061,0067,0072,0061,0068,0076,0069,002c,0020,0069,0064,0075,0064,0073,0069,0064,0020,0076,0061,0073,0074,0020,000a,006e,0046,0069,006c,006d,0020,017f,0061,0020,0065,006c,0075,0073,0020,0076,006f,0065,0072,0075,006c,006f,002e,0020,0053,0075,002d,0020,000a,006c,0065,0073,0074,0061,0067,0073,0020,201e,0049,0076,006f,0073,0020,006a,0061,0020,002c,0020,0054,006f,0070,0020,0034,0038,002d,0020,000a,0064,0065,0076,0061,0020,0070,0061,0074,0069,0063,002e,0020,0032,0038,002e,0020,000a,0020,0020,000a,0020,0020,000a,004b,0075,0072,0068,0062,0021,0021,0020,000a,0062,006f,006c,0065,002e,0020,0075,0068,0074,0069,0063,006c,002c,0020,0052,006f,0073,0020,006c,006f,0068,0061,0074,0061,0078,0061,002c,0020,000a,00fc,0068,0074,006b,0069,0020,006b,0065,0073,0020,0074,0075,006e,006e,0065,006b,0073,0020,0068,0069,006e,0067,006f,0074,0069,002d,0020,000a,0067,0065,006c,0074,0020,006b,0061,0061,0073,0061,0020,0069,0061,0020,006f,006c,0065,006b,0061,0020,0061,0038,0062,0072,0061,0061,0020,000a,0043,0061,006c,006c,0069,006b,0073,002e,002e,002e,0020,004b,0075,0073,0020,0076,006c,0069,0062,0069,0064,002e,0020,006d,0061,0020,000a,0075,006e,0069,0073,0074,0075,0073,0074,006f,0020,006b,0061,0075,006e,0069,006d,0020,006d,006f,006f,0061,002d,0020,000a,0068,0069,006e,0067,003f,0020,0043,0075,0069,0020,006f,006c,0065,0064,0020,0073,0069,006e,0061,0067,0069,0020,000a,006c,0075,0072,0062,0020,006a,0061,0020,0074,0075,006e,006e,0065,0064,0020,0065,006e,0064,0020,0075,0065,002d,0020,000a,0073,0069,006e,0064,0061,0020,0073,0069,0069,0073,0020,0070,0061,006c,0075,006e,0020,006e,006c,0072,0069,0075,0074,0061,0020,000a,0041,0061,0064,0072,006f,0073,0073,003a,0020,0043,0069,0072,0073,0069,0020,0031,002e,0020,0070,0069,0072,006e,0061,0020,000a,00bb,006c,0074,0061,0020,0032,0030,0035,002c,0020,201e,0041,0067,0067,0069,0020,0032,0031,201c,002e,0020,000a,2014,0020,000a,0020,0020,000a,0046,006c,0069,002e,0020,004d,0020,0069,0061,006e,0020,0045,006c,002e,0020,002d,0020,000a,0053,004f,004f,0044,0055,0053,0054,0055,0053,0045,0055,0050,004f,004e,0047,0020,004e,0072,002e,0020,0031,002e,0020,000a,004e,0075,006e,0067,002e,0020,0076,006f,0069,006d,0061,0064,0061,0062,0020,0074,0061,0073,0075,0074,0075,0020,0074,0075,0074,0076,0075,0073,0065,002d,0020,0074,006f,0020,0063,006f,0072,0074,0065,0072,0069,002d,0020,0069,0061,0020,0069,0061,0073,002d,0020,000a,006e,0075,0064,006f,0020,006f,0074,0073,0069,006d,0069,0073,0065,002d,0020,0070,0061,0074,006b,0075,006d,0069,006e,006f,002c,0020,006e,0069,0061,0067,0020,006f,0073,0074,0075,002d,0020,0069,0061,0020,006d,0075,006e,0067,0069,0020,0074,0075,0075,0069,0064,0074,0075,0073,00e3,002e,0020,000a,004e,0075,0075,0069,006e,0074,0075,0073,0074,0065,0020,0061,0075,0061,0074,006d,0069,0074,0065,0074,0020,0074,0075,0020,0065,006c,0020,0061,0072,0076,006f,0073,0074,0064,0064,0061,0020,0069,0067,0061,0020,0020,0069,002e,0020,006e,002e,0020,0075,006e,002e,0020,000a,2014,2014,0020,2014,0020,23d1,0020,2014,0020,23d1,0020,00b6,0020,2014,0020,2014,0020,23d1,0020,003a,0020,2014,0020,1ebd,2014,0020,0032,0020,000a,004a,0072,0064,006f,006d,0075,0020,0074,0075,0074,0061,0072,006c,0061,0074,0069,0073,0065,0020,0068,0069,006e,0063,006f,0020,006b,0069,0072,002d,0020,000a,0020,0020,000a,0033,0020,006b,0075,006e,0064,0020,0045,0072,0020,004f,002e,0020,0037,0035,002c,0020,000a,006c,0028,0075,0075,0069,0075,0074,0075,0073,0065,0020,006e,0069,006e,006e,0061,0064,0020,006b,0075,0075,0074,0075,0074,0075,0073,0073,0020,0076,0065,0065,0072,0075,006c,0068,0020,0073,006e,0074,002e,002c,0020,0074,0065,006b,0073,0074,0069,0073,0020,0031,0030,0020,0073,006e,0074,002e,0020,0075,006d,002e,0020,004b,0075,0075,006c,0075,0074,0075,0073,0069,0020,0076,006f,0065,0074,0061,006c,0063,0067,0065,0020,000a,0031,0020,0061,0072,0072,0075,0061,0020,0031,0020,000a,0052,0065,0073,0020,0054,0065,0069,0064,0074,0020,0073,006f,006f,0076,0069,0062,0073,0020,006b,0069,0072,006a,0075,002d,0020,000a,0074,0075,0064,0061,0020,0062,0069,006b,0065,006d,0061,006c,0065,0020,0061,0061,006c,0065,0064,0061,006c,0065,0020,000a,00e0,0030,0020,0075,002e,0020,0075,0072,002e,0020,0043,0069,0072,006a,0061,0064,0020,0073,006c,002e,0020,0061,0062,0069,0074,002e,0020,000a,0054,0061,0072,0074,0075,0020,201e,006c,0062,0075,0074,0073,0075,0073,0073,002e,0020,000a,0074,0061,006b,0073,006f,0020,0075,0020,000a,0020,0020,000a,0020,0020,000a,017f,0072,0069,0074,0069,0073,0073,0020,006e,03c0,0064,0075,0073,0074,0075,0073,0065,006e,0061,0020,0076,00f5,0069,0062,0020,0074,0075,0074,0020,0076,0075,0073,0074,0020,006a,0020,000a,0028,006d,0069,006c,006c,0065,006c,0065,0020,0074,0075,006c,0065,0062,0020,0075,0075,0063,0065,0020,006c,0069,0073,0061,0064,0061,0020,0020,0065,0072,0020,0074,0020,000a,006d,006e,0020,006e,0069,006d,006f,0074,0061,0020,006a,0075,0072,0069,0065,0020,0074,006f,0072,0072,0061,0020,0046,0072,0069,0020,0061,006c,006c,0020,006b,0020,000a,0072,0020,006a,00fc,0072,0069,0020,006e,0075,006d,0062,0072,0069,0020,0061,006c,0069,002c,0020,006d,0069,006c,006c,006f,0065,0020,0074,006f,0074,0074,0075,0020,0054,0076,0069,0064,0020,000a,0049,0061,006e,0075,0064,002e,0020,0054,0065,0069,0065,0020,0069,0075,0072,0065,0074,006f,0072,0072,0061,0020,006e,0061,0075,0062,0065,0069,0069,0073,0020,0074,0075,006e,0069,0064,0020,0069,0072,017f,0061,0064,002d,0020,0045,0065,0073,0020,000a,2014,0020,006f,0069,0061,0075,0064,0020,0072,0069,006c,006f,0064,0020,0062,0061,0020,0069,0075,0061,0061,006f,0074,0061,0078,0073,0020,000a,002e,0065,006f,0075,0074,0020,0070,006f,0075,0074,006d,0061,0072,0078,0065,0029,0020,006d,0069,0061,0020,0061,0076,0061,006c,0064,0061,002d,0020,000a,006b,0065,006c,0074,0065,006c,0065,0020,0066,006f,0069,0065,0020,0065,006e,0064,0020,0074,0074,0072,0069,0061,0076,0061,0068,0065,0074,0075,0073,0065,006c,0020,006f,017f,0065,0074,006f,0020,0063,03b9,03bf,0020,000a,0020,0020,000a,0020,0020,000a,006c,006b,0075,0075,0020,0045,0072,002e,0020,0036,002e,0020,0032,0035,0020,000a,0054,0065,006c,006c,0069,006d,0069,0073,0069,0020,0076,00f5,0074,0061,0076,0061,0064,0020,0076,0061,0073,0074,0075,0020,006c,0065,006f,0069,0074,0020,0052,002e,0020,000a,0056,002e,0020,0070,006f,0073,0074,0068","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," i","0020,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"Vä","0056,00e4","Li","004c,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","",",","002c","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"„","201e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+Vaat","000a,0056,0061,0061,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"e kü","0065,0020,006b,00fc","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"amas k","0061,006d,0061,0073,0020,006b","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"d","0064","a","0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ea on","0065,0061,0020,006f,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"elt.","0065,006c,0074,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"t","0074","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","a","0061","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"lä","006c,00e4","Ia","0049,0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"k","006b","uc","0075,0063","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"e","0065","c","0063","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"E","0045","V","0056","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"op","006f,0070","ιl ","03b9,006c,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"u, tule","0075,002c,0020,0074,0075,006c,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"k","006b","h","0068","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"kk","006b,006b","b","0062","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"j","006a","iu","0069,0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"elline","0065,006c,006c,0069,006e,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"aheksa","0061,0068,0065,006b,0073,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ilogrammides","0069,006c,006f,0067,0072,0061,006d,006d,0069,0064,0065,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"st niisugust iga","0073,0074,0020,006e,0069,0069,0073,0075,0067,0075,0073,0074,0020,0069,0067,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"rad, lõhnab?","0072,0061,0064,002c,0020,006c,00f5,0068,006e,0061,0062,003f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"F","0046","T","0054","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+rovi","000a,0072,006f,0076,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,". Ja","002e,0020,004a,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," oli terav.","0020,006f,006c,0069,0020,0074,0065,0072,0061,0076,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"na","006e,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+Oleks va","000a,004f,006c,0065,006b,0073,0020,0076,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ast. Tule","0061,0073,0074,002e,0020,0054,0075,006c,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"edada tea","0065,0064,0061,0064,0061,0020,0074,0065,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+Kui naine sõna ","000a,004b,0075,0069,0020,006e,0061,0069,006e,0065,0020,0073,00f5,006e,0061,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"o-","006f,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"D","0044","H","0048","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"s","0073","u","0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"da","0064,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ad","0061,0064","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"is-","0069,0073,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"lne","006c,006e,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+Viima","000a,0056,0069,0069,006d,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"b,","0062,002c","h.","0068,002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","Aga meil oli sell, Vasika veriovkin. 
+Vaat, see siis utleshi: 
+— Aga milleks kRuradiks, nobrad. 
+sedua putti vedada ja selle samaga rah- 
+va elumahla — raha — Rulutada ja oma 
+protsente vühendada. Veeretame püti 
+öue. Ja ootame, mis nommikul sünnib. 
+Sikutasime püti õue. Hommikul tu- 
+leme — pütt scisab — puhas. Vehisid 
+sisse bõ joolesul kapsad. 
+Meie. Rooperatiici töblised, olime via- 
+ga rõõmsad. riõ lausa keeh Raes — 
+niisugust tõusu võih näha. Meie esi- 
+mees, Ivan ","0041,0067,0061,0020,006d,0065,0069,006c,0020,006f,006c,0069,0020,0073,0065,006c,006c,002c,0020,0056,0061,0073,0069,006b,0061,0020,0076,0065,0072,0069,006f,0076,006b,0069,006e,002e,0020,000a,0056,0061,0061,0074,002c,0020,0073,0065,0065,0020,0073,0069,0069,0073,0020,0075,0074,006c,0065,0073,0068,0069,003a,0020,000a,2014,0020,0041,0067,0061,0020,006d,0069,006c,006c,0065,006b,0073,0020,006b,0052,0075,0072,0061,0064,0069,006b,0073,002c,0020,006e,006f,0062,0072,0061,0064,002e,0020,000a,0073,0065,0064,0075,0061,0020,0070,0075,0074,0074,0069,0020,0076,0065,0064,0061,0064,0061,0020,006a,0061,0020,0073,0065,006c,006c,0065,0020,0073,0061,006d,0061,0067,0061,0020,0072,0061,0068,002d,0020,000a,0076,0061,0020,0065,006c,0075,006d,0061,0068,006c,0061,0020,2014,0020,0072,0061,0068,0061,0020,2014,0020,0052,0075,006c,0075,0074,0061,0064,0061,0020,006a,0061,0020,006f,006d,0061,0020,000a,0070,0072,006f,0074,0073,0065,006e,0074,0065,0020,0076,00fc,0068,0065,006e,0064,0061,0064,0061,002e,0020,0056,0065,0065,0072,0065,0074,0061,006d,0065,0020,0070,00fc,0074,0069,0020,000a,00f6,0075,0065,002e,0020,004a,0061,0020,006f,006f,0074,0061,006d,0065,002c,0020,006d,0069,0073,0020,006e,006f,006d,006d,0069,006b,0075,006c,0020,0073,00fc,006e,006e,0069,0062,002e,0020,000a,0053,0069,006b,0075,0074,0061,0073,0069,006d,0065,0020,0070,00fc,0074,0069,0020,00f5,0075,0065,002e,0020,0048,006f,006d,006d,0069,006b,0075,006c,0020,0074,0075,002d,0020,000a,006c,0065,006d,0065,0020,2014,0020,0070,00fc,0074,0074,0020,0073,0063,0069,0073,0061,0062,0020,2014,0020,0070,0075,0068,0061,0073,002e,0020,0056,0065,0068,0069,0073,0069,0064,0020,000a,0073,0069,0073,0073,0065,0020,0062,00f5,0020,006a,006f,006f,006c,0065,0073,0075,006c,0020,006b,0061,0070,0073,0061,0064,002e,0020,000a,004d,0065,0069,0065,002e,0020,0052,006f,006f,0070,0065,0072,0061,0074,0069,0069,0063,0069,0020,0074,00f6,0062,006c,0069,0073,0065,0064,002c,0020,006f,006c,0069,006d,0065,0020,0076,0069,0061,002d,0020,000a,0067,0061,0020,0072,00f5,00f5,006d,0073,0061,0064,002e,0020,0072,0069,00f5,0020,006c,0061,0075,0073,0061,0020,006b,0065,0065,0068,0020,0052,0061,0065,0073,0020,2014,0020,000a,006e,0069,0069,0073,0075,0067,0075,0073,0074,0020,0074,00f5,0075,0073,0075,0020,0076,00f5,0069,0068,0020,006e,00e4,0068,0061,002e,0020,004d,0065,0069,0065,0020,0065,0073,0069,002d,0020,000a,006d,0065,0065,0073,002c,0020,0049,0076,0061,006e,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"lis","006c,0069,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"u","0075","","","none","3"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,". G","002e,0020,0047","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"D","0044","tusele murgusonu ull: „Mutkul huii teenistuss. tbbliscingkond","0074,0075,0073,0065,006c,0065,0020,006d,0075,0072,0067,0075,0073,006f,006e,0075,0020,0075,006c,006c,003a,0020,201e,004d,0075,0074,006b,0075,006c,0020,0068,0075,0069,0069,0020,0074,0065,0065,006e,0069,0073,0074,0075,0073,0073,002e,0020,0074,0062,0062,006c,0069,0073,0063,0069,006e,0067,006b,006f,006e,0064","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","orid. 
+iooksvass","006f,0072,0069,0064,002e,0020,000a,0069,006f,006f,006b,0073,0076,0061,0073,0073","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"lu","006c,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"M. ","004d,002e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," s","0020,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ab","0061,0062","uh","0075,0068","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," P","0020,0050","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"set","0073,0065,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","R","0052","false detection","3"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"sik","0073,0069,006b","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"H","0048","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"vel.","0076,0065,006c,002e","— D ","2014,0020,0044,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+p","000a,0070","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"tat ","0074,0061,0074,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ö","00f6","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+No, ","000a,004e,006f,002c,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," või","0020,0076,00f5,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"es ","0065,0073,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+sii","000a,0073,0069,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+Ja tuli tem","000a,004a,0061,0020,0074,0075,006c,0069,0020,0074,0065,006d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"Meie esimees, ","004d,0065,0069,0065,0020,0065,0073,0069,006d,0065,0065,0073,002c,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ib, — ütleb","0069,0062,002c,0020,2014,0020,00fc,0074,006c,0065,0062","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"",""," 
+kuid mitte ","0020,000a,006b,0075,0069,0064,0020,006d,0069,0074,0074,0065,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"č","010d","è","00e8","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+le","000a,006c,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"dak","0064,0061,006b","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+vedada, ","000a,0076,0065,0064,0061,0064,0061,002c,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+ra","000a,0072,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," teine.","0020,0074,0065,0069,006e,0065,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"",""," 
+Es 208 
+DOMAM ","0020,000a,0045,0073,0020,0032,0030,0038,0020,000a,0044,004f,004d,0041,004d,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+on naine","000a,006f,006e,0020,006e,0061,0069,006e,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,".. ","002e,002e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"k","006b","l","006c","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ÜTT","00dc,0054,0054","eodoroviè, Rõnnib ja hõëruh 
+Rasi","0065,006f,0064,006f,0072,006f,0076,0069,00e8,002c,0020,0052,00f5,006e,006e,0069,0062,0020,006a,0061,0020,0068,00f5,00eb,0072,0075,0068,0020,000a,0052,0061,0073,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+","000a"," 
+Suurepürune, — ütleh. — selts ime- 
+hed, nüüd mingu rikki kas või Rogu 
+Raup,. — alati teeme nii. 
+Varsti laks meil rikki veel iha putt. 
+Ia tünder kurkidega. 
+Rõõmustasime. veeretasime selle va- 
+randuse õue ja vrava jatsime vahekesi 
+lahti. Olgu tunavalt paremini naha. Ia 
+laste Ruia, Rodanikud! 
+Kuid secekord kulckusime sisse. Mitte 
+ainult, et Rapsad olid läinud, vaid a 
+biiti. Ruradid, olid ira vedanud. 
+No, aga edaspidi laotasime rilckilai- 
+nud prgdutid rogusbeile. Ja nii rogus- 
+leil viisime vilja. Ruigi ka roguski ara 
+vodasid. Ruid sellest polnud Rahju — 
+see ei seisnud kooperatiivi nimekirjas. 
+5 
+E 
+Uletii. usvulotcid 
+suured rul- 
+lic CGoib 
+ku voni- 
+laincteta). 
+lristall ve- 
+delik vilis- 
+maa ainet. 
+ſuustols 
+jaiih loo- 
+mulik vurv 
+Ahbiollun 
+100 
+kinopiiiset 
+nädalas lugeiaile! 
+Länem priipaasmoto saumiso 
+cord tehakso teatavats iurg- 
+misos numbris. 
+. 
+6006 hinnaalandus 
+„NIlM IA ELU- lugoiailo 
+tanisutit ursusitæi. 
+Hinnaalunduse saamisels tuteh 
+end „Film ja Elusa talituses re- 
+gistreerida, esitades ühtlasi ta- 
+litusele E „Film ja Elu“ soodus- 
+tuskupongi. Esimene tantsugrup 
+algab kone tegevust Rul vaialik 
+arv osavõtiaid — vãlienalt 20 isi- 
+kut on end registreerinud. Grup- 
+pe luuakse niipaliu kui leidub 
+osnvõtta soovijaid. 
+kegistreerige end ","0020,000a,0053,0075,0075,0072,0065,0070,00fc,0072,0075,006e,0065,002c,0020,2014,0020,00fc,0074,006c,0065,0068,002e,0020,2014,0020,0073,0065,006c,0074,0073,0020,0069,006d,0065,002d,0020,000a,0068,0065,0064,002c,0020,006e,00fc,00fc,0064,0020,006d,0069,006e,0067,0075,0020,0072,0069,006b,006b,0069,0020,006b,0061,0073,0020,0076,00f5,0069,0020,0052,006f,0067,0075,0020,000a,0052,0061,0075,0070,002c,002e,0020,2014,0020,0061,006c,0061,0074,0069,0020,0074,0065,0065,006d,0065,0020,006e,0069,0069,002e,0020,000a,0056,0061,0072,0073,0074,0069,0020,006c,0061,006b,0073,0020,006d,0065,0069,006c,0020,0072,0069,006b,006b,0069,0020,0076,0065,0065,006c,0020,0069,0068,0061,0020,0070,0075,0074,0074,002e,0020,000a,0049,0061,0020,0074,00fc,006e,0064,0065,0072,0020,006b,0075,0072,006b,0069,0064,0065,0067,0061,002e,0020,000a,0052,00f5,00f5,006d,0075,0073,0074,0061,0073,0069,006d,0065,002e,0020,0076,0065,0065,0072,0065,0074,0061,0073,0069,006d,0065,0020,0073,0065,006c,006c,0065,0020,0076,0061,002d,0020,000a,0072,0061,006e,0064,0075,0073,0065,0020,00f5,0075,0065,0020,006a,0061,0020,0076,0072,0061,0076,0061,0020,006a,0061,0074,0073,0069,006d,0065,0020,0076,0061,0068,0065,006b,0065,0073,0069,0020,000a,006c,0061,0068,0074,0069,002e,0020,004f,006c,0067,0075,0020,0074,0075,006e,0061,0076,0061,006c,0074,0020,0070,0061,0072,0065,006d,0069,006e,0069,0020,006e,0061,0068,0061,002e,0020,0049,0061,0020,000a,006c,0061,0073,0074,0065,0020,0052,0075,0069,0061,002c,0020,0052,006f,0064,0061,006e,0069,006b,0075,0064,0021,0020,000a,004b,0075,0069,0064,0020,0073,0065,0063,0065,006b,006f,0072,0064,0020,006b,0075,006c,0063,006b,0075,0073,0069,006d,0065,0020,0073,0069,0073,0073,0065,002e,0020,004d,0069,0074,0074,0065,0020,000a,0061,0069,006e,0075,006c,0074,002c,0020,0065,0074,0020,0052,0061,0070,0073,0061,0064,0020,006f,006c,0069,0064,0020,006c,00e4,0069,006e,0075,0064,002c,0020,0076,0061,0069,0064,0020,0061,0020,000a,0062,0069,0069,0074,0069,002e,0020,0052,0075,0072,0061,0064,0069,0064,002c,0020,006f,006c,0069,0064,0020,0069,0072,0061,0020,0076,0065,0064,0061,006e,0075,0064,002e,0020,000a,004e,006f,002c,0020,0061,0067,0061,0020,0065,0064,0061,0073,0070,0069,0064,0069,0020,006c,0061,006f,0074,0061,0073,0069,006d,0065,0020,0072,0069,006c,0063,006b,0069,006c,0061,0069,002d,0020,000a,006e,0075,0064,0020,0070,0072,0067,0064,0075,0074,0069,0064,0020,0072,006f,0067,0075,0073,0062,0065,0069,006c,0065,002e,0020,004a,0061,0020,006e,0069,0069,0020,0072,006f,0067,0075,0073,002d,0020,000a,006c,0065,0069,006c,0020,0076,0069,0069,0073,0069,006d,0065,0020,0076,0069,006c,006a,0061,002e,0020,0052,0075,0069,0067,0069,0020,006b,0061,0020,0072,006f,0067,0075,0073,006b,0069,0020,0061,0072,0061,0020,000a,0076,006f,0064,0061,0073,0069,0064,002e,0020,0052,0075,0069,0064,0020,0073,0065,006c,006c,0065,0073,0074,0020,0070,006f,006c,006e,0075,0064,0020,0052,0061,0068,006a,0075,0020,2014,0020,000a,0073,0065,0065,0020,0065,0069,0020,0073,0065,0069,0073,006e,0075,0064,0020,006b,006f,006f,0070,0065,0072,0061,0074,0069,0069,0076,0069,0020,006e,0069,006d,0065,006b,0069,0072,006a,0061,0073,002e,0020,000a,0020,0020,000a,0020,0020,0020,0020,0020,0020,000a,0035,0020,000a,0045,0020,000a,0055,006c,0065,0074,0069,0069,002e,0020,0075,0073,0076,0075,006c,006f,0074,0063,0069,0064,0020,000a,0073,0075,0075,0072,0065,0064,0020,0072,0075,006c,002d,0020,000a,006c,0069,0063,0020,0043,0047,006f,0069,0062,0020,000a,006b,0075,0020,0076,006f,006e,0069,002d,0020,000a,006c,0061,0069,006e,0063,0074,0065,0074,0061,0029,002e,0020,000a,006c,0072,0069,0073,0074,0061,006c,006c,0020,0076,0065,002d,0020,000a,0064,0065,006c,0069,006b,0020,0076,0069,006c,0069,0073,002d,0020,000a,006d,0061,0061,0020,0061,0069,006e,0065,0074,002e,0020,000a,017f,0075,0075,0073,0074,006f,006c,0073,0020,000a,006a,0061,0069,0069,0068,0020,006c,006f,006f,002d,0020,000a,006d,0075,006c,0069,006b,0020,0076,0075,0072,0076,0020,000a,0020,0020,000a,0041,0068,0062,0069,006f,006c,006c,0075,006e,0020,000a,0020,0020,000a,0020,0020,000a,0031,0030,0030,0020,000a,006b,0069,006e,006f,0070,0069,0069,0069,0073,0065,0074,0020,000a,006e,00e4,0064,0061,006c,0061,0073,0020,006c,0075,0067,0065,0069,0061,0069,006c,0065,0021,0020,000a,004c,00e4,006e,0065,006d,0020,0070,0072,0069,0069,0070,0061,0061,0073,006d,006f,0074,006f,0020,0073,0061,0075,006d,0069,0073,006f,0020,000a,0063,006f,0072,0064,0020,0074,0065,0068,0061,006b,0073,006f,0020,0074,0065,0061,0074,0061,0076,0061,0074,0073,0020,0069,0075,0072,0067,002d,0020,000a,006d,0069,0073,006f,0073,0020,006e,0075,006d,0062,0072,0069,0073,002e,0020,000a,0020,0020,000a,0020,0020,000a,002e,0020,000a,0036,0030,0030,0036,0020,0068,0069,006e,006e,0061,0061,006c,0061,006e,0064,0075,0073,0020,000a,201e,004e,0049,006c,004d,0020,0049,0041,0020,0045,004c,0055,002d,0020,006c,0075,0067,006f,0069,0061,0069,006c,006f,0020,000a,0074,0061,006e,0069,0073,0075,0074,0069,0074,0020,0075,0072,0073,0075,0073,0069,0074,00e6,0069,002e,0020,000a,0048,0069,006e,006e,0061,0061,006c,0075,006e,0064,0075,0073,0065,0020,0073,0061,0061,006d,0069,0073,0065,006c,0073,0020,0074,0075,0074,0065,0068,0020,000a,0065,006e,0064,0020,201e,0046,0069,006c,006d,0020,006a,0061,0020,0045,006c,0075,0073,0061,0020,0074,0061,006c,0069,0074,0075,0073,0065,0073,0020,0072,0065,002d,0020,000a,0067,0069,0073,0074,0072,0065,0065,0072,0069,0064,0061,002c,0020,0065,0073,0069,0074,0061,0064,0065,0073,0020,00fc,0068,0074,006c,0061,0073,0069,0020,0074,0061,002d,0020,000a,006c,0069,0074,0075,0073,0065,006c,0065,0020,0045,0020,201e,0046,0069,006c,006d,0020,006a,0061,0020,0045,006c,0075,201c,0020,0073,006f,006f,0064,0075,0073,002d,0020,000a,0074,0075,0073,006b,0075,0070,006f,006e,0067,0069,002e,0020,0045,0073,0069,006d,0065,006e,0065,0020,0074,0061,006e,0074,0073,0075,0067,0072,0075,0070,0020,000a,0061,006c,0067,0061,0062,0020,006b,006f,006e,0065,0020,0074,0065,0067,0065,0076,0075,0073,0074,0020,0052,0075,006c,0020,0076,0061,0069,0061,006c,0069,006b,0020,000a,0061,0072,0076,0020,006f,0073,0061,0076,00f5,0074,0069,0061,0069,0064,0020,2014,0020,0076,00e3,006c,0069,0065,006e,0061,006c,0074,0020,0032,0030,0020,0069,0073,0069,002d,0020,000a,006b,0075,0074,0020,006f,006e,0020,0065,006e,0064,0020,0072,0065,0067,0069,0073,0074,0072,0065,0065,0072,0069,006e,0075,0064,002e,0020,0047,0072,0075,0070,002d,0020,000a,0070,0065,0020,006c,0075,0075,0061,006b,0073,0065,0020,006e,0069,0069,0070,0061,006c,0069,0075,0020,006b,0075,0069,0020,006c,0065,0069,0064,0075,0062,0020,000a,006f,0073,006e,0076,00f5,0074,0074,0061,0020,0073,006f,006f,0076,0069,006a,0061,0069,0064,002e,0020,000a,006b,0065,0067,0069,0073,0074,0072,0065,0065,0072,0069,0067,0065,0020,0065,006e,0064,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," t","0020,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"l","006c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ugu","0075,0067,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"",""," kuuiuv","0020,006b,0075,0075,0069,0075,0076","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"m","006d","te 
+—","0074,0065,0020,000a,2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"",""," numb","0020,006e,0075,006d,0062","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ve","0076,0065","iaso","0069,0061,0073,006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","ni Rest","006e,0069,0020,0052,0065,0073,0074","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"m","006d","adaſani 
+peutolinetus- talitus: rallinn. Voorinelie l, avutud ſel. 1o- li","0061,0064,0061,017f,0061,006e,0069,0020,000a,0070,0065,0075,0074,006f,006c,0069,006e,0065,0074,0075,0073,002d,0020,0074,0061,006c,0069,0074,0075,0073,003a,0020,0072,0061,006c,006c,0069,006e,006e,002e,0020,0056,006f,006f,0072,0069,006e,0065,006c,0069,0065,0020,006c,002c,0020,0061,0076,0075,0074,0075,0064,0020,017f,0065,006c,002e,0020,0031,006f,002d,0020,006c,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","ga piiev. Tegov toimetaia ia tulituso juhataia E. uutli Enotunnid igal osmaspisval olia 10-uii 
+abitulitused: Tartus, Võru 47--i. tui. iuhat. Altred ","0067,0061,0020,0070,0069,0069,0065,0076,002e,0020,0054,0065,0067,006f,0076,0020,0074,006f,0069,006d,0065,0074,0061,0069,0061,0020,0069,0061,0020,0074,0075,006c,0069,0074,0075,0073,006f,0020,006a,0075,0068,0061,0074,0061,0069,0061,0020,0045,002e,0020,0075,0075,0074,006c,0069,0020,0045,006e,006f,0074,0075,006e,006e,0069,0064,0020,0069,0067,0061,006c,0020,006f,0073,006d,0061,0073,0070,0069,0073,0076,0061,006c,0020,006f,006c,0069,0061,0020,0031,0030,002d,0075,0069,0069,0020,000a,0061,0062,0069,0074,0075,006c,0069,0074,0075,0073,0065,0064,003a,0020,0054,0061,0072,0074,0075,0073,002c,0020,0056,00f5,0072,0075,0020,0034,0037,002d,002d,0069,002e,0020,0074,0075,0069,002e,0020,0069,0075,0068,0061,0074,002e,0020,0041,006c,0074,0072,0065,0064,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"sa","0073,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","
+","000a","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"o.","006f,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"õ","00f5","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"v","0076","V","0056","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"r","0072","l","006c","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"!","0021",":","003a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"p","0070","h","0068","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"b. ","0062,002e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ri","0072,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+Aa","000a,0041,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"J","004a","I","0049","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"s","0073","e","0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," milline","0020,006d,0069,006c,006c,0069,006e,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ui kirstust.","0075,0069,0020,006b,0069,0072,0073,0074,0075,0073,0074,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"eodorovi","0065,006f,0064,006f,0072,006f,0076,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"Kä","004b,00e4","ſa","017f,0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","h","0068","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+— N","000a,2014,0020,004e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," — sõ","0020,2014,0020,0073,00f5","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"h","0068","n","006e","misrecognised","4"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+M","000a,004d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ad ","0061,0064,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"a see p","0061,0020,0073,0065,0065,0020,0070","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"imees, ","0069,006d,0065,0065,0073,002c,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," ja","0020,006a,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"arimas t","0061,0072,0069,006d,0061,0073,0020,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"A ","0041,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"“","201c","⸗. 
+L. R. Viijanui","2e17,002e,0020,000a,004c,002e,0020,0052,002e,0020,0056,0069,0069,006a,0061,006e,0075,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"E","0045","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"pe","0070,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","unapuu. Parnus uuinga ii, tal, iuhat. Anton Teko. 
+Raveros. Sauo 7. tal. juhat. Elmar Rahno. 
+kichard Remmel. õgeCGval, dòë s, Iaan Kuuste. 
+difiaadhs. l.adoneri pl 2. tal iuhuat. nmar Kurvita. 
+llu apSA‚LuS, Viidemunii is, tul. itittat 
+Turi. P 
+Ruros","0075,006e,0061,0070,0075,0075,002e,0020,0050,0061,0072,006e,0075,0073,0020,0075,0075,0069,006e,0067,0061,0020,0069,0069,002c,0020,0074,0061,006c,002c,0020,0069,0075,0068,0061,0074,002e,0020,0041,006e,0074,006f,006e,0020,0054,0065,006b,006f,002e,0020,000a,0052,0061,0076,0065,0072,006f,0073,002e,0020,0053,0061,0075,006f,0020,0037,002e,0020,0074,0061,006c,002e,0020,006a,0075,0068,0061,0074,002e,0020,0045,006c,006d,0061,0072,0020,0052,0061,0068,006e,006f,002e,0020,000a,006b,0069,0063,0068,0061,0072,0064,0020,0052,0065,006d,006d,0065,006c,002e,0020,00f5,0067,0065,0043,0047,0076,0061,006c,002c,0020,0064,00f2,00eb,0020,0073,002c,0020,0049,0061,0061,006e,0020,004b,0075,0075,0073,0074,0065,002e,0020,000a,0064,0069,0066,0069,0061,0061,0064,0068,0073,002e,0020,006c,002e,0061,0064,006f,006e,0065,0072,0069,0020,0070,006c,0020,0032,002e,0020,0074,0061,006c,0020,0069,0075,0068,0075,0061,0074,002e,0020,006e,006d,0061,0072,0020,004b,0075,0072,0076,0069,0074,0061,002e,0020,000a,006c,006c,0075,0020,0061,0070,0053,0041,201a,004c,0075,0053,002c,0020,0056,0069,0069,0064,0065,006d,0075,006e,0069,0069,0020,0069,0073,002c,0020,0074,0075,006c,002e,0020,0069,0074,0069,0074,0074,0061,0074,0020,000a,0054,0075,0072,0069,002e,0020,0050,0020,000a,0052,0075,0072,006f,0073","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"s koo","0073,0020,006b,006f,006f","a","0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"",""," 
+JVJ— ","0020,000a,004a,0056,004a,2014,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","S","0053","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"a","0061"," ah","0020,0061,0068","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"uu-","0075,0075,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"kuid mitte","006b,0075,0069,0064,0020,006d,0069,0074,0074,0065","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,". Vaat","002e,0020,0056,0061,0061,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"tt!","0074,0074,0021","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"vat lõh-","0076,0061,0074,0020,006c,00f5,0068,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+","000a"," 
+N","0020,000a,004e","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"van ","0076,0061,006e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"nas p","006e,0061,0073,0020,0070","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"öö","00f6,00f6","ou","006f,0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ij","0069,006a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"h","0068","ſi","017f,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"tikene ","0074,0069,006b,0065,006e,0065,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"kus ","006b,0075,0073,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"dorovi","0064,006f,0072,006f,0076,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+s","000a,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"v","0076","c","0063","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"enduses","0065,006e,0064,0075,0073,0065,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"Võluv,","0056,00f5,006c,0075,0076,002c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"AUG","0041,0055,0047","Südamlie ònnesoov eol- 
+Soocsaim Ronht 
+pledistamiseks 
+olevaks aastas] 
+oto-utelioe 
+Taliinu, Runinga 2 
+Telefon 4ob-B4 
+Mitte tingimata ilusa ega 
+Elada huis voi- 
+— —4642 digo. 
+büsiv 8-10 R. Hin! ala- 
+tes 160 6. peu. Vilunud 
+thõiòðud","0053,00fc,0064,0061,006d,006c,0069,0065,0020,00f2,006e,006e,0065,0073,006f,006f,0076,0020,0065,006f,006c,002d,0020,000a,0020,0020,000a,0053,006f,006f,0063,0073,0061,0069,006d,0020,0052,006f,006e,0068,0074,0020,000a,0070,006c,0065,0064,0069,0073,0074,0061,006d,0069,0073,0065,006b,0073,0020,000a,0020,0020,000a,0020,0020,000a,006f,006c,0065,0076,0061,006b,0073,0020,0061,0061,0073,0074,0061,0073,005d,0020,000a,006f,0074,006f,002d,0075,0074,0065,006c,0069,006f,0065,0020,000a,0054,0061,006c,0069,0069,006e,0075,002c,0020,0052,0075,006e,0069,006e,0067,0061,0020,0032,0020,000a,0054,0065,006c,0065,0066,006f,006e,0020,0034,006f,0062,002d,0042,0034,0020,000a,0020,0020,000a,0020,0020,000a,004d,0069,0074,0074,0065,0020,0074,0069,006e,0067,0069,006d,0061,0074,0061,0020,0069,006c,0075,0073,0061,0020,0065,0067,0061,0020,000a,0045,006c,0061,0064,0061,0020,0068,0075,0069,0073,0020,0076,006f,0069,002d,0020,000a,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,0020,0020,0020,000a,0020,0020,0020,0020,0020,0020,000a,2014,0020,2014,0034,0036,0034,0032,0020,0064,0069,0067,006f,002e,0020,000a,0062,00fc,0073,0069,0076,0020,0038,002d,0031,0030,0020,0052,002e,0020,0048,0069,006e,0021,0020,0061,006c,0061,002d,0020,000a,0074,0065,0073,0020,0031,0036,0030,0020,0036,002e,0020,0070,0065,0075,002e,0020,0056,0069,006c,0075,006e,0075,0064,0020,000a,0074,0068,00f5,0069,00f2,00f0,0075,0064","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","aranieerib tò 
+honduss. 
+Unha nrr. 
+Daumideo ia hurrado 
+Iuuusotbbstus, ","0061,0072,0061,006e,0069,0065,0065,0072,0069,0062,0020,0074,00f2,0020,000a,0068,006f,006e,0064,0075,0073,0073,002e,0020,000a,0055,006e,0068,0061,0020,006e,0072,0072,002e,0020,000a,0044,0061,0075,006d,0069,0064,0065,006f,0020,0069,0061,0020,0068,0075,0072,0072,0061,0064,006f,0020,000a,0049,0075,0075,0075,0073,006f,0074,0062,0062,0073,0074,0075,0073,002c,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"R","0052","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","vaks uumhetenitusebs. ","0076,0061,006b,0073,0020,0075,0075,006d,0068,0065,0074,0065,006e,0069,0074,0075,0073,0065,0062,0073,002e,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"tu","0074,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"Z","005a","L","004c","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+na — ","000a,006e,0061,0020,2014,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"I","0049","l","006c","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"F","0046","l","006c","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"elle","0065,006c,006c,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ä","00e4","ã","00e3","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","i","0069","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ü","00fc","u","0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"utem ","0075,0074,0065,006d,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"urat","0075,0072,0061,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"van","0076,0061,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"kle","006b,006c,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," j","0020,006a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"äh","00e4,0068","in","0069,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"FIL","0046,0049,004c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"HYAMS","0048,0059,0041,004d,0053","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"tütarlapsi","0074,00fc,0074,0061,0072,006c,0061,0070,0073,0069","4","0034","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"O","004f","NUlL. A- 
+","004e,0055,006c,004c,002e,0020,0041,002d,0020,000a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"G","0047","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"e","0065","ι Bie — oor 
+iga naususditiu omuma vihomait à00 bιοęęR.. Edu ia mees tolisringnonnus 
+uuisus reisuil ſiudel. Huvit. Riri. „Film ju mu“ ","03b9,0020,0042,0069,0065,0020,2014,0020,006f,006f,0072,0020,000a,0069,0067,0061,0020,006e,0061,0075,0073,0075,0073,0064,0069,0074,0069,0075,0020,006f,006d,0075,006d,0061,0020,0076,0069,0068,006f,006d,0061,0069,0074,0020,00e0,0030,0030,0020,0062,03b9,03bf,0119,0119,0052,002e,002e,0020,0045,0064,0075,0020,0069,0061,0020,006d,0065,0065,0073,0020,0074,006f,006c,0069,0073,0072,0069,006e,0067,006e,006f,006e,006e,0075,0073,0020,000a,0075,0075,0069,0073,0075,0073,0020,0072,0065,0069,0073,0075,0069,006c,0020,017f,0069,0075,0064,0065,006c,002e,0020,0048,0075,0076,0069,0074,002e,0020,0052,0069,0072,0069,002e,0020,201e,0046,0069,006c,006d,0020,006a,0075,0020,006d,0075,201c,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"š","0161","s","0073","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ü","00fc","i","0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,", ","002c,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"
+lõ","000a,006c,00f5","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"r","0072","f","0066","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"ra-","0072,0061,002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"a e","0061,0020,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"Aga","0041,0067,0061","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"!","0021","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","euk-lulamaia , tel. 440-6õ, 
+EBaiti juama raudtee ule- 
+nõidu vustas. 
+C. AS ucCS 
+— —— 
+Ecua Ao","0065,0075,006b,002d,006c,0075,006c,0061,006d,0061,0069,0061,0020,002c,0020,0074,0065,006c,002e,0020,0034,0034,0030,002d,0036,00f5,002c,0020,000a,0045,0042,0061,0069,0074,0069,0020,006a,0075,0061,006d,0061,0020,0072,0061,0075,0064,0074,0065,0065,0020,0075,006c,0065,002d,0020,000a,006e,00f5,0069,0064,0075,0020,0076,0075,0073,0074,0061,0073,002e,0020,000a,0020,0020,0020,000a,0043,002e,0020,0041,0053,0020,0075,0063,0043,0053,0020,000a,2014,0020,2014,2014,0020,000a,0045,0063,0075,0061,0020,0041,006f","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"d","0064","ti-","0074,0069,002d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"lugeja!
+","006c,0075,0067,0065,006a,0061,0021,000a","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"n","006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"s","0073","S","0053","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,," a","0020,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"s","0073","an","0061,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"č,","010d,002c","è.","00e8,002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","o","006f","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"e,","0065,002c",".","002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"meil","006d,0065,0069,006c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"Kaks,","004b,0061,006b,0073,002c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","&ncabc..c","0026,006e,0063,0061,0062,0063,002e,002e,0063","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"I","0049","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"k","006b","ic","0069,0063","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"g","0067","u","0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"Fe","0046,0065","ſ","017f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","on","006f,006e","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"oli","006f,006c,0069","
+","000a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"lu","006c,0075","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"lõpmatu labü-
+rinti, eksinud poisut, nae-
+ruparagrahvi, jõudsid vast
+„Film ja elu“ veerule. Su-
+lestage „Ivo“ ja „Top“ Jõ-
+geva pstk. 23.
+Kurb!!
+Pole ühtki, kes lohutaks,
+ühtki kes tunneks hingeii-
+selt kaasa ja oleks sõbraks
+kalliks ... Kus viibid, ma
+unistuste kaunim mees-
+hing ? Kui oled sinagi
+kurb ja tunned end ük-
+sinda siis palun kirjuta!
+Aadress : Kirsi 1, Pärna
+„Ita 20“, „Aggi 21“ .
+Härrad!
+Kes Teist sooviks kirju-
+tada pikemale saledale
+30 a. ur. Kirjad sl. abit.
+Tarlu ,,lgatsus“.
+„FILM Ja ELU‟
+SOODUSTUSKUPONG Nr. 1.
+Kupong võimaldab tasuta tutvuse- tõõ- korteri- ja lae-
+nude otsimise-pakkumise, ning ostu- ja müügi kuulutused.
+Kuulutuste saatmisel tu eb arvestada iga 30 tähe kohla Üks
+soodnstnskupong (minimaalne kupongide arv on 2)
+Erilise soodustusena võib tutvaskuulutaja saata oma pildi,
+(millele tuleb iuure lisada 1 kr. eest postmarke) mis avalda-
+takse Ilma nimeta järjekorra numbri all, mille tõttu Teid
+võib tunda vaid see, kellele Teie end kirjavahetusel olete usal-
+danud. Teie järjekorra numbrile tulnud kirjad aga saadetakse
+Teile tasuta antud aadressil.
+Film ja Elu tellimishind postiga 1 aasta Kr. 2.50, 6 kuud Kr. 1.40, 3 kuud Kr 0.75, 1 kuu Kr. 0.25 Tellimisi võtavad vastu kõik E. V. postkontorid.
+Tellida võib ka talitusest. Kuulutuse hinnad kuulutuse veerul 5 snt., tekstis 10 snt. mm. Kuututusi võetakse jooksvasse numbrisse kuni kesknädalani.
+Peatoiinetus-talitus: Tallinn, Voorimehe 1, avatud kl. 10—11 iga päev. Tegev toimetaja ja talituse juhataja E. Rüütli kõnetunnid igal esmaspäeval kella 10—111
+Abitalitused: Tartus, Võru 47—1, tal. juhat. Alfred Künnapuu. Pärnus Kuninga 11, tal. juhat. Anton Tekko. Valgas Vabaduse 45. tal. juhat. Arnis Kivirähk-
+Viljandis, Laidoneri pl 2, tal juhat. Elmar Kurvits. Rakveres. Saue 7, tal. juhat. Elmar Rahno. Türi-Paide. Paide 6, Türil, tal. juhat. Harald Sanberg-
+Haapsalus, Viidemanni 18, tal. juhat Richard Remmel. Jõgeval, Jõe 5, Jaan Kuusk. Kuressaares, S. Sadama 7, H. Klaar (kauplus). V ă n d r a s, tel-
+KUMMITEMPLITE TÖÖSTUS
+„PERFEKT“
+Töö ODAV — Kiire — Korralik
+NUNNE 8
+NUNNE 8","006c,00f5,0070,006d,0061,0074,0075,0020,006c,0061,0062,00fc,002d,000a,0072,0069,006e,0074,0069,002c,0020,0065,006b,0073,0069,006e,0075,0064,0020,0070,006f,0069,0073,0075,0074,002c,0020,006e,0061,0065,002d,000a,0072,0075,0070,0061,0072,0061,0067,0072,0061,0068,0076,0069,002c,0020,006a,00f5,0075,0064,0073,0069,0064,0020,0076,0061,0073,0074,000a,201e,0046,0069,006c,006d,0020,006a,0061,0020,0065,006c,0075,201c,0020,0076,0065,0065,0072,0075,006c,0065,002e,0020,0053,0075,002d,000a,006c,0065,0073,0074,0061,0067,0065,0020,201e,0049,0076,006f,201c,0020,006a,0061,0020,201e,0054,006f,0070,201c,0020,004a,00f5,002d,000a,0067,0065,0076,0061,0020,0070,0073,0074,006b,002e,0020,0032,0033,002e,000a,004b,0075,0072,0062,0021,0021,000a,0050,006f,006c,0065,0020,00fc,0068,0074,006b,0069,002c,0020,006b,0065,0073,0020,006c,006f,0068,0075,0074,0061,006b,0073,002c,000a,00fc,0068,0074,006b,0069,0020,006b,0065,0073,0020,0074,0075,006e,006e,0065,006b,0073,0020,0068,0069,006e,0067,0065,0069,0069,002d,000a,0073,0065,006c,0074,0020,006b,0061,0061,0073,0061,0020,006a,0061,0020,006f,006c,0065,006b,0073,0020,0073,00f5,0062,0072,0061,006b,0073,000a,006b,0061,006c,006c,0069,006b,0073,0020,002e,002e,002e,0020,004b,0075,0073,0020,0076,0069,0069,0062,0069,0064,002c,0020,006d,0061,000a,0075,006e,0069,0073,0074,0075,0073,0074,0065,0020,006b,0061,0075,006e,0069,006d,0020,006d,0065,0065,0073,002d,000a,0068,0069,006e,0067,0020,003f,0020,004b,0075,0069,0020,006f,006c,0065,0064,0020,0073,0069,006e,0061,0067,0069,000a,006b,0075,0072,0062,0020,006a,0061,0020,0074,0075,006e,006e,0065,0064,0020,0065,006e,0064,0020,00fc,006b,002d,000a,0073,0069,006e,0064,0061,0020,0073,0069,0069,0073,0020,0070,0061,006c,0075,006e,0020,006b,0069,0072,006a,0075,0074,0061,0021,000a,0041,0061,0064,0072,0065,0073,0073,0020,003a,0020,004b,0069,0072,0073,0069,0020,0031,002c,0020,0050,00e4,0072,006e,0061,000a,201e,0049,0074,0061,0020,0032,0030,201c,002c,0020,201e,0041,0067,0067,0069,0020,0032,0031,201c,0020,002e,000a,0048,00e4,0072,0072,0061,0064,0021,000a,004b,0065,0073,0020,0054,0065,0069,0073,0074,0020,0073,006f,006f,0076,0069,006b,0073,0020,006b,0069,0072,006a,0075,002d,000a,0074,0061,0064,0061,0020,0070,0069,006b,0065,006d,0061,006c,0065,0020,0073,0061,006c,0065,0064,0061,006c,0065,000a,0033,0030,0020,0061,002e,0020,0075,0072,002e,0020,004b,0069,0072,006a,0061,0064,0020,0073,006c,002e,0020,0061,0062,0069,0074,002e,000a,0054,0061,0072,006c,0075,0020,002c,002c,006c,0067,0061,0074,0073,0075,0073,201c,002e,000a,201e,0046,0049,004c,004d,0020,004a,0061,0020,0045,004c,0055,201f,000a,0053,004f,004f,0044,0055,0053,0054,0055,0053,004b,0055,0050,004f,004e,0047,0020,004e,0072,002e,0020,0031,002e,000a,004b,0075,0070,006f,006e,0067,0020,0076,00f5,0069,006d,0061,006c,0064,0061,0062,0020,0074,0061,0073,0075,0074,0061,0020,0074,0075,0074,0076,0075,0073,0065,002d,0020,0074,00f5,00f5,002d,0020,006b,006f,0072,0074,0065,0072,0069,002d,0020,006a,0061,0020,006c,0061,0065,002d,000a,006e,0075,0064,0065,0020,006f,0074,0073,0069,006d,0069,0073,0065,002d,0070,0061,006b,006b,0075,006d,0069,0073,0065,002c,0020,006e,0069,006e,0067,0020,006f,0073,0074,0075,002d,0020,006a,0061,0020,006d,00fc,00fc,0067,0069,0020,006b,0075,0075,006c,0075,0074,0075,0073,0065,0064,002e,000a,004b,0075,0075,006c,0075,0074,0075,0073,0074,0065,0020,0073,0061,0061,0074,006d,0069,0073,0065,006c,0020,0074,0075,0020,0065,0062,0020,0061,0072,0076,0065,0073,0074,0061,0064,0061,0020,0069,0067,0061,0020,0033,0030,0020,0074,00e4,0068,0065,0020,006b,006f,0068,006c,0061,0020,00dc,006b,0073,000a,0073,006f,006f,0064,006e,0073,0074,006e,0073,006b,0075,0070,006f,006e,0067,0020,0028,006d,0069,006e,0069,006d,0061,0061,006c,006e,0065,0020,006b,0075,0070,006f,006e,0067,0069,0064,0065,0020,0061,0072,0076,0020,006f,006e,0020,0032,0029,000a,0045,0072,0069,006c,0069,0073,0065,0020,0073,006f,006f,0064,0075,0073,0074,0075,0073,0065,006e,0061,0020,0076,00f5,0069,0062,0020,0074,0075,0074,0076,0061,0073,006b,0075,0075,006c,0075,0074,0061,006a,0061,0020,0073,0061,0061,0074,0061,0020,006f,006d,0061,0020,0070,0069,006c,0064,0069,002c,000a,0028,006d,0069,006c,006c,0065,006c,0065,0020,0074,0075,006c,0065,0062,0020,0069,0075,0075,0072,0065,0020,006c,0069,0073,0061,0064,0061,0020,0031,0020,006b,0072,002e,0020,0065,0065,0073,0074,0020,0070,006f,0073,0074,006d,0061,0072,006b,0065,0029,0020,006d,0069,0073,0020,0061,0076,0061,006c,0064,0061,002d,000a,0074,0061,006b,0073,0065,0020,0049,006c,006d,0061,0020,006e,0069,006d,0065,0074,0061,0020,006a,00e4,0072,006a,0065,006b,006f,0072,0072,0061,0020,006e,0075,006d,0062,0072,0069,0020,0061,006c,006c,002c,0020,006d,0069,006c,006c,0065,0020,0074,00f5,0074,0074,0075,0020,0054,0065,0069,0064,000a,0076,00f5,0069,0062,0020,0074,0075,006e,0064,0061,0020,0076,0061,0069,0064,0020,0073,0065,0065,002c,0020,006b,0065,006c,006c,0065,006c,0065,0020,0054,0065,0069,0065,0020,0065,006e,0064,0020,006b,0069,0072,006a,0061,0076,0061,0068,0065,0074,0075,0073,0065,006c,0020,006f,006c,0065,0074,0065,0020,0075,0073,0061,006c,002d,000a,0064,0061,006e,0075,0064,002e,0020,0054,0065,0069,0065,0020,006a,00e4,0072,006a,0065,006b,006f,0072,0072,0061,0020,006e,0075,006d,0062,0072,0069,006c,0065,0020,0074,0075,006c,006e,0075,0064,0020,006b,0069,0072,006a,0061,0064,0020,0061,0067,0061,0020,0073,0061,0061,0064,0065,0074,0061,006b,0073,0065,000a,0054,0065,0069,006c,0065,0020,0074,0061,0073,0075,0074,0061,0020,0061,006e,0074,0075,0064,0020,0061,0061,0064,0072,0065,0073,0073,0069,006c,002e,000a,0046,0069,006c,006d,0020,006a,0061,0020,0045,006c,0075,0020,0074,0065,006c,006c,0069,006d,0069,0073,0068,0069,006e,0064,0020,0070,006f,0073,0074,0069,0067,0061,0020,0031,0020,0061,0061,0073,0074,0061,0020,004b,0072,002e,0020,0032,002e,0035,0030,002c,0020,0036,0020,006b,0075,0075,0064,0020,004b,0072,002e,0020,0031,002e,0034,0030,002c,0020,0033,0020,006b,0075,0075,0064,0020,004b,0072,0020,0030,002e,0037,0035,002c,0020,0031,0020,006b,0075,0075,0020,004b,0072,002e,0020,0030,002e,0032,0035,0020,0054,0065,006c,006c,0069,006d,0069,0073,0069,0020,0076,00f5,0074,0061,0076,0061,0064,0020,0076,0061,0073,0074,0075,0020,006b,00f5,0069,006b,0020,0045,002e,0020,0056,002e,0020,0070,006f,0073,0074,006b,006f,006e,0074,006f,0072,0069,0064,002e,000a,0054,0065,006c,006c,0069,0064,0061,0020,0076,00f5,0069,0062,0020,006b,0061,0020,0074,0061,006c,0069,0074,0075,0073,0065,0073,0074,002e,0020,004b,0075,0075,006c,0075,0074,0075,0073,0065,0020,0068,0069,006e,006e,0061,0064,0020,006b,0075,0075,006c,0075,0074,0075,0073,0065,0020,0076,0065,0065,0072,0075,006c,0020,0035,0020,0073,006e,0074,002e,002c,0020,0074,0065,006b,0073,0074,0069,0073,0020,0031,0030,0020,0073,006e,0074,002e,0020,006d,006d,002e,0020,004b,0075,0075,0074,0075,0074,0075,0073,0069,0020,0076,00f5,0065,0074,0061,006b,0073,0065,0020,006a,006f,006f,006b,0073,0076,0061,0073,0073,0065,0020,006e,0075,006d,0062,0072,0069,0073,0073,0065,0020,006b,0075,006e,0069,0020,006b,0065,0073,006b,006e,00e4,0064,0061,006c,0061,006e,0069,002e,000a,0050,0065,0061,0074,006f,0069,0069,006e,0065,0074,0075,0073,002d,0074,0061,006c,0069,0074,0075,0073,003a,0020,0054,0061,006c,006c,0069,006e,006e,002c,0020,0056,006f,006f,0072,0069,006d,0065,0068,0065,0020,0031,002c,0020,0061,0076,0061,0074,0075,0064,0020,006b,006c,002e,0020,0031,0030,2014,0031,0031,0020,0069,0067,0061,0020,0070,00e4,0065,0076,002e,0020,0054,0065,0067,0065,0076,0020,0074,006f,0069,006d,0065,0074,0061,006a,0061,0020,006a,0061,0020,0074,0061,006c,0069,0074,0075,0073,0065,0020,006a,0075,0068,0061,0074,0061,006a,0061,0020,0045,002e,0020,0052,00fc,00fc,0074,006c,0069,0020,006b,00f5,006e,0065,0074,0075,006e,006e,0069,0064,0020,0069,0067,0061,006c,0020,0065,0073,006d,0061,0073,0070,00e4,0065,0076,0061,006c,0020,006b,0065,006c,006c,0061,0020,0031,0030,2014,0031,0031,0031,000a,0041,0062,0069,0074,0061,006c,0069,0074,0075,0073,0065,0064,003a,0020,0054,0061,0072,0074,0075,0073,002c,0020,0056,00f5,0072,0075,0020,0034,0037,2014,0031,002c,0020,0074,0061,006c,002e,0020,006a,0075,0068,0061,0074,002e,0020,0041,006c,0066,0072,0065,0064,0020,004b,00fc,006e,006e,0061,0070,0075,0075,002e,0020,0050,00e4,0072,006e,0075,0073,0020,004b,0075,006e,0069,006e,0067,0061,0020,0031,0031,002c,0020,0074,0061,006c,002e,0020,006a,0075,0068,0061,0074,002e,0020,0041,006e,0074,006f,006e,0020,0054,0065,006b,006b,006f,002e,0020,0056,0061,006c,0067,0061,0073,0020,0056,0061,0062,0061,0064,0075,0073,0065,0020,0034,0035,002e,0020,0074,0061,006c,002e,0020,006a,0075,0068,0061,0074,002e,0020,0041,0072,006e,0069,0073,0020,004b,0069,0076,0069,0072,00e4,0068,006b,002d,000a,0056,0069,006c,006a,0061,006e,0064,0069,0073,002c,0020,004c,0061,0069,0064,006f,006e,0065,0072,0069,0020,0070,006c,0020,0032,002c,0020,0074,0061,006c,0020,006a,0075,0068,0061,0074,002e,0020,0045,006c,006d,0061,0072,0020,004b,0075,0072,0076,0069,0074,0073,002e,0020,0052,0061,006b,0076,0065,0072,0065,0073,002e,0020,0053,0061,0075,0065,0020,0037,002c,0020,0074,0061,006c,002e,0020,006a,0075,0068,0061,0074,002e,0020,0045,006c,006d,0061,0072,0020,0052,0061,0068,006e,006f,002e,0020,0054,00fc,0072,0069,002d,0050,0061,0069,0064,0065,002e,0020,0050,0061,0069,0064,0065,0020,0036,002c,0020,0054,00fc,0072,0069,006c,002c,0020,0074,0061,006c,002e,0020,006a,0075,0068,0061,0074,002e,0020,0048,0061,0072,0061,006c,0064,0020,0053,0061,006e,0062,0065,0072,0067,002d,000a,0048,0061,0061,0070,0073,0061,006c,0075,0073,002c,0020,0056,0069,0069,0064,0065,006d,0061,006e,006e,0069,0020,0031,0038,002c,0020,0074,0061,006c,002e,0020,006a,0075,0068,0061,0074,0020,0052,0069,0063,0068,0061,0072,0064,0020,0052,0065,006d,006d,0065,006c,002e,0020,004a,00f5,0067,0065,0076,0061,006c,002c,0020,004a,00f5,0065,0020,0035,002c,0020,004a,0061,0061,006e,0020,004b,0075,0075,0073,006b,002e,0020,004b,0075,0072,0065,0073,0073,0061,0061,0072,0065,0073,002c,0020,0053,002e,0020,0053,0061,0064,0061,006d,0061,0020,0037,002c,0020,0048,002e,0020,004b,006c,0061,0061,0072,0020,0028,006b,0061,0075,0070,006c,0075,0073,0029,002e,0020,0056,0020,0103,0020,006e,0020,0064,0020,0072,0020,0061,0020,0073,002c,0020,0074,0065,006c,002d,000a,004b,0055,004d,004d,0049,0054,0045,004d,0050,004c,0049,0054,0045,0020,0054,00d6,00d6,0053,0054,0055,0053,000a,201e,0050,0045,0052,0046,0045,004b,0054,201c,000a,0054,00f6,00f6,0020,004f,0044,0041,0056,0020,2014,0020,004b,0069,0069,0072,0065,0020,2014,0020,004b,006f,0072,0072,0061,006c,0069,006b,000a,004e,0055,004e,004e,0045,0020,0038,000a,004e,0055,004e,004e,0045,0020,0038","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"K","004b","
+MGGhvlab .vab c 
+Glsitakso lcauslasi — kinis julaet neidu vòt 
+nonrmeest- — — 
+reisuies liihimςllm Noormees cοιé","000a,004d,0047,0047,0068,0076,006c,0061,0062,0020,002e,0076,0061,0062,0020,0063,0020,000a,0020,0020,000a,0047,006c,0073,0069,0074,0061,006b,0073,006f,0020,006c,0063,0061,0075,0073,006c,0061,0073,0069,0020,2014,0020,006b,0069,006e,0069,0073,0020,006a,0075,006c,0061,0065,0074,0020,006e,0065,0069,0064,0075,0020,0076,00f2,0074,0020,000a,006e,006f,006e,0072,006d,0065,0065,0073,0074,002d,0020,2014,0020,2014,0020,000a,0072,0065,0069,0073,0075,0069,0065,0073,0020,006c,0069,0069,0068,0069,006d,03c2,006c,006c,006d,0020,004e,006f,006f,0072,006d,0065,0065,0073,0020,0063,03bf,03b9,00e9","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"F","0046","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"sell,","0073,0065,006c,006c,002c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"NO","004e,004f","b 
+auiu, tantsu. buiuanl-. suαιασni-, viiuli-, balalaRur. Lirlavuhotust, 
+tarre- eiie mandoliiuomiingu oskus vaulibe. VSid liunikesckusvulisto Viiiugdi 
+Sbn u veel òpbidu. sest rois algab alies suabuval ks- tutarlasiega van. Euni 20 u. 
+dadeſ leiaultestusci idiudesέ tatavais  nnados ","0062,0020,000a,0061,0075,0069,0075,002c,0020,0074,0061,006e,0074,0073,0075,002e,0020,0062,0075,0069,0075,0061,006e,006c,002d,002e,0020,0073,0075,03b1,03b9,03b1,03c3,006e,0069,002d,002c,0020,0076,0069,0069,0075,006c,0069,002d,002c,0020,0062,0061,006c,0061,006c,0061,0052,0075,0072,002e,0020,004c,0069,0072,006c,0061,0076,0075,0068,006f,0074,0075,0073,0074,002c,0020,000a,0074,0061,0072,0072,0065,002d,0020,0065,0069,0069,0065,0020,006d,0061,006e,0064,006f,006c,0069,0069,0075,006f,006d,0069,0069,006e,0067,0075,0020,006f,0073,006b,0075,0073,0020,0076,0061,0075,006c,0069,0062,0065,002e,0020,0056,0053,0069,0064,0020,006c,0069,0075,006e,0069,006b,0065,0073,0063,006b,0075,0073,0076,0075,006c,0069,0073,0074,006f,0020,0056,0069,0069,0069,0075,0067,0064,0069,0020,000a,0053,0062,006e,0020,0075,0020,0076,0065,0065,006c,0020,00f2,0070,0062,0069,0064,0075,002e,0020,0073,0065,0073,0074,0020,0072,006f,0069,0073,0020,0061,006c,0067,0061,0062,0020,0061,006c,0069,0065,0073,0020,0073,0075,0061,0062,0075,0076,0061,006c,0020,006b,0073,002d,0020,0074,0075,0074,0061,0072,006c,0061,0073,0069,0065,0067,0061,0020,0076,0061,006e,002e,0020,0045,0075,006e,0069,0020,0032,0030,0020,0075,002e,0020,000a,0064,0061,0064,0065,017f,0020,006c,0065,0069,0061,0075,006c,0074,0065,0073,0074,0075,0073,0063,0069,0020,0069,0064,0069,0075,0064,0065,0073,03ad,0020,0074,0061,0074,0061,0076,0061,0069,0073,0020,0020,006e,006e,0061,0064,006f,0073,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"Vasjka","0056,0061,0073,006a,006b,0061","
+*","000a,002a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"","","oto S0l!, Rad. Turtu, ","006f,0074,006f,0020,0053,0030,006c,0021,002c,0020,0052,0061,0064,002e,0020,0054,0075,0072,0074,0075,002c,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"L","004c","esinemine laulu-, munsilca- nint ut en Tuhe Go A Mart „Poisui. 
+zinus kusutiituvu atito ulaupiiuset huvitavales ning I.. 3444 
+pikema reisun jaoles m","0065,0073,0069,006e,0065,006d,0069,006e,0065,0020,006c,0061,0075,006c,0075,002d,002c,0020,006d,0075,006e,0073,0069,006c,0063,0061,002d,0020,006e,0069,006e,0074,0020,0075,0074,0020,0065,006e,0020,0054,0075,0068,0065,0020,0047,006f,0020,0041,0020,004d,0061,0072,0074,0020,201e,0050,006f,0069,0073,0075,0069,002e,0020,000a,007a,0069,006e,0075,0073,0020,006b,0075,0073,0075,0074,0069,0069,0074,0075,0076,0075,0020,0061,0074,0069,0074,006f,0020,0075,006c,0061,0075,0070,0069,0069,0075,0073,0065,0074,0020,0068,0075,0076,0069,0074,0061,0076,0061,006c,0065,0073,0020,006e,0069,006e,0067,0020,0049,002e,002e,0020,0033,0034,0034,0034,0020,000a,0070,0069,006b,0065,006d,0061,0020,0072,0065,0069,0073,0075,006e,0020,006a,0061,006f,006c,0065,0073,0020,006d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"Verjovkin.","0056,0065,0072,006a,006f,0076,006b,0069,006e,002e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675236-00231011.gt4hist.xml.txt,,,,"Vaat, see siis ütleski:
+— Aga milleks kuradiks, sõbrad,
+seda pütti vedada ja selle samaga rah-
+va elumahla — raha — kulutada ja oma
+protsente vähendada. Veeretame püti
+õue. Ja ootame, mis hommikul sünnib.
+Sikutasime püti õue. Hommikul tu-
+leme — pütt seisab — puhas. Vehkisid
+sisse öö jooksul kapsad.
+Meie, kooperatiivi töölised, olime vä-
+ga rõõmsad. Töö lausa keeb käes —
+niisugust tõusu võib näha. Meie esi-
+mees, Ivan Feodorovič, kõnnib ja hõõrub
+käsi.
+Suurepärane, — ütleb, — seltsime-
+hed, nüüd mingu rikki kas või kogu
+kaup, — alati teeme nii.
+Varsti läks meil rikki veel üks pütt.
+Ja tünder kurkidega.
+Rõõmustasime. Veeretasime selle va-
+randuse õue ja värava jätsime vähekesi
+lahti. Olgu tänavalt paremini näha. Ja
+laske käia, kodanikud!
+Kuid seekord kukkusime sisse. Mitte
+ainult, et kapsad olid läinud, vaid ka
+püti, kuradid, olid ära vedanud.
+No, aga edaspidi laotasime rikkiläi-
+nud prgduktid roguskile. Ja nii rogus-
+kil viisime välja. Kuigi ka roguski ära
+vedasid, kuid sellest polnud kahju —
+see ei seisnud kooperatiivi nimekirjas.
+100
+kinopääset
+nädalas lugejaile!
+Lähem priipääsmete saamise
+kord tehakse teatavaks järg-
+mises numbris.
+60% hinnaalandus
+„FILM JA ELU“ lugejaile
+tantsukursustel.
+Hinnaalanduse saamiseks tuleb
+end „Film ja Elu“ talituses re-
+gistreerida, esitades ühtlasi ta-
+litusele 4 „Film ja Elu“ soodus-
+tuskupongi. Esimene tantsugrupp
+algab kohe tegevust kui vajalik
+arv osavõtjaid — vähenalt 20 isi-
+kut on end registreerinud. Grup-
+pe luuakse niipalju kui leidub
+osavötta soovijaid.
+Registreerige end kohe osa-
+võtjaks, et Teil oleks võimalus
+pääseda esimestesse gruppidesse.
+Registreerimine talituses iga päev
+10—11-ni.
+Õpetus populaarsemate tantsu-
+õpetajate juhatuse). Teistes lin-
+nades registreerida end kohali-
+kes abitalitustes.
+Grupi algused teatakse „Film
+ja Elus“.
+„F1LM JA ELU“ TALITUS.
+Kui Teil on erisoove „FILM JA ELU“
+sisu jne. suhtes — teatage! Toimetus
+püüab järgmistes numbrites arvestada
+kõikide soovidega!
+Elekir.-aurulokid
+suured rul-
+lid (võib
+ka vesi-
+laineteta).
+Kristall ve-
+delik välis-
+maa ainet.
+Juustele
+jääb loo-
+mulik värv
+ja lõige.
+Otsitakse kaaslasi — kahte julget neidu või
+noormeest —
+relsuks läbi maailma.
+Laulu, tantsu, bajaani-, saksofoni-, viiuli-, balalaika-,
+gitarre- ehk mandolilnemängu oskus vaalioe. Võib
+aga ka veel õppida, sest reis algab alles saabuval ke-
+vadel. Reisukestvusel kõikides lăbistatovais 1 nnades
+esinemine laulu-, muusika- ning tantsuettekannetega
+Reisuks kasutatava auto algupärase't huvitavaks ning
+pikema reisu jaoks mugavaks ümberehituseks peab
+iga kaasasõitja omama vähemalt 350—500 kr. Edu ja
+kuulsus reisul kindel. Huvit. kirj. „Film ja Wlu" tali-
+tusele wärgosõna all: „Matkal hää teenistus".
+Abiellun
+L. K. Viljandis.
+Südamli õnnesoov eel-
+olevaks aastaks!
+O. L.
+HILDA KÜTT.
+Daamide ja härrade
+juuksetööstus „ ENDLA“
+Kesk-Kalamaja 2,tel. 440-65,
+Baiti jaama raudtee üle-
+sõidu vastas.
+Noormees soovib
+kirjavahetust
+lühikesekasvuliste Viijandi
+tütarlastega van. kuni 20 a.
+Foto soov, Kirjad Tartu,
+Tähe 60 A Mark „Poisu“.
+Tõsiselt ellu suhtuv noor-
+mees töölisringkonnast
+soovib tutsvust
+töülisringkonda kuuluvate
+lühemakasvul. preilide või
+leskede hulgest, kes ou
+nõus kohe abielluma.
+Kirj. ühes fo�o ja enese-
+kirjeld slt. Eesti Üliõpilas.
+loterii Nr. 072329 ettenäit.s
+Poisslaps
+kena sümpaatne, too kevad-
+rõõmu tütarlapse hinge kir-
+ja ja oto näol.
+Narva jaama eineland
+S „Oraakel“.
+Härrad!
+Ootame, et kirjutaksite
+meile. Kirjad slt. Tartu
+abitalitus „Maudy“, „Ady“.
+„Jullya“.
+Toetust mittevajav noor-
+mees
+tutvuks
+meeleldi 17—23 a. tütarl.
+hää sõbra leidmiseks. Kir-
+jad sl. Tartu abital. „Nõud-
+lik“.
+Soodsaim koht
+pildistamiseks
+Foto-ateijee
+Taliinn, Kuninga 2
+Telefon 458-84
+Daamid Tartust!
+Kena välimusega kaine
+noormees, kes tegutsenud
+ärialal ja mõtleb nüüd
+Tartu asuda, soovib omale
+naissõpra, kes aitaks min-
+git teenistust leida Sobi-
+vuse koiral abielu. Kir-
+jad : Krüüdneri, Veski p. ag
+pk. 12.
+Kena
+välimusega neiu võib leida
+hea kõrvalteenistuse.
+Fotoga varustatud kirjad
+eesõigustatud. Kirjad: Pär-
+nu, postk 54 „Südamete
+veski“.
+Mitte tingimata ilusa ega
+rikka, vaid küll täiesti
+naiseliku naisega
+soovin abielluda. Kirj. slt.
+„Mees + kindel leib“.
+Hra ja pr. TEGOVAʼtele
+Tartu—Veeriko.
+Südamlik õnnesoov mu-
+gavaks ja armsaks pere-
+konnaeluks !
+Perek. „E. E. V.‟ Tallinn.
+Olen vaid harijik
+tütarlaps
+pisukese südamega rinnus,
+mis igatseb Õnne ja armas-
+tust. ning pehmeid kevad-
+tuuli. Minu aadr. Jõgeva
+postkontor „Ermaa“.
+Elada kuis või-
+sin sinuta ?.","0056,0061,0061,0074,002c,0020,0073,0065,0065,0020,0073,0069,0069,0073,0020,00fc,0074,006c,0065,0073,006b,0069,003a,000a,2014,0020,0041,0067,0061,0020,006d,0069,006c,006c,0065,006b,0073,0020,006b,0075,0072,0061,0064,0069,006b,0073,002c,0020,0073,00f5,0062,0072,0061,0064,002c,000a,0073,0065,0064,0061,0020,0070,00fc,0074,0074,0069,0020,0076,0065,0064,0061,0064,0061,0020,006a,0061,0020,0073,0065,006c,006c,0065,0020,0073,0061,006d,0061,0067,0061,0020,0072,0061,0068,002d,000a,0076,0061,0020,0065,006c,0075,006d,0061,0068,006c,0061,0020,2014,0020,0072,0061,0068,0061,0020,2014,0020,006b,0075,006c,0075,0074,0061,0064,0061,0020,006a,0061,0020,006f,006d,0061,000a,0070,0072,006f,0074,0073,0065,006e,0074,0065,0020,0076,00e4,0068,0065,006e,0064,0061,0064,0061,002e,0020,0056,0065,0065,0072,0065,0074,0061,006d,0065,0020,0070,00fc,0074,0069,000a,00f5,0075,0065,002e,0020,004a,0061,0020,006f,006f,0074,0061,006d,0065,002c,0020,006d,0069,0073,0020,0068,006f,006d,006d,0069,006b,0075,006c,0020,0073,00fc,006e,006e,0069,0062,002e,000a,0053,0069,006b,0075,0074,0061,0073,0069,006d,0065,0020,0070,00fc,0074,0069,0020,00f5,0075,0065,002e,0020,0048,006f,006d,006d,0069,006b,0075,006c,0020,0074,0075,002d,000a,006c,0065,006d,0065,0020,2014,0020,0070,00fc,0074,0074,0020,0073,0065,0069,0073,0061,0062,0020,2014,0020,0070,0075,0068,0061,0073,002e,0020,0056,0065,0068,006b,0069,0073,0069,0064,000a,0073,0069,0073,0073,0065,0020,00f6,00f6,0020,006a,006f,006f,006b,0073,0075,006c,0020,006b,0061,0070,0073,0061,0064,002e,000a,004d,0065,0069,0065,002c,0020,006b,006f,006f,0070,0065,0072,0061,0074,0069,0069,0076,0069,0020,0074,00f6,00f6,006c,0069,0073,0065,0064,002c,0020,006f,006c,0069,006d,0065,0020,0076,00e4,002d,000a,0067,0061,0020,0072,00f5,00f5,006d,0073,0061,0064,002e,0020,0054,00f6,00f6,0020,006c,0061,0075,0073,0061,0020,006b,0065,0065,0062,0020,006b,00e4,0065,0073,0020,2014,000a,006e,0069,0069,0073,0075,0067,0075,0073,0074,0020,0074,00f5,0075,0073,0075,0020,0076,00f5,0069,0062,0020,006e,00e4,0068,0061,002e,0020,004d,0065,0069,0065,0020,0065,0073,0069,002d,000a,006d,0065,0065,0073,002c,0020,0049,0076,0061,006e,0020,0046,0065,006f,0064,006f,0072,006f,0076,0069,010d,002c,0020,006b,00f5,006e,006e,0069,0062,0020,006a,0061,0020,0068,00f5,00f5,0072,0075,0062,000a,006b,00e4,0073,0069,002e,000a,0053,0075,0075,0072,0065,0070,00e4,0072,0061,006e,0065,002c,0020,2014,0020,00fc,0074,006c,0065,0062,002c,0020,2014,0020,0073,0065,006c,0074,0073,0069,006d,0065,002d,000a,0068,0065,0064,002c,0020,006e,00fc,00fc,0064,0020,006d,0069,006e,0067,0075,0020,0072,0069,006b,006b,0069,0020,006b,0061,0073,0020,0076,00f5,0069,0020,006b,006f,0067,0075,000a,006b,0061,0075,0070,002c,0020,2014,0020,0061,006c,0061,0074,0069,0020,0074,0065,0065,006d,0065,0020,006e,0069,0069,002e,000a,0056,0061,0072,0073,0074,0069,0020,006c,00e4,006b,0073,0020,006d,0065,0069,006c,0020,0072,0069,006b,006b,0069,0020,0076,0065,0065,006c,0020,00fc,006b,0073,0020,0070,00fc,0074,0074,002e,000a,004a,0061,0020,0074,00fc,006e,0064,0065,0072,0020,006b,0075,0072,006b,0069,0064,0065,0067,0061,002e,000a,0052,00f5,00f5,006d,0075,0073,0074,0061,0073,0069,006d,0065,002e,0020,0056,0065,0065,0072,0065,0074,0061,0073,0069,006d,0065,0020,0073,0065,006c,006c,0065,0020,0076,0061,002d,000a,0072,0061,006e,0064,0075,0073,0065,0020,00f5,0075,0065,0020,006a,0061,0020,0076,00e4,0072,0061,0076,0061,0020,006a,00e4,0074,0073,0069,006d,0065,0020,0076,00e4,0068,0065,006b,0065,0073,0069,000a,006c,0061,0068,0074,0069,002e,0020,004f,006c,0067,0075,0020,0074,00e4,006e,0061,0076,0061,006c,0074,0020,0070,0061,0072,0065,006d,0069,006e,0069,0020,006e,00e4,0068,0061,002e,0020,004a,0061,000a,006c,0061,0073,006b,0065,0020,006b,00e4,0069,0061,002c,0020,006b,006f,0064,0061,006e,0069,006b,0075,0064,0021,000a,004b,0075,0069,0064,0020,0073,0065,0065,006b,006f,0072,0064,0020,006b,0075,006b,006b,0075,0073,0069,006d,0065,0020,0073,0069,0073,0073,0065,002e,0020,004d,0069,0074,0074,0065,000a,0061,0069,006e,0075,006c,0074,002c,0020,0065,0074,0020,006b,0061,0070,0073,0061,0064,0020,006f,006c,0069,0064,0020,006c,00e4,0069,006e,0075,0064,002c,0020,0076,0061,0069,0064,0020,006b,0061,000a,0070,00fc,0074,0069,002c,0020,006b,0075,0072,0061,0064,0069,0064,002c,0020,006f,006c,0069,0064,0020,00e4,0072,0061,0020,0076,0065,0064,0061,006e,0075,0064,002e,000a,004e,006f,002c,0020,0061,0067,0061,0020,0065,0064,0061,0073,0070,0069,0064,0069,0020,006c,0061,006f,0074,0061,0073,0069,006d,0065,0020,0072,0069,006b,006b,0069,006c,00e4,0069,002d,000a,006e,0075,0064,0020,0070,0072,0067,0064,0075,006b,0074,0069,0064,0020,0072,006f,0067,0075,0073,006b,0069,006c,0065,002e,0020,004a,0061,0020,006e,0069,0069,0020,0072,006f,0067,0075,0073,002d,000a,006b,0069,006c,0020,0076,0069,0069,0073,0069,006d,0065,0020,0076,00e4,006c,006a,0061,002e,0020,004b,0075,0069,0067,0069,0020,006b,0061,0020,0072,006f,0067,0075,0073,006b,0069,0020,00e4,0072,0061,000a,0076,0065,0064,0061,0073,0069,0064,002c,0020,006b,0075,0069,0064,0020,0073,0065,006c,006c,0065,0073,0074,0020,0070,006f,006c,006e,0075,0064,0020,006b,0061,0068,006a,0075,0020,2014,000a,0073,0065,0065,0020,0065,0069,0020,0073,0065,0069,0073,006e,0075,0064,0020,006b,006f,006f,0070,0065,0072,0061,0074,0069,0069,0076,0069,0020,006e,0069,006d,0065,006b,0069,0072,006a,0061,0073,002e,000a,0031,0030,0030,000a,006b,0069,006e,006f,0070,00e4,00e4,0073,0065,0074,000a,006e,00e4,0064,0061,006c,0061,0073,0020,006c,0075,0067,0065,006a,0061,0069,006c,0065,0021,000a,004c,00e4,0068,0065,006d,0020,0070,0072,0069,0069,0070,00e4,00e4,0073,006d,0065,0074,0065,0020,0073,0061,0061,006d,0069,0073,0065,000a,006b,006f,0072,0064,0020,0074,0065,0068,0061,006b,0073,0065,0020,0074,0065,0061,0074,0061,0076,0061,006b,0073,0020,006a,00e4,0072,0067,002d,000a,006d,0069,0073,0065,0073,0020,006e,0075,006d,0062,0072,0069,0073,002e,000a,0036,0030,0025,0020,0068,0069,006e,006e,0061,0061,006c,0061,006e,0064,0075,0073,000a,201e,0046,0049,004c,004d,0020,004a,0041,0020,0045,004c,0055,201c,0020,006c,0075,0067,0065,006a,0061,0069,006c,0065,000a,0074,0061,006e,0074,0073,0075,006b,0075,0072,0073,0075,0073,0074,0065,006c,002e,000a,0048,0069,006e,006e,0061,0061,006c,0061,006e,0064,0075,0073,0065,0020,0073,0061,0061,006d,0069,0073,0065,006b,0073,0020,0074,0075,006c,0065,0062,000a,0065,006e,0064,0020,201e,0046,0069,006c,006d,0020,006a,0061,0020,0045,006c,0075,201c,0020,0074,0061,006c,0069,0074,0075,0073,0065,0073,0020,0072,0065,002d,000a,0067,0069,0073,0074,0072,0065,0065,0072,0069,0064,0061,002c,0020,0065,0073,0069,0074,0061,0064,0065,0073,0020,00fc,0068,0074,006c,0061,0073,0069,0020,0074,0061,002d,000a,006c,0069,0074,0075,0073,0065,006c,0065,0020,0034,0020,201e,0046,0069,006c,006d,0020,006a,0061,0020,0045,006c,0075,201c,0020,0073,006f,006f,0064,0075,0073,002d,000a,0074,0075,0073,006b,0075,0070,006f,006e,0067,0069,002e,0020,0045,0073,0069,006d,0065,006e,0065,0020,0074,0061,006e,0074,0073,0075,0067,0072,0075,0070,0070,000a,0061,006c,0067,0061,0062,0020,006b,006f,0068,0065,0020,0074,0065,0067,0065,0076,0075,0073,0074,0020,006b,0075,0069,0020,0076,0061,006a,0061,006c,0069,006b,000a,0061,0072,0076,0020,006f,0073,0061,0076,00f5,0074,006a,0061,0069,0064,0020,2014,0020,0076,00e4,0068,0065,006e,0061,006c,0074,0020,0032,0030,0020,0069,0073,0069,002d,000a,006b,0075,0074,0020,006f,006e,0020,0065,006e,0064,0020,0072,0065,0067,0069,0073,0074,0072,0065,0065,0072,0069,006e,0075,0064,002e,0020,0047,0072,0075,0070,002d,000a,0070,0065,0020,006c,0075,0075,0061,006b,0073,0065,0020,006e,0069,0069,0070,0061,006c,006a,0075,0020,006b,0075,0069,0020,006c,0065,0069,0064,0075,0062,000a,006f,0073,0061,0076,00f6,0074,0074,0061,0020,0073,006f,006f,0076,0069,006a,0061,0069,0064,002e,000a,0052,0065,0067,0069,0073,0074,0072,0065,0065,0072,0069,0067,0065,0020,0065,006e,0064,0020,006b,006f,0068,0065,0020,006f,0073,0061,002d,000a,0076,00f5,0074,006a,0061,006b,0073,002c,0020,0065,0074,0020,0054,0065,0069,006c,0020,006f,006c,0065,006b,0073,0020,0076,00f5,0069,006d,0061,006c,0075,0073,000a,0070,00e4,00e4,0073,0065,0064,0061,0020,0065,0073,0069,006d,0065,0073,0074,0065,0073,0073,0065,0020,0067,0072,0075,0070,0070,0069,0064,0065,0073,0073,0065,002e,000a,0052,0065,0067,0069,0073,0074,0072,0065,0065,0072,0069,006d,0069,006e,0065,0020,0074,0061,006c,0069,0074,0075,0073,0065,0073,0020,0069,0067,0061,0020,0070,00e4,0065,0076,000a,0031,0030,2014,0031,0031,002d,006e,0069,002e,000a,00d5,0070,0065,0074,0075,0073,0020,0070,006f,0070,0075,006c,0061,0061,0072,0073,0065,006d,0061,0074,0065,0020,0074,0061,006e,0074,0073,0075,002d,000a,00f5,0070,0065,0074,0061,006a,0061,0074,0065,0020,006a,0075,0068,0061,0074,0075,0073,0065,0029,002e,0020,0054,0065,0069,0073,0074,0065,0073,0020,006c,0069,006e,002d,000a,006e,0061,0064,0065,0073,0020,0072,0065,0067,0069,0073,0074,0072,0065,0065,0072,0069,0064,0061,0020,0065,006e,0064,0020,006b,006f,0068,0061,006c,0069,002d,000a,006b,0065,0073,0020,0061,0062,0069,0074,0061,006c,0069,0074,0075,0073,0074,0065,0073,002e,000a,0047,0072,0075,0070,0069,0020,0061,006c,0067,0075,0073,0065,0064,0020,0074,0065,0061,0074,0061,006b,0073,0065,0020,201e,0046,0069,006c,006d,000a,006a,0061,0020,0045,006c,0075,0073,201c,002e,000a,201e,0046,0031,004c,004d,0020,004a,0041,0020,0045,004c,0055,201c,0020,0054,0041,004c,0049,0054,0055,0053,002e,000a,004b,0075,0069,0020,0054,0065,0069,006c,0020,006f,006e,0020,0065,0072,0069,0073,006f,006f,0076,0065,0020,201e,0046,0049,004c,004d,0020,004a,0041,0020,0045,004c,0055,201c,000a,0073,0069,0073,0075,0020,006a,006e,0065,002e,0020,0073,0075,0068,0074,0065,0073,0020,2014,0020,0074,0065,0061,0074,0061,0067,0065,0021,0020,0054,006f,0069,006d,0065,0074,0075,0073,000a,0070,00fc,00fc,0061,0062,0020,006a,00e4,0072,0067,006d,0069,0073,0074,0065,0073,0020,006e,0075,006d,0062,0072,0069,0074,0065,0073,0020,0061,0072,0076,0065,0073,0074,0061,0064,0061,000a,006b,00f5,0069,006b,0069,0064,0065,0020,0073,006f,006f,0076,0069,0064,0065,0067,0061,0021,000a,0045,006c,0065,006b,0069,0072,002e,002d,0061,0075,0072,0075,006c,006f,006b,0069,0064,000a,0073,0075,0075,0072,0065,0064,0020,0072,0075,006c,002d,000a,006c,0069,0064,0020,0028,0076,00f5,0069,0062,000a,006b,0061,0020,0076,0065,0073,0069,002d,000a,006c,0061,0069,006e,0065,0074,0065,0074,0061,0029,002e,000a,004b,0072,0069,0073,0074,0061,006c,006c,0020,0076,0065,002d,000a,0064,0065,006c,0069,006b,0020,0076,00e4,006c,0069,0073,002d,000a,006d,0061,0061,0020,0061,0069,006e,0065,0074,002e,000a,004a,0075,0075,0073,0074,0065,006c,0065,000a,006a,00e4,00e4,0062,0020,006c,006f,006f,002d,000a,006d,0075,006c,0069,006b,0020,0076,00e4,0072,0076,000a,006a,0061,0020,006c,00f5,0069,0067,0065,002e,000a,004f,0074,0073,0069,0074,0061,006b,0073,0065,0020,006b,0061,0061,0073,006c,0061,0073,0069,0020,2014,0020,006b,0061,0068,0074,0065,0020,006a,0075,006c,0067,0065,0074,0020,006e,0065,0069,0064,0075,0020,0076,00f5,0069,000a,006e,006f,006f,0072,006d,0065,0065,0073,0074,0020,2014,000a,0072,0065,006c,0073,0075,006b,0073,0020,006c,00e4,0062,0069,0020,006d,0061,0061,0069,006c,006d,0061,002e,000a,004c,0061,0075,006c,0075,002c,0020,0074,0061,006e,0074,0073,0075,002c,0020,0062,0061,006a,0061,0061,006e,0069,002d,002c,0020,0073,0061,006b,0073,006f,0066,006f,006e,0069,002d,002c,0020,0076,0069,0069,0075,006c,0069,002d,002c,0020,0062,0061,006c,0061,006c,0061,0069,006b,0061,002d,002c,000a,0067,0069,0074,0061,0072,0072,0065,002d,0020,0065,0068,006b,0020,006d,0061,006e,0064,006f,006c,0069,006c,006e,0065,006d,00e4,006e,0067,0075,0020,006f,0073,006b,0075,0073,0020,0076,0061,0061,006c,0069,006f,0065,002e,0020,0056,00f5,0069,0062,000a,0061,0067,0061,0020,006b,0061,0020,0076,0065,0065,006c,0020,00f5,0070,0070,0069,0064,0061,002c,0020,0073,0065,0073,0074,0020,0072,0065,0069,0073,0020,0061,006c,0067,0061,0062,0020,0061,006c,006c,0065,0073,0020,0073,0061,0061,0062,0075,0076,0061,006c,0020,006b,0065,002d,000a,0076,0061,0064,0065,006c,002e,0020,0052,0065,0069,0073,0075,006b,0065,0073,0074,0076,0075,0073,0065,006c,0020,006b,00f5,0069,006b,0069,0064,0065,0073,0020,006c,0103,0062,0069,0073,0074,0061,0074,006f,0076,0061,0069,0073,0020,0031,0020,006e,006e,0061,0064,0065,0073,000a,0065,0073,0069,006e,0065,006d,0069,006e,0065,0020,006c,0061,0075,006c,0075,002d,002c,0020,006d,0075,0075,0073,0069,006b,0061,002d,0020,006e,0069,006e,0067,0020,0074,0061,006e,0074,0073,0075,0065,0074,0074,0065,006b,0061,006e,006e,0065,0074,0065,0067,0061,000a,0052,0065,0069,0073,0075,006b,0073,0020,006b,0061,0073,0075,0074,0061,0074,0061,0076,0061,0020,0061,0075,0074,006f,0020,0061,006c,0067,0075,0070,00e4,0072,0061,0073,0065,0027,0074,0020,0068,0075,0076,0069,0074,0061,0076,0061,006b,0073,0020,006e,0069,006e,0067,000a,0070,0069,006b,0065,006d,0061,0020,0072,0065,0069,0073,0075,0020,006a,0061,006f,006b,0073,0020,006d,0075,0067,0061,0076,0061,006b,0073,0020,00fc,006d,0062,0065,0072,0065,0068,0069,0074,0075,0073,0065,006b,0073,0020,0070,0065,0061,0062,000a,0069,0067,0061,0020,006b,0061,0061,0073,0061,0073,00f5,0069,0074,006a,0061,0020,006f,006d,0061,006d,0061,0020,0076,00e4,0068,0065,006d,0061,006c,0074,0020,0033,0035,0030,2014,0035,0030,0030,0020,006b,0072,002e,0020,0045,0064,0075,0020,006a,0061,000a,006b,0075,0075,006c,0073,0075,0073,0020,0072,0065,0069,0073,0075,006c,0020,006b,0069,006e,0064,0065,006c,002e,0020,0048,0075,0076,0069,0074,002e,0020,006b,0069,0072,006a,002e,0020,201e,0046,0069,006c,006d,0020,006a,0061,0020,0057,006c,0075,0022,0020,0074,0061,006c,0069,002d,000a,0074,0075,0073,0065,006c,0065,0020,0077,00e4,0072,0067,006f,0073,00f5,006e,0061,0020,0061,006c,006c,003a,0020,201e,004d,0061,0074,006b,0061,006c,0020,0068,00e4,00e4,0020,0074,0065,0065,006e,0069,0073,0074,0075,0073,0022,002e,000a,0041,0062,0069,0065,006c,006c,0075,006e,000a,004c,002e,0020,004b,002e,0020,0056,0069,006c,006a,0061,006e,0064,0069,0073,002e,000a,0053,00fc,0064,0061,006d,006c,0069,0020,00f5,006e,006e,0065,0073,006f,006f,0076,0020,0065,0065,006c,002d,000a,006f,006c,0065,0076,0061,006b,0073,0020,0061,0061,0073,0074,0061,006b,0073,0021,000a,004f,002e,0020,004c,002e,000a,0048,0049,004c,0044,0041,0020,004b,00dc,0054,0054,002e,000a,0044,0061,0061,006d,0069,0064,0065,0020,006a,0061,0020,0068,00e4,0072,0072,0061,0064,0065,000a,006a,0075,0075,006b,0073,0065,0074,00f6,00f6,0073,0074,0075,0073,0020,201e,0020,0045,004e,0044,004c,0041,201c,000a,004b,0065,0073,006b,002d,004b,0061,006c,0061,006d,0061,006a,0061,0020,0032,002c,0074,0065,006c,002e,0020,0034,0034,0030,002d,0036,0035,002c,000a,0042,0061,0069,0074,0069,0020,006a,0061,0061,006d,0061,0020,0072,0061,0075,0064,0074,0065,0065,0020,00fc,006c,0065,002d,000a,0073,00f5,0069,0064,0075,0020,0076,0061,0073,0074,0061,0073,002e,000a,004e,006f,006f,0072,006d,0065,0065,0073,0020,0073,006f,006f,0076,0069,0062,000a,006b,0069,0072,006a,0061,0076,0061,0068,0065,0074,0075,0073,0074,000a,006c,00fc,0068,0069,006b,0065,0073,0065,006b,0061,0073,0076,0075,006c,0069,0073,0074,0065,0020,0056,0069,0069,006a,0061,006e,0064,0069,000a,0074,00fc,0074,0061,0072,006c,0061,0073,0074,0065,0067,0061,0020,0076,0061,006e,002e,0020,006b,0075,006e,0069,0020,0032,0030,0020,0061,002e,000a,0046,006f,0074,006f,0020,0073,006f,006f,0076,002c,0020,004b,0069,0072,006a,0061,0064,0020,0054,0061,0072,0074,0075,002c,000a,0054,00e4,0068,0065,0020,0036,0030,0020,0041,0020,004d,0061,0072,006b,0020,201e,0050,006f,0069,0073,0075,201c,002e,000a,0054,00f5,0073,0069,0073,0065,006c,0074,0020,0065,006c,006c,0075,0020,0073,0075,0068,0074,0075,0076,0020,006e,006f,006f,0072,002d,000a,006d,0065,0065,0073,0020,0074,00f6,00f6,006c,0069,0073,0072,0069,006e,0067,006b,006f,006e,006e,0061,0073,0074,000a,0073,006f,006f,0076,0069,0062,0020,0074,0075,0074,0073,0076,0075,0073,0074,000a,0074,00f6,00fc,006c,0069,0073,0072,0069,006e,0067,006b,006f,006e,0064,0061,0020,006b,0075,0075,006c,0075,0076,0061,0074,0065,000a,006c,00fc,0068,0065,006d,0061,006b,0061,0073,0076,0075,006c,002e,0020,0070,0072,0065,0069,006c,0069,0064,0065,0020,0076,00f5,0069,000a,006c,0065,0073,006b,0065,0064,0065,0020,0068,0075,006c,0067,0065,0073,0074,002c,0020,006b,0065,0073,0020,006f,0075,000a,006e,00f5,0075,0073,0020,006b,006f,0068,0065,0020,0061,0062,0069,0065,006c,006c,0075,006d,0061,002e,000a,004b,0069,0072,006a,002e,0020,00fc,0068,0065,0073,0020,0066,006f,fffd,006f,0020,006a,0061,0020,0065,006e,0065,0073,0065,002d,000a,006b,0069,0072,006a,0065,006c,0064,0020,0073,006c,0074,002e,0020,0045,0065,0073,0074,0069,0020,00dc,006c,0069,00f5,0070,0069,006c,0061,0073,002e,000a,006c,006f,0074,0065,0072,0069,0069,0020,004e,0072,002e,0020,0030,0037,0032,0033,0032,0039,0020,0065,0074,0074,0065,006e,00e4,0069,0074,002e,0073,000a,0050,006f,0069,0073,0073,006c,0061,0070,0073,000a,006b,0065,006e,0061,0020,0073,00fc,006d,0070,0061,0061,0074,006e,0065,002c,0020,0074,006f,006f,0020,006b,0065,0076,0061,0064,002d,000a,0072,00f5,00f5,006d,0075,0020,0074,00fc,0074,0061,0072,006c,0061,0070,0073,0065,0020,0068,0069,006e,0067,0065,0020,006b,0069,0072,002d,000a,006a,0061,0020,006a,0061,0020,006f,0074,006f,0020,006e,00e4,006f,006c,002e,000a,004e,0061,0072,0076,0061,0020,006a,0061,0061,006d,0061,0020,0065,0069,006e,0065,006c,0061,006e,0064,000a,0053,0020,201e,004f,0072,0061,0061,006b,0065,006c,201c,002e,000a,0048,00e4,0072,0072,0061,0064,0021,000a,004f,006f,0074,0061,006d,0065,002c,0020,0065,0074,0020,006b,0069,0072,006a,0075,0074,0061,006b,0073,0069,0074,0065,000a,006d,0065,0069,006c,0065,002e,0020,004b,0069,0072,006a,0061,0064,0020,0073,006c,0074,002e,0020,0054,0061,0072,0074,0075,000a,0061,0062,0069,0074,0061,006c,0069,0074,0075,0073,0020,201e,004d,0061,0075,0064,0079,201c,002c,0020,201e,0041,0064,0079,201c,002e,000a,201e,004a,0075,006c,006c,0079,0061,201c,002e,000a,0054,006f,0065,0074,0075,0073,0074,0020,006d,0069,0074,0074,0065,0076,0061,006a,0061,0076,0020,006e,006f,006f,0072,002d,000a,006d,0065,0065,0073,000a,0074,0075,0074,0076,0075,006b,0073,000a,006d,0065,0065,006c,0065,006c,0064,0069,0020,0031,0037,2014,0032,0033,0020,0061,002e,0020,0074,00fc,0074,0061,0072,006c,002e,000a,0068,00e4,00e4,0020,0073,00f5,0062,0072,0061,0020,006c,0065,0069,0064,006d,0069,0073,0065,006b,0073,002e,0020,004b,0069,0072,002d,000a,006a,0061,0064,0020,0073,006c,002e,0020,0054,0061,0072,0074,0075,0020,0061,0062,0069,0074,0061,006c,002e,0020,201e,004e,00f5,0075,0064,002d,000a,006c,0069,006b,201c,002e,000a,0053,006f,006f,0064,0073,0061,0069,006d,0020,006b,006f,0068,0074,000a,0070,0069,006c,0064,0069,0073,0074,0061,006d,0069,0073,0065,006b,0073,000a,0046,006f,0074,006f,002d,0061,0074,0065,0069,006a,0065,0065,000a,0054,0061,006c,0069,0069,006e,006e,002c,0020,004b,0075,006e,0069,006e,0067,0061,0020,0032,000a,0054,0065,006c,0065,0066,006f,006e,0020,0034,0035,0038,002d,0038,0034,000a,0044,0061,0061,006d,0069,0064,0020,0054,0061,0072,0074,0075,0073,0074,0021,000a,004b,0065,006e,0061,0020,0076,00e4,006c,0069,006d,0075,0073,0065,0067,0061,0020,006b,0061,0069,006e,0065,000a,006e,006f,006f,0072,006d,0065,0065,0073,002c,0020,006b,0065,0073,0020,0074,0065,0067,0075,0074,0073,0065,006e,0075,0064,000a,00e4,0072,0069,0061,006c,0061,006c,0020,006a,0061,0020,006d,00f5,0074,006c,0065,0062,0020,006e,00fc,00fc,0064,000a,0054,0061,0072,0074,0075,0020,0061,0073,0075,0064,0061,002c,0020,0073,006f,006f,0076,0069,0062,0020,006f,006d,0061,006c,0065,000a,006e,0061,0069,0073,0073,00f5,0070,0072,0061,002c,0020,006b,0065,0073,0020,0061,0069,0074,0061,006b,0073,0020,006d,0069,006e,002d,000a,0067,0069,0074,0020,0074,0065,0065,006e,0069,0073,0074,0075,0073,0074,0020,006c,0065,0069,0064,0061,0020,0053,006f,0062,0069,002d,000a,0076,0075,0073,0065,0020,006b,006f,0069,0072,0061,006c,0020,0061,0062,0069,0065,006c,0075,002e,0020,004b,0069,0072,002d,000a,006a,0061,0064,0020,003a,0020,004b,0072,00fc,00fc,0064,006e,0065,0072,0069,002c,0020,0056,0065,0073,006b,0069,0020,0070,002e,0020,0061,0067,000a,0070,006b,002e,0020,0031,0032,002e,000a,004b,0065,006e,0061,000a,0076,00e4,006c,0069,006d,0075,0073,0065,0067,0061,0020,006e,0065,0069,0075,0020,0076,00f5,0069,0062,0020,006c,0065,0069,0064,0061,000a,0068,0065,0061,0020,006b,00f5,0072,0076,0061,006c,0074,0065,0065,006e,0069,0073,0074,0075,0073,0065,002e,000a,0046,006f,0074,006f,0067,0061,0020,0076,0061,0072,0075,0073,0074,0061,0074,0075,0064,0020,006b,0069,0072,006a,0061,0064,000a,0065,0065,0073,00f5,0069,0067,0075,0073,0074,0061,0074,0075,0064,002e,0020,004b,0069,0072,006a,0061,0064,003a,0020,0050,00e4,0072,002d,000a,006e,0075,002c,0020,0070,006f,0073,0074,006b,0020,0035,0034,0020,201e,0053,00fc,0064,0061,006d,0065,0074,0065,000a,0076,0065,0073,006b,0069,201c,002e,000a,004d,0069,0074,0074,0065,0020,0074,0069,006e,0067,0069,006d,0061,0074,0061,0020,0069,006c,0075,0073,0061,0020,0065,0067,0061,000a,0072,0069,006b,006b,0061,002c,0020,0076,0061,0069,0064,0020,006b,00fc,006c,006c,0020,0074,00e4,0069,0065,0073,0074,0069,000a,006e,0061,0069,0073,0065,006c,0069,006b,0075,0020,006e,0061,0069,0073,0065,0067,0061,000a,0073,006f,006f,0076,0069,006e,0020,0061,0062,0069,0065,006c,006c,0075,0064,0061,002e,0020,004b,0069,0072,006a,002e,0020,0073,006c,0074,002e,000a,201e,004d,0065,0065,0073,0020,002b,0020,006b,0069,006e,0064,0065,006c,0020,006c,0065,0069,0062,201c,002e,000a,0048,0072,0061,0020,006a,0061,0020,0070,0072,002e,0020,0054,0045,0047,004f,0056,0041,02bc,0074,0065,006c,0065,000a,0054,0061,0072,0074,0075,2014,0056,0065,0065,0072,0069,006b,006f,002e,000a,0053,00fc,0064,0061,006d,006c,0069,006b,0020,00f5,006e,006e,0065,0073,006f,006f,0076,0020,006d,0075,002d,000a,0067,0061,0076,0061,006b,0073,0020,006a,0061,0020,0061,0072,006d,0073,0061,006b,0073,0020,0070,0065,0072,0065,002d,000a,006b,006f,006e,006e,0061,0065,006c,0075,006b,0073,0020,0021,000a,0050,0065,0072,0065,006b,002e,0020,201e,0045,002e,0020,0045,002e,0020,0056,002e,201f,0020,0054,0061,006c,006c,0069,006e,006e,002e,000a,004f,006c,0065,006e,0020,0076,0061,0069,0064,0020,0068,0061,0072,0069,006a,0069,006b,000a,0074,00fc,0074,0061,0072,006c,0061,0070,0073,000a,0070,0069,0073,0075,006b,0065,0073,0065,0020,0073,00fc,0064,0061,006d,0065,0067,0061,0020,0072,0069,006e,006e,0075,0073,002c,000a,006d,0069,0073,0020,0069,0067,0061,0074,0073,0065,0062,0020,00d5,006e,006e,0065,0020,006a,0061,0020,0061,0072,006d,0061,0073,002d,000a,0074,0075,0073,0074,002e,0020,006e,0069,006e,0067,0020,0070,0065,0068,006d,0065,0069,0064,0020,006b,0065,0076,0061,0064,002d,000a,0074,0075,0075,006c,0069,002e,0020,004d,0069,006e,0075,0020,0061,0061,0064,0072,002e,0020,004a,00f5,0067,0065,0076,0061,000a,0070,006f,0073,0074,006b,006f,006e,0074,006f,0072,0020,201e,0045,0072,006d,0061,0061,201c,002e,000a,0045,006c,0061,0064,0061,0020,006b,0075,0069,0073,0020,0076,00f5,0069,002d,000a,0073,0069,006e,0020,0073,0069,006e,0075,0074,0061,0020,003f,002e","","","miss","1"

@@ -1,0 +1,63 @@
+groundTruth,result,charsInGroundTruth,charsInResult,characterAccuracy,LCSCharStats Ground Truth Item,LCSCharStats Ground Truth Unicode,LCSCharStats OCR Result Item,LCSCharStats OCR Result Unicode,LCSCharStats OCR Error,LCSCharStats Count
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,"375","382","0.088"," 4 ","0020,0034,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,", ","002c,0020","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,," — ","0020,2014,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,," ","0020","","","none","15"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"ПОШТАРИНА","041f,041e,0428,0422,0410,0420,0418,041d,0410","
+nouiiAptitia","000a,006e,006f,0075,0069,0069,0041,0070,0074,0069,0074,0069,0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"Jакшићева","004a,0430,043a,0448,0438,045b,0435,0432,0430","louumnon","006c,006f,0075,0075,006d,006e,006f,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"-","002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,". ","002e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"ГОД.","0413,041e,0414,002e","
+i","000a,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"
+","000a","","","none","9"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"ПЛАЋЕНА","041f,041b,0410,040b,0415,041d,0410","nnAntia","006e,006e,0041,006e,0074,0069,0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"4","0034","Lt 
+* 
+Npernnam upuvan epecaa z0 apo","004c,0074,0020,000a,002a,0020,000a,004e,0070,0065,0072,006e,006e,0061,006d,0020,0075,0070,0075,0076,0061,006e,0020,0065,0070,0065,0063,0061,0061,0020,007a,0030,0020,0061,0070,006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"АПРИЛ","0410,041f,0420,0418,041b","caconuca.","0063,0061,0063,006f,006e,0075,0063,0061,002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"1","0031","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"ІІ","0406,0406"," — 3 ","0020,2014,0020,0033,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"","000c","    
+— 
+— — — — 
+— — — 
+ſ 5 — — 
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"У","0423","lotos","006c,006f,0074,006f,0073","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"а/ІІ","0430,002f,0406,0406"," ","0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"1942","0031,0039,0034,0032","Boorpoa- ","0042,006f,006f,0072,0070,006f,0061,002d,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"ПА","041f,0410","rpτέν","0072,0070,03c4,03ad,03bd","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"","","ronummo so 
+r. Äπ  amemn oa!  00","0072,006f,006e,0075,006d,006d,006f,0020,0073,006f,0020,000a,0020,0020,0020,0020,0020,000a,0072,002e,0020,00c4,03c0,0020,0020,0061,006d,0065,006d,006e,0020,006f,0061,0021,0020,0020,0030,0030","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"9","0039"," 
+J","0020,000a,0020,0020,000a,0020,0020,000a,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"ГОТОВУ","0413,041e,0422,041e,0412,0423","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"ПРИМЕРАК","041f,0420,0418,041c,0415,0420,0410,041a","aaly","0061,0061,006c,0079","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"3.— ДИНАРА
+Претплату прима »Преса« за про-
+даjу новина и часописа, Београд.
+Влаjковићева 8.
+Претплата, тромесечно 20.— дин.,
+полугодишње 40.—, годишње 80
+динара.
+БЕОГРАД, СУБОТА","0033,002e,2014,0020,0414,0418,041d,0410,0420,0410,000a,041f,0440,0435,0442,043f,043b,0430,0442,0443,0020,043f,0440,0438,043c,0430,0020,00bb,041f,0440,0435,0441,0430,00ab,0020,0437,0430,0020,043f,0440,043e,002d,000a,0434,0430,006a,0443,0020,043d,043e,0432,0438,043d,0430,0020,0438,0020,0447,0430,0441,043e,043f,0438,0441,0430,002c,0020,0411,0435,043e,0433,0440,0430,0434,002e,000a,0412,043b,0430,006a,043a,043e,0432,0438,045b,0435,0432,0430,0020,0038,002e,000a,041f,0440,0435,0442,043f,043b,0430,0442,0430,002c,0020,0442,0440,043e,043c,0435,0441,0435,0447,043d,043e,0020,0032,0030,002e,2014,0020,0434,0438,043d,002e,002c,000a,043f,043e,043b,0443,0433,043e,0434,0438,0448,045a,0435,0020,0034,0030,002e,2014,002c,0020,0433,043e,0434,0438,0448,045a,0435,0020,0038,0030,000a,0434,0438,043d,0430,0440,0430,002e,000a,0411,0415,041e,0413,0420,0410,0414,002c,0020,0421,0423,0411,041e,0422,0410","nouuna","006e,006f,0075,0075,006e,0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"РУКОПИСИ","0420,0423,041a,041e,041f,0418,0421,0418","Bnaluouutens","0042,006e,0061,006c,0075,006f,0075,0075,0074,0065,006e,0073","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"ШТАМПАJУ","0428,0422,0410,041c,041f,0410,004a,0423","cαnσ","0063,03b1,006e,03c3","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"ИЗЛАЗИ","0418,0417,041b,0410,0417,0418","—","2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"СЕ","0421,0415",".","002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"ПРИМАJУ","041f,0420,0418,041c,0410,004a,0423","
+npernnars","000a,006e,0070,0065,0072,006e,006e,0061,0072,0073","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"ИЛИ","0418,041b,0418","ꝛa-","a75b,0061,002d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"СУБОТОМ","0421,0423,0411,041e,0422,041e,041c","— — — ","2014,0020,2014,0020,2014,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"БАЦАJУ","0411,0410,0426,0410,004a,0423","—— ","2014,2014,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"БР","0411,0420","nonrrodumme à0-","006e,006f,006e,0072,0072,006f,0064,0075,006d,006d,0065,0020,00e0,0030,002d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"Бодљикаво","0411,043e,0434,0459,0438,043a,0430,0432,043e","— — ","2014,0020,2014,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"прасе","043f,0440,0430,0441,0435","     ","0020,0020,0020,0020,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"Уредништво","0423,0440,0435,0434,043d,0438,0448,0442,0432,043e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"и","0438","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"Администрациjа.","0410,0434,043c,0438,043d,0438,0441,0442,0440,0430,0446,0438,006a,0430,002e","  ","0020,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761872-00232509.gt4hist.xml.txt,,,,"Београд","0411,0435,043e,0433,0440,0430,0434","   
+4 — — 
+E — Vpoauuunoo u — — 2 
+— U— oorpaa","0020,0020,0020,000a,0020,0020,0020,000a,0020,0020,000a,0020,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,0020,0020,000a,0020,0020,0020,000a,0034,0020,2014,0020,2014,0020,000a,0045,0020,2014,0020,0056,0070,006f,0061,0075,0075,0075,006e,006f,006f,0020,0075,0020,2014,0020,2014,0020,0032,0020,000a,2014,0020,0055,2014,0020,006f,006f,0072,0070,0061,0061","misrecognised","1"

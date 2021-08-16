@@ -1,0 +1,69 @@
+groundTruth,result,charsInGroundTruth,charsInResult,characterAccuracy,LCSCharStats Ground Truth Item,LCSCharStats Ground Truth Unicode,LCSCharStats OCR Result Item,LCSCharStats OCR Result Unicode,LCSCharStats OCR Error,LCSCharStats Count
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,"589","630","0.14091680814940577","
+atsarun, tai saucamas, burtu kastes. Burtu kastes","000a,0061,0074,0073,0061,0072,0075,006e,002c,0020,0074,0061,0069,0020,0073,0061,0075,0063,0061,006d,0061,0073,002c,0020,0062,0075,0072,0074,0075,0020,006b,0061,0073,0074,0065,0073,002e,0020,0042,0075,0072,0074,0075,0020,006b,0061,0073,0074,0065,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,". Burtu likšonas ustoba.","002e,0020,0042,0075,0072,0074,0075,0020,006c,0069,006b,0161,006f,006e,0061,0073,0020,0075,0073,0074,006f,0062,0061,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,," četru kantaini stul","0020,010d,0065,0074,0072,0075,0020,006b,0061,006e,0074,0061,0069,006e,0069,0020,0073,0074,0075,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,," 5. Drukotowa","0020,0035,002e,0020,0044,0072,0075,006b,006f,0074,006f,0077,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"",""," | 
+, ","0020,007c,0020,000a,002c,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"
+(burti). Zeimejum","000a,0028,0062,0075,0072,0074,0069,0029,002e,0020,005a,0065,0069,006d,0065,006a,0075,006d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,," ","0020","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"Zeim. ","005a,0065,0069,006d,002e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"","",". ","002e,0020","false detection","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"
+sasadola daudz","000a,0073,0061,0073,0061,0064,006f,006c,0061,0020,0064,0061,0075,0064,007a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,," 5 ir radzamas b","0020,0035,0020,0069,0072,0020,0072,0061,0064,007a,0061,006d,0061,0073,0020,0062","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"-
+—","002d,000a,2014","+","002b","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"13 —
+towom, aba tipografijom. Pat ikkotra leloka tipo
+grafija sastow nu diwejom ustobom (kambarim):
+winu ustobu sauc par burtu likšonas ustobu, utru
+— par mašinu ustobu. Burtu likšonas ustobâ
+(skot. zeimejumâ № 5) stow eilê sastoditi sowaidi
+ar sleiponu wersu skapiši, wers kurim pat wysod
+","0031,0033,0020,2014,000a,0074,006f,0077,006f,006d,002c,0020,0061,0062,0061,0020,0074,0069,0070,006f,0067,0072,0061,0066,0069,006a,006f,006d,002e,0020,0050,0061,0074,0020,0069,006b,006b,006f,0074,0072,0061,0020,006c,0065,006c,006f,006b,0061,0020,0074,0069,0070,006f,000a,0067,0072,0061,0066,0069,006a,0061,0020,0073,0061,0073,0074,006f,0077,0020,006e,0075,0020,0064,0069,0077,0065,006a,006f,006d,0020,0075,0073,0074,006f,0062,006f,006d,0020,0028,006b,0061,006d,0062,0061,0072,0069,006d,0029,003a,000a,0077,0069,006e,0075,0020,0075,0073,0074,006f,0062,0075,0020,0073,0061,0075,0063,0020,0070,0061,0072,0020,0062,0075,0072,0074,0075,0020,006c,0069,006b,0161,006f,006e,0061,0073,0020,0075,0073,0074,006f,0062,0075,002c,0020,0075,0074,0072,0075,000a,2014,0020,0070,0061,0072,0020,006d,0061,0161,0069,006e,0075,0020,0075,0073,0074,006f,0062,0075,002e,0020,0042,0075,0072,0074,0075,0020,006c,0069,006b,0161,006f,006e,0061,0073,0020,0075,0073,0074,006f,0062,00e2,000a,0028,0073,006b,006f,0074,002e,0020,007a,0065,0069,006d,0065,006a,0075,006d,00e2,0020,2116,0020,0035,0029,0020,0073,0074,006f,0077,0020,0065,0069,006c,00ea,0020,0073,0061,0073,0074,006f,0064,0069,0074,0069,0020,0073,006f,0077,0061,0069,0064,0069,000a,0061,0072,0020,0073,006c,0065,0069,0070,006f,006e,0075,0020,0077,0065,0072,0073,0075,0020,0073,006b,0061,0070,0069,0161,0069,002c,0020,0077,0065,0072,0073,0020,006b,0075,0072,0069,006d,0020,0070,0061,0074,0020,0077,0079,0073,006f,0064,000a,000c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"","","
+- 
+_8 
+towom, aba tipografijom.. Pat ikkotra.leloka tipo 
+grafija sastow nu diwejom ustobom (kambarim): 
+winu ustobu sauc par burtu likšonas ustobu, utru : 
+— par  mašiņu, ustobu. - Burtu. likšonas ustobā 
+(skot. zeimejumā N* 5) stow eilē sastoditi sowaidi 
+ar sleiponu wersu. skāpiši, wers kurim pat wysod 
+- 
+","000a,002d,0020,000a,005f,0038,0020,000a,0074,006f,0077,006f,006d,002c,0020,0061,0062,0061,0020,0074,0069,0070,006f,0067,0072,0061,0066,0069,006a,006f,006d,002e,002e,0020,0050,0061,0074,0020,0069,006b,006b,006f,0074,0072,0061,002e,006c,0065,006c,006f,006b,0061,0020,0074,0069,0070,006f,0020,000a,0067,0072,0061,0066,0069,006a,0061,0020,0073,0061,0073,0074,006f,0077,0020,006e,0075,0020,0064,0069,0077,0065,006a,006f,006d,0020,0075,0073,0074,006f,0062,006f,006d,0020,0028,006b,0061,006d,0062,0061,0072,0069,006d,0029,003a,0020,000a,0077,0069,006e,0075,0020,0075,0073,0074,006f,0062,0075,0020,0073,0061,0075,0063,0020,0070,0061,0072,0020,0062,0075,0072,0074,0075,0020,006c,0069,006b,0161,006f,006e,0061,0073,0020,0075,0073,0074,006f,0062,0075,002c,0020,0075,0074,0072,0075,0020,003a,0020,000a,2014,0020,0070,0061,0072,0020,0020,006d,0061,0161,0069,0146,0075,002c,0020,0075,0073,0074,006f,0062,0075,002e,0020,002d,0020,0042,0075,0072,0074,0075,002e,0020,006c,0069,006b,0161,006f,006e,0061,0073,0020,0075,0073,0074,006f,0062,0101,0020,000a,0028,0073,006b,006f,0074,002e,0020,007a,0065,0069,006d,0065,006a,0075,006d,0101,0020,004e,002a,0020,0035,0029,0020,0073,0074,006f,0077,0020,0065,0069,006c,0113,0020,0073,0061,0073,0074,006f,0064,0069,0074,0069,0020,0073,006f,0077,0061,0069,0064,0069,0020,000a,0061,0072,0020,0073,006c,0065,0069,0070,006f,006e,0075,0020,0077,0065,0072,0073,0075,002e,0020,0073,006b,0101,0070,0069,0161,0069,002c,0020,0077,0065,0072,0073,0020,006b,0075,0072,0069,006d,0020,0070,0061,0074,0020,0077,0079,0073,006f,0064,0020,000a,002d,0020,000a,0020,0020,000a","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"№","2116","N","004e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"s atsarun ","0073,0020,0061,0074,0073,0061,0072,0075,006e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,," radzamas mozos ","0020,0072,0061,0064,007a,0061,006d,0061,0073,0020,006d,006f,007a,006f,0073,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"kastit","006b,0061,0073,0074,0069,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"rifts","0072,0069,0066,0074,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"â","00e2","ā","0101","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"№","2116","Ne","004e,0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"rtu kastes,","0072,0074,0075,0020,006b,0061,0073,0074,0065,0073,002c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"kastites un šam","006b,0061,0073,0074,0069,0074,0065,0073,0020,0075,006e,0020,0161,0061,006d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"moz","006d,006f,007a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"s, kur","0073,002c,0020,006b,0075,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"š","0161","Š","0160","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"",""," ","0020","false detection","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"u","0075","ū","016b","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"
+ir ari","000a,0069,0072,0020,0061,0072,0069"," ' 
+ir ari_","0020,0027,0020,000a,0069,0072,0020,0061,0072,0069,005f","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"","","-","002d","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"s cyts kai mozi","0073,0020,0063,0079,0074,0073,0020,006b,0061,0069,0020,006d,006f,007a,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,," ","0020","-","002d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"s","0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"ê","00ea","ē","0113","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"ô","00f4","o","006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"
+Šrifts ir","000a,0160,0072,0069,0066,0074,0073,0020,0069,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"","",".","002e","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"ô","00f4","ē","0113","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,," ","0020",":","003a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"s šrifts.","0073,0020,0161,0072,0069,0066,0074,0073,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"na k","006e,0061,0020,006b","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,," ","0020","_","005f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00674654-00230423.lav.xml.txt,,,,"a","0061","ū","016b","misrecognised","1"

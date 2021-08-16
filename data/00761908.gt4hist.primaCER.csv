@@ -1,0 +1,1012 @@
+groundTruth,result,charsInGroundTruth,charsInResult,characterAccuracy,LCSCharStats Ground Truth Item,LCSCharStats Ground Truth Unicode,LCSCharStats OCR Result Item,LCSCharStats OCR Result Unicode,LCSCharStats OCR Error,LCSCharStats Count
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,"14765","7424","0.1420250592617677",".000","002e,0030,0030,0030","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"
+","000a","","","none","38"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"1414","0031,0034,0031,0034","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,," ","0020","","","none","215"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,," 11 ","0020,0031,0031,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"�","fffd","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"",""," ","0020","false detection","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,," — ","0020,2014,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,," 7 ","0020,0037,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ײ","05f2","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"עהירפא-זופצ","05e2,05d4,05d9,05e8,05e4,05d0,002d,05d6,05d5,05e4,05e6","—.","2014,002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,," 2 ","0020,0032,0020","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"
+:","000a,003a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,," :","0020,003a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"צ","05e6","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"זײה","05d6,05f2,05d4","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"
+.","000a,002e","","","none","7"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"8 ","0038,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"2","0032","  ","0020,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טריאוהאַװע","05d8,05e8,05d9,05d0,05d5,05d4,fb2e,05f0,05e2","N  — ","004e,0020,0020,2014,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"עקיליװײרפ","05e2,05e7,05d9,05dc,05d9,05f0,05f2,05e8,05e4","——.","2014,2014,002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,," (","0020,0028","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"
+— ","000a,2014,0020","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןופ","05df,05d5,05e4","
+Vnn","000a,0056,006e,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,",","002c","","","none","4"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעדאָ","05e8,05e2,05d3,fb2f","5ud","0035,0075,0064","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"גנודליבּ","05d2,05e0,05d5,05d3,05dc,05d9,fb31","yτιέν pya, pya ","0079,03c4,03b9,03ad,03bd,0020,0070,0079,0061,002c,0020,0070,0079,0061,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,," .","0020,002e","","","none","5"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןצינערג","05df,05e6,05d9,05e0,05e2,05e8,05d2","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"זיוש","05d6,05d9,05d5,05e9","Vn","0056,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"סלא","05e1,05dc,05d0","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"װײזאַ","05f0,05f2,05d6,fb2e","—","2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"זיבּ","05d6,05d9,fb31","na","006e,0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןטרוק","05df,05d8,05e8,05d5,05e7","Jne","004a,006e,0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"םיד�מל","05dd,05d9,05d3,fffd,05de,05dc","at","0061,0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"","","o dyevos τιπέ/ꝛ vιέejynng 
+dyia dem vn is mm no 
+x  nd dsvon ud odyaB 
+E NJJJJ 
+Jdas aoy no 
+— J— 
+ydydrvayv. S pe nos w  vzn 
+en vn or 
+ſrvna  3ł  τn lιέ 
+ſdot vgzaz 85225 5 vyn vava 
+Dns nn vn d amnas iaa dos 
+pud dyr ſnya vn nm on dyn 
+—  f; — .  — 
+— J 
+— 
+dna 
+ſn ſ 
+ſunnd 
+nu myd yprse 25 Pι 
+J. NNENET—— 
+lompag ldu nva","006f,0020,0064,0079,0065,0076,006f,0073,0020,03c4,03b9,03c0,03ad,002f,a75b,0020,0076,03b9,03ad,0065,006a,0079,006e,006e,0067,0020,000a,0064,0079,0069,0061,0020,0064,0065,006d,0020,0076,006e,0020,0069,0073,0020,006d,006d,0020,006e,006f,0020,000a,0078,0020,0020,006e,0064,0020,0064,0073,0076,006f,006e,0020,0075,0064,0020,006f,0064,0079,0061,0042,0020,000a,0045,0020,004e,004a,004a,004a,004a,0020,000a,004a,0064,0061,0073,0020,0061,006f,0079,0020,006e,006f,0020,000a,2014,0020,004a,2014,0020,000a,0079,0064,0079,0064,0072,0076,0061,0079,0076,002e,0020,0053,0020,0070,0065,0020,006e,006f,0073,0020,0077,0020,0020,0076,007a,006e,0020,000a,0065,006e,0020,0076,006e,0020,006f,0072,0020,000a,017f,0072,0076,006e,0061,0020,0020,0033,0142,0020,0020,03c4,006e,0020,006c,03b9,03ad,0020,000a,017f,0064,006f,0074,0020,0076,0067,007a,0061,007a,0020,0038,0035,0032,0032,0035,0020,0035,0020,0076,0079,006e,0020,0076,0061,0076,0061,0020,000a,0044,006e,0073,0020,006e,006e,0020,0076,006e,0020,0064,0020,0061,006d,006e,0061,0073,0020,0069,0061,0061,0020,0064,006f,0073,0020,000a,0070,0075,0064,0020,0064,0079,0072,0020,017f,006e,0079,0061,0020,0076,006e,0020,006e,006d,0020,006f,006e,0020,0064,0079,006e,0020,000a,2014,0020,0020,0066,003b,0020,2014,0020,002e,0020,0020,2014,0020,000a,2014,0020,004a,0020,000a,0020,004a,004a,004a,004a,0020,000a,0020,0020,000a,2014,0020,000a,0064,006e,0061,0020,000a,017f,006e,0020,017f,0020,000a,0020,0020,000a,017f,0075,006e,006e,0064,0020,000a,006e,0075,0020,006d,0079,0064,0020,0079,0070,0072,0073,0065,0020,0032,0035,0020,0050,03b9,0020,000a,004a,002e,0020,004e,004e,0045,004e,0045,0054,2014,2014,0020,000a,006c,006f,006d,0070,0061,0067,0020,006c,0064,0075,0020,006e,0076,0061","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,",עיזאַנמיג","002c,05e2,05d9,05d6,fb2e,05e0,05de,05d9,05d2","ndx","006e,0064,0078","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"לוש-סקלאָפ
+.ןאָ ראָי 17 ןופ ךעלדײמ
+,עימאָנאָקע ,טעבּרא-אָרויבּ
+,עיפאַרגאָעג-סלדנאה
+ץנעדנאָפּסעראָק ״
+יװ (עמעטסיס עלאַ ןיא) ננוריפכובּ
+עקיטײצטנײה ,עירעטלאהכובּ-ריפאָק ךיוא
+עיגאָלאָנכעט ,ןליופּ ןופ טפאַשטריװ
+,ןצעזעג – רעײטש ,(טפאַשנסיװ – הרוחס)
+.קיטעמטיראַ - סל�נאה ,ןצעזעג - סלדנאַה
+ןעמעטסיס עטסײנ יד ףיוא ןעגעכער ןוא ןבּײרש
+.(ןענישאַמ ןכער עשירטקעלע) ןענישאַמ
+:שיראָטאגילבּאַ טינ (2
+ןכאָנ","05dc,05d5,05e9,002d,05e1,05e7,05dc,fb2f,05e4,000a,002e,05df,fb2f,0020,05e8,fb2f,05d9,0020,0031,0037,0020,05df,05d5,05e4,0020,05da,05e2,05dc,05d3,05f2,05de,000a,002c,05e2,05d9,05de,fb2f,05e0,fb2f,05e7,05e2,0020,002c,05d8,05e2,fb31,05e8,05d0,002d,fb2f,05e8,05d5,05d9,fb31,000a,002c,05e2,05d9,05e4,fb2e,05e8,05d2,fb2f,05e2,05d2,002d,05e1,05dc,05d3,05e0,05d0,05d4,000a,05e5,05e0,05e2,05d3,05e0,fb2f,fb44,05e1,05e2,05e8,fb2f,05e7,0020,05f4,000a,05d9,05f0,0020,0028,05e2,05de,05e2,05d8,05e1,05d9,05e1,0020,05e2,05dc,fb2e,0020,05df,05d9,05d0,0029,0020,05e0,05e0,05d5,05e8,05d9,05e4,05db,05d5,fb31,000a,05e2,05e7,05d9,05d8,05f2,05e6,05d8,05e0,05f2,05d4,0020,002c,05e2,05d9,05e8,05e2,05d8,05dc,05d0,05d4,05db,05d5,fb31,002d,05e8,05d9,05e4,fb2f,05e7,0020,05da,05d9,05d5,05d0,000a,05e2,05d9,05d2,fb2f,05dc,fb2f,05e0,05db,05e2,05d8,0020,002c,05df,05dc,05d9,05d5,fb44,0020,05df,05d5,05e4,0020,05d8,05e4,fb2e,05e9,05d8,05e8,05d9,05f0,000a,002c,05df,05e6,05e2,05d6,05e2,05d2,0020,2013,0020,05e8,05e2,05f2,05d8,05e9,0020,002c,0028,05d8,05e4,fb2e,05e9,05e0,05e1,05d9,05f0,0020,2013,0020,05d4,05e8,05d5,05d7,05e1,0029,000a,002e,05e7,05d9,05d8,05e2,05de,05d8,05d9,05e8,fb2e,0020,002d,0020,05e1,05dc,fffd,05e0,05d0,05d4,0020,002c,05df,05e6,05e2,05d6,05e2,05d2,0020,002d,0020,05e1,05dc,05d3,05e0,fb2e,05d4,000a,05df,05e2,05de,05e2,05d8,05e1,05d9,05e1,0020,05e2,05d8,05e1,05f2,05e0,0020,05d9,05d3,0020,05e3,05d9,05d5,05d0,0020,05df,05e2,05d2,05e2,05db,05e2,05e8,0020,05df,05d5,05d0,0020,05df,fb31,05f2,05e8,05e9,000a,002e,0028,05df,05e2,05e0,05d9,05e9,fb2e,05de,0020,05df,05db,05e2,05e8,0020,05e2,05e9,05d9,05e8,05d8,05e7,05e2,05dc,05e2,0029,0020,05df,05e2,05e0,05d9,05e9,fb2e,05de,000a,003a,05e9,05d9,05e8,fb2f,05d8,05d0,05d2,05d9,05dc,fb31,fb2e,0020,05d8,05d9,05e0,0020,0028,0032,000a,05df,05db,fb2f,05e0","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"יד","05d9,05d3","","","miss","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"�יז","fffd,05d9,05d6","eα","0065,03b1","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"זדלאמעג","05d6,05d3,05dc,05d0,05de,05e2,05d2","E J ","0045,0020,004a,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןוא","05df,05d5,05d0","
+*","000a,002a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"װײזא","05f0,05f2,05d6,05d0","—.","2014,002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"3","0033","lpsꝰa. m vvl  ττ nι dun dye pn ſd vyn „m 
+mo τ Nτι σ oyn d τι;  ) nι . — 
+—  JJU .  NJETJJ pn ","006c,0070,0073,a770,0061,002e,0020,006d,0020,0076,0076,006c,0020,0020,03c4,03c4,0020,006e,03b9,0020,0064,0075,006e,0020,0064,0079,0065,0020,0070,006e,0020,017f,0064,0020,0076,0079,006e,0020,201e,006d,0020,000a,006d,006f,0020,03c4,0020,004e,03c4,03b9,0020,03c3,0020,006f,0079,006e,0020,0064,0020,03c4,03b9,003b,0020,0020,0029,0020,006e,03b9,0020,002e,0020,2014,0020,000a,2014,0020,0020,004a,004a,0055,0020,002e,0020,0020,004e,004a,0045,0054,004a,004a,0020,0070,006e,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,") ","0029,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טסערא","05d8,05e1,05e2,05e8,05d0","doym","0064,006f,0079,006d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"יד","05d9,05d3","Nve rα ιO u ſ/e n yam-na ","004e,0076,0065,0020,0072,03b1,0020,03b9,004f,0020,0075,0020,017f,002f,0065,0020,006e,0020,0079,0061,006d,002d,006e,0061,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"-","002d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"עדנגלאָפ","05e2,05d3,05e0,05d2,05dc,fb2f,05e4","Jgdot","004a,0067,0064,006f,0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"","","ιέω n 
+ſodmt vyn voyn in n don Vn 
+E  U — 
+.ENJJ J— 
+vddn pn nx yn m vypvis 
+ſa ſyn dosn ι aSιι 
+—— 
+anuar n  oom „vn dro 
+E N ND 
+—. J 
+· Nama dy ſyp yron n idns e 
+E NJNE .—  — 
+—  N ENEJ— 
+W dn dyn dy n arm y r 
+v 5 vos udtdRp σι po 
+odyd ydvv pꝰdꝰs  RUQU ι 
+E NNJJJ 
+Jpzt nm pn ſpp dy p Pop 
+dos onlιτισpf vyn aιτιQW idyt 
+E JJJN J 
+vyn on ats vp'voya vi Pt 
+Di  vagd uw pmιέω 
+— 
+oognyz dn w nyιι⁊ nyva 
+.—.. — 
+——.  — — 
+. J ——— —— 
+—. NNJJ 
+Wonprnyhn o o a ι 
+doͤf sarp qn suoang 
+dn rdyntzd A d ſdyma 8 
+Vi vay τ ↄłd Bndra 
+751 u db ndaabn oͤnι 
+.—.  ——  — 
+E NN 
+o deng voon n  ιιέ 
+na pod di a vyn V nn 
+np τι ſ πι σ 
+—. NNNJJJJ 
+d'ns lydr vn cd vas ισιω 
+2  Nan „nn","03b9,03ad,03c9,0020,006e,0020,000a,0020,002e,004e,004a,004e,004a,0020,000a,017f,006f,0064,006d,0074,0020,0076,0079,006e,0020,0076,006f,0079,006e,0020,0069,006e,0020,006e,0020,0064,006f,006e,0020,0056,006e,0020,000a,0045,0020,0020,0055,0020,2014,0020,000a,002e,0045,004e,004a,004a,0020,004a,2014,0020,000a,0076,0064,0064,006e,0020,0070,006e,0020,006e,0078,0020,0079,006e,0020,006d,0020,0076,0079,0070,0076,0069,0073,0020,000a,017f,0061,0020,017f,0079,006e,0020,0064,006f,0073,006e,0020,03b9,0020,0061,0053,03b9,03b9,0020,000a,2014,2014,0020,000a,0061,006e,0075,0061,0072,0020,006e,0020,0020,006f,006f,006d,0020,201e,0076,006e,0020,0064,0072,006f,0020,000a,0045,0020,004e,0020,004e,0044,0020,000a,2014,002e,0020,004a,0020,000a,00b7,0020,004e,0061,006d,0061,0020,0064,0079,0020,017f,0079,0070,0020,0079,0072,006f,006e,0020,006e,0020,0069,0064,006e,0073,0020,0065,0020,000a,0045,0020,004e,004a,004e,0045,0020,002e,2014,0020,0020,2014,0020,000a,2014,0020,0020,004e,0020,0045,004e,0045,004a,2014,0020,000a,0057,0020,0064,006e,0020,0064,0079,006e,0020,0064,0079,0020,006e,0020,0061,0072,006d,0020,0079,0020,0072,0020,000a,0076,0020,0035,0020,0076,006f,0073,0020,0075,0064,0074,0064,0052,0070,0020,03c3,03b9,0020,0070,006f,0020,000a,006f,0064,0079,0064,0020,0079,0064,0076,0076,0020,0070,a770,0064,a770,0073,0020,0020,0052,0055,0051,0055,0020,03b9,0020,000a,0045,0020,004e,004e,004a,004a,004a,0020,000a,004a,0070,007a,0074,0020,006e,006d,0020,0070,006e,0020,017f,0070,0070,0020,0064,0079,0020,0070,0020,0050,006f,0070,0020,000a,0064,006f,0073,0020,006f,006e,006c,03b9,03c4,03b9,03c3,0070,0066,0020,0076,0079,006e,0020,0061,03b9,03c4,03b9,0051,0057,0020,0069,0064,0079,0074,0020,000a,0020,004e,004e,004e,004e,004a,002e,0020,000a,0045,0020,004a,004a,004a,004e,0020,004a,0020,000a,0076,0079,006e,0020,006f,006e,0020,0061,0074,0073,0020,0076,0070,0027,0076,006f,0079,0061,0020,0076,0069,0020,0050,0074,0020,000a,0044,0069,0020,0020,0076,0061,0067,0064,0020,0075,0077,0020,0070,006d,03b9,03ad,03c9,0020,000a,2014,0020,000a,006f,006f,0067,006e,0079,007a,0020,0064,006e,0020,0077,0020,006e,0079,03b9,03b9,204a,0020,006e,0079,0076,0061,0020,000a,002e,2014,002e,002e,0020,2014,0020,000a,2014,2014,002e,0020,0020,2014,0020,2014,0020,000a,002e,0020,004a,0020,2014,2014,2014,0020,2014,2014,0020,000a,2014,002e,0020,004e,004e,004a,004a,0020,000a,0057,006f,006e,0070,0072,006e,0079,0068,006e,0020,006f,0020,006f,0020,0061,0020,03b9,0020,000a,0064,006f,0364,0066,0020,0073,0061,0072,0070,0020,0071,006e,0020,0073,0075,006f,0061,006e,0067,0020,000a,0064,006e,0020,0072,0064,0079,006e,0074,007a,0064,0020,0041,0020,0064,0020,017f,0064,0079,006d,0061,0020,0038,0020,000a,0056,0069,0020,0076,0061,0079,0020,03c4,0020,2184,0142,0064,0020,0042,006e,0064,0072,0061,0020,000a,0037,0035,0031,0020,0075,0020,0064,0062,0020,006e,0064,0061,0061,0062,006e,0020,006f,0364,006e,03b9,0020,000a,002e,2014,002e,0020,0020,2014,2014,0020,0020,2014,0020,000a,0045,0020,004e,004e,0020,000a,006f,0020,0064,0065,006e,0067,0020,0076,006f,006f,006e,0020,006e,0020,0020,03b9,03b9,03ad,0020,000a,006e,0061,0020,0070,006f,0064,0020,0064,0069,0020,0061,0020,0076,0079,006e,0020,0056,0020,006e,006e,0020,000a,006e,0070,0020,03c4,03b9,0020,017f,0020,03c0,03b9,0020,03c3,0020,000a,2014,002e,0020,004e,004e,004e,004a,004a,004a,004a,0020,000a,0064,0027,006e,0073,0020,006c,0079,0064,0072,0020,0076,006e,0020,0063,0064,0020,0076,0061,0073,0020,03b9,03c3,03b9,03c9,0020,000a,0032,0020,0020,004e,0061,006e,0020,201e,006e,006e","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןסאַלק","05df,05e1,fb2e,05dc,05e7","ps","0070,0073","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"4","0034","
+VJ Wd nyv s. vaon a bxv Vi 
+— fa5 wnn p p nιέW 
+3 lVrman ſ Sra nyyB 
+z mι","000a,0056,004a,0020,0057,0064,0020,006e,0079,0076,0020,0073,002e,0020,0076,0061,006f,006e,0020,0061,0020,0062,0078,0076,0020,0056,0069,0020,000a,2014,0020,0066,0061,0035,0020,0077,006e,006e,0020,0070,0020,0070,0020,006e,03b9,03ad,0057,0020,000a,0033,0020,006c,0056,0072,006d,0061,006e,0020,017f,0020,0053,0072,0061,0020,006e,0079,0079,0042,0020,000a,007a,0020,006d,03b9","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"צנעדנאָפסעראָק","05e6,05e0,05e2,05d3,05e0,fb2f,05e4,05e1,05e2,05e8,fb2f,05e7","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ײבּ","05f2,fb31","
+E","000a,0045","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"זבּאה","05d6,fb31,05d0,05d4","/ñꝙ˖r","002f,00f1,a759,02d6,0072","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טנעמאמ","05d8,05e0,05e2,05de,05d0,05de","ENe","0045,004e,0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןלאַקאָל","05df,05dc,fb2e,05e7,fb2f,05dc","
+","000a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןוא","05df,05d5,05d0","NJNCFCDTfkikĩi","004e,004a,004e,0043,0046,0043,0044,0054,0066,006b,0069,006b,0129,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טימ","05d8,05d9,05de","","","miss","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"זיבּ","05d6,05d9,fb31","
+lod","000a,006c,006f,0064","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ץנעדיזער","05e5,05e0,05e2,05d3,05d9,05d6,05e2,05e8","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןט","05df,05d8","Ti oun wenm — xviv ybyvvir ni ſoa  mn 
+. MN  J.qlcc  ... 
+dypam 
+— — — — — — 
+— 
+E 
+— E 
+— —  . .U&ß‚5  — Sd*52 
+e 2u59  . . D — 8 da R Cέàq 
+9267 3  pu E  . .XJJ 
+—  .Th!re — lddaxιe M ſpIιzna voο”⸗ dyισ 
+—  — — —  —— E E L — vðn 
+danrao yvov  ιέιν  —  —— E  — — 
+—. —  — ln dwnodaiva ſo Ndoιι, v(ι","0054,0069,0020,006f,0075,006e,0020,0077,0065,006e,006d,0020,2014,0020,0078,0076,0069,0076,0020,0079,0062,0079,0076,0076,0069,0072,0020,006e,0069,0020,017f,006f,0061,0020,0020,006d,006e,0020,000a,002e,0020,004d,004e,0020,0020,004a,002e,0071,006c,0063,0063,0020,0020,002e,002e,002e,0020,000a,0064,0079,0070,0061,006d,0020,000a,2014,0020,2014,0020,2014,0020,2014,0020,2014,0020,2014,0020,000a,0020,0020,0020,0020,0020,0020,0020,0020,000a,2014,0020,000a,0045,0020,000a,2014,0020,0045,0020,000a,2014,0020,2014,0020,0020,002e,0020,002e,0055,0026,00df,201a,0035,0020,0020,2014,0020,0053,0064,002a,0035,0032,0020,000a,0065,0020,0032,0075,0035,0039,0020,0020,002e,0020,002e,0020,0044,0020,2014,0020,0038,0020,0064,0061,0020,0052,0020,0043,03ad,00e0,0071,0020,000a,0039,0032,0036,0037,0020,0033,0020,0020,0070,0075,0020,0045,0020,0020,002e,0020,002e,0058,004a,004a,0020,000a,2014,0020,0020,002e,0054,0068,0021,0072,0065,0020,2014,0020,006c,0064,0064,0061,0078,03b9,0065,0020,004d,0020,017f,0070,0049,03b9,007a,006e,0061,0020,0076,006f,03bf,201d,2e17,0020,0064,0079,03b9,03c3,0020,000a,2014,0020,0020,2014,0020,2014,0020,2014,0020,0020,2014,2014,0020,0045,0020,0045,0020,004c,0020,2014,0020,0076,00f0,006e,0020,000a,0064,0061,006e,0072,0061,006f,0020,0079,0076,006f,0076,0020,0020,03b9,03ad,03b9,03bd,0020,0020,2014,0020,0020,2014,2014,0020,0045,0020,0020,2014,0020,2014,0020,000a,2014,002e,0020,2014,0020,0020,2014,0020,006c,006e,0020,0064,0077,006e,006f,0064,0061,0069,0076,0061,0020,017f,006f,0020,004e,0064,006f,03b9,03b9,002c,0020,0076,0028,03b9","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טנרעלעג","05d8,05e0,05e8,05e2,05dc,05e2,05d2","io","0069,006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"","","npn","006e,0070,006e","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"צשטײד","05e6,05e9,05d8,05f2,05d3","N","004e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ועײמרא","05d5,05e2,05f2,05de,05e8,05d0","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רענאהירעמא","05e8,05e2,05e0,05d0,05d4,05d9,05e8,05e2,05de,05d0","τ¶!","03c4,00b6,0021","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"10","0031,0030","dnn nno no Y¶ ˖n,σeN 
+.  M.JJ 
+.  N  NN/ J 
+—  — 
+VE YVvvo n Ptd dy SdSyn pvvdugnd Wyrarng 8 no 
+U— — 
+— 
+— 
+—. NNNEN NENNMLJ — 
+— .ENDN N . NJ 2u5 
+—. JAẽ —. N/  N NE Vayp 
+dogdvya p ισι ſτιιυqòy yτινI 
+NC.e.NNN NM 
+—  J.I —U 
+—. NXEEJ 
+Vvd ſpymi dyi p dvvaayno 
+M 7l aNf Wando io","0064,006e,006e,0020,006e,006e,006f,0020,006e,006f,0020,0059,00b6,0020,02d6,006e,002c,03c3,0065,004e,0020,000a,002e,0020,0020,004d,002e,004a,004a,0020,000a,0020,002e,0020,004a,004e,0020,004a,004b,0065,004a,004a,004a,004a,004a,0020,000a,002e,0020,0020,004e,0020,0020,004e,004e,002f,0020,004a,0020,000a,2014,0020,0020,2014,0020,000a,0056,0045,0020,0059,0056,0076,0076,006f,0020,006e,0020,0050,0074,0064,0020,0064,0079,0020,0053,0064,0053,0079,006e,0020,0070,0076,0076,0064,0075,0067,006e,0064,0020,0057,0079,0072,0061,0072,006e,0067,0020,0038,0020,006e,006f,0020,000a,0055,2014,0020,2014,0020,000a,2014,0020,000a,2014,0020,000a,2014,002e,0020,004e,004e,004e,0045,004e,0020,004e,0045,004e,004e,004d,004c,004a,0020,2014,0020,000a,2014,0020,002e,0045,004e,0044,004e,0020,004e,0020,002e,0020,004e,004a,0020,0032,0075,0035,0020,000a,2014,002e,0020,004a,0041,1ebd,0020,2014,002e,0020,004e,002f,0020,0020,004e,0020,004e,0045,0020,0056,0061,0079,0070,0020,000a,0064,006f,0067,0064,0076,0079,0061,0020,0070,0020,03b9,03c3,03b9,0020,017f,03c4,03b9,03b9,03c5,0071,00f2,0079,0020,0079,03c4,03b9,03bd,0049,0020,000a,004e,0043,002e,0065,002e,004e,004e,004e,0020,004e,004d,0020,000a,2014,0020,0020,004a,002e,0049,0020,2014,0055,0020,000a,2014,002e,0020,004e,0058,0045,0045,004a,0020,000a,0056,0076,0064,0020,017f,0070,0079,006d,0069,0020,0064,0079,0069,0020,0070,0020,0064,0076,0076,0061,0061,0079,006e,006f,0020,000a,004d,0020,0037,006c,0020,0061,004e,0066,0020,0057,0061,006e,0064,006f,0020,0069,006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"םוצ","05dd,05d5,05e6","NJNJMJJJJJJ","004e,004a,004e,004a,004d,004a,004a,004a,004a,004a,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"עשימאָנאָרטסאַג","05e2,05e9,05d9,05de,fb2f,05e0,fb2f,05e8,05d8,05e1,fb2e,05d2","œ—","0153,2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טכאַמ","05d8,05db,fb2e,05de","
+.","000a,002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"סאלש","05e1,05d0,05dc,05e9","N","004e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעדאָ","05e8,05e2,05d3,fb2f","πινa","03c0,03b9,03bd,0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"עמרוט","05e2,05de,05e8,05d5,05d8","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טימ","05d8,05d9,05de","unorττιν ι nιτι 
+—.. K  EJ 
+n np ovvrpvi 
+7*1 ap ινosι 
+m —— 
+ordr?  vvinma ſosdp  łι 
+yhyua ","0075,006e,006f,0072,03c4,03c4,03b9,03bd,0020,03b9,0020,006e,03b9,03c4,03b9,0020,000a,2014,002e,002e,0020,004b,0020,0020,0045,004a,0020,000a,006e,0020,006e,0070,0020,006f,0076,0076,0072,0070,0076,0069,0020,000a,0037,002a,0031,0020,0061,0070,0020,03b9,03bd,006f,0073,03b9,0020,000a,0020,0072,0072,0020,0075,0020,006e,006f,0020,0076,0076,0076,0061,0020,000a,006d,0020,2014,2014,0020,000a,006f,0072,0064,0072,003f,0020,0020,0076,0076,0069,006e,006d,0061,0020,017f,006f,0073,0064,0070,0020,0020,0142,03b9,0020,000a,0020,2014,0020,000a,0079,0068,0079,0075,0061,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ס�ק","05e1,fffd,05e7","NJNNENNNEJ","004e,004a,004e,004e,0045,004e,004e,004e,0045,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טעטילאַרטײנ","05d8,05e2,05d8,05d9,05dc,fb2e,05e8,05d8,05f2,05e0","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןדײס","05df,05d3,05f2,05e1","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"–","2013","JNNVJJJ","004a,004e,004e,0056,004a,004a,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"4","0034","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טרעװ","05d8,05e8,05e2,05f0","2","0032","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ךעלגנײ","05da,05e2,05dc,05d2,05e0,05f2","vnn n ","0076,006e,006e,0020,006e,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"סןאַלק","05e1,05df,fb2e,05dc,05e7",".—  — 
+ns no ſonoronn ninm von nn 
+d Vyp udvierr ſm vvRτσ 
+dVas „onn pn yn yV 
+dy a7 pyp dpτιν.  ꝛιπιa 
+—.NNN.NE NTJ— 
+nyan Sivogvi  v' na 
+E 
+arp PR loun ſM nu U dayp 
+Veya dya mn  non a y 
+8 nm pt ſvvova yviyBi ο w 
+nn d vv n na Nyon 
+— — Kypu 
+m yp'rdα diynuι 
+lvn n Ppm yn dyn a85 
+E—  TD—JJ nt 
+nnd vvv ſdvm ſopan 
+n d Vooen vyn ndaay 
+Na. rd- ιιέ äι Mαι v 
+E  .f  NJJ 
+dp nna  ταu τιν pyoa 
+— JJNJJJ 
+Jvrnab vyn vvuav 
+Ned u 5 ι nτ σ ι 
+— 
+E  — — 
+dm. dog doxa .σ dpuᷣt aun 
+dnpdaa nn vunmad na oyd 
+—.  — — — 
+Vr ſno at iv na ι ſy⸗ 
+axM- ſvvi 
+Vato dmaa Wet yvam ιιέ 
+VV Vn ioa da n  25* 
+woomm  zysz i :ydya iaσf/ 
+Va lvduvavv pyudva v x 
+Ja a „m prgdm m nn 
+no Svxtsvud vivp n 
+E . — 
+—  NJ J N 
+n in andr i a  τι 
+ya v don any ιVḡò nτιν' 
+dnyn ntz⸗ τß ιt yuY 
+yp","002e,2014,0020,0020,2014,0020,000a,006e,0073,0020,006e,006f,0020,017f,006f,006e,006f,0072,006f,006e,006e,0020,006e,0069,006e,006d,0020,0076,006f,006e,0020,006e,006e,0020,000a,0064,0020,0056,0079,0070,0020,0075,0064,0076,0069,0065,0072,0072,0020,017f,006d,0020,0076,0076,0052,03c4,03c3,0020,000a,0064,0056,0061,0073,0020,201e,006f,006e,006e,0020,0070,006e,0020,0079,006e,0020,0079,0056,0020,000a,0064,0079,0020,0061,0037,0020,0070,0079,0070,0020,0064,0070,03c4,03b9,03bd,002e,0020,0020,a75b,03b9,03c0,03b9,0061,0020,000a,2014,002e,004e,004e,004e,002e,004e,0045,0020,004e,0054,004a,2014,0020,000a,006e,0079,0061,006e,0020,0053,0069,0076,006f,0067,0076,0069,0020,0020,0076,0027,0020,006e,0061,0020,000a,0045,0020,000a,0061,0072,0070,0020,0050,0052,0020,006c,006f,0075,006e,0020,017f,004d,0020,006e,0075,0020,0055,0020,0064,0061,0079,0070,0020,000a,0056,0065,0079,0061,0020,0064,0079,0061,0020,006d,006e,0020,0020,006e,006f,006e,0020,0061,0020,0079,0020,000a,0038,0020,006e,006d,0020,0070,0074,0020,017f,0076,0076,006f,0076,0061,0020,0079,0076,0069,0079,0042,0069,0020,03bf,0020,0077,0020,000a,006e,006e,0020,0064,0020,0076,0076,0020,006e,0020,006e,0061,0020,004e,0079,006f,006e,0020,000a,2014,0020,2014,0020,004b,0079,0070,0075,0020,000a,006d,0020,0079,0070,0027,0072,0064,03b1,0020,0064,0069,0079,006e,0075,03b9,0020,000a,006c,0076,006e,0020,006e,0020,0050,0070,006d,0020,0079,006e,0020,0064,0079,006e,0020,0061,0038,0035,0020,000a,0045,2014,0020,0020,0054,0044,2014,004a,004a,0020,006e,0074,0020,000a,006e,006e,0064,0020,0076,0076,0076,0020,017f,0064,0076,006d,0020,017f,006f,0070,0061,006e,0020,000a,006e,0020,0064,0020,0056,006f,006f,0065,006e,0020,0076,0079,006e,0020,006e,0064,0061,0061,0079,0020,000a,004e,0061,002e,0020,0072,0064,002d,0020,03b9,03b9,03ad,0020,00e4,03b9,0020,004d,03b1,03b9,0020,0076,0020,000a,0045,0020,0020,002e,0066,0020,0020,004e,004a,004a,0020,000a,0064,0070,0020,006e,006e,0061,0020,0020,03c4,03b1,0075,0020,03c4,03b9,03bd,0020,0070,0079,006f,0061,0020,000a,2014,0020,004a,004a,004e,004a,004a,004a,0020,000a,004a,0076,0072,006e,0061,0062,0020,0076,0079,006e,0020,0076,0076,0075,0061,0076,0020,000a,004e,0065,0064,0020,0075,0020,0035,0020,03b9,0020,006e,03c4,0020,03c3,0020,03b9,0020,000a,0020,2014,0020,000a,2014,0020,000a,0045,0020,0020,2014,0020,2014,0020,000a,0064,006d,002e,0020,0064,006f,0067,0020,0064,006f,0078,0061,0020,002e,03c3,0020,0064,0070,0075,1de3,0074,0020,0061,0075,006e,0020,000a,0064,006e,0070,0064,0061,0061,0020,006e,006e,0020,0076,0075,006e,006d,0061,0064,0020,006e,0061,0020,006f,0079,0064,0020,000a,2014,002e,0020,0020,2014,0020,2014,0020,2014,0020,000a,0056,0072,0020,017f,006e,006f,0020,0061,0074,0020,0069,0076,0020,006e,0061,0020,03b9,0020,017f,0079,2e17,0020,000a,0061,0078,004d,002d,0020,017f,0076,0076,0069,0020,000a,0020,0069,006f,0020,03b9,0020,03b1,03b9,0020,03c4,0043,03b1,004f,0020,0064,007a,2e17,0020,000a,0056,0061,0074,006f,0020,0064,006d,0061,0061,0020,0057,0065,0074,0020,0079,0076,0061,006d,0020,03b9,03b9,03ad,0020,000a,0056,0056,0020,0056,006e,0020,0069,006f,0061,0020,0064,0061,0020,006e,0020,0020,0032,0035,002a,0020,000a,0077,006f,006f,006d,006d,0020,0020,007a,0079,0073,007a,0020,0069,0020,003a,0079,0064,0079,0061,0020,0069,0061,03c3,0066,002f,0020,000a,0056,0061,0020,006c,0076,0064,0075,0076,0061,0076,0076,0020,0070,0079,0075,0064,0076,0061,0020,0076,0020,0078,0020,000a,004a,0061,0020,0061,0020,201e,006d,0020,0070,0072,0067,0064,006d,0020,006d,0020,006e,006e,0020,000a,006e,006f,0020,0053,0076,0078,0074,0073,0076,0075,0064,0020,0076,0069,0076,0070,0020,006e,0020,000a,0045,0020,002e,0020,2014,0020,000a,2014,0020,0020,004e,004a,0020,004a,0020,004e,0020,000a,006e,0020,0069,006e,0020,0061,006e,0064,0072,0020,0069,0020,0061,0020,0020,03c4,03b9,0020,000a,0079,0061,0020,0076,0020,0064,006f,006e,0020,0061,006e,0079,0020,03b9,0056,1e21,00f2,0020,006e,03c4,03b9,03bd,0027,0020,000a,0064,006e,0079,006e,0020,006e,0074,007a,2e17,0020,03c4,00df,0020,03b9,0074,0020,0079,0075,0059,0020,000a,0079,0070","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,",עיפאַרגאָנעטס","002c,05e2,05d9,05e4,fb2e,05e8,05d2,fb2f,05e0,05e2,05d8,05e1","ET — ","0045,0054,0020,2014,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"עשיאעפׇארײא","05e2,05e9,05d9,05d0,05e2,05e4,05c7,05d0,05e8,05f2,05d0","— —— —— —  — ","2014,0020,2014,2014,0020,2014,2014,0020,2014,0020,0020,2014,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"זענײז","05d6,05e2,05e0,05f2,05d6","
+—.","000a,2014,002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,",ןלאַקאָל-סגנולײװראַפ","002c,05df,05dc,fb2e,05e7,fb2f,05dc,002d,05e1,05d2,05e0,05d5,05dc,05f2,05f0,05e8,fb2e,05e4","J Mü ","004a,0020,004d,00fc,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעלאַקאָל","05e8,05e2,05dc,fb2e,05e7,fb2f,05dc","NN","004e,004e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןפיוא","05df,05e4,05d9,05d5,05d0","iCTBüI yn „pyas nis vm no ſs ","0069,0043,0054,0042,00fc,0049,0020,0079,006e,0020,201e,0070,0079,0061,0073,0020,006e,0069,0073,0020,0076,006d,0020,006e,006f,0020,017f,0073,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעזײה","05e8,05e2,05d6,05f2,05d4","
+Vsn","000a,0056,0073,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"2","0032"," NEJJJJ — — ","0020,004e,0045,004a,004a,004a,004a,0020,2014,0020,2014,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"","","ι nu B2 ra Sd vd 
+—  — 
+Waodyass n Do Vorz ri e 
+E—  J —— VWnvsonzd 
+— — — ⏑ — — — — — — — 
+pf M d Vanixaup 
+uun at it o  wognga 
+E NNJ 
+Idavd xτιna ι — Ju Mvor 
+orup· vvom. nx amn vv rpe 
+WMunsn- p-. u 
+E J 
+2 5297 5 —  1 
+D-y x Yðd ELNJJJ 
+EJJ 
+— — —— 6 
+—EJJ 
+d3 eu5 — — — Jymayny 
+——.. JJJJJJ —— 
+ſu.a tx ſð Pr aon dσ W  ſdnntorvτι Spu.nsa — 
+—— — deerio yοιd nα nσ/  ̃Wils ſyd 
+..KN öTtꝗ?  JJ —  —  — vda nv 
+ernzhas  t Aud Waydn 8 cn ——  ——— —— 
+DVAeE4 —NNN Jlii : dy  21d559 
+vvusτέicισ on N no r ydysxdv 
+—  — n) —  —  don —— 
+p'vorvrvn KUuennm- vup put 
+vanot3  n dorxovvn — — 
+viva- vnvo obuᷣvac. nnd) nvyn 
+. JJJ — n 
+— — k — — 
+Jgn —— — — 52559 o 
+— — — 
+","03b9,0020,006e,0075,0020,0042,0032,0020,0072,0061,0020,0053,0064,0020,0076,0064,0020,000a,2014,0020,0020,2014,0020,000a,0057,0061,006f,0064,0079,0061,0073,0073,0020,006e,0020,0044,006f,0020,0056,006f,0072,007a,0020,0072,0069,0020,0065,0020,000a,0045,2014,0020,0020,004a,0020,2014,2014,0020,0056,0057,006e,0076,0073,006f,006e,007a,0064,0020,000a,2014,0020,2014,0020,2014,0020,23d1,0020,2014,0020,2014,0020,2014,0020,2014,0020,2014,0020,2014,0020,2014,0020,000a,0020,0020,0020,0020,0020,000a,0020,0020,0020,000a,0020,0020,0020,0020,000a,0070,0066,0020,004d,0020,0064,0020,0056,0061,006e,0069,0078,0061,0075,0070,0020,000a,0020,0020,000a,0075,0075,006e,0020,0061,0074,0020,0069,0074,0020,006f,0020,0020,0077,006f,0067,006e,0067,0061,0020,000a,0045,0020,004e,004e,004a,0020,000a,0049,0064,0061,0076,0064,0020,0078,03c4,03b9,006e,0061,0020,03b9,0020,2014,0020,004a,0075,0020,004d,0076,006f,0072,0020,000a,006f,0072,0075,0070,00b7,0020,0076,0076,006f,006d,002e,0020,006e,0078,0020,0061,006d,006e,0020,0076,0076,0020,0072,0070,0065,0020,000a,0057,004d,0075,006e,0073,006e,002d,0020,0070,002d,002e,0020,0075,0020,000a,0045,0020,004a,0020,000a,0032,0020,0035,0032,0039,0037,0020,0035,0020,2014,0020,0020,0031,0020,000a,0044,002d,0079,0020,0078,0020,0059,00f0,0064,0020,0045,004c,004e,004a,004a,004a,0020,000a,0045,004a,004a,0020,000a,2014,0020,2014,0020,2014,2014,0020,0036,0020,000a,2014,0045,004a,004a,0020,000a,0020,002e,0020,004a,0020,000a,0064,0033,0020,0065,0075,0035,0020,2014,0020,2014,0020,2014,0020,004a,0079,006d,0061,0079,006e,0079,0020,000a,0020,0065,0047,006f,00ab,0070,006c,03b9,03c3,0020,017f,03c4,03b9,0020,03c4,03b9,03ad,006a,006d,03c4,0020,017f,03b9,03b9,03bd,03b9,03bd,0020,0076,0020,0065,0079,0076,0069,006d,0020,0020,0064,03b9,0020,03c3,0020,006f,0072,0064,0074,0065,0020,000a,2014,2014,002e,002e,0020,004a,004a,004a,004a,004a,004a,0020,2014,2014,0020,000a,017f,0075,002e,0061,0020,0074,0078,0020,017f,00f0,0020,0050,0072,0020,0061,006f,006e,0020,0064,03c3,0020,0057,0020,0020,017f,0064,006e,006e,0074,006f,0072,0076,03c4,03b9,0020,0053,0070,0075,002e,006e,0073,0061,0020,2014,0020,000a,2014,2014,0020,2014,0020,0064,0065,0065,0072,0069,006f,0020,0079,03bf,03b9,0064,0020,006e,03b1,0020,006e,03c3,002f,0020,0020,0303,0057,0069,006c,0073,0020,017f,0079,0064,0020,000a,002e,002e,004b,004e,0020,00f6,0054,0074,a757,003f,0020,0020,004a,004a,0020,2014,0020,0020,2014,0020,0020,2014,0020,0076,0064,0061,0020,006e,0076,0020,000a,0065,0072,006e,007a,0068,0061,0073,0020,0020,0074,0020,0041,0075,0064,0020,0057,0061,0079,0064,006e,0020,0038,0020,0063,006e,0020,2014,2014,0020,0020,2014,2014,2014,0020,2014,2014,0020,000a,0044,0056,0041,0065,0045,0034,0020,2014,004e,004e,004e,0020,004a,006c,0069,0069,0020,003a,0020,0064,0079,0020,0020,0032,0031,0064,0035,0035,0039,0020,000a,0076,0076,0075,0073,03c4,03ad,0069,0063,03b9,03c3,0020,006f,006e,0020,004e,0020,006e,006f,0020,0072,0020,0079,0064,0079,0073,0078,0064,0076,0020,000a,2014,0020,0020,2014,0020,006e,0029,0020,2014,0020,0020,2014,0020,0020,0064,006f,006e,0020,2014,2014,0020,000a,0020,0028,0076,006e,006f,0076,0064,006f,0020,0076,006f,0020,0070,0020,006e,03b1,004d,0020,0069,0070,0020,0076,0020,006e,0020,0065,006e,0020,2014,0020,000a,0070,0027,0076,006f,0072,0076,0072,0076,006e,0020,004b,0055,0075,0065,006e,006e,006d,002d,0020,0076,0075,0070,0020,0070,0075,0074,0020,000a,0076,0061,006e,006f,0074,0033,0020,0020,006e,0020,0064,006f,0072,0078,006f,0076,0076,006e,0020,2014,0020,2014,0020,000a,0076,0069,0076,0061,002d,0020,0076,006e,0076,006f,0020,006f,0062,0075,1de3,0076,0061,0063,002e,0020,006e,006e,0064,0029,0020,006e,0076,0079,006e,0020,000a,002e,0020,004a,004a,004a,0020,2014,0020,006e,0020,000a,2014,0020,2014,0020,006b,0020,2014,0020,2014,0020,000a,004a,0067,006e,0020,2014,2014,0020,2014,0020,2014,0020,0035,0032,0035,0035,0039,0020,006f,0020,000a,2014,0020,2014,0020,2014,0020,000a","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טימ","05d8,05d9,05de"," JJ ","0020,004a,004a,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעײז","05e8,05e2,05f2,05d6","N/NN","004e,002f,004e,004e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"?","003f","NJNEJJ","004e,004a,004e,0045,004a,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןסיװ","05df,05e1,05d9,05f0","NE","004e,0045","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעמוז","05e8,05e2,05de,05d5,05d6","
+w","000a,0077","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"םעד","05dd,05e2,05d3","Ju","004a,0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןסרוק","05df,05e1,05e8,05d5,05e7","por","0070,006f,0072","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"עשיטעראָעט","05e2,05e9,05d9,05d8,05e2,05e8,fb2f,05e2,05d8","E","0045","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןוא","05df,05d5,05d0","o","006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"עבּארײא","05e2,fb31,05d0,05e8,05f2,05d0","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"גנערטש","05d2,05e0,05e2,05e8,05d8,05e9","—","2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעד","05e8,05e2,05d3","J","004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"״המחלמ","05f4,05d4,05de,05d7,05dc,05de","(nn","0028,006e,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"עטארדאבּ","05e2,05d8,05d0,05e8,05d3,05d0,fb31","ub","0075,0062","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןגעװ","05df,05d2,05e2,05f0","ima","0069,006d,0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"סנק","05e1,05e0,05e7","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רענײמעגלאַ","05e8,05e2,05e0,05f2,05de,05e2,05d2,05dc,fb2e","E","0045","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןריטנאַראַג","05df,05e8,05d9,05d8,05e0,fb2e,05e8,fb2e,05d2","J","004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טראָק","05d8,05e8,fb2f,05e7","LJ","004c,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טינ ץלאַ ךאָנ ןעמ ןעק סאָד","05d8,05d9,05e0,0020,05e5,05dc,fb2e,0020,05da,fb2f,05e0,0020,05df,05e2,05de,0020,05df,05e2,05e7,0020,05e1,fb2f,05d3","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעד ןופ ןעמאַזקע ןראַפ רע טײטש
+…טלעװ
+יד טעז ןעמ","05e8,05e2,05d3,0020,05df,05d5,05e4,0020,05df,05e2,05de,fb2e,05d6,05e7,05e2,0020,05df,05e8,fb2e,05e4,0020,05e8,05e2,0020,05d8,05f2,05d8,05e9,000a,2026,05d8,05dc,05e2,05f0,000a,05d9,05d3,0020,05d8,05e2,05d6,0020,05df,05e2,05de","..","002e,002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"קיאור","05e7,05d9,05d0,05d5,05e8","..","002e,002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןײז","05df,05f2,05d6","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןאָ","05df,fb2f","ſtmaa","017f,0074,006d,0061,0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"יד","05d9,05d3","
+—","000a,2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"יד","05d9,05d3","NJ.JNJJJ—","004e,004a,002e,004a,004e,004a,004a,004a,2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"קיאור","05e7,05d9,05d0,05d5,05e8","Wvp","0057,0076,0070","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"זיא","05d6,05d9,05d0","N ND.JJJJJ ","004e,0020,004e,0044,002e,004a,004a,004a,004a,004a,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןוא","05df,05d5,05d0","TJJJ","0054,004a,004a,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןופ","05df,05d5,05e4","E","0045","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ילפנאָ","05d9,05dc,05e4,05e0,fb2f","Vver","0056,0076,0065,0072","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"יד","05d9,05d3","na","006e,0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טעװ","05d8,05e2,05f0","dyi","0064,0079,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טימ","05d8,05d9,05de","ioira","0069,006f,0069,0072,0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעד","05e8,05e2,05d3","JJNEJJ","004a,004a,004e,0045,004a,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןענעק","05df,05e2,05e0,05e2,05e7","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,".","002e","","","none","4"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"עטוג","05e2,05d8,05d5,05d2","
+nsdivp","000a,006e,0073,0064,0069,0076,0070","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"זיא","05d6,05d9,05d0","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"לאָבּטופ","05dc,fb2f,fb31,05d8,05d5,05e4","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןיא","05df,05d9,05d0","E","0045","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ךיז","05da,05d9,05d6","ſvod","017f,0076,006f,0064","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ףיוא","05e3,05d9,05d5,05d0","JJ ","004a,004a,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,":","003a","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רערעהוצ","05e8,05e2,05e8,05e2,05d4,05d5,05e6","
+d'nya","000a,0064,0027,006e,0079,0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"זיא","05d6,05d9,05d0","rm","0072,006d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"،זאַמ","060c,05d6,fb2e,05de","—","2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"זאילימ 10 טריזיליכּאמ זיוש
+טײקטײרג־ץוש זענעדראָראַפ זגעװ גנוכאַמטנאַקאַבּ
+סעקאַטאַ־טפול זגעק
+שזאטנאַש םוצ זכאַמ ףוס אַ
+עסערפּ .הירעמאַ טרעדאָפ
+זטסיװרעזער עײנ טפור עיראגלובּ
+יוזאַ יװ
+טדימשדלאָג .ש
+״נײא עליװיצ יד ןופ גנוריאוקװע יד זאַ ,זיראפ ןופ טעדלעמ .בּ .נ .ד
+נײא רעזיר�פ לײט רעסיורנ אַ .פמעט ןלופ ןיא טצעזעגראָפ טרעוו דעניואװ
+״יואװנײא טנזיוט 17 םוראַ .ראַול ןופ טנעמאטראַפעד ןיא סיוראַ ןראָפ רעניואװ
+ישזלאַ ןיא עקירפאַ ןײק ןראָפעגסיוראַ לעסראַמ ךרוד ןענײז זיראַפ ןופ רענ
+.אקאָראַמ ןוא
+עלאַ ףױא ךיז ןקרעמ תונכה-סגירק עקידנעאָרד יד טימ תוכײש ןיא
+רעטרע ךס א ןיא ןוא ןעגנורעטּש עסיורג סעיניל־רעקראַפ עלאַנאָיצאַנרעטניא
+.ןסירעגרעבּיא ןיוש ללכבּ רעקראַפ-ןאַבּנזײא רעד זיא
+עלַאַ טעמכ ןיא תונכה עשירעטילימ עטפאהרעבּיפ
+.רעדנעל עשיאעפּאָרײא
+״סׇׇאמ יד ןיא סׇאװ ,םעד ףיוא טקוקע נטינ .(.צעפס) ,ן ׇא ד נ ׇא ל
+גנונעפׇאה יד ןרׇאלראפ םינ ץלא ךׇאנ ןעמ טׇאה ןזײרק עשיסילׇאפ עקידנבּעג
+״טימ םוטעמוא ןופ טרעװ ,עפארײא ןיא טקילפׇנאק ןטנפׇאװַאבּ ַא ןדײמוצסיוא
+ןגעװ טלײטעג
+ןיא בּיולרוא ןײז ןסירעגרעבּיא מׇאה רעטפיניפ־םנאניפ רענַאקירעמא רעד
+רעלעיצעפס ַא ףיוא ,עקירעמַא ןײק טרעקעגקירוצ קילײא ךיז ןוא עפׇארײא
+.ףיש רעטקישענ םיא ךׇאנ ננורינער רעד ךרוד
+זופ דעדניק ןוא זעיודפ ,םינקז זופ עיצאַוקאווע רעד
+.עילאטיא ויא םרעטנעצ עםיורג יד
+קעװ טאקינומאק א ןואװעג טכעלסנפעראפ זיא פיור ןיא
+יד ןום ךיז ןלעטשפאָ ןוא ןעלמעזעג עטסיזמוא ןדײמסיוא ףראַד ןעמ
+.רעצעלפ עכעלטגפע ןוא ןסאַג ,ןר�וטאָרט יד ףיוא רעײגכרו�
+יד ןיא ,רעזײה-טעבּעג יד ןיא ,ןטמאַ יד ןיא ,סעיצאַטס-ןאַבּ יד ףיוא (ג
+יד וצ ךיז ןסאפוצ","05d6,05d0,05d9,05dc,05d9,05de,0020,0031,0030,0020,05d8,05e8,05d9,05d6,05d9,05dc,05d9,fb3b,05d0,05de,0020,05d6,05d9,05d5,05e9,000a,05d8,05f2,05e7,05d8,05f2,05e8,05d2,05be,05e5,05d5,05e9,0020,05d6,05e2,05e0,05e2,05d3,05e8,fb2f,05e8,fb2e,05e4,0020,05d6,05d2,05e2,05f0,0020,05d2,05e0,05d5,05db,fb2e,05de,05d8,05e0,fb2e,05e7,fb2e,fb31,000a,05e1,05e2,05e7,fb2e,05d8,fb2e,05be,05d8,05e4,05d5,05dc,0020,05d6,05d2,05e2,05e7,000a,05e9,05d6,05d0,05d8,05e0,fb2e,05e9,0020,05dd,05d5,05e6,0020,05d6,05db,fb2e,05de,0020,05e3,05d5,05e1,0020,fb2e,000a,05e2,05e1,05e2,05e8,fb44,0020,002e,05d4,05d9,05e8,05e2,05de,fb2e,0020,05d8,05e8,05e2,05d3,fb2f,05e4,000a,05d6,05d8,05e1,05d9,05f0,05e8,05e2,05d6,05e2,05e8,0020,05e2,05f2,05e0,0020,05d8,05e4,05d5,05e8,0020,05e2,05d9,05e8,05d0,05d2,05dc,05d5,fb31,000a,05d9,05d5,05d6,fb2e,0020,05d9,05f0,000a,05d8,05d3,05d9,05de,05e9,05d3,05dc,fb2f,05d2,0020,002e,05e9,000a,05f4,05e0,05f2,05d0,0020,05e2,05dc,05d9,05f0,05d9,05e6,0020,05d9,05d3,0020,05df,05d5,05e4,0020,05d2,05e0,05d5,05e8,05d9,05d0,05d5,05e7,05f0,05e2,0020,05d9,05d3,0020,05d6,fb2e,0020,002c,05d6,05d9,05e8,05d0,05e4,0020,05df,05d5,05e4,0020,05d8,05e2,05d3,05dc,05e2,05de,0020,002e,fb31,0020,002e,05e0,0020,002e,05d3,000a,05e0,05f2,05d0,0020,05e8,05e2,05d6,05d9,05e8,fffd,05e4,0020,05dc,05f2,05d8,0020,05e8,05e2,05e1,05d9,05d5,05e8,05e0,0020,fb2e,0020,002e,05e4,05de,05e2,05d8,0020,05df,05dc,05d5,05e4,0020,05df,05d9,05d0,0020,05d8,05e6,05e2,05d6,05e2,05d2,05e8,fb2f,05e4,0020,05d8,05e8,05e2,05d5,05d5,0020,05d3,05e2,05e0,05d9,05d5,05d0,05f0,000a,05f4,05d9,05d5,05d0,05f0,05e0,05f2,05d0,0020,05d8,05e0,05d6,05d9,05d5,05d8,0020,0031,0037,0020,05dd,05d5,05e8,fb2e,0020,002e,05e8,fb2e,05d5,05dc,0020,05df,05d5,05e4,0020,05d8,05e0,05e2,05de,05d0,05d8,05e8,fb2e,05e4,05e2,05d3,0020,05df,05d9,05d0,0020,05e1,05d9,05d5,05e8,fb2e,0020,05df,05e8,fb2f,05e4,0020,05e8,05e2,05e0,05d9,05d5,05d0,05f0,000a,05d9,05e9,05d6,05dc,fb2e,0020,05df,05d9,05d0,0020,05e2,05e7,05d9,05e8,05e4,fb2e,0020,05df,05f2,05e7,0020,05df,05e8,fb2f,05e4,05e2,05d2,05e1,05d9,05d5,05e8,fb2e,0020,05dc,05e2,05e1,05e8,fb2e,05de,0020,05da,05e8,05d5,05d3,0020,05df,05e2,05e0,05f2,05d6,0020,05d6,05d9,05e8,fb2e,05e4,0020,05df,05d5,05e4,0020,05e8,05e2,05e0,000a,002e,05d0,05e7,fb2f,05e8,fb2e,05de,0020,05df,05d5,05d0,000a,05e2,05dc,fb2e,0020,05e3,05f1,05d0,0020,05da,05d9,05d6,0020,05df,05e7,05e8,05e2,05de,0020,05ea,05d5,05e0,05db,05d4,002d,05e1,05d2,05d9,05e8,05e7,0020,05e2,05e7,05d9,05d3,05e0,05e2,fb2f,05e8,05d3,0020,05d9,05d3,0020,05d8,05d9,05de,0020,05ea,05d5,05db,05f2,05e9,0020,05df,05d9,05d0,000a,05e8,05e2,05d8,05e8,05e2,0020,05da,05e1,0020,05d0,0020,05df,05d9,05d0,0020,05df,05d5,05d0,0020,05df,05e2,05d2,05e0,05d5,05e8,05e2,fb38,05e9,0020,05e2,05e1,05d9,05d5,05e8,05d2,0020,05e1,05e2,05d9,05e0,05d9,05dc,05be,05e8,05e2,05e7,05e8,fb2e,05e4,0020,05e2,05dc,fb2e,05e0,fb2f,05d9,05e6,fb2e,05e0,05e8,05e2,05d8,05e0,05d9,05d0,000a,002e,05df,05e1,05d9,05e8,05e2,05d2,05e8,05e2,fb31,05d9,05d0,0020,05df,05d9,05d5,05e9,0020,05dc,05dc,05db,fb31,0020,05e8,05e2,05e7,05e8,fb2e,05e4,002d,05df,fb2e,fb31,05e0,05d6,05f2,05d0,0020,05e8,05e2,05d3,0020,05d6,05d9,05d0,000a,05e2,05dc,05b7,fb2e,0020,05d8,05e2,05de,05db,0020,05df,05d9,05d0,0020,05ea,05d5,05e0,05db,05d4,0020,05e2,05e9,05d9,05e8,05e2,05d8,05d9,05dc,05d9,05de,0020,05e2,05d8,05e4,05d0,05d4,05e8,05e2,fb31,05d9,05e4,000a,002e,05e8,05e2,05d3,05e0,05e2,05dc,0020,05e2,05e9,05d9,05d0,05e2,fb44,fb2f,05e8,05f2,05d0,000a,05f4,05e1,05c7,05c7,05d0,05de,0020,05d9,05d3,0020,05df,05d9,05d0,0020,05e1,05c7,05d0,05f0,0020,002c,05dd,05e2,05d3,0020,05e3,05d9,05d5,05d0,0020,05d8,05e7,05d5,05e7,05e2,0020,05e0,05d8,05d9,05e0,0020,002e,0028,002e,05e6,05e2,05e4,05e1,0029,0020,002c,05df,0020,05c7,05d0,0020,05d3,0020,05e0,0020,05c7,05d0,0020,05dc,000a,05d2,05e0,05d5,05e0,05e2,05e4,05c7,05d0,05d4,0020,05d9,05d3,0020,05df,05e8,05c7,05d0,05dc,05e8,05d0,05e4,0020,05dd,05d9,05e0,0020,05e5,05dc,05d0,0020,05da,05c7,05d0,05e0,0020,05df,05e2,05de,0020,05d8,05c7,05d0,05d4,0020,05df,05d6,05f2,05e8,05e7,0020,05e2,05e9,05d9,05e1,05d9,05dc,05c7,05d0,05e4,0020,05e2,05e7,05d9,05d3,05e0,fb31,05e2,05d2,000a,05f4,05d8,05d9,05de,0020,05dd,05d5,05d8,05e2,05de,05d5,05d0,0020,05df,05d5,05e4,0020,05d8,05e8,05e2,05f0,0020,002c,05e2,05e4,05d0,05e8,05f2,05d0,0020,05df,05d9,05d0,0020,05d8,05e7,05d9,05dc,05e4,05c7,05e0,05d0,05e7,0020,05df,05d8,05e0,05e4,05c7,05d0,05f0,05b7,05d0,fb31,0020,05b7,05d0,0020,05df,05d3,05f2,05de,05d5,05e6,05e1,05d9,05d5,05d0,000a,05df,05d2,05e2,05f0,0020,05d8,05dc,05f2,05d8,05e2,05d2,000a,05df,05d9,05d0,0020,fb31,05d9,05d5,05dc,05e8,05d5,05d0,0020,05df,05f2,05d6,0020,05df,05e1,05d9,05e8,05e2,05d2,05e8,05e2,fb31,05d9,05d0,0020,05de,05c7,05d0,05d4,0020,05e8,05e2,05d8,05e4,05d9,05e0,05d9,05e4,05be,05dd,05e0,05d0,05e0,05d9,05e4,0020,05e8,05e2,05e0,05b7,05d0,05e7,05d9,05e8,05e2,05de,05d0,0020,05e8,05e2,05d3,000a,05e8,05e2,05dc,05e2,05d9,05e6,05e2,05e4,05e1,0020,05b7,05d0,0020,05e3,05d9,05d5,05d0,0020,002c,05e2,05e7,05d9,05e8,05e2,05de,05b7,05d0,0020,05df,05f2,05e7,0020,05d8,05e8,05e2,05e7,05e2,05d2,05e7,05d9,05e8,05d5,05e6,0020,05e7,05d9,05dc,05f2,05d0,0020,05da,05d9,05d6,0020,05df,05d5,05d0,0020,05e2,05e4,05c7,05d0,05e8,05f2,05d0,000a,002e,05e3,05d9,05e9,0020,05e8,05e2,05d8,05e7,05d9,05e9,05e2,05e0,0020,05dd,05d9,05d0,0020,05da,05c7,05d0,05e0,0020,05e0,05e0,05d5,05e8,05d9,05e0,05e2,05e8,0020,05e8,05e2,05d3,0020,05da,05e8,05d5,05d3,000a,05d6,05d5,05e4,0020,05d3,05e2,05d3,05e0,05d9,05e7,0020,05df,05d5,05d0,0020,05d6,05e2,05d9,05d5,05d3,05e4,0020,002c,05dd,05d9,05e0,05e7,05d6,0020,05d6,05d5,05e4,0020,05e2,05d9,05e6,05d0,05b7,05d5,05e7,05d0,05d5,05d5,05e2,0020,05e8,05e2,05d3,000a,002e,05e2,05d9,05dc,05d0,05d8,05d9,05d0,0020,05d5,05d9,05d0,0020,05dd,05e8,05e2,05d8,05e0,05e2,05e6,0020,05e2,05dd,05d9,05d5,05e8,05d2,0020,05d9,05d3,000a,05e7,05e2,05f0,0020,05d8,05d0,05e7,05d9,05e0,05d5,05de,05d0,05e7,0020,05d0,0020,05df,05d5,05d0,05f0,05e2,05d2,0020,05d8,05db,05e2,05dc,05e1,05e0,05e4,05e2,05e8,05d0,05e4,0020,05d6,05d9,05d0,0020,05e4,05d9,05d5,05e8,0020,05df,05d9,05d0,000a,05d9,05d3,0020,05df,05d5,05dd,0020,05da,05d9,05d6,0020,05df,05dc,05e2,05d8,05e9,05e4,fb2f,0020,05df,05d5,05d0,0020,05df,05e2,05dc,05de,05e2,05d6,05e2,05d2,0020,05e2,05d8,05e1,05d9,05d6,05de,05d5,05d0,0020,05df,05d3,05f2,05de,05e1,05d9,05d5,05d0,0020,05e3,05e8,fb2e,05d3,0020,05df,05e2,05de,000a,002e,05e8,05e2,05e6,05e2,05dc,05e4,0020,05e2,05db,05e2,05dc,05d8,05d2,05e4,05e2,0020,05df,05d5,05d0,0020,05df,05e1,fb2e,05d2,0020,002c,05df,05e8,fffd,05d5,05d8,fb2f,05e8,05d8,0020,05d9,05d3,0020,05e3,05d9,05d5,05d0,0020,05e8,05e2,05f2,05d2,05db,05e8,05d5,fffd,000a,05d9,05d3,0020,05df,05d9,05d0,0020,002c,05e8,05e2,05d6,05f2,05d4,002d,05d8,05e2,fb31,05e2,05d2,0020,05d9,05d3,0020,05df,05d9,05d0,0020,002c,05df,05d8,05de,fb2e,0020,05d9,05d3,0020,05df,05d9,05d0,0020,002c,05e1,05e2,05d9,05e6,fb2e,05d8,05e1,002d,05df,fb2e,fb31,0020,05d9,05d3,0020,05e3,05d9,05d5,05d0,0020,0028,05d2,000a,05d9,05d3,0020,05d5,05e6,0020,05da,05d9,05d6,0020,05df,05e1,05d0,05e4,05d5,05e6","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"גנוקידײטראַפ-ץושטפול","05d2,05e0,05d5,05e7,05d9,05d3,05f2,05d8,05e8,fb2e,05e4,002d,05e5,05d5,05e9,05d8,05e4,05d5,05dc","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןעגנונעדראָראַפ","05df,05e2,05d2,05e0,05d5,05e0,05e2,05d3,05e8,fb2f,05e8,fb2e,05e4","M U— ","004d,0020,0055,2014,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןא","05df,05d0","ισ","03b9,03c3","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןופ","05df,05d5,05e4","ι¶ιέ/","03b9,00b6,03b9,03ad,002f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"גנורעקלעפאַבּ","05d2,05e0,05d5,05e8,05e2,05e7,05dc,05e2,05e4,fb2e,fb31","v","0076","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןוא","05df,05d5,05d0","
+Cydꝰx","000a,0043,0079,0064,a770,0078","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ראָי","05e8,fb2f,05d9","ddd yanna) 
+* —— py S3 509C C“— 459 
+26- 80 90 
+mi dypaga munn pn lvaanydvsn 
+nrpadm orpra Nyn onmy⸗an 
+JNJ 
+Miei 
+4 vvopdoa in 
+dynEöIED 
+—  — — 
+DDennag v","0064,0064,0064,0020,0079,0061,006e,006e,0061,0029,0020,000a,002a,0020,2014,2014,0020,0070,0079,0020,0053,0033,0020,0035,0030,0039,0043,0020,0043,201c,2014,0020,0034,0035,0039,0020,000a,0032,0036,002d,0020,0038,0030,0020,0039,0030,0020,000a,006d,0069,0020,0064,0079,0070,0061,0067,0061,0020,006d,0075,006e,006e,0020,0070,006e,0020,006c,0076,0061,0061,006e,0079,0064,0076,0073,006e,0020,000a,006e,0072,0070,0061,0064,006d,0020,006f,0072,0070,0072,0061,0020,004e,0079,006e,0020,006f,006e,006d,0079,2e17,0061,006e,0020,000a,004a,004e,004a,0020,000a,004d,0069,0065,0069,0020,000a,0034,0020,0076,0076,006f,0070,0064,006f,0061,0020,0069,006e,0020,000a,0020,0020,000a,0064,0079,006e,0045,00f6,0049,0045,0044,0020,000a,2014,0020,0020,2014,0020,2014,0020,000a,0044,0044,0065,006e,006e,0061,0067,0020,0076","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןופ","05df,05d5,05e4","
+F","000a,0046","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"","","ones a NymM dyn dun","006f,006e,0065,0073,0020,0061,0020,004e,0079,006d,004d,0020,0064,0079,006e,0020,0064,0075,006e","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טנאַה","05d8,05e0,fb2e,05d4","ayss.A","0061,0079,0073,0073,002e,0041","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןאדנאָל","05df,05d0,05d3,05e0,fb2f,05dc","k","006b","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןיא","05df,05d9,05d0","NNJJ.","004e,004e,004a,004a,002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"״ךאַמפאָ","05f4,05da,fb2e,05de,05e4,fb2f","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"עיגלעבּ","05e2,05d9,05d2,05dc,05e2,fb31",".","002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ײהמחלמ
+„ערג","05f2,05d4,05de,05d7,05dc,05de,000a,201e,05e2,05e8,05d2","Kf¶","004b,0066,00b6","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןבּײה","05df,fb31,05f2,05d4","
+Vvyyn","000a,0056,0076,0079,0079,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"","","dyn dyyxpð ydrr nu Nyπσ σν 
+p n pu dagd vν xτι ſu 
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"יד","05d9,05d3","58eι","0035,0038,0065,03b9","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןאדנאל","05df,05d0,05d3,05e0,05d0,05dc","Iv Dvapt nꝰ J—  — ","0049,0076,0020,0044,0076,0061,0070,0074,0020,006e,a770,0020,004a,2014,0020,0020,2014,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןופ","05df,05d5,05e4","—","2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןסאָלשראַפ","05df,05e1,fb2f,05dc,05e9,05e8,fb2e,05e4","ANi","0041,004e,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ײבּ","05f2,fb31","ει).","03b5,03b9,0029,002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןאָיאר","05df,fb2f,05d9,05d0,05e8","ſ1","017f,0031","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעד","05e8,05e2,05d3","m","006d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעריפנאָ","05e8,05e2,05e8,05d9,05e4,05e0,fb2f","NCÄ.c.;i","004e,0043,00c4,002e,0063,002e,003b,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןסאָלשעג","05df,05e1,fb2f,05dc,05e9,05e2,05d2","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןיא","05df,05d9,05d0","
+ENNJENTEETKMJ","000a,0045,004e,004e,004a,0045,004e,0054,0045,0045,0054,004b,004d,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןיא","05df,05d9,05d0","N JNJJJJ ","004e,0020,004a,004e,004a,004a,004a,004a,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןליפּש","05df,05dc,05d9,fb44,05e9","
+n","000a,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןבּלעז","05df,fb31,05dc,05e2,05d6","JJJ","004a,004a,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןקידײטראפ","05df,05e7,05d9,05d3,05f2,05d8,05e8,05d0,05e4","NNNJNDJJJJJ","004e,004e,004e,004a,004e,0044,004a,004a,004a,004a,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןשיזיוצנארפ","05df,05e9,05d9,05d6,05d9,05d5,05e6,05e0,05d0,05e8,05e4","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"םידומל","05dd,05d9,05d3,05d5,05de,05dc","zSynt","007a,0053,0079,006e,0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"שיראַטאגילבּאַ","05e9,05d9,05e8,fb2e,05d8,05d0,05d2,05d9,05dc,fb31,fb2e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ךרוד","05da,05e8,05d5,05d3","dyn","0064,0079,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ועגנונעפאה","05d5,05e2,05d2,05e0,05d5,05e0,05e2,05e4,05d0,05d4","—","2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןענאַגראָ","05df,05e2,05e0,fb2e,05d2,05e8,fb2f","
+J","000a,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טינ","05d8,05d9,05e0","onom","006f,006e,006f,006d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןצונאבּ","05df,05e6,05d5,05e0,05d0,fb31","nlταZn","006e,006c,03c4,03b1,005a,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"פעד","05e4,05e2,05d3","E","0045","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,",זײװכעלסיבּ","002c,05d6,05f2,05f0,05db,05e2,05dc,05e1,05d9,fb31","„yn","201e,0079,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעד
+טכאַמ","05e8,05e2,05d3,000a,05d8,05db,fb2e,05de","F","0046","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעװיטאַרטסינימדאַ רעװאָטאיװאָפּ
+״ײצ עשילגנע יד ןכ�מ סע עכלעװ ,קיטסיטאַטס רעשיראָזיװאַרבּ אַ ןופ
+זאַ ,סיור� ךיז טזײװ ,ןעגנוט
+״אָה ,ץײװש יװ ,רעדנעל עלאַרטײנ עכלעזאַ וליפאַ זאַ ,ןאָ ןעמ טזײװ ײבּרעד
+וצ רעסעבּ ידכ ,תוחוכ ערעײז טריזיליבּאָמ ןבּאַה קראַמענעד ןוא עיגלעבּ ,דנאַל
+״עפאָרײא עלאַ ןופ טפלעה אַ יװ רעמ","05e8,05e2,05f0,05d9,05d8,fb2e,05e8,05d8,05e1,05d9,05e0,05d9,05de,05d3,fb2e,0020,05e8,05e2,05f0,fb2f,05d8,05d0,05d9,05f0,fb2f,fb44,000a,05f4,05f2,05e6,0020,05e2,05e9,05d9,05dc,05d2,05e0,05e2,0020,05d9,05d3,0020,05df,05db,fffd,05de,0020,05e1,05e2,0020,05e2,05db,05dc,05e2,05f0,0020,002c,05e7,05d9,05d8,05e1,05d9,05d8,fb2e,05d8,05e1,0020,05e8,05e2,05e9,05d9,05e8,fb2f,05d6,05d9,05f0,fb2e,05e8,fb31,0020,fb2e,0020,05df,05d5,05e4,000a,05d6,fb2e,0020,002c,05e1,05d9,05d5,05e8,fffd,0020,05da,05d9,05d6,0020,05d8,05d6,05f2,05f0,0020,002c,05df,05e2,05d2,05e0,05d5,05d8,000a,05f4,fb2f,05d4,0020,002c,05e5,05f2,05f0,05e9,0020,05d9,05f0,0020,002c,05e8,05e2,05d3,05e0,05e2,05dc,0020,05e2,05dc,fb2e,05e8,05d8,05f2,05e0,0020,05e2,05db,05dc,05e2,05d6,fb2e,0020,05d5,05dc,05d9,05e4,fb2e,0020,05d6,fb2e,0020,002c,05df,fb2f,0020,05df,05e2,05de,0020,05d8,05d6,05f2,05f0,0020,05f2,fb31,05e8,05e2,05d3,000a,05d5,05e6,0020,05e8,05e2,05e1,05e2,fb31,0020,05d9,05d3,05db,0020,002c,05ea,05d5,05d7,05d5,05db,0020,05e2,05e8,05e2,05f2,05d6,0020,05d8,05e8,05d9,05d6,05d9,05dc,05d9,fb31,fb2f,05de,0020,05df,fb31,fb2e,05d4,0020,05e7,05e8,fb2e,05de,05e2,05e0,05e2,05d3,0020,05df,05d5,05d0,0020,05e2,05d9,05d2,05dc,05e2,fb31,0020,002c,05d3,05e0,fb2e,05dc,000a,05f4,05e2,05e4,fb2f,05e8,05f2,05d0,0020,05e2,05dc,fb2e,0020,05df,05d5,05e4,0020,05d8,05e4,05dc,05e2,05d4,0020,fb2e,0020,05d9,05f0,0020,05e8,05e2,05de","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןיוש","05df,05d9,05d5,05e9","dyps-von","0064,0079,0070,0073,002d,0076,006f,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טאָה","05d8,fb2f,05d4","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טציא","05d8,05e6,05d9,05d0","w Vn nya Pt wzgnga ſayn ſod 
+dydkrrg · vdyz yp rpro 
+441929382944 
+o Mon  xxos u oι  mισ1αι yaισmk ,hnsn 582 
+. ","0077,0020,0056,006e,0020,006e,0079,0061,0020,0050,0074,0020,0077,007a,0067,006e,0067,0061,0020,017f,0061,0079,006e,0020,017f,006f,0064,0020,000a,0064,0079,0064,006b,0072,0072,0067,0020,00b7,0020,0076,0064,0079,007a,0020,0079,0070,0020,0072,0070,0072,006f,0020,000a,0034,0034,0031,0039,0032,0039,0033,0038,0032,0039,0034,0034,0020,000a,006f,0020,004d,006f,006e,0020,0020,0078,0078,006f,0073,0020,0075,0020,006f,03b9,0020,0020,006d,03b9,03c3,0031,03b1,03b9,0020,0079,0061,03b9,03c3,006d,006b,0020,002c,0068,006e,0073,006e,0020,0035,0038,0032,0020,000a,002e,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טליפ","05d8,05dc,05d9,05e4","—..NNENrK","2014,002e,002e,004e,004e,0045,004e,0072,004b","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"לײװרעד","05dc,05f2,05f0,05e8,05e2,05d3","v","0076","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןופ
+יאלפיד","05df,05d5,05e4,000a,05d9,05d0,05dc,05e4,05d9,05d3","JJJ","004a,004a,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןקיזאד ןופ אצ’ו-לעופּ רעד
+״רעכעלשטנעמ„ א ףיוא ןושל ןשיטאַמ
+:אזא זיא ךארפש
+ןשײרגנאָ לאָז דנאלשםײד ,לשמל ,בּיוא
+ןטכארטאבּ דנאלגנע טע מעװ ,עיגלעבּ
+ןליופ ןוא ריא ראפ גנואארדאבּ סלא
+„קאמ םעד ןבּעג ריא ןזומ ףכית טעװ","05df,05e7,05d9,05d6,05d0,05d3,0020,05df,05d5,05e4,0020,05d0,05e6,2019,05d5,002d,05dc,05e2,05d5,fb44,0020,05e8,05e2,05d3,000a,05f4,05e8,05e2,05db,05e2,05dc,05e9,05d8,05e0,05e2,05de,201e,0020,05d0,0020,05e3,05d9,05d5,05d0,0020,05df,05d5,05e9,05dc,0020,05df,05e9,05d9,05d8,fb2e,05de,000a,003a,05d0,05d6,05d0,0020,05d6,05d9,05d0,0020,05da,05d0,05e8,05e4,05e9,000a,05df,05e9,05f2,05e8,05d2,05e0,fb2f,0020,05dc,fb2f,05d6,0020,05d3,05e0,05d0,05dc,05e9,05dd,05f2,05d3,0020,002c,05dc,05e9,05de,05dc,0020,002c,fb31,05d9,05d5,05d0,000a,05df,05d8,05db,05d0,05e8,05d8,05d0,fb31,0020,05d3,05e0,05d0,05dc,05d2,05e0,05e2,0020,05d8,05e2,0020,05de,05e2,05f0,0020,002c,05e2,05d9,05d2,05dc,05e2,fb31,000a,05df,05dc,05d9,05d5,05e4,0020,05df,05d5,05d0,0020,05e8,05d9,05d0,0020,05e8,05d0,05e4,0020,05d2,05e0,05d5,05d0,05d0,05e8,05d3,05d0,fb31,0020,05e1,05dc,05d0,000a,201e,05e7,05d0,05de,0020,05dd,05e2,05d3,0020,05df,fb31,05e2,05d2,0020,05e8,05d9,05d0,0020,05df,05d6,05d5,05de,0020,05e3,05db,05d9,05ea,0020,05d8,05e2,05f0","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"וצ","05d5,05e6","—","2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןופ עזײר חעש א
+דגאלשטײד בּיוא :עטיבּ ?קיגאל ","05df,05d5,05e4,0020,05e2,05d6,05f2,05e8,0020,05d7,05e2,05e9,0020,05d0,000a,05d3,05d2,05d0,05dc,05e9,05d8,05f2,05d3,0020,fb31,05d9,05d5,05d0,0020,003a,05e2,05d8,05d9,fb31,0020,003f,05e7,05d9,05d2,05d0,05dc,0020","“N","201c,004e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"יד","05d9,05d3","naypya ra Jda doͤn daͤnn Ve nd ydoov ","006e,0061,0079,0070,0079,0061,0020,0072,0061,0020,004a,0064,0061,0020,0064,006f,0364,006e,0020,0064,0061,0364,006e,006e,0020,0056,0065,0020,006e,0064,0020,0079,0064,006f,006f,0076,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעבּמעטפּעס","05e8,05e2,fb31,05de,05e2,05d8,fb44,05e2,05e1","dn ydvyn — 1ndx  das — 25259  M Vn n 
+—  JE J E— dιιισι 
+E N o a2ypsvvBa ι NE — 
+caua pu ſuι yzιοσ¶⁊ lgmů˖nrßπG vyn 
+— 
+do MVrvyo vva doM xvRa73 
+.NNJJJNJJJJ 
+. .D 
+553 ſonva vno τσ D·—lpinngꝰ -nſσ ιέ nt auιιτιέeu 
+ann pm ſovm. ua ιέσ 
+— 
+78 —8 
+vpnexamn asa mpι.πισι 
+E. J„..  J J 
+— EJJJ 
+. NNJNV 
+—— —  — 
+— 
+EJJ 
+..  JT 
+E  — n5 
+dyrroτι 8 ιισ ι ̃ 
+WL— 
+den n  ρ ꝙorũ 
+ſynd  ng n 
+—. — 
+an 
+Wo ſpm yyz ve dpn ſodn 
+— EK C — 
+a53 v3u92n Vas 5 uea 
+53 E 2p Rσ τσ vn ισm 
+—  I. L 
+—  ̃:ihſ — 
+Hon — yvrnga nn vin — 5p 
+u93 on n5 
+nenn durns a d ιτà; ZM 
+den y pn dyrd pyp nyn dy 
+nda ypzo ne vvyian la-r 
+da 
+9ëCë τσ po iισ ιꝝ ã/ uSSέ 
+pRx det n Wazvp dat vviRdvR 
+Mand pvp  nιςV 
+—U— JJNJJ 
+yns u Fyn vyus dusynm 
+— EC 
+—  N  TETET— 
+a x duͤn der an⸗ ſpnsn ſu 
+uuu „ſdyn a ſto n Hax 
+Jð ntz? van sa Fah dyn yvaun 
+Noa o mya 
+auuderp Vya no ſvprd 
+—  J JJ 
+ddno ſo na. vιð ſu ſaινι 
+p urrn n vduvya ſo n 
+Nznya ſvgividvv t.ι pιιτσι 
+is „myotzu ſo pn ιBſ τσσ 
+e dex rrpm n vyn xtsaay 
+NJN . 
+dinaa ſ id hHyp aιι ιεέ 
+panad ſ idaoo  d a 
+—. JJ 
+V Poonen vn oi ne vop 
+—  l 
+J m ſe aunzam faun ιν M 
+E  JNJ 
+Pit lvavd d nvv Za pn Huna 
+a 59 Vn i 
+ve mnnen yor nt ιιι 
+Vodyn dtzn v vnngι ł/ 
+wazp ydvn nm v vpto muꝛ 
+ENENN EJ — — 
+nu ſynpaa  h ι vτέ« 
+— —— —  — — 
+vyn yn go  ib pu uu5339 nyd 
+a Ynn vvd dyi Nypovavn dy 
+V nara odet  d pser lyn 
+nvd 1.vu yvu viun pn don 
+— —— ——  — 11 —— 
+— 
+oyn 
+vm ſynf ppun  ſvarss pn 
+—. JJN 
+ENJJJJ 
+ſyn vrud vm ſn dur vvpyi 
+ETEE 
+a rdy Vn ſi da pR ιν 
+—  — 
+82 93 Pi vioy dvon puv 
+—  J 
+ni ſondenn r on ſxv 
+yonoo var  xzzr t 
+EN EF .J 
+nu  mwyrna d y ſu Jui 
+nnyva nars 
+ENN ENT 
+—  . 
+— — l —  — 
+—. J J.; i  EN TJJ 
+—  —  ⏑ — t᷑ p — ","0064,006e,0020,0079,0064,0076,0079,006e,0020,2014,0020,0031,006e,0064,0078,0020,0020,0064,0061,0073,0020,2014,0020,0032,0035,0032,0035,0039,0020,0020,004d,0020,0056,006e,0020,006e,0020,000a,2014,0020,0020,004a,0045,0020,004a,0020,0045,2014,0020,0064,03b9,03b9,03b9,03c3,03b9,0020,000a,0045,0020,004e,0020,006f,0020,0061,0032,0079,0070,0073,0076,0076,0042,0061,0020,03b9,0020,004e,0045,0020,2014,0020,000a,0063,0061,0075,0061,0020,0070,0075,0020,017f,0075,03b9,0020,0079,007a,03b9,03bf,03c3,00b6,204a,0020,006c,0067,006d,016f,02d6,006e,0072,00df,03c0,0047,0020,0076,0079,006e,0020,000a,2014,0020,000a,0064,006f,0020,004d,0056,0072,0076,0079,006f,0020,0076,0076,0061,0020,0064,006f,004d,0020,0078,0076,0052,0061,0037,0033,0020,000a,002e,004e,004e,004a,004a,004a,004e,004a,004a,004a,004a,0020,000a,002e,0020,002e,0044,0020,000a,0035,0035,0033,0020,017f,006f,006e,0076,0061,0020,0076,006e,006f,0020,03c4,03c3,0020,0044,00b7,2014,006c,0070,0069,006e,006e,0067,a770,0020,002d,006e,017f,03c3,0020,03b9,03ad,0020,006e,0074,0020,0061,0075,03b9,03b9,03c4,03b9,03ad,0065,0075,0020,000a,0061,006e,006e,0020,0070,006d,0020,017f,006f,0076,006d,002e,0020,0075,0061,0020,03b9,03ad,03c3,0020,000a,2014,0020,000a,0037,0038,0020,2014,0038,0020,000a,0020,0020,000a,0076,0070,006e,0065,0078,0061,006d,006e,0020,0061,0073,0061,0020,006d,0070,03b9,002e,03c0,03b9,03c3,03b9,0020,000a,0045,002e,0020,004a,201e,002e,002e,0020,0020,004a,0020,004a,0020,000a,2014,0020,0045,004a,004a,004a,0020,000a,002e,0020,004e,004e,004a,004e,0056,0020,000a,2014,2014,0020,2014,0020,0020,2014,0020,000a,2014,0020,000a,0045,004a,004a,0020,000a,002e,002e,0020,0020,004a,0054,0020,000a,0045,0020,0020,2014,0020,006e,0035,0020,000a,0064,0079,0072,0072,006f,03c4,03b9,0020,0038,0020,03b9,03b9,03c3,0020,03b9,0020,0303,0020,000a,0057,004c,2014,0020,000a,0020,0020,000a,0064,0065,006e,0020,006e,0020,0020,03c1,0020,a759,006f,0072,0169,0020,000a,017f,0079,006e,0064,0020,0020,006e,0067,0020,006e,0020,000a,2014,002e,0020,2014,0020,000a,0020,0072,0075,006e,0020,000a,0061,006e,0020,000a,0057,006f,0020,017f,0070,006d,0020,0079,0079,007a,0020,0076,0065,0020,0064,0070,006e,0020,017f,006f,0064,006e,0020,000a,2014,0020,0045,004b,0020,0043,0020,2014,0020,000a,0061,0035,0033,0020,0076,0033,0075,0039,0032,006e,0020,0056,0061,0073,0020,0035,0020,0075,0065,0061,0020,000a,0035,0033,0020,0045,0020,0032,0070,0020,0052,03c3,0020,03c4,03c3,0020,0076,006e,0020,03b9,03c3,006d,0020,000a,2014,0020,0020,0049,002e,0020,004c,0020,000a,2014,0020,0020,0303,003a,0069,0068,017f,0020,2014,0020,000a,0048,006f,006e,0020,2014,0020,0079,0076,0072,006e,0067,0061,0020,006e,006e,0020,0076,0069,006e,0020,2014,0020,0035,0070,0020,000a,0075,0039,0033,0020,006f,006e,0020,006e,0035,0020,000a,006e,0065,006e,006e,0020,0064,0075,0072,006e,0073,0020,0061,0020,0064,0020,03b9,03c4,00e0,003b,0020,005a,004d,0020,000a,0064,0065,006e,0020,0079,0020,0070,006e,0020,0064,0079,0072,0064,0020,0070,0079,0070,0020,006e,0079,006e,0020,0064,0079,0020,000a,006e,0064,0061,0020,0079,0070,007a,006f,0020,006e,0065,0020,0076,0076,0079,0069,0061,006e,0020,006c,0061,002d,0072,0020,000a,0064,0061,0020,000a,0039,00eb,0043,00eb,0020,03c4,03c3,0020,0070,006f,0020,0069,03b9,03c3,0020,03b9,a75d,0020,00e3,002f,0020,0075,0053,0053,03ad,0020,000a,0070,0052,0078,0020,0064,0065,0074,0020,006e,0020,0057,0061,007a,0076,0070,0020,0064,0061,0074,0020,0076,0076,0069,0052,0064,0076,0052,0020,000a,004d,0061,006e,0064,0020,0070,0076,0070,0020,0020,006e,03b9,03c2,0056,0020,000a,2014,0055,2014,0020,004a,004a,004e,004a,004a,0020,000a,0079,006e,0073,0020,0075,0020,0046,0079,006e,0020,0076,0079,0075,0073,0020,0064,0075,0073,0079,006e,006d,0020,000a,2014,0020,0045,0043,0020,000a,2014,0020,0020,004e,0020,0020,0054,0045,0054,0045,0054,2014,0020,000a,0061,0020,0078,0020,0064,0075,0364,006e,0020,0064,0065,0072,0020,0061,006e,2e17,0020,017f,0070,006e,0073,006e,0020,017f,0075,0020,000a,0075,0075,0075,0020,201e,017f,0064,0079,006e,0020,0061,0020,017f,0074,006f,0020,006e,0020,0048,0061,0078,0020,000a,004a,00f0,0020,006e,0074,007a,003f,0020,0076,0061,006e,0020,0073,0061,0020,0046,0061,0068,0020,0064,0079,006e,0020,0079,0076,0061,0075,006e,0020,000a,004e,006f,0061,0020,006f,0020,006d,0079,0061,0020,000a,0061,0075,0075,0064,0065,0072,0070,0020,0056,0079,0061,0020,006e,006f,0020,017f,0076,0070,0072,0064,0020,000a,0020,0079,0076,0076,0061,0079,0020,0059,0064,0076,006d,0061,0020,006e,0020,006e,0064,0020,017f,0070,0069,0076,0069,0020,000a,2014,0020,0020,004a,0020,004a,004a,0020,000a,0064,0064,006e,006f,0020,017f,006f,0020,006e,0061,002e,0020,0076,03b9,00f0,0020,017f,0075,0020,017f,0061,03b9,03bd,03b9,0020,000a,0070,0020,0075,0072,0072,006e,0020,006e,0020,0076,0064,0075,0076,0079,0061,0020,017f,006f,0020,006e,0020,000a,004e,007a,006e,0079,0061,0020,017f,0076,0067,0069,0076,0069,0064,0076,0076,0020,0074,002e,03b9,0020,0070,03b9,03b9,03c4,03c3,03b9,0020,000a,0069,0073,0020,201e,006d,0079,006f,0074,007a,0075,0020,017f,006f,0020,0070,006e,0020,03b9,0042,017f,0020,03c4,03c3,03c3,0020,000a,0065,0020,0064,0065,0078,0020,0072,0072,0070,006d,0020,006e,0020,0076,0079,006e,0020,0078,0074,0073,0061,0061,0079,0020,000a,004e,004a,004e,0020,002e,0020,000a,0064,0069,006e,0061,0061,0020,017f,0020,0069,0064,0020,0068,0048,0079,0070,0020,0061,03b9,03b9,0020,03b9,03b5,03ad,0020,000a,0070,0061,006e,0061,0064,0020,017f,0020,0069,0064,0061,006f,006f,0020,0020,0064,0020,0061,0020,000a,2014,002e,0020,004a,004a,0020,000a,0056,0020,0050,006f,006f,006e,0065,006e,0020,0076,006e,0020,006f,0069,0020,006e,0065,0020,0076,006f,0070,0020,000a,2014,0020,0020,006c,0020,000a,004a,0020,006d,0020,017f,0065,0020,0061,0075,006e,007a,0061,006d,0020,0066,0061,0075,006e,0020,03b9,03bd,0020,004d,0020,000a,0045,0020,0020,004a,004e,004a,0020,000a,0050,0069,0074,0020,006c,0076,0061,0076,0064,0020,0064,0020,006e,0076,0076,0020,005a,0061,0020,0070,006e,0020,0048,0075,006e,0061,0020,000a,0061,0020,0035,0039,0020,0056,006e,0020,0069,0020,000a,0076,0065,0020,006d,006e,006e,0065,006e,0020,0079,006f,0072,0020,006e,0074,0020,03b9,03b9,03b9,0020,000a,0056,006f,0064,0079,006e,0020,0064,0074,007a,006e,0020,0076,0020,0076,006e,006e,0067,03b9,0020,0142,002f,0020,000a,0077,0061,007a,0070,0020,0079,0064,0076,006e,0020,006e,006d,0020,0076,0020,0076,0070,0074,006f,0020,006d,0075,a75b,0020,000a,0045,004e,0045,004e,004e,0020,0045,004a,0020,2014,0020,2014,0020,000a,006e,0075,0020,017f,0079,006e,0070,0061,0061,0020,0020,0068,0020,03b9,0020,0076,03c4,03ad,00ab,0020,000a,2014,0020,2014,2014,0020,2014,0020,0020,2014,0020,2014,0020,000a,0076,0079,006e,0020,0079,006e,0020,0067,006f,0020,0020,0069,0062,0020,0070,0075,0020,0075,0075,0035,0033,0033,0039,0020,006e,0079,0064,0020,000a,0061,0020,0059,006e,006e,0020,0076,0076,0064,0020,0064,0079,0069,0020,004e,0079,0070,006f,0076,0061,0076,006e,0020,0064,0079,0020,000a,0056,0020,006e,0061,0072,0061,0020,006f,0064,0065,0074,0020,0020,0064,0020,0070,0073,0065,0072,0020,006c,0079,006e,0020,000a,006e,0076,0064,0020,0031,002e,0076,0075,0020,0079,0076,0075,0020,0076,0069,0075,006e,0020,0070,006e,0020,0064,006f,006e,0020,000a,2014,0020,2014,2014,0020,2014,2014,0020,0020,2014,0020,0031,0031,0020,2014,2014,0020,000a,2014,0020,000a,006f,0079,006e,0020,000a,0076,006d,0020,017f,0079,006e,0066,0020,0070,0070,0075,006e,0020,0020,017f,0076,0061,0072,0073,0073,0020,0070,006e,0020,000a,2014,002e,0020,004a,004a,004e,0020,000a,0045,004e,004a,004a,004a,004a,0020,000a,017f,0079,006e,0020,0076,0072,0075,0064,0020,0076,006d,0020,017f,006e,0020,0064,0075,0072,0020,0076,0076,0070,0079,0069,0020,000a,0045,0054,0045,0045,0020,000a,0061,0020,0072,0064,0079,0020,0056,006e,0020,017f,0069,0020,0064,0061,0020,0070,0052,0020,03b9,03bd,0020,000a,2014,0020,0020,2014,0020,000a,0038,0032,0020,0039,0033,0020,0050,0069,0020,0076,0069,006f,0079,0020,0064,0076,006f,006e,0020,0070,0075,0076,0020,000a,2014,0020,0020,004a,0020,000a,006e,0069,0020,017f,006f,006e,0064,0065,006e,006e,0020,0072,0020,006f,006e,0020,017f,0078,0076,0020,000a,0079,006f,006e,006f,006f,0020,0076,0061,0072,0020,0020,0078,007a,007a,0072,0020,0074,0020,000a,0045,004e,0020,0045,0046,0020,002e,004a,0020,000a,006e,0075,0020,0020,006d,0077,0079,0072,006e,0061,0020,0064,0020,0079,0020,017f,0075,0020,004a,0075,0069,0020,000a,006e,006e,0079,0076,0061,0020,006e,0061,0072,0073,0020,000a,0045,004e,004e,0020,0045,004e,0054,0020,000a,2014,0020,0020,002e,0020,000a,2014,0020,2014,0020,006c,0020,2014,0020,0020,2014,0020,000a,2014,002e,0020,004a,0020,004a,002e,003b,0020,0069,0020,0020,0045,004e,0020,0054,004a,004a,0020,000a,2014,0020,0020,2014,0020,0020,23d1,0020,2014,0020,0074,1dd1,0020,0070,0020,2014,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"(1","0028,0031","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןשרעחאַבּ","05df,05e9,05e8,05e2,05d7,fb2e,fb31","— bι 281 ","2014,0020,0062,03b9,0020,0032,0038,0031,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"עםוג","05e2,05dd,05d5,05d2","—","2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"עלאַקאָל","05e2,05dc,fb2e,05e7,fb2f,05dc","NJJJXLJJ","004e,004a,004a,004a,0058,004c,004a,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעבּאָ","05e8,05e2,fb31,fb2f","Twi","0054,0077,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןופ","05df,05d5,05e4","amp","0061,006d,0070","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןיא","05df,05d9,05d0","—","2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעדאָ","05e8,05e2,05d3,fb2f","vps","0076,0070,0073","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןענײז","05df,05e2,05e0,05f2,05d6","ſnyp","017f,006e,0079,0070","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טעטיזעװרענ","05d8,05e2,05d8,05d9,05d6,05e2,05f0,05e8,05e2,05e0","FJ","0046,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טײג","05d8,05f2,05d2","nι","006e,03b9","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ףליה","05e3,05dc,05d9,05d4","
+N.NNNETJJJJ","000a,004e,002e,004e,004e,004e,0045,0054,004a,004a,004a,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"םומיט
+.עמיל עגונבּ לח ךיוא זיא עבּלעז סאָד
+.1939 טםוגװא ןמ-26 םעד ,ןאָדנאָל
+ןוא תורוש עקיזאד יד בּײרש ךיא
+ןלעװ ײז יצ סײװ רעװ :ײפרעד טכארמ
+ןעמוקנאָ ןלעװ ײז תעשבּ ,ןיז אַ ןבּאָה
+?ססאָפ-טפול ךװד וליפאָ ,עיצקאַדער ןיא
+ןעזסיוא עטװ טלעװ יד יװ סײװ רעװ
+ךאָנ טעװ סע יצ ,סײװ רעװ ןוא ?ןגראָמ
+יד תעשבּ ,מסאָפ-טפול עלאמראָנ א ןײז
+„טסאָפּ ןיא ןגיל ןלעױ תורוש עקיזאָד
+ךאָנ ןעמ טפאָה לײװרעד רעבּאָ ?לטסעק
+…ץלאַ
+גנובּאפש יד ,ךיז סכוד ,טאָה טנײה
+סעפּע .טקנופ-עיצאנימלוק ריא טכײרגרעד
+טבּשל ,ןעשעג ןנראָמרעבּיא-ןגיאָמ זומ
+.ןײג טינ סע ןעק רטײװ יוזאַ .דסחל וא
+ןהעש יד ןיא אקװד :קידריװקרעמ ןוא
+„נאָל ןיא טסקאַװ גנונאַפּש רעטסכעה ןופ
+„רעד טינ טעװ סע זאַ ,ןבּױלג רעד ןאָד
+טוג רעײז .עפאָטםטאָק ןײק וצ ןײג
+,טסעפ ןלעטש רעקיטילאפ עטרימראָפניא
+ןבּיוהנאָ טיג ןפוא םושבּ ליװ רעלטיה זאַ
+עקיזאָד יד זאַ ,ןײז ןעק סע .גירק ןײק
+סלא ןזײװסיוראַ ךיז טעװ גנולעטשטסעם
+„טסעפ ערעדנא ליפ יװ טקנופ ,עשלאפ
+ןבּאָה געט עטצעל יד ןופ ןעגנולעטש
+טעז טנײה רעבּאָ ,טקיטכעראבּ טינ ךיז
+ךיוא ןוא שיגאָל רעײז ןײז וצ ךיוא יז
+.טנאסערעטניא דעײז
+ןטלאַהעג טאָה ןעלרעבּמעשט תעשבּ
+עדער עשיראָטסיה ןײז טנעמאלראָפ ןיא
+„עד עקידנעטש יד ןעװעג לאז ןיא זיא
+„נוא םעגײלק ןײא טימ ראָג עיצאראק
+עשזאָל - ןטאמאָלפיד רעד ןיא .דײשרעט
+רענאַקיועמא ןופ טײז רעד ײבּ זיא
+סאָד יוענעק ףעזאשזד ראָדאסאבּמאַ
+„מא רעשיטעװאָס רעד מיג ןסעזעג לאמ
+רעד סרעײנ ,יקסיאמ ליאןכימ ראָדאסאַבּ
+„אָקעד יד טאָ .ראָדמסאַבּמא רעשינאפאי
+עײנ יד טריזילאָבּמיס גנורעדנע עװיטאר
+רעד ףיוא תיחונ יד ןופ עיצאלעטסנאק
+ןופ סיוראַ טנײה זיא דנאַלסור .טלעװ
+ןבּײלבּ קפס םוש ילבּ טעװ יז .ליפש
+,גירק ןשיאעפארײא ןא ןיא לארטײנ
+סע .םישדח עטשרע יד ןיא ןפוא לכבּ
+סיוראַ ןעמאזוצ ריא טימ רעבּאָ ןענײז
+ײבּ .ןראגנוא ,עינאפש ,ןאפאי ליפש ןופ
+ןאפאי ןופ גנולעטש רעקיטנײה רעד
+„יואַ ןופ ןסרוסער ןוא תוחוכ עלא ןלןװ
+„ראַפ ןענעק דנאלעז-ײנ ןוא עילארטס
+שרעדגא ,עפארײא ןיא ןרעװ טעדנעװ
+סע .דנאלשטײד ןגעק טקעריד :טדערעג
+עטאז ,עטנוזעג ןשטנעמ ןעמוק ןלעװ
+„ןװרענ ןופ ענעפאָרטעג ןײק טינ ןוא
+„עג טיג ײז ףיוא טאָה רעכלעװ ,גירק
+.ףמאק ןיא ןפראװ ךיז ןוא ,ןקריװ טנעק
+,ליפעג םעד ןבּאה ײז ןלעװ םעד ץוח
+א ףיוא ךיז ןעניפעג עטנעאנ ערעײז זא
+ןשידניא טײז רענעי ןופ ןדאבּ ןרעכיז
+רעשיגאָלאָכיספ רעקיזאד רעד .ןאעקא
+„גגע .רעקיטכיונ א רעײז זיא טנעמאמ
+ןפראד מינ ךיוא רעדיװ טעװ דנאַל
+ערעדגאַ ןוא םאיס ,רופאגנס ראס ןגראָז
+חוזמ ןטײװ ןפיוא ןטקנלפ
+ןפראד טינ רעטײװ טעװ דנאלגגע
+ןופ גנאגכרוד – ראטלארבּיג םעד ןציש
+„ערג א אד זיא סע ואװ ,טײז השבּי
+עקידלאװג א פארא .עינאטש טימ ץעג
+ןופ טעטילארטײנ רעד ךרוד .הגאד
+עשיזיוצנארפ יד ךיוא טרעװ עינמפש
+ןראַפ גראָז לײט א ןופ טײרפאבּ ײמראַ
+ןיוש זיא סע .ץענערג ןשיאענעריפ
+רעד זאַ ,טײװ יוזא ןעגנאגרעד טנײה
+דראָל טאָה ןטסיגנאַלאַפ יד ןופ זאָיציפאָ
+„סומ„ סלא טנכײצאַבּ עדער סקאַפילאה
+.״טײקלבּאָנ ןוא טפנונראפ ןופ רעט
+„עמאַג לאַרענעג זיא זירפרױס אַזאַ ךאָנ
+„עריפ ן-אפ גראָז רעדעי ןופ ײרפ ןעל
+.ץענערג – ןעײג
+עילאטא :ץל א טינ ךא נ זיא סאד
+יעגאר פ ןסױרג ארעײז רעטנוא טײטש
+.גירק ןיא ןײג טינ ליװז .יכײצ
+ןמלעװזור ןופ לעפא רעד :עטיבּ ?םינמיס
+„עג ןעמונעגטיוא קיטסניג רעײז זיא
+ראנ טינ ,ךיוא ןיגילאסומ ךרוד ןראװ
+ןופ עיצאזיליבּאמ יד .גינעק ןכרוד
+םעד םשרע ןא ךיז טבּיוה גנעגראי2
+ןעװ ,טײצ רעד ןיא ,רעבּמעטפעסןמ-3
+„ײא ןאגנומיטש אזא ײבּ זיא ךאױא
+״עג טיג טאה גגוריגער ןײק .טײקיבּ
+,עילאטיא ןזאלראפ רעגריבּ עריא ןטעבּ
+״עק רעד .עילאטיא - ןופצ וליפא
+רעד ראַפ חעש אַ„ טנײה ךאָג טציז גינ","05dd,05d5,05de,05d9,05d8,000a,002e,05e2,05de,05d9,05dc,0020,05e2,05d2,05d5,05e0,fb31,0020,05dc,05d7,0020,05da,05d9,05d5,05d0,0020,05d6,05d9,05d0,0020,05e2,fb31,05dc,05e2,05d6,0020,05e1,fb2f,05d3,000a,002e,0031,0039,0033,0039,0020,05d8,05dd,05d5,05d2,05f0,05d0,0020,05df,05de,002d,0032,0036,0020,05dd,05e2,05d3,0020,002c,05df,fb2f,05d3,05e0,fb2f,05dc,000a,05df,05d5,05d0,0020,05ea,05d5,05e8,05d5,05e9,0020,05e2,05e7,05d9,05d6,05d0,05d3,0020,05d9,05d3,0020,fb31,05f2,05e8,05e9,0020,05da,05d9,05d0,000a,05df,05dc,05e2,05f0,0020,05f2,05d6,0020,05d9,05e6,0020,05e1,05f2,05f0,0020,05e8,05e2,05f0,0020,003a,05f2,05e4,05e8,05e2,05d3,0020,05d8,05db,05d0,05e8,05de,000a,05df,05e2,05de,05d5,05e7,05e0,fb2f,0020,05df,05dc,05e2,05f0,0020,05f2,05d6,0020,05ea,05e2,05e9,fb31,0020,002c,05df,05d9,05d6,0020,fb2e,0020,05df,fb31,fb2f,05d4,000a,003f,05e1,05e1,fb2f,05e4,002d,05d8,05e4,05d5,05dc,0020,05da,05f0,05d3,0020,05d5,05dc,05d9,05e4,fb2f,0020,002c,05e2,05d9,05e6,05e7,fb2e,05d3,05e2,05e8,0020,05df,05d9,05d0,000a,05df,05e2,05d6,05e1,05d9,05d5,05d0,0020,05e2,05d8,05f0,0020,05d8,05dc,05e2,05f0,0020,05d9,05d3,0020,05d9,05f0,0020,05e1,05f2,05f0,0020,05e8,05e2,05f0,000a,05da,fb2f,05e0,0020,05d8,05e2,05f0,0020,05e1,05e2,0020,05d9,05e6,0020,002c,05e1,05f2,05f0,0020,05e8,05e2,05f0,0020,05df,05d5,05d0,0020,003f,05df,05d2,05e8,fb2f,05de,000a,05d9,05d3,0020,05ea,05e2,05e9,fb31,0020,002c,05de,05e1,fb2f,05e4,002d,05d8,05e4,05d5,05dc,0020,05e2,05dc,05d0,05de,05e8,fb2f,05e0,0020,05d0,0020,05df,05f2,05d6,000a,201e,05d8,05e1,fb2f,fb44,0020,05df,05d9,05d0,0020,05df,05d2,05d9,05dc,0020,05df,05dc,05e2,05f1,0020,05ea,05d5,05e8,05d5,05e9,0020,05e2,05e7,05d9,05d6,fb2f,05d3,000a,05da,fb2f,05e0,0020,05df,05e2,05de,0020,05d8,05e4,fb2f,05d4,0020,05dc,05f2,05f0,05e8,05e2,05d3,0020,05e8,05e2,fb31,fb2f,0020,003f,05dc,05d8,05e1,05e2,05e7,000a,2026,05e5,05dc,fb2e,000a,05d2,05e0,05d5,fb31,05d0,05e4,05e9,0020,05d9,05d3,0020,002c,05da,05d9,05d6,0020,05e1,05db,05d5,05d3,0020,002c,05d8,fb2f,05d4,0020,05d8,05e0,05f2,05d4,000a,05e1,05e2,fb44,05e2,0020,002e,05d8,05e7,05e0,05d5,05e4,002d,05e2,05d9,05e6,05d0,05e0,05d9,05de,05dc,05d5,05e7,0020,05e8,05d9,05d0,0020,05d8,05db,05f2,05e8,05d2,05e8,05e2,05d3,000a,05d8,fb31,05e9,05dc,0020,002c,05df,05e2,05e9,05e2,05d2,0020,05df,05e0,05e8,fb2f,05de,05e8,05e2,fb31,05d9,05d0,002d,05df,05d2,05d9,fb2f,05de,0020,05d6,05d5,05de,000a,002e,05df,05f2,05d2,0020,05d8,05d9,05e0,0020,05e1,05e2,0020,05df,05e2,05e7,0020,05e8,05d8,05f2,05f0,0020,05d9,05d5,05d6,fb2e,0020,002e,05d3,05e1,05d7,05dc,0020,05d5,05d0,000a,05df,05d4,05e2,05e9,0020,05d9,05d3,0020,05df,05d9,05d0,0020,05d0,05e7,05f0,05d3,0020,003a,05e7,05d9,05d3,05e8,05d9,05f0,05e7,05e8,05e2,05de,0020,05df,05d5,05d0,000a,201e,05e0,fb2f,05dc,0020,05df,05d9,05d0,0020,05d8,05e1,05e7,fb2e,05f0,0020,05d2,05e0,05d5,05e0,fb2e,fb44,05e9,0020,05e8,05e2,05d8,05e1,05db,05e2,05d4,0020,05df,05d5,05e4,000a,201e,05e8,05e2,05d3,0020,05d8,05d9,05e0,0020,05d8,05e2,05f0,0020,05e1,05e2,0020,05d6,fb2e,0020,002c,05df,fb31,05f1,05dc,05d2,0020,05e8,05e2,05d3,0020,05df,fb2f,05d3,000a,05d8,05d5,05d2,0020,05e8,05e2,05f2,05d6,0020,002e,05e2,05e4,fb2f,05d8,05dd,05d8,fb2f,05e7,0020,05df,05f2,05e7,0020,05d5,05e6,0020,05df,05f2,05d2,000a,002c,05d8,05e1,05e2,05e4,0020,05df,05dc,05e2,05d8,05e9,0020,05e8,05e2,05e7,05d9,05d8,05d9,05dc,05d0,05e4,0020,05e2,05d8,05e8,05d9,05de,05e8,fb2f,05e4,05e0,05d9,05d0,000a,05df,fb31,05d9,05d5,05d4,05e0,fb2f,0020,05d8,05d9,05d2,0020,05df,05e4,05d5,05d0,0020,05dd,05d5,05e9,fb31,0020,05dc,05d9,05f0,0020,05e8,05e2,05dc,05d8,05d9,05d4,0020,05d6,fb2e,000a,05e2,05e7,05d9,05d6,fb2f,05d3,0020,05d9,05d3,0020,05d6,fb2e,0020,002c,05df,05f2,05d6,0020,05df,05e2,05e7,0020,05e1,05e2,0020,002e,05d2,05d9,05e8,05e7,0020,05df,05f2,05e7,000a,05e1,05dc,05d0,0020,05df,05d6,05f2,05f0,05e1,05d9,05d5,05e8,fb2e,0020,05da,05d9,05d6,0020,05d8,05e2,05f0,0020,05d2,05e0,05d5,05dc,05e2,05d8,05e9,05d8,05e1,05e2,05dd,000a,201e,05d8,05e1,05e2,05e4,0020,05e2,05e8,05e2,05d3,05e0,05d0,0020,05dc,05d9,05e4,0020,05d9,05f0,0020,05d8,05e7,05e0,05d5,05e4,0020,002c,05e2,05e9,05dc,05d0,05e4,000a,05df,fb31,fb2f,05d4,0020,05d2,05e2,05d8,0020,05e2,05d8,05e6,05e2,05dc,0020,05d9,05d3,0020,05df,05d5,05e4,0020,05df,05e2,05d2,05e0,05d5,05dc,05e2,05d8,05e9,000a,05d8,05e2,05d6,0020,05d8,05e0,05f2,05d4,0020,05e8,05e2,fb31,fb2f,0020,002c,05d8,05e7,05d9,05d8,05db,05e2,05e8,05d0,fb31,0020,05d8,05d9,05e0,0020,05da,05d9,05d6,000a,05da,05d9,05d5,05d0,0020,05df,05d5,05d0,0020,05e9,05d9,05d2,fb2f,05dc,0020,05e8,05e2,05f2,05d6,0020,05df,05f2,05d6,0020,05d5,05e6,0020,05da,05d9,05d5,05d0,0020,05d9,05d6,000a,002e,05d8,05e0,05d0,05e1,05e2,05e8,05e2,05d8,05e0,05d9,05d0,0020,05d3,05e2,05f2,05d6,000a,05df,05d8,05dc,fb2e,05d4,05e2,05d2,0020,05d8,fb2f,05d4,0020,05df,05e2,05dc,05e8,05e2,fb31,05de,05e2,05e9,05d8,0020,05ea,05e2,05e9,fb31,000a,05e2,05d3,05e2,05e8,0020,05e2,05e9,05d9,05e8,fb2f,05d8,05e1,05d9,05d4,0020,05df,05f2,05d6,0020,05d8,05e0,05e2,05de,05d0,05dc,05e8,fb2f,05e4,0020,05df,05d9,05d0,000a,201e,05e2,05d3,0020,05e2,05e7,05d9,05d3,05e0,05e2,05d8,05e9,0020,05d9,05d3,0020,05df,05e2,05f0,05e2,05d2,0020,05dc,05d0,05d6,0020,05df,05d9,05d0,0020,05d6,05d9,05d0,000a,201e,05e0,05d5,05d0,0020,05dd,05e2,05d2,05f2,05dc,05e7,0020,05df,05f2,05d0,0020,05d8,05d9,05de,0020,05e8,fb2f,05d2,0020,05e2,05d9,05e6,05d0,05e8,05d0,05e7,000a,05e2,05e9,05d6,fb2f,05dc,0020,002d,0020,05df,05d8,05d0,05de,fb2f,05dc,05e4,05d9,05d3,0020,05e8,05e2,05d3,0020,05df,05d9,05d0,0020,002e,05d3,05f2,05e9,05e8,05e2,05d8,000a,05e8,05e2,05e0,fb2e,05e7,05d9,05d5,05e2,05de,05d0,0020,05df,05d5,05e4,0020,05d8,05f2,05d6,0020,05e8,05e2,05d3,0020,05f2,fb31,0020,05d6,05d9,05d0,000a,05e1,fb2f,05d3,0020,05d9,05d5,05e2,05e0,05e2,05e7,0020,05e3,05e2,05d6,05d0,05e9,05d6,05d3,0020,05e8,fb2f,05d3,05d0,05e1,05d0,fb31,05de,fb2e,000a,201e,05de,05d0,0020,05e8,05e2,05e9,05d9,05d8,05e2,05f0,fb2f,05e1,0020,05e8,05e2,05d3,0020,05de,05d9,05d2,0020,05df,05e1,05e2,05d6,05e2,05d2,0020,05dc,05d0,05de,000a,05e8,05e2,05d3,0020,05e1,05e8,05e2,05f2,05e0,0020,002c,05d9,05e7,05e1,05d9,05d0,05de,0020,05dc,05d9,05d0,05df,05db,05d9,05de,0020,05e8,fb2f,05d3,05d0,05e1,fb2e,fb31,000a,201e,fb2f,05e7,05e2,05d3,0020,05d9,05d3,0020,05d8,fb2f,0020,002e,05e8,fb2f,05d3,05de,05e1,fb2e,fb31,05de,05d0,0020,05e8,05e2,05e9,05d9,05e0,05d0,05e4,05d0,05d9,000a,05e2,05f2,05e0,0020,05d9,05d3,0020,05d8,05e8,05d9,05d6,05d9,05dc,fb2f,fb31,05de,05d9,05e1,0020,05d2,05e0,05d5,05e8,05e2,05d3,05e0,05e2,0020,05e2,05f0,05d9,05d8,05d0,05e8,000a,05e8,05e2,05d3,0020,05e3,05d9,05d5,05d0,0020,05ea,05d9,05d7,05d5,05e0,0020,05d9,05d3,0020,05df,05d5,05e4,0020,05e2,05d9,05e6,05d0,05dc,05e2,05d8,05e1,05e0,05d0,05e7,000a,05df,05d5,05e4,0020,05e1,05d9,05d5,05e8,fb2e,0020,05d8,05e0,05f2,05d4,0020,05d6,05d9,05d0,0020,05d3,05e0,fb2e,05dc,05e1,05d5,05e8,0020,002e,05d8,05dc,05e2,05f0,000a,05df,fb31,05f2,05dc,fb31,0020,05e7,05e4,05e1,0020,05dd,05d5,05e9,0020,05d9,05dc,fb31,0020,05d8,05e2,05f0,0020,05d9,05d6,0020,002e,05dc,05d9,05e4,05e9,000a,002c,05d2,05d9,05e8,05e7,0020,05df,05e9,05d9,05d0,05e2,05e4,05d0,05e8,05f2,05d0,0020,05df,05d0,0020,05df,05d9,05d0,0020,05dc,05d0,05e8,05d8,05f2,05e0,000a,05e1,05e2,0020,002e,05dd,05d9,05e9,05d3,05d7,0020,05e2,05d8,05e9,05e8,05e2,0020,05d9,05d3,0020,05df,05d9,05d0,0020,05df,05e4,05d5,05d0,0020,05dc,05db,fb31,000a,05e1,05d9,05d5,05e8,fb2e,0020,05df,05e2,05de,05d0,05d6,05d5,05e6,0020,05e8,05d9,05d0,0020,05d8,05d9,05de,0020,05e8,05e2,fb31,fb2f,0020,05df,05e2,05e0,05f2,05d6,000a,05f2,fb31,0020,002e,05df,05e8,05d0,05d2,05e0,05d5,05d0,0020,002c,05e2,05d9,05e0,05d0,05e4,05e9,0020,002c,05df,05d0,05e4,05d0,05d9,0020,05dc,05d9,05e4,05e9,0020,05df,05d5,05e4,000a,05df,05d0,05e4,05d0,05d9,0020,05df,05d5,05e4,0020,05d2,05e0,05d5,05dc,05e2,05d8,05e9,0020,05e8,05e2,05e7,05d9,05d8,05e0,05f2,05d4,0020,05e8,05e2,05d3,000a,201e,05d9,05d5,fb2e,0020,05df,05d5,05e4,0020,05df,05e1,05e8,05d5,05e1,05e2,05e8,0020,05df,05d5,05d0,0020,05ea,05d5,05d7,05d5,05db,0020,05e2,05dc,05d0,0020,05df,05dc,05df,05f0,000a,201e,05e8,fb2e,05e4,0020,05df,05e2,05e0,05e2,05e7,0020,05d3,05e0,05d0,05dc,05e2,05d6,002d,05f2,05e0,0020,05df,05d5,05d0,0020,05e2,05d9,05dc,05d0,05e8,05d8,05e1,000a,05e9,05e8,05e2,05d3,05d2,05d0,0020,002c,05e2,05e4,05d0,05e8,05f2,05d0,0020,05df,05d9,05d0,0020,05df,05e8,05e2,05f0,0020,05d8,05e2,05d3,05e0,05e2,05f0,000a,05e1,05e2,0020,002e,05d3,05e0,05d0,05dc,05e9,05d8,05f2,05d3,0020,05df,05d2,05e2,05e7,0020,05d8,05e7,05e2,05e8,05d9,05d3,0020,003a,05d8,05d3,05e2,05e8,05e2,05d2,000a,05e2,05d8,05d0,05d6,0020,002c,05e2,05d8,05e0,05d5,05d6,05e2,05d2,0020,05df,05e9,05d8,05e0,05e2,05de,0020,05df,05e2,05de,05d5,05e7,0020,05df,05dc,05e2,05f0,000a,201e,05df,05f0,05e8,05e2,05e0,0020,05df,05d5,05e4,0020,05e2,05e0,05e2,05e4,fb2f,05e8,05d8,05e2,05d2,0020,05df,05f2,05e7,0020,05d8,05d9,05e0,0020,05df,05d5,05d0,000a,201e,05e2,05d2,0020,05d8,05d9,05d2,0020,05f2,05d6,0020,05e3,05d9,05d5,05d0,0020,05d8,fb2f,05d4,0020,05e8,05e2,05db,05dc,05e2,05f0,0020,002c,05d2,05d9,05e8,05e7,000a,002e,05e3,05de,05d0,05e7,0020,05df,05d9,05d0,0020,05df,05e4,05e8,05d0,05f0,0020,05da,05d9,05d6,0020,05df,05d5,05d0,0020,002c,05df,05e7,05e8,05d9,05f0,0020,05d8,05e0,05e2,05e7,000a,002c,05dc,05d9,05e4,05e2,05d2,0020,05dd,05e2,05d3,0020,05df,fb31,05d0,05d4,0020,05f2,05d6,0020,05df,05dc,05e2,05f0,0020,05dd,05e2,05d3,0020,05e5,05d5,05d7,000a,05d0,0020,05e3,05d9,05d5,05d0,0020,05da,05d9,05d6,0020,05df,05e2,05e0,05d9,05e4,05e2,05d2,0020,05e2,05d8,05e0,05e2,05d0,05e0,0020,05e2,05e8,05e2,05f2,05d6,0020,05d6,05d0,000a,05df,05e9,05d9,05d3,05e0,05d9,05d0,0020,05d8,05f2,05d6,0020,05e8,05e2,05e0,05e2,05d9,0020,05df,05d5,05e4,0020,05df,05d3,05d0,fb31,0020,05df,05e8,05e2,05db,05d9,05d6,000a,05e8,05e2,05e9,05d9,05d2,fb2f,05dc,fb2f,05db,05d9,05e1,05e4,0020,05e8,05e2,05e7,05d9,05d6,05d0,05d3,0020,05e8,05e2,05d3,0020,002e,05df,05d0,05e2,05e7,05d0,000a,201e,05d2,05d2,05e2,0020,002e,05e8,05e2,05e7,05d9,05d8,05db,05d9,05d5,05e0,0020,05d0,0020,05e8,05e2,05f2,05d6,0020,05d6,05d9,05d0,0020,05d8,05e0,05e2,05de,05d0,05de,000a,05df,05e4,05e8,05d0,05d3,0020,05de,05d9,05e0,0020,05da,05d9,05d5,05d0,0020,05e8,05e2,05d3,05d9,05f0,0020,05d8,05e2,05f0,0020,05d3,05e0,fb2e,05dc,000a,05e2,05e8,05e2,05d3,05d2,fb2e,0020,05df,05d5,05d0,0020,05dd,05d0,05d9,05e1,0020,002c,05e8,05d5,05e4,05d0,05d2,05e0,05e1,0020,05e8,05d0,05e1,0020,05df,05d2,05e8,fb2f,05d6,000a,05d7,05d5,05d6,05de,0020,05df,05d8,05f2,05f0,0020,05df,05e4,05d9,05d5,05d0,0020,05df,05d8,05e7,05e0,05dc,05e4,000a,05df,05e4,05e8,05d0,05d3,0020,05d8,05d9,05e0,0020,05e8,05e2,05d8,05f2,05f0,0020,05d8,05e2,05f0,0020,05d3,05e0,05d0,05dc,05d2,05d2,05e2,000a,05df,05d5,05e4,0020,05d2,05e0,05d0,05d2,05db,05e8,05d5,05d3,0020,2013,0020,05e8,05d0,05d8,05dc,05d0,05e8,fb31,05d9,05d2,0020,05dd,05e2,05d3,0020,05df,05e6,05d9,05e9,000a,201e,05e2,05e8,05d2,0020,05d0,0020,05d0,05d3,0020,05d6,05d9,05d0,0020,05e1,05e2,0020,05d5,05d0,05f0,0020,002c,05d8,05f2,05d6,0020,05d4,05e9,fb31,05d9,000a,05e2,05e7,05d9,05d3,05dc,05d0,05f0,05d2,0020,05d0,0020,05e4,05d0,05e8,05d0,0020,002e,05e2,05d9,05e0,05d0,05d8,05e9,0020,05d8,05d9,05de,0020,05e5,05e2,05d2,000a,05df,05d5,05e4,0020,05d8,05e2,05d8,05d9,05dc,05d0,05e8,05d8,05f2,05e0,0020,05e8,05e2,05d3,0020,05da,05e8,05d5,05d3,0020,002e,05d4,05d2,05d0,05d3,000a,05e2,05e9,05d9,05d6,05d9,05d5,05e6,05e0,05d0,05e8,05e4,0020,05d9,05d3,0020,05da,05d9,05d5,05d0,0020,05d8,05e8,05e2,05f0,0020,05e2,05d9,05e0,05de,05e4,05e9,000a,05df,05e8,fb2e,05e4,0020,05d2,05e8,fb2f,05d6,0020,05dc,05f2,05d8,0020,05d0,0020,05df,05d5,05e4,0020,05d8,05f2,05e8,05e4,05d0,fb31,0020,05f2,05de,05e8,fb2e,000a,05df,05d9,05d5,05e9,0020,05d6,05d9,05d0,0020,05e1,05e2,0020,002e,05e5,05e2,05e0,05e2,05e8,05d2,0020,05df,05e9,05d9,05d0,05e2,05e0,05e2,05e8,05d9,05e4,000a,05e8,05e2,05d3,0020,05d6,fb2e,0020,002c,05d8,05f2,05f0,0020,05d9,05d5,05d6,05d0,0020,05df,05e2,05d2,05e0,05d0,05d2,05e8,05e2,05d3,0020,05d8,05e0,05f2,05d4,000a,05d3,05e8,fb2f,05dc,0020,05d8,fb2f,05d4,0020,05df,05d8,05e1,05d9,05d2,05e0,fb2e,05dc,fb2e,05e4,0020,05d9,05d3,0020,05df,05d5,05e4,0020,05d6,fb2f,05d9,05e6,05d9,05e4,fb2f,000a,201e,05e1,05d5,05de,201e,0020,05e1,05dc,05d0,0020,05d8,05e0,05db,05f2,05e6,fb2e,fb31,0020,05e2,05d3,05e2,05e8,0020,05e1,05e7,fb2e,05e4,05d9,05dc,05d0,05d4,000a,002e,05f4,05d8,05f2,05e7,05dc,fb31,fb2f,05e0,0020,05df,05d5,05d0,0020,05d8,05e4,05e0,05d5,05e0,05e8,05d0,05e4,0020,05df,05d5,05e4,0020,05e8,05e2,05d8,000a,201e,05e2,05de,fb2e,05d2,0020,05dc,fb2e,05e8,05e2,05e0,05e2,05d2,0020,05d6,05d9,05d0,0020,05d6,05d9,05e8,05e4,05e8,05f1,05e1,0020,fb2e,05d6,fb2e,0020,05da,fb2f,05e0,000a,201e,05e2,05e8,05d9,05e4,0020,05df,002d,05d0,05e4,0020,05d2,05e8,fb2f,05d6,0020,05e8,05e2,05d3,05e2,05d9,0020,05df,05d5,05e4,0020,05f2,05e8,05e4,0020,05df,05e2,05dc,000a,002e,05e5,05e2,05e0,05e2,05e8,05d2,0020,2013,0020,05df,05e2,05f2,05d2,000a,05e2,05d9,05dc,05d0,05d8,05d0,0020,003a,05e5,05dc,0020,05d0,0020,05d8,05d9,05e0,0020,05da,05d0,0020,05e0,0020,05d6,05d9,05d0,0020,05e1,05d0,05d3,000a,05d9,05e2,05d2,05d0,05e8,0020,05e4,0020,05df,05e1,05f1,05e8,05d2,0020,05d0,05e8,05e2,05f2,05d6,0020,05e8,05e2,05d8,05e0,05d5,05d0,0020,05d8,05f2,05d8,05e9,000a,002e,05d2,05d9,05e8,05e7,0020,05df,05d9,05d0,0020,05df,05f2,05d2,0020,05d8,05d9,05e0,0020,05dc,05d9,05f0,05d6,0020,002e,05d9,05db,05f2,05e6,000a,05df,05de,05dc,05e2,05f0,05d6,05d5,05e8,0020,05df,05d5,05e4,0020,05dc,05e2,05e4,05d0,0020,05e8,05e2,05d3,0020,003a,05e2,05d8,05d9,fb31,0020,003f,05dd,05d9,05e0,05de,05d9,05e1,000a,201e,05e2,05d2,0020,05df,05e2,05de,05d5,05e0,05e2,05d2,05d8,05d9,05d5,05d0,0020,05e7,05d9,05d8,05e1,05e0,05d9,05d2,0020,05e8,05e2,05f2,05d6,0020,05d6,05d9,05d0,000a,05e8,05d0,05e0,0020,05d8,05d9,05e0,0020,002c,05da,05d9,05d5,05d0,0020,05df,05d9,05d2,05d9,05dc,05d0,05e1,05d5,05de,0020,05da,05e8,05d5,05d3,0020,05df,05e8,05d0,05f0,000a,05df,05d5,05e4,0020,05e2,05d9,05e6,05d0,05d6,05d9,05dc,05d9,fb31,05d0,05de,0020,05d9,05d3,0020,002e,05d2,05d9,05e0,05e2,05e7,0020,05df,05db,05e8,05d5,05d3,000a,05dd,05e2,05d3,0020,05dd,05e9,05e8,05e2,0020,05df,05d0,0020,05da,05d9,05d6,0020,05d8,fb31,05d9,05d5,05d4,0020,05d2,05e0,05e2,05d2,05e8,05d0,05d9,0032,000a,05df,05e2,05f0,0020,002c,05d8,05f2,05e6,0020,05e8,05e2,05d3,0020,05df,05d9,05d0,0020,002c,05e8,05e2,fb31,05de,05e2,05d8,05e4,05e2,05e1,05df,05de,002d,0033,000a,201e,05f2,05d0,0020,05df,05d0,05d2,05e0,05d5,05de,05d9,05d8,05e9,0020,05d0,05d6,05d0,0020,05f2,fb31,0020,05d6,05d9,05d0,0020,05da,05d0,05f1,05d0,000a,05f4,05e2,05d2,0020,05d8,05d9,05d2,0020,05d8,05d0,05d4,0020,05d2,05d2,05d5,05e8,05d9,05d2,05e2,05e8,0020,05df,05f2,05e7,0020,002e,05d8,05f2,05e7,05d9,fb31,000a,002c,05e2,05d9,05dc,05d0,05d8,05d9,05d0,0020,05df,05d6,05d0,05dc,05e8,05d0,05e4,0020,05e8,05e2,05d2,05e8,05d9,fb31,0020,05e2,05e8,05d9,05d0,0020,05df,05d8,05e2,fb31,000a,05f4,05e2,05e7,0020,05e8,05e2,05d3,0020,002e,05e2,05d9,05dc,05d0,05d8,05d9,05d0,0020,002d,0020,05df,05d5,05e4,05e6,0020,05d5,05dc,05d9,05e4,05d0,000a,05e8,05e2,05d3,0020,05e8,fb2e,05e4,0020,05d7,05e2,05e9,0020,fb2e,201e,0020,05d8,05e0,05f2,05d4,0020,05da,fb2f,05d2,0020,05d8,05e6,05d9,05d6,0020,05d2,05d9,05e0","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ץענ
+עילאטיא טעװ ,גירק א ןעניװעג לאז
+רנאלשטײד בּיוא ","05e5,05e2,05e0,000a,05e2,05d9,05dc,05d0,05d8,05d9,05d0,0020,05d8,05e2,05f0,0020,002c,05d2,05d9,05e8,05e7,0020,05d0,0020,05df,05e2,05e0,05d9,05f0,05e2,05d2,0020,05dc,05d0,05d6,000a,05e8,05e0,05d0,05dc,05e9,05d8,05f2,05d3,0020,fb31,05d9,05d5,05d0,0020","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןבּאה טינ המוקת ןײק
+סיװעג עילאשיא טעװ — ןרילראפ לאז
+ןופ עיגזקעל יד .ןגאה מינ המוקת ןײק
+אַ ןבּעגעגסיוראַ טאַר-ןראָטסינימ רעשיראַגלובּ רעד .(טאַפּ) ,ע י פ אָ ס
+.דנאַל ןיא ןעגנולמאַזראפ עכעלטנפע ןענעדראָוצנײאַ טאָבּדאַפ
+עײנ ןפורעג טאָה’מ זאַ ,טריקינומאַק ײמראַ רעד ןופ בּאַטש-טפּיוה רעד
+.ןעגנובּיא ףיוא ןטטיװרעזער גנעגראָי ײװצ
+רעניואװנײא יד ןטלאַהראַפ ךיז ןפראַד יװ .2
+ךיז ןסאפּוצ—רעזײהניואװ ן א (א :טעטּכילפראַפ זיא רעניואװנײא רעדעי
+רעזײה יד ןופ ןרעיוט יד ןיא ןעגנאַהעגסיוא ןענײז סאָװ ,ןעגנוזײװנאָ יד וצ
+יד ךיז ןפראװ�עטנוא — רעצעלפּ עכעלטנפע ןוא ןסאַג יד ףיוא (בּ
+-עטסאָפּ-טײקרעכּיז יד ןוא ןענאַגראָ - ײצילאָפּ יד ןופ ןעגנונעדראָראַפ
+.סעקנור
+רעיולבּ) טלקנוטראַפ ןײז ףראַד סעקשזאָ�אָד ןוא סאָטיוא ןופ טכיל סאָד
+סאָװ ,לעטשראפ ןײק טינ ןבּאָה סאָװ ,ןלאקאָל ןוא ןעגנוניואװ יד ןיא .(רילאָק
+.ןרעװ ןשאָלעגסיא ןצנאַגניא רעײפ סאָד ףראַד ,טכיל ןײק ךרוד טינ טזאָל
+,פערט ,ןעאָרויבּ ,רעזײה עטאװירפ יד ןופ רעטצנעפ ענעטכיולאַבּ יד
+טלעטשואַפ ןעניגאַבּ זיבּ רעטצניפ ןופ ןפראַד ,ןלאַקאָל ערעדנאַ ןוא ןטאַטשראװ
+.טכיל ןײק ךרוד טינ ןזאָל סאָװ ,ןכאַז טימ ןרעװ
+-ראַפ ףכיתּ ףואד רעצעלפ ןוא ןסאַג יד ףיוא ןטקנופּ ענעטכיולאַבּ לאָצ יד
+ןופ ןטאָבּראַפ זיאײס !םומינימ ןקיטײנ ןזיבּ (ןרעװ טריצודע�) ןרעװ טרענעלק
+-ןאָענ יד ןדניצנא רעטסנעפ-לעטשסיוא יד ןטכײלאבּ וצ ןעניגאַבּ זיבּ רעטסניפ
+ףראַד אפוג רעזײה יד ןיא טכיל יד ךיוא ןוא סעמאַלקער-טכיל יד ,סעמאַלקער
+.(ןרעמונ-ײצילאָפ יד םאַנסיוא ןטימ) ןשאָלעגסיוא ןײז
+-ץוש רעד תעבּ ךיז ןטלאַהאַבּ ןגעװ ןטפירשראַפ יד
+סעהאַטאַ-טפול ןגעק טײקטײרג
+.גנוטכײלאַבּ יד .I
+:ןטפירשראָפ עקיזאָד יד ןטכילפראַפ קיטײצכײלג .II
+״עטאַמּ ןוא רעכעלנעזרעפ ןופ טכילפ יד שיטאַמאָטיוא טײטשטנאַ סע .I
+.ףליה-סגירק רעלעיר
+םעד ןופ טנורג ןפיוא ,טכאַמעג טנאַקאַבּ טרעװ טימּרעד גנאַהנעמאַזוצ ןיא
+װאטסוא .נעיזד) 1934 ץרעמ ןט-15 ןופ סעקאטאַ-זאַג ןוא-טפול ןגעװ ץעזעג
+:סאָװ-טאָ )742 .זאָפ ,80 .מונ
+״טײרג-ץוש ןאָ גאָט ןקיטנײה ןופ טנדראָראפ טאָה רעטסינימ-סגירק רעד
+.ןפורפאָ ןזיבּ ןרעיוד טעװ סאַװ ,סעקאַטאַ-טפול ןגעק טײק
+ןטאַקאלפ עסײװ ןראָװעג טפעלקעגרעדנאַנופ ןסאַג יד רעבּיא ןענײז ןטכענ
+:ךעמראַלאַ-זאַג ןגעװ סעיצאמראָפניא טימ סאַפ ןטיור אַ טימ
+ראַפ ךיוא ןעװעג זיא טקאַפּ ןשיסור
+ראַפ ראָנ טינ ,םאַזקריװ רעײז עילאַטיא
+ןבּײלבּ עילאַטיא רעבּאָ לאָז .ןאפּאַי
+-לסילש אַ גירק א ךאָנ יז טאָה ,לארטײנ
+טעװ ןאָילימ 45 ןופ הכולמ אַ .עיציזאָפּ
+-עבּיא יד תעשבּ ,ץנאג ןבּײלבּ
+ןלעװ — עטגיזאַבּ ןוא דעגיז — עקיר
+אדײג סאָװ אלא .טולבּ טימ ןפיולפאָ
+.הצילמה תראפתל ראנ סע זיא—טבּײרש
+טעװ רע ןעװ ,טײצ אַ ןעמוק טעװ סע
+הרהמבּ עקאַט ןוא שרעדנאַ ןבּײרש
+.ונימיבּ
+לײװרעד טרילוקלאַק ןאָדנאָל רעבּאָ
+ןיא טעז ןוא רעגגעק סלאַ עילאַטיא
+.תונכס ןײק טינ ם�ד
+זאַ ,טנאקאַבּ ןאָדנאָל ןיא ךיוא זיא׳ס
+-ירעמאַ יד ןלעװ לעפּאַ סטלעװזור ךאָנ
+-ארקאַמעד יד ראַפ סעיטאפּמיס רענאַק
+עיצינומאַ ןיא ןרעװ טרירעפטנאַרט סעיט
+-אבּ וצ סאָװ טימ בּורל ןטקודאָרפּ ןוא
+בּיוא ,םשה ךורבּ ןאראפ זיא ןלאָצ
+ןאָדנאָל טאָה ,רלאָג ןלעפ טעװ עשראַװ
+.ןדײבּ ראַפ גונעג
+-נאָפּסעראָק יד ןילרעבּ ןופ ןעמוקיס
+-נוטײצ עשילגנע עסיורג יד ןופ ןטנעד
+-רעטנוא סאָד זאַ ,ןלײצרעד ןוא ןעג
+טקאפּ ןש ליופּ - שילגנע ןופ ןבּײרש
+ןקראטש אַ רעײז טכאמעג ןטראָד טאָה
+ןראָװעג ןשאָלעגסיוא זיא׳ס .קװדנײאַ
+זאַ ,גנונעפאָה ןופ קנופ רעטצעל רעד
+זיא סע .ןעיצקירוצ ךיז טעװ דנאלגנע
+ןופ עיצאלוקל�ק יד ןלאפעגכרוד ךיוא
+םעדכאָנ ןוא ןליופּ ןגעק גירק - ץילבּ א
+.ךײרקנארפ ןוא דנאלגנע טימ םולש א
+-כעלגעמ אַזאַ סיוא טסילש ךאַמפּאָ רעד
+רעד ךעלטנגײא זיא סאָד ןוא טײק
+.טציא אקװד ןבּײרשרעטנוא ןופ ןיז
+-עד ןליופּ ןוא דנאַלגנע ןבּאָה רעטײװ
+ןבּײרשרעטנוא טנעק ריא :טרירטסנאָמ
+ךיוא ןענעק רימ ,העש 24 ןיא ןכאמפּאָ
+.ראָנ ןליװ רימ זאַ
+זסאַפּאַז-זײפּש יד ןטיהראַפ
+?גנוטפיגראַפ-זאַג ןופ
+,סעיצאַמראָ�ניא אָד ןעגנערבּ רימ
+ןס�פּאַז-זײפּש יד ןטיהראַפ וצ יוזאַ יװ
+.גנוטפיגראַפ-זאַג ןופ
+טקאפּעגנײא ןפראַד ןטקודאָרפּ-זײפש
+ןזאָל סאָװ ,ןלאַירעטאַמ ןיא (1 :ןרעװ
+,ךעלבּ ,רוטקעט יװ ,טכיל ןײק ךרוד טינ
+-כײפ ראפ ײז ןטיהראפ (2 .זאָלג רעניד
+טוג ײז ןפראד קעװצ םעד וצ .טײק
+,ריפּאַפּ-ןימאַגרעפּ ןיא ןרעװ טקאפּעגנײא
+רעדאָ סעקשופּ ענעכעלבּ ,ןאָפאַלעצ
+(3 .םילכ עטכאמראפ שיטעמרעה ןיא
+רײשכּ„ ישסלעיגנאַ ראַבּ
+(רעמיצ הלאַפ רעבּאַהניא)
+ראָי 1907 .זקע 53 עטײרבּ ,ענליװ
+.26—50 .לעט
+ןוא ןטעקנאבּ ,תונותח ףיוא ןעגנולעטשאבּ
+.טריפעגסיוא ךעלטקני� ןרעװ טמואעליבּוי
+ןעמ ןאָק לאַפ-טיונ אַ ןופ לאַפ ןיא
+-אפּ-סגנוטײצ ןיא ןקאפּראפ טוג ןכאַז יד
+לאָמ עכעלטע טלקיװ ןעמ עכלעװ ,ריפּ
+.ןזײפּש יד םוראַ
+זומ ןסאַפּאַז-זײפּש עקיטיונ-ראָג יד
+סעקשופּ ענעלאטעמ ןיא ןגײלנײראַ ןעמ
+עכלעװ ,זאָלג ןוא םוינימולאַ ,ךעלבּ ןופ
+״ראַפ רענעמוג אַ טימ טכאַמראַפ ןעזײז
+וצ קיטיוג טגנידאבּמוא זיא סע .גנוסילש
+יד ןופ טײז עכעלרעסיוא יד ןרימשאַבּ
+״אַװ) ,טכיש-רילאָזיא ןאַ טימ סעקשופּ
+עדנקיטש יד לײװ ,( קאַלרעש ,ןילעז
+יד ןקידעשאַבּ ,ןעגסאָפ ,ראָלכ יװ ,ןזאַג
+.ןלאַטעמ
+ךיז ןפאַשראַפ טינ ןאָק ןעמ בּיוא
+ןעמ ןאָק ,ךעלקנערש-זײפּש עכלעזאַ
+ענרעצליה ןיא ןקאַפּראַפ ײז לעוטנעװע
+טימ טקעדאַבּ ןעגײז עכלעװ ,סנטסאַק
+.ךעלבּ
+ןטקודאָרפּ-זײפּש יד ןטיה�אַפ וצ ידכ
+ײז ןעמ ףראד גנוטפיגראַפּ-זאַג א ןופ
+סאָװ ,קנערש עכלעזאַ ןיא ןגײלנײראַ
+ןבּאָה עכלעװ ןוא ,טכאַמראַפ טוג ןענײז
+.גנוטכירגײא-עיצאַליטנעװ אַ
+יד ואװ ,טראָ ןא ןיא ײז ןטלאַהאַבּ
+4—8 ןופ עקירעדינ אַ זיא רוטאַרעפּמעט
+.דאַרג
+״מוא ריא ראַפ גנואאָרדאַבּ עקראַטש אַ טעז ןראַגנוא
+.טירש ןקיזאָד םעד ןיא טײקיגנעהפּאָ
+עסיורג יד ןופ טײז אַ ןא ןענאַטשעג טציא זיבּ זיא עכלעװ ,עילאַטיא
+עלאַ .ןטײרג ןעמונעג ךיוא ןטכענ ןיוש ךיז טאָה ,עפאָרײא ןיא תונכה-סגירק
+יד ןופ טריאוקאַװע זײװכעלסיבּ ןיוש ןרעװ רעדניק ןוא ןעיורפ ,טײל עטלא
+.ךעלטעטש ענײלק ןוא רעפרעד יד ןיא טקישעגפאָ ןרעװ ןוא טעטש ערעסערג
+.גירק ןשיאעפאָרײא ןאַ ןופ לאפ ןיא סעיטאַײקאָמעד יד ןופ דצ ןפיוא ןפמעק וצ
+ןאָיגעל רענ�קירעמ� ןאַ ןדנירג וצ ןאַלפ � ןענאַטשטנאַ זיא עקירעמאַ ןיא
+.עפאָרײא ןיא
+״נארט ןבּאַה סעיצאַטס-אַידאַר רענאַקירעמאַ יד .(טאַפּ) ,ק ר אָ י – ו י ג
+זא ,דגאַלשטײד ןפראָװעגראָפ טאָה רע רעכלעװ ןיא ,עדער אַ סנעדיא טריטימס
+רענאקירעמאַ רעד ןיא טאָה עדער יד .ןעגנוטכילפראַפ עריא עלאַ טכערבּ יז
+ןעדיא זאַ ,רעטנוא ןכײרטש ןעגנוטײצ יד .םשור ןקיטלאַװג אַ טכאַמעג עסערפּ
+.גנוזײל עכעלסימאָרפּמאָקמוא ןוא עקידפכית אַ טרעדאָפעג טאָה
+-סגנוריגער עשטײד יד זאַ ,טבּײרש ״ןובּירט דלאָרעה„ רעקראָי-וינ יד
+-עג יד .״קיטילאַפּ רעד ןיא סרעטסגנעג ןופ ןדאָטעמ„ טימ ךיז ןצונאַבּ ןרעפס
+.רעשרעה עניוזא טנעקעג טינ ךאָנ טאָה טלעװ רעד ןופ עטכיש
+,טלאָװ עכלעװ — גנוטײצ יד טבּײוש — גנוריגער רעד וצ זיא ײװ
+ןײא ךאָנ ןרעלטיה טכעלגעמרעד ,סעפּאָקאָ יד ןופ רענלעז עריא קידנעיצקיװצ
+ךײרקנארפ ןוא דנאַלגנע ,ןליופּ ןופ גנורעקלעפאַבּ יד .ןוחצנ ןטכײל ןוא םענײלק
+עשיראַבּראַבּ ןוא ןשזאַטנאש עכעלרעהפיואמוא יד וצ ןכאַמ וצ ףוס אַ טרעדאָפ
+.ןעגנוגלאָפראַפ
+-זײרק רענליװ ןכרוד עטרינאָיסעצנ�ק
+.םויראטארוק-לוש
+-סלדנאַה עכעלרעי
+ןסרוק-עיצאַקודעאָק
+ןאַילוי ןופ
+גרעבּנדעטש
+4 עיפּוקסיבּ ,ענליװ
+ןופ טאַיראַטערקעכ ןיא ךעלגעט ןעגנובּײרשנײא
+טנװאָ 8 זיבּ 5 ןופ ןוא נאָסײבּ 1 זיבּ","05df,fb31,05d0,05d4,0020,05d8,05d9,05e0,0020,05d4,05de,05d5,05e7,05ea,0020,05df,05f2,05e7,000a,05e1,05d9,05f0,05e2,05d2,0020,05e2,05d9,05dc,05d0,05e9,05d9,05d0,0020,05d8,05e2,05f0,0020,2014,0020,05df,05e8,05d9,05dc,05e8,05d0,05e4,0020,05dc,05d0,05d6,000a,05df,05d5,05e4,0020,05e2,05d9,05d2,05d6,05e7,05e2,05dc,0020,05d9,05d3,0020,002e,05df,05d2,05d0,05d4,0020,05de,05d9,05e0,0020,05d4,05de,05d5,05e7,05ea,0020,05df,05f2,05e7,000a,fb2e,0020,05df,fb31,05e2,05d2,05e2,05d2,05e1,05d9,05d5,05e8,fb2e,0020,05d8,fb2e,05e8,002d,05df,05e8,fb2f,05d8,05e1,05d9,05e0,05d9,05de,0020,05e8,05e2,05e9,05d9,05e8,fb2e,05d2,05dc,05d5,fb31,0020,05e8,05e2,05d3,0020,002e,0028,05d8,fb2e,fb44,0029,0020,002c,05e2,0020,05d9,0020,05e4,0020,fb2f,0020,05e1,000a,002e,05d3,05e0,fb2e,05dc,0020,05df,05d9,05d0,0020,05df,05e2,05d2,05e0,05d5,05dc,05de,fb2e,05d6,05e8,05d0,05e4,0020,05e2,05db,05e2,05dc,05d8,05e0,05e4,05e2,0020,05df,05e2,05e0,05e2,05d3,05e8,fb2f,05d5,05e6,05e0,05f2,fb2e,0020,05d8,fb2f,fb31,05d3,fb2e,05e4,000a,05e2,05f2,05e0,0020,05df,05e4,05d5,05e8,05e2,05d2,0020,05d8,fb2f,05d4,2019,05de,0020,05d6,fb2e,0020,002c,05d8,05e8,05d9,05e7,05d9,05e0,05d5,05de,fb2e,05e7,0020,05f2,05de,05e8,fb2e,0020,05e8,05e2,05d3,0020,05df,05d5,05e4,0020,fb31,fb2e,05d8,05e9,002d,05d8,fb44,05d9,05d5,05d4,0020,05e8,05e2,05d3,000a,002e,05df,05e2,05d2,05e0,05d5,fb31,05d9,05d0,0020,05e3,05d9,05d5,05d0,0020,05df,05d8,05d8,05d9,05f0,05e8,05e2,05d6,05e2,05e8,0020,05d2,05e0,05e2,05d2,05e8,fb2f,05d9,0020,05f2,05f0,05e6,000a,05e8,05e2,05e0,05d9,05d5,05d0,05f0,05e0,05f2,05d0,0020,05d9,05d3,0020,05df,05d8,05dc,fb2e,05d4,05e8,fb2e,05e4,0020,05da,05d9,05d6,0020,05df,05e4,05e8,fb2e,05d3,0020,05d9,05f0,0020,002e,0032,000a,05da,05d9,05d6,0020,05df,05e1,05d0,fb44,05d5,05e6,2014,05e8,05e2,05d6,05f2,05d4,05e0,05d9,05d5,05d0,05f0,0020,05df,0020,05d0,0020,0028,05d0,0020,003a,05d8,05e2,fb38,05db,05d9,05dc,05e4,05e8,fb2e,05e4,0020,05d6,05d9,05d0,0020,05e8,05e2,05e0,05d9,05d5,05d0,05f0,05e0,05f2,05d0,0020,05e8,05e2,05d3,05e2,05d9,000a,05e8,05e2,05d6,05f2,05d4,0020,05d9,05d3,0020,05df,05d5,05e4,0020,05df,05e8,05e2,05d9,05d5,05d8,0020,05d9,05d3,0020,05df,05d9,05d0,0020,05df,05e2,05d2,05e0,fb2e,05d4,05e2,05d2,05e1,05d9,05d5,05d0,0020,05df,05e2,05e0,05f2,05d6,0020,05e1,fb2f,05f0,0020,002c,05df,05e2,05d2,05e0,05d5,05d6,05f2,05f0,05e0,fb2f,0020,05d9,05d3,0020,05d5,05e6,000a,05d9,05d3,0020,05da,05d9,05d6,0020,05df,05e4,05e8,05d0,05f0,fffd,05e2,05d8,05e0,05d5,05d0,0020,2014,0020,05e8,05e2,05e6,05e2,05dc,fb44,0020,05e2,05db,05e2,05dc,05d8,05e0,05e4,05e2,0020,05df,05d5,05d0,0020,05df,05e1,fb2e,05d2,0020,05d9,05d3,0020,05e3,05d9,05d5,05d0,0020,0028,fb31,000a,002d,05e2,05d8,05e1,fb2f,fb44,002d,05d8,05f2,05e7,05e8,05e2,fb3b,05d9,05d6,0020,05d9,05d3,0020,05df,05d5,05d0,0020,05df,05e2,05e0,fb2e,05d2,05e8,fb2f,0020,002d,0020,05f2,05e6,05d9,05dc,fb2f,fb44,0020,05d9,05d3,0020,05df,05d5,05e4,0020,05df,05e2,05d2,05e0,05d5,05e0,05e2,05d3,05e8,fb2f,05e8,fb2e,05e4,000a,002e,05e1,05e2,05e7,05e0,05d5,05e8,000a,05e8,05e2,05d9,05d5,05dc,fb31,0029,0020,05d8,05dc,05e7,05e0,05d5,05d8,05e8,fb2e,05e4,0020,05df,05f2,05d6,0020,05e3,05e8,fb2e,05d3,0020,05e1,05e2,05e7,05e9,05d6,fb2f,fffd,fb2f,05d3,0020,05df,05d5,05d0,0020,05e1,fb2f,05d8,05d9,05d5,05d0,0020,05df,05d5,05e4,0020,05d8,05db,05d9,05dc,0020,05e1,fb2f,05d3,000a,05e1,fb2f,05f0,0020,002c,05dc,05e2,05d8,05e9,05e8,05d0,05e4,0020,05df,05f2,05e7,0020,05d8,05d9,05e0,0020,05df,fb31,fb2f,05d4,0020,05e1,fb2f,05f0,0020,002c,05df,05dc,05d0,05e7,fb2f,05dc,0020,05df,05d5,05d0,0020,05df,05e2,05d2,05e0,05d5,05e0,05d9,05d5,05d0,05f0,0020,05d9,05d3,0020,05df,05d9,05d0,0020,002e,0028,05e8,05d9,05dc,fb2f,05e7,000a,002e,05df,05e8,05e2,05f0,0020,05df,05e9,fb2f,05dc,05e2,05d2,05e1,05d9,05d0,0020,05df,05e6,05e0,fb2e,05d2,05e0,05d9,05d0,0020,05e8,05e2,05f2,05e4,0020,05e1,fb2f,05d3,0020,05e3,05e8,fb2e,05d3,0020,002c,05d8,05db,05d9,05dc,0020,05df,05f2,05e7,0020,05da,05e8,05d5,05d3,0020,05d8,05d9,05e0,0020,05d8,05d6,fb2f,05dc,000a,002c,05e4,05e2,05e8,05d8,0020,002c,05df,05e2,fb2f,05e8,05d5,05d9,fb31,0020,002c,05e8,05e2,05d6,05f2,05d4,0020,05e2,05d8,05d0,05f0,05d9,05e8,05e4,0020,05d9,05d3,0020,05df,05d5,05e4,0020,05e8,05e2,05d8,05e6,05e0,05e2,05e4,0020,05e2,05e0,05e2,05d8,05db,05d9,05d5,05dc,fb2e,fb31,0020,05d9,05d3,000a,05d8,05dc,05e2,05d8,05e9,05d5,fb2e,05e4,0020,05df,05e2,05e0,05d9,05d2,fb2e,fb31,0020,05d6,05d9,fb31,0020,05e8,05e2,05d8,05e6,05e0,05d9,05e4,0020,05df,05d5,05e4,0020,05df,05e4,05e8,fb2e,05d3,0020,002c,05df,05dc,fb2e,05e7,fb2f,05dc,0020,05e2,05e8,05e2,05d3,05e0,fb2e,0020,05df,05d5,05d0,0020,05df,05d8,fb2e,05d8,05e9,05e8,05d0,05f0,000a,002e,05d8,05db,05d9,05dc,0020,05df,05f2,05e7,0020,05da,05e8,05d5,05d3,0020,05d8,05d9,05e0,0020,05df,05d6,fb2f,05dc,0020,05e1,fb2f,05f0,0020,002c,05df,05db,fb2e,05d6,0020,05d8,05d9,05de,0020,05df,05e8,05e2,05f0,000a,002d,05e8,fb2e,05e4,0020,05e3,05db,05d9,fb4a,0020,05e3,05d5,05d0,05d3,0020,05e8,05e2,05e6,05e2,05dc,05e4,0020,05df,05d5,05d0,0020,05df,05e1,fb2e,05d2,0020,05d9,05d3,0020,05e3,05d9,05d5,05d0,0020,05df,05d8,05e7,05e0,05d5,fb44,0020,05e2,05e0,05e2,05d8,05db,05d9,05d5,05dc,fb2e,fb31,0020,05dc,fb2f,05e6,0020,05d9,05d3,000a,05df,05d5,05e4,0020,05df,05d8,fb2f,fb31,05e8,fb2e,05e4,0020,05d6,05d9,05d0,05f2,05e1,0020,0021,05dd,05d5,05de,05d9,05e0,05d9,05de,0020,05df,05e7,05d9,05d8,05f2,05e0,0020,05df,05d6,05d9,fb31,0020,0028,05df,05e8,05e2,05f0,0020,05d8,05e8,05d9,05e6,05d5,05d3,05e2,fffd,0029,0020,05df,05e8,05e2,05f0,0020,05d8,05e8,05e2,05e0,05e2,05dc,05e7,000a,002d,05df,fb2f,05e2,05e0,0020,05d9,05d3,0020,05df,05d3,05e0,05d9,05e6,05e0,05d0,0020,05e8,05e2,05d8,05e1,05e0,05e2,05e4,002d,05dc,05e2,05d8,05e9,05e1,05d9,05d5,05d0,0020,05d9,05d3,0020,05df,05d8,05db,05f2,05dc,05d0,fb31,0020,05d5,05e6,0020,05df,05e2,05e0,05d9,05d2,fb2e,fb31,0020,05d6,05d9,fb31,0020,05e8,05e2,05d8,05e1,05e0,05d9,05e4,000a,05e3,05e8,fb2e,05d3,0020,05d0,05e4,05d5,05d2,0020,05e8,05e2,05d6,05f2,05d4,0020,05d9,05d3,0020,05df,05d9,05d0,0020,05d8,05db,05d9,05dc,0020,05d9,05d3,0020,05da,05d9,05d5,05d0,0020,05df,05d5,05d0,0020,05e1,05e2,05de,fb2e,05dc,05e7,05e2,05e8,002d,05d8,05db,05d9,05dc,0020,05d9,05d3,0020,002c,05e1,05e2,05de,fb2e,05dc,05e7,05e2,05e8,000a,002e,0028,05df,05e8,05e2,05de,05d5,05e0,002d,05f2,05e6,05d9,05dc,fb2f,05e4,0020,05d9,05d3,0020,05dd,fb2e,05e0,05e1,05d9,05d5,05d0,0020,05df,05d8,05d9,05de,0029,0020,05df,05e9,fb2f,05dc,05e2,05d2,05e1,05d9,05d5,05d0,0020,05df,05f2,05d6,000a,002d,05e5,05d5,05e9,0020,05e8,05e2,05d3,0020,05ea,05e2,fb31,0020,05da,05d9,05d6,0020,05df,05d8,05dc,fb2e,05d4,fb2e,fb31,0020,05df,05d2,05e2,05f0,0020,05df,05d8,05e4,05d9,05e8,05e9,05e8,fb2e,05e4,0020,05d9,05d3,000a,05e1,05e2,05d4,fb2e,05d8,fb2e,002d,05d8,05e4,05d5,05dc,0020,05df,05d2,05e2,05e7,0020,05d8,05f2,05e7,05d8,05f2,05e8,05d2,000a,002e,05d2,05e0,05d5,05d8,05db,05f2,05dc,fb2e,fb31,0020,05d9,05d3,0020,002e,0049,000a,003a,05df,05d8,05e4,05d9,05e8,05e9,05e8,fb2f,05e4,0020,05e2,05e7,05d9,05d6,fb2f,05d3,0020,05d9,05d3,0020,05df,05d8,05db,05d9,05dc,05e4,05e8,fb2e,05e4,0020,05e7,05d9,05d8,05f2,05e6,05db,05f2,05dc,05d2,0020,002e,0049,0049,000a,05f4,05e2,05d8,fb2e,fb3e,0020,05df,05d5,05d0,0020,05e8,05e2,05db,05e2,05dc,05e0,05e2,05d6,05e8,05e2,05e4,0020,05df,05d5,05e4,0020,05d8,05db,05d9,05dc,05e4,0020,05d9,05d3,0020,05e9,05d9,05d8,fb2e,05de,fb2f,05d8,05d9,05d5,05d0,0020,05d8,05f2,05d8,05e9,05d8,05e0,fb2e,0020,05e1,05e2,0020,002e,0049,000a,002e,05e3,05dc,05d9,05d4,002d,05e1,05d2,05d9,05e8,05e7,0020,05e8,05e2,05dc,05e2,05d9,05e8,000a,05dd,05e2,05d3,0020,05df,05d5,05e4,0020,05d8,05e0,05d5,05e8,05d2,0020,05df,05e4,05d9,05d5,05d0,0020,002c,05d8,05db,fb2e,05de,05e2,05d2,0020,05d8,05e0,fb2e,05e7,fb2e,fb31,0020,05d8,05e8,05e2,05f0,0020,05d8,05d9,fb3e,05e8,05e2,05d3,0020,05d2,05e0,fb2e,05d4,05e0,05e2,05de,fb2e,05d6,05d5,05e6,0020,05df,05d9,05d0,000a,05f0,05d0,05d8,05e1,05d5,05d0,0020,002e,05e0,05e2,05d9,05d6,05d3,0029,0020,0031,0039,0033,0034,0020,05e5,05e8,05e2,05de,0020,05df,05d8,002d,0031,0035,0020,05df,05d5,05e4,0020,05e1,05e2,05e7,05d0,05d8,fb2e,002d,05d6,fb2e,05d2,0020,05df,05d5,05d0,002d,05d8,05e4,05d5,05dc,0020,05df,05d2,05e2,05f0,0020,05e5,05e2,05d6,05e2,05d2,000a,003a,05e1,fb2f,05f0,002d,05d8,fb2f,0020,0029,0037,0034,0032,0020,002e,05d6,fb2f,05e4,0020,002c,0038,0030,0020,002e,05de,05d5,05e0,000a,05f4,05d8,05f2,05e8,05d2,002d,05e5,05d5,05e9,0020,05df,fb2f,0020,05d2,fb2f,05d8,0020,05df,05e7,05d9,05d8,05e0,05f2,05d4,0020,05df,05d5,05e4,0020,05d8,05e0,05d3,05e8,fb2f,05e8,05d0,05e4,0020,05d8,fb2f,05d4,0020,05e8,05e2,05d8,05e1,05d9,05e0,05d9,05de,002d,05e1,05d2,05d9,05e8,05e7,0020,05e8,05e2,05d3,000a,002e,05df,05e4,05d5,05e8,05e4,fb2f,0020,05df,05d6,05d9,fb31,0020,05df,05e8,05e2,05d9,05d5,05d3,0020,05d8,05e2,05f0,0020,05e1,fb2e,05f0,0020,002c,05e1,05e2,05e7,fb2e,05d8,fb2e,002d,05d8,05e4,05d5,05dc,0020,05df,05d2,05e2,05e7,0020,05d8,05f2,05e7,000a,05df,05d8,fb2e,05e7,05d0,05dc,05e4,0020,05e2,05e1,05f2,05f0,0020,05df,05e8,fb2f,05f0,05e2,05d2,0020,05d8,05e4,05e2,05dc,05e7,05e2,05d2,05e8,05e2,05d3,05e0,fb2e,05e0,05d5,05e4,0020,05df,05e1,fb2e,05d2,0020,05d9,05d3,0020,05e8,05e2,fb31,05d9,05d0,0020,05df,05e2,05e0,05f2,05d6,0020,05df,05d8,05db,05e2,05e0,000a,003a,05da,05e2,05de,05e8,fb2e,05dc,fb2e,002d,05d6,fb2e,05d2,0020,05df,05d2,05e2,05f0,0020,05e1,05e2,05d9,05e6,05d0,05de,05e8,fb2f,05e4,05e0,05d9,05d0,0020,05d8,05d9,05de,0020,05e1,fb2e,05e4,0020,05df,05d8,05d9,05d5,05e8,0020,fb2e,0020,05d8,05d9,05de,000a,05e8,fb2e,05e4,0020,05da,05d9,05d5,05d0,0020,05df,05e2,05f0,05e2,05d2,0020,05d6,05d9,05d0,0020,05d8,05e7,fb2e,fb44,0020,05df,05e9,05d9,05e1,05d5,05e8,000a,05e8,fb2e,05e4,0020,05e8,fb2f,05e0,0020,05d8,05d9,05e0,0020,002c,05dd,fb2e,05d6,05e7,05e8,05d9,05f0,0020,05e8,05e2,05f2,05d6,0020,05e2,05d9,05dc,fb2e,05d8,05d9,05d0,000a,05df,fb31,05f2,05dc,fb31,0020,05e2,05d9,05dc,fb2e,05d8,05d9,05d0,0020,05e8,05e2,fb31,fb2f,0020,05dc,fb2f,05d6,0020,002e,05df,05d0,fb44,fb2e,05d9,000a,002d,05dc,05e1,05d9,05dc,05e9,0020,fb2e,0020,05d2,05d9,05e8,05e7,0020,05d0,0020,05da,fb2f,05e0,0020,05d9,05d6,0020,05d8,fb2f,05d4,0020,002c,05dc,05d0,05e8,05d8,05f2,05e0,000a,05d8,05e2,05f0,0020,05df,fb2f,05d9,05dc,05d9,05de,0020,0034,0035,0020,05df,05d5,05e4,0020,05d4,05db,05d5,05dc,05de,0020,fb2e,0020,002e,05e2,05d9,05e6,05d9,05d6,fb2f,fb44,000a,002d,05e2,fb31,05d9,05d0,0020,05d9,05d3,0020,05ea,05e2,05e9,fb31,0020,002c,05e5,05e0,05d0,05d2,0020,05df,fb31,05f2,05dc,fb31,000a,05df,05dc,05e2,05f0,0020,2014,0020,05e2,05d8,05d2,05d9,05d6,fb2e,fb31,0020,05df,05d5,05d0,0020,05d3,05e2,05d2,05d9,05d6,0020,2014,0020,05e2,05e7,05d9,05e8,000a,05d0,05d3,05f2,05d2,0020,05e1,fb2f,05f0,0020,05d0,05dc,05d0,0020,002e,05d8,05d5,05dc,fb31,0020,05d8,05d9,05de,0020,05df,05e4,05d9,05d5,05dc,05e4,fb2f,000a,002e,05d4,05e6,05d9,05dc,05de,05d4,0020,05ea,05e8,05d0,05e4,05ea,05dc,0020,05e8,05d0,05e0,0020,05e1,05e2,0020,05d6,05d9,05d0,2014,05d8,fb31,05f2,05e8,05e9,000a,05d8,05e2,05f0,0020,05e8,05e2,0020,05df,05e2,05f0,0020,002c,05d8,05f2,05e6,0020,fb2e,0020,05df,05e2,05de,05d5,05e7,0020,05d8,05e2,05f0,0020,05e1,05e2,000a,05d4,05e8,05d4,05de,fb31,0020,05e2,05e7,fb2e,05d8,0020,05df,05d5,05d0,0020,05e9,05e8,05e2,05d3,05e0,fb2e,0020,05df,fb31,05f2,05e8,05e9,000a,002e,05d5,05e0,05d9,05de,05d9,fb31,000a,05dc,05f2,05f0,05e8,05e2,05d3,0020,05d8,05e8,05d9,05dc,05d5,05e7,05dc,fb2e,05e7,0020,05df,fb2f,05d3,05e0,fb2f,05dc,0020,05e8,05e2,fb31,fb2f,000a,05df,05d9,05d0,0020,05d8,05e2,05d6,0020,05df,05d5,05d0,0020,05e8,05e2,05d2,05d2,05e2,05e7,0020,05e1,05dc,fb2e,0020,05e2,05d9,05dc,fb2e,05d8,05d9,05d0,000a,002e,05ea,05d5,05e0,05db,05e1,0020,05df,05f2,05e7,0020,05d8,05d9,05e0,0020,05dd,fffd,05d3,000a,05d6,fb2e,0020,002c,05d8,05e0,05d0,05e7,fb2e,fb31,0020,05df,fb2f,05d3,05e0,fb2f,05dc,0020,05df,05d9,05d0,0020,05da,05d9,05d5,05d0,0020,05d6,05d9,05d0,05f3,05e1,000a,002d,05d9,05e8,05e2,05de,fb2e,0020,05d9,05d3,0020,05df,05dc,05e2,05f0,0020,05dc,05e2,fb44,fb2e,0020,05e1,05d8,05dc,05e2,05f0,05d6,05d5,05e8,0020,05da,fb2f,05e0,000a,002d,05d0,05e8,05e7,fb2e,05de,05e2,05d3,0020,05d9,05d3,0020,05e8,fb2e,05e4,0020,05e1,05e2,05d9,05d8,05d0,fb44,05de,05d9,05e1,0020,05e8,05e2,05e0,fb2e,05e7,000a,05e2,05d9,05e6,05d9,05e0,05d5,05de,fb2e,0020,05df,05d9,05d0,0020,05df,05e8,05e2,05f0,0020,05d8,05e8,05d9,05e8,05e2,05e4,05d8,05e0,fb2e,05e8,05d8,0020,05e1,05e2,05d9,05d8,000a,002d,05d0,fb31,0020,05d5,05e6,0020,05e1,fb2f,05f0,0020,05d8,05d9,05de,0020,fb31,05d5,05e8,05dc,0020,05df,05d8,05e7,05d5,05d3,fb2f,05e8,fb44,0020,05df,05d5,05d0,000a,fb31,05d9,05d5,05d0,0020,002c,05dd,05e9,05d4,0020,05da,05d5,05e8,fb31,0020,05df,05d0,05e8,05d0,05e4,0020,05d6,05d9,05d0,0020,05df,05dc,fb2f,05e6,000a,05df,fb2f,05d3,05e0,fb2f,05dc,0020,05d8,fb2f,05d4,0020,002c,05e8,05dc,fb2f,05d2,0020,05df,05dc,05e2,05e4,0020,05d8,05e2,05f0,0020,05e2,05e9,05e8,fb2e,05f0,000a,002e,05df,05d3,05f2,fb31,0020,05e8,fb2e,05e4,0020,05d2,05d5,05e0,05e2,05d2,000a,002d,05e0,fb2f,fb44,05e1,05e2,05e8,fb2f,05e7,0020,05d9,05d3,0020,05df,05d9,05dc,05e8,05e2,fb31,0020,05df,05d5,05e4,0020,05df,05e2,05de,05d5,05e7,05d9,05e1,000a,002d,05e0,05d5,05d8,05f2,05e6,0020,05e2,05e9,05d9,05dc,05d2,05e0,05e2,0020,05e2,05e1,05d9,05d5,05e8,05d2,0020,05d9,05d3,0020,05df,05d5,05e4,0020,05df,05d8,05e0,05e2,05d3,000a,002d,05e8,05e2,05d8,05e0,05d5,05d0,0020,05e1,fb2f,05d3,0020,05d6,fb2e,0020,002c,05df,05dc,05f2,05e6,05e8,05e2,05d3,0020,05df,05d5,05d0,0020,05df,05e2,05d2,000a,05d8,05e7,05d0,fb44,0020,05df,05e9,0020,05dc,05d9,05d5,fb44,0020,002d,0020,05e9,05d9,05dc,05d2,05e0,05e2,0020,05df,05d5,05e4,0020,05df,fb31,05f2,05e8,05e9,000a,05df,05e7,05e8,05d0,05d8,05e9,0020,fb2e,0020,05e8,05e2,05f2,05d6,0020,05d8,05db,05d0,05de,05e2,05d2,0020,05df,05d8,05e8,fb2f,05d3,0020,05d8,fb2f,05d4,000a,05df,05e8,fb2f,05f0,05e2,05d2,0020,05df,05e9,fb2f,05dc,05e2,05d2,05e1,05d9,05d5,05d0,0020,05d6,05d9,05d0,05f3,05e1,0020,002e,05e7,05f0,05d3,05e0,05f2,fb2e,000a,05d6,fb2e,0020,002c,05d2,05e0,05d5,05e0,05e2,05e4,fb2f,05d4,0020,05df,05d5,05e4,0020,05e7,05e0,05d5,05e4,0020,05e8,05e2,05d8,05e6,05e2,05dc,0020,05e8,05e2,05d3,000a,05d6,05d9,05d0,0020,05e1,05e2,0020,002e,05df,05e2,05d9,05e6,05e7,05d9,05e8,05d5,05e6,0020,05da,05d9,05d6,0020,05d8,05e2,05f0,0020,05d3,05e0,05d0,05dc,05d2,05e0,05e2,000a,05df,05d5,05e4,0020,05e2,05d9,05e6,05d0,05dc,05d5,05e7,05dc,fffd,05e7,0020,05d9,05d3,0020,05df,05dc,05d0,05e4,05e2,05d2,05db,05e8,05d5,05d3,0020,05da,05d9,05d5,05d0,000a,05dd,05e2,05d3,05db,fb2f,05e0,0020,05df,05d5,05d0,0020,05df,05dc,05d9,05d5,fb44,0020,05df,05d2,05e2,05e7,0020,05d2,05d9,05e8,05e7,0020,002d,0020,05e5,05d9,05dc,fb31,0020,05d0,000a,002e,05da,05f2,05e8,05e7,05e0,05d0,05e8,05e4,0020,05df,05d5,05d0,0020,05d3,05e0,05d0,05dc,05d2,05e0,05e2,0020,05d8,05d9,05de,0020,05dd,05d5,05dc,05e9,0020,05d0,000a,002d,05db,05e2,05dc,05d2,05e2,05de,0020,fb2e,05d6,fb2e,0020,05e1,05d9,05d5,05d0,0020,05d8,05e1,05d9,05dc,05e9,0020,05da,fb2e,05de,fb44,fb2f,0020,05e8,05e2,05d3,000a,05e8,05e2,05d3,0020,05da,05e2,05dc,05d8,05e0,05d2,05f2,05d0,0020,05d6,05d9,05d0,0020,05e1,fb2f,05d3,0020,05df,05d5,05d0,0020,05d8,05f2,05e7,000a,002e,05d8,05e6,05d9,05d0,0020,05d0,05e7,05f0,05d3,0020,05df,fb31,05f2,05e8,05e9,05e8,05e2,05d8,05e0,05d5,05d0,0020,05df,05d5,05e4,0020,05df,05d9,05d6,000a,002d,05e2,05d3,0020,05df,05dc,05d9,05d5,fb44,0020,05df,05d5,05d0,0020,05d3,05e0,fb2e,05dc,05d2,05e0,05e2,0020,05df,fb31,fb2f,05d4,0020,05e8,05e2,05d8,05f2,05f0,000a,05df,fb31,05f2,05e8,05e9,05e8,05e2,05d8,05e0,05d5,05d0,0020,05d8,05e0,05e2,05e7,0020,05e8,05d9,05d0,0020,003a,05d8,05e8,05d9,05e8,05d8,05e1,05e0,fb2f,05de,000a,05da,05d9,05d5,05d0,0020,05df,05e2,05e0,05e2,05e7,0020,05e8,05d9,05de,0020,002c,05d4,05e2,05e9,0020,0032,0034,0020,05df,05d9,05d0,0020,05df,05db,05d0,05de,fb44,fb2f,000a,002e,05e8,fb2f,05e0,0020,05df,05dc,05d9,05f0,0020,05e8,05d9,05de,0020,05d6,fb2e,000a,05d6,05e1,fb2e,fb44,fb2e,05d6,002d,05d6,05f2,fb44,05e9,0020,05d9,05d3,0020,05df,05d8,05d9,05d4,05e8,fb2e,05e4,000a,003f,05d2,05e0,05d5,05d8,05e4,05d9,05d2,05e8,fb2e,05e4,002d,05d6,fb2e,05d2,0020,05df,05d5,05e4,000a,002c,05e1,05e2,05d9,05e6,fb2e,05de,05e8,fb2f,fffd,05e0,05d9,05d0,0020,fb2f,05d3,0020,05df,05e2,05d2,05e0,05e2,05e8,fb31,0020,05e8,05d9,05de,000a,05df,05e1,fffd,fb44,fb2e,05d6,002d,05d6,05f2,fb44,05e9,0020,05d9,05d3,0020,05df,05d8,05d9,05d4,05e8,fb2e,05e4,0020,05d5,05e6,0020,05d9,05d5,05d6,fb2e,0020,05d9,05f0,000a,002e,05d2,05e0,05d5,05d8,05e4,05d9,05d2,05e8,fb2e,05e4,002d,05d6,fb2e,05d2,0020,05df,05d5,05e4,000a,05d8,05e7,05d0,fb44,05e2,05d2,05e0,05f2,05d0,0020,05df,05e4,05e8,fb2e,05d3,0020,05df,05d8,05e7,05d5,05d3,fb2f,05e8,fb44,002d,05d6,05f2,05e4,05e9,000a,05df,05d6,fb2f,05dc,0020,05e1,fb2f,05f0,0020,002c,05df,05dc,fb2e,05d9,05e8,05e2,05d8,fb2e,05de,0020,05df,05d9,05d0,0020,0028,0031,0020,003a,05df,05e8,05e2,05f0,000a,002c,05da,05e2,05dc,fb31,0020,002c,05e8,05d5,05d8,05e7,05e2,05d8,0020,05d9,05f0,0020,002c,05d8,05db,05d9,05dc,0020,05df,05f2,05e7,0020,05da,05e8,05d5,05d3,0020,05d8,05d9,05e0,000a,002d,05db,05f2,05e4,0020,05e8,05d0,05e4,0020,05f2,05d6,0020,05df,05d8,05d9,05d4,05e8,05d0,05e4,0020,0028,0032,0020,002e,05d6,fb2f,05dc,05d2,0020,05e8,05e2,05e0,05d9,05d3,000a,05d8,05d5,05d2,0020,05f2,05d6,0020,05df,05e4,05e8,05d0,05d3,0020,05e7,05e2,05f0,05e6,0020,05dd,05e2,05d3,0020,05d5,05e6,0020,002e,05d8,05f2,05e7,000a,002c,05e8,05d9,fb44,fb2e,fb44,002d,05df,05d9,05de,fb2e,05d2,05e8,05e2,fb44,0020,05df,05d9,05d0,0020,05df,05e8,05e2,05f0,0020,05d8,05e7,05d0,fb44,05e2,05d2,05e0,05f2,05d0,000a,05e8,05e2,05d3,fb2f,0020,05e1,05e2,05e7,05e9,05d5,fb44,0020,05e2,05e0,05e2,05db,05e2,05dc,fb31,0020,002c,05df,fb2f,05e4,fb2e,05dc,05e2,05e6,000a,0028,0033,0020,002e,05dd,05d9,05dc,05db,0020,05e2,05d8,05db,05d0,05de,05e8,05d0,05e4,0020,05e9,05d9,05d8,05e2,05de,05e8,05e2,05d4,0020,05df,05d9,05d0,000a,05e8,05f2,05e9,fb3b,201e,0020,05d9,05e9,05e1,05dc,05e2,05d9,05d2,05e0,fb2e,0020,05e8,fb2e,fb31,000a,0028,05e8,05e2,05de,05d9,05e6,0020,05d4,05dc,fb2e,05e4,0020,05e8,05e2,fb31,fb2e,05d4,05e0,05d9,05d0,0029,000a,05e8,fb2f,05d9,0020,0031,0039,0030,0037,0020,002e,05d6,05e7,05e2,0020,0035,0033,0020,05e2,05d8,05f2,05e8,fb31,0020,002c,05e2,05e0,05dc,05d9,05f0,000a,002e,0032,0036,2014,0035,0030,0020,002e,05dc,05e2,05d8,000a,05df,05d5,05d0,0020,05df,05d8,05e2,05e7,05e0,05d0,fb31,0020,002c,05ea,05d5,05e0,05d5,05ea,05d7,0020,05e3,05d9,05d5,05d0,0020,05df,05e2,05d2,05e0,05d5,05dc,05e2,05d8,05e9,05d0,fb31,000a,002e,05d8,05e8,05d9,05e4,05e2,05d2,05e1,05d9,05d5,05d0,0020,05da,05e2,05dc,05d8,05e7,05e0,05d9,fffd,0020,05df,05e8,05e2,05f0,0020,05d8,05de,05d5,05d0,05e2,05dc,05d9,fb31,05d5,05d9,000a,05df,05e2,05de,0020,05df,fb2f,05e7,0020,05dc,fb2e,05e4,002d,05d8,05d9,05d5,05e0,0020,fb2e,0020,05df,05d5,05e4,0020,05dc,fb2e,05e4,0020,05df,05d9,05d0,000a,002d,05d0,fb44,002d,05e1,05d2,05e0,05d5,05d8,05f2,05e6,0020,05df,05d9,05d0,0020,05df,05e7,05d0,fb44,05e8,05d0,05e4,0020,05d8,05d5,05d2,0020,05df,05db,fb2e,05d6,0020,05d9,05d3,000a,05dc,fb2f,05de,0020,05e2,05db,05e2,05dc,05d8,05e2,0020,05d8,05dc,05e7,05d9,05f0,0020,05df,05e2,05de,0020,05e2,05db,05dc,05e2,05f0,0020,002c,05e8,05d9,fb44,000a,002e,05df,05d6,05f2,fb44,05e9,0020,05d9,05d3,0020,05dd,05d5,05e8,fb2e,000a,05d6,05d5,05de,0020,05df,05e1,fb2e,fb44,fb2e,05d6,002d,05d6,05f2,fb44,05e9,0020,05e2,05e7,05d9,05d8,05d9,05d5,05e0,002d,05e8,fb2f,05d2,0020,05d9,05d3,000a,05e1,05e2,05e7,05e9,05d5,fb44,0020,05e2,05e0,05e2,05dc,05d0,05d8,05e2,05de,0020,05df,05d9,05d0,0020,05df,05d2,05f2,05dc,05e0,05f2,05e8,fb2e,0020,05df,05e2,05de,000a,05e2,05db,05dc,05e2,05f0,0020,002c,05d6,fb2f,05dc,05d2,0020,05df,05d5,05d0,0020,05dd,05d5,05d9,05e0,05d9,05de,05d5,05dc,fb2e,0020,002c,05da,05e2,05dc,fb31,0020,05df,05d5,05e4,000a,05f4,05e8,fb2e,05e4,0020,05e8,05e2,05e0,05e2,05de,05d5,05d2,0020,fb2e,0020,05d8,05d9,05de,0020,05d8,05db,fb2e,05de,05e8,fb2e,05e4,0020,05df,05e2,05d6,05f2,05d6,000a,05d5,05e6,0020,05e7,05d9,05d8,05d9,05d5,05d2,0020,05d8,05d2,05e0,05d9,05d3,05d0,fb31,05de,05d5,05d0,0020,05d6,05d9,05d0,0020,05e1,05e2,0020,002e,05d2,05e0,05d5,05e1,05d9,05dc,05e9,000a,05d9,05d3,0020,05df,05d5,05e4,0020,05d8,05f2,05d6,0020,05e2,05db,05e2,05dc,05e8,05e2,05e1,05d9,05d5,05d0,0020,05d9,05d3,0020,05df,05e8,05d9,05de,05e9,fb2e,fb31,000a,05f4,fb2e,05f0,0029,0020,002c,05d8,05db,05d9,05e9,002d,05e8,05d9,05dc,fb2f,05d6,05d9,05d0,0020,05df,fb2e,0020,05d8,05d9,05de,0020,05e1,05e2,05e7,05e9,05d5,fb44,000a,05e2,05d3,05e0,05e7,05d9,05d8,05e9,0020,05d9,05d3,0020,05dc,05f2,05f0,0020,002c,0028,0020,05e7,fb2e,05dc,05e8,05e2,05e9,0020,002c,05df,05d9,05dc,05e2,05d6,000a,05d9,05d3,0020,05df,05e7,05d9,05d3,05e2,05e9,fb2e,fb31,0020,002c,05df,05e2,05d2,05e1,fb2f,05e4,0020,002c,05e8,fb2f,05dc,05db,0020,05d9,05f0,0020,002c,05df,05d6,fb2e,05d2,000a,002e,05df,05dc,fb2e,05d8,05e2,05de,000a,05da,05d9,05d6,0020,05df,05e4,fb2e,05e9,05e8,fb2e,05e4,0020,05d8,05d9,05e0,0020,05df,fb2f,05e7,0020,05df,05e2,05de,0020,fb31,05d9,05d5,05d0,000a,05df,05e2,05de,0020,05df,fb2f,05e7,0020,002c,05da,05e2,05dc,05e7,05e0,05e2,05e8,05e9,002d,05d6,05f2,fb44,05e9,0020,05e2,05db,05dc,05e2,05d6,fb2e,000a,05e2,05e0,05e8,05e2,05e6,05dc,05d9,05d4,0020,05df,05d9,05d0,0020,05df,05e7,fb2e,fb44,05e8,fb2e,05e4,0020,05f2,05d6,0020,05dc,05e2,05d5,05d8,05e0,05e2,05f0,05e2,000a,05d8,05d9,05de,0020,05d8,05e7,05e2,05d3,fb2e,fb31,0020,05df,05e2,05d2,05f2,05d6,0020,05e2,05db,05dc,05e2,05f0,0020,002c,05e1,05e0,05d8,05e1,fb2e,05e7,000a,002e,05da,05e2,05dc,fb31,000a,05df,05d8,05e7,05d5,05d3,fb2f,05e8,fb44,002d,05d6,05f2,fb44,05e9,0020,05d9,05d3,0020,05df,05d8,05d9,05d4,fffd,fb2e,05e4,0020,05d5,05e6,0020,05d9,05d3,05db,000a,05f2,05d6,0020,05df,05e2,05de,0020,05e3,05e8,05d0,05d3,0020,05d2,05e0,05d5,05d8,05e4,05d9,05d2,05e8,fb2e,fb44,002d,05d6,fb2e,05d2,0020,05d0,0020,05df,05d5,05e4,000a,05e1,fb2f,05f0,0020,002c,05e7,05e0,05e2,05e8,05e9,0020,05e2,05db,05dc,05e2,05d6,fb2e,0020,05df,05d9,05d0,0020,05df,05d2,05f2,05dc,05e0,05f2,05e8,fb2e,000a,05df,fb31,fb2f,05d4,0020,05e2,05db,05dc,05e2,05f0,0020,05df,05d5,05d0,0020,002c,05d8,05db,fb2e,05de,05e8,fb2e,05e4,0020,05d8,05d5,05d2,0020,05df,05e2,05e0,05f2,05d6,000a,002e,05d2,05e0,05d5,05d8,05db,05d9,05e8,05d2,05f2,05d0,002d,05e2,05d9,05e6,fb2e,05dc,05d9,05d8,05e0,05e2,05f0,0020,fb2e,000a,05d9,05d3,0020,05d5,05d0,05f0,0020,002c,05d8,05e8,fb2f,0020,05df,05d0,0020,05df,05d9,05d0,0020,05f2,05d6,0020,05df,05d8,05dc,fb2e,05d4,fb2e,fb31,000a,0034,2014,0038,0020,05df,05d5,05e4,0020,05e2,05e7,05d9,05e8,05e2,05d3,05d9,05e0,0020,fb2e,0020,05d6,05d9,05d0,0020,05e8,05d5,05d8,fb2e,05e8,05e2,fb44,05de,05e2,05d8,000a,002e,05d3,fb2e,05e8,05d2,000a,05f4,05de,05d5,05d0,0020,05e8,05d9,05d0,0020,05e8,fb2e,05e4,0020,05d2,05e0,05d5,05d0,fb2f,05e8,05d3,fb2e,fb31,0020,05e2,05e7,05e8,fb2e,05d8,05e9,0020,fb2e,0020,05d8,05e2,05d6,0020,05df,05e8,fb2e,05d2,05e0,05d5,05d0,000a,002e,05d8,05d9,05e8,05e9,0020,05df,05e7,05d9,05d6,fb2f,05d3,0020,05dd,05e2,05d3,0020,05df,05d9,05d0,0020,05d8,05f2,05e7,05d9,05d2,05e0,05e2,05d4,fb44,fb2f,000a,05e2,05e1,05d9,05d5,05e8,05d2,0020,05d9,05d3,0020,05df,05d5,05e4,0020,05d8,05f2,05d6,0020,fb2e,0020,05df,05d0,0020,05df,05e2,05e0,fb2e,05d8,05e9,05e2,05d2,0020,05d8,05e6,05d9,05d0,0020,05d6,05d9,fb31,0020,05d6,05d9,05d0,0020,05e2,05db,05dc,05e2,05f0,0020,002c,05e2,05d9,05dc,fb2e,05d8,05d9,05d0,000a,05e2,05dc,fb2e,0020,002e,05df,05d8,05f2,05e8,05d2,0020,05df,05e2,05de,05d5,05e0,05e2,05d2,0020,05da,05d9,05d5,05d0,0020,05df,05d8,05db,05e2,05e0,0020,05df,05d9,05d5,05e9,0020,05da,05d9,05d6,0020,05d8,fb2f,05d4,0020,002c,05e2,05e4,fb2f,05e8,05f2,05d0,0020,05df,05d9,05d0,0020,05ea,05d5,05e0,05db,05d4,002d,05e1,05d2,05d9,05e8,05e7,000a,05d9,05d3,0020,05df,05d5,05e4,0020,05d8,05e8,05d9,05d0,05d5,05e7,fb2e,05f0,05e2,0020,05d6,05f2,05f0,05db,05e2,05dc,05e1,05d9,fb31,0020,05df,05d9,05d5,05e9,0020,05df,05e8,05e2,05f0,0020,05e8,05e2,05d3,05e0,05d9,05e7,0020,05df,05d5,05d0,0020,05df,05e2,05d9,05d5,05e8,05e4,0020,002c,05d8,05f2,05dc,0020,05e2,05d8,05dc,05d0,000a,002e,05da,05e2,05dc,05d8,05e2,05d8,05e9,0020,05e2,05e0,05f2,05dc,05e7,0020,05df,05d5,05d0,0020,05e8,05e2,05e4,05e8,05e2,05d3,0020,05d9,05d3,0020,05df,05d9,05d0,0020,05d8,05e7,05d9,05e9,05e2,05d2,05e4,fb2f,0020,05df,05e8,05e2,05f0,0020,05df,05d5,05d0,0020,05d8,05e2,05d8,05e9,0020,05e2,05e8,05e2,05e1,05e2,05e8,05d2,000a,002e,05d2,05d9,05e8,05e7,0020,05df,05e9,05d9,05d0,05e2,05e4,fb2f,05e8,05f2,05d0,0020,05df,fb2e,0020,05df,05d5,05e4,0020,05dc,05d0,05e4,0020,05df,05d9,05d0,0020,05e1,05e2,05d9,05d8,fb2e,05f2,05e7,fb2f,05de,05e2,05d3,0020,05d9,05d3,0020,05df,05d5,05e4,0020,05d3,05e6,0020,05df,05e4,05d9,05d5,05d0,0020,05df,05e4,05de,05e2,05e7,0020,05d5,05e6,000a,05df,fb2f,05d9,05d2,05e2,05dc,0020,05e8,05e2,05e0,fffd,05e7,05d9,05e8,05e2,05de,fffd,0020,05df,fb2e,0020,05df,05d3,05e0,05d9,05e8,05d2,0020,05d5,05e6,0020,05df,fb2e,05dc,05e4,0020,fffd,0020,05df,05e2,05e0,fb2e,05d8,05e9,05d8,05e0,fb2e,0020,05d6,05d9,05d0,0020,05e2,05e7,05d9,05e8,05e2,05de,fb2e,0020,05df,05d9,05d0,000a,002e,05e2,05e4,fb2f,05e8,05f2,05d0,0020,05df,05d9,05d0,000a,05f4,05e0,05d0,05e8,05d8,0020,05df,fb31,fb2e,05d4,0020,05e1,05e2,05d9,05e6,fb2e,05d8,05e1,002d,fb2e,05d9,05d3,fb2e,05e8,0020,05e8,05e2,05e0,fb2e,05e7,05d9,05e8,05e2,05de,fb2e,0020,05d9,05d3,0020,002e,0028,05d8,fb2e,fb44,0029,0020,002c,05e7,0020,05e8,0020,fb2f,0020,05d9,0020,2013,0020,05d5,0020,05d9,0020,05d2,000a,05d6,05d0,0020,002c,05d3,05d2,fb2e,05dc,05e9,05d8,05f2,05d3,0020,05df,05e4,05e8,fb2f,05f0,05e2,05d2,05e8,fb2f,05e4,0020,05d8,fb2f,05d4,0020,05e8,05e2,0020,05e8,05e2,05db,05dc,05e2,05f0,0020,05df,05d9,05d0,0020,002c,05e2,05d3,05e2,05e8,0020,fb2e,0020,05e1,05e0,05e2,05d3,05d9,05d0,0020,05d8,05e8,05d9,05d8,05d9,05de,05e1,000a,05e8,05e2,05e0,05d0,05e7,05d9,05e8,05e2,05de,fb2e,0020,05e8,05e2,05d3,0020,05df,05d9,05d0,0020,05d8,fb2f,05d4,0020,05e2,05d3,05e2,05e8,0020,05d9,05d3,0020,002e,05df,05e2,05d2,05e0,05d5,05d8,05db,05d9,05dc,05e4,05e8,fb2e,05e4,0020,05e2,05e8,05d9,05d0,0020,05e2,05dc,fb2e,0020,05d8,05db,05e2,05e8,fb31,0020,05d9,05d6,000a,05df,05e2,05d3,05d9,05d0,0020,05d6,fb2e,0020,002c,05e8,05e2,05d8,05e0,05d5,05d0,0020,05df,05db,05f2,05e8,05d8,05e9,0020,05df,05e2,05d2,05e0,05d5,05d8,05f2,05e6,0020,05d9,05d3,0020,002e,05dd,05e9,05d5,05e8,0020,05df,05e7,05d9,05d8,05dc,fb2e,05f0,05d2,0020,fb2e,0020,05d8,05db,fb2e,05de,05e2,05d2,0020,05e2,05e1,05e2,05e8,fb44,000a,002e,05d2,05e0,05d5,05d6,05f2,05dc,0020,05e2,05db,05e2,05dc,05e1,05d9,05de,fb2f,05e8,fb44,05de,fb2f,05e7,05de,05d5,05d0,0020,05df,05d5,05d0,0020,05e2,05e7,05d9,05d3,05e4,05db,05d9,05ea,0020,fb2e,0020,05d8,05e8,05e2,05d3,fb2f,05e4,05e2,05d2,0020,05d8,fb2f,05d4,000a,002d,05e1,05d2,05e0,05d5,05e8,05d9,05d2,05e2,05e8,0020,05e2,05e9,05d8,05f2,05d3,0020,05d9,05d3,0020,05d6,fb2e,0020,002c,05d8,fb31,05f2,05e8,05e9,0020,05f4,05df,05d5,fb31,05d9,05e8,05d8,0020,05d3,05dc,fb2f,05e8,05e2,05d4,201e,0020,05e8,05e2,05e7,05e8,fb2f,05d9,002d,05d5,05d9,05e0,0020,05d9,05d3,000a,002d,05e2,05d2,0020,05d9,05d3,0020,002e,05f4,05e7,05d9,05d8,05d9,05dc,fb2e,fb44,0020,05e8,05e2,05d3,0020,05df,05d9,05d0,0020,05e1,05e8,05e2,05d8,05e1,05d2,05e0,05e2,05d2,0020,05df,05d5,05e4,0020,05df,05d3,fb2f,05d8,05e2,05de,201e,0020,05d8,05d9,05de,0020,05da,05d9,05d6,0020,05df,05e6,05d5,05e0,fb2e,fb31,0020,05df,05e8,05e2,05e4,05e1,000a,002e,05e8,05e2,05e9,05e8,05e2,05d4,0020,05e2,05e0,05d9,05d5,05d6,05d0,0020,05d8,05e0,05e2,05e7,05e2,05d2,0020,05d8,05d9,05e0,0020,05da,fb2f,05e0,0020,05d8,fb2f,05d4,0020,05d8,05dc,05e2,05f0,0020,05e8,05e2,05d3,0020,05df,05d5,05e4,0020,05e2,05d8,05db,05d9,05e9,000a,002c,05d8,05dc,fb2f,05f0,0020,05e2,05db,05dc,05e2,05f0,0020,2014,0020,05d2,05e0,05d5,05d8,05f2,05e6,0020,05d9,05d3,0020,05d8,fb31,05f2,05d5,05e9,0020,2014,0020,05d2,05e0,05d5,05e8,05d9,05d2,05e2,05e8,0020,05e8,05e2,05d3,0020,05d5,05e6,0020,05d6,05d9,05d0,0020,05f2,05f0,000a,05df,05f2,05d0,0020,05da,fb2f,05e0,0020,05df,05e8,05e2,05dc,05d8,05d9,05d4,0020,05d8,05db,05e2,05dc,05d2,05e2,05de,05e8,05e2,05d3,0020,002c,05e1,05e2,fb44,fb2f,05e7,fb2f,0020,05d9,05d3,0020,05df,05d5,05e4,0020,05e8,05e2,05e0,05dc,05e2,05d6,0020,05e2,05e8,05d9,05d0,0020,05e7,05d9,05d3,05e0,05e2,05d9,05e6,05e7,05d9,05f0,05e6,000a,05da,05f2,05e8,05e7,05e0,05d0,05e8,05e4,0020,05df,05d5,05d0,0020,05d3,05e0,fb2e,05dc,05d2,05e0,05e2,0020,002c,05df,05dc,05d9,05d5,fb44,0020,05df,05d5,05e4,0020,05d2,05e0,05d5,05e8,05e2,05e7,05dc,05e2,05e4,fb2e,fb31,0020,05d9,05d3,0020,002e,05df,05d5,05d7,05e6,05e0,0020,05df,05d8,05db,05f2,05dc,0020,05df,05d5,05d0,0020,05dd,05e2,05e0,05f2,05dc,05e7,000a,05e2,05e9,05d9,05e8,fb2e,fb31,05e8,fb2e,fb31,0020,05df,05d5,05d0,0020,05df,05e9,05d6,fb2e,05d8,05e0,05d0,05e9,0020,05e2,05db,05e2,05dc,05e8,05e2,05d4,05e4,05d9,05d5,05d0,05de,05d5,05d0,0020,05d9,05d3,0020,05d5,05e6,0020,05df,05db,fb2e,05de,0020,05d5,05e6,0020,05e3,05d5,05e1,0020,fb2e,0020,05d8,05e8,05e2,05d3,fb2f,05e4,000a,002e,05df,05e2,05d2,05e0,05d5,05d2,05dc,fb2f,05e4,05e8,fb2e,05e4,000a,002d,05d6,05f2,05e8,05e7,0020,05e8,05e2,05e0,05dc,05d9,05f0,0020,05df,05db,05e8,05d5,05d3,0020,05e2,05d8,05e8,05d9,05e0,fb2f,05d9,05e1,05e2,05e6,05e0,fffd,05e7,000a,002e,05dd,05d5,05d9,05e8,05d0,05d8,05d0,05e8,05d5,05e7,002d,05dc,05d5,05e9,000a,002d,05e1,05dc,05d3,05e0,fb2e,05d4,0020,05e2,05db,05e2,05dc,05e8,05e2,05d9,000a,05df,05e1,05e8,05d5,05e7,002d,05e2,05d9,05e6,fb2e,05e7,05d5,05d3,05e2,fb2f,05e7,000a,05df,fb2e,05d9,05dc,05d5,05d9,0020,05df,05d5,05e4,000a,05d2,05e8,05e2,fb31,05e0,05d3,05e2,05d8,05e9,000a,0034,0020,05e2,05d9,fb44,05d5,05e7,05e1,05d9,fb31,0020,002c,05e2,05e0,05dc,05d9,05f0,000a,05df,05d5,05e4,0020,05d8,fb2e,05d9,05e8,fb2e,05d8,05e2,05e8,05e7,05e2,05db,0020,05df,05d9,05d0,0020,05da,05e2,05dc,05d2,05e2,05d8,0020,05df,05e2,05d2,05e0,05d5,fb31,05f2,05e8,05e9,05e0,05f2,05d0,000a,05d8,05e0,05f0,fb2f,0020,0038,0020,05d6,05d9,fb31,0020,0035,0020,05df,05d5,05e4,0020,05df,05d5,05d0,0020,05e0,fb2f,05e1,05f2,fb31,0020,0031,0020,05d6,05d9,fb31","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,",,","002c,002c","m","006d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ראָפּ","05e8,fb2f,fb44","EJJNJN—","0045,004a,004a,004e,004a,004e,2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טיג","05d8,05d9,05d2","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"יד","05d9,05d3","
+—N......NNNJJJ","000a,2014,004e,002e,002e,002e,002e,002e,002e,004e,004e,004e,004a,004a,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"","","ni ers? vv˖ vgis vdu Ngpꝰdanut 
+— N .— . L— 
+ni ſamꝰyd yↄvvvavy pu lavasaat hon don ιέω /τι 
+nm ſu vogd ισ ισ nnnM E M 
+los?  n π","006e,0069,0020,0065,0072,0073,003f,0020,0076,0076,02d6,0020,0076,0067,0069,0073,0020,0076,0064,0075,0020,004e,0067,0070,a770,0064,0061,006e,0075,0074,0020,000a,2014,0020,004e,0020,002e,2014,0020,002e,0020,004c,2014,0020,000a,006e,0069,0020,017f,0061,006d,a770,0079,0064,0020,0079,2184,0076,0076,0076,0061,0076,0079,0020,0070,0075,0020,006c,0061,0076,0061,0073,0061,0061,0074,0020,0068,006f,006e,0020,0064,006f,006e,0020,03b9,03ad,03c9,0020,002f,03c4,03b9,0020,000a,006e,006d,0020,017f,0075,0020,0076,006f,0067,0064,0020,03b9,03c3,0020,03b9,03c3,0020,006e,006e,006e,004d,0020,0045,0020,004d,0020,000a,006c,006f,0073,003f,0020,0020,006e,0020,03c0","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"לאפ","05dc,05d0,05e4","ι","03b9","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןעמ","05df,05e2,05de","
+nxp","000a,006e,0078,0070","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"לאָמא","05dc,fb2f,05de,05d0","ι","03b9","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןצענערג","05df,05e6,05e2,05e0,05e2,05e8,05d2","dι","0064,03b9","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןײק","05df,05f2,05e7","
+l","000a,006c","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,",טינ
+-לאָבּטופ","002c,05d8,05d9,05e0,000a,002d,05dc,fb2f,fb31,05d8,05d5,05e4","dnh","0064,006e,0068","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,",,","002c,002c","vs","0076,0073","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"1","0031","n ydyn vop ypi 
+","006e,0020,0079,0064,0079,006e,0020,0076,006f,0070,0020,0079,0070,0069,0020,000a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןעמוק","05df,05e2,05de,05d5,05e7","
+5","000a,0035","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"זיראַפּ","05d6,05d9,05e8,fb2e,fb44","JNNNNJNG.","004a,004e,004e,004e,004e,004a,004e,0047,002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןופ","05df,05d5,05e4","
+——.","000a,2014,2014,002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טכאַמעגוצ","05d8,05db,fb2e,05de,05e2,05d2,05d5,05e6","τιέ⸗:","03c4,03b9,03ad,2e17,003a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןיא","05df,05d9,05d0","Nyn","004e,0079,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טעװ","05d8,05e2,05f0","dισ¶ιασ","0064,03b9,03c3,00b6,03b9,03b1,03c3","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"עשיא","05e2,05e9,05d9,05d0","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעבּאָ","05e8,05e2,fb31,fb2f","nnxvin","006e,006e,0078,0076,0069,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעד","05e8,05e2,05d3","ιέ","03b9,03ad","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,",סעיצקעל","002c,05e1,05e2,05d9,05e6,05e7,05e2,05dc","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"זופ","05d6,05d5,05e4","JJ","004a,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןעגנוזײװנאָ","05df,05e2,05d2,05e0,05d5,05d6,05f2,05f0,05e0,fb2f","n  .i&R ¶“ —  D — ","006e,0020,0020,002e,0069,0026,0052,0020,00b6,201c,0020,2014,0020,0020,0044,0020,2014,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןײז","05df,05f2,05d6","ισ","03b9,03c3","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"(א","0028,05d0","i","0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,",ןזאג","002c,05df,05d6,05d0,05d2","yιέ τιĩ dινu.g dlι E ","0079,03b9,03ad,0020,03c4,03b9,0129,0020,0064,03b9,03bd,0075,002e,0067,0020,0064,006c,03b9,0020,0045,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןרעװ","05df,05e8,05e2,05f0","eιισ","0065,03b9,03b9,03c3","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טקרעמ","05d8,05e7,05e8,05e2,05de","axe","0061,0078,0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"",""," axadm vm) ſogꝰiadn 
+—","0020,0061,0078,0061,0064,006d,0020,0076,006d,0029,0020,017f,006f,0067,a770,0069,0061,0064,006e,0020,000a,2014","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ךיז","05da,05d9,05d6","Nyn","004e,0079,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טנפע טנײה עקאַט
+-אַקיפּ ףיוא .דאַראַפּ סיורג טימ ןאָזעס
+ןוא ןטאַמראַה-ץוש-טפול ןעײטש יליד
+רעטנזיוט ךילדירפ ךיז ןריצאַפּש םוראַ
+ןײק ףיוא טאָבּראַפ ןײק אָטינ .ןשטנעמ
+היד .גנוקנײרש�בּ םוש ןײק ןוא ך�ז
+…התעשבּ הרצל
+ןײז סיװעג טעװ רעזעל ערעזנוא ראַפ
+„אַבּ ןעמ זאַ ,ןלײטוצטימ טנאַסערעטניא
+„גנע שיליופּ םעד ןאָדנאָל ןיא טכאַרט
+„אַג עטקערידמוא ןאַ יװ ךאַמפּאָ ןשיל
+„פּאָ ,2 לקיטראַ רעד .עטיל ראַפ עיטנאר
+:טגאָז ךאַמפּאָ ןופ 2 ץאַז
+„זאַגנאַ םידדצ יד ןופ רענײא לאָז„
+טימ סעיצקאַ עכילטנײפ ןוא ןרעװ טריש
+„נאָק רעד ןיא טכאַמ רעשיאעפּאָרײא ןא
+„אָד רעד דצמ עיצקא ןא ןופ ץנעװקעס
+„מוא יד טאָודאַבּ עכלעװ ,טכאמ רעקיז
+אַ ןופ טעטילאַרטײנ רעדאָ טײקיגנעהפא
+טעדליבּ סאָד זאַ ,ןפוא אַזאַ ףיוא הכולמ
+,םידדצ יד ןופ םענײא ראַפ ראַפעג אַ
+1 לקיטראַ רעד טפאַרק ןיא ןײרא טערמ","05d8,05e0,05e4,05e2,0020,05d8,05e0,05f2,05d4,0020,05e2,05e7,fb2e,05d8,000a,002d,fb2e,05e7,05d9,fb44,0020,05e3,05d9,05d5,05d0,0020,002e,05d3,fb2e,05e8,fb2e,fb44,0020,05e1,05d9,05d5,05e8,05d2,0020,05d8,05d9,05de,0020,05df,fb2f,05d6,05e2,05e1,000a,05df,05d5,05d0,0020,05df,05d8,fb2e,05de,05e8,fb2e,05d4,002d,05e5,05d5,05e9,002d,05d8,05e4,05d5,05dc,0020,05df,05e2,05f2,05d8,05e9,0020,05d9,05dc,05d9,05d3,000a,05e8,05e2,05d8,05e0,05d6,05d9,05d5,05d8,0020,05da,05d9,05dc,05d3,05d9,05e8,05e4,0020,05da,05d9,05d6,0020,05df,05e8,05d9,05e6,fb2e,fb44,05e9,0020,05dd,05d5,05e8,fb2e,000a,05df,05f2,05e7,0020,05e3,05d9,05d5,05d0,0020,05d8,fb2f,fb31,05e8,fb2e,05e4,0020,05df,05f2,05e7,0020,fb2f,05d8,05d9,05e0,0020,002e,05df,05e9,05d8,05e0,05e2,05de,000a,05d4,05d9,05d3,0020,002e,05d2,05e0,05d5,05e7,05e0,05f2,05e8,05e9,fffd,fb31,0020,05dd,05d5,05e9,0020,05df,05f2,05e7,0020,05df,05d5,05d0,0020,05da,fffd,05d6,000a,2026,05d4,05ea,05e2,05e9,fb31,0020,05d4,05e8,05e6,05dc,000a,05df,05f2,05d6,0020,05e1,05d9,05f0,05e2,05d2,0020,05d8,05e2,05f0,0020,05e8,05e2,05d6,05e2,05dc,0020,05e2,05e8,05e2,05d6,05e0,05d5,05d0,0020,05e8,fb2e,05e4,000a,201e,fb2e,fb31,0020,05df,05e2,05de,0020,05d6,fb2e,0020,002c,05df,05dc,05f2,05d8,05d5,05e6,05d8,05d9,05de,0020,05d8,05e0,fb2e,05e1,05e2,05e8,05e2,05d8,05e0,05d9,05d0,000a,201e,05d2,05e0,05e2,0020,05e9,05d9,05dc,05d9,05d5,fb44,0020,05dd,05e2,05d3,0020,05df,fb2f,05d3,05e0,fb2f,05dc,0020,05df,05d9,05d0,0020,05d8,05db,fb2e,05e8,05d8,000a,201e,fb2e,05d2,0020,05e2,05d8,05e7,05e2,05e8,05d9,05d3,05de,05d5,05d0,0020,05df,fb2e,0020,05d9,05f0,0020,05da,fb2e,05de,fb44,fb2f,0020,05df,05e9,05d9,05dc,000a,201e,fb44,fb2f,0020,002c,0032,0020,05dc,05e7,05d9,05d8,05e8,fb2e,0020,05e8,05e2,05d3,0020,002e,05e2,05d8,05d9,05dc,0020,05e8,fb2e,05e4,0020,05e2,05d9,05d8,05e0,05d0,05e8,000a,003a,05d8,05d2,fb2f,05d6,0020,05da,fb2e,05de,fb44,fb2f,0020,05df,05d5,05e4,0020,0032,0020,05e5,fb2e,05d6,000a,201e,05d6,fb2e,05d2,05e0,fb2e,0020,05dd,05d9,05d3,05d3,05e6,0020,05d9,05d3,0020,05df,05d5,05e4,0020,05e8,05e2,05e0,05f2,05d0,0020,05dc,fb2f,05d6,201e,000a,05d8,05d9,05de,0020,05e1,05e2,05d9,05e6,05e7,fb2e,0020,05e2,05db,05d9,05dc,05d8,05e0,05f2,05e4,0020,05df,05d5,05d0,0020,05df,05e8,05e2,05f0,0020,05d8,05e8,05d9,05e9,000a,201e,05e0,fb2f,05e7,0020,05e8,05e2,05d3,0020,05df,05d9,05d0,0020,05d8,05db,fb2e,05de,0020,05e8,05e2,05e9,05d9,05d0,05e2,fb44,fb2f,05e8,05f2,05d0,0020,05df,05d0,000a,201e,fb2f,05d3,0020,05e8,05e2,05d3,0020,05d3,05e6,05de,0020,05e2,05d9,05e6,05e7,05d0,0020,05df,05d0,0020,05df,05d5,05e4,0020,05e5,05e0,05e2,05f0,05e7,05e2,05e1,000a,201e,05de,05d5,05d0,0020,05d9,05d3,0020,05d8,fb2f,05d5,05d3,fb2e,fb31,0020,05e2,05db,05dc,05e2,05f0,0020,002c,05d8,05db,05d0,05de,0020,05e8,05e2,05e7,05d9,05d6,000a,fb2e,0020,05df,05d5,05e4,0020,05d8,05e2,05d8,05d9,05dc,fb2e,05e8,05d8,05f2,05e0,0020,05e8,05e2,05d3,fb2f,0020,05d8,05f2,05e7,05d9,05d2,05e0,05e2,05d4,05e4,05d0,000a,05d8,05e2,05d3,05dc,05d9,fb31,0020,05e1,fb2f,05d3,0020,05d6,fb2e,0020,002c,05df,05e4,05d5,05d0,0020,fb2e,05d6,fb2e,0020,05e3,05d9,05d5,05d0,0020,05d4,05db,05d5,05dc,05de,000a,002c,05dd,05d9,05d3,05d3,05e6,0020,05d9,05d3,0020,05df,05d5,05e4,0020,05dd,05e2,05e0,05f2,05d0,0020,05e8,fb2e,05e4,0020,05e8,fb2e,05e4,05e2,05d2,0020,fb2e,000a,0031,0020,05dc,05e7,05d9,05d8,05e8,fb2e,0020,05e8,05e2,05d3,0020,05d8,05e4,fb2e,05e8,05e7,0020,05df,05d9,05d0,0020,05df,05f2,05e8,05d0,0020,05d8,05e2,05e8,05de","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ײראָטנאַק-רעטסומ״ןיא","05f2,05e8,fb2f,05d8,05e0,fb2e,05e7,002d,05e8,05e2,05d8,05e1,05d5,05de,05f4,05df,05d9,05d0","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעניואװנײא","05e8,05e2,05e0,05d9,05d5,05d0,05f0,05e0,05f2,05d0","JJ","004a,004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"7","0037","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןוא","05df,05d5,05d0","E.","0045,002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןזומ","05df,05d6,05d5,05de","nισιoOblrien","006e,03b9,03c3,03b9,006f,004f,0062,006c,0072,0069,0065,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,":םראלא-הפירש","003a,05dd,05e8,05d0,05dc,05d0,002d,05d4,05e4,05d9,05e8,05e9","pi","0070,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"גנולק","05d2,05e0,05d5,05dc,05e7","enes","0065,006e,0065,0073","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טײנאַבּ","05d8,05f2,05e0,fb2e,fb31","98 onx ","0039,0038,0020,006f,006e,0078,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,",עיקאַװאָלס","002c,05e2,05d9,05e7,fb2e,05f0,fb2f,05dc,05e1","no","006e,006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"תונכה
+ןעמ","05ea,05d5,05e0,05db,05d4,000a,05df,05e2,05de","NKENL","004e,004b,0045,004e,004c","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןעגנובּיא","05df,05e2,05d2,05e0,05d5,fb31,05d9,05d0","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"1","0031","
+E B  JJJJ  — 
+— J  —— 
+—  ——  —  — 
+—.  JJJJTXJJ 
+.JJJJ 
+ET 
+ydg vynd pN maon yvτιů‚ι⁊ ny yιέ̃(– 
+—. — 
+..ENDGDTW E 
+wom ſos pn nu umuιιr yιέ dινι  ι yοιῦs˖τπ yτσν 
+EDN JJ 
+","000a,0045,0020,0042,0020,0020,004a,004a,004a,004a,0020,0020,2014,0020,000a,2014,0020,004a,0020,0020,2014,2014,0020,000a,2014,0020,0020,2014,2014,0020,0020,2014,0020,0020,2014,0020,000a,2014,002e,0020,0020,004a,004a,004a,004a,0054,0058,004a,004a,0020,000a,002e,004a,004a,004a,004a,0020,000a,0045,0054,0020,000a,0079,0064,0067,0020,0076,0079,006e,0064,0020,0070,004e,0020,006d,0061,006f,006e,0020,0079,0076,03c4,03b9,016f,201a,03b9,204a,0020,006e,0079,0020,0079,03b9,03ad,0303,0028,2013,0020,000a,2014,002e,0020,2014,0020,000a,002e,002e,0045,004e,0044,0047,0044,0054,0057,0020,0045,0020,000a,0077,006f,006d,0020,017f,006f,0073,0020,0070,006e,0020,006e,0075,0020,0075,006d,0075,03b9,03b9,0072,0020,0079,03b9,03ad,0020,0064,03b9,03bd,03b9,0020,0020,03b9,0020,0079,03bf,03b9,1fe6,0073,02d6,03c4,03c0,0020,0079,03c4,03c3,03bd,0020,000a,0045,0044,004e,0020,004a,004a,0020,000a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"",""," W5 5 WaRnvN I","0020,0057,0035,0020,0035,0020,0057,0061,0052,006e,0076,004e,0020,0049","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןעגנודלעמ","05df,05e2,05d2,05e0,05d5,05d3,05dc,05e2,05de","JU","004a,0055","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעזײה","05e8,05e2,05d6,05f2,05d4","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןוא-זאג","05df,05d5,05d0,002d,05d6,05d0,05d2","vyn","0076,0079,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"א","05d0","a","0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעזײה","05e8,05e2,05d6,05f2,05d4","na","006e,0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"יד ןופ ןטנאַדנעמאָק-ץושטפול ערעדנוזאבּ יד ךרוד ןרעװ ןדלאָמעג םעד
+.ןענאגראָ-טײקרעכיז יד ךרוד רעדאָ (ןקאָלבּרעזײה)
+.ןטאָבּראפ זיא ןסײרפויא יד וצ ךיז ןיעטנענרעד .4
+-טופל-ןגעק טײקטײרג-ץוש יד ץלא טרעיוד םראילא סעד ןפורפאָ ןכאָנ .5
+.ןפורפאָ ןזיבּ שזא ,טעקאטאַ
+םעד ןיא ןראַװעג ןבּעגעגנאָ ןענײז סאָװ ,ןענונעדראַראפ יד ןכערבּ ןראפ
+,ץעזעג םעד ןופ 7 יטרא ןטיול ,ןרעװ טפאַרטשאבּ ןעמ טעװ ,לײט ןטײװצ
+ןוא ראָי","05d9,05d3,0020,05df,05d5,05e4,0020,05df,05d8,05e0,fb2e,05d3,05e0,05e2,05de,fb2f,05e7,002d,05e5,05d5,05e9,05d8,05e4,05d5,05dc,0020,05e2,05e8,05e2,05d3,05e0,05d5,05d6,05d0,fb31,0020,05d9,05d3,0020,05da,05e8,05d5,05d3,0020,05df,05e8,05e2,05f0,0020,05df,05d3,05dc,fb2f,05de,05e2,05d2,0020,05dd,05e2,05d3,000a,002e,05df,05e2,05e0,05d0,05d2,05e8,fb2f,002d,05d8,05f2,05e7,05e8,05e2,05db,05d9,05d6,0020,05d9,05d3,0020,05da,05e8,05d5,05d3,0020,05e8,05e2,05d3,fb2f,0020,0028,05df,05e7,fb2f,05dc,fb31,05e8,05e2,05d6,05f2,05d4,0029,000a,002e,05df,05d8,fb2f,fb31,05e8,05d0,05e4,0020,05d6,05d9,05d0,0020,05df,05e1,05f2,05e8,05e4,05d5,05d9,05d0,0020,05d9,05d3,0020,05d5,05e6,0020,05da,05d9,05d6,0020,05df,05d9,05e2,05d8,05e0,05e2,05e0,05e8,05e2,05d3,0020,002e,0034,000a,002d,05d8,05d5,05e4,05dc,002d,05df,05d2,05e2,05e7,0020,05d8,05f2,05e7,05d8,05f2,05e8,05d2,002d,05e5,05d5,05e9,0020,05d9,05d3,0020,05e5,05dc,05d0,0020,05d8,05e8,05e2,05d9,05d5,05d3,0020,05dd,05e8,05d0,05d9,05dc,05d0,0020,05e1,05e2,05d3,0020,05df,05e4,05d5,05e8,05e4,fb2f,0020,05df,05db,fb2f,05e0,0020,002e,0035,000a,002e,05df,05e4,05d5,05e8,05e4,fb2f,0020,05df,05d6,05d9,fb31,0020,05e9,05d6,05d0,0020,002c,05d8,05e2,05e7,05d0,05d8,fb2e,000a,05dd,05e2,05d3,0020,05df,05d9,05d0,0020,05df,05e8,fb2e,05f0,05e2,05d2,0020,05df,fb31,05e2,05d2,05e2,05d2,05e0,fb2f,0020,05df,05e2,05e0,05f2,05d6,0020,05e1,fb2f,05f0,0020,002c,05df,05e2,05e0,05d5,05e0,05e2,05d3,05e8,fb2e,05e8,05d0,05e4,0020,05d9,05d3,0020,05df,05db,05e2,05e8,fb31,0020,05df,05e8,05d0,05e4,000a,002c,05e5,05e2,05d6,05e2,05d2,0020,05dd,05e2,05d3,0020,05df,05d5,05e4,0020,0037,0020,05d9,05d8,05e8,05d0,0020,05df,05d8,05d9,05d5,05dc,0020,002c,05df,05e8,05e2,05f0,0020,05d8,05e4,fb2e,05e8,05d8,05e9,05d0,fb31,0020,05df,05e2,05de,0020,05d8,05e2,05f0,0020,002c,05dc,05f2,05d8,0020,05df,05d8,05f2,05f0,05e6,000a,05df,05d5,05d0,0020,05e8,fb2f,05d9","b","0062","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןיא","05df,05d9,05d0","en","0065,006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טריפ","05d8,05e8,05d9,05e4","J","004a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"סרעלעק יד ןיא .טינ ךיז
+ןעמ טכאַמ ןבּיוא ןוא דמאַז ךעלקעז
+ףראַד סע רעװ .סענזיבּ עסיורג לײװרעד
+ךאָנ ףראד סע רעװ ןוא ײמראַ ןיא טײג","05e1,05e8,05e2,05dc,05e2,05e7,0020,05d9,05d3,0020,05df,05d9,05d0,0020,002e,05d8,05d9,05e0,0020,05da,05d9,05d6,000a,05df,05e2,05de,0020,05d8,05db,fb2e,05de,0020,05df,fb31,05d9,05d5,05d0,0020,05df,05d5,05d0,0020,05d3,05de,fb2e,05d6,0020,05da,05e2,05dc,05e7,05e2,05d6,000a,05e3,05e8,fb2e,05d3,0020,05e1,05e2,0020,05e8,05e2,05f0,0020,002e,05e1,05e2,05e0,05d6,05d9,fb31,0020,05e2,05e1,05d9,05d5,05e8,05d2,0020,05dc,05f2,05f0,05e8,05e2,05d3,000a,05da,fb2f,05e0,0020,05e3,05e8,05d0,05d3,0020,05e1,05e2,0020,05e8,05e2,05f0,0020,05df,05d5,05d0,0020,05f2,05de,05e8,fb2e,0020,05df,05d9,05d0,0020,05d8,05f2,05d2","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"עשיטקאַרפּ","05e2,05e9,05d9,05d8,05e7,fb2e,05e8,fb44","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"עכעלטגפע","05e2,05db,05e2,05dc,05d8,05d2,05e4,05e2","
+J.N","000a,004a,002e,004e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"יד","05d9,05d3","no","006e,006f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"(4","0028,0034","dy nee ","0064,0079,0020,006e,0065,0065,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןרעהרעד","05df,05e8,05e2,05d4,05e8,05e2,05d3","vm","0076,006d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעטילימ","05e8,05e2,05d8,05d9,05dc,05d9,05de","ινm⸗","03b9,03bd,006d,2e17","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,":ךיז","003a,05da,05d9,05d6","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"יד","05d9,05d3","—","2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןופ","05df,05d5,05e4","ſισσ","017f,03b9,03c3,03c3","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעדאַ","05e8,05e2,05d3,fb2e","—..","2014,002e,002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"(ןקאָלבּ-רעזײה","0028,05df,05e7,fb2f,05dc,fb31,002d,05e8,05e2,05d6,05f2,05d4"," — 
+Vi pn yn nsyra σ ισ )‘M n Sy. ſones u65 6 
+Vm Hyn dzn eyMτι n ιν˖ — — —  — 
+x dn ι 
+hon tyn amydꝰytta παι ̃.ñιι ο τ nn dvod Nyn vyaua 
+—. . 1— N nyn noadya dyi 
+lvina τσι ſ ι  τιe τι ̃","0020,2014,0020,000a,0056,0069,0020,0070,006e,0020,0079,006e,0020,006e,0073,0079,0072,0061,0020,03c3,0020,03b9,03c3,0020,0029,2018,004d,0020,006e,0020,0053,0079,002e,0020,017f,006f,006e,0065,0073,0020,0075,0036,0035,0020,0036,0020,000a,0056,006d,0020,0048,0079,006e,0020,0064,007a,006e,0020,0065,0079,004d,03c4,03b9,0020,006e,0020,03b9,03bd,02d6,0020,2014,0020,2014,0020,2014,0020,0020,2014,0020,000a,0078,0020,0064,006e,0020,03b9,0020,000a,0020,002e,005a,0020,002e,002e,0020,0045,0020,0020,004d,0020,000a,0068,006f,006e,0020,0074,0079,006e,0020,0061,006d,0079,0064,a770,0079,0074,0074,0061,0020,03c0,03b1,03b9,0020,0303,002e,00f1,03b9,03b9,0020,03bf,0020,03c4,0020,006e,006e,0020,0064,0076,006f,0064,0020,004e,0079,006e,0020,0076,0079,0061,0075,0061,0020,000a,2014,002e,0020,002e,0020,0031,2014,0020,004e,0020,006e,0079,006e,0020,006e,006f,0061,0064,0079,0061,0020,0064,0079,0069,0020,000a,006c,0076,0069,006e,0061,0020,03c4,03c3,03b9,0020,017f,0020,03b9,0020,0020,03c4,03b9,0065,0020,03c4,03b9,0020,0303","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ךיז","05da,05d9,05d6","dypuus","0064,0079,0070,0075,0075,0073","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןשטײד","05df,05e9,05d8,05f2,05d3","la","006c,0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןענאָק","05df,05e2,05e0,fb2f,05e7","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןיא","05df,05d9,05d0","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןרעיוט","05df,05e8,05e2,05d9,05d5,05d8","
+—","000a,2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"יד","05d9,05d3"," — 
+nnnn ub in  nunn no ι. pu τινnh. no. i —  — 
+Vs","0020,2014,0020,000a,006e,006e,006e,006e,0020,0075,0062,0020,0069,006e,0020,0020,006e,0075,006e,006e,0020,006e,006f,0020,03b9,002e,0020,0070,0075,0020,03c4,03b9,03bd,006e,0068,002e,0020,006e,006f,002e,0020,0069,0020,2014,0020,0020,2014,0020,000a,0056,0073","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"טעװ סע הײד ,םראלא-זאג ןופ ןלאנגיס ןבּענ ןטקעיבּאָ","05d8,05e2,05f0,0020,05e1,05e2,0020,05d4,05f2,05d3,0020,002c,05dd,05e8,05d0,05dc,05d0,002d,05d6,05d0,05d2,0020,05df,05d5,05e4,0020,05df,05dc,05d0,05e0,05d2,05d9,05e1,0020,05df,fb31,05e2,05e0,0020,05df,05d8,05e7,05e2,05d9,fb31,fb2f","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"״אר ןיא הפירש א ןופ לאפ ןיא (בּ ;(ךעלבּ�ךעלקיטש ןיא רעדאָ) גנאָג א ןיא
+,םואלא-הפירש ןופ ןלאנגיס ןרעװ ןבּעגעג ןלעװ ,טקעיבּאָ רעדאָ זיוה ןופ ןאָי
+.(ןזײא ךעלקיטש רעדאָ) קאָלג-הפירש ןופ גנולק א ןרעהרעד ךיז טעװ סע הײד
+?םראַלאַ םעד ןפורפּאָ ןכאנ זאָט ןעמ ףראַד םאװ 3
+רעד ןיא ןרעװ ןדלאָמעג טעװ םראלא-טפול םעד ןפורפאָ סאָד (ѣ
+ןרעיוד ןלעװ סאָװ ,סענעריס ןופ ןעגנאלק עטקאהעגפאָ ךרוד טאטש רעצנאג
+.טײצ טונימ ײרד
+קירוצ ןבּעל עלאַמראָנ סאָד ןעק םראילאַ-טפול םעד ןפודפאַ ןכאָנ","05f4,05d0,05e8,0020,05df,05d9,05d0,0020,05d4,05e4,05d9,05e8,05e9,0020,05d0,0020,05df,05d5,05e4,0020,05dc,05d0,05e4,0020,05df,05d9,05d0,0020,0028,fb31,0020,003b,0028,05da,05e2,05dc,fb31,fffd,05da,05e2,05dc,05e7,05d9,05d8,05e9,0020,05df,05d9,05d0,0020,05e8,05e2,05d3,fb2f,0029,0020,05d2,05e0,fb2f,05d2,0020,05d0,0020,05df,05d9,05d0,000a,002c,05dd,05d5,05d0,05dc,05d0,002d,05d4,05e4,05d9,05e8,05e9,0020,05df,05d5,05e4,0020,05df,05dc,05d0,05e0,05d2,05d9,05e1,0020,05df,05e8,05e2,05f0,0020,05df,fb31,05e2,05d2,05e2,05d2,0020,05df,05dc,05e2,05f0,0020,002c,05d8,05e7,05e2,05d9,fb31,fb2f,0020,05e8,05e2,05d3,fb2f,0020,05d6,05d9,05d5,05d4,0020,05df,05d5,05e4,0020,05df,fb2f,05d9,000a,002e,0028,05df,05d6,05f2,05d0,0020,05da,05e2,05dc,05e7,05d9,05d8,05e9,0020,05e8,05e2,05d3,fb2f,0029,0020,05e7,fb2f,05dc,05d2,002d,05d4,05e4,05d9,05e8,05e9,0020,05df,05d5,05e4,0020,05d2,05e0,05d5,05dc,05e7,0020,05d0,0020,05df,05e8,05e2,05d4,05e8,05e2,05d3,0020,05da,05d9,05d6,0020,05d8,05e2,05f0,0020,05e1,05e2,0020,05d4,05f2,05d3,000a,003f,05dd,05e8,fb2e,05dc,fb2e,0020,05dd,05e2,05d3,0020,05df,05e4,05d5,05e8,fb44,fb2f,0020,05df,05db,05d0,05e0,0020,05d6,fb2f,05d8,0020,05df,05e2,05de,0020,05e3,05e8,fb2e,05d3,0020,05dd,05d0,05f0,0020,0033,000a,05e8,05e2,05d3,0020,05df,05d9,05d0,0020,05df,05e8,05e2,05f0,0020,05df,05d3,05dc,fb2f,05de,05e2,05d2,0020,05d8,05e2,05f0,0020,05dd,05e8,05d0,05dc,05d0,002d,05d8,05e4,05d5,05dc,0020,05dd,05e2,05d3,0020,05df,05e4,05d5,05e8,05e4,fb2f,0020,05e1,fb2f,05d3,0020,0028,0463,000a,05df,05e8,05e2,05d9,05d5,05d3,0020,05df,05dc,05e2,05f0,0020,05e1,fb2f,05f0,0020,002c,05e1,05e2,05e0,05e2,05e8,05d9,05e1,0020,05df,05d5,05e4,0020,05df,05e2,05d2,05e0,05d0,05dc,05e7,0020,05e2,05d8,05e7,05d0,05d4,05e2,05d2,05e4,fb2f,0020,05da,05e8,05d5,05d3,0020,05d8,05d0,05d8,05e9,0020,05e8,05e2,05e6,05e0,05d0,05d2,000a,002e,05d8,05f2,05e6,0020,05d8,05d5,05e0,05d9,05de,0020,05f2,05e8,05d3,000a,05e7,05d9,05e8,05d5,05e6,0020,05df,fb31,05e2,05dc,0020,05e2,05dc,fb2e,05de,05e8,fb2f,05e0,0020,05e1,fb2f,05d3,0020,05df,05e2,05e7,0020,05dd,05e8,05d0,05d9,05dc,fb2e,002d,05d8,05e4,05d5,05dc,0020,05dd,05e2,05d3,0020,05df,05e4,05d5,05d3,05e4,fb2e,0020,05df,05db,fb2f,05e0","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןופ","05df,05d5,05e4","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןבּײרשראַפּ","05df,fb31,05f2,05e8,05e9,05e8,fb2e,fb44","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"","000c","wonyay vs 
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןבּעגעגנאָ","05df,fb31,05e2,05d2,05e2,05d2,05e0,fb2f","E","0045","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"שראַמנײראַ","05e9,05e8,fb2e,05de,05e0,05f2,05e8,fb2e","auιĩ-","0061,0075,03b9,0129,002d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןרעװ","05df,05e8,05e2,05f0","—","2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןטימ","05df,05d8,05d9,05de","vτέ","0076,03c4,03ad","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"סאָװ","05e1,fb2f,05f0","—","2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"תוכײש","05ea,05d5,05db,05f2,05e9","Diτσ","0044,0069,03c4,03c3","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,",תועידי","002c,05ea,05d5,05e2,05d9,05d3,05d9","—","2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןיא","05df,05d9,05d0","! an ſι ","0021,0020,0061,006e,0020,017f,03b9,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןטיהפאָ","05df,05d8,05d9,05d4,05e4,fb2f","— ","2014,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,".גנורעטישרעד","002e,05d2,05e0,05d5,05e8,05e2,05d8,05d9,05e9,05e8,05e2,05d3","nordm","006e,006f,0072,0064,006d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"עפיט","05e2,05e4,05d9,05d8","r","0072","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"אַ","fb2e","ic","0069,0063","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןראַגנוא","05df,05e8,fb2e,05d2,05e0,05d5,05d0","Tτισ","0054,03c4,03b9,03c3","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןיא","05df,05d9,05d0","ισ/","03b9,03c3,002f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ךיז","05da,05d9,05d6","n dypnuia nnι nyn ryi ","006e,0020,0064,0079,0070,006e,0075,0069,0061,0020,006e,006e,03b9,0020,006e,0079,006e,0020,0072,0079,0069,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"זיא","05d6,05d9,05d0",":dun⸗vt","003a,0064,0075,006e,2e17,0076,0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"תונובּשח","05ea,05d5,05e0,05d5,fb31,05e9,05d7","Naz","004e,0061,007a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"עלאַ","05e2,05dc,fb2e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"יד","05d9,05d3","e","0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"ןופ","05df,05d5,05e4","0","0030","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"תילכתּ","05ea,05d9,05dc,05db,fb4a","u","0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00761908-00232579.gt4hist.xml.txt,,,,"רעד
+רעלטיה טאָה שיטאַמאָלפּיד :ועראָלק אַ
+ןטראָק עטוג דנאַלסור טימ טקאַפּ ןכאָנ
+ןײק רע טאָה שירעטילימ .טנאַה ןיא
+ןוא ןעמוקאַבּ טינ ןגיז וצ ןסנאש עײנ
+-כײלראפ ןכרוד עגאַל ןײז טרעװשראפ
+טעװ רעװ אָט .עיזאַ ןיא דנאַלגנע ןרעט
+-ענ ךיז ןוא שיט םעד ןרעקרעבּיא סע
+רע תעשבּ ,ןטסיופ יד טימ ןגאָלש ןעמ","05e8,05e2,05d3,000a,05e8,05e2,05dc,05d8,05d9,05d4,0020,05d8,fb2f,05d4,0020,05e9,05d9,05d8,fb2e,05de,fb2f,05dc,fb44,05d9,05d3,0020,003a,05d5,05e2,05e8,fb2f,05dc,05e7,0020,fb2e,000a,05df,05d8,05e8,fb2f,05e7,0020,05e2,05d8,05d5,05d2,0020,05d3,05e0,fb2e,05dc,05e1,05d5,05e8,0020,05d8,05d9,05de,0020,05d8,05e7,fb2e,fb44,0020,05df,05db,fb2f,05e0,000a,05df,05f2,05e7,0020,05e8,05e2,0020,05d8,fb2f,05d4,0020,05e9,05d9,05e8,05e2,05d8,05d9,05dc,05d9,05de,0020,002e,05d8,05e0,fb2e,05d4,0020,05df,05d9,05d0,000a,05df,05d5,05d0,0020,05df,05e2,05de,05d5,05e7,fb2e,fb31,0020,05d8,05d9,05e0,0020,05df,05d2,05d9,05d6,0020,05d5,05e6,0020,05df,05e1,05e0,05d0,05e9,0020,05e2,05f2,05e0,000a,002d,05db,05f2,05dc,05e8,05d0,05e4,0020,05df,05db,05e8,05d5,05d3,0020,05e2,05d2,fb2e,05dc,0020,05df,05f2,05d6,0020,05d8,05e8,05e2,05f0,05e9,05e8,05d0,05e4,000a,05d8,05e2,05f0,0020,05e8,05e2,05f0,0020,fb2f,05d8,0020,002e,05e2,05d9,05d6,fb2e,0020,05df,05d9,05d0,0020,05d3,05e0,fb2e,05dc,05d2,05e0,05e2,0020,05df,05e8,05e2,05d8,000a,002d,05e2,05e0,0020,05da,05d9,05d6,0020,05df,05d5,05d0,0020,05e9,05d9,05d8,0020,05dd,05e2,05d3,0020,05df,05e8,05e2,05e7,05e8,05e2,fb31,05d9,05d0,0020,05e1,05e2,000a,05e8,05e2,0020,05ea,05e2,05e9,fb31,0020,002c,05df,05d8,05e1,05d9,05d5,05e4,0020,05d9,05d3,0020,05d8,05d9,05de,0020,05df,05d2,fb2f,05dc,05e9,0020,05df,05e2,05de","","","miss","1"

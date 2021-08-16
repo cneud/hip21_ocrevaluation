@@ -1,0 +1,312 @@
+groundTruth,result,charsInGroundTruth,charsInResult,characterAccuracy,LCSCharStats Ground Truth Item,LCSCharStats Ground Truth Unicode,LCSCharStats OCR Result Item,LCSCharStats OCR Result Unicode,LCSCharStats OCR Error,LCSCharStats Count
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,"4158","4368","0.41245791245791247","eide über die Veranlagung des einmaligen außer","0065,0069,0064,0065,0020,00fc,0062,0065,0072,0020,0064,0069,0065,0020,0056,0065,0072,0061,006e,006c,0061,0067,0075,006e,0067,0020,0064,0065,0073,0020,0065,0069,006e,006d,0061,006c,0069,0067,0065,006e,0020,0061,0075,00df,0065,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"
+und Gemeindevorſtehern werden in den nä","000a,0075,006e,0064,0020,0047,0065,006d,0065,0069,006e,0064,0065,0076,006f,0072,017f,0074,0065,0068,0065,0072,006e,0020,0077,0065,0072,0064,0065,006e,0020,0069,006e,0020,0064,0065,006e,0020,006e,00e4","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"en Wehrbeitrages und die tabe","0065,006e,0020,0057,0065,0068,0072,0062,0065,0069,0074,0072,0061,0067,0065,0073,0020,0075,006e,0064,0020,0064,0069,0065,0020,0074,0061,0062,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"igkeit der Angaber über die den Anſpru","0069,0067,006b,0065,0069,0074,0020,0064,0065,0072,0020,0041,006e,0067,0061,0062,0065,0072,0020,00fc,0062,0065,0072,0020,0064,0069,0065,0020,0064,0065,006e,0020,0041,006e,017f,0070,0072,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,," das Steuerjahr 1914 bezw. die","0020,0064,0061,0073,0020,0053,0074,0065,0075,0065,0072,006a,0061,0068,0072,0020,0031,0039,0031,0034,0020,0062,0065,007a,0077,002e,0020,0064,0069,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"
+ordentli","000a,006f,0072,0064,0065,006e,0074,006c,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"einigungen zugehen.","0065,0069,006e,0069,0067,0075,006e,0067,0065,006e,0020,007a,0075,0067,0065,0068,0065,006e,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"
+Der Truppen⸗ (Stammarine⸗) Teil.","000a,0044,0065,0072,0020,0054,0072,0075,0070,0070,0065,006e,2e17,0020,0028,0053,0074,0061,006d,006d,0061,0072,0069,006e,0065,2e17,0029,0020,0054,0065,0069,006c,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"sheer, die Marine oder die S","0073,0068,0065,0065,0072,002c,0020,0064,0069,0065,0020,004d,0061,0072,0069,006e,0065,0020,006f,0064,0065,0072,0020,0064,0069,0065,0020,0053","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"anlagung der Einkommen","0061,006e,006c,0061,0067,0075,006e,0067,0020,0064,0065,0072,0020,0045,0069,006e,006b,006f,006d,006d,0065,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"6, die Veranlagungs und Fe","0036,002c,0020,0064,0069,0065,0020,0056,0065,0072,0061,006e,006c,0061,0067,0075,006e,0067,0073,0020,0075,006e,0064,0020,0046,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"⸗","2e17","— ","2014,0020","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"","f502","ch","0063,0068","misrecognised","16"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"en Be","0065,006e,0020,0042,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"
+","000a","","","none","8"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"tigkeit der Angaben ","0074,0069,0067,006b,0065,0069,0074,0020,0064,0065,0072,0020,0041,006e,0067,0061,0062,0065,006e,0020","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"
+Stiefſohns) (laufende Nummer ","000a,0053,0074,0069,0065,0066,017f,006f,0068,006e,0073,0029,0020,0028,006c,0061,0075,0066,0065,006e,0064,0065,0020,004e,0075,006d,006d,0065,0072,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"ung des Sohnes (Enkels,","0075,006e,0067,0020,0064,0065,0073,0020,0053,006f,0068,006e,0065,0073,0020,0028,0045,006e,006b,0065,006c,0073,002c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"ie den Herren Guts⸗ ","0069,0065,0020,0064,0065,006e,0020,0048,0065,0072,0072,0065,006e,0020,0047,0075,0074,0073,2e17,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"en und Wehr⸗","0065,006e,0020,0075,006e,0064,0020,0057,0065,0068,0072,2e17","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"
+gänzungs","000a,0067,00e4,006e,007a,0075,006e,0067,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"eriod","0065,0072,0069,006f,0064","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"ungs⸗","0075,006e,0067,0073,2e17","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"ariſ","0061,0072,0069,017f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"
+ſ","000a,017f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"",""," ","0020","false detection","16"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"","000c","Die Gemeindeſteuerliſten ſind 10 Tage lang 
+öffentli  eg  nd der Beginn ſowie der Ort 
+Nachen Den Srtseingeſeffenen iſt gleichzeitig zu 
+ffn Ds Berunfungen gegen die Veranlagung zur 
+fingierten Normalſteuer binnen, einer Ausſchlußfriſt 
+von 4 Wochen (28 Tage) nach Ablauf der Auslegungs— 
+friſt bei mir anzubringen ſind. . 
+Vach Ablauf Fer Auslegungsfriſt' haben die 
+Herren d e de Anelegungsdeſcheinigung au 
+N Aitelfete Nr Stelerliffe ausufulen- untericxiit 
+Voeen nd mir die Steuerliſten nmgehend 
+zuruͤckzureichen. 
+D Steuerrollen und Wehrbeitrags-Sollbücher 
+ſind foglec Den Dienererhebern zuzertigen. Die 
+Stenererſeber Wen die Nollen und Sollbucher Lorg 
+faͤltig auzubewahren. 
+Di Sterſaſcriften ſind ſofort den in Frage 
+kommenden Steuerpflichtigen zuzuſtellen und deüber 
+die erfolgte Zuſtellung auszufuͤllenden t — 
+Befenmnen nfr Unterſchriftlich dvollzogen um⸗ 
+gehend urnck ureichen. 
+Goldad den 7 Mai 1914. 
+Vorützende der Einkommenſteuer-Vexanlagungs— 
+Kommiſſion. 
+Der 
+Dem Nagifrat, fowie den Herren Guts und 
+Gemeindevorſtehern werden in den nächſten Tagen 
+Ne verſchloſſeren Steuerzuſchriften über die Veran⸗ 
+lagung zur Gewerbeſteuer fur das Steuerjahr 194 
+Aů den taͤbellariſchen Beſcheinigungen und den Gewerbe 
+ſteuerrollen zugehen. 
+Die Steuerzuſchriften find den Steuer vllichtgen 
+ſogleich eſter  n De über die Zuttellung 
+¶ Jfallenden Abellariſchen Beſcheinigungen unter⸗ 
+ſchriftlich vollzogen. ungehend zuruureichen. 
+Deſenigen Je Srtdorfteher, n deren Be⸗ 
+zirke auswärts veranlagte Betriebe belegen find, haben 3 
+das auf ihre Gemeind? entfallende Gewerbeſteuerſoll 
+durch Sunimierung der in Spalte 7 der Rolle ver⸗ 
+zeichneten Beträge  am Ende zu. berechnen und dieſe 
+Berechnung unterſchriſtlich zu vollziehen. Die Rollen ünd 
+waͤhrend einer Woche öffentlich, auszulegen; der Bt. 
+ſorſe die Zeit der Auslegung iſ eine Voche vor Be n 
+ginn derſelben in ortsüblichet, Weiſe bekanntzumachen. 7 
+Jn der Bekanntmachung iſt daraiif hinzuweiſen, des; 
+dur den Steuerpflichtigen des Veranlagungsbezirks die 
+Einſicht in die Rolle geſtattet iſt. 
+Rach der Auslegung iſt die auf der Titelſeite 
+vorgedruckte Beſcheinigung auszufüllen, unterſchriftlich 
+zu dollziehen und die Rolle aufzubewahren. 
+Goͤldap, den 7. Mai 1914. 
+Der Vorſitzende des Steuerausſchuffes der 
+Gewerbeſteuerklaſſe JJJ. u. IV. 
+Dem hieſigen Magiſtrat, ſowie den Herren Gut 
+und Gemeindevorſtehern werden in den naͤchſten 7 
+Tagen die verſchloſſenen Steuerzuſchriſten über die 
+Veranlagung zur Betriebsſteuer für das Steuerjahr 2 
+1914, fowie die tabellaxiſchen Beſcheinigungen und 
+Auszüge aus der Betriebsſteuͤernachweifung dis Hebe⸗ 
+liſte zugehen. 4 
+De Steuerzuſchriften ſind den Steuerpflichtigen 
+ſogleich zuzufextigen und mir die ausgefüllten tabella. 
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"— 198 —","2014,0020,0031,0039,0038,0020,2014","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"Enkels, Stiefſohns)","0045,006e,006b,0065,006c,0073,002c,0020,0053,0074,0069,0065,0066,017f,006f,0068,006e,0073,0029","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"begründende Ein","0062,0065,0067,0072,00fc,006e,0064,0065,006e,0064,0065,0020,0045,0069,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"in das Rei","0069,006e,0020,0064,0061,0073,0020,0052,0065,0069","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"
+Der Truppeu⸗","000a,0044,0065,0072,0020,0054,0072,0075,0070,0070,0065,0075,2e17","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"und
+Gemeindevorehern werden in den näen Tagen
+die verſloenen Steuerzuſriſten über die Veran⸗
+lagung zur Gewerbeeuer für das Steuerjahr 1914
+mit den tabeariſen Beſeinnigungen und den Gewerbe⸗
+euerrollen zugehen.
+Na der Auslegung i die auſ der Titelſeite
+vorgedrute Beſeinigung auszufüllen, unterſriftli
+zu vollziehen und die Rolle aufzubewahren.
+truvve wird hiermit beſeinigt.
+Dem hieſigen Magiſtrat, ſowie den Herren Guts⸗","0075,006e,0064,000a,0047,0065,006d,0065,0069,006e,0064,0065,0076,006f,0072,eada,0065,0068,0065,0072,006e,0020,0077,0065,0072,0064,0065,006e,0020,0069,006e,0020,0064,0065,006e,0020,006e,00e4,f502,eada,0065,006e,0020,0054,0061,0067,0065,006e,000a,0064,0069,0065,0020,0076,0065,0072,017f,f502,006c,006f,eba6,0065,006e,0065,006e,0020,0053,0074,0065,0075,0065,0072,007a,0075,017f,f502,0072,0069,017f,0074,0065,006e,0020,00fc,0062,0065,0072,0020,0064,0069,0065,0020,0056,0065,0072,0061,006e,2e17,000a,006c,0061,0067,0075,006e,0067,0020,007a,0075,0072,0020,0047,0065,0077,0065,0072,0062,0065,eada,0065,0075,0065,0072,0020,0066,00fc,0072,0020,0064,0061,0073,0020,0053,0074,0065,0075,0065,0072,006a,0061,0068,0072,0020,0031,0039,0031,0034,000a,006d,0069,0074,0020,0064,0065,006e,0020,0074,0061,0062,0065,f4f9,0061,0072,0069,017f,f502,0065,006e,0020,0042,0065,017f,f502,0065,0069,006e,006e,0069,0067,0075,006e,0067,0065,006e,0020,0075,006e,0064,0020,0064,0065,006e,0020,0047,0065,0077,0065,0072,0062,0065,2e17,000a,eada,0065,0075,0065,0072,0072,006f,006c,006c,0065,006e,0020,007a,0075,0067,0065,0068,0065,006e,002e,000a,004e,0061,f502,0020,0064,0065,0072,0020,0041,0075,0073,006c,0065,0067,0075,006e,0067,0020,0069,eada,0020,0064,0069,0065,0020,0061,0075,017f,0020,0064,0065,0072,0020,0054,0069,0074,0065,006c,017f,0065,0069,0074,0065,000a,0076,006f,0072,0067,0065,0064,0072,0075,eec4,0074,0065,0020,0042,0065,017f,f502,0065,0069,006e,0069,0067,0075,006e,0067,0020,0061,0075,0073,007a,0075,0066,00fc,006c,006c,0065,006e,002c,0020,0075,006e,0074,0065,0072,017f,f502,0072,0069,0066,0074,006c,0069,f502,000a,007a,0075,0020,0076,006f,006c,006c,007a,0069,0065,0068,0065,006e,0020,0075,006e,0064,0020,0064,0069,0065,0020,0052,006f,006c,006c,0065,0020,0061,0075,0066,007a,0075,0062,0065,0077,0061,0068,0072,0065,006e,002e,000a,0074,0072,0075,0076,0076,0065,0020,0077,0069,0072,0064,0020,0068,0069,0065,0072,006d,0069,0074,0020,0062,0065,017f,f502,0065,0069,006e,0069,0067,0074,002e,000a,0044,0065,006d,0020,0068,0069,0065,017f,0069,0067,0065,006e,0020,004d,0061,0067,0069,017f,0074,0072,0061,0074,002c,0020,017f,006f,0077,0069,0065,0020,0064,0065,006e,0020,0048,0065,0072,0072,0065,006e,0020,0047,0075,0074,0073,2e17","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"en, Staats","0065,006e,002c,0020,0053,0074,0061,0061,0074,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"
+beitrags⸗So","000a,0062,0065,0069,0074,0072,0061,0067,0073,2e17,0053,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,," und Er","0020,0075,006e,0064,0020,0045,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"euer ","0065,0075,0065,0072,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,," 1","0020,0031","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"e","0065","","","none","4"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"
+beſ","000a,0062,0065,017f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"","f4f9","ll","006c,006c","misrecognised","5"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"-","002d","— ","2014,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"","","
+","000a","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"ie Ri","0069,0065,0020,0052,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"zeit des Sohnes ","007a,0065,0069,0074,0020,0064,0065,0073,0020,0053,006f,0068,006e,0065,0073,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"
+(laufende Numme","000a,0028,006c,0061,0075,0066,0065,006e,0064,0065,0020,004e,0075,006d,006d,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"
+Die Ri","000a,0044,0069,0065,0020,0052,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"ber die den Anſpru","0062,0065,0072,0020,0064,0069,0065,0020,0064,0065,006e,0020,0041,006e,017f,0070,0072,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"er Teuppen⸗ (Stammarine⸗","0065,0072,0020,0054,0065,0075,0070,0070,0065,006e,2e17,0020,0028,0053,0074,0061,006d,006d,0061,0072,0069,006e,0065,2e17","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,," ","0020","","","none","4"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"19","0031,0039","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"(Stammarine","0028,0053,0074,0061,006d,006d,0061,0072,0069,006e,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"en Tagen","0065,006e,0020,0054,0061,0067,0065,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"euerro","0065,0075,0065,0072,0072,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"
+über die Ve","000a,00fc,0062,0065,0072,0020,0064,0069,0065,0020,0056,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"⸗","2e17","-","002d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"","eada","ſt","017f,0074","misrecognised","6"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"ür","00fc,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"P","0050","B","0042","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"e","0065","ẽ","1ebd","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"14","0031,0034","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"","eba2,eada","ſtſt","017f,0074,017f,0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"ber die Dien","0062,0065,0072,0020,0064,0069,0065,0020,0044,0069,0065,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"(","0028","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"",""," 
+vid hiermit beicheinigt. ","0020,000a,0076,0069,0064,0020,0068,0069,0065,0072,006d,0069,0074,0020,0062,0065,0069,0063,0068,0065,0069,006e,0069,0067,0074,002e,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"(laufende Nummer","0028,006c,0061,0075,0066,0065,006e,0064,0065,0020,004e,0075,006d,006d,0065,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"",""," 
+niw. 
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"u","0075","","","none","3"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,")","0029","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,," Teil.","0020,0054,0065,0069,006c,002e","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"","","
+Stiefiohus) (laufende Nummer 
+truvve wird hiermit beſcheinigt. 
+„den 
+","000a,0053,0074,0069,0065,0066,0069,006f,0068,0075,0073,0029,0020,0028,006c,0061,0075,0066,0065,006e,0064,0065,0020,004e,0075,006d,006d,0065,0072,0020,000a,0074,0072,0075,0076,0076,0065,0020,0077,0069,0072,0064,0020,0068,0069,0065,0072,006d,0069,0074,0020,0062,0065,017f,0063,0068,0065,0069,006e,0069,0067,0074,002e,0020,000a,201e,0064,0065,006e,0020,000a","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"rat, ſo","0072,0061,0074,002c,0020,017f,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"","f502,eada","chſt","0063,0068,017f,0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"
+die G","000a,0064,0069,0065,0020,0047","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"die Bena","0064,0069,0065,0020,0042,0065,006e,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"r","0072","x","0078","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"ſ","017f","f","0066","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"","",",","002c","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"9","0039","0","0030","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"⸗1","2e17,0031","4","0034","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"T","0054","D","0044","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"ū","016b","u","0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"","","r 
+„den 
+19 
+Der Truppen⸗ (Stammarine⸗ Teil. 
+Die Richtigkeit der Angaben über die Dienſtzeit des Sohnes (EEnkels, Stienohns 
+wird hiermit beſcheinigt. 
+","0072,0020,000a,201e,0064,0065,006e,0020,000a,0031,0039,0020,000a,0044,0065,0072,0020,0054,0072,0075,0070,0070,0065,006e,2e17,0020,0028,0053,0074,0061,006d,006d,0061,0072,0069,006e,0065,2e17,0020,0054,0065,0069,006c,002e,0020,000a,0044,0069,0065,0020,0052,0069,0063,0068,0074,0069,0067,006b,0065,0069,0074,0020,0064,0065,0072,0020,0041,006e,0067,0061,0062,0065,006e,0020,00fc,0062,0065,0072,0020,0064,0069,0065,0020,0044,0069,0065,006e,017f,0074,007a,0065,0069,0074,0020,0064,0065,0073,0020,0053,006f,0068,006e,0065,0073,0020,0028,0045,0045,006e,006b,0065,006c,0073,002c,0020,0053,0074,0069,0065,006e,006f,0068,006e,0073,0020,000a,0077,0069,0072,0064,0020,0068,0069,0065,0072,006d,0069,0074,0020,0062,0065,017f,0063,0068,0065,0069,006e,0069,0067,0074,002e,0020,000a","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"wird hiermit beſ","0077,0069,0072,0064,0020,0068,0069,0065,0072,006d,0069,0074,0020,0062,0065,017f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"über die Dienzeit des Sohnes (Enkels, Stiefſohns
+(la","00fc,0062,0065,0072,0020,0064,0069,0065,0020,0044,0069,0065,006e,eada,007a,0065,0069,0074,0020,0064,0065,0073,0020,0053,006f,0068,006e,0065,0073,0020,0028,0045,006e,006b,0065,006c,0073,002c,0020,0053,0074,0069,0065,0066,017f,006f,0068,006e,0073,000a,0028,006c,0061","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"fende Nummer) wird hiermit beſeinigt.
+, den 19
+Der Truppen⸗ (Stammarine⸗) Teil.
+Die Ritigkeit der Angaben über die Dienzeit des Sohnes (Enkels, Stiefſohns)
+(laufende Nummer ) wird hiermit beſeinigt.
+, den 19
+Der Truppen⸗ (Stammarine⸗) Teil.
+uſw.
+Die Ritiakeir der Angaben ü","0066,0065,006e,0064,0065,0020,004e,0075,006d,006d,0065,0072,0029,0020,0077,0069,0072,0064,0020,0068,0069,0065,0072,006d,0069,0074,0020,0062,0065,017f,f502,0065,0069,006e,0069,0067,0074,002e,000a,002c,0020,0064,0065,006e,0020,0031,0039,000a,0044,0065,0072,0020,0054,0072,0075,0070,0070,0065,006e,2e17,0020,0028,0053,0074,0061,006d,006d,0061,0072,0069,006e,0065,2e17,0029,0020,0054,0065,0069,006c,002e,000a,0044,0069,0065,0020,0052,0069,f502,0074,0069,0067,006b,0065,0069,0074,0020,0064,0065,0072,0020,0041,006e,0067,0061,0062,0065,006e,0020,00fc,0062,0065,0072,0020,0064,0069,0065,0020,0044,0069,0065,006e,eada,007a,0065,0069,0074,0020,0064,0065,0073,0020,0053,006f,0068,006e,0065,0073,0020,0028,0045,006e,006b,0065,006c,0073,002c,0020,0053,0074,0069,0065,0066,017f,006f,0068,006e,0073,0029,000a,0028,006c,0061,0075,0066,0065,006e,0064,0065,0020,004e,0075,006d,006d,0065,0072,0020,0029,0020,0077,0069,0072,0064,0020,0068,0069,0065,0072,006d,0069,0074,0020,0062,0065,017f,f502,0065,0069,006e,0069,0067,0074,002e,000a,002c,0020,0064,0065,006e,0020,0031,0039,000a,0044,0065,0072,0020,0054,0072,0075,0070,0070,0065,006e,2e17,0020,0028,0053,0074,0061,006d,006d,0061,0072,0069,006e,0065,2e17,0029,0020,0054,0065,0069,006c,002e,000a,0075,017f,0077,002e,000a,0044,0069,0065,0020,0052,0069,f502,0074,0069,0061,006b,0065,0069,0072,0020,0064,0065,0072,0020,0041,006e,0067,0061,0062,0065,006e,0020,00fc","ͤ","0364","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"begründende Eineung des Sohnes (Enkels,","0062,0065,0067,0072,00fc,006e,0064,0065,006e,0064,0065,0020,0045,0069,006e,eada,0065,f4f9,0075,006e,0067,0020,0064,0065,0073,0020,0053,006f,0068,006e,0065,0073,0020,0028,0045,006e,006b,0065,006c,0073,002c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"","","
+truppe wird hiermit beſcheinigt. 
+„den 
+begruͤndende Einſtellung des Sohnes Enkels, 
+","000a,0074,0072,0075,0070,0070,0065,0020,0077,0069,0072,0064,0020,0068,0069,0065,0072,006d,0069,0074,0020,0062,0065,017f,0063,0068,0065,0069,006e,0069,0067,0074,002e,0020,000a,201e,0064,0065,006e,0020,000a,0062,0065,0067,0072,0075,0364,006e,0064,0065,006e,0064,0065,0020,0045,0069,006e,017f,0074,0065,006c,006c,0075,006e,0067,0020,0064,0065,0073,0020,0053,006f,0068,006e,0065,0073,0020,0045,006e,006b,0065,006c,0073,002c,0020,000a","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,," ","0020","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,")","0029","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"
+Die ","000a,0044,0069,0065,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"Stiefſohns","0053,0074,0069,0065,0066,017f,006f,0068,006e,0073","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,," (lauſende Nummer ) ","0020,0028,006c,0061,0075,017f,0065,006e,0064,0065,0020,004e,0075,006d,006d,0065,0072,0020,0029,0020","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"⸗","2e17","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"m","006d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"meinde","006d,0065,0069,006e,0064,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"er, ſo","0065,0072,002c,0020,017f,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"tigungs","0074,0069,0067,0075,006e,0067,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,") ","0029,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"einigt.","0065,0069,006e,0069,0067,0074,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"i","0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"","eedc","z","007a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"⸗)","2e17,0029","?","003f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"igen ","0069,0067,0065,006e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"wie den Herren Guts⸗
+und Ge","0077,0069,0065,0020,0064,0065,006e,0020,0048,0065,0072,0072,0065,006e,0020,0047,0075,0074,0073,2e17,000a,0075,006e,0064,0020,0047,0065","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"eindevorehern werden in den näen
+Tagen die verſloenen Steuerzuſriſten über die
+Veranlagung zur Betriebseuer ſür das Steuerjahr
+1914, ſowie die tabellariſen Beſeinigungen und
+Auszüge aus der Betriebseuernaweiſung als Hebe⸗
+lie zugehen.
+Die Steuerzuſriften ud den Steuerpflitigen
+ſoglei zuzufertigen und mir die ausgefüllten tabela.
+Dem Magirat, ſow","0065,0069,006e,0064,0065,0076,006f,0072,eada,0065,0068,0065,0072,006e,0020,0077,0065,0072,0064,0065,006e,0020,0069,006e,0020,0064,0065,006e,0020,006e,00e4,f502,eada,0065,006e,000a,0054,0061,0067,0065,006e,0020,0064,0069,0065,0020,0076,0065,0072,017f,f502,006c,006f,eba6,0065,006e,0065,006e,0020,0053,0074,0065,0075,0065,0072,007a,0075,017f,f502,0072,0069,017f,0074,0065,006e,0020,00fc,0062,0065,0072,0020,0064,0069,0065,000a,0056,0065,0072,0061,006e,006c,0061,0067,0075,006e,0067,0020,007a,0075,0072,0020,0042,0065,0074,0072,0069,0065,0062,0073,eada,0065,0075,0065,0072,0020,017f,00fc,0072,0020,0064,0061,0073,0020,0053,0074,0065,0075,0065,0072,006a,0061,0068,0072,000a,0031,0039,0031,0034,002c,0020,017f,006f,0077,0069,0065,0020,0064,0069,0065,0020,0074,0061,0062,0065,006c,006c,0061,0072,0069,017f,f502,0065,006e,0020,0042,0065,017f,f502,0065,0069,006e,0069,0067,0075,006e,0067,0065,006e,0020,0075,006e,0064,000a,0041,0075,0073,007a,00fc,0067,0065,0020,0061,0075,0073,0020,0064,0065,0072,0020,0042,0065,0074,0072,0069,0065,0062,0073,eada,0065,0075,0065,0072,006e,0061,f502,0077,0065,0069,017f,0075,006e,0067,0020,0061,006c,0073,0020,0048,0065,0062,0065,2e17,000a,006c,0069,eada,0065,0020,007a,0075,0067,0065,0068,0065,006e,002e,000a,0044,0069,0065,0020,0053,0074,0065,0075,0065,0072,007a,0075,017f,f502,0072,0069,0066,0074,0065,006e,0020,eba2,0075,0064,0020,0064,0065,006e,0020,0053,0074,0065,0075,0065,0072,0070,0066,006c,0069,f502,0074,0069,0067,0065,006e,000a,017f,006f,0067,006c,0065,0069,f502,0020,007a,0075,007a,0075,0066,0065,0072,0074,0069,0067,0065,006e,0020,0075,006e,0064,0020,006d,0069,0072,0020,0064,0069,0065,0020,0061,0075,0073,0067,0065,0066,00fc,006c,006c,0074,0065,006e,0020,0074,0061,0062,0065,006c,0061,002e,000a,0044,0065,006d,0020,004d,0061,0067,0069,eada,0072,0061,0074,002c,0020,017f,006f,0077","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,".","002e","e","0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"euerli","0065,0075,0065,0072,006c,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"b","0062","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"ie","0069,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"ri","0072,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"reiben","0072,0065,0069,0062,0065,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"",""," 
+„den 
+19 
+Der Truppen⸗ ( Stammarine⸗","0020,000a,201e,0064,0065,006e,0020,000a,0031,0039,0020,000a,0044,0065,0072,0020,0054,0072,0075,0070,0070,0065,006e,2e17,0020,0028,0020,0053,0074,0061,006d,006d,0061,0072,0069,006e,0065,2e17","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"s","0073","Teil. 
+Die Richtigkeit der Anaaben über die Dienſtzeit des Sohnes Enkele, Stiefſohns) 
+)","0054,0065,0069,006c,002e,0020,000a,0044,0069,0065,0020,0052,0069,0063,0068,0074,0069,0067,006b,0065,0069,0074,0020,0064,0065,0072,0020,0041,006e,0061,0061,0062,0065,006e,0020,00fc,0062,0065,0072,0020,0064,0069,0065,0020,0044,0069,0065,006e,017f,0074,007a,0065,0069,0074,0020,0064,0065,0073,0020,0053,006f,0068,006e,0065,0073,0020,0045,006e,006b,0065,006c,0065,002c,0020,0053,0074,0069,0065,0066,017f,006f,0068,006e,0073,0029,0020,000a,0029","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"den ","0064,0065,006e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"⸗","eedc,2e17","z ","007a,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,", den ","002c,0020,0064,0065,006e,0020","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"R","0052","N","004e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"t","f502,0074","chr","0063,0068,0072","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"truvve wird hiermit beſeinigt.
+, den ","0074,0072,0075,0076,0076,0065,0020,0077,0069,0072,0064,0020,0068,0069,0065,0072,006d,0069,0074,0020,0062,0065,017f,f502,0065,0069,006e,0069,0067,0074,002e,000a,002c,0020,0064,0065,006e,0020","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"
+D","000a,0044","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"ift","0069,0066,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"ü","00fc,f502","uͤch","0075,0364,0063,0068","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"w","0077","m","006d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"ſ","017f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"19","0031,0039","
+19 ","000a,0031,0039,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"ag","0061,0067","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"⸗
+li zu voziehen und mir die Steuerliſten umgehend
+zurüzureien.
+Die Steuerroen und Wehrbeitrags⸗Sobüer
+nd ſoglei den Steuererhebern zuzufertigen. Die
+Steuererheber haben die Roen und Sobüer ſorg⸗
+fältig auzubewahren.
+Die Steuerzuſriften ſind ſofort den in Frage
+kommenden Steuerpﬂitigen zuzuſteen und die über
+die erfolgte Zueung auszufüenden tabeariſen
+Beſeinigungen mir unterſriftli vozogen um⸗
+gehenv zurüzureien.
+Goldav. den 7. Mai 1914.
+Der Vorende der Einkommeneuer⸗Veranlagungs⸗
+Kommiſon.
+Dem hieſigen Magi","2e17,000a,006c,0069,f502,0020,007a,0075,0020,0076,006f,f4f9,007a,0069,0065,0068,0065,006e,0020,0075,006e,0064,0020,006d,0069,0072,0020,0064,0069,0065,0020,0053,0074,0065,0075,0065,0072,006c,0069,017f,0074,0065,006e,0020,0075,006d,0067,0065,0068,0065,006e,0064,000a,007a,0075,0072,00fc,eec4,007a,0075,0072,0065,0069,f502,0065,006e,002e,000a,0044,0069,0065,0020,0053,0074,0065,0075,0065,0072,0072,006f,f4f9,0065,006e,0020,0075,006e,0064,0020,0057,0065,0068,0072,0062,0065,0069,0074,0072,0061,0067,0073,2e17,0053,006f,f4f9,0062,00fc,f502,0065,0072,000a,eba2,006e,0064,0020,017f,006f,0067,006c,0065,0069,f502,0020,0064,0065,006e,0020,0053,0074,0065,0075,0065,0072,0065,0072,0068,0065,0062,0065,0072,006e,0020,007a,0075,007a,0075,0066,0065,0072,0074,0069,0067,0065,006e,002e,0020,0044,0069,0065,000a,0053,0074,0065,0075,0065,0072,0065,0072,0068,0065,0062,0065,0072,0020,0068,0061,0062,0065,006e,0020,0064,0069,0065,0020,0052,006f,f4f9,0065,006e,0020,0075,006e,0064,0020,0053,006f,f4f9,0062,00fc,f502,0065,0072,0020,017f,006f,0072,0067,2e17,000a,0066,00e4,006c,0074,0069,0067,0020,0061,0075,007a,0075,0062,0065,0077,0061,0068,0072,0065,006e,002e,000a,0044,0069,0065,0020,0053,0074,0065,0075,0065,0072,007a,0075,017f,f502,0072,0069,0066,0074,0065,006e,0020,017f,0069,006e,0064,0020,017f,006f,0066,006f,0072,0074,0020,0064,0065,006e,0020,0069,006e,0020,0046,0072,0061,0067,0065,000a,006b,006f,006d,006d,0065,006e,0064,0065,006e,0020,0053,0074,0065,0075,0065,0072,0070,fb02,0069,f502,0074,0069,0067,0065,006e,0020,007a,0075,007a,0075,017f,0074,0065,f4f9,0065,006e,0020,0075,006e,0064,0020,0064,0069,0065,0020,00fc,0062,0065,0072,000a,0064,0069,0065,0020,0065,0072,0066,006f,006c,0067,0074,0065,0020,005a,0075,eada,0065,f4f9,0075,006e,0067,0020,0061,0075,0073,007a,0075,0066,00fc,f4f9,0065,006e,0064,0065,006e,0020,0074,0061,0062,0065,f4f9,0061,0072,0069,017f,f502,0065,006e,000a,0042,0065,017f,f502,0065,0069,006e,0069,0067,0075,006e,0067,0065,006e,0020,006d,0069,0072,0020,0075,006e,0074,0065,0072,017f,f502,0072,0069,0066,0074,006c,0069,f502,0020,0076,006f,f4f9,007a,006f,0067,0065,006e,0020,0075,006d,2e17,000a,0067,0065,0068,0065,006e,0076,0020,007a,0075,0072,00fc,eec4,007a,0075,0072,0065,0069,f502,0065,006e,002e,000a,0047,006f,006c,0064,0061,0076,002e,0020,0064,0065,006e,0020,0037,002e,0020,004d,0061,0069,0020,0031,0039,0031,0034,002e,000a,0044,0065,0072,0020,0056,006f,0072,eba2,eedc,0065,006e,0064,0065,0020,0064,0065,0072,0020,0045,0069,006e,006b,006f,006d,006d,0065,006e,eada,0065,0075,0065,0072,2e17,0056,0065,0072,0061,006e,006c,0061,0067,0075,006e,0067,0073,2e17,000a,004b,006f,006d,006d,0069,017f,eba2,006f,006e,002e,000a,0044,0065,006d,0020,0068,0069,0065,017f,0069,0067,0065,006e,0020,004d,0061,0067,0069,eada","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"
+ſriften","000a,017f,f502,0072,0069,0066,0074,0065,006e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"nd den Steuerpﬂitigen
+ſoglei zuzullen und mir die über die Zuſtellung
+auszufüllenden tabellariſen Beſeinigungen unter⸗
+ſriftli vollzogen, umgehend zurüzureien.","eba2,006e,0064,0020,0064,0065,006e,0020,0053,0074,0065,0075,0065,0072,0070,fb02,0069,f502,0074,0069,0067,0065,006e,000a,017f,006f,0067,006c,0065,0069,f502,0020,007a,0075,007a,0075,eada,006c,006c,0065,006e,0020,0075,006e,0064,0020,006d,0069,0072,0020,0064,0069,0065,0020,00fc,0062,0065,0072,0020,0064,0069,0065,0020,005a,0075,017f,0074,0065,006c,006c,0075,006e,0067,000a,0061,0075,0073,007a,0075,0066,00fc,006c,006c,0065,006e,0064,0065,006e,0020,0074,0061,0062,0065,006c,006c,0061,0072,0069,017f,f502,0065,006e,0020,0042,0065,017f,f502,0065,0069,006e,0069,0067,0075,006e,0067,0065,006e,0020,0075,006e,0074,0065,0072,2e17,000a,017f,f502,0072,0069,0066,0074,006c,0069,f502,0020,0076,006f,006c,006c,007a,006f,0067,0065,006e,002c,0020,0075,006d,0067,0065,0068,0065,006e,0064,0020,007a,0075,0072,00fc,eec4,007a,0075,0072,0065,0069,f502,0065,006e,002e","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"i","0069","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"Herren Ortsoorſteher, in deren Be⸗
+zirke auswärts veranl","0048,0065,0072,0072,0065,006e,0020,004f,0072,0074,0073,006f,006f,0072,017f,0074,0065,0068,0065,0072,002c,0020,0069,006e,0020,0064,0065,0072,0065,006e,0020,0042,0065,2e17,000a,007a,0069,0072,006b,0065,0020,0061,0075,0073,0077,00e4,0072,0074,0073,0020,0076,0065,0072,0061,006e,006c","N","004e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"te Betriebe belegen nd, haben
+das auf ihre Gemeinde entfallende Gewerbeeuerſoll
+dur Summierung der in Spalre 7 der Rolle ver⸗
+zeineten Beträge am Ende zu berenen und dieſe
+Berenung unterſriſtli zu vollziehen. DieRollen nd
+während einer Woe öﬀentli auszulegen; der Ort,
+ſowie die Zeit der Auslegung i eine Woe vor Be⸗
+ginn derſelben in ortsüblier Weiſe bekanntzumaen.
+In der Bekanntmaung i darauf hinzuweiſen, daß
+nur den Steuerpirigen des Veranlagungsbezirks die
+Eint in die Rolle geattet i.
+Goldap, den 7. Mai 1914.
+Der Vorende des Steuerausſues der
+Geiwerbeeuerklae III. u. IV.
+Die Gemeindeeuerlisten nd 14 Tage lang
+öﬀentli auszulegen und der Beginn ſowie der Ort
+der Auslegung ſofort in ortsüdlier Weiſe bekannt
+zu maen, Den Ortseingeſeenen i gleizeitig zu
+erönen, das Berunſungen gengen die Veranlagung zur
+ﬁngierten Normaleuer binnen einer Auslegungs⸗
+von 4 Woen (28 Tage) na Ablauf der Auslegungs⸗
+fri bei mir anzubringen nd.
+Na Ablauf der Auslegungsfri haben die
+Herren Ortsvorſteher die Auslegungsbeſeinigung auſ
+der Titelſeite der Steuerliſte auszufüen, unterſr","0074,0065,0020,0042,0065,0074,0072,0069,0065,0062,0065,0020,0062,0065,006c,0065,0067,0065,006e,0020,eba2,006e,0064,002c,0020,0068,0061,0062,0065,006e,000a,0064,0061,0073,0020,0061,0075,0066,0020,0069,0068,0072,0065,0020,0047,0065,006d,0065,0069,006e,0064,0065,0020,0065,006e,0074,0066,0061,006c,006c,0065,006e,0064,0065,0020,0047,0065,0077,0065,0072,0062,0065,eada,0065,0075,0065,0072,017f,006f,006c,006c,000a,0064,0075,0072,f502,0020,0053,0075,006d,006d,0069,0065,0072,0075,006e,0067,0020,0064,0065,0072,0020,0069,006e,0020,0053,0070,0061,006c,0072,0065,0020,0037,0020,0064,0065,0072,0020,0052,006f,006c,006c,0065,0020,0076,0065,0072,2e17,000a,007a,0065,0069,f502,006e,0065,0074,0065,006e,0020,0042,0065,0074,0072,00e4,0067,0065,0020,0061,006d,0020,0045,006e,0064,0065,0020,007a,0075,0020,0062,0065,0072,0065,f502,006e,0065,006e,0020,0075,006e,0064,0020,0064,0069,0065,017f,0065,000a,0042,0065,0072,0065,f502,006e,0075,006e,0067,0020,0075,006e,0074,0065,0072,017f,f502,0072,0069,017f,0074,006c,0069,f502,0020,007a,0075,0020,0076,006f,006c,006c,007a,0069,0065,0068,0065,006e,002e,0020,0044,0069,0065,0052,006f,006c,006c,0065,006e,0020,eba2,006e,0064,000a,0077,00e4,0068,0072,0065,006e,0064,0020,0065,0069,006e,0065,0072,0020,0057,006f,f502,0065,0020,00f6,fb00,0065,006e,0074,006c,0069,f502,0020,0061,0075,0073,007a,0075,006c,0065,0067,0065,006e,003b,0020,0064,0065,0072,0020,004f,0072,0074,002c,000a,017f,006f,0077,0069,0065,0020,0064,0069,0065,0020,005a,0065,0069,0074,0020,0064,0065,0072,0020,0041,0075,0073,006c,0065,0067,0075,006e,0067,0020,0069,eada,0020,0065,0069,006e,0065,0020,0057,006f,f502,0065,0020,0076,006f,0072,0020,0042,0065,2e17,000a,0067,0069,006e,006e,0020,0064,0065,0072,017f,0065,006c,0062,0065,006e,0020,0069,006e,0020,006f,0072,0074,0073,00fc,0062,006c,0069,f502,0065,0072,0020,0057,0065,0069,017f,0065,0020,0062,0065,006b,0061,006e,006e,0074,007a,0075,006d,0061,f502,0065,006e,002e,000a,0049,006e,0020,0064,0065,0072,0020,0042,0065,006b,0061,006e,006e,0074,006d,0061,f502,0075,006e,0067,0020,0069,eada,0020,0064,0061,0072,0061,0075,0066,0020,0068,0069,006e,007a,0075,0077,0065,0069,017f,0065,006e,002c,0020,0064,0061,00df,000a,006e,0075,0072,0020,0064,0065,006e,0020,0053,0074,0065,0075,0065,0072,0070,eba3,0069,f502,0072,0069,0067,0065,006e,0020,0064,0065,0073,0020,0056,0065,0072,0061,006e,006c,0061,0067,0075,006e,0067,0073,0062,0065,007a,0069,0072,006b,0073,0020,0064,0069,0065,000a,0045,0069,006e,eba2,f502,0074,0020,0069,006e,0020,0064,0069,0065,0020,0052,006f,006c,006c,0065,0020,0067,0065,eada,0061,0074,0074,0065,0074,0020,0069,eada,002e,000a,0047,006f,006c,0064,0061,0070,002c,0020,0064,0065,006e,0020,0037,002e,0020,004d,0061,0069,0020,0031,0039,0031,0034,002e,000a,0044,0065,0072,0020,0056,006f,0072,eba2,eedc,0065,006e,0064,0065,0020,0064,0065,0073,0020,0053,0074,0065,0075,0065,0072,0061,0075,0073,017f,f502,0075,eba6,0065,0073,0020,0064,0065,0072,000a,0047,0065,0069,0077,0065,0072,0062,0065,eada,0065,0075,0065,0072,006b,006c,0061,eba6,0065,0020,0049,0049,0049,002e,0020,0075,002e,0020,0049,0056,002e,000a,0044,0069,0065,0020,0047,0065,006d,0065,0069,006e,0064,0065,eada,0065,0075,0065,0072,006c,0069,0073,0074,0065,006e,0020,eba2,006e,0064,0020,0031,0034,0020,0054,0061,0067,0065,0020,006c,0061,006e,0067,000a,00f6,fb00,0065,006e,0074,006c,0069,f502,0020,0061,0075,0073,007a,0075,006c,0065,0067,0065,006e,0020,0075,006e,0064,0020,0064,0065,0072,0020,0042,0065,0067,0069,006e,006e,0020,017f,006f,0077,0069,0065,0020,0064,0065,0072,0020,004f,0072,0074,000a,0064,0065,0072,0020,0041,0075,0073,006c,0065,0067,0075,006e,0067,0020,017f,006f,0066,006f,0072,0074,0020,0069,006e,0020,006f,0072,0074,0073,00fc,0064,006c,0069,f502,0065,0072,0020,0057,0065,0069,017f,0065,0020,0062,0065,006b,0061,006e,006e,0074,000a,007a,0075,0020,006d,0061,f502,0065,006e,002c,0020,0044,0065,006e,0020,004f,0072,0074,0073,0065,0069,006e,0067,0065,017f,0065,eba6,0065,006e,0065,006e,0020,0069,eada,0020,0067,006c,0065,0069,f502,007a,0065,0069,0074,0069,0067,0020,007a,0075,000a,0065,0072,00f6,eba6,006e,0065,006e,002c,0020,0064,0061,0073,0020,0042,0065,0072,0075,006e,017f,0075,006e,0067,0065,006e,0020,0067,0065,006e,0067,0065,006e,0020,0064,0069,0065,0020,0056,0065,0072,0061,006e,006c,0061,0067,0075,006e,0067,0020,007a,0075,0072,000a,fb01,006e,0067,0069,0065,0072,0074,0065,006e,0020,004e,006f,0072,006d,0061,006c,eada,0065,0075,0065,0072,0020,0062,0069,006e,006e,0065,006e,0020,0065,0069,006e,0065,0072,0020,0041,0075,0073,006c,0065,0067,0075,006e,0067,0073,2e17,000a,0076,006f,006e,0020,0034,0020,0057,006f,f502,0065,006e,0020,0028,0032,0038,0020,0054,0061,0067,0065,0029,0020,006e,0061,f502,0020,0041,0062,006c,0061,0075,0066,0020,0064,0065,0072,0020,0041,0075,0073,006c,0065,0067,0075,006e,0067,0073,2e17,000a,0066,0072,0069,eada,0020,0062,0065,0069,0020,006d,0069,0072,0020,0061,006e,007a,0075,0062,0072,0069,006e,0067,0065,006e,0020,eba2,006e,0064,002e,000a,004e,0061,f502,0020,0041,0062,006c,0061,0075,0066,0020,0064,0065,0072,0020,0041,0075,0073,006c,0065,0067,0075,006e,0067,0073,0066,0072,0069,eada,0020,0068,0061,0062,0065,006e,0020,0064,0069,0065,000a,0048,0065,0072,0072,0065,006e,0020,004f,0072,0074,0073,0076,006f,0072,017f,0074,0065,0068,0065,0072,0020,0064,0069,0065,0020,0041,0075,0073,006c,0065,0067,0075,006e,0067,0073,0062,0065,017f,f502,0065,0069,006e,0069,0067,0075,006e,0067,0020,0061,0075,017f,000a,0064,0065,0072,0020,0054,0069,0074,0065,006c,017f,0065,0069,0074,0065,0020,0064,0065,0072,0020,0053,0074,0065,0075,0065,0072,006c,0069,017f,0074,0065,0020,0061,0075,0073,007a,0075,0066,00fc,f4f9,0065,006e,002c,0020,0075,006e,0074,0065,0072,017f,f502,0072","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,",","002c","(laujende","0028,006c,0061,0075,006a,0065,006e,0064,0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"","","Nummer 
+„","004e,0075,006d,006d,0065,0072,0020,000a,201e","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"j","006a","m F","006d,0020,0046","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00675725-00231732.gt4hist.xml.txt,,,,"n","006e","f","0066","misrecognised","1"

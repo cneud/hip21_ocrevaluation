@@ -1,0 +1,387 @@
+groundTruth,result,charsInGroundTruth,charsInResult,characterAccuracy,LCSCharStats Ground Truth Item,LCSCharStats Ground Truth Unicode,LCSCharStats OCR Result Item,LCSCharStats OCR Result Unicode,LCSCharStats OCR Error,LCSCharStats Count
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,"3230","4111","0.41578947368421054","an Diphteritis erkrankten Kaufmanne den Kehlkopf⸗","0061,006e,0020,0044,0069,0070,0068,0074,0065,0072,0069,0074,0069,0073,0020,0065,0072,006b,0072,0061,006e,006b,0074,0065,006e,0020,004b,0061,0075,0066,006d,0061,006e,006e,0065,0020,0064,0065,006e,0020,004b,0065,0068,006c,006b,006f,0070,0066,2e17","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"er der Millerhäuſer im Werte von einer Million","0065,0072,0020,0064,0065,0072,0020,004d,0069,006c,006c,0065,0072,0068,00e4,0075,017f,0065,0072,0020,0069,006d,0020,0057,0065,0072,0074,0065,0020,0076,006f,006e,0020,0065,0069,006e,0065,0072,0020,004d,0069,006c,006c,0069,006f,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ionen vorhanden, unter deren Einfluße in Central⸗","0069,006f,006e,0065,006e,0020,0076,006f,0072,0068,0061,006e,0064,0065,006e,002c,0020,0075,006e,0074,0065,0072,0020,0064,0065,0072,0065,006e,0020,0045,0069,006e,0066,006c,0075,00df,0065,0020,0069,006e,0020,0043,0065,006e,0074,0072,0061,006c,2e17","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+vor. Gegenüber dem Thatorte befindet ","000a,0076,006f,0072,002e,0020,0047,0065,0067,0065,006e,00fc,0062,0065,0072,0020,0064,0065,006d,0020,0054,0068,0061,0074,006f,0072,0074,0065,0020,0062,0065,0066,0069,006e,0064,0065,0074,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+Beſtimmung übergeben, daſs die Zinſen für die","000a,0042,0065,017f,0074,0069,006d,006d,0075,006e,0067,0020,00fc,0062,0065,0072,0067,0065,0062,0065,006e,002c,0020,0064,0061,017f,0073,0020,0064,0069,0065,0020,005a,0069,006e,017f,0065,006e,0020,0066,00fc,0072,0020,0064,0069,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+tags in den Armen ſeiner Eltern, denen man all⸗","000a,0074,0061,0067,0073,0020,0069,006e,0020,0064,0065,006e,0020,0041,0072,006d,0065,006e,0020,017f,0065,0069,006e,0065,0072,0020,0045,006c,0074,0065,0072,006e,002c,0020,0064,0065,006e,0065,006e,0020,006d,0061,006e,0020,0061,006c,006c,2e17","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+eine neue Depre","000a,0065,0069,006e,0065,0020,006e,0065,0075,0065,0020,0044,0065,0070,0072,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"barn herbeieilten und den Thäter fe","0062,0061,0072,006e,0020,0068,0065,0072,0062,0065,0069,0065,0069,006c,0074,0065,006e,0020,0075,006e,0064,0020,0064,0065,006e,0020,0054,0068,00e4,0074,0065,0072,0020,0066,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ngenieur Herr Karl Miller, Be","006e,0067,0065,006e,0069,0065,0075,0072,0020,0048,0065,0072,0072,0020,004b,0061,0072,006c,0020,004d,0069,006c,006c,0065,0072,002c,0020,0042,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"enkung der Stadt mit der","0065,006e,006b,0075,006e,0067,0020,0064,0065,0072,0020,0053,0074,0061,0064,0074,0020,006d,0069,0074,0020,0064,0065,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+Leben gekommen. Er nahm dieſer Tage an einem","000a,004c,0065,0062,0065,006e,0020,0067,0065,006b,006f,006d,006d,0065,006e,002e,0020,0045,0072,0020,006e,0061,0068,006d,0020,0064,0069,0065,017f,0065,0072,0020,0054,0061,0067,0065,0020,0061,006e,0020,0065,0069,006e,0065,006d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+ſaugens in ein Glasrohr. Bald darauf erkrankte","000a,017f,0061,0075,0067,0065,006e,0073,0020,0069,006e,0020,0065,0069,006e,0020,0047,006c,0061,0073,0072,006f,0068,0072,002e,0020,0042,0061,006c,0064,0020,0064,0061,0072,0061,0075,0066,0020,0065,0072,006b,0072,0061,006e,006b,0074,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"arker Abkühlung, eingetreten. Hoher Dru","0061,0072,006b,0065,0072,0020,0041,0062,006b,00fc,0068,006c,0075,006e,0067,002c,0020,0065,0069,006e,0067,0065,0074,0072,0065,0074,0065,006e,002e,0020,0048,006f,0068,0065,0072,0020,0044,0072,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ändig war. ","00e4,006e,0064,0069,0067,0020,0077,0061,0072,002e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"nſeln zu nähern.","006e,017f,0065,006c,006e,0020,007a,0075,0020,006e,00e4,0068,0065,0072,006e,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"n das Gewölbe des Juweliers Adolph","006e,0020,0064,0061,0073,0020,0047,0065,0077,00f6,006c,0062,0065,0020,0064,0065,0073,0020,004a,0075,0077,0065,006c,0069,0065,0072,0073,0020,0041,0064,006f,006c,0070,0068","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,", aus Lundenburg gebürtig, 25 Jahre","002c,0020,0061,0075,0073,0020,004c,0075,006e,0064,0065,006e,0062,0075,0072,0067,0020,0067,0065,0062,00fc,0072,0074,0069,0067,002c,0020,0032,0035,0020,004a,0061,0068,0072,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"n Brünn fand ein Duell zwiſ","006e,0020,0042,0072,00fc,006e,006e,0020,0066,0061,006e,0064,0020,0065,0069,006e,0020,0044,0075,0065,006c,006c,0020,007a,0077,0069,017f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"⸗","2e17","","","none","3"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+Mark, hat dieſe als S","000a,004d,0061,0072,006b,002c,0020,0068,0061,0074,0020,0064,0069,0065,017f,0065,0020,0061,006c,0073,0020,0053","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"",""," ","0020","false detection","42"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+Arzt Dr. Adolph Meyer auf tragiſ","000a,0041,0072,007a,0074,0020,0044,0072,002e,0020,0041,0064,006f,006c,0070,0068,0020,004d,0065,0079,0065,0072,0020,0061,0075,0066,0020,0074,0072,0061,0067,0069,017f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+","000a"," 
+e","0020,000a,0065","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ungsgefahr zu erretten, den in der ein⸗","0075,006e,0067,0073,0067,0065,0066,0061,0068,0072,0020,007a,0075,0020,0065,0072,0072,0065,0074,0074,0065,006e,002c,0020,0064,0065,006e,0020,0069,006e,0020,0064,0065,0072,0020,0065,0069,006e,2e17","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+mußte an ihm ebenfalls der Luftröhrenſ","000a,006d,0075,00df,0074,0065,0020,0061,006e,0020,0069,0068,006d,0020,0065,0062,0065,006e,0066,0061,006c,006c,0073,0020,0064,0065,0072,0020,004c,0075,0066,0074,0072,00f6,0068,0072,0065,006e,017f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+gemeine Theilnahme entgegenbringt.","000a,0067,0065,006d,0065,0069,006e,0065,0020,0054,0068,0065,0069,006c,006e,0061,0068,006d,0065,0020,0065,006e,0074,0067,0065,0067,0065,006e,0062,0072,0069,006e,0067,0074,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"tinent herein, do","0074,0069,006e,0065,006e,0074,0020,0068,0065,0072,0065,0069,006e,002c,0020,0064,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+be","000a,0062,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ußerſten No","0075,00df,0065,0072,017f,0074,0065,006e,0020,004e,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ion den britiſ","0069,006f,006e,0020,0064,0065,006e,0020,0062,0072,0069,0074,0069,017f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+","000a","","","none","9"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,". Aus Wien wird vom 12. ds.","002e,0020,0041,0075,0073,0020,0057,0069,0065,006e,0020,0077,0069,0072,0064,0020,0076,006f,006d,0020,0031,0032,002e,0020,0064,0073,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+Abends ein Lann und verſe","000a,0041,0062,0065,006e,0064,0073,0020,0065,0069,006e,0020,004c,0061,006e,006e,0020,0075,006e,0064,0020,0076,0065,0072,017f,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," der vacirende Graveur Carl","0020,0064,0065,0072,0020,0076,0061,0063,0069,0072,0065,006e,0064,0065,0020,0047,0072,0061,0076,0065,0075,0072,0020,0043,0061,0072,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+alt. Er will die That aus Ra","000a,0061,006c,0074,002e,0020,0045,0072,0020,0077,0069,006c,006c,0020,0064,0069,0065,0020,0054,0068,0061,0074,0020,0061,0075,0073,0020,0052,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"erheitswa","0065,0072,0068,0065,0069,0074,0073,0077,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," erlitt an beiden Armen ſ","0020,0065,0072,006c,0069,0074,0074,0020,0061,006e,0020,0062,0065,0069,0064,0065,006e,0020,0041,0072,006d,0065,006e,0020,017f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","eba2","ſi","017f,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","f502","ch","0063,0068","misrecognised","44"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+Ein Opfer ſeines Berufes. ","000a,0045,0069,006e,0020,004f,0070,0066,0065,0072,0020,017f,0065,0069,006e,0065,0073,0020,0042,0065,0072,0075,0066,0065,0073,002e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"e Weiſe um's","0065,0020,0057,0065,0069,017f,0065,0020,0075,006d,0027,0073","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"nitt vor und entfernte","006e,0069,0074,0074,0020,0076,006f,0072,0020,0075,006e,0064,0020,0065,006e,0074,0066,0065,0072,006e,0074,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ten Canüle vorhandenen S","0074,0065,006e,0020,0043,0061,006e,00fc,006c,0065,0020,0076,006f,0072,0068,0061,006e,0064,0065,006e,0065,006e,0020,0053","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," Dr. Meyer an Diphteritis. ","0020,0044,0072,002e,0020,004d,0065,0079,0065,0072,0020,0061,006e,0020,0044,0069,0070,0068,0074,0065,0072,0069,0074,0069,0073,002e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"t werden. Leider wurde der junge tü","0074,0020,0077,0065,0072,0064,0065,006e,002e,0020,004c,0065,0069,0064,0065,0072,0020,0077,0075,0072,0064,0065,0020,0064,0065,0072,0020,006a,0075,006e,0067,0065,0020,0074,00fc","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"rſe in Wien den 14. Februar 1894.","0072,017f,0065,0020,0069,006e,0020,0057,0069,0065,006e,0020,0064,0065,006e,0020,0031,0034,002e,0020,0046,0065,0062,0072,0075,0061,0072,0020,0031,0038,0039,0034,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+in den","000a,0069,006e,0020,0064,0065,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," zahlrei","0020,007a,0061,0068,006c,0072,0065,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"n ","006e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","eada","ſt","017f,0074","misrecognised","11"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"m","006d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"eint ſi","0065,0069,006e,0074,0020,017f,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","eba6","ſf","017f,0066","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"en ","0065,006e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," ","0020","","","none","10"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ante Neuigkeiten.","0061,006e,0074,0065,0020,004e,0065,0075,0069,0067,006b,0065,0069,0074,0065,006e,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+gemeldet: ","000a,0067,0065,006d,0065,006c,0064,0065,0074,003a,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ler in der Burgga","006c,0065,0072,0020,0069,006e,0020,0064,0065,0072,0020,0042,0075,0072,0067,0067,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"eiben der Glasthüre, wor⸗","0065,0069,0062,0065,006e,0020,0064,0065,0072,0020,0047,006c,0061,0073,0074,0068,00fc,0072,0065,002c,0020,0077,006f,0072,2e17","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+nahmen. Derſelbe i","000a,006e,0061,0068,006d,0065,006e,002e,0020,0044,0065,0072,017f,0065,006c,0062,0065,0020,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"arabatſ","0061,0072,0061,0062,0061,0074,017f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," liegt aber ein Raubmordverſu","0020,006c,0069,0065,0067,0074,0020,0061,0062,0065,0072,0020,0065,0069,006e,0020,0052,0061,0075,0062,006d,006f,0072,0064,0076,0065,0072,017f,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," eine","0020,0065,0069,006e,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+Duell. ","000a,0044,0075,0065,006c,006c,002e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," und dem geweſenen O","0020,0075,006e,0064,0020,0064,0065,006d,0020,0067,0065,0077,0065,017f,0065,006e,0065,006e,0020,004f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"enkung hat die Stadt Mün⸗","0065,006e,006b,0075,006e,0067,0020,0068,0061,0074,0020,0064,0069,0065,0020,0053,0074,0061,0064,0074,0020,004d,00fc,006e,2e17","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","eedc","t","0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"sbades verwendet werden.","0073,0062,0061,0064,0065,0073,0020,0076,0065,0072,0077,0065,006e,0064,0065,0074,0020,0077,0065,0072,0064,0065,006e,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"n Würzburg i","006e,0020,0057,00fc,0072,007a,0062,0075,0072,0067,0020,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+ſ","000a,017f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," um den Patienten von","0020,0075,006d,0020,0064,0065,006e,0020,0050,0061,0074,0069,0065,006e,0074,0065,006e,0020,0076,006f,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+geſe","000a,0067,0065,017f,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"leim mittel","006c,0065,0069,006d,0020,006d,0069,0074,0074,0065,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+au","000a,0061,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"n der Na","006e,0020,0064,0065,0072,0020,004e,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"nitt ge⸗","006e,0069,0074,0074,0020,0067,0065,2e17","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"t gerettet. Er verſ","0074,0020,0067,0065,0072,0065,0074,0074,0065,0074,002e,0020,0045,0072,0020,0076,0065,0072,017f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," Hauptdepot für Bozeu und","0020,0048,0061,0075,0070,0074,0064,0065,0070,006f,0074,0020,0066,00fc,0072,0020,0042,006f,007a,0065,0075,0020,0075,006e,0064","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ern über dem ſüdli","0065,0072,006e,0020,00fc,0062,0065,0072,0020,0064,0065,006d,0020,017f,00fc,0064,006c,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," Fran","0020,0046,0072,0061,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," Co","0020,0043,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"d no","0064,0020,006e,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"e Theil⸗","0065,0020,0054,0068,0065,0069,006c,2e17","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"das Wetter no unruhig und un⸗","0064,0061,0073,0020,0057,0065,0074,0074,0065,0072,0020,006e,006f,f502,0020,0075,006e,0072,0075,0068,0069,0067,0020,0075,006e,0064,0020,0075,006e,2e17","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"I","0049","Z","005a","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"en ſ","0065,006e,0020,017f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","f502","hh ","0068,0068,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"I","0049","J","004a","misrecognised","7"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"—","2014","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ntere","006e,0074,0065,0072,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"Raubmordverſu","0052,0061,0075,0062,006d,006f,0072,0064,0076,0065,0072,017f,0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," halb 5 Uhr","0020,0068,0061,006c,0062,0020,0035,0020,0055,0068,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"läge gegen den Kopf. Na","006c,00e4,0067,0065,0020,0067,0065,0067,0065,006e,0020,0064,0065,006e,0020,004b,006f,0070,0066,002e,0020,004e,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+auf die Na","000a,0061,0075,0066,0020,0064,0069,0065,0020,004e,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"e verübt ha⸗","0065,0020,0076,0065,0072,00fc,0062,0074,0020,0068,0061,2e17","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","f502","ch ","0063,0068,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","eba2,f502","ſich","017f,0069,0063,0068","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+Si","000a,0053,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ub","0075,0062","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"izier Fleſ","0069,007a,0069,0065,0072,0020,0046,006c,0065,017f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"att. Fleſ","0061,0074,0074,002e,0020,0046,006c,0065,017f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"e des Duells war ein","0065,0020,0064,0065,0073,0020,0044,0075,0065,006c,006c,0073,0020,0077,0061,0072,0020,0065,0069,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"en erhalten. ","0065,006e,0020,0065,0072,0068,0061,006c,0074,0065,006e,002e,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"tung eines Vol","0074,0075,006e,0067,0020,0065,0069,006e,0065,0073,0020,0056,006f,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," der","0020,0064,0065,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,",","002c",".","002e","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+der Er","000a,0064,0065,0072,0020,0045,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","eedc","tz","0074,007a","misrecognised","5"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," Auf⸗","0020,0041,0075,0066,2e17","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"t","0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+ma","000a,006d,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+Arzt dadur","000a,0041,0072,007a,0074,0020,0064,0061,0064,0075,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ied Na","0069,0065,0064,0020,004e,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ac Liqueur","0061,0063,0020,004c,0069,0071,0075,0065,0075,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"rinzi in Bozen.","0072,0069,006e,007a,0069,0020,0069,006e,0020,0042,006f,007a,0065,006e,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"efe Depre","0065,0066,0065,0020,0044,0065,0070,0072,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"usgedehnte Niederſ","0075,0073,0067,0065,0064,0065,0068,006e,0074,0065,0020,004e,0069,0065,0064,0065,0072,017f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ſt v","017f,0074,0020,0076","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"krei","006b,0072,0065,0069,f502","cqch — ","0063,0071,0063,0068,0020,2014,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","",".","002e","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"n","006e","u","0075","misrecognised","3"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+depre","000a,0064,0065,0070,0072,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","","̃","0303","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ä","00e4","a","0061","misrecognised","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"dwe","0064,0077,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"9","0039","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"—
+Walther Cognac Liqueur
+Walther Cognac Liqueur
+Bitte
+maen Sie einen Berſu und
+Sie werden überraſt ſein.
+Einheitlie Staatsſuld in Noten . . 98—
+Einheitlie Staatsſuld in Silber . . 97.80
+Oeſterreiiſe Goldrente . . . . 120.20
+Oeſterreiiſe Kronenrente 4 Proz . . 97.95
+Ungariſe Goldrente 4 Proz. . . 117.40
+Ungariſe Kronenrente 4 Proz. . . 94.95
+Oeerr.⸗ungar. Bankaktien . . . 998
+Creditaktien . . . . . . 360.75
+London vista . . . . . . 125.30
+Teutſe Reisbanknoten für 100 Mark b.R.⸗W. 61.20
+20⸗Mark Stüe , . . . . 12.25 ½
+20⸗Francs⸗Stüe . . . . 9.93
+Italieniſe Banknoten . . . 43.95
+Rand⸗Dukaten . . . . . 5 93
+Deutsch. u. öst. Alpenvereins-Section Bozen
+Wettertafel am Krautſneider⸗Hauſe
+vom 13. Februar 1894.
+","2014,000a,0057,0061,006c,0074,0068,0065,0072,0020,0043,006f,0067,006e,0061,0063,0020,004c,0069,0071,0075,0065,0075,0072,000a,0057,0061,006c,0074,0068,0065,0072,0020,0043,006f,0067,006e,0061,0063,0020,004c,0069,0071,0075,0065,0075,0072,000a,0042,0069,0074,0074,0065,000a,006d,0061,f502,0065,006e,0020,0053,0069,0065,0020,0065,0069,006e,0065,006e,0020,0042,0065,0072,017f,0075,f502,0020,0075,006e,0064,000a,0053,0069,0065,0020,0077,0065,0072,0064,0065,006e,0020,00fc,0062,0065,0072,0072,0061,017f,f502,0074,0020,017f,0065,0069,006e,002e,000a,0045,0069,006e,0068,0065,0069,0074,006c,0069,f502,0065,0020,0053,0074,0061,0061,0074,0073,017f,f502,0075,006c,0064,0020,0069,006e,0020,004e,006f,0074,0065,006e,0020,002e,0020,002e,0020,0039,0038,2014,000a,0045,0069,006e,0068,0065,0069,0074,006c,0069,f502,0065,0020,0053,0074,0061,0061,0074,0073,017f,f502,0075,006c,0064,0020,0069,006e,0020,0053,0069,006c,0062,0065,0072,0020,002e,0020,002e,0020,0039,0037,002e,0038,0030,000a,004f,0065,017f,0074,0065,0072,0072,0065,0069,f502,0069,017f,f502,0065,0020,0047,006f,006c,0064,0072,0065,006e,0074,0065,0020,002e,0020,002e,0020,002e,0020,002e,0020,0031,0032,0030,002e,0032,0030,000a,004f,0065,017f,0074,0065,0072,0072,0065,0069,f502,0069,017f,f502,0065,0020,004b,0072,006f,006e,0065,006e,0072,0065,006e,0074,0065,0020,0034,0020,0050,0072,006f,007a,0020,002e,0020,002e,0020,0039,0037,002e,0039,0035,000a,0055,006e,0067,0061,0072,0069,017f,f502,0065,0020,0047,006f,006c,0064,0072,0065,006e,0074,0065,0020,0034,0020,0050,0072,006f,007a,002e,0020,002e,0020,002e,0020,0031,0031,0037,002e,0034,0030,000a,0055,006e,0067,0061,0072,0069,017f,f502,0065,0020,004b,0072,006f,006e,0065,006e,0072,0065,006e,0074,0065,0020,0034,0020,0050,0072,006f,007a,002e,0020,002e,0020,002e,0020,0039,0034,002e,0039,0035,000a,004f,0065,eada,0065,0072,0072,002e,2e17,0075,006e,0067,0061,0072,002e,0020,0042,0061,006e,006b,0061,006b,0074,0069,0065,006e,0020,002e,0020,002e,0020,002e,0020,0039,0039,0038,000a,0043,0072,0065,0064,0069,0074,0061,006b,0074,0069,0065,006e,0020,002e,0020,002e,0020,002e,0020,002e,0020,002e,0020,002e,0020,0033,0036,0030,002e,0037,0035,000a,004c,006f,006e,0064,006f,006e,0020,0076,0069,0073,0074,0061,0020,002e,0020,002e,0020,002e,0020,002e,0020,002e,0020,002e,0020,0031,0032,0035,002e,0033,0030,000a,0054,0065,0075,0074,017f,f502,0065,0020,0052,0065,0069,f502,0073,0062,0061,006e,006b,006e,006f,0074,0065,006e,0020,0066,00fc,0072,0020,0031,0030,0030,0020,004d,0061,0072,006b,0020,0062,002e,0052,002e,2e17,0057,002e,0020,0036,0031,002e,0032,0030,000a,0032,0030,2e17,004d,0061,0072,006b,0020,0053,0074,00fc,eec4,0065,0020,002c,0020,002e,0020,002e,0020,002e,0020,002e,0020,0031,0032,002e,0032,0035,0020,00bd,000a,0032,0030,2e17,0046,0072,0061,006e,0063,0073,2e17,0053,0074,00fc,eec4,0065,0020,002e,0020,002e,0020,002e,0020,002e,0020,0039,002e,0039,0033,000a,0049,0074,0061,006c,0069,0065,006e,0069,017f,f502,0065,0020,0042,0061,006e,006b,006e,006f,0074,0065,006e,0020,002e,0020,002e,0020,002e,0020,0034,0033,002e,0039,0035,000a,0052,0061,006e,0064,2e17,0044,0075,006b,0061,0074,0065,006e,0020,002e,0020,002e,0020,002e,0020,002e,0020,002e,0020,0035,0020,0039,0033,000a,0044,0065,0075,0074,0073,0063,0068,002e,0020,0075,002e,0020,00f6,0073,0074,002e,0020,0041,006c,0070,0065,006e,0076,0065,0072,0065,0069,006e,0073,002d,0053,0065,0063,0074,0069,006f,006e,0020,0042,006f,007a,0065,006e,000a,0057,0065,0074,0074,0065,0072,0074,0061,0066,0065,006c,0020,0061,006d,0020,004b,0072,0061,0075,0074,017f,f502,006e,0065,0069,0064,0065,0072,2e17,0048,0061,0075,017f,0065,000a,0076,006f,006d,0020,0031,0033,002e,0020,0046,0065,0062,0072,0075,0061,0072,0020,0031,0038,0039,0034,002e,000a,000c","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"I","0049","
+— 
+A","000a,2014,0020,000a,0041","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","eba6","ſſ","017f,017f","misrecognised","3"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+","000a"," 
+K","0020,000a,004b","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"a","0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"e kam na","0065,0020,006b,0061,006d,0020,006e,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"te dem Verkäufer Joſef","0074,0065,0020,0064,0065,006d,0020,0056,0065,0072,006b,00e4,0075,0066,0065,0072,0020,004a,006f,017f,0065,0066","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+ler zertrümmerte die S","000a,006c,0065,0072,0020,007a,0065,0072,0074,0072,00fc,006d,006d,0065,0072,0074,0065,0020,0064,0069,0065,0020,0053","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"B","0042","G","0047","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+ben, wahrſ","000a,0062,0065,006e,002c,0020,0077,0061,0068,0072,017f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","f502,eada","chſt","0063,0068,017f,0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"e.","0065,002e","dte. ","0064,0074,0065,002e,0020","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+Reſerveo","000a,0052,0065,017f,0065,0072,0076,0065,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+Vening ","000a,0056,0065,006e,0069,006e,0067,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ungen. Die Urſa","0075,006e,0067,0065,006e,002e,0020,0044,0069,0065,0020,0055,0072,017f,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ſel auf einem Balle.","017f,0065,006c,0020,0061,0075,0066,0020,0065,0069,006e,0065,006d,0020,0042,0061,006c,006c,0065,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+Erri","000a,0045,0072,0072,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"k","006b","l","006c","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"i","0069","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"tige","0074,0069,0067,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," ni","0020,006e,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"mit⸗","006d,0069,0074,2e17","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+Walther⸗","000a,0057,0061,006c,0074,0068,0065,0072,2e17","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"en überra","0065,006e,0020,00fc,0062,0065,0072,0072,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"mgebung bei ","006d,0067,0065,0062,0075,006e,0067,0020,0062,0065,0069,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"urſe an der ","0075,0072,017f,0065,0020,0061,006e,0020,0064,0065,0072,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+Die t","000a,0044,0069,0065,0020,0074","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ion, wel","0069,006f,006e,002c,0020,0077,0065,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+Skandinavien lag","000a,0053,006b,0061,006e,0064,0069,006e,0061,0076,0069,0065,006e,0020,006c,0061,0067","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+folgt vo","000a,0066,006f,006c,0067,0074,0020,0076,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"aja","0061,006a,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"n","eba2,006e","ſiu","017f,0069,0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","eba2","n","006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"Europa","0045,0075,0072,006f,0070,0061","—","2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"r","0072","⸗","2e17","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"R","0052","N","004e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"Binder mehrere Ha","0042,0069,006e,0064,0065,0072,0020,006d,0065,0068,0072,0065,0072,0065,0020,0048,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"einli","0065,0069,006e,006c,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"en dem","0065,006e,0020,0064,0065,006d","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ﬀ","fb00","ff","0066,0066","misrecognised","3"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"izier","0069,007a,0069,0065,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+Verle","000a,0056,0065,0072,006c,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+Wortwe","000a,0057,006f,0072,0074,0077,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+Eine großherzige S","000a,0045,0069,006e,0065,0020,0067,0072,006f,00df,0068,0065,0072,007a,0069,0067,0065,0020,0053","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","eec4","ck","0063,006b","misrecognised","3"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"Cog","0043,006f,0067","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"u ","0075,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ll","006c,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,". B. S","002e,0020,0042,002e,0020,0053","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," und We","0020,0075,006e,0064,0020,0057,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"entli","0065,006e,0074,006c,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+","000a"," 
+Einheitliche Staatsſchuld in Noten . 98 
+Einheitliche Staatsſchnld in Silber. C.80 
+Oeſterreichiſche Goldrente . . 120.20 
+Kronenrente 4 Proz. . N. g5 
+Ungariſche Goldrente 4 Proz. 117.40 
+„ Kronenrente 4 Proz. 94. 95 
+Oeſterr.⸗ungar. Bankaktien 998 
+Crcditaktien . . . 860. 75 
+London visaasaas  12285 30 
+Deutſche Reichsbanknoten ſür! 00 Mark b. R.-W. 61. 20 
+20-Mark Stücke, immmm 
+20-Francs⸗Stücke. —— 
+Jtalieniſche Banknoten 43. 95 
+Rand⸗Dukaten 5 93 
+MJ JMNNNJ JJ 
+Wettertafel am Krautſchneider˖ Hauſe 
+vom 13. Februar 1894. 
+——— — 35 386 
+Statiun n  Wetter 522 
+ſeirt in min.  3 3 1 S 
+S 2 
+München . 757 SW 2] bedeckt 2 
+Paſſau . .. 756 We2 8 
+Zürich  .1 161 Wö6!] halbbedeckt 3 
+Genf  ... 764 SW 21 bedeckt 5 
+Bozen  157 Stille; halbbedeckt 3 
+Salzburg . . 758 NW  Regen 3 
+Wien 755 We3 bedeckt 6 
+BPrag.. — — — 1 — 
+Trieſt. — — 2. — — 
+Rom 1759 ttit 2 wolkig 11  — 
+Neapel.. 760 SW a1 bedeckt 11 
+Palermo 162 Sw 3] woltenlos 11. 
+Malta 164  We2] bedeckt 13 
+Hamburg.  149 vsu Gl halbbedeckt 2 
+Berlin. 149 Vnm 5] bedeckt 2 
+Breslau .. 751 Vsn G! wo Lenloss 2 — 
+Kopenhagen. 742  N 16. heiter 1 
+Stockholm . — —  — — 
+Moskau. — — — — 
+Riga  — — — — 
+Petersburgg —  — — — 
+Aberdeen 757 vnmM 44] halbbedeckt 0 
+Valentia. — 1 — — — 
+Nizza 757 Jsst 11. wolkenlos 8 
+Varis 760  W38  4 
+Bilatus 586 88 9  8 
+Souublick J 511 nnM A 11 
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"i","0069","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"e ge","0065,0020,0067,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"en","0065,006e","","","none","3"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"rußlaud fortge","0072,0075,00df,006c,0061,0075,0064,0020,0066,006f,0072,0074,0067,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ge, ge⸗","0067,0065,002c,0020,0067,0065,2e17","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","eec4","c ","0063,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"g","0067","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," d","0020,0064","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"be","0062,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"heute","0068,0065,0075,0074,0065","——","2014,2014","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"Morge","004d,006f,0072,0067,0065","— ","2014,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+","000a"," 
+V","0020,000a,0056","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"enſ","0065,006e,017f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"were","0077,0065,0072,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"",""," u . ","0020,0075,0020,002e,0020","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","","-","002d","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"h","0068","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","","ſcht ſeinn  S 
+— ——112 — 
+— — 1 3 
+Jn haben uberra","017f,0063,0068,0074,0020,017f,0065,0069,006e,006e,0020,0020,0053,0020,000a,2014,0020,2014,2014,0031,0031,0032,0020,2014,0020,000a,2014,0020,2014,0020,0031,0020,0033,0020,000a,004a,006e,0020,0068,0061,0062,0065,006e,0020,0075,0062,0065,0072,0072,0061","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,".","002e","l","006c","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"U","0055","ü","00fc","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"c","0063","t","0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ecten","0065,0063,0074,0065,006e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ſel","017f,0065,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"öﬀ","00f6,fb00","off","006f,0066,0066","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," es die geri","0020,0065,0073,0020,0064,0069,0065,0020,0067,0065,0072,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+Auf ihrer Rü","000a,0041,0075,0066,0020,0069,0068,0072,0065,0072,0020,0052,00fc","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"l","006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"u","0075","n","006e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"drän","0064,0072,00e4,006e","ca","0063,0061","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"on","006f,006e","di","0064,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"S","0053","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"r","0072","c","0063","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"Z","005a","  
+S1","0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,000a,0020,0020,000a,0053,0031","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","","Bitte  — 
+— — 2 2 — 
+JE mac","0042,0069,0074,0074,0065,0020,0020,2014,0020,000a,2014,0020,2014,0020,0032,0020,0032,0020,2014,0020,000a,004a,0045,0020,006d,0061,0063","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ab","0061,0062","en Sie einen Verjuch und 43 
+SJ Sie werd","0065,006e,0020,0053,0069,0065,0020,0065,0069,006e,0065,006e,0020,0056,0065,0072,006a,0075,0063,0068,0020,0075,006e,0064,0020,0034,0033,0020,000a,0053,004a,0020,0053,0069,0065,0020,0077,0065,0072,0064","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+E","000a,0045","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"⸗","2e17",".","002e","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"C","0043","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+B","000a,0042","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," iſt, ſo","0020,0069,017f,0074,002c,0020,017f,006f","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"en, bis na","0065,006e,002c,0020,0062,0069,0073,0020,006e,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ten.","0074,0065,006e,002e","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ſeite ","017f,0065,0069,0074,0065,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"t","0074","i","0069","misrecognised","3"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"u","0075","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"er","0065,0072","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"⸗","2e17"," ","0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"e","0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"",""," 
+9 — 
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"⸗","2e17",". ","002e,0020","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"o","006f","r","0072","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ö","00f6","uͤ","0075,0364","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ei","0065,0069","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ennen l","0065,006e,006e,0065,006e,0020,006c","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,," Nordwe","0020,004e,006f,0072,0064,0077,0065","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ri","0072,0069","","","none","2"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ind ","0069,006e,0064,0020","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"z","007a","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"nä","006e,00e4,f502",". A","002e,0020,0041","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"B","0042","S","0053","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"c","0063","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","","cc ſ","0063,0063,0020,017f","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"w","0077","m","006d","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"gen Na","0067,0065,006e,0020,004e,0061","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"a","0061,eba6","eſ","0065,017f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ſ","017f,f502","jch","006a,0063,0068","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"f","0066","ſ","017f","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"a","0061","e","0065","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"s","0073","","","miss","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"","","i","0069","false detection","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"e","0065","t","0074","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"her ü","0068,0065,0072,0020,00fc","u","0075","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"
+er","000a,0065,0072","","","none","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"ſ","017f","l","006c","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"t","f502,0074","chi","0063,0068,0069","misrecognised","1"
+/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/TextEval_1.5/rest/00682991-00232285.gt4hist.xml.txt,,,,"",""," 8 ","0020,0038,0020","false detection","1"

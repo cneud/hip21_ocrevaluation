@@ -1,0 +1,2 @@
+groundTruth,result,wordsInGroundTruthExclStopWords,wordsInResultExclStopWords,wordAccuracyExclStopWords,wordsInGroundTruth,wordsInResult,wordAccuracy
+/home/cnd/tmp/dev/ocr_eval_paper/enp/00675314.gt.xml.txt,/home/cnd/tmp/dev/ocr_eval_paper/enp/00675314-00231263.est.xml.txt,"2033","2052","0.20708312838170193","2033","2052","0.20708312838170193"
