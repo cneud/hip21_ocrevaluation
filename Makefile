@@ -1,8 +1,8 @@
 PY = python3
 SHELL = zsh
-FILTER = $(PY) scripts/filter_results.py
-PARSER = $(PY) scripts/parse_results.py
-WRITER = $(PY) scripts/join_results.py
+FILTER = hip21-ocrevaluation list
+PARSER = hip21-ocrevaluation parse
+WRITER = hip21-ocrevaluation join
 
 # Set to --excel to output Excel instead of CSV
 WRITER_OPTIONS = --csv
@@ -10,25 +10,25 @@ WRITER_OPTIONS = --csv
 RM = rm -f
 
 TEMP_CSV =  \
-	temp/enp/ocrevalCER.csv \
-	temp/enp/ocrevalWER.csv \
-	temp/impact/ocrevalCER.csv \
-	temp/impact/ocrevalWER.csv \
-	temp/enp/conf.csv \
-	temp/impact/conf.csv \
-	temp/enp/dinglehopper.csv \
-	temp/impact/dinglehopper.csv \
-	temp/impact/ocrevalUAtion.csv \
-	temp/enp/ocrevalUAtion.csv \
-	temp/enp/LayoutEval.csv \
-	temp/impact/LayoutEval.csv \
-	temp/impact/primaCER.csv \
-	temp/impact/primaWER.csv \
-	temp/impact/primaFCER.csv \
-	temp/impact/primaBoW.csv \
-	temp/enp/primaCER.csv \
-	temp/enp/primaBoW.csv \
-	temp/enp/primaWER.csv \
+	temp/enp.ocrevalCER.csv \
+	temp/enp.ocrevalWER.csv \
+	temp/impact.ocrevalCER.csv \
+	temp/impact.ocrevalWER.csv \
+	temp/enp.conf.csv \
+	temp/impact.conf.csv \
+	temp/enp.dinglehopper.csv \
+	temp/impact.dinglehopper.csv \
+	temp/impact.ocrevalUAtion.csv \
+	temp/enp.ocrevalUAtion.csv \
+	temp/enp.LayoutEval.csv \
+	temp/impact.LayoutEval.csv \
+	temp/impact.primaCER.csv \
+	temp/impact.primaWER.csv \
+	temp/impact.primaFCER.csv \
+	temp/impact.primaBoW.csv \
+	temp/enp.primaCER.csv \
+	temp/enp.primaBoW.csv \
+	temp/enp.primaWER.csv \
 	#temp/texteval-enp-fcer/csv \
 
 # BEGIN-EVAL makefile-parser --make-help Makefile
@@ -37,7 +37,7 @@ help:
 	@echo ""
 	@echo "  Targets"
 	@echo ""
-	@echo "    csv    Build all the CSV"
+	@echo "    temp    Build all the CSV"
 	@echo "    excel  Build big excel table"
 	@echo ""
 	@echo "  Variables"
@@ -46,46 +46,50 @@ help:
 
 # END-EVAL
 
-# Build all the CSV
-csv: $(CSV_IN)
+# Install the script with pip
+install:
+	pip install .
 
-temp/enp/ocrevalCER.csv:
+# Build all the intermediate CSV
+temp: $(TEMP_CSV)
+
+temp/enp.ocrevalCER.csv:
 	$(PARSER) ocrevalCER $@ $$($(FILTER) enp ocrevalCER)
-temp/impact/ocrevalCER.csv:
+temp/impact.ocrevalCER.csv:
 	$(PARSER) ocrevalCER $@ $$($(FILTER) impact ocrevalCER)
 
-temp/enp/ocrevalWER.csv:
+temp/enp.ocrevalWER.csv:
 	$(PARSER) ocrevalWER $@ $$($(FILTER) enp ocrevalWER)
-temp/impact/ocrevalWER.csv:
+temp/impact.ocrevalWER.csv:
 	$(PARSER) ocrevalWER $@ $$($(FILTER) impact ocrevalWER)
 
-temp/enp/dinglehopper.csv:
+temp/enp.dinglehopper.csv:
 	$(PARSER) dinglehopper $@ $$($(FILTER) enp dinglehopper)
-temp/impact/dinglehopper.csv:
+temp/impact.dinglehopper.csv:
 	$(PARSER) dinglehopper $@ $$($(FILTER) impact dinglehopper)
 
-temp/impact/ocrevalUAtion.csv:
+temp/impact.ocrevalUAtion.csv:
 	$(PARSER) ocrevalUAtion $@ $$($(FILTER) impact ocrevalUAtion)
-temp/enp/ocrevalUAtion.csv:
+temp/enp.ocrevalUAtion.csv:
 	$(PARSER) ocrevalUAtion $@ $$($(FILTER) enp ocrevalUAtion)
 
-temp/impact/conf.csv:
+temp/impact.conf.csv:
 	$(PARSER) conf $@ $$($(FILTER) impact conf)
-temp/enp/conf.csv:
+temp/enp.conf.csv:
 	$(PARSER) conf $@ $$($(FILTER) enp conf)
 
-temp/impact/LayoutEval.csv:
+temp/impact.LayoutEval.csv:
 	$(PARSER) LayoutEval $@ $$($(FILTER) enp LayoutEval)
-temp/enp/LayoutEval.csv:
+temp/enp.LayoutEval.csv:
 	$(PARSER) LayoutEval $@ $$($(FILTER) enp LayoutEval)
 
-temp/impact/primaCER.csv:
+temp/impact.primaCER.csv:
 	$(PARSER) texteval $@ CER prima-texteval/impact.primaCER.csv
-temp/impact/primaFCER.csv:
+temp/impact.primaFCER.csv:
 	$(PARSER) texteval $@ FCER prima-texteval/impact.primaFCER.csv
-temp/impact/primaWER.csv:
+temp/impact.primaWER.csv:
 	$(PARSER) texteval $@ WER prima-texteval/impact.primaWER.csv
-temp/impact/primaBoW.csv:
+temp/impact.primaBoW.csv:
 	$(PARSER) texteval $@ BoW prima-texteval/impact.primaBoW.csv
 
 # TODO
@@ -99,15 +103,13 @@ temp/impact/primaBoW.csv:
 	#$(PARSER) texteval --dataset-prefix enp --first-only $@ FCER eval/prima_texteval/*primaFCER.csv eval/prima_texteval/texteval/*primaBoW.csv eval-enp-missing/*primaBoW*
 
 clean:
-	$(RM) csv/*.csv
-	$(RM) eval.xlsx*
+	$(RM) temp
+	$(RM) eval.csv*
 
 # Build big excel table
 excel:
 	$(PY) $(WRITER) $(WRITER_OPTIONS) eval.xlsx > invalid-values.txt
 
-missing-evals:
-	$(PY) find_missing_evals.py > missing_evals.log
-
-dummy-oom-data:
-	bash ./generate-prima-oom-dummy-csv.sh
+# TODO
+#dummy-oom-data:
+	#bash ./generate-prima-oom-dummy-csv.sh
