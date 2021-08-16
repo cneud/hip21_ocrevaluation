@@ -7,28 +7,29 @@ WRITER = hip21-ocrevaluation join
 # Set to --excel to output Excel instead of CSV
 WRITER_OPTIONS = --csv
 
-RM = rm -f
+RM = rm -rf
 
 TEMP_CSV =  \
-	temp/enp.ocrevalCER.csv \
-	temp/enp.ocrevalWER.csv \
-	temp/impact.ocrevalCER.csv \
-	temp/impact.ocrevalWER.csv \
 	temp/enp.conf.csv \
-	temp/impact.conf.csv \
 	temp/enp.dinglehopper.csv \
-	temp/impact.dinglehopper.csv \
-	temp/impact.ocrevalUAtion.csv \
+	temp/enp.ocrevalCER.csv \
 	temp/enp.ocrevalUAtion.csv \
-	temp/enp.LayoutEval.csv \
-	temp/impact.LayoutEval.csv \
-	temp/impact.primaCER.csv \
-	temp/impact.primaWER.csv \
-	temp/impact.primaFCER.csv \
+	temp/enp.ocrevalWER.csv \
+	temp/impact.conf.csv \
+	temp/impact.dinglehopper.csv \
+	temp/impact.ocrevalCER.csv \
+	temp/impact.ocrevalUAtion.csv \
+	temp/impact.ocrevalWER.csv \
 	temp/impact.primaBoW.csv \
-	temp/enp.primaCER.csv \
-	temp/enp.primaBoW.csv \
-	temp/enp.primaWER.csv \
+	temp/impact.primaCER.csv \
+	temp/impact.primaFCER.csv \
+	temp/impact.primaWER.csv \
+	# TODO
+	#temp/enp.primaBoW.csv \
+	#temp/enp.primaCER.csv \
+	#temp/enp.primaWER.csv \
+	#temp/enp.LayoutEval.csv \
+	#temp/impact.LayoutEval.csv \
 	#temp/texteval-enp-fcer/csv \
 
 # BEGIN-EVAL makefile-parser --make-help Makefile
@@ -83,6 +84,15 @@ temp/impact.LayoutEval.csv:
 temp/enp.LayoutEval.csv:
 	$(PARSER) LayoutEval $@ $$($(FILTER) enp LayoutEval)
 
+temp/enp.primaCER.csv:
+	$(PARSER) texteval $@ CER $$($(FILTER) enp primaCER)
+temp/enp.primaFCER.csv:
+	$(PARSER) texteval $@ CER $$($(FILTER) enp primaFCER)
+temp/enp.primaWER.csv:
+	$(PARSER) texteval $@ CER $$($(FILTER) enp primaWER)
+temp/enp.primaBoW.csv:
+	$(PARSER) texteval $@ CER $$($(FILTER) enp primaBoW)
+
 temp/impact.primaCER.csv:
 	$(PARSER) texteval $@ CER prima-texteval/impact.primaCER.csv
 temp/impact.primaFCER.csv:
@@ -104,7 +114,7 @@ temp/impact.primaBoW.csv:
 
 clean:
 	$(RM) temp
-	$(RM) eval.csv*
+	mkdir temp
 
 # Build big excel table
 excel:
